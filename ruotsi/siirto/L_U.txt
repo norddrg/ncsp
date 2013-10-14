@@ -1,0 +1,845 @@
+
+###
+#KOODI_L    U
+#MUUT_PVM   2009/07/22
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminal diagnostisk endoskopi via naturliga kroppsöppningar (eller redan anlagda stomier)
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy
+###
+#KOODI_R    UD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminala endoskopier av öron, näsa, svalg och struphuvud
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy of ear, nose and larynx
+###
+#KOODI      UDH02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rinofaryngoskopi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkluderar även rinoskopi
+#OHJE_R 
+---
+###
+#KOODI      UDH05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rinofaryngoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkluderar även rinoskopi med biopsi
+#OHJE_R 
+---
+###
+#KOODI      UDM02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sinoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UDM05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sinoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UDQ02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Direkt laryngoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UDQ05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Direkt laryngoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UDQ12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel laryngoskopi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utan stroboskopi
+#OHJE_R 
+---
+###
+#KOODI      UDQ15 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel laryngoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UDQ22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrolaryngoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UDQ25 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrolaryngoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    UE
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminala endoskopier av mund och svalg
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy of mouth and pharynx
+###
+#KOODI      UEL02 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sialoskopi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Endoskopisk undersökning av spottkörtelgång
+#OHJE_R 
+---
+###
+#KOODI      UEL05 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sialoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UEN02 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Orofaryngoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UEN05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Orofaryngoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UEN12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hypofaryngoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UEN15 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hypofaryngoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    UG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminala endoskopier av pleurahåla, trakea och bronker
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy of trachea, bronchus and pleura
+###
+#KOODI      UGA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopi genom pleurokutant fönster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGA05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopi genom pleurokutant fönster med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGB02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGB05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rigid bronkoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGC05 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rigid bronkoskopi med biopsi från bronk eller trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGC08 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rigid bronkoskopi med biopsi från lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel bronkoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGC15 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel bronkoskopi med biopsi från bronk eller trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UGC18 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel bronkoskopi med biopsi från lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    UJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminala endoskopier av gastrointestinalkanalen
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy of gastrointestinal tract
+###
+#KOODI_A    UJC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Esofagoskopier
+#RUOTSI     ---
+#ENGL       Oesophagoscopy
+###
+#KOODI      UJC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rigid esofagoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJC05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rigid esofagoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel esofagoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJC15 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel esofagoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    UJD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Gastroskopier
+#RUOTSI     ---
+#ENGL       Gastroscopy
+###
+#KOODI      UJD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJD05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    UJF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Jejunoskopi/ileoskopi och kolonoskopi
+#RUOTSI     ---
+#ENGL       Enteroscopy and coloscopy
+###
+#KOODI      UJF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral enteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral enteroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enteroskopi via stomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive undersökning av reservoar
+#OHJE_R 
+---
+###
+#KOODI      UJF15 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enteroskopi med biopsi via stomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive biopsi av reservoar
+#OHJE_R 
+---
+###
+#KOODI      UJF22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ enteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF25 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ enteroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koloskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF35 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koloskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF42 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel sigmoideoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flexibel sigmoideoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF52 
+#MUUT_PVM   1996/11/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopi av bäckenreservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF55 
+#MUUT_PVM   1996/11/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopi av bäckenreservoar med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF82 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peranal enteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJF85 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peranal enteroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJG02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rektoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJG05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rektoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJH02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proktoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    UJK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Endoskopiska och radiologiska undersökningar av gallvägarna och pankreasgångarna
+#RUOTSI     ---
+#ENGL       Endoscopic and radiolocal examination of biliary tract and pancreatic duct
+###
+#KOODI      UJK02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      ERCP
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive ERCP med papillotomi
+#OHJE_R 
+---
+###
+#KOODI      UJK05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      ERCP med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral kolangioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK15 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral kolangioskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Antegrad kolangioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK25 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Antegrad kolangioskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Antegrad kolecystoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK35 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Antegrad kolecystoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK42 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral pankreatikoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJK45 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral pankreatikoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UJX00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kapselendoskopi av tunntarmen
+#RUOTSI     Kapselenteroskopi
+#LYHENNE    
+#OHJE_S  
+Endoskopi av tunntarm via nedsvald kapsel som fungerar som kamera. Wireless endoscopy. Ersätter fr.o.m. 2010-01-01 den tidigare koden AJ018 Kapselenterskopi
+#OHJE_R 
+---
+###
+#KOODI_R    UK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminala endoskopier av urinvägarna
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy of urinary tract
+###
+#KOODI      UKA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteropyeloskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKA05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteropyeloskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKB02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKB05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKB12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd endoskopi av kutan ureteroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKB15 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd endoskopi av kutan ureteroenterostomi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoskopi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive cystouretroskopi
+#OHJE_R 
+---
+###
+#KOODI      UKC05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKC12 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd endoskopi av kutan cystoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKC15 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd endoskopi av kutan cystoenterostomi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKC22 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretroneocystoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKC25 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretroneocystoskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      UKD05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    UL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transluminala endoskopier av kvinnliga genitalia
+#RUOTSI     ---
+#ENGL       Transluminal endoscopy of female genital tract
+###
+#KOODI      ULB02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Falloposkopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ULB05 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Falloposkopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ULC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ULC05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ULC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrohysteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ULC15 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrohysteroskopi med biopsi
+#RUOTSI     ---
+#LYHENNE    

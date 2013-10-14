@@ -1,0 +1,10905 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU A
+
+@LUVUT_S = KAPITEL A
+
+@SUOMI_L = Hermoston toimenpiteet
+
+@RUOTSI_L = Åtgärder på nervsystemet
+
+@ENGL_L = Nervous system procedures
+
+@END_L = 
+
+@KOODI_R = AA
+
+@SUOMI_R = Kallonsisäisten elinten toimenpiteet
+
+@RUOTSI_R = Åtgärder på intrakraniella strukturer
+
+@ENGL_R = Skull and intracranial structures
+
+@END = 
+
+@KOODI_A = AA1
+
+@SUOMI_A = Pään radiologiset toimenpiteet
+
+@RUOTSI_A = Radiologiska åtgärder för huvudet
+
+@ENGL_A = Radiological procedures of head
+
+@END = 
+
+@KOODI = AA1AA 
+
+@SUOMI = Kallon natiiviröntgen
+
+@RUOTSI = Skalle, röntgen
+
+@END = 
+
+@KOODI = AA1AD 
+
+@SUOMI = Pään natiivi-TT
+
+@RUOTSI = DT av skalle och hjärna utan kontrast
+
+@END = 
+
+@KOODI = AA1AF 
+
+@SUOMI = Pään suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärnan, kontrollundersökning med mellanfältsmagnet
+
+@NOTE_F = Esim. sunttilaitteen kontrollitutkimus
+
+@END = 
+
+@KOODI = AA1AG 
+
+@SUOMI = Pään suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR kontrollundersökning av hjärnan med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1BA 
+
+@SUOMI = Kallon laaja natiiviröntgen
+
+@RUOTSI = Skalle, omfattande röntgen
+
+@END = 
+
+@KOODI = AA1BD 
+
+@SUOMI = Pään varjoaine-TT
+
+@RUOTSI = DT av skalle och hjärna med kontrast
+
+@END = 
+
+@KOODI = AA1BF 
+
+@SUOMI = Pään magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärnan med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA1BG 
+
+@SUOMI = Pään magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärnan med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1CD 
+
+@SUOMI = Pään natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av skalle och hjärna utan och med kontrast
+
+@END = 
+
+@KOODI = AA1CF 
+
+@SUOMI = Pään laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärnan omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA1CG 
+
+@SUOMI = Pään laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärnan omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1DF 
+
+@SUOMI = Pään erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärnan speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA1DG 
+
+@SUOMI = Pään erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärnan speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1XD 
+
+@SUOMI = Pään muu TT
+
+@RUOTSI = DT av hjärnan (övrig)
+
+@END = 
+
+@KOODI = AA2AA 
+
+@SUOMI = Kallonpohjan natiiviröntgen *
+
+@RUOTSI = Skallbas, röntgen
+
+@END = 
+
+@KOODI = AA3AA 
+
+@SUOMI = Kasvonluiden natiiviröntgen *
+
+@RUOTSI = Ansiktsskelett, röntgen
+
+@END = 
+
+@KOODI_A = AA4
+
+@SUOMI_A = Sähköshokki
+
+@RUOTSI_A = Elektrisk shock
+
+@END = 
+
+@KOODI = AA4AA 
+
+@SUOMI = Sellan natiiviröntgen *
+
+@RUOTSI = Sella turcica, röntgen
+
+@END = 
+
+@KOODI = AA4AD 
+
+@SUOMI = Sellan natiivi-TT
+
+@RUOTSI = DT av sella utan kontrast
+
+@END = 
+
+@KOODI = AA4BD 
+
+@SUOMI = Sellan varjoaine-TT
+
+@RUOTSI = DT av sella med kontrast
+
+@END = 
+
+@KOODI = AA4BF 
+
+@SUOMI = Sellan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av sella med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA4BG 
+
+@SUOMI = Sellan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av sella med högfältsmagnet
+
+@END = 
+
+@KOODI = AA4CD 
+
+@SUOMI = Sellan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av sella utan och med kontrast
+
+@END = 
+
+@KOODI = AA4WT 
+
+@SUOMI = Selektiivinen verinäytteen otto sinus petrosus inferiorista
+
+@RUOTSI = Selektivt blodprov från sinus petrosus
+
+@END = 
+
+@KOODI = AA4XD 
+
+@SUOMI = Sellan muu TT
+
+@RUOTSI = DT av sella (övrig)
+
+@END = 
+
+@KOODI = AA5AE 
+
+@SUOMI = Intrakraniaalitilan UÄ
+
+@RUOTSI = UL inrakraniellt
+
+@END = 
+
+@KOODI = AA5AK 
+
+@SUOMI = Aivojen spektroskopia
+
+@RUOTSI = Spektroskopi av hjärnan
+
+@END = 
+
+@KOODI = AA5AL 
+
+@SUOMI = Aivojen magneettikenttämittaus (magnetoenkefalografia, MEG)
+
+@RUOTSI = Magnetencefalografi MEG
+
+@END = 
+
+@KOODI = AA5FG 
+
+@SUOMI = Aivojen toiminnallinen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Funktionell MR av hjärnan med högfältsmagnet
+
+@END = 
+
+@KOODI = AA5GG 
+
+@SUOMI = Aivojen laaja toiminnallinen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Funktionell MR av hjärnan med högfältsmagnet, omfattande
+
+@END = 
+
+@KOODI = AA5HE 
+
+@SUOMI = Lapsen aivojen UÄ
+
+@RUOTSI = UL av hjärnan hos barn
+
+@END = 
+
+@KOODI = AA5HG 
+
+@SUOMI = Aivojen erittäin laaja toiminnallinen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Funktionell MR av hjärnan med högfältsmagnet, mycket omfattande
+
+@END = 
+
+@KOODI = AA6AA 
+
+@SUOMI = Kallon saumojen natiiviröntgen *
+
+@RUOTSI = Skallens suturer, röntgen
+
+@END = 
+
+@KOODI = AA6AD 
+
+@SUOMI = Kallon saumojen natiivi TT
+
+@RUOTSI = DT av skallens suturer utan kontrast
+
+@END = 
+
+@KOODI = AA7AA 
+
+@SUOMI = Aivonesteyhdystien ja laitteiston natiiviröntgen (sunttirtg)
+
+@RUOTSI = Likvorshunt, röntgen
+
+@END = 
+
+@KOODI = AA7EB 
+
+@SUOMI = Aivokammiosuntin varjoainetutkimus (suntin valvulografia)
+
+@RUOTSI = Valvulografi (shuntundersökning)
+
+@END = 
+
+@KOODI = AA8DD 
+
+@SUOMI = Aivosisternojen TT röntgenpositiivisella varjoaineella
+
+@RUOTSI = DT-cisternografi med rtg-positiv kontrast
+
+@END = 
+
+@KOODI = AA8ED 
+
+@SUOMI = Aivosisternojen TT röntgennegatiivisella varjoaineella
+
+@RUOTSI = DT-cisternografi med rtg-negativ kontrast
+
+@END = 
+
+@KOODI = AA9XE 
+
+@SUOMI = Keskushermoston muu UÄ
+
+@RUOTSI = UL av CNS (övrig)
+
+@END = 
+
+@KOODI_R = AB
+
+@SUOMI_R = Selkäytimen ja hermojuurien toimenpiteet
+
+@RUOTSI_R = Åtgärder på ryggmärg och nervrötter
+
+@ENGL_R = Spinal cord and nerve roots
+
+@END = 
+
+@KOODI = AB1CB 
+
+@SUOMI = Kaularangan selkäydinkanavan varjoainetutkimus (myelografia)
+
+@RUOTSI = Myelografi av halsryggraden
+
+@END = 
+
+@KOODI = AB2CB 
+
+@SUOMI = Rintarangan selkäydinkanavan varjoainetutkimus (myelografia)
+
+@RUOTSI = Myelografi av bröstryggraden
+
+@END = 
+
+@KOODI = AB3CB 
+
+@SUOMI = Lannerangan selkäydinkanavan varjoainetutkimus (myelografia)
+
+@RUOTSI = Myelografi av ländryggraden
+
+@END = 
+
+@KOODI = AB4AE 
+
+@SUOMI = Selkäydinkanavan UÄ
+
+@RUOTSI = UL av spinalkanalen
+
+@END = 
+
+@KOODI = AB4AT 
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av spinalvätska
+
+@END = 
+
+@KOODI = AB4BT 
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av spinalvätska
+
+@END = 
+
+@KOODI = AB4CB 
+
+@SUOMI = Selkäydinkanavan yhtäaikainen useamman alueen varjoainetutkimus
+
+@RUOTSI = Myelografi, samtidigt av flera ryggradssegment
+
+@END = 
+
+@KOODI = AB4CT 
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av spinalvätska
+
+@END = 
+
+@KOODI = AB4DT 
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi magneettiohjauksessa
+
+@RUOTSI = MR-styrt dränage av spinalvätska
+
+@END = 
+
+@KOODI = AB4FT 
+
+@SUOMI = Aivo-selkäydinnestekatetrin vaihto
+
+@RUOTSI = Utbyte av spinalkateter
+
+@END = 
+
+@KOODI = AB4LB 
+
+@SUOMI = Selkäydinkanavan tai epiduraalitilan katetrin paikan tarkastus
+
+@RUOTSI = Kranskning av kateter i spinal eller epdural utrymme
+
+@END = 
+
+@KOODI = AB4XB 
+
+@SUOMI = Selkäydinkanavan muu varjoainetutkimus
+
+@RUOTSI = Övrig kontrastunderökning av spinalkanalen
+
+@END = 
+
+@KOODI = AB5BT 
+
+@SUOMI = Hermojuuren salpaus läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd blockad av nervrötter
+
+@END = 
+
+@KOODI_R = AC
+
+@SUOMI_R = Ääreishermojen toimenpiteet
+
+@RUOTSI_R = Åtgärder på perifera nerver
+
+@ENGL_R = Peripheral nerves
+
+@NOTE_RF = Ääreishermon salpaus, blokadi TAC 00
+
+@NOTE_RS = Blockad av perifer nerv, se TAC00
+
+@END = 
+
+@KOODI = AC1AT 
+
+@SUOMI = Hermon salpaus UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd nervblockad
+
+@END = 
+
+@KOODI = AC1BT 
+
+@SUOMI = Hermon salpaus läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd nervblockad
+
+@END = 
+
+@KOODI = AC1CT 
+
+@SUOMI = Hermon salpaus TT-ohjauksessa
+
+@RUOTSI = DT-styrd nervblockad
+
+@END = 
+
+@KOODI = AC1DT 
+
+@SUOMI = Hermon salpaus magneettiohjauksessa
+
+@RUOTSI = MR-styrd nervblockad
+
+@END = 
+
+@KOODI = AX1XD 
+
+@SUOMI = Pään muu TT
+
+@RUOTSI = DT av huvudet (övrig)
+
+@END = 
+
+@LUVUT = LUKU B
+
+@LUVUT_S = KAPITEL B
+
+@SUOMI_L = Umpierityselimien toimenpiteet
+
+@RUOTSI_L = Åtgärder på endokrina organ
+
+@ENGL_L = Endocrine system procedures
+
+@END_L = 
+
+@KOODI = BA1AE 
+
+@SUOMI = Kilpirauhasen UÄ *
+
+@RUOTSI = UL av sköldkörteln
+
+@END = 
+
+@KOODI = BA2AT 
+
+@SUOMI = Kilpirauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av sköldkörteln
+
+@END = 
+
+@KOODI = BA3AT 
+
+@SUOMI = Kilpirauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av sköldkörteln
+
+@END = 
+
+@KOODI = BA4KT 
+
+@SUOMI = Kilpirauhasen skleroterapia
+
+@RUOTSI = Skleroterapi av sköldkörteln
+
+@END = 
+
+@KOODI = BB1AE 
+
+@SUOMI = Lisäkilpirauhasten UÄ
+
+@RUOTSI = UL av bisköldkörtlar
+
+@END = 
+
+@KOODI = BB2AT 
+
+@SUOMI = Lisäkilpirauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av bisköldkörtel
+
+@END = 
+
+@KOODI = BB3AT 
+
+@SUOMI = Lisäkilpirauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av bisköldkörtel
+
+@END = 
+
+@KOODI = BB4WT 
+
+@SUOMI = Lisäkilpirauhasen selektiivinen verinäytteen otto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt selektivt blodprov från bisköldkörtel
+
+@END = 
+
+@KOODI = BC1AD 
+
+@SUOMI = Lisämunuaisten natiivi-TT
+
+@RUOTSI = DT av binjurar utan kontrast
+
+@END = 
+
+@KOODI = BC1AE 
+
+@SUOMI = Lisämunuaisten UÄ *
+
+@RUOTSI = UL av binjurar
+
+@END = 
+
+@KOODI = BC1BD 
+
+@SUOMI = Lisämunuaisten varjoaine-TT
+
+@RUOTSI = DT av binjurar med kontrast
+
+@END = 
+
+@KOODI = BC1CD 
+
+@SUOMI = Lisämunuaisten natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av binjurar utan och med kontrast
+
+@END = 
+
+@KOODI = BC1XD 
+
+@SUOMI = Lisämunuaisten muu TT
+
+@RUOTSI = DT av binjurar (övrig)
+
+@END = 
+
+@KOODI = BC2AT 
+
+@SUOMI = Lisämunuaisen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi från binjure
+
+@END = 
+
+@KOODI = BC2CT 
+
+@SUOMI = Lisämunuaisen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd biopsi från binjure
+
+@END = 
+
+@KOODI = BC2DT 
+
+@SUOMI = Lisämunuaisen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd biopsi från binjure
+
+@END = 
+
+@KOODI = BC3AT 
+
+@SUOMI = Lisämunuaisen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från binjure
+
+@END = 
+
+@KOODI = BC3CT 
+
+@SUOMI = Lisämunuaisen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi från binjure
+
+@END = 
+
+@KOODI = BC3DT 
+
+@SUOMI = Lisämunuaisen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi från binjure
+
+@END = 
+
+@KOODI = BC4WT 
+
+@SUOMI = Lisämunuaisen selektiivinen verinäytteen otto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt selektivt blodprov från binjure
+
+@END = 
+
+@LUVUT = LUKU C
+
+@LUVUT_S = KAPITEL C
+
+@SUOMI_L = Silmän alueen toimenpiteet ja erikoistutkimukset
+
+@RUOTSI_L = Åtgärder och speciella undersökningar i ögonregionen
+
+@ENGL_L = Eye and adjacent structures procedures
+
+@END_L = 
+
+@KOODI_R = DA
+
+@SUOMI_R = Ulkokorvan toimenpiteet
+
+@RUOTSI_R = Åtgärder på ytterörat
+
+@ENGL_R = Auricle
+
+@NOTE_RF = Koepalat pään ihosta luvussa Q
+
+@NOTE_RS = Biopsi av huvudets hud, se Q
+
+@END = 
+
+@KOODI = CA1AA 
+
+@SUOMI = Silmäkuopan ja näköhermon luukanavan natiiviröntgen
+
+@RUOTSI = Orbita och optikuskanal, röntgen
+
+@END = 
+
+@KOODI = CA1AD 
+
+@SUOMI = Silmäkuopan natiivi-TT
+
+@RUOTSI = DT av orbita utan kontrast
+
+@END = 
+
+@KOODI = CA1AE 
+
+@SUOMI = Silmän ja silmäkuopan UÄ
+
+@RUOTSI = UL av orbita
+
+@END = 
+
+@KOODI = CA1BD 
+
+@SUOMI = Silmäkuopan varjoaine-TT
+
+@RUOTSI = DT av orbita med kontrast
+
+@END = 
+
+@KOODI = CA1BF 
+
+@SUOMI = Silmän ja silmäkuopan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av ögonen och orbita med mellanfältsmagnet
+
+@END = 
+
+@KOODI = CA1BG 
+
+@SUOMI = Silmän ja silmäkuopan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ögonen och orbita med högfältsmagnet
+
+@END = 
+
+@KOODI = CA1CD 
+
+@SUOMI = Silmäkuopan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av orbita utan och med kontrast
+
+@END = 
+
+@KOODI = CA1EA 
+
+@SUOMI = Silmän vierasesineen paikannus röntgenillä
+
+@RUOTSI = Lokalisation av främmande kropp i orbita, röntgen
+
+@END = 
+
+@KOODI = CA1ME 
+
+@SUOMI = Silmän mittaus UÄ:llä (oculometria)
+
+@RUOTSI = UL av ögonen, okulometri
+
+@END = 
+
+@KOODI = CA1XD 
+
+@SUOMI = Silmäkuopan muu TT
+
+@RUOTSI = DT av orbita (övrig)
+
+@END = 
+
+@KOODI_R = DA
+
+@SUOMI_R = Ulkokorvan toimenpiteet
+
+@RUOTSI_R = Åtgärder på ytterörat
+
+@ENGL_R = Auricle
+
+@NOTE_RF = Koepalat pään ihosta luvussa Q
+
+@NOTE_RS = Biopsi av huvudets hud, se Q
+
+@END = 
+
+@KOODI = CC1AE 
+
+@SUOMI = Kyynelteiden UÄ
+
+@RUOTSI = UL av tårkanal
+
+@END = 
+
+@KOODI = CC1CB 
+
+@SUOMI = Kyyneltien varjoainetutkimus (dakryokystografia)
+
+@RUOTSI = Dakryocystografi (kontrastundersökning av tårkanalen)
+
+@END = 
+
+@KOODI_R = DA
+
+@SUOMI_R = Ulkokorvan toimenpiteet
+
+@RUOTSI_R = Åtgärder på ytterörat
+
+@ENGL_R = Auricle
+
+@NOTE_RF = Koepalat pään ihosta luvussa Q
+
+@NOTE_RS = Biopsi av huvudets hud, se Q
+
+@END = 
+
+@KOODI = CD1AE 
+
+@SUOMI = Silmän muu UÄ
+
+@RUOTSI = UL av ögonen (övrig)
+
+@END = 
+
+@LUVUT = LUKU D
+
+@LUVUT_S = KAPITEL D
+
+@SUOMI_L = Korvan, nenän ja kurkunpään toimenpiteet
+
+@RUOTSI_L = Åtgärder på öron, näsa, hals och struphuvud
+
+@ENGL_L = Ear, nose and larynx procedures
+
+@END_L = 
+
+@KOODI_R = DC
+
+@SUOMI_R = Tärykalvon ja välikorvan toimenpiteet
+
+@RUOTSI_R = Operationer på trumhinnan och mellanörat
+
+@ENGL_R = Eardrum and middle ear
+
+@NOTE_RF = Tähystykset (mm. otomikroskopia) luvussa U
+
+@NOTE_RS = Skopier inkl otomikroskopi, se U
+
+@END = 
+
+@KOODI = DC1AA 
+
+@SUOMI = Korvan natiiviröntgen
+
+@RUOTSI = Temporalbenet, röntgen
+
+@END = 
+
+@KOODI = DC1AD 
+
+@SUOMI = Korvan natiivi-TT
+
+@RUOTSI = DT av temporalben utan kontrast
+
+@END = 
+
+@KOODI = DC1BA 
+
+@SUOMI = Korvan laaja natiiviröntgen
+
+@RUOTSI = Temporalbenet, omfattande röntgen
+
+@END = 
+
+@KOODI = DC1BD 
+
+@SUOMI = Korvan varjoaine-TT
+
+@RUOTSI = DT av temporalben med kontrast
+
+@END = 
+
+@KOODI = DC1CD 
+
+@SUOMI = Korvan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av temporalben utan och med kontrast
+
+@END = 
+
+@KOODI = DC1DA 
+
+@SUOMI = Korvien natiiviröntgen
+
+@RUOTSI = Temporalbenen, bilateral röntgen
+
+@END = 
+
+@KOODI = DC1XD 
+
+@SUOMI = Korvan muu TT
+
+@RUOTSI = DT av temporalben (övrig)
+
+@END = 
+
+@KOODI_R = DH
+
+@SUOMI_R = Nenän toimenpiteet
+
+@RUOTSI_R = Operationer på näsan (exkl septum)
+
+@ENGL_R = Nose
+
+@NOTE_RF = Nenän tähystykset luvussa U
+
+@NOTE_RS = Skopier, se U
+
+@END = 
+
+@KOODI = DE2AA 
+
+@SUOMI = Kuulohermon luukanavan natiiviröntgen (porusrtg)
+
+@RUOTSI = Porus acusticus, röntgen
+
+@END = 
+
+@KOODI = DE2BF 
+
+@SUOMI = Kuulohermon kanavan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av porus med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DE2BG 
+
+@SUOMI = Kuulohermon kanavan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av porus med högfältsmagnet
+
+@END = 
+
+@KOODI = DE3AA 
+
+@SUOMI = Puikkolisäkkeen natiiviröntgen
+
+@RUOTSI = Processus styloideus, röntgen
+
+@END = 
+
+@KOODI = DH1AA 
+
+@SUOMI = Nenän natiiviröntgen
+
+@RUOTSI = Näsbenet, röntgen
+
+@END = 
+
+@KOODI_R = DM
+
+@SUOMI_R = Poskionteloiden toimenpiteet
+
+@RUOTSI_R = Åtgärder på sinus maxillaris och överkäken
+
+@ENGL_R = Maxillary antrum and maxilla
+
+@END = 
+
+@KOODI = DM1AA 
+
+@SUOMI = Nenän sivuonteloiden natiiviröntgen
+
+@RUOTSI = Näsans bihålor, röntgen
+
+@END = 
+
+@KOODI = DM1AD 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen natiivi-TT
+
+@RUOTSI = DT av bihålor och ansiktsskelett utan kontrast
+
+@END = 
+
+@KOODI = DM1BD 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen varjoaine-TT
+
+@RUOTSI = DT av bihålor och ansiktsskelett med kontrast
+
+@END = 
+
+@KOODI = DM1BE 
+
+@SUOMI = Nenän sivuonteloiden UÄ
+
+@RUOTSI = UL av bihålor
+
+@END = 
+
+@KOODI = DM1BF 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bihålor och ansiktsskelett med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DM1BG 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bihålor och ansiktsskelett med högfältsmagnet
+
+@END = 
+
+@KOODI = DM1CD 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av bihålor och ansiktsskelett utan och med kontrast
+
+@END = 
+
+@KOODI = DM1CF 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bihålor och ansiktsskelett med mellanfältsmagnet, omfattande
+
+@END = 
+
+@KOODI = DM1CG 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bihålor och ansiktsskelett med högfältsmagnet, omfattande
+
+@END = 
+
+@KOODI = DM1DF 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen erittäin laaja magneettitutkimus keskikenttälait
+
+@RUOTSI = MR av bihålor och ansiktsskelett med mellanfältsmagnet, mycket omfattande
+
+@END = 
+
+@KOODI = DM1DG 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen erittäin laaja magneettitutkimus vahvakenttälait
+
+@RUOTSI = MR av bihålor och ansiktsskelett med högfältsmagnet, mycket omfattande
+
+@END = 
+
+@KOODI = DM1QA 
+
+@SUOMI = Nenän sivuonteloiden natiiviröntgen, yksi suunta (esimerkiksi kuutamokuva)
+
+@RUOTSI = Näsans bihålor, röntgen (t.ex. frontalbild i PA-projektion)
+
+@END = 
+
+@KOODI = DM1XD 
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen muu TT
+
+@RUOTSI = DT av bihålor och ansiktsskelett (övrig)
+
+@END = 
+
+@LUVUT = LUKU E
+
+@LUVUT_S = KAPITEL E
+
+@SUOMI_L = Huulten, hampaiden, leuan, suun ja nielun toimenpiteet
+
+@RUOTSI_L = Åtgärder i läppar, tänder, käkar, mun och svalg
+
+@ENGL_L = Teeth, jaws, mouth and pharynx procedures
+
+@NOTE_LF = Suun ja hampaiston konservatiiviset toimenpiteet, katso luku S
+
+@NOTE_LS = Konservativa åtgärder i  tänder och mun, se kapitel S
+
+@END_L = 
+
+@KOODI_R = EB
+
+@SUOMI_R = Hampaiston toimenpiteet
+
+@RUOTSI_R = Åtgärder i tänderna
+
+@ENGL_R = Teeth
+
+@NOTE_RF = Konservatiiviset toimenpiteet luvussa S ja T
+
+@NOTE_RS = Konservativa åtgärder se kapitel S och T
+
+@END = 
+
+@KOODI = EB1AA 
+
+@SUOMI = Hammasröntgen
+
+@RUOTSI = Tandröntgen
+
+@NOTE_S = Utan separat utlåtande
+
+@END = 
+
+@KOODI = EB1BA 
+
+@SUOMI = Hammasröntgen usealle filmille tai muu intraoraaliröntgen
+
+@RUOTSI = Tandröntgen omfattande flera bilder eller annan intraoral röntgenundersökning
+
+@END = 
+
+@KOODI = EB1CA 
+
+@SUOMI = Hammasröntgenin lisä- tai tarkistuskuvat
+
+@RUOTSI = Tilläggs- eller kontrollbilder
+
+@END = 
+
+@KOODI = EB1HA 
+
+@SUOMI = Hampaiston ja leuan panoraamatomografia tai muu yksinkertainen rakokuvaus
+
+@RUOTSI = Ortopantomografi eller annan enkel spaltröntgen av käkar och tänder
+
+@END = 
+
+@KOODI = EB1JA 
+
+@SUOMI = Hampaiston ja leuan kaksoispanoraamatomografia tai muu vaativa rakokuvaus
+
+@RUOTSI = Dubbel ortopantomografi eller annan krävande spaltröntgen av käkar och tänder
+
+@END = 
+
+@KOODI = EB1MA 
+
+@SUOMI = Kallonmittaus röntgenillä (kefalometria)
+
+@RUOTSI = Röntgenkefalometri
+
+@END = 
+
+@KOODI_R = ED
+
+@SUOMI_R = Alaleuan toimenpiteet
+
+@RUOTSI_R = Åtgärder i underkäken
+
+@ENGL_R = Mandible
+
+@NOTE_RF = Suunpohjan toimenpiteet kohdassa EJ
+
+@NOTE_RF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Åtgärder i munbotten se EJ
+
+@NOTE_RS =
+Punktion och nålbiopsi, se TE
+
+@END = 
+
+@KOODI = ED1AA 
+
+@SUOMI = Alaleuan natiiviröntgen
+
+@RUOTSI = Underkäken, röntgen
+
+@END = 
+
+@KOODI_R = EE
+
+@SUOMI_R = Yläleuan toimenpiteet
+
+@RUOTSI_R = Åtgärder i överkäken
+
+@ENGL_R = Maxilla
+
+@NOTE_RF = Poskiontelon leikkaukset kohdassa DM
+
+@NOTE_RF =
+Punktiot ja neulabiopsiat kohdassa TE
+
+@NOTE_RS = Operativa ingrepp på Sinus Maxillaris, se DM
+
+@NOTE_RS =
+Punktion och nålbiopsi, se TE
+
+@END = 
+
+@KOODI = EE1AA 
+
+@SUOMI = Yläleuan tai suulaen natiiviröntgen
+
+@RUOTSI = Överkäken eller gommen, röntgen
+
+@END = 
+
+@KOODI = EE1HA 
+
+@SUOMI = Leuan tomografia tai implanttikuvaus
+
+@RUOTSI = Tomografi av käkarna eller implantatröntgen
+
+@END = 
+
+@KOODI = EE1JA 
+
+@SUOMI = Leuan tomografia, laaja
+
+@RUOTSI = Omfattande tomografi av käken
+
+@END = 
+
+@KOODI_R = EG
+
+@SUOMI_R = Leukanivelien toimenpiteet
+
+@RUOTSI_R = Åtgärder i käklederna
+
+@ENGL_R = Mandibular joint
+
+@NOTE_RF = Punktiot ja neulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och nålbiopsi, se TE
+
+@END = 
+
+@KOODI = EG1AA 
+
+@SUOMI = Leukanivelten natiiviröntgen
+
+@RUOTSI = Käkleder, röntgen
+
+@END = 
+
+@KOODI = EG1BF 
+
+@SUOMI = Leukanivelten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av käkleder med mellanfältsmagnet
+
+@END = 
+
+@KOODI = EG1BG 
+
+@SUOMI = Leukanivelten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av käkleder med högfältsmagnet
+
+@END = 
+
+@KOODI = EG1CB 
+
+@SUOMI = Leukanivelen varjoainetutkimus (artrografia)
+
+@RUOTSI = Käkledsartrografi
+
+@END = 
+
+@KOODI = EG1CF 
+
+@SUOMI = Leukanivelten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av käkleder, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = EG1CG 
+
+@SUOMI = Leukanivelten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av käkleder, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = EG1DF 
+
+@SUOMI = Leukanivelten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av käkleder, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = EG1DG 
+
+@SUOMI = Leukanivelten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av käkleder, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI_R = EH
+
+@SUOMI_R = Suulaen toimenpiteet
+
+@RUOTSI_R = Åtgärder i gommen
+
+@ENGL_R = Palate
+
+@NOTE_RF = Punktiot ja neulabiopsiat, katso TE
+
+@NOTE_RF =
+
+
+@NOTE_RS = Punktion och punktionbiopsi, se TE
+
+@END = 
+
+@KOODI = EH1JB 
+
+@SUOMI = Suulaen funktiotutkimus
+
+@RUOTSI = Funktionsundersökning av gommen
+
+@NOTE_F = Siirteiden materiaali ilmoitetaan lisäkoodilla luvusta Z
+
+@NOTE_S = Transplantatmaterial anges med tilläggskod, se Z
+
+@END = 
+
+@KOODI = EH2BB 
+
+@SUOMI = Nenän ja nielun varjoainetutkimus (naso-faryngografia)
+
+@RUOTSI = Naso-faryngografi
+
+@END = 
+
+@KOODI_R = EL
+
+@SUOMI_R = Sylkirauhasten toimenpiteet
+
+@RUOTSI_R = Radiologiska åtgärder: salivkörtlarna
+
+@ENGL_R = Salivary glands
+
+@END = 
+
+@KOODI = EL1CB 
+
+@SUOMI = Korvasylkirauhastiehyen varjoainetutkimus (sialografia)
+
+@RUOTSI = Sialografi, gl. parotis
+
+@END = 
+
+@KOODI = EL2CB 
+
+@SUOMI = Leuanalussylkirauhastiehyen varjoainetutkimus (sialografia)
+
+@RUOTSI = Sialografi, gl.submandibularis
+
+@END = 
+
+@KOODI = EL3AA 
+
+@SUOMI = Sylkirauhasen natiiviröntgen
+
+@RUOTSI = Översikt av salivkörtel, röntgen
+
+@END = 
+
+@KOODI = EL3AE 
+
+@SUOMI = Sylkirauhasten UÄ *
+
+@RUOTSI = UL av salivkörtlar
+
+@END = 
+
+@KOODI = EL3AT 
+
+@SUOMI = Sylkirauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi från salivkörtel
+
+@END = 
+
+@KOODI = EL4AT 
+
+@SUOMI = Sylkirauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från spottkörtel
+
+@END = 
+
+@KOODI_R = EM
+
+@SUOMI_R = Nielurisojen ja kitarisan toimenpiteet
+
+@RUOTSI_R = Radiologiska åtgärder: tonsiller och adenoider
+
+@ENGL_R = Tonsils and adenoids
+
+@END = 
+
+@KOODI = EM1AA 
+
+@SUOMI = Kitarisaröntgen
+
+@RUOTSI = Epifarynx (adenoid), röntgen
+
+@END = 
+
+@KOODI_R = EN
+
+@SUOMI_R = Nielun ja ympäröivien pehmytkudoksien toimenpiteet
+
+@RUOTSI_R = Radiologiska åtgärder: farynx och närliggande mjukdelar
+
+@ENGL_R = Pharynx and adjacent structures
+
+@END = 
+
+@KOODI = EN1AD 
+
+@SUOMI = Suun ja kaulan pehmytosien natiivi-TT
+
+@RUOTSI = DT av munhåla och hals utan kontrast
+
+@END = 
+
+@KOODI = EN1BD 
+
+@SUOMI = Suun ja kaulan pehmytosien varjoaine-TT
+
+@RUOTSI = DT av munhåla och hals med kontrast
+
+@END = 
+
+@KOODI = EN1CD 
+
+@SUOMI = Suun ja kaulan pehmytosien natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av munhåla och hals utan och med kontrast
+
+@END = 
+
+@KOODI = EN1XD 
+
+@SUOMI = Suun ja kaulan pehmytosien muu TT
+
+@RUOTSI = DT av munhåla och hals (annan)
+
+@END = 
+
+@KOODI = EP1AE 
+
+@SUOMI = Kaulan UÄ
+
+@RUOTSI = UL av halsen
+
+@END = 
+
+@KOODI = EP1AT 
+
+@SUOMI = Kaulan pehmytkudosmuutoksen punktio UÄ-ohjauksessa
+
+@RUOTSI = Punktion av mjukdelar på halsen med UL-styrning
+
+@END = 
+
+@KOODI = EP1BF 
+
+@SUOMI = Kaulan pehmytosien magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsens mjukdelar med mellanfältsmagnet
+
+@END = 
+
+@KOODI = EP1BG 
+
+@SUOMI = Kaulan pehmytosien magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsens mjukdelar med högfältsmagnet
+
+@END = 
+
+@KOODI = EP1CF 
+
+@SUOMI = Kaulan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsens mjukdelar, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = EP1CG 
+
+@SUOMI = Kaulan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsens mjukdelar, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = EP1DF 
+
+@SUOMI = Kaulan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsens mjukdelar, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = EP1DG 
+
+@SUOMI = Kaulan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsens mjukdelar, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = EP2AT 
+
+@SUOMI = Kaulan pehmytkudosmuutoksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från halsens mjukdelar
+
+@END = 
+
+@KOODI = EP3AT 
+
+@SUOMI = Kaulan pehmytkudosmuutoksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi från halsens mjukdelar
+
+@END = 
+
+@LUVUT = LUKU F
+
+@LUVUT_S = KAPITEL F
+
+@SUOMI_L = Sydämen ja rintaontelon suonien toimenpiteet
+
+@RUOTSI_L = Åtgärder på hjärtat och de stora intratorakala kärlen
+
+@ENGL_L = Heart and major thoracic vessels procedures
+
+@NOTE_LF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TF
+
+@NOTE_LS = Punktion och punktionsbiopsi, se TF
+
+@END_L = 
+
+@KOODI_R = FA
+
+@SUOMI_R = Rintaontelon suurten laskimoiden toimenpiteet
+
+@RUOTSI_R = Åtgärder på stora intratorakala vener
+
+@ENGL_R = Major thoracic veins
+
+@END = 
+
+@KOODI = FA1AC 
+
+@SUOMI = Yläonttolaskimon varjoainetutkimus
+
+@RUOTSI = Kavografi, övre hålvenen
+
+@END = 
+
+@KOODI_A = FAC
+
+@SUOMI_A = Onttolaskimon poisto- ja korjausleikkaukset rintaontelossa
+
+@RUOTSI_A = Resektion, rekonstruktion och ligatur av intratorakala vena cava
+
+@ENGL_A = Resection, reconstruction or ligature of thoracic vena cava
+
+@END = 
+
+@KOODI = FAC22 
+
+@SUOMI = Yläonttolaskimon suonensisäinen angioplastia (PTA)
+
+@RUOTSI = Perkutan intravaskulär angioplasti av vena cava
+
+@END = 
+
+@KOODI = FAC25 
+
+@SUOMI = Yläonttolaskimon suonensisäinen angioplastia (PTA) ja stentin asennus
+
+@RUOTSI = Perkutan intravaskulär angioplasti med insertion av stent
+
+@END = 
+
+@KOODI_R = FB
+
+@SUOMI_R = Keuhkovaltimoiden toimenpiteet
+
+@RUOTSI_R = Åtgärder på arteria pulmonalis och dess grenar
+
+@ENGL_R = Pulmonary artery with branches
+
+@END = 
+
+@KOODI = FB1AC 
+
+@SUOMI = Keuhkovaltimoiden varjoainetutkimus
+
+@RUOTSI = Pulmonal angiografi
+
+@END = 
+
+@KOODI = FB1BC 
+
+@SUOMI = Keuhkovaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Pulmonal angiografi, omfattande
+
+@END = 
+
+@KOODI = FB1BD 
+
+@SUOMI = Keuhkoembolian TT
+
+@RUOTSI = DT av lungkärlen
+
+@END = 
+
+@KOODI = FB1BF 
+
+@SUOMI = Keuhkovaltimon magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av lungartär med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FB1BG 
+
+@SUOMI = Keuhkovaltimon magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av lungartär med högfältsmagnet
+
+@END = 
+
+@KOODI = FB1CC 
+
+@SUOMI = Keuhkovaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Pulmonal angiografi, mycket omfattande
+
+@END = 
+
+@KOODI = FB1CF 
+
+@SUOMI = Keuhkovaltimon laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av lungartär med mellanfältsmagnet, omfattande
+
+@END = 
+
+@KOODI = FB1CG 
+
+@SUOMI = Keuhkovaltimon laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av lungartär med högfältsmagnet, omfattande
+
+@END = 
+
+@KOODI = FB1DF 
+
+@SUOMI = Keuhkovaltimon erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av lungartär med mellanfältsmagnet, mycket omfattande
+
+@END = 
+
+@KOODI = FB1DG 
+
+@SUOMI = Keuhkovaltimon erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av lungartär med högfältsmagnet, mycket omfattande
+
+@END = 
+
+@KOODI_R = FC
+
+@SUOMI_R = Aortan toimenpiteet rintaontelossa
+
+@RUOTSI_R = Åtgärder på torakala och torakoabdominala aorta
+
+@ENGL_R = Thoracic and thoracoabdominal aorta, excluding malformations
+
+@END = 
+
+@KOODI = FC1AC 
+
+@SUOMI = Rinta-aortan varjoainetutkimus
+
+@RUOTSI = Aortabågen, kontrastundersökning
+
+@NOTE_F = Esim. aneurysman selvittämiseksi
+
+@END = 
+
+@KOODI = FC1BC 
+
+@SUOMI = Rinta-aortan laaja varjoainetutkimus
+
+@RUOTSI = Aortabågen, omfattande kontrastundersökning
+
+@NOTE_F = Perustutkimus ja 1-2 lisäruiskutusta eri projektioissa
+
+@END = 
+
+@KOODI = FC1CC 
+
+@SUOMI = Rinta-aortan erittäin laaja varjoainetutkimus
+
+@RUOTSI = Aortabågen, mycket omfattande kontrastundersökning
+
+@NOTE_F = Perustutkimus ja 3 tai useampia lisäruiskutuksia eri projektioissa
+
+@END = 
+
+@KOODI_A = FCA
+
+@SUOMI_A = Nousevan aortan korjaus
+
+@RUOTSI_A = Rekonstruktion av aorta ascendens
+
+@ENGL_A = Repair of ascending aorta
+
+@END = 
+
+@KOODI = FCA45 
+
+@SUOMI = Stentin asentaminen nousevaan aorttaan suonensisäisesti
+
+@RUOTSI = Perkutan insertion av stent i aortta ascendes
+
+@END = 
+
+@KOODI_A = FCB
+
+@SUOMI_A = Aortan kaaren korjaukset
+
+@RUOTSI_A = Rekonstruktion av aortabågen
+
+@ENGL_A = Repair of aortic arch
+
+@NOTE_RF = Aortan kaaren ohitus laskevaan aorttaan kohdassa FCC70
+
+@NOTE_RS = By-pass av aortabågen till aorta descendens, se FCC70
+
+@END = 
+
+@KOODI = FCB35 
+
+@SUOMI = Stentin asentaminen aortan kaareen suonensisäisesti
+
+@RUOTSI = Perkutan insertion av stent i aorttabågen
+
+@END = 
+
+@KOODI_R = FE
+
+@SUOMI_R = Sydänpussin toimenpiteet
+
+@RUOTSI_R = Åtgärder på perikardiet
+
+@ENGL_R = Pericardium
+
+@END = 
+
+@KOODI_A = FDE
+
+@SUOMI_A = Avoimen valtimotiehyeen (DA), sulkemiset
+
+@RUOTSI_A = Tillslutning av ductus arteriosus
+
+@ENGL_A = Closure of patent ductus arteriosus
+
+@END = 
+
+@KOODI = FDE32 
+
+@SUOMI = Valtimotiehyeen sulku suonensisäisesti
+
+@RUOTSI = Perkutan transluminal tillslutning av ductus arteriosus
+
+@NOTE_F = Sisältää sateenvarjolaitteen käytön
+
+@NOTE_S = Inkluderar användling av paraply apparat
+
+@END = 
+
+@KOODI = FE1AE 
+
+@SUOMI = Sydänpussin UÄ *
+
+@RUOTSI = UL av hjärtsäcken
+
+@END = 
+
+@KOODI = FE1AT 
+
+@SUOMI = Sydänpussin punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd perikardiepunktion
+
+@END = 
+
+@KOODI = FE2AT 
+
+@SUOMI = Sydänpussin kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt perikardiedränage
+
+@END = 
+
+@KOODI = FE2BT 
+
+@SUOMI = Sydänpussin kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt perikardiedränage
+
+@END = 
+
+@KOODI = FE2CT 
+
+@SUOMI = Sydänpussin kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt perikardiedränage
+
+@END = 
+
+@KOODI = FE2FT 
+
+@SUOMI = Sydänpussin katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt byte av perikardiedrän
+
+@END = 
+
+@KOODI_R = FF
+
+@SUOMI_R = Sydämen eteisen, eteisväliseinän ja keuhkolaskimoiden toimenpiteet
+
+@RUOTSI_R = Åtgärder på förmak, förmaksseptum och lungvener
+
+@ENGL_R = Atrium, atrial septum and pulmonary veins
+
+@END = 
+
+@KOODI_A = FFC
+
+@SUOMI_A = Eteisväliseinäaukon (ASD) sulkemiset
+
+@RUOTSI_A = Tillslutning av isolerad förmaksseptumdefekt
+
+@ENGL_A = Closure of isolated atrial septal defect
+
+@END = 
+
+@KOODI = FFC22 
+
+@SUOMI = ASD sulku suonensisäisesti, ostium secundum -tyyppi
+
+@RUOTSI = Perkutan transluminal tillslutning av ASD, ostium secundum -typ
+
+@NOTE_F = Sisältää sateenvarjolaitteen käytön
+
+@NOTE_S = Innefattar med paraply apparat
+
+@END = 
+
+@KOODI = FFC32 
+
+@SUOMI = ASD sulku suonensisäisesti, sinus venosus -tyyppi
+
+@RUOTSI = Perkutan transluminal tillslutning av ASD, sinus venosus -typ
+
+@NOTE_F = Sisältää sateenvarjolaitteen käytön
+
+@NOTE_S = Innefattar med paraply apparat
+
+@END = 
+
+@KOODI_R = FL
+
+@SUOMI_R = Vasemman kammion toimenpiteet
+
+@RUOTSI_R = Åtgärder på vänster kammare
+
+@ENGL_R = Left ventricle
+
+@END = 
+
+@KOODI = FK1AC 
+
+@SUOMI = Sydämen oikean puolen varjoainetutkimus (kardioangiografia)
+
+@RUOTSI = Kardioangiografi, höger hjärthalva
+
+@END = 
+
+@KOODI = FK1BT 
+
+@SUOMI = Sydämen tahdistimen asennus läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd insättning av pacemaker
+
+@END = 
+
+@KOODI = FL1AC 
+
+@SUOMI = Sydämen vasemman puolen varjoainetutkimus (kardioangiografia)
+
+@RUOTSI = Kardioangiografi, vänster hjärthalva
+
+@END = 
+
+@KOODI_R = FN
+
+@SUOMI_R = Sepelvaltimoiden toimenpiteet
+
+@RUOTSI_R = Åtgärder på koronarartärer
+
+@ENGL_R = Coronary arteries
+
+@END = 
+
+@KOODI = FM1AE 
+
+@SUOMI = Sydämen yleinen UÄ
+
+@RUOTSI = UL av hjärtat
+
+@END = 
+
+@KOODI = FM1AK 
+
+@SUOMI = Sydämen spektroskopia
+
+@RUOTSI = Spektroskopi av hjärtat
+
+@END = 
+
+@KOODI = FM1AL 
+
+@SUOMI = Sydämen magneettikenttämittaus (magnetokardiografia, MCG)
+
+@RUOTSI = Magnetkardiografi MCG
+
+@END = 
+
+@KOODI = FM1BE 
+
+@SUOMI = Sydämen UÄ ruokatorven kautta (transesofageaalinen UÄ)
+
+@RUOTSI = UL av hjärtat med transesofagealteknik
+
+@END = 
+
+@KOODI = FM1BF 
+
+@SUOMI = Sydämen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärtat med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FM1BG 
+
+@SUOMI = Sydämen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärtat med högfältsmagnet
+
+@END = 
+
+@KOODI = FM1CE 
+
+@SUOMI = Sydämen sisäosien UÄ katetrin kautta
+
+@RUOTSI = UL av hjärtat via kateter
+
+@END = 
+
+@KOODI = FM1CF 
+
+@SUOMI = Sydämen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärtat, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FM1CG 
+
+@SUOMI = Sydämen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärtat, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = FM1DE 
+
+@SUOMI = Sydämen Doppler-UÄ
+
+@RUOTSI = UL av hjärtat med dopplerteknik
+
+@NOTE_F = Sisältää minuuttivolyymin, shuntin ja painegradientin mittauksen
+
+@END = 
+
+@KOODI = FM1DF 
+
+@SUOMI = Sydämen erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärtat, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FM1DG 
+
+@SUOMI = Sydämen erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärtat, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = FM1EE 
+
+@SUOMI = Sydämen kattava rakenteellinen ja toiminnallinen UÄ
+
+@RUOTSI = UL av hjärtat, omfattande undersökning
+
+@END = 
+
+@KOODI = FM1KE 
+
+@SUOMI = Sydämen UÄ varjoainetta käyttäen
+
+@RUOTSI = UL av hjärtat med kontrastmedel
+
+@END = 
+
+@KOODI = FM1LE 
+
+@SUOMI = Sydämen farmakologinen rasitustutkimus ultraääni ja EKG yhdistäen
+
+@RUOTSI = UL av hjärtat, farmakologisk belastningsundersökning med EKG
+
+@END = 
+
+@KOODI = FM1ME 
+
+@SUOMI = Sydämen dynaaminen rasitustutkimus ultraääni ja EKG yhdistäen
+
+@RUOTSI = UL av hjärtat, dynamisk undersökning med EKG
+
+@END = 
+
+@KOODI = FM1NE 
+
+@SUOMI = Sikiön sydämen UÄ
+
+@RUOTSI = UL av fosterhjärtat
+
+@END = 
+
+@KOODI = FM1PE 
+
+@SUOMI = Valtimotiehyeen UÄ (ductus UÄ)
+
+@RUOTSI = UL av ductus Botalli
+
+@END = 
+
+@KOODI = FM1XE 
+
+@SUOMI = Sydämen muu ultraäänitutkimus
+
+@RUOTSI = UL av hjärtat (övrig)
+
+@NOTE_F = Sydämen UÄ leikkauksen aikana sydämen pinnalta, katso XFE00 tai XFE01
+
+@END = 
+
+@KOODI = FN1AC 
+
+@SUOMI = Sydämen ja/tai sepelvaltimoiden varjoainetutkimus
+
+@RUOTSI = Angiografi av hjärta och/eller koronarkärl
+
+@END = 
+
+@KOODI = FN1AE 
+
+@SUOMI = Sepelvaltimoiden UÄ iholta
+
+@RUOTSI = Perkutan UL av koronarkärl
+
+@END = 
+
+@KOODI = FN1AT 
+
+@SUOMI = Sepelvaltimon laajennushoito iholta käsin (PTCA)
+
+@RUOTSI = Perkutan kransartärdilatation (PTCA)
+
+@END = 
+
+@KOODI = FN1BC 
+
+@SUOMI = Sydämen ja/tai sepelvaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av hjärta och/eller koronarkärl, omfattande
+
+@NOTE_F = Esim sydämen molempien puolien kuvaus
+
+@END = 
+
+@KOODI = FN1BE 
+
+@SUOMI = Sepelvaltimoiden tutkiminen UÄ:llä katetrin kautta
+
+@RUOTSI = UL av kranskärlen med kateterteknik
+
+@END = 
+
+@KOODI = FN1BG 
+
+@SUOMI = Sepelvaltimoiden rakenteen ja virtausolosuhteiden arviointi vahvakenttämagneettit
+
+@RUOTSI = Utvärdering av kranskärlens struktur och flödesförhållanden med högfältsmagnet
+
+@END = 
+
+@KOODI = FN1BT 
+
+@SUOMI = Sepelvaltimon laajennushoito iholta käsin (PTCA), laaja
+
+@RUOTSI = Perkutan kransartärdilatation (PTCA), omfattande
+
+@END = 
+
+@KOODI = FN1CC 
+
+@SUOMI = Sydämen ja/tai sepelvaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Angiografi an hjärta och/eller koronarkärl, mycket omfattande
+
+@END = 
+
+@KOODI = FN1KE 
+
+@SUOMI = Sepelvaltimoiden UÄ iholta varjoainetta käyttäen
+
+@RUOTSI = Perkutan UL av koronärartär med kontrast
+
+@END = 
+
+@KOODI = FN1ST 
+
+@SUOMI = Sepelvaltimon paikallinen trombolyyttinen hoito radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt kransartärtrombolys
+
+@END = 
+
+@KOODI = FN1XT 
+
+@SUOMI = Sepelvaltimon muu toimenpide katetrin kautta
+
+@RUOTSI = Övriga perkutana ingrepp i kransartärer
+
+@END = 
+
+@KOODI = FN1YT 
+
+@SUOMI = Sepelvaltimon stentin asentaminen katetrin kautta
+
+@RUOTSI = Perkutan inläggning av stent i kransartär
+
+@END = 
+
+@KOODI_A = FNG
+
+@SUOMI_A = Sepelvaltimoiden avaamiset ja laajentamiset
+
+@RUOTSI_A = Rekanalisering och utvidning av koronarartärer
+
+@ENGL_A = Recanalisation of coronary artery
+
+@END = 
+
+@KOODI = FNG22 
+
+@SUOMI = Vierasesineen poistaminen sepelvaltimosta suonensisäisesti
+
+@RUOTSI = Transkutan transluminal avlägsnande av främmande kropp från koronar artär
+
+@END = 
+
+@KOODI_R = FP
+
+@SUOMI_R = Sydämen rytmi- ja johtumishäiriöiden toimenpiteet
+
+@RUOTSI_R = Operationer vid hjärtarytmi och överledningsrubbningar
+
+@ENGL_R = Arhythmias and disturbances of impulse propagation
+
+@END = 
+
+@KOODI_A = FPB
+
+@SUOMI_A = Muiden supraventrikulaaristen rytmihäiriörakenteiden poistotoimenpiteet
+
+@RUOTSI_A = Excision eller ablation av aberrant hjärtfokus
+
+@ENGL_A = Excision or ablation of aberrant pathway or focus of heart
+
+@END = 
+
+@KOODI = FPB22 
+
+@SUOMI = Poikkeavan johtoradan katkaiseminen tai muun rytmihäiriörakenteen tuhoaminen radioaalloilla suonensisäisesti
+
+@RUOTSI = Transkutan transluminal radiofrekvensablation av aberrant hjärtfokus
+
+@END = 
+
+@LUVUT = LUKU G
+
+@LUVUT_S = KAPITEL G
+
+@SUOMI_L = Rintaontelon seinämän, keuhkopussin, pallean, henkitorven, keuhkoputkien, keuhkojen ja välikarsinan toimenpiteet
+
+@RUOTSI_L = Åtgärder på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+
+@ENGL_L = Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung  procedures
+
+@END_L = 
+
+@KOODI_R = GA
+
+@SUOMI_R = Rintaontelon seinämän, keuhkopussin ja pallean toimenpiteet
+
+@RUOTSI_R = Operationer på bröstvägg, pleura och diafragma
+
+@ENGL_R = Chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI = GA1AE 
+
+@SUOMI = Rintakehän UÄ
+
+@RUOTSI = UL av toraxorganen
+
+@END = 
+
+@KOODI = GA2AT 
+
+@SUOMI = Keuhkopussin kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd pleurabiopsi
+
+@END = 
+
+@KOODI = GA2CT 
+
+@SUOMI = Keuhkopussin kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd pleurabiopsi
+
+@END = 
+
+@KOODI = GA2DT 
+
+@SUOMI = Keuhkopussin kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd pleurabiopsi
+
+@END = 
+
+@KOODI = GA3AT 
+
+@SUOMI = Keuhkopussin solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från pleura
+
+@END = 
+
+@KOODI = GA3CT 
+
+@SUOMI = Keuhkopussin solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi från pleura
+
+@END = 
+
+@KOODI = GA3DT 
+
+@SUOMI = Keuhkopussin solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi från pleura
+
+@END = 
+
+@KOODI = GA4AT 
+
+@SUOMI = Keuhko-ontelon kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av lungkavern
+
+@END = 
+
+@KOODI = GA4BT 
+
+@SUOMI = Keuhko-ontelon kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av lungkavern
+
+@END = 
+
+@KOODI = GA4CT 
+
+@SUOMI = Keuhko-ontelon kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av lungkavern
+
+@END = 
+
+@KOODI = GA4FT 
+
+@SUOMI = Keuhko-ontelon katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Kateterbyte i lungkavern
+
+@END = 
+
+@KOODI = GA4YT 
+
+@SUOMI = Keuhkopussin punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd pleurapunktion
+
+@END = 
+
+@KOODI = GA5AA 
+
+@SUOMI = Kylkiluiden röntgen
+
+@RUOTSI = Revben, röntgen
+
+@END = 
+
+@KOODI = GA5DA 
+
+@SUOMI = Kylkiluiden röntgen, molemmat puolet
+
+@RUOTSI = Revben, bilateral röntgen
+
+@END = 
+
+@KOODI = GA6AA 
+
+@SUOMI = Rintalastan natiiviröntgen
+
+@RUOTSI = Bröstbenet, röntgen
+
+@END = 
+
+@KOODI = GA7AA 
+
+@SUOMI = Sternoklavikulaarinivelten natiiviröntgen
+
+@RUOTSI = Sternoklavikularleder, röntgen
+
+@END = 
+
+@KOODI_R = GB
+
+@SUOMI_R = Henkitorven toimenpiteet
+
+@RUOTSI_R = Operationer på trakea
+
+@ENGL_R = Trachea
+
+@END = 
+
+@KOODI = GB1AA 
+
+@SUOMI = Henkitorven natiiviröntgen (trakea)
+
+@RUOTSI = Trakea, röntgen
+
+@END = 
+
+@KOODI = GB2AA 
+
+@SUOMI = Epifarynxin natiiviröntgen
+
+@RUOTSI = Epifarynx, röntgen
+
+@END = 
+
+@KOODI = GB3AA 
+
+@SUOMI = Kurkunpään natiiviröntgen (larynx)
+
+@RUOTSI = Larynx, röntgen
+
+@END = 
+
+@KOODI_R = GC
+
+@SUOMI_R = Keuhkoputkien toimenpiteet
+
+@RUOTSI_R = Operationer på bronker
+
+@ENGL_R = Bronchus
+
+@NOTE_RF = Bronkoskopia kohdassa UGC
+
+@NOTE_RS = Bronkoskopi, se UGC
+
+@END = 
+
+@KOODI = GC1BB 
+
+@SUOMI = Keuhkoputkien varjoainetutkimus (bronkografia)
+
+@RUOTSI = Bronkografi
+
+@END = 
+
+@KOODI_R = GD
+
+@SUOMI_R = Keuhkojen toimenpiteet
+
+@RUOTSI_R = Operationer på lungor
+
+@ENGL_R = Lung
+
+@END = 
+
+@KOODI = GD1AA 
+
+@SUOMI = Keuhkojen natiiviröntgen (thorax)
+
+@RUOTSI = Toraxröntgen
+
+@END = 
+
+@KOODI = GD1AD 
+
+@SUOMI = Rintakehän natiivi-TT
+
+@RUOTSI = DT av toraxorganen utan kontrast
+
+@NOTE_F = Sisältää thoraxin ja mediastinumin elimet
+
+@END = 
+
+@KOODI = GD1AT 
+
+@SUOMI = Keuhkon kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd lungbiopsi
+
+@END = 
+
+@KOODI = GD1BA 
+
+@SUOMI = Keuhkojen laaja natiiviröntgen
+
+@RUOTSI = Lungor, omfattande röntgen
+
+@END = 
+
+@KOODI = GD1BD 
+
+@SUOMI = Rintakehän varjoaine-TT
+
+@RUOTSI = DT av toraxorganen med kontrast
+
+@END = 
+
+@KOODI = GD1BF 
+
+@SUOMI = Keuhkojen ja pleuran magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av lungor och pleura med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GD1BG 
+
+@SUOMI = Keuhkojen ja pleuran magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av lungor och pleura med högfältsmagnet
+
+@END = 
+
+@KOODI = GD1BT 
+
+@SUOMI = Keuhkon kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd lungbiopsi
+
+@END = 
+
+@KOODI = GD1CA 
+
+@SUOMI = Keuhkojen pienoisröntgen
+
+@RUOTSI = Skärmbildsundersökning
+
+@END = 
+
+@KOODI = GD1CD 
+
+@SUOMI = Rintakehän natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av toraxorganen utan och med kontrast
+
+@END = 
+
+@KOODI = GD1CF 
+
+@SUOMI = Keuhkojen ja pleuran laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av lungor och pleura, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GD1CG 
+
+@SUOMI = Keuhkojen ja pleuran laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av lungor och pleura, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = GD1CT 
+
+@SUOMI = Keuhkon kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd lungbiopsi
+
+@END = 
+
+@KOODI = GD1DF 
+
+@SUOMI = Keuhkojen ja pleuran erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av lungor och pleura, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GD1DG 
+
+@SUOMI = Keuhkojen ja pleuran erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av lungor och pleura, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = GD1EA 
+
+@SUOMI = Keuhkojen röntgen, kylkikuva *
+
+@RUOTSI = Translateralbild av torax
+
+@END = 
+
+@KOODI = GD1ED 
+
+@SUOMI = Keuhkojen ohutleike-TT (HR-TT)
+
+@RUOTSI = DT av lungorna med högresolutionsteknik, HRCT
+
+@END = 
+
+@KOODI = GD1HA 
+
+@SUOMI = Hengityselimistön tomografia
+
+@RUOTSI = Tomografi av torakalorganen
+
+@END = 
+
+@KOODI = GD1LA 
+
+@SUOMI = Hengityselimistön läpivalaisu
+
+@RUOTSI = Genomlysning av torakalorganen
+
+@END = 
+
+@KOODI = GD1MA 
+
+@SUOMI = Sydämen röntgentutkimus
+
+@RUOTSI = Hjärtundersökning, röntgen
+
+@END = 
+
+@KOODI = GD1PA 
+
+@SUOMI = Keuhkojen röntgen, yksi projektio
+
+@RUOTSI = Lungor en projektion (t.ex PA), röntgen
+
+@NOTE_F = Esimerkiksi PA
+
+@END = 
+
+@KOODI = GD1QA 
+
+@SUOMI = Keuhkojen röntgen makuuasennossa
+
+@RUOTSI = Lungor, röntgen i liggande
+
+@END = 
+
+@KOODI = GD1RA 
+
+@SUOMI = Hengityselimistön läpivalaisu ja natiiviröntgen
+
+@RUOTSI = Genomlysning med bild av torakalorganen
+
+@END = 
+
+@KOODI = GD1UA 
+
+@SUOMI = Keuhkojen röntgen radiologian yksikön ulkopuolella
+
+@RUOTSI = Lungröntgen utanför rtg.avdelningen
+
+@END = 
+
+@KOODI = GD1XD 
+
+@SUOMI = Rintakehän muu TT
+
+@RUOTSI = DT av toraxorganen (övrig)
+
+@END = 
+
+@KOODI = GD2AT 
+
+@SUOMI = Keuhkon solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från lunga
+
+@END = 
+
+@KOODI = GD2BT 
+
+@SUOMI = Keuhkon solunäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd finnålsbiopsi från lunga
+
+@END = 
+
+@KOODI = GD2CT 
+
+@SUOMI = Keuhkon solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi från lungan
+
+@END = 
+
+@KOODI = GD3CT 
+
+@SUOMI = Keuhkon merkkaus TT-ohjauksessa
+
+@RUOTSI = DT-styrd märkning av lunga
+
+@END = 
+
+@KOODI_R = GW
+
+@SUOMI_R = Leikkauskomplikaatioiden vuoksi tehdyt thoraxkirurgiset uusintaleikkaukset
+
+@RUOTSI_R = Reoperationer för sårkomplikationer av thoraxkirurgi
+
+@ENGL_R = Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+
+@END = 
+
+@KOODI = GE1AT 
+
+@SUOMI = Välikarsinan kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi från mediastinúm
+
+@END = 
+
+@KOODI = GE1BE 
+
+@SUOMI = Välikarsinan UÄ ruokatorven kautta
+
+@RUOTSI = UL av diafragma med transesofagealteknik
+
+@END = 
+
+@KOODI = GE1BF 
+
+@SUOMI = Sydämen ja mediastinumin magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GE1BG 
+
+@SUOMI = Sydämen ja mediastinumin magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum med högfältsmagnet
+
+@END = 
+
+@KOODI = GE1CF 
+
+@SUOMI = Sydämen ja mediastinumin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GE1CG 
+
+@SUOMI = Sydämen ja mediastinumin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = GE1CT 
+
+@SUOMI = Välikarsinan kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd biopsi från mediastinum
+
+@END = 
+
+@KOODI = GE1DF 
+
+@SUOMI = Sydämen ja mediastinumin erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GE1DG 
+
+@SUOMI = Sydämen ja mediastinumin erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = GE1DT 
+
+@SUOMI = Välikarsinan kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd biopsi från mediastinum
+
+@END = 
+
+@KOODI = GE2AT 
+
+@SUOMI = Välikarsinan solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från mediastinum
+
+@END = 
+
+@KOODI = GE2CT 
+
+@SUOMI = Välikarsinan solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi från mediastinum
+
+@END = 
+
+@KOODI = GE2DT 
+
+@SUOMI = Välikarsinan solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi från mediastinum
+
+@END = 
+
+@LUVUT = LUKU H
+
+@LUVUT_S = KAPITEL H
+
+@SUOMI_L = Rintarauhasen toimenpiteet
+
+@RUOTSI_L = Åtgärder på bröst
+
+@ENGL_L = Mammary gland  procedures
+
+@END_L = 
+
+@KOODI = HA1AA 
+
+@SUOMI = Rintarauhasen natiiviröntgen (mammografia)
+
+@RUOTSI = Mammografi
+
+@END = 
+
+@KOODI = HA1AE 
+
+@SUOMI = Rintarauhasten UÄ
+
+@RUOTSI = UL av bröstkörtlar
+
+@NOTE_F = Katso myös mammografiakoodit: HA1AA ja HA1BA
+
+@END = 
+
+@KOODI = HA1AT 
+
+@SUOMI = Rintarauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd bröstkörtelbiopsi
+
+@END = 
+
+@KOODI = HA1BA 
+
+@SUOMI = Rintarauhasen laaja natiiviröntgen (mammografia)
+
+@RUOTSI = Mammografi, omfattande
+
+@NOTE_F = Peruskuvien valmistumisen jälkeen otetaan lisäkuvia, kohdekuvia, suurennoskuvia tai mammografian yhteydessä tehty tarkistus UÄ:llä.
+
+@END = 
+
+@KOODI = HA1BB 
+
+@SUOMI = Rintarauhaskystan ilmatutkimus (pneumokystografia)
+
+@RUOTSI = Pneumocystografi
+
+@END = 
+
+@KOODI = HA1BF 
+
+@SUOMI = Rintarauhasten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bröstkörtlar med mellanfältsmagnet
+
+@END = 
+
+@KOODI = HA1BG 
+
+@SUOMI = Rintarauhasten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bröstkörtlar med högfältsmagnet
+
+@END = 
+
+@KOODI = HA1CA 
+
+@SUOMI = Rintarauhasen seulontatutkimus (mammografiaseulonta)
+
+@RUOTSI = Mammografi, screening
+
+@END = 
+
+@KOODI = HA1CF 
+
+@SUOMI = Rintarauhasten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bröstkörtlar, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = HA1CG 
+
+@SUOMI = Rintarauhasten  laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bröstkörtlar, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = HA1DF 
+
+@SUOMI = Rintarauhasten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bröstkörtlar, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = HA1DG 
+
+@SUOMI = Rintarauhasten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bröstkörtlar, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = HA1DT 
+
+@SUOMI = Rintarauhasen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd bröstkörtelbiopsi
+
+@END = 
+
+@KOODI = HA1MT 
+
+@SUOMI = Rintarauhasen kudosnäytteen otto mammografiaohjauksessa
+
+@RUOTSI = Mammografistyrd bröstkörtelbiopsi
+
+@END = 
+
+@KOODI = HA1SA 
+
+@SUOMI = Rintarauhasen suurennus röntgen (suurennosmammografia) *
+
+@RUOTSI = Mammografi, förstoringsbild
+
+@END = 
+
+@KOODI = HA1ST 
+
+@SUOMI = Rintarauhasen kudosnäytteen otto stereotaktisessa ohjauksessa
+
+@RUOTSI = Stereotaktiskt styrd bröstkörtelbiopsi
+
+@END = 
+
+@KOODI = HA2AT 
+
+@SUOMI = Rintarauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnåsbiopsi från bröstkörteln
+
+@END = 
+
+@KOODI = HA2DT 
+
+@SUOMI = Rintarauhasen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi från bröstkörteln
+
+@END = 
+
+@KOODI = HA2MT 
+
+@SUOMI = Rintarauhasen solunäytteen otto mammografiaohjauksessa
+
+@RUOTSI = Mammografl-styrd finnålsbiopsi från bröstkörtel
+
+@END = 
+
+@KOODI = HA2ST 
+
+@SUOMI = Rintarauhasen solunäytteen otto stereotaktisessa ohjauksessa
+
+@RUOTSI = Stereotaktiskt styrd finnålsbiopsi från bröstkörtel
+
+@END = 
+
+@KOODI = HA2XT 
+
+@SUOMI = Rintarauhasen solunäytteen otto muussa radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd finnålsbiopsi från bröstkörtel
+
+@END = 
+
+@KOODI = HA3AT 
+
+@SUOMI = Rintarauhaskystan punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av bröstkörtelcysta
+
+@END = 
+
+@KOODI = HA4AT 
+
+@SUOMI = Rintarauhasmerkkaus UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd märkning av bröstkörteltumör
+
+@END = 
+
+@KOODI = HA4DT 
+
+@SUOMI = Rintarauhasmerkkaus magneettiohjauksessa
+
+@RUOTSI = MR-styrd märkning av bröstkörteltumör
+
+@END = 
+
+@KOODI = HA4GT 
+
+@SUOMI = Rintarauhasmerkkaus galaktografialla
+
+@RUOTSI = Galaktografistyrd märkning av bröstkörteltumör
+
+@END = 
+
+@KOODI = HA4MT 
+
+@SUOMI = Rintarauhasmerkkaus mammografiaohjauksessa
+
+@RUOTSI = Mammografistyrd märkning av bröstkörteltumör
+
+@END = 
+
+@KOODI = HA4ST 
+
+@SUOMI = Rintarauhasmerkkaus stereotaktisessa ohjauksessa
+
+@RUOTSI = Stereotaktiskt styrd märkning av bröstkörteltumör
+
+@END = 
+
+@KOODI = HA5CB 
+
+@SUOMI = Rintarauhastiehyeen varjoainetutkimus (galaktografia)
+
+@RUOTSI = Galaktografi
+
+@END = 
+
+@KOODI = HA6AA 
+
+@SUOMI = Rintarauhaspreparaatin röntgen (mammapreparaattiröntgen)
+
+@RUOTSI = Mammografi, preparat
+
+@END = 
+
+@LUVUT = LUKU J
+
+@LUVUT_S = KAPITEL J
+
+@SUOMI_L = Ruuansulatuskanavan ja sen oheiselinten toimenpiteet
+
+@RUOTSI_L = Operationer på gastrointestinalkanalen och därtill hörande organ
+
+@ENGL_L = Digestive system and spleen  procedures
+
+@END_L = 
+
+@KOODI_R = JA
+
+@SUOMI_R = Vatsanpeitteiden, vatsakalvon ja vatsapaidan toimenpiteet
+
+@RUOTSI_R = Operationer på bukvägg, mesenterium, peritoneum och oment
+
+@ENGL_R = Abdominall wall, mesentry, peritoneum and greater omentum
+
+@END = 
+
+@KOODI = JA1CB 
+
+@SUOMI = Tyrän varjoainetutkimus (herniografia)
+
+@RUOTSI = Herniografi
+
+@END = 
+
+@KOODI = JA2AT 
+
+@SUOMI = Vatsaontelon punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av bukhålan
+
+@END = 
+
+@KOODI = JA3AT 
+
+@SUOMI = Vatsaontelon kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av bukhålan
+
+@END = 
+
+@KOODI = JA3BT 
+
+@SUOMI = Vatsaontelon kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av bukhålan
+
+@END = 
+
+@KOODI = JA3CT 
+
+@SUOMI = Vatsaontelon kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av bukhålan
+
+@END = 
+
+@KOODI = JA3DT 
+
+@SUOMI = Vatsaontelon kanavointi magneettiohjauksessa
+
+@RUOTSI = MR-styrt dränage av bukhålan
+
+@END = 
+
+@KOODI = JA3FT 
+
+@SUOMI = Vatsaontelon katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Kateterbyte i radiologisk kontroll
+
+@END = 
+
+@KOODI_R = JC
+
+@SUOMI_R = Ruokatorven toimenpiteet
+
+@RUOTSI_R = Åtgärder på esofagus
+
+@ENGL_R = Oesophagus
+
+@END = 
+
+@KOODI = JB1JB 
+
+@SUOMI = Palleatyrän ja mahalaukun takaisinvirtauksen varjoainetutkimus *
+
+@RUOTSI = Hiatus oesofagi, kotrastundersökning *
+
+@END = 
+
+@KOODI = JC1AB 
+
+@SUOMI = Hypofarynxin varjoainetutkimus
+
+@RUOTSI = Hypofarynx, kotrastundersökning
+
+@END = 
+
+@KOODI = JC2AB 
+
+@SUOMI = Ruokatorven varjoainetutkimus
+
+@RUOTSI = Esofagus (matstrupen), kotrastundersökning
+
+@END = 
+
+@KOODI = JC2BB 
+
+@SUOMI = Ruokatorven kaksoiskontrastitutkimus
+
+@RUOTSI = Esofagus, dubbelkontrastundersökning
+
+@END = 
+
+@KOODI = JC2JB 
+
+@SUOMI = Ruokatorven funktiotutkimus
+
+@RUOTSI = Esofagus, kinetisk undersökning
+
+@END = 
+
+@KOODI = JC2KB 
+
+@SUOMI = Nielemisen funktiotutkimus
+
+@RUOTSI = Undersökning av sväljfunktionen
+
+@END = 
+
+@KOODI_R = JD
+
+@SUOMI_R = Mahalaukun ja pohjukaissuolen toimenpiteet
+
+@RUOTSI_R = Åtgärder på ventrikeln och duodenum
+
+@ENGL_R = Stomach and duodenal bulb
+
+@NOTE_RF = Sisältää mahansuun
+
+@END = 
+
+@KOODI = JD1AB 
+
+@SUOMI = Mahalaukun ja duodenumin varjoainetutkimus
+
+@RUOTSI = Ventrikel och duodenum, kotrastundersökning
+
+@END = 
+
+@KOODI = JD1BB 
+
+@SUOMI = Mahalaukun kaksoiskontrastitutkimus
+
+@RUOTSI = Ventrikel, dubbelkontrast
+
+@END = 
+
+@KOODI = JD1EE 
+
+@SUOMI = Mahalaukun takaisinvirtauksen tutkiminen UÄ:llä
+
+@RUOTSI = UL för gastroesofageal reflux
+
+@NOTE_F = Gastro-esofageaalisen refluksin tutkimus
+
+@END = 
+
+@KOODI = JD2BB 
+
+@SUOMI = Duodenumin varjoainetutkimus (duodenografia)
+
+@RUOTSI = Duodenum, kotrastundersökning
+
+@END = 
+
+@KOODI_R = JF
+
+@SUOMI_R = Ohut- ja paksusuolen toimenpiteet
+
+@RUOTSI_R = Åtgärder på tunntarm och kolon
+
+@ENGL_R = Intestine
+
+@END = 
+
+@KOODI = JF1AB 
+
+@SUOMI = Ohutsuolen varjoainetutkimus (pasaasi)
+
+@RUOTSI = Tunntarmen (passage), kotrastundersökning
+
+@END = 
+
+@KOODI = JF1BB 
+
+@SUOMI = Ohutsuolen kaksoiskontrastitutkimus
+
+@RUOTSI = Tunntarmen, dubbelkontrast
+
+@END = 
+
+@KOODI = JF2AB 
+
+@SUOMI = Paksusuolen varjoainetutkimus (kolongrafia)
+
+@RUOTSI = Kolon, kotrastundersökning
+
+@END = 
+
+@KOODI = JF2BB 
+
+@SUOMI = Paksusuolen kaksoiskontrastitutkimus
+
+@RUOTSI = Kolon, dubbelkontrast
+
+@END = 
+
+@KOODI = JF2JB 
+
+@SUOMI = Paksusuolen läpikulun tutkimus (kolontransit)
+
+@RUOTSI = Kolon, transitundersökning
+
+@END = 
+
+@KOODI = JF3AT 
+
+@SUOMI = Suolentuppeuman hoito UÄ-ohjauksessa
+
+@RUOTSI = Behandling av invagination i UL-kontroll
+
+@END = 
+
+@KOODI = JF3BT 
+
+@SUOMI = Suolentuppeuman hoito läpivalaisuohjauksessa
+
+@RUOTSI = Behandling av invagination i genomlysningskontroll
+
+@END = 
+
+@KOODI_R = JG
+
+@SUOMI_R = Peräsuolen toimenpiteet
+
+@RUOTSI_R = Åtgärder på rektum
+
+@ENGL_R = Rectum
+
+@END = 
+
+@KOODI = JG1JB 
+
+@SUOMI = Peräsuolen toiminnan varjoainetutkimus, defekografia
+
+@RUOTSI = Defekografi
+
+@END = 
+
+@KOODI_R = JH
+
+@SUOMI_R = Peräaukon ja sen ympäryksen toimenpiteet
+
+@RUOTSI_R = Åtgärder på anus och perianal vävnad
+
+@ENGL_R = Anus and perianal tissue
+
+@END = 
+
+@KOODI = JH3HE 
+
+@SUOMI = Vatsa-alueen suppea verrantatutkimus UÄ:llä
+
+@RUOTSI = UL av buken, begränsad kontrollundersökning (t.ex. lever, njurar m.m. betäckande även uringvägar)
+
+@NOTE_F = Esim. maksa, munuaiset ja virtsatiet
+
+@END = 
+
+@KOODI_R = JJ
+
+@SUOMI_R = Maksan ja sappiteiden toimenpiteet
+
+@RUOTSI_R = Åtgärder på levern  och gallvägarna
+
+@ENGL_R = Liver
+
+@END = 
+
+@KOODI = JJ1AK 
+
+@SUOMI = Maksan spektroskopia
+
+@RUOTSI = Spektroskopi av levern
+
+@END = 
+
+@KOODI = JJ1AT 
+
+@SUOMI = Maksapesäkkeen punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av leverlesion
+
+@END = 
+
+@KOODI = JJ1CE 
+
+@SUOMI = Maksan, sappiteiden ja haiman UÄ tähystysteitse
+
+@RUOTSI = Endoskopisk UL av lever, gallvägar och pakreas
+
+@END = 
+
+@KOODI = JJ2AT 
+
+@SUOMI = Maksan kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd leverbiopsi
+
+@END = 
+
+@KOODI = JJ2CT 
+
+@SUOMI = Maksan kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd leverbiopsi
+
+@END = 
+
+@KOODI = JJ2DT 
+
+@SUOMI = Maksan kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd leverbiopsi
+
+@END = 
+
+@KOODI = JJ3AT 
+
+@SUOMI = Maksan solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från levern
+
+@END = 
+
+@KOODI = JJ3CT 
+
+@SUOMI = Maksan solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi från levern
+
+@END = 
+
+@KOODI = JJ4AT 
+
+@SUOMI = Maksapesäkkeen kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av leverlesion
+
+@END = 
+
+@KOODI = JJ4BT 
+
+@SUOMI = Maksapesäkkeen kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av leverlesion
+
+@END = 
+
+@KOODI = JJ4CT 
+
+@SUOMI = Maksapesäkkeen kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av leverlesion
+
+@END = 
+
+@KOODI = JJ5KT 
+
+@SUOMI = Maksakystan skleroterapia
+
+@RUOTSI = Skleroterapi av levercysta
+
+@END = 
+
+@KOODI = JJ5LT 
+
+@SUOMI = Maksan skleroterapia
+
+@RUOTSI = Skleroterapi av levern
+
+@END = 
+
+@KOODI = JJ6LT 
+
+@SUOMI = Maksan lämpökoagulaatio UÄ-ohjauksessa
+
+@RUOTSI = UL styrd värmekoagulation av levern
+
+@END = 
+
+@KOODI = JJ7LT 
+
+@SUOMI = Maksan lämpökoagulaatio TT-ohjauksessa
+
+@RUOTSI = CT styrd värmekoagulation av levern
+
+@END = 
+
+@KOODI = JJ8LT 
+
+@SUOMI = Maksan lämpökoagulaatio magneettiohjauksessa
+
+@RUOTSI = MR styrd värmekoagulation av levern
+
+@END = 
+
+@KOODI_R = JL
+
+@SUOMI_R = Haiman toimenpiteet
+
+@RUOTSI_R = Åtgärder på pankreas
+
+@ENGL_R = Pancreas
+
+@END = 
+
+@KOODI = JK1AT 
+
+@SUOMI = Sappirakon kanavointi radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd kanalisering av gallblåsa
+
+@END = 
+
+@KOODI = JK1CB 
+
+@SUOMI = Sappirakon tai sappiteiden varjoainetutkimus
+
+@RUOTSI = Kolecysto- och koledockografi
+
+@END = 
+
+@KOODI = JK2AT 
+
+@SUOMI = Sappirakon punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av gallblåsan
+
+@END = 
+
+@KOODI = JK3AT 
+
+@SUOMI = Sappiteiden kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av gallgångar
+
+@END = 
+
+@KOODI = JK3BT 
+
+@SUOMI = Sappiteiden kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av gallgångar
+
+@END = 
+
+@KOODI = JK3CD 
+
+@SUOMI = Sappiteiden varjoaine-TT
+
+@RUOTSI = DT av gallgångar
+
+@END = 
+
+@KOODI = JK3CT 
+
+@SUOMI = Sappiteiden kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av gallgångar
+
+@END = 
+
+@KOODI = JK3FT 
+
+@SUOMI = Sappitiekatetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt byte av gallgångsdrän
+
+@END = 
+
+@KOODI = JK3MB 
+
+@SUOMI = Sappiteiden varjoainetutkimus leikkauksen jälkeen
+
+@RUOTSI = Postoperativ kolangiografi
+
+@END = 
+
+@KOODI = JK3NB 
+
+@SUOMI = Sappiteiden varjoainetutkimus iholta käsin (PTC)
+
+@RUOTSI = Perkutan kolangiografi (PTC)
+
+@END = 
+
+@KOODI = JK3NT 
+
+@SUOMI = Sappiteiden laajentaminen iholta maksan läpi radiologisessa ohjauksessa (PTC-tekniikalla)
+
+@RUOTSI = Perkutan dilatation av gallvägar i radiologisk kontroll (PTC)
+
+@END = 
+
+@KOODI = JK3PB 
+
+@SUOMI = Sappiteiden varjoainetutkimus leikkauksen aikana
+
+@RUOTSI = Peroperativ kolangiografi
+
+@END = 
+
+@KOODI = JK3RT 
+
+@SUOMI = Kivien ja vierasesineiden poisto sappiteistä (PTC-tekniikalla)
+
+@RUOTSI = Extraktion av konkrement eller främmande kropp ur gallvägar med PTC-teknik
+
+@END = 
+
+@KOODI = JK3SB 
+
+@SUOMI = Sappiteiden varjoainetutkimus mahasuolikanavan tähystyksessä
+
+@RUOTSI = Endoskopisk kolangiografi (ERC)
+
+@END = 
+
+@KOODI = JK4ZT 
+
+@SUOMI = Sappitieproteesin laitto iholta maksan läpi radiologisessa ohjauksessa (PTC-tekniikalla)
+
+@RUOTSI = Perkutan inläggning av gallvägsprotes i radiologisk kontroll (PTC)
+
+@END = 
+
+@KOODI = JK5ZT 
+
+@SUOMI = Sappitieproteesin laitto yhdistelmätekniikalla (PTC ja ERC)
+
+@RUOTSI = Inläggning av gallvägsprotes med kombinationsteknik (PTC och ERC)
+
+@END = 
+
+@KOODI = JL1AT 
+
+@SUOMI = Haiman kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd pankreasbiopsi
+
+@NOTE_F = Transduodenaalinen neulabiopsia, katso JLA20
+
+@NOTE_F =
+Neulabiopsia laparoskopiateitse, katso JLA21
+
+@END = 
+
+@KOODI = JL1CT 
+
+@SUOMI = Haiman kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd pankreasbiopsi
+
+@END = 
+
+@KOODI = JL1DT 
+
+@SUOMI = Haiman kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd pankreasbiopsi
+
+@END = 
+
+@KOODI = JL2AT 
+
+@SUOMI = Haiman solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av pankreas
+
+@END = 
+
+@KOODI = JL2CT 
+
+@SUOMI = Haiman solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DR-styrd finnålsbioipsi av pankreas
+
+@END = 
+
+@KOODI = JL2DT 
+
+@SUOMI = Haiman solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi av pankreas
+
+@END = 
+
+@KOODI = JL3AT 
+
+@SUOMI = Haimakystan kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av pankreascysta
+
+@END = 
+
+@KOODI = JL3BT 
+
+@SUOMI = Haimakystan kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av pankreascysta
+
+@END = 
+
+@KOODI = JL3CT 
+
+@SUOMI = Haimakystan kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av pankreascysta
+
+@END = 
+
+@KOODI = JL3DT 
+
+@SUOMI = Haimakystan kanavointi magneettiohjauksessa
+
+@RUOTSI = MR-styrt dränage av pankreascysta
+
+@END = 
+
+@KOODI = JL3FT 
+
+@SUOMI = Haimakystan katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt byte av kateter från pakreascysta
+
+@END = 
+
+@KOODI = JL3YT 
+
+@SUOMI = Haimakystan punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av pankreascysta
+
+@END = 
+
+@KOODI = JL4SB 
+
+@SUOMI = Haimatiehyeen varjoainetutkimus mahasuolikanavan tähystyksessä
+
+@RUOTSI = Endoskopisk pankreatikografi (ERP)
+
+@END = 
+
+@KOODI = JL5AF 
+
+@SUOMI = Sappi- ja haimateiden suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av pankreas- och gallgångar (MRCP) med mellanfältsmagnet
+
+@NOTE_F = Esim. yksittäisen elimen kontrollitutkimus
+
+@END = 
+
+@KOODI = JL5AG 
+
+@SUOMI = Sappi- ja haimateiden suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av pankreas- och gallgångar (MRCP) med högfältsmagnet
+
+@NOTE_F = Esim. yksittäisen elimen kontrollitutkimus
+
+@END = 
+
+@KOODI = JL5SB 
+
+@SUOMI = Sappiteiden ja haimatiehyeen varjoainetutkimus mahasuolikanavan tähystyksessä
+
+@RUOTSI = Endoskopisk kolangiopankreatikografi (ERCP)
+
+@END = 
+
+@KOODI = JL6SB 
+
+@SUOMI = Sappiteiden ja haimatiehyeen pitkittynyt läpivalaisu
+
+@RUOTSI = Förlängd genomlysning (med bild) av ductus choledoctus och pankreaticus
+
+@END = 
+
+@KOODI_R = JW
+
+@SUOMI_R = Ruuansulatuselinleikkausten komplikaatiotoimenpiteet
+
+@RUOTSI_R = Operationer för komplikationer av gastrointestinal kirurgi
+
+@ENGL_R = Reoperations in gastroenterological surgery
+
+@END = 
+
+@KOODI = JM1AT 
+
+@SUOMI = Pernan solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi från mjälten
+
+@END = 
+
+@KOODI = JM2AT 
+
+@SUOMI = Pernan kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi från mjälten
+
+@END = 
+
+@KOODI = JN1AD 
+
+@SUOMI = Ylävatsan natiivi-TT
+
+@RUOTSI = DT av övre delen av buken utan kontrast
+
+@END = 
+
+@KOODI = JN1AE 
+
+@SUOMI = Ylävatsan UÄ
+
+@RUOTSI = UL av övre delen av buken
+
+@END = 
+
+@KOODI = JN1AF 
+
+@SUOMI = Ylävatsan suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övre delen av buken, begränsad undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN1AG 
+
+@SUOMI = Ylävatsan suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övre delen av buken, begränsad undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN1BD 
+
+@SUOMI = Ylävatsan varjoaine-TT
+
+@RUOTSI = DT av övre delen av buken med kontrast
+
+@END = 
+
+@KOODI = JN1BF 
+
+@SUOMI = Ylävatsan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övre delen av buken med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN1BG 
+
+@SUOMI = Ylävatsan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övre delen av buken med högfältsmagnet
+
+@END = 
+
+@KOODI = JN1CD 
+
+@SUOMI = Ylävatsan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av övre delen av buken utan och med kontrast
+
+@END = 
+
+@KOODI = JN1CF 
+
+@SUOMI = Ylävatsan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övre delen av buken, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN1CG 
+
+@SUOMI = Ylävatsan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övre delen av buken, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN1DF 
+
+@SUOMI = Ylävatsan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övre delen av buken, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN1DG 
+
+@SUOMI = Ylävatsan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övre delen av buken, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN1XD 
+
+@SUOMI = Ylävatsan muu TT
+
+@RUOTSI = DT av övre delen av buken (övrig)
+
+@END = 
+
+@KOODI = JN2AD 
+
+@SUOMI = Alavatsan natiivi-TT
+
+@RUOTSI = DT av nedre delen av buken utan kontrast
+
+@END = 
+
+@KOODI = JN2AE 
+
+@SUOMI = Alavatsan UÄ
+
+@RUOTSI = UL av nedre delen av buken
+
+@END = 
+
+@KOODI = JN2BD 
+
+@SUOMI = Alavatsan varjoaine-TT
+
+@RUOTSI = DT av nedre delen av buken med kontrast
+
+@END = 
+
+@KOODI = JN2BF 
+
+@SUOMI = Alavatsan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av nedre delen av buken med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN2BG 
+
+@SUOMI = Alavatsan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av nedre delen av buken med högfältsmagnet
+
+@END = 
+
+@KOODI = JN2CD 
+
+@SUOMI = Alavatsan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av nedre delen av buken utan och med kontrast
+
+@END = 
+
+@KOODI = JN2CF 
+
+@SUOMI = Alavatsan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av nedre delen av buken, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN2CG 
+
+@SUOMI = Alavatsan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av nedre delen av buken, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN2DF 
+
+@SUOMI = Alavatsan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av nedre delen av buken, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN2DG 
+
+@SUOMI = Alavatsan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av nedre delen av buken, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN2XD 
+
+@SUOMI = Alavatsan muu TT
+
+@RUOTSI = DT av nedre delen av buken (övrig)
+
+@END = 
+
+@KOODI = JN3AA 
+
+@SUOMI = Vatsan natiiviröntgen
+
+@RUOTSI = Buköversikt, röntgen
+
+@END = 
+
+@KOODI = JN3AD 
+
+@SUOMI = Vatsan natiivi-TT
+
+@RUOTSI = DT av hela buken utan kontrast
+
+@NOTE_F = Sisältää ylä- ja alavatsan tutkimuksen
+
+@END = 
+
+@KOODI = JN3AE 
+
+@SUOMI = Vatsan UÄ
+
+@RUOTSI = UL av buken
+
+@END = 
+
+@KOODI = JN3BD 
+
+@SUOMI = Vatsan varjoaine-TT
+
+@RUOTSI = DT av hela buken med kontrast
+
+@END = 
+
+@KOODI = JN3BF 
+
+@SUOMI = Vatsan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hela buken med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN3BG 
+
+@SUOMI = Vatsan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hela buken med högfältsmagnet
+
+@END = 
+
+@KOODI = JN3CA 
+
+@SUOMI = Vatsan tai lantion alueen suppea natiiviröntgen
+
+@RUOTSI = Enkel röntgenbild av buk eller bäcken
+
+@NOTE_F = Yksi projektio
+
+@END = 
+
+@KOODI = JN3CD 
+
+@SUOMI = Vatsan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av hela buken utan och med kontrast
+
+@END = 
+
+@KOODI = JN3CF 
+
+@SUOMI = Vatsan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hela buken, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN3CG 
+
+@SUOMI = Vatsan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hela buken, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN3DE 
+
+@SUOMI = Vatsan laaja UÄ-tutkimus virtausmittauksineen elinsiirron jälkeen
+
+@RUOTSI = UL av buken inkl. flödesmätning efter organtransplantation
+
+@END = 
+
+@KOODI = JN3DF 
+
+@SUOMI = Vatsan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av hela buken, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = JN3DG 
+
+@SUOMI = Vatsan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hela buken, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = JN3HA 
+
+@SUOMI = Vatsan tai lantion alueen tomografia
+
+@RUOTSI = Tomografi av bukorganen eller bäckenet
+
+@END = 
+
+@KOODI = JN3XD 
+
+@SUOMI = Vatsan muu TT
+
+@RUOTSI = DT av hela buken (övrig)
+
+@END = 
+
+@KOODI = JN4AD 
+
+@SUOMI = Vartalon natiivi-TT
+
+@RUOTSI = DT av torax och buk utan kontrast
+
+@NOTE_F = Levinneisyystutkimus
+
+@END = 
+
+@KOODI = JN4BD 
+
+@SUOMI = Vartalon varjoaine-TT
+
+@RUOTSI = DT av torax och buk med kontrast
+
+@END = 
+
+@KOODI = JN4CD 
+
+@SUOMI = Vartalon natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av torax och buk utan och med kontrast
+
+@END = 
+
+@KOODI = JN4DD 
+
+@SUOMI = Vartalon lisävarjoaine-TT
+
+@RUOTSI = DT av torax och buk med tillläggskontrast
+
+@END = 
+
+@KOODI = JN4ED 
+
+@SUOMI = Vartalon TT erityisvalmisteluin
+
+@RUOTSI = DT av torax och buk med speciella förberedelser
+
+@END = 
+
+@KOODI = JN4XD 
+
+@SUOMI = Vartalon muu TT
+
+@RUOTSI = DT av torax och buk (övrig)
+
+@END = 
+
+@KOODI = JX1LA 
+
+@SUOMI = Ruoansulatuselimistön läpivalaisu ja natiiviröntgen
+
+@RUOTSI = Genomlysning och bild av tarmkanalen
+
+@END = 
+
+@KOODI = JX1RT 
+
+@SUOMI = Mahasuolikanavan laajennus radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd dilatation i matsmältningskanalen
+
+@END = 
+
+@KOODI = JX1XB 
+
+@SUOMI = Ruoansulatuskanavan muu varjoainetutkimus
+
+@RUOTSI = Övrig kontrastundersökning av matsmältningskanalen
+
+@END = 
+
+@KOODI = JX1XE 
+
+@SUOMI = Ruoansulatuselimistön muu UÄ
+
+@RUOTSI = UL av matsmältningsorganen (övrig)
+
+@END = 
+
+@KOODI = JX2XB 
+
+@SUOMI = Ruoansulatuselinten muu varjoainetutkimus leikkauksen jälkeen
+
+@RUOTSI = Övrig postoperativ kontrastundersökning av matsmältningskanalen
+
+@END = 
+
+@LUVUT = LUKU K
+
+@LUVUT_S = KAPITEL K
+
+@SUOMI_L = Virtsateiden, miehen sukupuolielinten ja vatsaontelon takaisten kudosten toimenpiteet
+
+@RUOTSI_L = Åtgärder på urinvägar, manliga genitalier och retroperitoneal vävnad
+
+@ENGL_L = Urinary system, male genital organs and retroperitoneal space  procedures
+
+@END_L = 
+
+@KOODI_R = KA
+
+@SUOMI_R = Munuaisten ja munuaisaltaiden toimenpiteet
+
+@RUOTSI_R = Operationer på njure inklusive njurbäcken
+
+@ENGL_R = Kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KA1AA 
+
+@SUOMI = Munuaisten natiiviröntgen
+
+@RUOTSI = Njuröversikt, röntgen
+
+@END = 
+
+@KOODI = KA1AD 
+
+@SUOMI = Munuaisten natiivi-TT
+
+@RUOTSI = DT av njurar utan kontrast
+
+@END = 
+
+@KOODI = KA1AE 
+
+@SUOMI = Munuaisten UÄ *
+
+@RUOTSI = UL av njurar
+
+@END = 
+
+@KOODI = KA1AK 
+
+@SUOMI = Munuaisten spektroskopia
+
+@RUOTSI = Spektroskopi av njurar
+
+@END = 
+
+@KOODI = KA1BD 
+
+@SUOMI = Munuaisten varjoaine-TT
+
+@RUOTSI = DT av njurar med kontrast
+
+@END = 
+
+@KOODI = KA1CD 
+
+@SUOMI = Munuaisten natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av njurar utan och med kontrast
+
+@END = 
+
+@KOODI = KA1XD 
+
+@SUOMI = Munuaisten muu TT
+
+@RUOTSI = DT av njurar (övrig)
+
+@END = 
+
+@KOODI = KA2AE 
+
+@SUOMI = Munuaissiirrännäisen UÄ
+
+@RUOTSI = UL av njurtransplantat
+
+@END = 
+
+@KOODI = KA2AT 
+
+@SUOMI = Munuaissiirrännäisen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av njurtransplantat
+
+@END = 
+
+@KOODI = KA3AT 
+
+@SUOMI = Munuaisen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd njurbiopsi
+
+@END = 
+
+@KOODI = KA3CT 
+
+@SUOMI = Munuaisen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd njurbiopsi
+
+@END = 
+
+@KOODI = KA3DT 
+
+@SUOMI = Munuaisen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd njurbiopsi
+
+@END = 
+
+@KOODI = KA3EB 
+
+@SUOMI = Ylävirtsateiden varjoainetutkimus iholta käsin
+
+@RUOTSI = Antegrad pyelografi
+
+@END = 
+
+@KOODI = KA3GB 
+
+@SUOMI = Ylävirtsateiden varjoainetutkimus alavirtsateiden kautta
+
+@RUOTSI = Retrograd pyelografi
+
+@END = 
+
+@KOODI = KA4AT 
+
+@SUOMI = Munuaisen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av njure
+
+@END = 
+
+@KOODI = KA4CT 
+
+@SUOMI = Munuaisen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi av njure
+
+@END = 
+
+@KOODI = KA4DT 
+
+@SUOMI = Munuaisen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi av njure
+
+@END = 
+
+@KOODI = KA5AT 
+
+@SUOMI = Munuaiskystan punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av njurcysta
+
+@NOTE_F = Munuaisaltaan punktio, katso KH1AT
+
+@END = 
+
+@KOODI = KA5BT 
+
+@SUOMI = Munuaiskystan punktio läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd punktion av njurcysta
+
+@NOTE_F = Munuaisaltaan punktio, katso KH1BT
+
+@END = 
+
+@KOODI = KA5CT 
+
+@SUOMI = Munuaiskystan punktio TT-ohjauksessa
+
+@RUOTSI = DT-styrd punktion av njurcysta
+
+@NOTE_F = Munuaisaltaan punktio, katso KH1CT
+
+@END = 
+
+@KOODI = KA6KT 
+
+@SUOMI = Munuaiskystan skleroterapia
+
+@RUOTSI = Skleroterapi av njurcysta
+
+@END = 
+
+@KOODI = KA6WT 
+
+@SUOMI = Munuaisen selektiivinen laskimoverinäytteen otto radiologisessa ohjauksessa
+
+@RUOTSI = Radilogiskt styrt selektivt njurvensblodprov
+
+@END = 
+
+@KOODI_A = KAH
+
+@SUOMI_A = Munuaisen ja munuaisaltaan korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på njurar och njurbäcken
+
+@ENGL_A = Reconstructive operations on kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KAH54 
+
+@SUOMI = Munuaispikarin aukaisu tai laajennus tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk incision eller dilatation av calyx neck
+
+@END = 
+
+@KOODI_R = KB
+
+@SUOMI_R = Virtsanjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer på uretärerna
+
+@ENGL_R = Ureter
+
+@END = 
+
+@KOODI = KB1AF 
+
+@SUOMI = Virtsateiden suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av urinvägarna med mellanfältsmagnet
+
+@NOTE_F = Esim. urografiaa korvaava tutkimus
+
+@END = 
+
+@KOODI = KB1AG 
+
+@SUOMI = Virtsateiden suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av urinvägarna med högfältsmagnet
+
+@NOTE_F = Esim. urografiaa korvaava tutkimus
+
+@END = 
+
+@KOODI = KB1EE 
+
+@SUOMI = Virtsarakon takaisinvirtauksen tutkiminen UÄ:llä
+
+@RUOTSI = UL för urinreflux
+
+@NOTE_F = Vesikoureterisen refluksin tutkimus
+
+@END = 
+
+@KOODI_R = KC
+
+@SUOMI_R = Virtsarakon toimenpiteet
+
+@RUOTSI_R = Operationer på urinblåsan
+
+@ENGL_R = Bladder
+
+@END = 
+
+@KOODI = KC1AE 
+
+@SUOMI = Virtsarakon UÄ iholta
+
+@RUOTSI = UL av urinblåsan med perkutan teknik
+
+@END = 
+
+@KOODI = KC1AT 
+
+@SUOMI = Virtsarakkopunktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av urinblåsa
+
+@END = 
+
+@KOODI = KC1BE 
+
+@SUOMI = Virtsarakon UÄ peräsuolen kautta
+
+@RUOTSI = UL av urinblåsan med transrektal teknik
+
+@END = 
+
+@KOODI = KC1CE 
+
+@SUOMI = Virtsarakon UÄ virtsaputken kautta
+
+@RUOTSI = UL av urinblåsan med transuretral teknik
+
+@END = 
+
+@KOODI = KC1EE 
+
+@SUOMI = Jäännösvirtsan määritys UÄ:llä *
+
+@RUOTSI = UL för mätning av residualurin
+
+@END = 
+
+@KOODI = KC1GB 
+
+@SUOMI = Virtsarakon varjoainetutkimus (kystografia)
+
+@RUOTSI = Cystografi
+
+@END = 
+
+@KOODI = KC1JB 
+
+@SUOMI = Virtsarakon toiminnan varjoainetutkimus (miktiokystografia)
+
+@RUOTSI = Miktionscystografi
+
+@END = 
+
+@KOODI = KC2AT 
+
+@SUOMI = Virtsarakon kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av urinblåsa
+
+@END = 
+
+@KOODI = KC3AT 
+
+@SUOMI = Virtsarakon solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av urinblåsa
+
+@END = 
+
+@KOODI_A = KCW
+
+@SUOMI_A = Muut virtsarakon toimenpiteet
+
+@RUOTSI_A = Andra operationer på urinblåsan
+
+@ENGL_A = Other operations on bladder
+
+@END = 
+
+@KOODI = KCW97 
+
+@SUOMI = Muu virtsarakon toimenpide tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation på urinblåsan
+
+@END = 
+
+@KOODI_R = KD
+
+@SUOMI_R = Virtsaputken toimenpiteet
+
+@RUOTSI_R = Operationer på uretra
+
+@ENGL_R = Urethra
+
+@NOTE_RF = Virtsaputken tähystys UKD02
+
+@NOTE_RF =
+Koepalat virtsaputkesta UKC02, UKD02
+
+@NOTE_RF =
+
+
+@NOTE_RS = Uretroskopi, se UKD02
+
+@NOTE_RS =
+Biopsi, se UKC02 / UKD02
+
+@END = 
+
+@KOODI = KD1AE 
+
+@SUOMI = Virtsaputken UÄ (uretran UÄ)
+
+@RUOTSI = UL av uretra
+
+@END = 
+
+@KOODI = KD1GB 
+
+@SUOMI = Virtsaputken ja -rakon varjoainetutkimus (uretrokystografia)
+
+@RUOTSI = Uretrocystografi
+
+@END = 
+
+@KOODI_A = KDV
+
+@SUOMI_A = Muita virtsaputken leikkauksia
+
+@RUOTSI_A = Andra operationer på uretra
+
+@ENGL_A = Miscellaneous operations on urethra
+
+@END = 
+
+@KOODI = KDV20 
+
+@SUOMI = Vieraan aineen ruiskuttaminen virtsaputken limakalvon alle
+
+@RUOTSI = Submukös injektionsbehandling i uretra
+
+@END = 
+
+@KOODI_R = KE
+
+@SUOMI_R = Eturauhasen ja rakkularauhasten toimenpiteet
+
+@RUOTSI_R = Operationer på prostata och sädesblåsor
+
+@ENGL_R = Prostate and seminal vesicles
+
+@END = 
+
+@KOODI = KE1AE 
+
+@SUOMI = Prostatan UÄ iholta
+
+@RUOTSI = UL av prostata med perkutan teknik
+
+@END = 
+
+@KOODI = KE1AT 
+
+@SUOMI = Eturauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd prostatabiopsi
+
+@END = 
+
+@KOODI = KE1BE 
+
+@SUOMI = Prostatan UÄ peräsuolen kautta
+
+@RUOTSI = UL av prostata med transrektal teknik
+
+@END = 
+
+@KOODI = KE1CT 
+
+@SUOMI = Eturauhasen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd prostatabiopsi
+
+@END = 
+
+@KOODI = KE2AT 
+
+@SUOMI = Eturauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av urinblåsa
+
+@END = 
+
+@KOODI = KE2CT 
+
+@SUOMI = Eturauhasen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi av urinblåsa
+
+@END = 
+
+@KOODI = KE4CB 
+
+@SUOMI = Siementiehyen tai -rakkuloiden varjoainetutkimus
+
+@RUOTSI = Vesikulografi/vasografi
+
+@END = 
+
+@KOODI_R = KF
+
+@SUOMI_R = Kivesten ja siemenjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer på skrotum och skrotalinnehållet
+
+@ENGL_R = Scrotum and scrotal organs
+
+@END = 
+
+@KOODI = KF1AT 
+
+@SUOMI = Kivespunktio  UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd testispunktion
+
+@END = 
+
+@KOODI = KF2AT 
+
+@SUOMI = Kiveksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd testisbiopsi
+
+@END = 
+
+@KOODI = KF3AT 
+
+@SUOMI = Kiveksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av testis
+
+@END = 
+
+@KOODI = KF5AT 
+
+@SUOMI = Lisäkivespunktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av bitestikel
+
+@END = 
+
+@KOODI = KF6AT 
+
+@SUOMI = Lisäkiveksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av bitestikel
+
+@END = 
+
+@KOODI = KF7AT 
+
+@SUOMI = Lisäkiveksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av bitestikel
+
+@END = 
+
+@KOODI = KF8AE 
+
+@SUOMI = Kivespussin UÄ
+
+@RUOTSI = UL av skrotum
+
+@END = 
+
+@KOODI = KF8AT 
+
+@SUOMI = Kivespussin punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd skrotumpunktion
+
+@END = 
+
+@KOODI = KF8KT 
+
+@SUOMI = Kivespussin skleroterapia
+
+@RUOTSI = Skleroterapi av skrotum
+
+@END = 
+
+@KOODI_A = KFB
+
+@SUOMI_A = Koepalan otot kiveksistä tai siemenjohtimista
+
+@RUOTSI_A = Biopsi av testiklar, bitestiklar och sädesledare
+
+@ENGL_A = Biopsy of testis, epididymis and vas deferens
+
+@END = 
+
+@KOODI = KFB96 
+
+@SUOMI = Koepalanotto muusta kivespussin elinmestä
+
+@RUOTSI = Biopsi från annat skrotalt organ
+
+@END = 
+
+@KOODI_R = KG
+
+@SUOMI_R = Siittimen toimenpiteet
+
+@RUOTSI_R = Åtgärder på penis
+
+@ENGL_R = Penis
+
+@END = 
+
+@KOODI = KG1AE 
+
+@SUOMI = Siittimen UÄ
+
+@RUOTSI = UL av penis
+
+@END = 
+
+@KOODI = KH1AA 
+
+@SUOMI = Virtsateiden natiiviröntgen
+
+@RUOTSI = Översikt av urinvägarna, röntgen
+
+@END = 
+
+@KOODI = KH1AE 
+
+@SUOMI = Virtsaelinten UÄ
+
+@RUOTSI = UL av njurar och urinvägar
+
+@END = 
+
+@KOODI = KH1AT 
+
+@SUOMI = Virtsateiden kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt urinvägsdränage
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@END = 
+
+@KOODI = KH1BT 
+
+@SUOMI = Virtsateiden kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt urinvägsdränage
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@END = 
+
+@KOODI = KH1CB 
+
+@SUOMI = Virtsateiden varjoainetutkimus (urografia)
+
+@RUOTSI = Urografi
+
+@END = 
+
+@KOODI = KH1CT 
+
+@SUOMI = Virtsateiden kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt urinvägsdränage
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@END = 
+
+@KOODI = KH1DT 
+
+@SUOMI = Virtsateiden kanavointi magneettiohjauksessa
+
+@RUOTSI = MR-styrt urinvägrdränage
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@END = 
+
+@KOODI = KH1FT 
+
+@SUOMI = Virtsatiekatetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt kateterbyte
+
+@END = 
+
+@KOODI = KH1JB 
+
+@SUOMI = Virtsateiden akuutti varjoainetutkimus (akuutti urografia)
+
+@RUOTSI = Akut urografi
+
+@END = 
+
+@KOODI = KH1LA 
+
+@SUOMI = Virtsateiden läpivalaisu ja natiiviröntgen
+
+@RUOTSI = Genomlysning och bild av urinvägarna utan kontrastmedel
+
+@END = 
+
+@KOODI = KH1RT 
+
+@SUOMI = Virtsateiden laajennus radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd dilatation av urinvägarna
+
+@END = 
+
+@KOODI = KH1XB 
+
+@SUOMI = Virtsa- ja sukupuolielinten muu varjoainetutkimus
+
+@RUOTSI = Övrig kontrastundersökning av urogenitalorganen
+
+@END = 
+
+@KOODI = KH1YT 
+
+@SUOMI = Virtsateiden endoproteesin laitto iholta radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd perkutan insättning av endoprotes i urinvägarna
+
+@END = 
+
+@KOODI = KH1ZT 
+
+@SUOMI = Virtsateiden kivien ja vierasesineiden poisto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd extraktion av sten eller främmande kropp ur urinvägarna
+
+@END = 
+
+@KOODI_R = KW
+
+@SUOMI_R = Leikkauskomplikaatioiden vuoksi tehdyt urologiset uusintatoimenpiteet
+
+@RUOTSI_R = Operationer för postoperativa komplikationer av urologisk kirurgi
+
+@ENGL_R = Reoperations in urological surgery
+
+@END = 
+
+@KOODI = KK1AE 
+
+@SUOMI = Retroperitoneumin UÄ
+
+@RUOTSI = UL av retroperitoneum
+
+@END = 
+
+@KOODI = KK1XE 
+
+@SUOMI = Retroperitoneumin, virtsateiden tai sukuelinten muu UÄ
+
+@RUOTSI = UL av retroperitoneum och urogenital organ (övrig)
+
+@NOTE_F = Gynekologiset ja obstetriset ultraäänitutkimukset
+
+@END = 
+
+@LUVUT = LUKU L
+
+@LUVUT_S = KAPITEL L
+
+@SUOMI_L = Naisen sukupuolielinten toimenpiteet
+
+@RUOTSI_L = Åtgärder på kvinnliga genitalier
+
+@ENGL_L = Female genital organs  procedures
+
+@END_L = 
+
+@KOODI_R = LA
+
+@SUOMI_R = Munasarjojen toimenpiteet
+
+@RUOTSI_R = Operationer på ovarier
+
+@ENGL_R = Ovary
+
+@END = 
+
+@KOODI = LA1AT 
+
+@SUOMI = Munasarjapunktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av ovarium
+
+@END = 
+
+@KOODI = LA2AE 
+
+@SUOMI = Munasarjarakkulan UÄ (follikkelin UÄ)
+
+@RUOTSI = UL av äggstockarna follikelundersökning
+
+@END = 
+
+@KOODI = LA2HE 
+
+@SUOMI = Munasarjarakkulan uudelleen mittaus
+
+@RUOTSI = UL av äggstockarna upprepade mätningar
+
+@END = 
+
+@KOODI = LA2JE 
+
+@SUOMI = Kuukautiskierron kartoitus toistetulla follikkelin UÄ-mittauksella (vähintään 3 t
+
+@RUOTSI = UL av äggstockarna uppföljning av menstruationcykeln
+
+@END = 
+
+@KOODI_R = LB
+
+@SUOMI_R = Munanjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer på äggledare
+
+@ENGL_R = Fallopian tube
+
+@NOTE_RF = Sterilisaatiot kohdassa LG
+
+@NOTE_RS = Sterilisationsoperationer, se LG
+
+@END = 
+
+@KOODI = LB1AT 
+
+@SUOMI = Munajohtimen punktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av äggledare
+
+@END = 
+
+@KOODI = LB1GB 
+
+@SUOMI = Kohdun ja munajohdinten varjoainetutkimus (hysterosalpingograf)
+
+@RUOTSI = Hysterosalpingografi
+
+@END = 
+
+@KOODI = LB1LB 
+
+@SUOMI = Sukupuolitiehyiden varjoainetutkimus (genitografia)
+
+@RUOTSI = Genitografi
+
+@END = 
+
+@KOODI = LB1YT 
+
+@SUOMI = Munajohtimen katetrisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd kateterisring av äggledaren
+
+@END = 
+
+@KOODI_R = LC
+
+@SUOMI_R = Kohdun ja sen kannatinsiteidentoimenpiteet
+
+@RUOTSI_R = Åtgärder på uterus och dess upphängningsapparat
+
+@ENGL_R = Uterus and uterine ligaments
+
+@END = 
+
+@KOODI = LC2AE 
+
+@SUOMI = Kohdun ja sivuelinten UÄ
+
+@RUOTSI = UL av livmodern och äggstockarna
+
+@END = 
+
+@KOODI = LC2BE 
+
+@SUOMI = Kohdun, sivuelinten ja alavatsan UÄ-tutkimus emättimen kautta
+
+@RUOTSI = UL av livmodern och äggstockarna med transvaginal teknik
+
+@END = 
+
+@KOODI = LC2DE 
+
+@SUOMI = Kohdun, sivuelinten ja alavatsan vaativa UÄ-tutkimus erikoistekniikoin (POWER ja
+
+@RUOTSI = Kravande UL av livmodern, äggstockarna och nedre delen av buken med speciella tekniker
+
+@END = 
+
+@KOODI = LC2HE 
+
+@SUOMI = Kohdun ja munajohtimien UÄ varjoainetta käyttäen (HSG-UÄ)
+
+@RUOTSI = UL av livmodern och urinledarna med UL-kontrast, HSG-UL
+
+@END = 
+
+@KOODI = LC3AE 
+
+@SUOMI = Ehkäisykierukan paikantaminen tai muu yksittäisen gynekologisen kohteen UÄ-tutkim
+
+@RUOTSI = UL för att lokalisera spiral (IUD)
+
+@END = 
+
+@KOODI = LX1AE 
+
+@SUOMI = Gynekologinen UÄ-tutkimus kliinisen tutkimuksen yhteydessä (ilman lausuntoa)
+
+@RUOTSI = UL gynekologiskt i samband med klinisk undersökning (utan seprarat utlåtande)
+
+@NOTE_F = Ilman erillistä lausuntoa
+
+@END = 
+
+@KOODI = LX1XE 
+
+@SUOMI = Gynekologinen muu UÄ
+
+@RUOTSI = UL övrigt gynekologiskt
+
+@END = 
+
+@LUVUT = LUKU M
+
+@LUVUT_S = KAPITEL M
+
+@SUOMI_L = Raskauteen ja synnytykseen liittyvät toimenpiteet
+
+@RUOTSI_L = Obstetriska ingrepp
+
+@ENGL_L = Obstetric procedures
+
+@END_L = 
+
+@KOODI_R = MA
+
+@SUOMI_R = Raskauden ja synnytyksen aikana tehtävät toimenpiteet
+
+@RUOTSI_R = Ingrepp under graviditet eller i samband med förlossning
+
+@ENGL_R = Procedures in pregnancy and at delivery
+
+@NOTE_RF = Raskauden keskeytys kohdassa LCH
+
+@NOTE_RS = Avbrytande av graviditet, se LCH
+
+@END = 
+
+@KOODI = MA1AE 
+
+@SUOMI = Varhaisraskauden UÄ (tutkimus ennen 12. raskausviikkoa)
+
+@RUOTSI = UL vid tidig graviditet
+
+@NOTE_F = Tutkimus raskauden varmistamiseksi. Tyypillisesti ennen 12. raskausviikkoa
+
+@END = 
+
+@KOODI = MA2AA 
+
+@SUOMI = Sikiön röntgen
+
+@RUOTSI = Fosteröversikt, röntgen
+
+@END = 
+
+@KOODI = MA2AE 
+
+@SUOMI = Raskaudentilan UÄ (tutkimus 12. raskausviikolla tai myöhemmin, sisältää sikiön pe
+
+@RUOTSI = UL vid graviditet
+
+@NOTE_F = 12 raskausviikolla tai sen jälkeen. Sisältää sikiön morfologisen tutkimuksen
+
+@END = 
+
+@KOODI = MA2DE 
+
+@SUOMI = Sikiön yksityiskohtainen vaativa UÄ-tutkimus erikoistekniikoin (väridoppleravuste
+
+@RUOTSI = UL av fostrets blodcirkulation
+
+@END = 
+
+@KOODI = MA2HE 
+
+@SUOMI = Sikiön yksityiskohtainen morfologiatutkimus UÄ:llä
+
+@RUOTSI = UL av fosterhjärtat omfattande undersökning
+
+@END = 
+
+@KOODI = MA2XE 
+
+@SUOMI = Obstetrinen muu UÄ
+
+@RUOTSI = UL av fostret eller livmodern (övrig)
+
+@END = 
+
+@KOODI = MA4AT 
+
+@SUOMI = Korionbiopsia UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd korionbiopsi
+
+@END = 
+
+@KOODI_A = MAA
+
+@SUOMI_A = Kohdun sisäiset tai sikiötoimenpiteet raskauden aikana
+
+@RUOTSI_A = Intrauterina operationer på gravid uterus och foster
+
+@ENGL_A = Intrauterine operations on pregnant uterus and fetus
+
+@END = 
+
+@KOODI = MAA00 
+
+@SUOMI = Lapsivesipisto
+
+@RUOTSI = Amniocentes
+
+@NOTE_F = Sisältää ultraääniohjauksen
+
+@NOTE_S = Innefattar ultraljudsutstyrd
+
+@END = 
+
+@KOODI = MAA32 
+
+@SUOMI = Sikiön napasuonen katerointi
+
+@RUOTSI = Katetrisering av fostrets navelsträngs kärl
+
+@NOTE_F = Sisältää ultraääniohjauksen
+
+@NOTE_S = Inkl ultraljudsutstyrd
+
+@END = 
+
+@KOODI = MAA34 
+
+@SUOMI = Siirto sikiön napasuoneen
+
+@RUOTSI = Transfusion till navelsträngs kärl
+
+@NOTE_F = Esim verisolujen, plasman tai trombosyyttien siirto
+
+@NOTE_S = T.ex. transfusion av blodgroppar, plasma eller trombosyter.
+
+@END = 
+
+@KOODI_R = MB
+
+@SUOMI_R = Synnytyksen tai raskaudenkeskeytymisen jälkeen tehtävät toimenpiteet
+
+@RUOTSI_R = Ingrepp efter förlossning eller abort
+
+@ENGL_R = Procedures after delivery or abortion
+
+@NOTE_RF = Raskauden keskeytys, katso LCH
+
+@NOTE_RS = Provocerad abort, se LCH
+
+@END = 
+
+@KOODI = MB2AA 
+
+@SUOMI = Kuolleen sikiön tai vastasyntyneen kokovartaloröntgen
+
+@RUOTSI = Röntgen av dödfött barn eller dött foster
+
+@END = 
+
+@LUVUT = LUKU N
+
+@LUVUT_S = KAPITEL N
+
+@SUOMI_L = Tuki- ja liikuntaelimien toimenpiteet
+
+@RUOTSI_L = Åtgärder på muskuloskeletala systemet
+
+@ENGL_L = Musculoskeletal system  procedures
+
+@END_L = 
+
+@KOODI_R = NA
+
+@SUOMI_R = Selän ja kaulan toimenpiteet
+
+@RUOTSI_R = Operationer på ryggen och halsen
+
+@ENGL_R = Spine and neck
+
+@NOTE_RF = Sisältää kaulan lihakset
+
+@NOTE_RF =
+Selän välilevyleikkaukset kohdassa ABC
+
+@NOTE_RF =
+Nielun ja sitä ympäröivän pehmytkudoksen toimenpiteet kohdassa EN
+
+@NOTE_RF =
+Kurkunpään leikkaukset kohdassa DQ
+
+@NOTE_RS = Inkluderar musklerna i halsen
+
+@NOTE_RS =
+Operationer på intervertebrala "diskar", se ABC
+
+@NOTE_RS =
+Operationer på farynx och närliggande organ, se EN
+
+@NOTE_RS =
+Operationer på laryngs, se DQ
+
+@END = 
+
+@KOODI = NA1AA 
+
+@SUOMI = Kaularangan natiiviröntgen
+
+@RUOTSI = Halsryggraden, röntgen
+
+@END = 
+
+@KOODI = NA1AD 
+
+@SUOMI = Kaularangan natiivi-TT
+
+@RUOTSI = DT av halsrygg utan kontrast
+
+@END = 
+
+@KOODI = NA1BA 
+
+@SUOMI = Kaularangan laaja natiiviröntgen
+
+@RUOTSI = Halsryggraden, omfattande röntgen
+
+@END = 
+
+@KOODI = NA1BD 
+
+@SUOMI = Kaularangan varjoaine-TT
+
+@RUOTSI = DT av halsrygg med kontrast
+
+@END = 
+
+@KOODI = NA1BF 
+
+@SUOMI = Kaularangan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsrygg med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA1BG 
+
+@SUOMI = Kaularangan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsrygg med högfältsmagnet
+
+@END = 
+
+@KOODI = NA1CD 
+
+@SUOMI = Kaularangan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av halsrygg utan och med kontrast
+
+@END = 
+
+@KOODI = NA1CF 
+
+@SUOMI = Kaularangan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsrygg, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA1CG 
+
+@SUOMI = Kaularangan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsrygg, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA1DF 
+
+@SUOMI = Kaularangan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsrygg, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA1DG 
+
+@SUOMI = Kaularangan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsrygg, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA1EA 
+
+@SUOMI = Kaularangan röntgen taivutuskuvat *
+
+@RUOTSI = Halsryggraden, röntgen böjbilder
+
+@END = 
+
+@KOODI = NA1FD 
+
+@SUOMI = Kaularangan TT-myelografia
+
+@RUOTSI = DT av halsrygg med intratekal kontrast
+
+@END = 
+
+@KOODI = NA1HD 
+
+@SUOMI = Kaularangan rotaation TT
+
+@RUOTSI = DT av halsrygg rotationsundersökning
+
+@NOTE_F = Sisältää tutkimusta varten otettavat peruskuvat
+
+@END = 
+
+@KOODI = NA1XD 
+
+@SUOMI = Kaularangan muu TT
+
+@RUOTSI = DT av halsrygg (övrig)
+
+@END = 
+
+@KOODI = NA2AA 
+
+@SUOMI = Rintarangan natiiviröntgen
+
+@RUOTSI = Bröstryggraden, röntgen
+
+@END = 
+
+@KOODI = NA2AD 
+
+@SUOMI = Rintarangan natiivi-TT
+
+@RUOTSI = DT av bröstrygg utan kontrast
+
+@END = 
+
+@KOODI = NA2BA 
+
+@SUOMI = Rintarangan laaja natiiviröntgen
+
+@RUOTSI = Bröstryggraden, omfattande röntgen
+
+@END = 
+
+@KOODI = NA2BD 
+
+@SUOMI = Rintarangan varjoaine-TT
+
+@RUOTSI = DT av bröstrygg med kontrast
+
+@END = 
+
+@KOODI = NA2BF 
+
+@SUOMI = Rintarangan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bröstrygg med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA2BG 
+
+@SUOMI = Rintarangan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bröstrygg med högfältsmagnet
+
+@END = 
+
+@KOODI = NA2CD 
+
+@SUOMI = Rintarangan natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av bröstrygg utan och med kontrast
+
+@END = 
+
+@KOODI = NA2CF 
+
+@SUOMI = Rintarangan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bröstrygg, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA2CG 
+
+@SUOMI = Rintarangan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bröstrygg, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA2DF 
+
+@SUOMI = Rintarangan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bröstrygg, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA2DG 
+
+@SUOMI = Rintarangan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bröstrygg, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA2FD 
+
+@SUOMI = Rintarangan TT-myelografia
+
+@RUOTSI = DT av bröstrygg med intratekal kontrast
+
+@END = 
+
+@KOODI = NA2XD 
+
+@SUOMI = Rintarangan muu TT
+
+@RUOTSI = DT av bröstrygg (övrig)
+
+@END = 
+
+@KOODI = NA3AA 
+
+@SUOMI = Lannerangan natiiviröntgen
+
+@RUOTSI = Ländryggraden, röntgen
+
+@END = 
+
+@KOODI = NA3AD 
+
+@SUOMI = Lannerangan ja ristiluun natiivi-TT
+
+@RUOTSI = DT av ländrygg och korsben utan kontrast
+
+@END = 
+
+@KOODI = NA3BA 
+
+@SUOMI = Lannerangan laaja natiiviröntgen
+
+@RUOTSI = Ländryggraden, omfattande röntgen
+
+@END = 
+
+@KOODI = NA3BD 
+
+@SUOMI = Lannerangan ja ristiluun varjoaine-TT
+
+@RUOTSI = DT av ländrygg och korsben med kontrast
+
+@END = 
+
+@KOODI = NA3BF 
+
+@SUOMI = Lannerangan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av ländrygg med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA3BG 
+
+@SUOMI = Lannerangan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ländrygg med högfältsmagnet
+
+@END = 
+
+@KOODI = NA3CA 
+
+@SUOMI = Lannerangan röntgen viistokuvaus *
+
+@RUOTSI = Ländryggraden, röntgen snedbilder
+
+@END = 
+
+@KOODI = NA3CD 
+
+@SUOMI = Lannerangan ja ristiluun natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av ländrygg och korsben utan och med kontrast
+
+@END = 
+
+@KOODI = NA3CF 
+
+@SUOMI = Lannerangan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av ländrygg, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA3CG 
+
+@SUOMI = Lannerangan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ländrygg, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA3DF 
+
+@SUOMI = Lannerangan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av ländrygg, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA3DG 
+
+@SUOMI = Lannerangan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ländrygg, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA3EA 
+
+@SUOMI = Lannerangan röntgen taivutuskuvat
+
+@RUOTSI = Ländryggraden, röntgen böjbilder
+
+@END = 
+
+@KOODI = NA3FA 
+
+@SUOMI = Lannerangan röntgen kuormituskuvaus (Friberg)
+
+@RUOTSI = Ländryggraden, röntgen belastningsbild
+
+@END = 
+
+@KOODI = NA3FD 
+
+@SUOMI = Lannerangan ja ristiluun TT-myelografia
+
+@RUOTSI = DT av ländrygg och korsben med intratekal kontrast
+
+@END = 
+
+@KOODI = NA3HD 
+
+@SUOMI = Lannerangan kompressio TT
+
+@RUOTSI = DT av ländrygg och korsben kompressionsundersökning
+
+@NOTE_F = Sisältää tutkimusta varten otettavat peruskuvat
+
+@END = 
+
+@KOODI = NA3SA 
+
+@SUOMI = Lannerangan röntgen seisten  *
+
+@RUOTSI = Ländryggraden, röntgen stående
+
+@END = 
+
+@KOODI = NA3XD 
+
+@SUOMI = Lannerangan ja ristiluun muu TT
+
+@RUOTSI = DT av ländrygg och korsben (övrig)
+
+@END = 
+
+@KOODI = NA4AA 
+
+@SUOMI = Ristiluun röntgen *
+
+@RUOTSI = Korsben, röntgen
+
+@END = 
+
+@KOODI = NA5AA 
+
+@SUOMI = Häntäluun röntgen *
+
+@RUOTSI = Svansben, röntgen
+
+@END = 
+
+@KOODI = NA6AA 
+
+@SUOMI = Ristinivelten (SI-nivelten) röntgen *
+
+@RUOTSI = SI-leder, röntgen
+
+@END = 
+
+@KOODI = NA6BF 
+
+@SUOMI = Ristinivelten magneettitutkimus keskikenttälaiteella
+
+@RUOTSI = MR av korsben och SI-leder med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA6BG 
+
+@SUOMI = Ristiluun nivelten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av korsben och SI-leder med högfältsmagnet
+
+@END = 
+
+@KOODI = NA6CF 
+
+@SUOMI = Ristinivelten  laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av korsben och SI-leder, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA6CG 
+
+@SUOMI = Ristiluun nivelten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av korsben och SI-leder, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA6CT 
+
+@SUOMI = Ristrinivelen (SI-nivelen) injektio TT-ohjauksessa
+
+@RUOTSI = DT styrd injektion till SI-led
+
+@END = 
+
+@KOODI = NA6DF 
+
+@SUOMI = Ristinivelten  erittäin laaja magneettitutkimus keskikentälaitteella
+
+@RUOTSI = MR av korsben och SI-leder, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA6DG 
+
+@SUOMI = Ristiluun nivelten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av korsben och SI-leder, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA6FA 
+
+@SUOMI = Ristinivelten (SI-nivelten) rasitustutkimus (Chamberlain)
+
+@RUOTSI = SI-leder, röntgen med belastning
+
+@END = 
+
+@KOODI = NA6FD 
+
+@SUOMI = Ristinivelen (SI-nivelen) TT nivelen sisäisellä varjoaineella
+
+@RUOTSI = DT av SI-leder med intra-artikulär kontrast
+
+@END = 
+
+@KOODI = NA7BF 
+
+@SUOMI = Selkärangan ja selkäytimen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av ryggraden och ryggmärgen med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA7BG 
+
+@SUOMI = Selkärangan ja selkäytimen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ryggraden och ryggmärgen med högfältsmagnet
+
+@END = 
+
+@KOODI = NA7BT 
+
+@SUOMI = Selän fasettinivelen injektio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd injektion till facettled i ryggen
+
+@END = 
+
+@KOODI = NA7CF 
+
+@SUOMI = Selkärangan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av ryggraden och ryggmärgen, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA7CG 
+
+@SUOMI = Selkärangan ja selkäytimen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ryggraden och ryggmärgen, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA7DF 
+
+@SUOMI = Selkärangan erittäin laaja magneettitutkimus  keskikenttälaitteella
+
+@RUOTSI = MR av ryggraden och ryggmärgen, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NA7DG 
+
+@SUOMI = Selkärangan ja selkäytimen erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av ryggraden och ryggmärgen, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NA7EA 
+
+@SUOMI = Skolioosin röntgentutkimus
+
+@RUOTSI = Skoliosundersökning, röntgen
+
+@END = 
+
+@KOODI = NA7FA 
+
+@SUOMI = Selkärangan muu rasitusröntgen
+
+@RUOTSI = Övrig belastningsundersökning av ryggraden
+
+@END = 
+
+@KOODI = NA7FT 
+
+@SUOMI = Selkärangan alueen merkkaus läpivalaisu ohjauksessa
+
+@RUOTSI = Markering av spinala området med radiologisk styrning
+
+@END = 
+
+@KOODI = NA7XD 
+
+@SUOMI = Selkärangan muu TT
+
+@RUOTSI = DT av ryggraden (övrig)
+
+@END = 
+
+@KOODI = NA8CB 
+
+@SUOMI = Selkärangan välilevyn varjoainetutkimus (diskografia)
+
+@RUOTSI = Diskografi
+
+@END = 
+
+@KOODI_R = NB
+
+@SUOMI_R = Lapaluun, solisluun, olkanivelen ja olkavarren toimenpiteet
+
+@RUOTSI_R = Operationer på skulderbladet, nyckelbenet, skulderleden och överarmen
+
+@ENGL_R = Shoulder and upper arm
+
+@END = 
+
+@KOODI = NB1AA 
+
+@SUOMI = Olkanivelen ja olkapään natiiviröntgen
+
+@RUOTSI = Axelled, röntgen
+
+@END = 
+
+@KOODI = NB1AD 
+
+@SUOMI = Olkapään natiivi-TT
+
+@RUOTSI = DT av axelled utan kontrast
+
+@END = 
+
+@KOODI = NB1AE 
+
+@SUOMI = Olkanivelen UÄ
+
+@RUOTSI = UL av axelled
+
+@END = 
+
+@KOODI = NB1AT 
+
+@SUOMI = Olkanivelpunktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av axelled
+
+@END = 
+
+@KOODI = NB1BA 
+
+@SUOMI = Olkanivelen laaja natiiviröntgen
+
+@RUOTSI = Axelled, omfattande röntgen
+
+@END = 
+
+@KOODI = NB1BD 
+
+@SUOMI = Olkapään varjoaine-TT
+
+@RUOTSI = DT av axelled med kontrast
+
+@END = 
+
+@KOODI = NB1BF 
+
+@SUOMI = Olkapään ja/tai olkavarren magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NB1BG 
+
+@SUOMI = Olkapään ja/tai olkavarren magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm med högfältsmagnet
+
+@END = 
+
+@KOODI = NB1BH 
+
+@SUOMI = Olkapään ja/tai olkavarren magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm med lågfältsmagnet
+
+@END = 
+
+@KOODI = NB1BT 
+
+@SUOMI = Olkanivelpunktio läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd punktion av axelled
+
+@END = 
+
+@KOODI = NB1CB 
+
+@SUOMI = Olkanivelen varjoainetutkimus (artrografia)
+
+@RUOTSI = Axelled, kotrastundersökning
+
+@END = 
+
+@KOODI = NB1CD 
+
+@SUOMI = Olkapään natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av axelled utan och med kontrast
+
+@END = 
+
+@KOODI = NB1CF 
+
+@SUOMI = Olkapään ja/tai olkavarren laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NB1CG 
+
+@SUOMI = Olkapään ja/tai olkavarren laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NB1CH 
+
+@SUOMI = Olkapään ja/tai olkavarren laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm, omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NB1DA 
+
+@SUOMI = Olkanivelten natiiviröntgen
+
+@RUOTSI = Axelled, bilateralt röntgen
+
+@END = 
+
+@KOODI = NB1DF 
+
+@SUOMI = Olkapään ja/tai olkavarren erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NB1DG 
+
+@SUOMI = Olkapään ja/tai olkavarren erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av axelled och/eller överarm, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NB1DH 
+
+@SUOMI = Olkapään ja/tai olkavarren erittäin laaja magneettitutkimus matalakenttälaitteell
+
+@RUOTSI = MR av axelled och/eller överarm, speciellt omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NB1FD 
+
+@SUOMI = Olkapään TT nivelensisäisellä varjoaineella
+
+@RUOTSI = DT av axelled med intra-artikulär kontrast
+
+@END = 
+
+@KOODI = NB2AT 
+
+@SUOMI = Olkanivelinjektio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd injektion i axelled
+
+@END = 
+
+@KOODI = NB2BT 
+
+@SUOMI = Olkanivelinjektio läpivalaisuohjauksessa
+
+@RUOTSI = DT-styrd injektion i axelled
+
+@END = 
+
+@KOODI = NB3AA 
+
+@SUOMI = Solisluun röntgen *
+
+@RUOTSI = Nyckelben, röntgen
+
+@END = 
+
+@KOODI = NB3DA 
+
+@SUOMI = Solisluiden röntgen
+
+@RUOTSI = Nyckelben, bilateralt röntgen
+
+@END = 
+
+@KOODI = NB4AA 
+
+@SUOMI = Lapaluun röntgen *
+
+@RUOTSI = Skulderblad, röntgen
+
+@END = 
+
+@KOODI = NB4DA 
+
+@SUOMI = Lapaluiden röntgen
+
+@RUOTSI = Skulderblad, bilateralt röntgen
+
+@END = 
+
+@KOODI = NB5AA 
+
+@SUOMI = Olkalisäke-solisluunivelen (AC-nivel) natiiviröntgen *
+
+@RUOTSI = Akromioklavikularled, röntgen
+
+@END = 
+
+@KOODI = NB5EA 
+
+@SUOMI = Olkalisäke-solisluunivelten (AC-nivel) rasitustutkimus
+
+@RUOTSI = Akromioklavikularled, röntgen med belastning
+
+@END = 
+
+@KOODI = NB6AA 
+
+@SUOMI = Olkavarren röntgen
+
+@RUOTSI = Överarmsben, röntgen
+
+@END = 
+
+@KOODI = NB6BA 
+
+@SUOMI = Olkavarren laaja röntgen
+
+@RUOTSI = Överarmsben, omfattande röntgen
+
+@END = 
+
+@KOODI = NB6DA 
+
+@SUOMI = Olkavarsien röntgen
+
+@RUOTSI = Överarmsben, bilateralt röntgen
+
+@END = 
+
+@KOODI_R = NC
+
+@SUOMI_R = Kyynärnivelen ja kyynärvarren toimenpiteet
+
+@RUOTSI_R = Ortopediska operationer på armbågen och underarmen
+
+@ENGL_R = Elbow and forearm
+
+@END = 
+
+@KOODI = NC1AA 
+
+@SUOMI = Kyynärnivelen natiiviröntgen
+
+@RUOTSI = Armbågsled, röntgen
+
+@END = 
+
+@KOODI = NC1AD 
+
+@SUOMI = Kyynärpään natiivi-TT
+
+@RUOTSI = DT av armbåge utan kontrast
+
+@END = 
+
+@KOODI = NC1BA 
+
+@SUOMI = Kyynärnivelen laaja natiiviröntgen
+
+@RUOTSI = Armbågsled, omfattande röntgen
+
+@END = 
+
+@KOODI = NC1BD 
+
+@SUOMI = Kyynärpään varjoaine-TT
+
+@RUOTSI = DT av armbåge med kontrast
+
+@END = 
+
+@KOODI = NC1BF 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av armbåge och/eller nedre arm med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NC1BG 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av armbåge och eller nedre arm med högfältsmagnet
+
+@END = 
+
+@KOODI = NC1BH 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av armbåge och eller nedre arm med lågfältsmagnet
+
+@END = 
+
+@KOODI = NC1CB 
+
+@SUOMI = Kyynärnivelen varjoainetutkimus (artrografia)
+
+@RUOTSI = Armbågsled, kotrastundersökning
+
+@END = 
+
+@KOODI = NC1CD 
+
+@SUOMI = Kyynärpään natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av armbåge utan och med kontrast
+
+@END = 
+
+@KOODI = NC1CF 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av armbåge och/eller nedre arm, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NC1CG 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av armbåge och/eller nedre arm, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NC1CH 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av armbåge och/eller nedre arm, omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NC1DA 
+
+@SUOMI = Kyynärnivelten natiiviröntgen
+
+@RUOTSI = Armbågsled, bilateralt röntgen
+
+@END = 
+
+@KOODI = NC1DF 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av armbåge och/eller nedre arm, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NC1DG 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av armbåge och eller nedre arm, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NC1DH 
+
+@SUOMI = Kyynärpään ja/tai kyynärvarren erittäin laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av armbåge och eller nedre arm, speciellt omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NC2AA 
+
+@SUOMI = Kyynärvarren röntgen
+
+@RUOTSI = Underarm, röntgen
+
+@END = 
+
+@KOODI = NC2BA 
+
+@SUOMI = Kyynärvarren laaja röntgen
+
+@RUOTSI = Underarm, omfattande röntgen
+
+@END = 
+
+@KOODI = NC2DA 
+
+@SUOMI = Kyynärvarsien röntgen
+
+@RUOTSI = Underarm, bilateralt röntgen
+
+@END = 
+
+@KOODI_R = ND
+
+@SUOMI_R = Ranteen ja käden toimenpiteet
+
+@RUOTSI_R = Operationer på handleden eller handen
+
+@ENGL_R = Wrist and hand
+
+@END = 
+
+@KOODI = ND1AA 
+
+@SUOMI = Ranteen natiiviröntgen
+
+@RUOTSI = Handled, röntgen
+
+@END = 
+
+@KOODI = ND1AD 
+
+@SUOMI = Ranteen ja käden natiivi-TT
+
+@RUOTSI = DT av handled eller hand utan kontrast
+
+@END = 
+
+@KOODI = ND1BA 
+
+@SUOMI = Ranteen laaja natiiviröntgen
+
+@RUOTSI = Handled, omfattande röntgen
+
+@END = 
+
+@KOODI = ND1BD 
+
+@SUOMI = Ranteen ja käden varjoaine-TT
+
+@RUOTSI = DT av handled eller hand med kontrast
+
+@END = 
+
+@KOODI = ND1BF 
+
+@SUOMI = Ranteen ja/tai käden magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand med mellanfältsmagnet
+
+@END = 
+
+@KOODI = ND1BG 
+
+@SUOMI = Ranteen ja/tai käden magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand med högfältsmagnet
+
+@END = 
+
+@KOODI = ND1BH 
+
+@SUOMI = Ranteen ja/tai käden magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand med lågfältsmagnet
+
+@END = 
+
+@KOODI = ND1CB 
+
+@SUOMI = Ranteen varjoainetutkimus (artrografia)
+
+@RUOTSI = Handled, kotrastundersökning
+
+@END = 
+
+@KOODI = ND1CD 
+
+@SUOMI = Ranteen ja käden natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av handled eller hand utan och med kontrast
+
+@END = 
+
+@KOODI = ND1CF 
+
+@SUOMI = Ranteen ja/tai käden laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = ND1CG 
+
+@SUOMI = Ranteen ja/tai käden laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = ND1CH 
+
+@SUOMI = Ranteen ja/tai käden laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand, omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = ND1DA 
+
+@SUOMI = Ranteiden natiiviröntgen
+
+@RUOTSI = Handleder, bilateralt röntgen
+
+@END = 
+
+@KOODI = ND1DF 
+
+@SUOMI = Ranteen ja/tai käden erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = ND1DG 
+
+@SUOMI = Ranteen ja/tai käden erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = ND1DH 
+
+@SUOMI = Ranteen ja/tai käden erittäin laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av handled och/eller hand, speciellt omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = ND2AA 
+
+@SUOMI = Käden ja sormien röntgen
+
+@RUOTSI = Hand och fingrar, röntgen
+
+@END = 
+
+@KOODI = ND2DA 
+
+@SUOMI = Käsien röntgen
+
+@RUOTSI = Båda händerna, röntgen
+
+@END = 
+
+@KOODI_R = NG
+
+@SUOMI_R = Polven ja säären toimenpiteet
+
+@RUOTSI_R = Operationer på knä och underben
+
+@ENGL_R = Knee joint and lower leg
+
+@END = 
+
+@KOODI = NE1AA 
+
+@SUOMI = Lantion röntgen
+
+@RUOTSI = Bäcken, röntgen
+
+@END = 
+
+@KOODI = NE1AD 
+
+@SUOMI = Lonkan ja lantion luiden natiivi-TT
+
+@RUOTSI = DT av bäckenskelett utan kontrast
+
+@END = 
+
+@KOODI = NE1BA 
+
+@SUOMI = Lantion laaja röntgen
+
+@RUOTSI = Bäcken, omfattande röntgen
+
+@END = 
+
+@KOODI = NE1BD 
+
+@SUOMI = Lonkan ja lantion luiden varjoaine-TT
+
+@RUOTSI = DT av bäckenskelett med kontrast
+
+@END = 
+
+@KOODI = NE1BF 
+
+@SUOMI = Lantion, lonkan ja/tai reiden magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av höftled och/eller femur med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NE1BG 
+
+@SUOMI = Lantion, lonkan ja/tai reiden magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av höftled och/eller femur med högfältsmagnet
+
+@END = 
+
+@KOODI = NE1CD 
+
+@SUOMI = Lonkan ja lantion luiden natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av bäckenskelett utan och med kontrast
+
+@END = 
+
+@KOODI = NE1CF 
+
+@SUOMI = Lantion, lonkan ja/tai reiden laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av höftled och/eller femur, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NE1CG 
+
+@SUOMI = Lantion, lonkan ja/tai reiden laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av höftled och/eller femur, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NE1DF 
+
+@SUOMI = Lantion, lonkan ja/tai reiden erittäin laaja magneettitutkimus keskikenttälaittee
+
+@RUOTSI = MR av höftled och/eller femur, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NE1DG 
+
+@SUOMI = Lantion, lonkan ja/tai reiden erittäin laaja magneettitutkimus vahvakenttälaittee
+
+@RUOTSI = MR av höftled och/eller femur, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NE1MA 
+
+@SUOMI = Synnytyskanavan mittakuvaus
+
+@RUOTSI = Bäckenmätning
+
+@END = 
+
+@KOODI_R = NG
+
+@SUOMI_R = Polven ja säären toimenpiteet
+
+@RUOTSI_R = Operationer på knä och underben
+
+@ENGL_R = Knee joint and lower leg
+
+@END = 
+
+@KOODI = NF1AA 
+
+@SUOMI = Lonkan röntgen
+
+@RUOTSI = Höftled, röntgen
+
+@END = 
+
+@KOODI = NF1AE 
+
+@SUOMI = Lonkkanivelen UÄ
+
+@RUOTSI = UL av höft
+
+@END = 
+
+@KOODI = NF1AT 
+
+@SUOMI = Lonkkanivelpunktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd punktion av höftled
+
+@END = 
+
+@KOODI = NF1BA 
+
+@SUOMI = Lonkan laaja röntgen
+
+@RUOTSI = Höftleder, omfattande röntgen
+
+@END = 
+
+@KOODI = NF1BT 
+
+@SUOMI = Lonkkanivelpunktio läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd punktion av höftled
+
+@END = 
+
+@KOODI = NF1CB 
+
+@SUOMI = Lonkkanivelen varjoainetutkimus (artrografia)
+
+@RUOTSI = Höftled, kotrastundersökning
+
+@END = 
+
+@KOODI = NF1DA 
+
+@SUOMI = Lonkkien röntgen
+
+@RUOTSI = Höftleder, bilateralt röntgen
+
+@END = 
+
+@KOODI = NF2AT 
+
+@SUOMI = Lonkkanivelinjektio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd injektion i höftled
+
+@END = 
+
+@KOODI = NF2BT 
+
+@SUOMI = Lonkkanivelinjektio läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd injektion i höfled
+
+@END = 
+
+@KOODI = NF3AA 
+
+@SUOMI = Reiden röntgen
+
+@RUOTSI = Lårben (femur), röntgen
+
+@END = 
+
+@KOODI = NF3BA 
+
+@SUOMI = Reiden laaja röntgen
+
+@RUOTSI = Lårben, omfattande röntgen
+
+@END = 
+
+@KOODI = NF3DA 
+
+@SUOMI = Reisien röntgen
+
+@RUOTSI = Lårben, bilateralt röntgen
+
+@END = 
+
+@KOODI = NG1AA 
+
+@SUOMI = Polven natiiviröntgen
+
+@RUOTSI = Knäled, röntgen
+
+@END = 
+
+@KOODI = NG1AD 
+
+@SUOMI = Polven natiivi-TT
+
+@RUOTSI = DT av knä utan kontrast
+
+@END = 
+
+@KOODI = NG1AE 
+
+@SUOMI = Polvinivelen UÄ
+
+@RUOTSI = UL av knä
+
+@END = 
+
+@KOODI = NG1BA 
+
+@SUOMI = Polven laaja natiiviröntgen
+
+@RUOTSI = Knäled, omfattande röntgen
+
+@END = 
+
+@KOODI = NG1BD 
+
+@SUOMI = Polven varjoaine-TT
+
+@RUOTSI = DT av knä med kontrast
+
+@END = 
+
+@KOODI = NG1BF 
+
+@SUOMI = Polven ja/tai säären magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NG1BG 
+
+@SUOMI = Polven ja/tai säären magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben med högfältsmagnet
+
+@END = 
+
+@KOODI = NG1BH 
+
+@SUOMI = Polven ja/tai säären magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben med lågfältsmagnet
+
+@END = 
+
+@KOODI = NG1CB 
+
+@SUOMI = Polvinivelen varjoainetutkimus (artrografia)
+
+@RUOTSI = Knäled, kotrastundersökning
+
+@END = 
+
+@KOODI = NG1CD 
+
+@SUOMI = Polven natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av knä utan och med kontrast
+
+@END = 
+
+@KOODI = NG1CF 
+
+@SUOMI = Polven ja/tai säären laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NG1CG 
+
+@SUOMI = Polven ja/tai säären laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NG1CH 
+
+@SUOMI = Polven ja/tai säären laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben, omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NG1DA 
+
+@SUOMI = Polvien natiiviröntgen
+
+@RUOTSI = Knäleder, bilateralt röntgen
+
+@END = 
+
+@KOODI = NG1DF 
+
+@SUOMI = Polven ja/tai säären erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NG1DG 
+
+@SUOMI = Polven ja/tai säären erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NG1DH 
+
+@SUOMI = Polven ja/tai säären erittäin laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av knä och/eller underben, speciellt omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NG1EA 
+
+@SUOMI = Polvien vääntökuvat
+
+@RUOTSI = Knäleder, stabilitetstest med röntgen
+
+@NOTE_F = Laitteella kuormittaen
+
+@END = 
+
+@KOODI = NG2AA 
+
+@SUOMI = Polvilumpion röntgen *
+
+@RUOTSI = Knäskål (patella), röntgen *
+
+@END = 
+
+@KOODI = NG2EA 
+
+@SUOMI = Polvilumpion röntgen, Laurinin projektiot *
+
+@RUOTSI = Knäskål, röntgen Laurins projektion *
+
+@END = 
+
+@KOODI = NG3AE 
+
+@SUOMI = Patellajänteen UÄ *
+
+@RUOTSI = UL av patellarsena
+
+@END = 
+
+@KOODI = NG4AA 
+
+@SUOMI = Säären röntgen
+
+@RUOTSI = Underben, röntgen
+
+@END = 
+
+@KOODI = NG4BA 
+
+@SUOMI = Säären laaja röntgen
+
+@RUOTSI = Underben, omfattande röntgen
+
+@END = 
+
+@KOODI = NG4DA 
+
+@SUOMI = Säärien röntgen
+
+@RUOTSI = Underben, bilateralt röntgen
+
+@END = 
+
+@KOODI_R = NH
+
+@SUOMI_R = Nilkan ja jalkaterän toimenpiteet
+
+@RUOTSI_R = Operationer på vristen och foten
+
+@ENGL_R = Ankle and foot
+
+@NOTE_RF = Nilkka = ylempi nilkkanivel; nivelpinnat, -kapseli ja -siteet
+
+@NOTE_RF =
+Sisältää akillesjänteen
+
+@NOTE_RS = Vrist = övre vristled, ledytorna, ledkapsel och ledbanden
+
+@NOTE_RS =
+Inkl akillessenan
+
+@END = 
+
+@KOODI = NH1AA 
+
+@SUOMI = Nilkan natiiviröntgen
+
+@RUOTSI = Fotled, röntgen
+
+@END = 
+
+@KOODI = NH1AD 
+
+@SUOMI = Nilkan ja jalkaterän natiivi-TT
+
+@RUOTSI = DT av fotled och fot utan kontrast
+
+@END = 
+
+@KOODI = NH1AE 
+
+@SUOMI = Nilkkanivelen UÄ
+
+@RUOTSI = UL av fotled
+
+@END = 
+
+@KOODI = NH1BA 
+
+@SUOMI = Nilkan laaja natiiviröntgen
+
+@RUOTSI = Fotled, omfattande röntgen
+
+@END = 
+
+@KOODI = NH1BD 
+
+@SUOMI = Nilkan ja jalkaterän varjoaine-TT
+
+@RUOTSI = DT av fotled och fot med kontrast
+
+@END = 
+
+@KOODI = NH1BF 
+
+@SUOMI = Nilkan ja/tai jalkaterän magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NH1BG 
+
+@SUOMI = Nilkan ja/tai jalkaterän magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot med högfältsmagnet
+
+@END = 
+
+@KOODI = NH1BH 
+
+@SUOMI = Nilkan ja/tai jalkaterän magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot med lågfältsmagnet
+
+@END = 
+
+@KOODI = NH1CB 
+
+@SUOMI = Nilkan varjoainetutkimus (artrografia)
+
+@RUOTSI = Fotled, kotrastundersökning
+
+@END = 
+
+@KOODI = NH1CD 
+
+@SUOMI = Nilkan ja jalkaterän natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av fotled och fot utan och med kontrast
+
+@END = 
+
+@KOODI = NH1CF 
+
+@SUOMI = Nilkan ja/tai jalkaterän laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NH1CG 
+
+@SUOMI = Nilkan ja/tai jalkaterän laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NH1CH 
+
+@SUOMI = Nilkan ja/tai jalkaterän laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot, omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NH1DA 
+
+@SUOMI = Nilkkojen natiiviröntgen
+
+@RUOTSI = Fotled, bilateralt röntgen
+
+@END = 
+
+@KOODI = NH1DF 
+
+@SUOMI = Nilkan ja/tai jalkaterän erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NH1DG 
+
+@SUOMI = Nilkan ja/tai jalkaterän erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NH1DH 
+
+@SUOMI = Nilkan ja/tai jalkaterän erittäin laaja magneettitutkimus matalakenttälaitteella
+
+@RUOTSI = MR av fotled och/eller fot, speciellt omfattande undersökning med lågfältsmagnet
+
+@END = 
+
+@KOODI = NH1EA 
+
+@SUOMI = Nilkkojen vääntö/rasituskuvat
+
+@RUOTSI = Fotled, röntgen stabilitetstest
+
+@NOTE_F = Laitteella kuormittaen
+
+@END = 
+
+@KOODI = NH2AA 
+
+@SUOMI = Kantapään röntgen *
+
+@RUOTSI = Hälben, röntgen
+
+@END = 
+
+@KOODI = NH2DA 
+
+@SUOMI = Kantapäiden röntgen *
+
+@RUOTSI = Hälben, bilateralt röntgen
+
+@END = 
+
+@KOODI = NH3AA 
+
+@SUOMI = Jalkaterän ja varpaiden röngen
+
+@RUOTSI = Fot och tår, röntgen
+
+@END = 
+
+@KOODI = NH3DA 
+
+@SUOMI = Jalkaterien röntgen
+
+@RUOTSI = Båda fötter, röntgen
+
+@END = 
+
+@KOODI = NH4AE 
+
+@SUOMI = Akillesjänteen UÄ
+
+@RUOTSI = UL av akillessena
+
+@END = 
+
+@KOODI = NJ1DA 
+
+@SUOMI = Yläraajojen röntgen
+
+@RUOTSI = Övre extremiteterna, röntgen
+
+@END = 
+
+@KOODI = NJ2DA 
+
+@SUOMI = Alaraajojen röntgen
+
+@RUOTSI = Nedre extremiteterna, röntgen
+
+@END = 
+
+@KOODI = NJ2MA 
+
+@SUOMI = Alaraajan mekaaninen akselimittaus
+
+@RUOTSI = Mätning av benens mekaniska axel, röntgen
+
+@END = 
+
+@KOODI = NJ3AD 
+
+@SUOMI = Muu raajojen ja nivelten natiivi-TT
+
+@RUOTSI = DT av extremiteter och leder utan kontrast
+
+@END = 
+
+@KOODI = NJ3AF 
+
+@SUOMI = Raajojen suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av extremitet, begränsad undersökning med mellanfältsmagnet
+
+@NOTE_F = Esim. murtumatutkimus
+
+@END = 
+
+@KOODI = NJ3AG 
+
+@SUOMI = Raajojen suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av extremitet, begränsad undersökning med högfältsmagnet
+
+@NOTE_F = Esim. murtumatutkimus
+
+@END = 
+
+@KOODI = NJ3BD 
+
+@SUOMI = Muu raajojen ja nivelten varjoaine-TT
+
+@RUOTSI = DT av extremiteter och leder med kontrast
+
+@END = 
+
+@KOODI = NJ3BF 
+
+@SUOMI = Raajojen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av extremitet med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NJ3BG 
+
+@SUOMI = Raajojen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av extremitet med högfältsmagnet
+
+@END = 
+
+@KOODI = NJ3CD 
+
+@SUOMI = Muu raajojen ja nivelten natiivi- ja varjoaine-TT
+
+@RUOTSI = DT av extremiteter och leder utan och med kontrast
+
+@END = 
+
+@KOODI = NJ3CF 
+
+@SUOMI = Raajojen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av extremitet, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NJ3CG 
+
+@SUOMI = Raajojen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av extremitet, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NJ3DA 
+
+@SUOMI = Pitkien luiden röntgen, raajojen natiiviröntgen
+
+@RUOTSI = Extremiteternas långa rörbenen, röntgen
+
+@END = 
+
+@KOODI = NJ3DF 
+
+@SUOMI = Raajojen erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av extremitet, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NJ3DG 
+
+@SUOMI = Raajojen erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av extremitet, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NJ3MA 
+
+@SUOMI = Raajojen pituusmittaus
+
+@RUOTSI = Längdmätning av benen, röntgen
+
+@END = 
+
+@KOODI = NJ3NA 
+
+@SUOMI = Raajojen pituuseromittaus
+
+@RUOTSI = Ortoradiografi, mätning av benens längdskillnad, röntgen
+
+@END = 
+
+@KOODI = NJ3XD 
+
+@SUOMI = Raajojen ja nivelten TT muulla tekniikalla
+
+@RUOTSI = DT av extremiteter och leder utan närmare beskriven teknik
+
+@END = 
+
+@KOODI = NK1AK 
+
+@SUOMI = Lihasten spektroskopia
+
+@RUOTSI = Spektroskopi av muskler
+
+@END = 
+
+@KOODI = NK1AT 
+
+@SUOMI = Lihaksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd muskelbiopsi
+
+@END = 
+
+@KOODI = NK1CT 
+
+@SUOMI = Lihaksen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd muskelbiopsi
+
+@END = 
+
+@KOODI = NK1DT 
+
+@SUOMI = Lihaksen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd muskelbiopsi
+
+@END = 
+
+@KOODI = NK1XE 
+
+@SUOMI = Lihaksen ja/tai jänteen muu UÄ
+
+@RUOTSI = UL av muskel eller sena (övrig)
+
+@END = 
+
+@KOODI = NK2AT 
+
+@SUOMI = Lihaksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av muskel
+
+@END = 
+
+@KOODI = NK2CT 
+
+@SUOMI = Lihaksen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi av muskel
+
+@END = 
+
+@KOODI = NK2DT 
+
+@SUOMI = Lihaksen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi av muskel
+
+@END = 
+
+@KOODI = NK3AT 
+
+@SUOMI = Lihaspunktio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd muskelpunktion
+
+@END = 
+
+@KOODI = NK4AT 
+
+@SUOMI = Muun nivelen punktio UÄ-ohjauksessa
+
+@RUOTSI = Annan-UL styrd ledpunktion
+
+@END = 
+
+@KOODI = NK4BF 
+
+@SUOMI = Muun nivelen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av leder (övriga) med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NK4BG 
+
+@SUOMI = Muun nivelen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av leder (övriga) med högfältsmagnet
+
+@END = 
+
+@KOODI = NK4BT 
+
+@SUOMI = Muun nivelen punktio läpivalaisuohjauksessa
+
+@RUOTSI = Annan genomlysningsstyrd ledpunktion
+
+@END = 
+
+@KOODI = NK4CB 
+
+@SUOMI = Muun nivelen varjoainetutkimus (artrografia)
+
+@RUOTSI = Övriga leder, kotrastundersökning
+
+@END = 
+
+@KOODI = NK4CF 
+
+@SUOMI = Muun nivelen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av leder (övriga), omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NK4CG 
+
+@SUOMI = Muun nivelen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av leder (övriga), omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NK4DF 
+
+@SUOMI = Muun nivelen erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av leder (övriga), speciellt omfattede undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = NK4DG 
+
+@SUOMI = Muun nivelen erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av leder (övriga), speciellt omfattede undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = NK4EA 
+
+@SUOMI = Nivelen rasitustutkimus tai vastaava
+
+@RUOTSI = Test av ledstabilitet eller motsvarande röntgen
+
+@END = 
+
+@KOODI = NK4XE 
+
+@SUOMI = Nivelen muu UÄ
+
+@RUOTSI = UL av led (övrig)
+
+@END = 
+
+@KOODI = NK5AT 
+
+@SUOMI = Muun nivelen injektio UÄ-ohjauksessa
+
+@RUOTSI = Annan UL-styrd ledinjektion
+
+@END = 
+
+@KOODI = NK5BT 
+
+@SUOMI = Muun nivelen injektio läpivalaisuohjauksessa
+
+@RUOTSI = Annan genomlysningsstyrd ledinjektion
+
+@END = 
+
+@KOODI = NK6AT 
+
+@SUOMI = Luun kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd benbiopsi
+
+@END = 
+
+@KOODI = NK6BT 
+
+@SUOMI = Luun kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd benbiopsi
+
+@END = 
+
+@KOODI = NK6CT 
+
+@SUOMI = Luun kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd benbiopsi
+
+@END = 
+
+@KOODI = NK6DT 
+
+@SUOMI = Luun kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd benbiopsi
+
+@END = 
+
+@KOODI = NK6HA 
+
+@SUOMI = Tomografia luustosta
+
+@RUOTSI = Tomografi av skelettdel
+
+@END = 
+
+@KOODI = NK6HD 
+
+@SUOMI = Luuston mineraalipitoisuuden mittaus-TT
+
+@RUOTSI = DT för mätning av bentäthet
+
+@END = 
+
+@KOODI = NK6JD 
+
+@SUOMI = Raajojen ortopedinen mittaus TT
+
+@RUOTSI = DT för ortopediska mätningar
+
+@NOTE_F = Sisältää myös raajojen rotaatiomäärityksen
+
+@END = 
+
+@KOODI = NK6LA 
+
+@SUOMI = Luuston ja nivelten läpivalaisu
+
+@RUOTSI = Genomlysning av led eller skelettdel utan kontrastmedel
+
+@END = 
+
+@KOODI = NK6LE 
+
+@SUOMI = Luuston rakenteen mittaus UÄ:llä kantaluusta
+
+@RUOTSI = UL av hälbenet för bestämning av bentäthet
+
+@END = 
+
+@KOODI = NK6MA 
+
+@SUOMI = Luustoikä käden ja kyynärpään röntgen kuvista
+
+@RUOTSI = Skelettålder, bestämd från hand- och armbågsled med röntgen
+
+@END = 
+
+@KOODI = NK6ME 
+
+@SUOMI = Luuston rakenteen mittaus UÄ:llä muualta
+
+@RUOTSI = UL för bestämning av bentäthet utan närmare beskriven lokalisation
+
+@END = 
+
+@KOODI = NK6NA 
+
+@SUOMI = Luustoikä muulla röntgenkuvaus  menetelmällä
+
+@RUOTSI = Skelettålder, annan bestämning med röntgen
+
+@END = 
+
+@KOODI = NK6PA 
+
+@SUOMI = Luun tiheysmittaus, röntgentutkimus (yksi kohde)
+
+@RUOTSI = Mätning av bentäthet (en mätpunkt), röntgen
+
+@END = 
+
+@KOODI = NK6QA 
+
+@SUOMI = Luun tiheysmittaus, laaja röntgentutkimus (kaksi tai useampia kohteita)
+
+@RUOTSI = Mätning av bentäthet (2 eller flere mätpunkter) med röntgen
+
+@END = 
+
+@KOODI = NK7AT 
+
+@SUOMI = Luun solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av ben
+
+@END = 
+
+@LUVUT = LUKU P
+
+@LUVUT_S = KAPITEL P
+
+@SUOMI_L = Verisuonien ja imusuonijärjestelmän toimenpiteet
+
+@RUOTSI_L = Åtgärder på perifera kärl och lymfsystemet
+
+@ENGL_L = Peripheral vessels and lymphatic system  procedures
+
+@NOTE_LF = Rintaontelon suurten verisuonien toimenpiteet luvussa F.
+
+@NOTE_LF =
+Aivoverisuonien toimenpiteet luvussa A.
+
+@NOTE_LS = Ingrepp på intrakraniala kärl, se A
+
+@NOTE_LS =
+Ingrepp på de stora intratorakala kärlen, se F
+
+@END_L = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PA1AC 
+
+@SUOMI = Kaulavaltimoiden varjoainetutkimus (aortokervikaalinen angio)
+
+@RUOTSI = Aortocervikal angiografi
+
+@END = 
+
+@KOODI = PA1BC 
+
+@SUOMI = Kaulavaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Aortocervikal angiografi, omfattande (1-2 selektiva injektioner)
+
+@END = 
+
+@KOODI = PA1CC 
+
+@SUOMI = Kaulavaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Aortocervikal angiografi, mycket omfattande (3-4 selektiva injektioner)
+
+@END = 
+
+@KOODI = PA2AC 
+
+@SUOMI = Aivovaltimoiden varjoainetutkimus
+
+@RUOTSI = Cerebral angiografi
+
+@END = 
+
+@KOODI = PA2AT 
+
+@SUOMI = Aivovaltimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av artär i hjärnan (PTA)
+
+@NOTE_F = Sis. a. carotis internan ja a. vertebraliksen haaroineen
+
+@END = 
+
+@KOODI = PA2BC 
+
+@SUOMI = Aivovaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Cerebral angiografi, omfattande
+
+@END = 
+
+@KOODI = PA2BF 
+
+@SUOMI = Pään verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av huvudets blodkärl med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2BG 
+
+@SUOMI = Pään verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av huvudets blodkärl med högfältsmagnet
+
+@END = 
+
+@KOODI = PA2BT 
+
+@SUOMI = Aivovaltimon laajennushoito iholta käsin, laaja (PTA)
+
+@RUOTSI = Perkutan dilatation av artär i hjärnan (PTA), omfattande
+
+@NOTE_F = Sis. a. carotis internan ja a. vertebraliksen haaroineen
+
+@END = 
+
+@KOODI = PA2CC 
+
+@SUOMI = Aivovaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Cerebral angiografi, mycket omfattande
+
+@END = 
+
+@KOODI = PA2CF 
+
+@SUOMI = Pään verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av huvudets blodkärl, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2CG 
+
+@SUOMI = Pään verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av huvudets blodkärl, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PA2DF 
+
+@SUOMI = Pään verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av huvudets blodkärl, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2DG 
+
+@SUOMI = Pään verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av huvudets blodkärl, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PA2DT 
+
+@SUOMI = Aivokasvaimen embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av hjärntumör
+
+@END = 
+
+@KOODI = PA2ET 
+
+@SUOMI = Aivokasvaimen embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av hjärntumör, omfattande
+
+@END = 
+
+@KOODI = PA2GT 
+
+@SUOMI = Aivojen av-malformaation suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformation i hjärnan
+
+@END = 
+
+@KOODI = PA2HT 
+
+@SUOMI = Aivojen av-malformaation suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformation i hjärnan, omfattande
+
+@END = 
+
+@KOODI = PA2JT 
+
+@SUOMI = Aivojen av-malformaation suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformation i hjärnan, mycket omfattande
+
+@END = 
+
+@KOODI = PA2KT 
+
+@SUOMI = Aivovaltimopullistuman  suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av aneurysm i hjärnan
+
+@END = 
+
+@KOODI = PA2LT 
+
+@SUOMI = Aivovaltimopullistuman  suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av aneurysm i hjärnan, omfattande
+
+@END = 
+
+@KOODI = PA2ST 
+
+@SUOMI = Aivovaltimotulpan suonensisäinen liuotus
+
+@RUOTSI = Trombolys i artär i hjärnan
+
+@END = 
+
+@KOODI = PA3AC 
+
+@SUOMI = Karotis-valtimon varjoainetutkimus (pelkkä selektiivinen tai punktio) *
+
+@RUOTSI = Karotisangiografi (selektiv)
+
+@END = 
+
+@KOODI = PA4AC 
+
+@SUOMI = Vertebraalivaltimoiden varjoainetutkimus *
+
+@RUOTSI = Vertebralisangiografi (selektiv)
+
+@END = 
+
+@KOODI = PA5AC 
+
+@SUOMI = Kasvojen valtimoiden varjoainetutkimus
+
+@RUOTSI = Angiografi av ansiktets artärer
+
+@END = 
+
+@KOODI = PA5DT 
+
+@SUOMI = Carotis externa-alueen tuumorin embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av tumör i carotis externa-området
+
+@END = 
+
+@KOODI = PA5ET 
+
+@SUOMI = Carotis externa-alueen tuumorin embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av tumör i carotis externa-området, omfattande
+
+@END = 
+
+@KOODI = PA5GT 
+
+@SUOMI = Carotis externa-alueen av-malformaation embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformation i carotis externa-området
+
+@END = 
+
+@KOODI = PA5HT 
+
+@SUOMI = Carotis externa-alueen av-malformaation embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformationi carotis externa-området, omfattande
+
+@END = 
+
+@KOODI = PA5JT 
+
+@SUOMI = Carotis externa-alueen av-malformaation embolisaatio radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformation i carotis externa-området, mycket omfattande
+
+@END = 
+
+@KOODI = PA5NT 
+
+@SUOMI = Nenäverenvuodon suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av näsblödning
+
+@END = 
+
+@KOODI = PA5PT 
+
+@SUOMI = Nenäverenvuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av näsblödning, omfattande
+
+@END = 
+
+@KOODI = PA5QT 
+
+@SUOMI = Nenäverenvuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av näsblödning, mycket omfattande
+
+@END = 
+
+@KOODI = PA6AE 
+
+@SUOMI = Kaulan verisuonten UÄ
+
+@RUOTSI = UL av halskärl
+
+@END = 
+
+@KOODI = PA6AT 
+
+@SUOMI = Kaulavaltimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av karotis (PTA)
+
+@END = 
+
+@KOODI = PA6BF 
+
+@SUOMI = Kaulan verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsens blodkärl med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6BG 
+
+@SUOMI = Kaulan verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsens blodkärl med högfältsmagnet
+
+@END = 
+
+@KOODI = PA6BT 
+
+@SUOMI = Kaulavaltimon laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = Perkutan dilatation av karotis (PTA), omfattande
+
+@END = 
+
+@KOODI = PA6CF 
+
+@SUOMI = Kaulan verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsens blodkärl, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6CG 
+
+@SUOMI = Kaulan verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsens blodkärl, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PA6DE 
+
+@SUOMI = Kaulan valtimoiden Doppler-UÄ
+
+@RUOTSI = UL av halskärl med dopplerteknik
+
+@END = 
+
+@KOODI = PA6DF 
+
+@SUOMI = Kaulan verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av halsens blodkärl, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6DG 
+
+@SUOMI = Kaulan verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av halsens blodkärl, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI_A = PAP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, aortan kaaren tai sen haarojen valtimot
+
+@RUOTSI_A = Perkutana plastiker på artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Percutaneous plastic repair of arteries of aortic arch and branches
+
+@NOTE_RF = Sis. mm. aspiraatiembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajennusta (PTA), katso PA2AT, PA2BT (aivovaltimot), PA6AT, PA6BT (kaulavaltimot), PG1AT tai PG1BT (muut valtimot)
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PA2AT, PA2BT (hjärnartärer), PA6AT, PA6BT (halsartärer), PG1AT eller PG1BT (andra artärer)
+
+@END = 
+
+@KOODI = PAP06 
+
+@SUOMI = Valtimon korjaaminen suljetusti, truncus brachiocephalicus
+
+@RUOTSI = Perkutan arterioplastik, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAP07 
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. subclavia
+
+@RUOTSI = Perkutan arterioplastik, a. subclavia
+
+@NOTE_F = Yläraajavaltimoiden PTA, katso PB1AT tai PB1BT
+
+@NOTE_S = PTA i armens artärer, se PB1AT eller PB1BT
+
+@END = 
+
+@KOODI = PAP12 
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. carotis communis
+
+@RUOTSI = Perkutan arterioplastik, a. carotis communis
+
+@NOTE_F = Kaulavaltimon PTA, katso PA6AT tai PA6BT
+
+@NOTE_S = PTA i a. carotis, se PA6AT eller PA6BT
+
+@END = 
+
+@KOODI = PAP14 
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. carotis interna
+
+@RUOTSI = Perkutan arterioplastik, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_F =
+Aivovaltimon PTA, katso PA2AT tai PA2BT
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@NOTE_S =
+PTA i hjärnartär, se PA2AT eller PA2BT
+
+@END = 
+
+@KOODI = PAP99 
+
+@SUOMI = Valtimon korjaaminen suljetusti, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Perkutan arterioplastik, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PB1AC 
+
+@SUOMI = Yläraajan valtimoiden varjoainetutkimus
+
+@RUOTSI = Angiografi av övre extremitet
+
+@END = 
+
+@KOODI = PB1AE 
+
+@SUOMI = Yläraajan valtimoiden UÄ
+
+@RUOTSI = UL artärer i övre extremität
+
+@END = 
+
+@KOODI = PB1AT 
+
+@SUOMI = Yläraajavaltimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation i armens artärer (PTA)
+
+@END = 
+
+@KOODI = PB1BC 
+
+@SUOMI = Yläraajan valtimoiden laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av övre extremitet, omfattande
+
+@NOTE_F = Perussäännön mukaan
+
+@END = 
+
+@KOODI = PB1BT 
+
+@SUOMI = Yläraajavaltimon laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = Perkutan dilatation i armens artärer (PTA), omfattande
+
+@END = 
+
+@KOODI = PB1CC 
+
+@SUOMI = Yläraajavaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Konrastundersökning av artärer i övre extremität, mycke omfattande
+
+@END = 
+
+@KOODI = PB1DE 
+
+@SUOMI = Yläraajan valtimoiden Doppler-UÄ
+
+@RUOTSI = UL artärer i övre extremität med dopplerteknik
+
+@END = 
+
+@KOODI = PB1ST 
+
+@SUOMI = Yläraajavaltimon liuotushoito radiologisessa ohjauksessa
+
+@RUOTSI = Trombolys i armens artärer
+
+@END = 
+
+@KOODI_A = PBP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, yläraajojen valtimot
+
+@RUOTSI_A = Perkutana plastiker på artärer i övre extremiteten
+
+@ENGL_A = Percutaneous plastic repair of arteries of upper extremity
+
+@NOTE_RF = Sis. mm. aspiraatioembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajennusta (PTA), katso PB1AT tai PB1BT
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PB1AT eller PB1BT
+
+@END = 
+
+@KOODI = PBP08 
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. axillaris
+
+@RUOTSI = Perkutan arterioplastik, a. axillaris
+
+@END = 
+
+@KOODI = PBP09 
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. brachialis
+
+@RUOTSI = Perkutan arterioplastik, a. brachialis
+
+@END = 
+
+@KOODI = PBP99 
+
+@SUOMI = Valtimon korjaaminen suljetusti, muu yläraajan valtimo
+
+@RUOTSI = Perkutan arterioplastik, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PC1AC 
+
+@SUOMI = Vatsa-aortan ja aortan haarojen varjoainetutkimus
+
+@RUOTSI = Angiografi av aorta och bukartärer
+
+@END = 
+
+@KOODI = PC1BC 
+
+@SUOMI = Vatsa-aortan ja aortan haarojen laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av aorta och bukartärer, omfattande
+
+@END = 
+
+@KOODI = PC1CC 
+
+@SUOMI = Vatsa-aortan ja aortan haarojen erittäin laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av aorta och bukartärer, mycket omfattande
+
+@END = 
+
+@KOODI = PC1SC 
+
+@SUOMI = Haiman valtimoiden varjoainetutkimus *
+
+@RUOTSI = Pankreasangiografi
+
+@END = 
+
+@KOODI = PC2DT 
+
+@SUOMI = Maksatuumorin embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Embolisering av levertumör
+
+@END = 
+
+@KOODI = PC2ET 
+
+@SUOMI = Maksatuumorin embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Embolisering av levertumör, omfattande
+
+@END = 
+
+@KOODI = PC2SC 
+
+@SUOMI = Maksan valtimoiden varjoainetutkimus *
+
+@RUOTSI = Leverangiografi
+
+@END = 
+
+@KOODI = PC3SC 
+
+@SUOMI = Pernan valtimoiden ja porttilaskimon varjoainetutkimus *
+
+@RUOTSI = Mjältangiografi
+
+@END = 
+
+@KOODI = PC4BF 
+
+@SUOMI = Vatsaontelon verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bukens blodkärl med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC4BG 
+
+@SUOMI = Vatsaontelon verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bukens blodkärl med högfältsmagnet
+
+@END = 
+
+@KOODI = PC4CF 
+
+@SUOMI = Vatsaontelon verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bukens blodkärl, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC4CG 
+
+@SUOMI = Vatsaontelon verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bukens blodkärl, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PC4DF 
+
+@SUOMI = Vatsaontelon verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bukens blodkärl, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC4DG 
+
+@SUOMI = Vatsaontelon verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bukens blodkärl, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PC4SC 
+
+@SUOMI = Suoliston valtimoiden varjoainetutkimus *
+
+@RUOTSI = Tarmangiografi
+
+@END = 
+
+@KOODI = PC5AT 
+
+@SUOMI = Munuaisvaltimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av njurartär (PTA)
+
+@END = 
+
+@KOODI = PC5BF 
+
+@SUOMI = Munuaisverisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av njurarnas blodkärl med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC5BG 
+
+@SUOMI = Munuaisverisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av njurarnas blodkärl med högfältsmagnet
+
+@END = 
+
+@KOODI = PC5BT 
+
+@SUOMI = Munuaisvaltimon laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = Perkutan dilatation av njurartär (PTA), omfattande
+
+@END = 
+
+@KOODI = PC5CF 
+
+@SUOMI = Munuaisverisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av njurarnas blodkärl, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC5CG 
+
+@SUOMI = Munuaisverisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av njurarnas blodkärl, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PC5DF 
+
+@SUOMI = Munuaisverisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av njurarnas blodkärl, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC5DG 
+
+@SUOMI = Munuaisverisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av njurarnas blodkärl, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PC5DT 
+
+@SUOMI = Munuaistuumorin embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av njurtumör
+
+@END = 
+
+@KOODI = PC5ET 
+
+@SUOMI = Munuaistuumorin embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av njurtumör, omfattande
+
+@END = 
+
+@KOODI = PC5GT 
+
+@SUOMI = Munuaisen av-malformaation suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av malformation i njure
+
+@END = 
+
+@KOODI = PC5HT 
+
+@SUOMI = Munuaisen av-malformaation suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av malformation i njure, omfattande
+
+@END = 
+
+@KOODI = PC5JT 
+
+@SUOMI = Munuaisen av-malformaation suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av malformation i njure, mycket omfattande
+
+@END = 
+
+@KOODI = PC5NT 
+
+@SUOMI = Munuaisvuodon suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av njurblödning
+
+@END = 
+
+@KOODI = PC5PT 
+
+@SUOMI = Munuaisvuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av njurblödning, omfattande
+
+@END = 
+
+@KOODI = PC5QT 
+
+@SUOMI = Munuaisvuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av njurblödning, mycket omfattande
+
+@END = 
+
+@KOODI = PC5SC 
+
+@SUOMI = Munuaisvaltimoiden selektiivinen varjoainetutkimus *
+
+@RUOTSI = Njurangiografi
+
+@END = 
+
+@KOODI = PC6DT 
+
+@SUOMI = Selkäydinkanavan tumorin embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av tumör i ryggmärgskanalen
+
+@END = 
+
+@KOODI = PC6ET 
+
+@SUOMI = Selkäydinkanavan tumorin laaja embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av tumör i ryggmärgskanalen, omfattande
+
+@END = 
+
+@KOODI_A = PCP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, sisäelinvaltimot
+
+@RUOTSI_A = Perkutana plastiker på visceralartärer
+
+@ENGL_A = Percutaneous plastic repair of visceral arteries
+
+@NOTE_RF = Sis. mm. aspiraatioembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajenusta (PTA), katso PD1AT, PD1BT (aortta), PC5AT, PC5BT (a.renalis) PG1AT tai PG1BT (muu valtimo)
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PD1AT,  PD1BT (aortta),  PC5AT, PC5BT (a. renalis), PG1AT eller PG1BT (annan artär)
+
+@END = 
+
+@KOODI = PCP16 
+
+@SUOMI = Valtimon korjaaminen suljetusti, truncus coeliacus tai sen haara
+
+@RUOTSI = Perkutan arterioplastik, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCP17 
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. mesenterica superior
+
+@RUOTSI = Perkutan arterioplastik, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCP19 
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. renalis
+
+@RUOTSI = Perkutan arterioplastik, a. renalis
+
+@NOTE_F = A. renaliksen PTA, katso PC5AT tai PC5BT
+
+@NOTE_S = PTA i a. renalis, se PC5AT eller PC5BT
+
+@END = 
+
+@KOODI = PCP99 
+
+@SUOMI = Valtimon korjaaminen suljetusti, muu sisäelinvaltimo
+
+@RUOTSI = Perkutan arterioplastik, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCQ
+
+@SUOMI_A = Valtimoiden sisäistutteiden asettamiset, sisäelinvaltimot
+
+@RUOTSI_A = Inläggande av endovaskulära implantat i visceralartärer
+
+@ENGL_A = Insertion of endovascular graft into visceral arteries
+
+@END = 
+
+@KOODI = PCQ04 
+
+@SUOMI = Sisäistutteen asentaminen munuaisvaltimon yläpuoliseen vatsa-aorttaan
+
+@RUOTSI = Insertion av endovaskulär graft i suprarenal abdominal aorta
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PD1AE 
+
+@SUOMI = Vatsa-aortan UÄ *
+
+@RUOTSI = UL av bukaorta
+
+@END = 
+
+@KOODI = PD1AT 
+
+@SUOMI = Aortan laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av aorta (PTA)
+
+@END = 
+
+@KOODI = PD1BT 
+
+@SUOMI = Aortan laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = Perkutan dilatation av aorta (PTA), omfattande
+
+@END = 
+
+@KOODI = PD1YT 
+
+@SUOMI = Endoproteesin laitto aorttaan PTA:n lisänä
+
+@RUOTSI = PTA med inläggning av endoprotes i aorta
+
+@END = 
+
+@KOODI = PD2AE 
+
+@SUOMI = Ulkoisten sukupuolielinten verisuonitutkimus UÄ:llä
+
+@RUOTSI = UL av blodkärlen i yttre genitalier
+
+@END = 
+
+@KOODI = PD3AT 
+
+@SUOMI = Lantiosuonen laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av bäckenartär (PTA)
+
+@END = 
+
+@KOODI = PD3BT 
+
+@SUOMI = Lantiosuonen laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = Perkutan dilatation av bäckenartär (PTA), omfattande
+
+@END = 
+
+@KOODI = PD4AC 
+
+@SUOMI = Alaraajan valtimoiden varjoainetutkimus
+
+@RUOTSI = Angiografi av nedre extremitet
+
+@NOTE_F = Yhden anatomisen alueen tutkimus kiinteällä kentällä
+
+@END = 
+
+@KOODI = PD4BC 
+
+@SUOMI = Alaraajan valtimoiden laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av nedre extremitet, omfattande
+
+@END = 
+
+@KOODI = PD4BF 
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bukaorta och blodkärl i nedre extremiteterna med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD4BG 
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bukaorta och blodkärl i nedre extremiteterna med högfältsmagnet
+
+@END = 
+
+@KOODI = PD4CC 
+
+@SUOMI = Alaraajan valtimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av nedre extremitet, mycket omfattande
+
+@END = 
+
+@KOODI = PD4CF 
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av bukaorta och blodkärl i nedre extremiteterna, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD4CG 
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bukaorta och blodkärl i nedre extremiteterna, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PD4DE 
+
+@SUOMI = Alaraajan valtimoiden Doppler-UÄ
+
+@RUOTSI = UL av artärer i nedre extremiteterna med dopplerteknik
+
+@END = 
+
+@KOODI = PD4DF 
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten erittäin laaja magneettitutkimus keskikenttälaittteella
+
+@RUOTSI = MR av bukaorta och blodkärl i nedre extremiteterna, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD4DG 
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av bukaorta och blodkärl i nedre extremiteterna, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PD4HE 
+
+@SUOMI = Alaraajan valtimoiden Doppler-UÄ leikkauksen jälkeen
+
+@RUOTSI = UL av artärer i nedre extremiteterna med dopplerteknik, postoperativ kontroll
+
+@END = 
+
+@KOODI = PD4ST 
+
+@SUOMI = Lantion ja alaraajavaltimoiden liuotushoito radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd trombolys i bäcken- och benartärer
+
+@END = 
+
+@KOODI = PD5BF 
+
+@SUOMI = Rinta- ja vatsa-aortan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av aorta med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD5BG 
+
+@SUOMI = Rinta- ja vatsa-aorttan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av aorta med högfältsmagnet
+
+@END = 
+
+@KOODI = PD5CD 
+
+@SUOMI = Rinta- ja vatsa-aortan TT
+
+@RUOTSI = DT av aorta
+
+@END = 
+
+@KOODI = PD5CF 
+
+@SUOMI = Rinta- ja vatsa-aortan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av aorta, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD5CG 
+
+@SUOMI = Rinta- ja vatsa-aortan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av aorta, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PD5DF 
+
+@SUOMI = Rinta- ja vatsa-aortan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av aorta, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD5DG 
+
+@SUOMI = Rinta- ja vatsa-aortan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av aorta, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PD5YT 
+
+@SUOMI = Aorttaproteesin asennus aneurysman hoitona
+
+@RUOTSI = Endoprotesinläggning vid aortaaneurysm
+
+@NOTE_F = Ei sisällä PTA:n yhdeydessä asennettua proteesia (PD1YT)
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PE1AT 
+
+@SUOMI = Reisivaltimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av lårbensartär (PTA)
+
+@END = 
+
+@KOODI = PE1BT 
+
+@SUOMI = Reisivaltimon laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = Perkutan dilatation av lårbensartär (PTA), omfattande
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PF1AT 
+
+@SUOMI = Polven, säären ja nilkan valtimoiden laajennushoito iholta käsin (PTA)
+
+@RUOTSI = PTA av knävecks-, underbens- och vristartär
+
+@END = 
+
+@KOODI = PF1BT 
+
+@SUOMI = Polven, säären ja nilkan valtimoiden laajennushoito iholta käsin (PTA), laaja
+
+@RUOTSI = PTA av knävecks-, underbens- och vristartär, omfattande
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer på vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = PG1AE 
+
+@SUOMI = Muualla luokittamaton  valtimon UÄ
+
+@RUOTSI = UL av annan artär
+
+@END = 
+
+@KOODI = PG1AT 
+
+@SUOMI = Muun valtimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av annan artär (PTA)
+
+@END = 
+
+@KOODI = PG1BE 
+
+@SUOMI = Suonen sisäinen UÄ (intravaskulaarinen UÄ)
+
+@RUOTSI = UL av blodkärl intravaskulärt
+
+@END = 
+
+@KOODI = PG1BF 
+
+@SUOMI = Muiden verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övriga blodkärl med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PG1BG 
+
+@SUOMI = Muiden verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övriga blodkärl med högfältsmagnet
+
+@END = 
+
+@KOODI = PG1BT 
+
+@SUOMI = Muun valtimon laajennushoito iholta käsin (PTA), laaja, usea alue
+
+@RUOTSI = Perkutan dilatation av annan artär (PTA), omfattande, flera områden
+
+@END = 
+
+@KOODI = PG1CF 
+
+@SUOMI = Muiden verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övriga blodkärl, omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PG1CG 
+
+@SUOMI = Muiden verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övriga blodkärl, omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PG1DE 
+
+@SUOMI = Verisuonten laaja UÄ virtausmittauksineen  (Doppler)
+
+@RUOTSI = UL av blodkärl med flödesmätning omfattande dopplerundersökning
+
+@END = 
+
+@KOODI = PG1DF 
+
+@SUOMI = Muiden verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR av övriga blodkärl, speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PG1DG 
+
+@SUOMI = Muiden verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av övriga blodkärl, speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = PG1GT 
+
+@SUOMI = AV-malformaatioiden suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformationer
+
+@END = 
+
+@KOODI = PG1HT 
+
+@SUOMI = AV-malformaatioiden suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformationer, omfattande
+
+@END = 
+
+@KOODI = PG1JT 
+
+@SUOMI = AV-malformaatioiden suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av av-malformationer, mycket omfattande
+
+@END = 
+
+@KOODI = PG1KT 
+
+@SUOMI = Aneurysman suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd ocklusion av aneurysm
+
+@END = 
+
+@KOODI = PG1LT 
+
+@SUOMI = Aneurysman suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd ocklusion av aneurysm, omfattande
+
+@END = 
+
+@KOODI = PG1MT 
+
+@SUOMI = Vasokonstriktiivinen hoito radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd vasokonstriktiv behandling
+
+@END = 
+
+@KOODI = PG1NT 
+
+@SUOMI = Vuodon suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av blödning
+
+@END = 
+
+@KOODI = PG1PT 
+
+@SUOMI = Vuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av blödning, omfattande
+
+@END = 
+
+@KOODI = PG1QT 
+
+@SUOMI = Vuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av blödning, mycket omfattande
+
+@END = 
+
+@KOODI = PG1ST 
+
+@SUOMI = Suonensisäinen liuotushoito valtimoon radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd trombolys i annan artär
+
+@END = 
+
+@KOODI = PG1UT 
+
+@SUOMI = Perkutaaninen aspiraatio-trombektomia
+
+@RUOTSI = Perkutan aspirations trobektomi
+
+@END = 
+
+@KOODI = PG1VT 
+
+@SUOMI = Perkutaaninen aterektomia
+
+@RUOTSI = Perkutan aterektomi
+
+@END = 
+
+@KOODI = PG1WT 
+
+@SUOMI = Laser-angioplastia radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd laserangioplastik
+
+@END = 
+
+@KOODI = PG1XE 
+
+@SUOMI = Verisuonten muu UÄ
+
+@RUOTSI = UL av blodkärl (övrig)
+
+@END = 
+
+@KOODI = PG1YT 
+
+@SUOMI = Verisuonikatetrin asennus läpivalaisussa
+
+@RUOTSI = Genomlysningsstyrd insättning av kärlkateter
+
+@END = 
+
+@KOODI = PG1ZT 
+
+@SUOMI = Vierasesineen poisto verisuonesta radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd extraktion av främmande kropp ur blodkärl
+
+@END = 
+
+@KOODI = PG2YT 
+
+@SUOMI = Endoproteesin laitto muuhun valtimoon radiologisessa ohjauksessa
+
+@RUOTSI = Radiolgiskt styrd insättning av kärlendoprotes i annan artär
+
+@NOTE_F = Aorttaproteesi, katso PD1YT tai PD5YT
+
+@END = 
+
+@KOODI = PG5RT 
+
+@SUOMI = Valtimolaskimoportin laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av dialysfistel (kärlaccess)
+
+@END = 
+
+@KOODI = PG5ST 
+
+@SUOMI = Valtimolaskimoportin liuotushoito radiologisessa ohjauksessa
+
+@RUOTSI = Trombolys i av-fistel (kärlaccess)
+
+@END = 
+
+@KOODI = PG9AC 
+
+@SUOMI = Muun valtimon varjoainetutkimus
+
+@RUOTSI = Övrig angiografi
+
+@END = 
+
+@KOODI = PG9BC 
+
+@SUOMI = Muun valtimon laaja varjoainetutkimus
+
+@RUOTSI = Övrig angiografi, omfattande
+
+@END = 
+
+@KOODI = PG9CC 
+
+@SUOMI = Muun valtimon erittäin laaja varjoainetutkimus
+
+@RUOTSI = Övrig angiografi, mycket omfattande
+
+@END = 
+
+@KOODI = PH1AC 
+
+@SUOMI = Yläraajan laskimotutkimus
+
+@RUOTSI = Flebografi av övre extremitet
+
+@END = 
+
+@KOODI = PH1AE 
+
+@SUOMI = Yläraajalaskimoiden UÄ
+
+@RUOTSI = UL av övre extremitetens vener
+
+@END = 
+
+@KOODI = PH1BC 
+
+@SUOMI = Yläraajan laaja laskimotutkimus
+
+@RUOTSI = Flebografi av övre extremitet, omfattande
+
+@END = 
+
+@KOODI = PH1ST 
+
+@SUOMI = Yläraajalaskimon suonensisäinen liuotushoito radiologisessa ohjauksessa
+
+@RUOTSI = Trombolys i armven
+
+@END = 
+
+@KOODI = PH2AC 
+
+@SUOMI = Alaraajan laskimon varjoainetutkimus (flebografia,venografia)
+
+@RUOTSI = Flebografi av nedre extremitet
+
+@END = 
+
+@KOODI = PH2AE 
+
+@SUOMI = Alaraajalaskimoiden UÄ
+
+@RUOTSI = UL av nedre extremitetens vener
+
+@END = 
+
+@KOODI = PH2BC 
+
+@SUOMI = Alaraajan laskimon laaja varjoainetutkimus
+
+@RUOTSI = Flebografi av nedre extremitet, omfattande
+
+@NOTE_F = Varjoaineruiskutus jalkaterään ja nivustaipeeseen
+
+@END = 
+
+@KOODI = PH2ST 
+
+@SUOMI = Lantion ja alaraajalaskimon suonensisäinen liuotushoito radiiologisessa ohjauksessa
+
+@RUOTSI = Trombolys i bäcken- och benven
+
+@END = 
+
+@KOODI = PH3AC 
+
+@SUOMI = Sisäelinlaskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av bukvener
+
+@END = 
+
+@KOODI = PH3BC 
+
+@SUOMI = Sisäelinlaskimon laaja varjoainetutkimus
+
+@RUOTSI = Flebografi av bukvener, omfattande
+
+@END = 
+
+@KOODI = PH3CC 
+
+@SUOMI = Sisäelinlaskimon erittäin laaja varjoainetutkimus
+
+@RUOTSI = Flebografi av bukvener, mycket omfattande
+
+@END = 
+
+@KOODI = PH3EC 
+
+@SUOMI = Maksalaskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av levervener
+
+@END = 
+
+@KOODI = PH3HC 
+
+@SUOMI = Munuaislaskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av njurvener
+
+@END = 
+
+@KOODI = PH3LB 
+
+@SUOMI = Porttilaskimon katetrin paikan tarkastus
+
+@RUOTSI = Kontroll av kateter lokalisation i vena portae
+
+@END = 
+
+@KOODI = PH3YT 
+
+@SUOMI = Portti- ja maksalaskimon yhdystieproteesin asennus (TIPS)
+
+@RUOTSI = Anläggning av portosystemisk shunt (TIPS)
+
+@END = 
+
+@KOODI = PH4AC 
+
+@SUOMI = Aivojen laskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av hjärnans vener
+
+@END = 
+
+@KOODI = PH4GT 
+
+@SUOMI = Aivojen laskimomalformaation suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Endovaskulär ocklusion av venös malformation i hjärnan
+
+@END = 
+
+@KOODI = PH4HT 
+
+@SUOMI = Aivojen laskimomalformaation suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Endovaskulär ocklusion av venös malformation i hjärnan, omfattande
+
+@END = 
+
+@KOODI = PH4JT 
+
+@SUOMI = Aivojen laskimomalformaation suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Endovaskulär ocklusion av venös malformation i hjärnan, mycket omfattande
+
+@END = 
+
+@KOODI = PH5AC 
+
+@SUOMI = Kiveslaskimon varjoainetutkimus (vena spermatica)
+
+@RUOTSI = Flebografi av vena spermatica
+
+@END = 
+
+@KOODI = PH5GT 
+
+@SUOMI = Kiveslaskimon suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Embolisering av vena spermatica
+
+@END = 
+
+@KOODI = PH6GT 
+
+@SUOMI = Munasarjalaskimon suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Embolisering av vena ovarica
+
+@END = 
+
+@KOODI = PH7AC 
+
+@SUOMI = Alaonttolaskimon varjoainetutkimus
+
+@RUOTSI = Lumbal kavografi
+
+@END = 
+
+@KOODI = PH7AT 
+
+@SUOMI = Alaonttolaskimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av nedre hålvenen
+
+@END = 
+
+@KOODI = PH7FT 
+
+@SUOMI = Alaonttolaskimon filtterin laitto radiologisessa ohjauksessa
+
+@RUOTSI = Stentinläggning i nedre hålvenen
+
+@END = 
+
+@KOODI = PH7YT 
+
+@SUOMI = Alaonttolaskimon stentin asentaminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd inläggning av filter i nedre hålvenen
+
+@END = 
+
+@KOODI = PH8AC 
+
+@SUOMI = Paisuvaiskudoksen varjoainetutkimus (cavernosografia)
+
+@RUOTSI = Kavernosografi
+
+@END = 
+
+@KOODI = PH8BC 
+
+@SUOMI = Paisuvaiskudoksen varjoainetutkimus ja mittaus
+
+@RUOTSI = Kavernosografi med mätning
+
+@END = 
+
+@KOODI = PH9AT 
+
+@SUOMI = Laskimon laajennushoito iholta käsin (PTA)
+
+@RUOTSI = Perkutan dilatation av ven (PTA)
+
+@END = 
+
+@KOODI = PH9ST 
+
+@SUOMI = Laskimon suonensisäinen liuotushoito radiologisessa ohjauksessa
+
+@RUOTSI = Trombolys i ven med radiologisk styrning
+
+@END = 
+
+@KOODI_R = PJ
+
+@SUOMI_R = Imusuonijärjestelmän toimenpiteet
+
+@RUOTSI_R = Operationer på det lymfatiska systemet
+
+@ENGL_R = Operations on lymphatic system
+
+@END = 
+
+@KOODI = PJ1AC 
+
+@SUOMI = Imuteiden varjoainetutkimus (lymfografia)
+
+@RUOTSI = Lymfografi
+
+@END = 
+
+@KOODI = PJ2AE 
+
+@SUOMI = Imusolmukkeiden UÄ
+
+@RUOTSI = UL av lymfknutor
+
+@END = 
+
+@KOODI = PJ2AT 
+
+@SUOMI = Imusolmukkeen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi  lymfknuta
+
+@END = 
+
+@KOODI = PJ2CT 
+
+@SUOMI = Imusolmukkeen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd biopsi av  lymfknuta
+
+@END = 
+
+@KOODI = PJ2HT 
+
+@SUOMI = Imusolmukkeen kudosnäytteen otto UÄ-ohjauksessa, syvä
+
+@RUOTSI = UL-styrd djup biopsi av  lymfknuta
+
+@END = 
+
+@KOODI = PJ3AT 
+
+@SUOMI = Imusolmukkeen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av lymfknuta
+
+@END = 
+
+@KOODI = PJ3CT 
+
+@SUOMI = Imusolmukkeen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi av lymfknuta
+
+@END = 
+
+@KOODI = PJ3HT 
+
+@SUOMI = Imusolmukkeen solunäytteen otto UÄ-ohjauksessa, pinnallinen
+
+@RUOTSI = UL-styrd ytlig biopsi av  lymfknuta
+
+@END = 
+
+@KOODI = PJ4AT 
+
+@SUOMI = Imusolmukkeen merkkaus UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd märkning av lymfknuta
+
+@END = 
+
+@KOODI = PJ4CT 
+
+@SUOMI = Imusolmukkeen merkkaus TT-ohjauksessa
+
+@RUOTSI = DT-styrd märkning av lymfknuta
+
+@END = 
+
+@LUVUT = LUKU Q
+
+@LUVUT_S = KAPITEL Q
+
+@SUOMI_L = Ihon ja ihonalaiskudoksen toimenpiteet
+
+@RUOTSI_L = Åtgärder på hud och subkutana vävnader
+
+@ENGL_L = Skin and subcutaneous tissue procedures
+
+@NOTE_LF = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_LS = Transplantat och lambåer, se ZZ
+
+@END_L = 
+
+@KOODI_R = R1
+
+@SUOMI_R = Kuntoutustarpeen ja -mahdollisuuksien arviointi
+
+@RUOTSI_R = Uppskattning av rehabilitationsbehov och -potential
+
+@END = 
+
+@KOODI = QX1AE 
+
+@SUOMI = Ihon UÄ
+
+@RUOTSI = UL av huden
+
+@END = 
+
+@KOODI = QX2CB 
+
+@SUOMI = Fistelin varjoainetutkimus (fistulografia)
+
+@RUOTSI = Fistulografi
+
+@END = 
+
+@KOODI = QX2XA 
+
+@SUOMI = Pehmytosan muu röntgentutkimus
+
+@RUOTSI = Övrig mjukdelsröntgen
+
+@END = 
+
+@KOODI = QX2XE 
+
+@SUOMI = Pehmytosan muu UÄ
+
+@RUOTSI = UL av övriga mjukdelar
+
+@END = 
+
+@KOODI = QX2ZT 
+
+@SUOMI = Pinnallisen vierasesineen poisto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd borttagning av ytlig främmande föremål
+
+@END = 
+
+@KOODI = QX3HE 
+
+@SUOMI = Pinnallisen resistenssin UÄ
+
+@RUOTSI = UL av ytligt belägen expansion
+
+@END = 
+
+@LUVUT = LUKU T
+
+@LUVUT_S = KAPITEL T
+
+@SUOMI_L = Pientoimenpiteet
+
+@RUOTSI_L = Mindre ingrepp
+
+@ENGL_L = Minor surgical procedures
+
+@END_L = 
+
+@KOODI_R = TJ
+
+@SUOMI_R = Ruoansulatuskanavan ja sen oheiselimien pientoimenpiteet
+
+@RUOTSI_R = Mindre åtgärder på gastrointestinalkanalen och därtill hörande organ
+
+@ENGL_R = Minor procedures in gastroenterological surgery
+
+@END = 
+
+@KOODI_A = TJX
+
+@SUOMI_A = Ruuansulatuskanavan tähystyksessä suoritettavat pientoimenpiteet
+
+@RUOTSI_A = Mindre åtgärder i gastrointestinal endoskopi
+
+@ENGL_A = Minor procedures in gastrointestinal endoscopy
+
+@NOTE_RF = Yhdistämällä tämän ryhmän koodeja ryhmän UJ koodeihin voidaan kuvata tähystyksen yhteydessä tehtyjä pientoimenpiteitä. Luvun J sisältämät toimenpiteet voidaan edellen kuvata entisillä koodeillaan (katso ryhmät JCA, JDA, JFA ja JGA)
+
+@NOTE_RS = Genom att kombinera koder från denna grupp och gruppen UJ kan man ange mindre åtgärder i samband med endoskopi. De åtgärder som finns i kapitel J kan anges med sina gamla koder (se grupperna  JCA, JDA, JFA och JGA)
+
+@END = 
+
+@KOODI = TJX30 
+
+@SUOMI = Vierasesineen poisto mahauolikanavasta tähystyksessä
+
+@RUOTSI = Endoskopisk avlägsnande av främmande föremål från magtarmkanalen
+
+@END = 
+
+@KOODI = TJX90 
+
+@SUOMI = Muu ruuansulatuskanavan tähystyksessä suoritettu pientoimenpide
+
+@RUOTSI = Annan mindre åtgärd genom gastrointestinal endoskopi
+
+@END = 
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinjärjestelmiin vaikuttavat toimenpiteet
+
+@RUOTSI_L = Andra åtgärder som inriktas på flera organsystem
+
+@ENGL_L = Other procedures and procedures acting on several organ systems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinjärjestelmiin tai koko elimistöön.
+
+@NOTE_LS = Åtgärder som inriktas på flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI_R = UL
+
+@SUOMI_R = Naisten sukupuolielinten tähystystoimenpiteet
+
+@RUOTSI_R = Transluminala endoskopier av kvinnliga genitalia
+
+@ENGL_R = Transluminal endoscopy of female genital tract
+
+@END = 
+
+@KOODI_A = UJF
+
+@SUOMI_A = Ohut- ja paksusuolen tähystykset
+
+@RUOTSI_A = Jejunoskopi/ileoskopi och kolonoskopi
+
+@ENGL_A = Enteroscopy and coloscopy
+
+@END = 
+
+@KOODI = UJF12 
+
+@SUOMI = Ohutsuolen tähystys suoliavanteen kautta
+
+@RUOTSI = Jejunoskopi/ileoskopi via enterostomi
+
+@NOTE_F = Sis. avannesäilön tutkimuksen ja ohutsuolen tähystyksen ohutsuolen ja peräaukon välisen avanteen kautta
+
+@NOTE_F =
+Suolesta muodostetun urostomian ja virtsasäiliön tähystys UKB12
+
+@NOTE_S = Inkl undersökning av reservoar i matsmältningskanalen och ileoskopi genom ileoanalstomi
+
+@NOTE_S =
+Endoskopi av urostomi inkl urinreservoar konstruerad av tarm UKB12
+
+@END = 
+
+@KOODI = UJF14 
+
+@SUOMI = Ohutsuolen ja peräaukon liitoksen tähystys
+
+@RUOTSI = Skopi av ileoanal anastamos
+
+@END = 
+
+@KOODI = UJF30 
+
+@SUOMI = Ohutsuolen tähystys paksusuolen kautta
+
+@RUOTSI = Ileoskopi genom colon
+
+@NOTE_F = Sisältää samalla tehdyn paksusuolen tähystyksen
+
+@NOTE_S = Inkl. kolonoskopi som görs samtidigt
+
+@END = 
+
+@KOODI = UJF32 
+
+@SUOMI = Koko paksusuolen tähystys, kolonoskopia
+
+@RUOTSI = Kolonoskopi, hela kolon
+
+@NOTE_F = Sis. samalla tehdyn sigma- ja peräsuolen tähystyksen
+
+@NOTE_S = Inkl endoskopi av rektum, kolon och angränsande tunntarm i samma seans
+
+@END = 
+
+@KOODI_R = UL
+
+@SUOMI_R = Naisten sukupuolielinten tähystystoimenpiteet
+
+@RUOTSI_R = Transluminala endoskopier av kvinnliga genitalia
+
+@ENGL_R = Transluminal endoscopy of female genital tract
+
+@END = 
+
+@KOODI = UKB12 
+
+@SUOMI = Virtsatieavanteen tähystys
+
+@RUOTSI = Endoskopi av urostomi eller conduit
+
+@END = 
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ för transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@NOTE_LF = Sisältää irroitettujen elinten tarkastamisen ja jälkikäsittelyn
+
+@NOTE_LS = Innefattar inspektion och åtgärder efter uttagning
+
+@END_L = 
+
+@KOODI_R = XF
+
+@SUOMI_R = Sydämen tutkimukset
+
+@RUOTSI_R = Diagnostiska åtgärder på hjärtat och de stora intratorakala kärlen
+
+@ENGL_R = Investigative procedures on heart
+
+@NOTE_RF = Suunpohjan toimenpiteet kohdassa EJ
+
+@NOTE_RF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Transesofageal ultraljudsdiagnostik, se XGX02
+
+@END = 
+
+@KOODI = XFE00 
+
+@SUOMI = Ultraäänitutkimus sydämen pinnalta
+
+@RUOTSI = Epikardiell ultraljudsundersökning
+
+@END = 
+
+@KOODI = XFE01 
+
+@SUOMI = Ultraäänitutkimus sydämen pinnalta tähystyksessä
+
+@RUOTSI = Torakoskopisk epikardiell ultraljudsundersökning
+
+@END = 
+
+@KOODI_R = XG
+
+@SUOMI_R = Rintaontelon ultraäänitutkimukset leikkauksen tai tähystyksen aikana
+
+@RUOTSI_R = Intraoperativ eller torakoskopisk ultraljudsundersökning i bröstkorgen
+
+@ENGL_R = Intraoperative and endoscopic thoracic ultrasonography
+
+@END = 
+
+@KOODI = XGX10 
+
+@SUOMI = Ultraäänitutkimus keuhkon pinnalta
+
+@RUOTSI = Intrapleural ultraljudsundersökning
+
+@NOTE_F = Epikardiaalinen UÄ, ks XFE00 tai XFE01
+
+@NOTE_S = Epikardiellt ultraljud, se XFE00 eller XFE01
+
+@END = 
+
+@KOODI = XGX21 
+
+@SUOMI = Ultraäänitutkimus rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk ultraljudsundersökning
+
+@NOTE_F = Epikardiaalinen UÄ, ks XFE01
+
+@NOTE_S = Epikardiellt ultraljud, se XFE01
+
+@END = 
+
+@KOODI = XGX32 
+
+@SUOMI = Ultraäänitutkimus keuhkoputken tähystyksessä
+
+@RUOTSI = Bronkoskopisk ultraljudsundersökning
+
+@END = 
+
+@KOODI = XGX96 
+
+@SUOMI = Muu rintaontelon ultraäänitutkimus leikkauksen tai tähystyksen aikana
+
+@RUOTSI = Annan intraoperativ eller endoskopisk torakal ultraljudsundersökning
+
+@END = 
+
+@KOODI_R = XJ
+
+@SUOMI_R = Ruoansulatuskanavan ja siihen liittyvien elinten tutkimukset
+
+@RUOTSI_R = Diagnostiska åtgärder på matsmältningskanalen
+
+@ENGL_R = Investigative procedures on digestive system
+
+@END = 
+
+@KOODI = XJA00 
+
+@SUOMI = Vatsaontelon ultraäänitutkimus leikkauksen aikana
+
+@RUOTSI = Ultraljudsundersökning vid laparotomi
+
+@END = 
+
+@KOODI = XJA01 
+
+@SUOMI = Vatsaontelon ultraäänitutkimus vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk ultraljudsundersökning
+
+@END = 
+
+@KOODI = XJF00 
+
+@SUOMI = Ultraäänitutkimus suoliavanteen kautta
+
+@RUOTSI = Ultraljudsundersökning via entero/kolostomi
+
+@END = 
+
+@KOODI = XJF02 
+
+@SUOMI = Ultraäänitutkimus tähystyksessä suoliavanteen kautta
+
+@RUOTSI = Endoskopisk ultraljudsundersökning via entero/kolostomi
+
+@END = 
+
+@KOODI = XJG12 
+
+@SUOMI = Ultraäänitutkimus tähystyksessä peräsuolen kautta
+
+@RUOTSI = Transrektal endoskopisk ultraljudsundersökning
+
+@END = 
+
+@KOODI = XJH00 
+
+@SUOMI = Ultraäänitutkimus peräaukon kautta
+
+@RUOTSI = Transanal ultraljudsundersökning
+
+@END = 
+
+@KOODI_R = XK
+
+@SUOMI_R = Virtsateiden ja miehen sukupuolielinten tutkimukset
+
+@RUOTSI_R = Diagnostiska åtgärder på urinvägar och manliga genitalia
+
+@ENGL_R = Investigative procedures on urinary and male genital system
+
+@END = 
+
+@KOODI = XKD10 
+
+@SUOMI = Ultraäänitutkimus virtsaputken kautta
+
+@RUOTSI = Transuretral ultraljudsundersökning
+
+@NOTE_F = Eturauhasen ultraäänitutkimus peräsuolen kautta XJH 00
+
+@NOTE_S = Transanal/rektal ultraljudsundersökning av prostata, se XJG12, XJH00
+
+@END = 
+
+@KOODI_R = XM
+
+@SUOMI_R = Raskauden aikaiset tutkimukset
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI = XMA02 
+
+@SUOMI = Sikiön sydämen ultraäänitutkimus
+
+@RUOTSI = ultraljudsundersökning av fosterhjärta
+
+@END = 
+
+@KOODI_R = XP
+
+@SUOMI_R = Verisuonten tutkimustoimenpiteet
+
+@RUOTSI_R = Diagnostiska åtgärder på perifera kärl
+
+@NOTE_RF = Verenpaineen mittaukset, katso XF
+
+@NOTE_RS = Blodtrycksmätningar, se XF
+
+@END = 
+
+@KOODI = XPX00 
+
+@SUOMI = Leikkauksen aikainen angiografia
+
+@RUOTSI = Intraoperativ angiografi
+
+@END = 
+
+@KOODI =       
+
+@SUOMI = 
+
+@RUOTSI = 
+
+@END = 
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ för transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@NOTE_LF = Sisältää irroitettujen elinten tarkastamisen ja jälkikäsittelyn
+
+@NOTE_LS = Innefattar inspektion och åtgärder efter uttagning
+
+@END_L = 
+
+@KOODI_R = XW
+
+@SUOMI_R = Muiden elinjärjestelmien  tutkimustoimenpiteet
+
+@RUOTSI_R = Diagnostiska åtgärder i andra organsystem
+
+@END = 
+
+@KOODI = XW1AT 
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW1BT 
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd finnålsbiopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW1CT 
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW1XT 
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto muussa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd finnålsbiopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW2AT 
+
+@SUOMI = Muun sisäelimen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd finnålsbiopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW2BT 
+
+@SUOMI = Muun sisäelimen solunäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd finnålsbiopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW2CT 
+
+@SUOMI = Muun sisäelimen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd finnålsbiopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW2DT 
+
+@SUOMI = Muun sisäelimen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd finnålsbiopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW2XT 
+
+@SUOMI = Muun sisäelimen solunäytteen otto muussa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd finnålsbiopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW3AT 
+
+@SUOMI = Muun pinnallisen elimen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW3BT 
+
+@SUOMI = Muun pinnallisen elimen kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd biopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW3CT 
+
+@SUOMI = Muun pinnallisen elimen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd biopsi av annat ytligt beläget organ
+
+@END = 
+
+@KOODI = XW4AT 
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd biopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW4BT 
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd biopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW4CT 
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = DT-styrd biopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW4DT 
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = MR-styrd biopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW4XT 
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto muussa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd biopsi av annan inre organ
+
+@END = 
+
+@KOODI = XW5WT 
+
+@SUOMI = Muu radiologisesti ohjattu verinäytteen otto
+
+@RUOTSI = Annat radiologiskt styrt blodprov
+
+@END = 
+
+@KOODI_R = XX
+
+@SUOMI_R = Määräämättömän elinjärjestelmän tutkimukset
+
+@RUOTSI_R = Diagnostiska åtgärder utan specifikation av organsystem
+
+@ENGL_R = Investigative procedures on unspecified organ system
+
+@END = 
+
+@KOODI = XX1AT 
+
+@SUOMI = Muu punktio tai tyhjennys UÄ-ohjauksessa
+
+@RUOTSI = Annan UL-styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XX1AW 
+
+@SUOMI = Lausunto vieraista natiivikuvista
+
+@RUOTSI = Utlåtande över främmande röntgenundersökning utan kontrastmedel
+
+@END = 
+
+@KOODI = XX1BT 
+
+@SUOMI = Muu punktio tai tyhjennys läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd punktion eller tömning
+
+@END = 
+
+@KOODI = XX1BW 
+
+@SUOMI = Lausunto vieraista varjoainekuvista
+
+@RUOTSI = Utlåtande över främmande röntgenundersökning med kontrastmedel
+
+@END = 
+
+@KOODI = XX1CT 
+
+@SUOMI = Muu punktio tai tyhjennys TT-ohjauksessa
+
+@RUOTSI = DT-styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XX1CW 
+
+@SUOMI = Lausunto vieraista angiografiakuvista
+
+@RUOTSI = Utlåtande över främmande angiografi
+
+@END = 
+
+@KOODI = XX1DT 
+
+@SUOMI = Muu punktio tai tyhjennys magneettiohjauksessa
+
+@RUOTSI = MR-styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XX1DW 
+
+@SUOMI = Lausunto vieraista TT-kuvista
+
+@RUOTSI = Utlåtande över främmande DT-undersökning
+
+@END = 
+
+@KOODI = XX1FW 
+
+@SUOMI = Lausunto vieraista magneettikuvista
+
+@RUOTSI = Utlåtande över främmande MR-undersökning
+
+@END = 
+
+@KOODI = XX1XT 
+
+@SUOMI = Muu punktio tai tyhjennys muussa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XX1XW 
+
+@SUOMI = Lausunto muista vieraista kuvista
+
+@RUOTSI = Utlåtande över annan främmande radiologisk undersökning
+
+@END = 
+
+@KOODI = XX2AT 
+
+@SUOMI = Muu injektio UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd injektion
+
+@END = 
+
+@KOODI = XX2AW 
+
+@SUOMI = Teleradiologinen konsultaatio natiivikuvista
+
+@RUOTSI = Teleradiologisk konsultation av röntgenbilder
+
+@END = 
+
+@KOODI = XX2BT 
+
+@SUOMI = Muu injektio läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd injektion
+
+@END = 
+
+@KOODI = XX2BW 
+
+@SUOMI = Teleradiologinen konsultaatio varjoainekuvista
+
+@RUOTSI = Teleradiologisk konsultation av röntgenbilter med kontrastmedel
+
+@END = 
+
+@KOODI = XX2CT 
+
+@SUOMI = Muu injektio TT-ohjauksessa
+
+@RUOTSI = DT-styrd injektion
+
+@END = 
+
+@KOODI = XX2CW 
+
+@SUOMI = Teleradiologinen konsultaatio angiografiakuvista
+
+@RUOTSI = Teleradiologisk konsultation av angiografibilder
+
+@END = 
+
+@KOODI = XX2DT 
+
+@SUOMI = Muu injektio magneettiohjauksessa
+
+@RUOTSI = MR-styrd injektion
+
+@END = 
+
+@KOODI = XX2DW 
+
+@SUOMI = Teleradiologionen konsultaatio TT-kuvista
+
+@RUOTSI = Teleradiologisk konsultation av DT-undersökning
+
+@END = 
+
+@KOODI = XX2FW 
+
+@SUOMI = Teleradiologinen konsultaatio magneettikuvista
+
+@RUOTSI = Teleradiologisk konsultation av MR-undersökning
+
+@END = 
+
+@KOODI = XX2XT 
+
+@SUOMI = Muu injektio muussa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd injektion
+
+@END = 
+
+@KOODI = XX2XW 
+
+@SUOMI = Muu teleradiologinen konsultaatio
+
+@RUOTSI = Teleradiologisk konsultation av annan radiologisk undersökning
+
+@END = 
+
+@KOODI = XX3AT 
+
+@SUOMI = Muu merkkaus UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd märkning
+
+@END = 
+
+@KOODI = XX3BT 
+
+@SUOMI = Muu merkkaus läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd märkning
+
+@END = 
+
+@KOODI = XX3CT 
+
+@SUOMI = Muu merkkaus TT-ohjauksessa
+
+@RUOTSI = DT-styrd märkning
+
+@END = 
+
+@KOODI = XX3DT 
+
+@SUOMI = Muu merkkaus magneettiohjauksessa
+
+@RUOTSI = MR-styrd märkning
+
+@END = 
+
+@KOODI = XX3DW 
+
+@SUOMI = Aikaavievä työasematyöskentely
+
+@RUOTSI = Tidsödande verksamhet vid datakonsol
+
+@END = 
+
+@KOODI = XX3XT 
+
+@SUOMI = Muu merkkaus muussa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd märkning
+
+@END = 
+
+@KOODI = XX4AT 
+
+@SUOMI = Muun ontelon kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av hålighet
+
+@END = 
+
+@KOODI = XX4BT 
+
+@SUOMI = Muun ontelon kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av hålighet
+
+@END = 
+
+@KOODI = XX4CT 
+
+@SUOMI = Muun ontelon kanavointi TT-ohjauksessa
+
+@RUOTSI = DT-styrt dränage av hålighet
+
+@END = 
+
+@KOODI = XX4DT 
+
+@SUOMI = Muun ontelon kanavointi magneettiohjauksessa
+
+@RUOTSI = MR-styrt dränage av hålighet
+
+@END = 
+
+@KOODI = XX4FT 
+
+@SUOMI = Muun ontelon katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt dränbyte
+
+@END = 
+
+@KOODI = XX4XT 
+
+@SUOMI = Muu kanavointi radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt dränage
+
+@END = 
+
+@KOODI = XX5KT 
+
+@SUOMI = Skleroterapia muuhun kystaan
+
+@RUOTSI = Skleroterapi av cysta
+
+@END = 
+
+@KOODI = XX5LT 
+
+@SUOMI = Skleroterapia muuhun elimeen
+
+@RUOTSI = Skleroterapi av organ
+
+@END = 
+
+@KOODI = XX5WT 
+
+@SUOMI = Laserhoito UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd laserbehandling
+
+@END = 
+
+@KOODI = XX6DT 
+
+@SUOMI = Muun kasvaimen embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd embolisering av annan tumör
+
+@END = 
+
+@KOODI = XX6ET 
+
+@SUOMI = Muun kasvaimen embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Radiologiskt styrd embolisering av annan tumör, omfattande
+
+@END = 
+
+@KOODI = XX6KT 
+
+@SUOMI = Muu skleroterapia
+
+@RUOTSI = Skleroterapi
+
+@END = 
+
+@KOODI = XX6LT 
+
+@SUOMI = Kasvaimen lämpökoagulaatio radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd termokoagulation av tumör
+
+@END = 
+
+@KOODI = XX6RT 
+
+@SUOMI = Muu dilataatio radiologisessa ohjauksessa
+
+@RUOTSI = Dilatation
+
+@END = 
+
+@KOODI = XX6XT 
+
+@SUOMI = Muu lääkehoito tai suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd annan farmakoterapi eller ocklusion
+
+@END = 
+
+@KOODI = XX6ZT 
+
+@SUOMI = Kiven tai vierasesineen poisto muualta radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd extraktion av konkrement eller främmande kropp
+
+@END = 
+
+@KOODI = XX9AF 
+
+@SUOMI = Muu suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) begränsad undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9AG 
+
+@SUOMI = Muu suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) begränsad undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9AK 
+
+@SUOMI = Muu spektroskopia
+
+@RUOTSI = Spektroskopi (övrig)
+
+@END = 
+
+@KOODI = XX9AL 
+
+@SUOMI = Muu magneettikenttämittaus (magnetografia)
+
+@RUOTSI = Magnetografi (övrig)
+
+@END = 
+
+@KOODI = XX9AW 
+
+@SUOMI = Röntgenkuvien kopio
+
+@RUOTSI = Kopiering av röntgenbilder
+
+@END = 
+
+@KOODI = XX9BF 
+
+@SUOMI = Muu magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9BG 
+
+@SUOMI = Muu magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9CF 
+
+@SUOMI = Muu laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9CG 
+
+@SUOMI = Muu laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9DF 
+
+@SUOMI = Muu erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9DG 
+
+@SUOMI = Muu erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9KE 
+
+@SUOMI = Ultraäänitutkimus varjoainetta käyttäen
+
+@RUOTSI = UL med kontrastmedel
+
+@NOTE_F = Sydämen  tutkimus kts. FM1KE Kohdun ja munajohtimien tutkimus kts. LC2HE
+
+@END = 
+
+@KOODI = XX9LA 
+
+@SUOMI = Täydentävä läpivalaisututkimus ilman varjoainetta
+
+@RUOTSI = Kompletterande genomlysning utan kontrastmedel
+
+@END = 
+
+@KOODI = XX9TB 
+
+@SUOMI = Täydentävä varjoainetutkimus
+
+@RUOTSI = Kompletterande kontrastundersökning
+
+@END = 
+
+@KOODI = XX9TD 
+
+@SUOMI = Täydentävä TT
+
+@RUOTSI = DT kompletterande undersökning
+
+@END = 
+
+@KOODI = XX9TE 
+
+@SUOMI = Täydentävä UÄ-tutkimus
+
+@RUOTSI = UL kompletterande undersökning
+
+@END = 
+
+@KOODI = XX9TT 
+
+@SUOMI = Täydentävä radiologinen toimenpide
+
+@RUOTSI = Kompletterande radiologisk intervention
+
+@END = 
+
+@KOODI = XX9XA 
+
+@SUOMI = Muu natiiviröntgen
+
+@RUOTSI = Övriga röntgenundersökningar utan kontrastmedel
+
+@END = 
+
+@KOODI = XX9XB 
+
+@SUOMI = Muu varjoainetutkimus
+
+@RUOTSI = Övrig kontrastundersökning
+
+@END = 
+
+@KOODI = XX9XD 
+
+@SUOMI = Muu TT
+
+@RUOTSI = DT (övrig)
+
+@END = 
+
+@KOODI = XX9XE 
+
+@SUOMI = Muu UÄ
+
+@RUOTSI = UL (övrig)
+
+@END = 
+
+@KOODI = XX9XT 
+
+@SUOMI = Muu radiologinen toimenpide
+
+@RUOTSI = Annan radiologisk intervention
+
+@END = 
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ för transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@NOTE_LF = Sisältää irroitettujen elinten tarkastamisen ja jälkikäsittelyn
+
+@NOTE_LS = Innefattar inspektion och åtgärder efter uttagning
+
+@END_L = 
+
+@KOODI = YA1VD 
+
+@SUOMI = Pään ja kaulan annossuunnittelu-TT
+
+@RUOTSI = DT av huvud och halsregion för dosplanering
+
+@END = 
+
+@KOODI = YA1VF 
+
+@SUOMI = Pään ja kaulan sädehoidon annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = MR av huvud- och halsregion för dosplanering, mellanfältsmagnet
+
+@END = 
+
+@KOODI = YA1VG 
+
+@SUOMI = Pään ja kaulan sädehoidon annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR av huvud- och halsregion för dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI = YG1VD 
+
+@SUOMI = Rintakehän annossuunnittelu-TT
+
+@RUOTSI = DT av toraxregion för dosplanering
+
+@END = 
+
+@KOODI = YG1VF 
+
+@SUOMI = Rintakehän alueen annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = MR av toraxregion för dosplanering, mellanfältsmagnet
+
+@END = 
+
+@KOODI = YG1VG 
+
+@SUOMI = Rintakehän alueen annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR av toraxregion för dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI = YJ2VD 
+
+@SUOMI = Lantion annossuunnittelu-TT
+
+@RUOTSI = DT av bäckenet för dosplanering
+
+@END = 
+
+@KOODI = YJ2VF 
+
+@SUOMI = Lantion annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = MR av bäckenregion för dosplanering, mellanfältsmagnet
+
+@END = 
+
+@KOODI = YJ2VG 
+
+@SUOMI = Lantion annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR av bäckenregion för dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI = YJ3VD 
+
+@SUOMI = Vatsan annossuunnittelu-TT
+
+@RUOTSI = DT av buken för dosplanering
+
+@END = 
+
+@KOODI = YJ3VF 
+
+@SUOMI = Vatsan annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = MR av buken för dosplanering, mellanfältsmagnet
+
+@NOTE_F = Sisältää ylävatsan annossuunnittelun
+
+@END = 
+
+@KOODI = YJ3VG 
+
+@SUOMI = Vatsan annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR av buken för dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI = YN3VD 
+
+@SUOMI = Raajan annossuunnittelu-TT
+
+@RUOTSI = DT av extremitet för dosplanering
+
+@END = 
+
+@KOODI = YN7VD 
+
+@SUOMI = Selkärangan annossuunnittelu-TT
+
+@RUOTSI = DT av ryggraden för dosplanering
+
+@END = 
+
+@KOODI = YN7VF 
+
+@SUOMI = Selkärangan annossuunnittelu keskikenttämagneettilaittella
+
+@RUOTSI = MR av ryggraden för dosplanering, mellanfältsmagnet
+
+@END = 
+
+@KOODI = YN7VG 
+
+@SUOMI = Selkärangan annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR av ryggraden för dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI = YX8VD 
+
+@SUOMI = Stereotaktinen annossuunnittelu-TT
+
+@RUOTSI = DT för stereotaktisk dosplanering
+
+@END = 
+
+@KOODI = YX8VF 
+
+@SUOMI = Stereotaktinen annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = MR för stereotaktisk dosplanering, mellanfältsmagnet
+
+@END = 
+
+@KOODI = YX8VG 
+
+@SUOMI = Stereotaktinen annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR för stereotaktisk dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI = YX9VD 
+
+@SUOMI = Annossuunnittelun muu TT
+
+@RUOTSI = DT för dosplanering (övrig)
+
+@END = 
+
+@KOODI = YX9VF 
+
+@SUOMI = Muu annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = MR för stereotaktisk dosplanering (övrig), mellanfältsmagnet
+
+@END = 
+
+@KOODI = YX9VG 
+
+@SUOMI = Muu annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = MR för stereotaktisk dosplanering (övrig), högfältsmagnet
+
+@END = 
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = Lisäkoodit
+
+@RUOTSI_L = Tilläggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = Lisäkoodeja voi käyttää ainoastaan muun toimenpidekoodin lisänä ilmaisemassa  tarkentavaa lisätietoa 
+
+@NOTE_LS = Tilläggskoder används ändast tillsammans med egentliga koder
+
+@END_L = 
+
+@KOODI_R = ZF
+
+@SUOMI_R = Sydänkirurgialle tyypillisiä tekniikoita
+
+@RUOTSI_R = Teknik typiska för kardiovaskulära åtgärder
+
+@ENGL_R = Techniques typical for cardiovascular surgery
+
+@END = 
+
+@KOODI = ZFX01 
+
+@SUOMI = Rotablatorin käyttö
+
+@RUOTSI = Rotablator
+
+@END = 
+
+@KOODI = ZFX02 
+
+@SUOMI = Angiojetin käyttö
+
+@RUOTSI = Angiojet
+
+@END = 
+
+@KOODI_R = ZX
+
+@SUOMI_R = Erityiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+
+@RUOTSI_R = Diverse omständigheter/incidenter i samband med åtgärden
+
+@ENGL_R = Various circumstances and events in surgery
+
+@END = 
+
+@KOODI_A = ZXA
+
+@SUOMI_A = Kehon puoli: oikea-vasen
+
+@RUOTSI_A = Kroppshalva (höger/vänster/bilateral)
+
+@ENGL_A = Side of body
+
+@END = 
+
+@KOODI = ZXA00 
+
+@SUOMI = Oikea puoli
+
+@RUOTSI = Höger sida
+
+@END = 
+
+@KOODI = ZXA05 
+
+@SUOMI = Vasen puoli
+
+@RUOTSI = Vänster sida
+
+@END = 
+
+@KOODI = ZXA10 
+
+@SUOMI = Molemminpuolinen
+
+@RUOTSI = Bilateral
+
+@END = 
+
+@KOODI_A = ZXC
+
+@SUOMI_A = Erityiset leikkaustekniikat
+
+@RUOTSI_A = Speciella kirurgiska tekniker/apparater
+
+@ENGL_A = Specific technique
+
+@END = 
+
+@KOODI = ZXC86 
+
+@SUOMI = Tähystinlaitteen käyttö
+
+@RUOTSI = Användade av endoskopi utstyr
+
+@END = 
+
+@KOODI_A = ZXD
+
+@SUOMI_A = Toimenpiteen kiireellisyys ja vaikeus
+
+@RUOTSI_A = Ingreppets angelägenhetsgrad och svårighetsgrad
+
+@ENGL_A = Emergency or scheduled procedure
+
+@NOTE_RF = Huom. Mikäli ei muuta ilmoiteta oletetaan yleensä kyseessä olevan suunniteltu vaikeusasteeltaan tavallinen toimenpide. Koodit ZXD10 ja ZXD35 ovat siksi tarpeen vain, mikäli tämä pääsääntö ei pidä paikkaansa.
+
+@NOTE_RS = Obs. Om inte annat anges, antar man vanligtvis att det är fråga om en elektiv operation med vanlig sårighetsgrad. Koderna ZXD10 ja ZXD35 behövs  därför ändast då detta huvudprincip inte gäller.
+
+@END = 
+
+@KOODI = ZXD30 
+
+@SUOMI = Laaja toimenpide
+
+@RUOTSI = Extensiv åtgärd
+
+@NOTE_F = Toimenpide työllistää selvästi enemmän kuin kyseinen toimenpide tavallisesti.
+
+@NOTE_S = Åtgärden gräver tydligen mera resurser än vanligt
+
+@END = 
+
+@KOODI = ZXD31 
+
+@SUOMI = Erittäin laaja toimenpide
+
+@RUOTSI = Synnerligen extensiv åtgärd
+
+@END = 
+
+@KOODI_A = ZXF
+
+@SUOMI_A = Syyt toimenpiteen keskeyttämiseen
+
+@RUOTSI_A = Orsaker till att operation avbrutits
+
+@ENGL_A = Causes of interrupted operation
+
+@END = 
+
+@KOODI = ZXF00 
+
+@SUOMI = Toimenpiteen keskeyttäminen potilaan tilan heikkemisen vuoksi
+
+@RUOTSI = Åtgärden avbruten på grund av försämring av patientens tillstånd
+
+@END = 
+
+@KOODI = ZXF05 
+
+@SUOMI = Toimenpiteen keskeyttäminen muusta potilaasta johtuvasta syystä
+
+@RUOTSI = Åtgärden avbruten av annan på patienten beroende orsak
+
+@END = 
+
+@KOODI = ZXF10 
+
+@SUOMI = Toimenpiteen keskeyttäminen välineiden teknisen pettämisen vuoksi
+
+@RUOTSI = Åtgärden avbruten av tekniska orsaker
+
+@END = 
+
+@KOODI = ZXF99 
+
+@SUOMI = Muu syy keskeyttää toimenpide
+
+@RUOTSI = Åtgärden avbruten av annan orsak
+
+@END = 
+
+@KOODI = ZXH00 
+
+@SUOMI = Tutkimus tai toimenpide suoritettu rtg-osaston ulkopuolella
+
+@RUOTSI = Undersökning eller intervention gjord utanför rtg-avdelningen
+
+@END = 
+
+@KOODI = ZXH01 
+
+@SUOMI = Tutkimus tai toimenpide suoritettu leikkaussalissa
+
+@RUOTSI = Undersökning eller intervention gjord i operationssal
+
+@END = 
+
+@KOODI = ZXH02 
+
+@SUOMI = Tutkimus tai toimenpide suoritettu teho-osastolla
+
+@RUOTSI = Undersökning eller intervention gjord på intensivvårdsavdelning
+
+@END = 

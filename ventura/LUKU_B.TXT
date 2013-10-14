@@ -1,0 +1,1031 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU B
+
+@LUVUT_S = KAPITEL B
+
+@SUOMI_L = Umpierityselimet
+
+@RUOTSI_L = Endokrina organ
+
+@ENGL_L = Endocrine system
+
+@NOTE_LF = Aivolisäke ja käpylisäke luvussa A
+
+@NOTE_LF =
+Kateenkorva luvussa G
+
+@NOTE_LF =
+Myöhäinen uusintaleikkaus ilmaistaa lisäkoodilla ZSB00
+
+@NOTE_LS = Hypofys och tallkottkörtel, se kapitel A
+
+@NOTE_LS =
+Tymus, se GEC
+
+@NOTE_LS =
+Sen reoperation anges med tilläggskoden ZSB00
+
+@END_L = 
+
+@KOODI_R = BA
+
+@SUOMI_R = Kilpirauhanen
+
+@RUOTSI_R = Sköldkörteln
+
+@ENGL_R = Thyroid gland
+
+@END = 
+
+@KOODI_A = BA_
+
+@NCSP_A = BAD
+
+@SUOMI_A = Kilpirauhasen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av sköldkötreln
+
+@ENGL_A = Thyroid gland diagnostic radiology
+
+@END = 
+
+@KOODI = BA1AE 
+
+@NCSP = BADE1A
+
+@SUOMI = Kilpirauhasen UÄ *
+
+@RUOTSI = Sköldkörtel, UL *
+
+@END = 
+
+@KOODI_A = BA0
+
+@NCSP_A = BAO
+
+@SUOMI_A = Kilpirauhasen sädehoito
+
+@RUOTSI_A = Strålbehandling av sköldkörteln
+
+@ENGL_A = Thyroid gland radiotherapy
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = BA001 
+
+@NCSP = BAO001
+
+@SUOMI = Sädehoito kilpirauhasen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i sköldkörteln
+
+@END = 
+
+@KOODI = BA002 
+
+@NCSP = BAO002
+
+@SUOMI = Radikaali kilpirauhasen primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i sköldkörteln
+
+@END = 
+
+@KOODI = BA003 
+
+@NCSP = BAO003
+
+@SUOMI = Sädehoito kilpirauhasen primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i sköldkörteln
+
+@END = 
+
+@KOODI = BA004 
+
+@NCSP = BAO004
+
+@SUOMI = Sädehoito kilpirauhasen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i sköldkörteln
+
+@END = 
+
+@KOODI = BA029 
+
+@NCSP = BAO029
+
+@SUOMI = Sädehoito kilpirauhasen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i sköldkörteln
+
+@END = 
+
+@KOODI = BA049 
+
+@NCSP = BAO049
+
+@SUOMI = Sädehoito kilpirauhasessa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i sköldkörteln
+
+@END = 
+
+@KOODI = BA090 
+
+@NCSP = BAO090
+
+@SUOMI = Sädehoito kilpirauhasen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av sköldkörteln
+
+@END = 
+
+@KOODI = BA099 
+
+@NCSP = BAO099
+
+@SUOMI = Muu kilpirauhasen sädehoito
+
+@RUOTSI = Annan strålbehandling av sköldkörteln
+
+@END = 
+
+@KOODI_A = BAA
+
+@NCSP_A = BASA
+
+@SUOMI_A = Kilpirauhasen leikkaukset
+
+@RUOTSI_A = Operationer på sköldkörteln
+
+@ENGL_A = Thyroid gland operations
+
+@END = 
+
+@KOODI = BAA00 
+
+@NCSP = BASA00
+
+@SUOMI = Koepalan otto kilpirauhasesta
+
+@RUOTSI = Biopsi av sköldkörteln
+
+@END = 
+
+@KOODI = BAA05 
+
+@NCSP = BASA05
+
+@SUOMI = Kilpirauhasen tutkimusleikkaus
+
+@RUOTSI = Exploration av sköldkörteln
+
+@END = 
+
+@KOODI = BAA10 
+
+@NCSP = BASA10
+
+@SUOMI = Kilpirauhasen aukaisu
+
+@RUOTSI = Incision av sköldkörteln
+
+@NOTE_F = Sisältää kanavoinnin ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar dränage och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = BAA20 
+
+@NCSP = BASA20
+
+@SUOMI = Kilpirauhasen toisen lohkon poisto osittain
+
+@RUOTSI = Unilateral subtotal resektion av sköldkörtellob
+
+@NOTE_F = Sisältää enukleaation
+
+@NOTE_S = Inkluderar enukleation
+
+@END = 
+
+@KOODI = BAA25 
+
+@NCSP = BASA25
+
+@SUOMI = Kilpirauhasen molempien lohkojen poisto osittain
+
+@RUOTSI = Bilateral subtotal resektion av sköldkörteln
+
+@END = 
+
+@KOODI = BAA30 
+
+@NCSP = BASA30
+
+@SUOMI = Kilpirauhasen kannaksen poisto
+
+@RUOTSI = Istmusresektion av sköldkörteln
+
+@END = 
+
+@KOODI = BAA40 
+
+@NCSP = BASA40
+
+@SUOMI = Kilpirauhasen toisen lohkon poisto kokonaan
+
+@RUOTSI = Unilateral total lobektomi av sköldkörteln
+
+@END = 
+
+@KOODI = BAA50 
+
+@NCSP = BASA50
+
+@SUOMI = Kilpirauhasen toisen lohkon poisto kokonaan ja toisen osittain
+
+@RUOTSI = Total lobektomi + subtotal resektion av kontralaterala loben av sköldkörteln
+
+@END = 
+
+@KOODI = BAA60 
+
+@NCSP = BASA60
+
+@SUOMI = Kilpirauhasen täydellinen poisto
+
+@RUOTSI = Total tyreoidektomi
+
+@END = 
+
+@KOODI = BAA99 
+
+@NCSP = BASA99
+
+@SUOMI = Muu kilpirauhasen leikkaus
+
+@RUOTSI = Annan operation på sköldkörteln
+
+@END = 
+
+@KOODI_A = BA_
+
+@NCSP_A = BAX
+
+@SUOMI_A = Kilpirauhasen muut toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på sköldkörteln
+
+@ENGL_A = Thyroid gland other procedures
+
+@END = 
+
+@KOODI = BA4KT 
+
+@NCSP = BAXT4K
+
+@SUOMI = Kilpirauhasen skleroterapia
+
+@RUOTSI = Sköldkörtel skleroterapi
+
+@END = 
+
+@KOODI = TBA00 
+
+@NCSP = BAXX00
+
+@SUOMI = Kilpirauhaspisto
+
+@RUOTSI = Punktion av sköldkörteln
+
+@END = 
+
+@KOODI = BA2AT 
+
+@NCSP = BAXX10
+
+@SUOMI = Kilpirauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Sköldkörtel, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TBA10 
+
+@NCSP = BAXX10
+
+@SUOMI = Neulakudosnäytteen otto kilpirauhasesta
+
+@RUOTSI = Punktionsbiopsi av sköldkörteln
+
+@NOTE_F = UÄ ohjattuna, katso  BA2AT (radiologian luokitus)
+
+@NOTE_S = Ultraljudsutstryrd, se BA2AT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = BA3AT 
+
+@NCSP = BAXX20
+
+@SUOMI = Kilpirauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Sköldkörtel, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = TBA20 
+
+@NCSP = BAXX20
+
+@SUOMI = Ohutneulanäytteen otto kilpirauhasesta
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av sköldkörteln
+
+@NOTE_F = UÄ ohjattuna, katso  BA3AT (radiologian luokitus)
+
+@NOTE_S = Ultraljudsutstryrd, se BA3AT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI_R = BB
+
+@SUOMI_R = Lisäkilpirauhanen
+
+@RUOTSI_R = Bisköldkörtel
+
+@ENGL_R = Parathyroid gland
+
+@END = 
+
+@KOODI_A = BB_
+
+@NCSP_A = BBD
+
+@SUOMI_A = Lisäkilpirauhasten diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av biskölkörtlar
+
+@ENGL_A = Parathyroid gland diagnostic radiology
+
+@END = 
+
+@KOODI = BB1AE 
+
+@NCSP = BBDE1A
+
+@SUOMI = Lisäkilpirauhasten UÄ
+
+@RUOTSI = Bisköldkörtlar, UL
+
+@END = 
+
+@KOODI_A = BBA
+
+@NCSP_A = BBSA
+
+@SUOMI_A = Lisäkilpirauhasten leikkaukset
+
+@RUOTSI_A = Operationer på bisköldkörtlarna
+
+@ENGL_A = Parathyroid gland operations
+
+@END = 
+
+@KOODI = BBA10 
+
+@NCSP = BBSA10
+
+@SUOMI = Koepalan otto lisäkilpirauhasesta
+
+@RUOTSI = Biopsi av bisköldkörtel
+
+@END = 
+
+@KOODI = BBA20 
+
+@NCSP = BBSA20
+
+@SUOMI = Lisäkilpirauhasen tutkimusleikkaus
+
+@RUOTSI = Exploration av bisköldkörtel
+
+@END = 
+
+@KOODI = BBA30 
+
+@NCSP = BBSA30
+
+@SUOMI = Lisäkilpirauhasen paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk bisköldkörtel
+
+@NOTE_F = Sisältää rauhaskasvaimen poiston
+
+@NOTE_S = Inkluderar adenom
+
+@END = 
+
+@KOODI = BBA40 
+
+@NCSP = BBSA40
+
+@SUOMI = Lisäkilpirauhasten poisto osittain
+
+@RUOTSI = Subtotal paratyreoidektomi
+
+@END = 
+
+@KOODI = BBA50 
+
+@NCSP = BBSA50
+
+@SUOMI = Lisäkilpirauhasten poisto kokonaan
+
+@RUOTSI = Total paratyreoidektomi
+
+@END = 
+
+@KOODI = BBA70 
+
+@NCSP = BBSA70
+
+@SUOMI = Lisäkilpirauhasen siirto
+
+@RUOTSI = Implantation eller transplantation av bisköldkörtel
+
+@END = 
+
+@KOODI = BBA99 
+
+@NCSP = BBSA99
+
+@SUOMI = Muu lisäkilpirauhasen leikkaus
+
+@RUOTSI = Annan operation på bisköldkörtlar
+
+@END = 
+
+@KOODI_A = BB_
+
+@NCSP_A = BBX
+
+@SUOMI_A = Lisäkilpirauhasten muut toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på bisköldkörtlarna
+
+@ENGL_A = Parathyroid gland other procedures
+
+@END = 
+
+@KOODI = BB2AT 
+
+@NCSP = BBXT2A
+
+@SUOMI = Lisäkilpirauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Bisköldkörtel, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = BB3AT 
+
+@NCSP = BBXT3A
+
+@SUOMI = Lisäkilpirauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Bisköldkörtel, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = BB4WT 
+
+@NCSP = BBXT4W
+
+@SUOMI = Lisäkilpirauhasen selektiivinen verinäytteen otto radiologisessa ohjauksessa
+
+@RUOTSI = Bisköldkörtel, radiologiskt styrt selektivt blodprov
+
+@END = 
+
+@KOODI = TBB00 
+
+@NCSP = BBXX00
+
+@SUOMI = Lisäkilpirauhaspisto
+
+@RUOTSI = Punktion av bisköldkörtel
+
+@NOTE_F = UÄ-ohjaus koodataan radiologisella lisäkoodilla (BB1AE)
+
+@NOTE_S = Ultraljudsutstryrning anges med radiologisk tilläggskod (BB1AE)
+
+@END = 
+
+@KOODI = TBB10 
+
+@NCSP = BBXX10
+
+@SUOMI = Neulakudosnäytteen otto lisäkilpirauhasesta
+
+@RUOTSI = Punktionsbiopsi av bisköldkörtel
+
+@NOTE_F = UÄ ohjattuna, katso  BB2AT tai BB3AT (radiologian luokitus)
+
+@NOTE_S = Ultraljudsutstryrd, se BA2AT eller BA3AT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI_R = BC
+
+@SUOMI_R = Lisämunuainen
+
+@RUOTSI_R = Binjure
+
+@ENGL_R = Adrenal gland
+
+@END = 
+
+@KOODI_A = BC_
+
+@NCSP_A = BCD
+
+@SUOMI_A = Lisämunuaisen diagnostinen radiologia
+
+@RUOTSI_A = Binjure diagnostisk radiologi
+
+@ENGL_A = Adrenal gland diagnostic radiology
+
+@END = 
+
+@KOODI = BC1AD 
+
+@NCSP = BCDD1A
+
+@SUOMI = Lisämunuaisten TT
+
+@RUOTSI = Binjurar, DT
+
+@END = 
+
+@KOODI = BC1BD 
+
+@NCSP = BCDD1A
+
+@SUOMI = Lisämunuaisten laaja TT
+
+@RUOTSI = Binjurar, omfattande DT
+
+@END = 
+
+@KOODI = BC1CD 
+
+@NCSP = BCDD1A
+
+@SUOMI = Lisämunuaisten erittäin laaja TT
+
+@RUOTSI = Binjurar,mycket omfattande DT
+
+@END = 
+
+@KOODI = BC1PD 
+
+@NCSP = BCDD1A
+
+@SUOMI = Lisämunuaisten perfuusio TT
+
+@RUOTSI = Binjureperfusionsundersökning med DT
+
+@END = 
+
+@KOODI = BC1AE 
+
+@NCSP = BCDE1A
+
+@SUOMI = Lisämunuaisten UÄ *
+
+@RUOTSI = Binjurar, UL *
+
+@END = 
+
+@KOODI_A = BC0
+
+@NCSP_A = BCO
+
+@SUOMI_A = Lisämunuaisen sädehoito
+
+@RUOTSI_A = Strålbehandling av binjurar
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = BC001 
+
+@NCSP = BCO001
+
+@SUOMI = Sädehoito lisämunuaisen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i binjurar
+
+@END = 
+
+@KOODI = BC002 
+
+@NCSP = BCO002
+
+@SUOMI = Radikaali lisämunuaisen primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i binjurar
+
+@END = 
+
+@KOODI = BC003 
+
+@NCSP = BCO003
+
+@SUOMI = Sädehoito lisämunuaisen primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i binjurar
+
+@END = 
+
+@KOODI = BC004 
+
+@NCSP = BCO004
+
+@SUOMI = Sädehoito lisämunuaisen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i binjurar
+
+@END = 
+
+@KOODI = BC029 
+
+@NCSP = BCO029
+
+@SUOMI = Sädehoito lisämunuaisen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i binjurar
+
+@END = 
+
+@KOODI = BC049 
+
+@NCSP = BCO049
+
+@SUOMI = Sädehoito lisämunuaisessa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i binjurar
+
+@END = 
+
+@KOODI = BC090 
+
+@NCSP = BCO090
+
+@SUOMI = Sädehoito lisämunuaisen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av binjurar
+
+@END = 
+
+@KOODI = BC099 
+
+@NCSP = BCO099
+
+@SUOMI = Muu lisämunaisen sädehoito
+
+@RUOTSI = Annan strålbehandling av binjurar
+
+@END = 
+
+@KOODI_A = BCA
+
+@NCSP_A = BCSA
+
+@SUOMI_A = Lisämunuaisten leikkaukset
+
+@RUOTSI_A = Operationer på binjurar
+
+@ENGL_A = Adrenal gland operations
+
+@END = 
+
+@KOODI = BCA10 
+
+@NCSP = BCSA10
+
+@SUOMI = Koepalan otto lisämunuaisesta
+
+@RUOTSI = Biopsi av binjure
+
+@END = 
+
+@KOODI = BCA11 
+
+@NCSP = BCSA11
+
+@SUOMI = Koepalan otto lisämunuaisesta tähystyksessä
+
+@RUOTSI = Endoskopisk biopsi av binjure
+
+@END = 
+
+@KOODI = BCA15 
+
+@NCSP = BCSA15
+
+@SUOMI = Lisämunuaisen aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Explorativ incision av binjure
+
+@NOTE_F = Sisältää kanavoinnin ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar dränage och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = BCA20 
+
+@NCSP = BCSA20
+
+@SUOMI = Kasvaimen poisto lisämunuaisesta
+
+@RUOTSI = Resektion av binjuretumör
+
+@END = 
+
+@KOODI = BCA30 
+
+@NCSP = BCSA30
+
+@SUOMI = Toisen lisämunuaisen poisto
+
+@RUOTSI = Unilateral adrenalektomi
+
+@END = 
+
+@KOODI = BCA31 
+
+@NCSP = BCSA31
+
+@SUOMI = Toisen lisämunuaisen poisto tähystyksessä
+
+@RUOTSI = Endoskopisk unilateral adrenalektomi
+
+@END = 
+
+@KOODI = BCA40 
+
+@NCSP = BCSA40
+
+@SUOMI = Molempien lisämunuaisten poisto
+
+@RUOTSI = Bilateral adrenalektomi
+
+@END = 
+
+@KOODI = BCA41 
+
+@NCSP = BCSA41
+
+@SUOMI = Molempien lisämunuaisten poisto tähystyksessä
+
+@RUOTSI = Endoskopisk bilateral adrenalektomi
+
+@END = 
+
+@KOODI = BCA99 
+
+@NCSP = BCSA99
+
+@SUOMI = Muu lisämunuaisten leikkaus
+
+@RUOTSI = Annan operation på binjurar
+
+@END = 
+
+@KOODI_A = BC_
+
+@NCSP_A = BCX
+
+@SUOMI_A = Lisämunuaisten muut toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på binjurar
+
+@ENGL_A = Adrenal gland other procedures
+
+@END = 
+
+@KOODI = BC2AT 
+
+@NCSP = BCXX00
+
+@SUOMI = Lisämunuaisen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Binjure, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = BC2CT 
+
+@NCSP = BCXX00
+
+@SUOMI = Lisämunuaisen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Binjure, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = BC2DT 
+
+@NCSP = BCXX00
+
+@SUOMI = Lisämunuaisen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = Binjure, MR-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TBC00 
+
+@NCSP = BCXX00
+
+@SUOMI = Neulakudosnäytteen otto lisämunuaisesta
+
+@RUOTSI = Punktionsbiopsi av binjure
+
+@NOTE_F = Radiologisessa ohjauksessa, katso  BC2AT, BC2CT tai BC2DT (radiologian luokitus)
+
+@NOTE_S = Med radiologisk utstryrning, se BC2AT, BC2CT eller BC2DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = BC3AT 
+
+@NCSP = BCXX10
+
+@SUOMI = Lisämunuaisen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Binjure, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = BC3CT 
+
+@NCSP = BCXX10
+
+@SUOMI = Lisämunuaisen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Binjure, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = BC3DT 
+
+@NCSP = BCXX10
+
+@SUOMI = Lisämunuaisen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = Binjure, MR-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = TBC10 
+
+@NCSP = BCXX10
+
+@SUOMI = Ohutneulanäytteen otto lisämunuaisesta
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av binjure
+
+@NOTE_F = Radiologisessa ohjauksessa, katso  BC3AT, BC3CT, BC3DT (radiologian luokitus)
+
+@NOTE_S = Med radiologisk utstryrning, se BC3AT, BC3CT eller BC3DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = BC4WT 
+
+@NCSP = BCXX20
+
+@SUOMI = Lisämunuaisen selektiivinen verinäytteen otto radiologisessa ohjauksessa
+
+@RUOTSI = Binjure, radiologiskt styrt selektivt blodprov
+
+@END = 
+
+@KOODI_R = BD
+
+@SUOMI_R = Hankarauhanen
+
+@RUOTSI_R = Glomus caroticum
+
+@ENGL_R = Carotid body
+
+@END = 
+
+@KOODI_A = BDA
+
+@NCSP_A = BDSA
+
+@SUOMI_A = Hankarauhasen leikkaukset
+
+@RUOTSI_A = Operationer på glomus caroticum
+
+@ENGL_A = Carotid body
+
+@END = 
+
+@KOODI = BDA10 
+
+@NCSP = BDSA10
+
+@SUOMI = Hankarauhasen leikkaus
+
+@RUOTSI = Exstirpation av glomus caroticum
+
+@END = 
+
+@KOODI_R = BW
+
+@SUOMI_R = Umpierityselinleikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer för sårkomplikationer av endokrinologisk kirurgi
+
+@ENGL_R = Reoperations in endocrine surgery
+
+@END = 
+
+@KOODI = BWA00 
+
+@NCSP = BWSA00
+
+@SUOMI = Auenneen tai tulehtuneen umpierityselinleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av dehiscens eller sårinfektion efter operation på de endokrina organen
+
+@END = 
+
+@KOODI = BWD00 
+
+@NCSP = BWSD00
+
+@SUOMI = Umpierityselinleikkauksen uusintaleikkaus vuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter operation på de endokrina organen
+
+@END = 
+
+@KOODI = BWW99 
+
+@NCSP = BWSW99
+
+@SUOMI = Muu umpierityselinleikkausten haavakomplikaatioleikkaus
+
+@RUOTSI = Annan reoperation för komplikationer efter operation på de endokrina organen
+
+@END = 
+
+@KOODI_R = BX
+
+@SUOMI_R = Muut sisäeriterauhasten toimenpiteet
+
+@RUOTSI_R = Andra åtgärder på endokrina organ
+
+@ENGL_R = Other endocrinological procedures
+
+@END = 
+
+@KOODI_A = BX_
+
+@NCSP_A = BXX
+
+@SUOMI_A = Muut sisäeriterauhasten pientoimenpiteet
+
+@RUOTSI_A = Andra mindre åtgärder på endokrina organ
+
+@ENGL_A = Other minor procedures on endocrine organs
+
+@END = 
+
+@KOODI = TBW99 
+
+@NCSP = BXXX99
+
+@SUOMI = Muu umpierityselimien pientoimenpide
+
+@RUOTSI = Annan mindre operation på endokrina organ
+
+@END = 

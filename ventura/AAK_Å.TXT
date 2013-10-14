@@ -1,0 +1,217 @@
+@PARAFILTR ON =
+
+@LETTER = Å
+
+@END = 
+
+@KOO = CKA00
+
+@NCSP = CKSA00
+
+@NIMI_AL= Biopsi av 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= 
+
+@END= 
+
+@KOO = CKE15
+
+@NCSP = CKSE15
+
+@NIMI_AL= Endofotokoagulation av tumör i 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= 
+
+@END= 
+
+@KOO = CKE00
+
+@NCSP = CKSE00
+
+@NIMI_AL= Exstirpation av tumör i 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= 
+
+@END= 
+
+@KOO = CKE10
+
+@NCSP = CKSE10
+
+@NIMI_AL= Fotokoagulation (genom pupillen) av tumör i 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= 
+
+@END= 
+
+@KOO = CKE20
+
+@NCSP = CKSE20
+
+@NIMI_AL= Kryoterapi av tumör i 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= 
+
+@END= 
+
+@KOO = TCK00
+
+@NCSP = CKXX00
+
+@NIMI_AL= Fotosensitering av 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO=  och näthinna
+
+@END= 
+
+@KOO = TCK10
+
+@NCSP = CKXX10
+
+@NIMI_AL= Punktionsbiopsi av 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= 
+
+@END= 
+
+@KOO = CKC99
+
+@NCSP = CKSC99
+
+@NIMI_AL= Annan extraokulär operation på 
+
+@NIMI_HAK= åderhinna
+
+@NIMI_LO= , näthinna och i glaskroppen
+
+@END= 
+
+@KOO = CKE99
+
+@NCSP = CKSE99
+
+@NIMI_AL= Annan operation vid vävnadsförändring i 
+
+@NIMI_HAK= åderhinnan
+
+@NIMI_LO=  eller näthinnan
+
+@END= 
+
+@KOO = CKW99
+
+@NCSP = CKSW99
+
+@NIMI_AL= Annan operation på 
+
+@NIMI_HAK= åderhinnan
+
+@NIMI_LO= , näthinnan och i glaskroppen
+
+@END= 
+
+@KOO = NAT99
+
+@NCSP = NAST99
+
+@NIMI_AL= Annan operation för 
+
+@NIMI_HAK= åkomma
+
+@NIMI_LO=  i kotpelaren
+
+@END= 
+
+@KOO = SJD00
+
+@NCSP = SJXD00
+
+@NIMI_AL= Uttagning och/eller 
+
+@NIMI_HAK= återaktivering
+
+@NIMI_LO=  och fastsättning av båge på fast ortodontisk apparatur
+
+@END= 
+
+@KOO = SPF50
+
+@NCSP = SPXF50
+
+@NIMI_AL= Uttagning, reparation och 
+
+@NIMI_HAK= återcementering
+
+@NIMI_LO=  av tandbro
+
+@END= 
+
+@KOO = SPF40
+
+@NCSP = SPXF40
+
+@NIMI_AL= Uttagning och 
+
+@NIMI_HAK= återcementering
+
+@NIMI_LO=  av tandkrona eller mindre bro
+
+@END= 
+
+@HEADKOO = XX_
+
+@NCSP = XXX   
+
+@NIMI_AL= Andra olokaliserade 
+
+@NIMI_HAK= åtgärdskoder
+
+@NIMI_LO= 
+
+@END= 
+
+@HEADKOO = X
+
+@NIMI_AL= Olokaliserade 
+
+@NIMI_HAK= åtgärdskoder
+
+@NIMI_LO= 
+
+@END= 
+
+@HEADKOO = ZXH
+
+@NCSP = ZXXH  
+
+@NIMI_AL= 
+
+@NIMI_HAK= Åtgärdsställe
+
+@NIMI_LO= 
+
+@END= 
+
+@HEADKOO = ZL
+
+@NIMI_AL= Gynekologiska 
+
+@NIMI_HAK= åtgärdssätt
+
+@NIMI_LO= 
+
+@END= 

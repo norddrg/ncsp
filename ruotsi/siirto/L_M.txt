@@ -1,0 +1,961 @@
+
+###
+#KOODI_L    M
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Obstetriska ingrepp
+#RUOTSI     ---
+#ENGL       Obstetric procedures
+###
+#KOODI_R    MA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ingrepp under graviditet eller i samband med förlossning
+#RUOTSI     ---
+#ENGL       Procedures in pregnancy and at delivery
+###
+#KOODI_A    MAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Intrauterina operationer på gravid uterus och foster
+#RUOTSI     ---
+#ENGL       Intrauterine operations on pregnant uterus and fetus
+###
+#KOODI      MAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amniocentes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amnioninfusion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA06 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amnioreduktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korionvillibiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopi med avlägsnande av intrauterint preventivmedel (IUP) från gravid uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kordocentes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fosterbiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embryoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA54 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fetoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intrauterin operation på gravid uterus eller foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan hysteroskopisk operation på gravid uterus eller foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse ingrepp på gravid uterus eller foster
+#RUOTSI     ---
+#ENGL       Various procedures on pregnant uterus and fetus
+###
+#KOODI      MAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av cervixcerclage under graviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAB03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av cervixcerclage under graviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yttre vändning av foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vändningsförsök av foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ingrepp för inledande av förlossning
+#RUOTSI     ---
+#ENGL       Surgical induction of labour
+###
+#KOODI      MAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amniotomi för inledande av förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cervixdilatation för inledande av förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAC20 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Traktion (ej extraktion) med vakuum i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAC23 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Traktion (ej extraktion) med tång i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAC96 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat ingrepp för inledande av förlossning eller värkförstärkning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vidgning av förlossningskanalen
+#RUOTSI     ---
+#ENGL       Expansion of passages to assist delivery
+###
+#KOODI      MAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cervikotomi under förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pubotomi under förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan vidgning av förlossningskanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Förlossning med sugklocka
+#RUOTSI     ---
+#ENGL       Vacuum delivery
+###
+#KOODI      MAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utgångsextraktion av foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAE03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vakuumextraktion; medelhög eller hög
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Försök till vakuumextraktion av foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat förlossningsingrepp med vakuumextraktor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tångförlossningar
+#RUOTSI     ---
+#ENGL       Forceps cephalic delivery
+###
+#KOODI      MAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utgångstång för förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Medelhög tång för förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tångförsök för förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan tångförlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ingrepp vid fot- eller sätesbjudning
+#RUOTSI     ---
+#ENGL       Breech delivery
+###
+#KOODI      MAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sätesförlossning, manuell
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAG03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sätesförlossning med tång på efterföljande huvud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nedtagning av fot och extraktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAG13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nedtagning av fot och extraktion med tång på efterföljande huvud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inre vändning och extraktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat specificerat ingrepp vid fot- eller sätesbjudning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse ingrepp i samband med förlossning
+#RUOTSI     ---
+#ENGL       Various procedures relating to delivery
+###
+#KOODI      MAH00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Traktion (ej extraktion) med vakuum i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAH03 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Traktion (ej extraktion) med tång i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Navelsträngsreposition i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av huvudställning (t ex pannbjudning) i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av fosterhuvudet i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAJ
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#SUOMI      Reduktion av multipel graviditet
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      MAJ00 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduktion av multipel graviditet med ett foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAJ10 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduktion av multipel graviditet med fler än ett foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra ingrepp före eller i samband med förlossning
+#RUOTSI     ---
+#ENGL       Other operations in pregnancy and at delivery
+###
+#KOODI      MAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat ingrepp före eller i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MAW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat transluminalt endoskopiskt ingrepp före eller i samband med förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    MB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ingrepp efter förlossning eller abort
+#RUOTSI     ---
+#ENGL       Procedures after delivery or abortion
+###
+#KOODI_A    MBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av i livmodern retinerade strukturer (moderkaka, hinnor, etc.)
+#RUOTSI     ---
+#ENGL       Removal of retained products of conception after delivery or abortion
+###
+#KOODI      MBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exeres med vakuumaspiration vid missfall eller efter förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBA03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exeres med curettage vid missfall eller efter förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell exploration av uterus vid missfall eller efter förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exprimering av moderkaka
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell lösning och uttagande av fosterhinnor, moderkaka eller rest därav
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBA96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat avlägsnande av kvarhållen moderkaka
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MBB
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra manuella ingrepp på uterus efter förlossning
+#RUOTSI     ---
+#ENGL       Other manual procedures on delivered uterus
+###
+#KOODI      MBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell reposition av inverterad uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tamponad av uterus eller vagina efter förlossning eller abort
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBB96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat manuellt ingrepp på uterus efter förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MBC
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Revision av förlossningsskador
+#RUOTSI     ---
+#ENGL       Repair of obstetric lacerations
+###
+#KOODI      MBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av cervix uteri vid förlossningsskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av vagina vid förlossningsskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBC20 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av vulva vid förlossningsskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av förlossningsskada vid perinealbristning grad 1 och 2
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBC33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av förlossningsskada vid perinealbristning grad 3 och 4
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBC40 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av vulva- eller paravaginalhematom efter förlossning eller abort
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MBC96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sutur eller revision av förlossningsskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra ingrepp efter förlossning eller abort
+#RUOTSI     ---
+#ENGL       Other operations after delivery or abortion
+###
+#KOODI      MBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat ingrepp efter förlossning eller abort
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    MC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kejsarsnitt och obstetriska laparotomier
+#RUOTSI     ---
+#ENGL       Caesarean section and obstetric laparotomies
+###
+#KOODI_A    MCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kejsarsnitt
+#RUOTSI     ---
+#ENGL       Caesarean section
+###
+#KOODI      MCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominalt kejsarsnitt på corpus uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominalt kejsarsnitt på istmus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginalt kejsarsnitt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominalt kejsarsnitt med supravaginal uterusamputation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MCA33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominalt kejsarsnitt med hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat kejsarsnitt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Laparotomi med uthämtande av extrauterint foster
+#RUOTSI     ---
+#ENGL       Laparotomy and delivery of extrauterine fetus
+###
+#KOODI      MCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med uthämtande av extrauterint foster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sutur av uterusruptur efter förlossning
+#RUOTSI     ---
+#ENGL       Postpartum repair of rupture of uterus
+###
+#KOODI      MCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med sutur av uterusruptur efter förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    MCW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra abdominala operationer i samband med förlossning
+#RUOTSI     ---
+#ENGL       Other obstetric laparotomy
+###
+#KOODI      MCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan obstetrisk laparotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    MW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för komplikationer av obstetrisk kirurgi
+#RUOTSI     ---
+#ENGL       Reoperations in obstetric surgery
+###
+#KOODI      MWA00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWC00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWC01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWE00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWE01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWE02 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWF00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWF01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWW96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation efter obstetriskt ingrepp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWW97 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk reoperation efter obstetriskt ingrepp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      MWW98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk reoperation efter obstetriskt ingrepp
+#RUOTSI     ---
+#LYHENNE    

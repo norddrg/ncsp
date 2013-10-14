@@ -1,0 +1,3441 @@
+
+###
+#KOODI_L    E
+#MUUT_PVM   1999/04/27
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaiden, leuan, suun ja nielun toimenpiteet
+#RUOTSI     Operationer på tänder, käkar, munhåla och svalg
+#ENGL       Teeth, jaws, mouth and pharynx procedures
+#OHJE_S  
+Hankarauhasen leikkaukset  kohdassa BDA
+#OHJE_R 
+Operationer på glomus caroticum, se BDA
+###
+#KOODI_R    EA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Huulien toimenpiteet
+#RUOTSI     Ingrepp i läppar
+#ENGL       Lips
+###
+#KOODI_A    EAA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Huulen poistotoimenpiteet
+#RUOTSI     Resektion, excision av läpp
+#ENGL       Incision and excision of lip
+###
+#KOODI      EAA00
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Huulen aukaisu, insisio
+#RUOTSI     Incision av läpp
+#LYHENNE    Huulen aukaisu, insisio
+#OHJE_S  
+Sisältää mahdollisen dreenin asetuksen
+Koepalan otto huulesta TEA
+#OHJE_R 
+Inkl ev dränage
+Biopsi av läpp, se TEA
+###
+#KOODI      EAA10
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4381      
+#SUOMI      Huulimuutoksen poisto, eksisio
+#RUOTSI     Exstirpation av lokal förändring av läpp
+#LYHENNE    Huulimuutoksen poisto, eksisio
+###
+#KOODI      EAA20
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4382      
+#SUOMI      Ylähuulen poisto osittain
+#RUOTSI     Resektion av överläpp
+#LYHENNE    Ylähuulen poisto osittain
+###
+#KOODI      EAA30
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4382      
+#SUOMI      Alahuulen poisto osittain
+#RUOTSI     Resektion av underläpp
+#LYHENNE    Alahuulen poisto osittain
+###
+#KOODI      EAA99
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4382      
+#SUOMI      Muu huulien poistoleikkaus
+#RUOTSI     Annan resektion eller excision av läpp
+#LYHENNE    Muu huulien poistoleikkaus
+###
+#KOODI_A    EAB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Huulien korjaamistoimenpiteet
+#RUOTSI     Rekonstruktiva ingrepp på läpparna
+#ENGL       Reconstructive operations on lip
+###
+#KOODI      EAB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4841      
+#SUOMI      Huulen ompelu
+#RUOTSI     Suturering av läpp
+#LYHENNE    Huulen ompelu
+#OHJE_S  
+Sisältää haavan puhdistamisen
+#OHJE_R 
+inkl. sårrevision
+###
+#KOODI      EAB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Huulijänteen poisto tai muovaus
+#RUOTSI     Excision eller plastik av läppfrenulum
+#LYHENNE    Huulijänteen poisto tai muovaus
+###
+#KOODI      EAB20
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Huulen korjaaminen tai muovaus
+#RUOTSI     Läpprekonstruktion eller -plastik
+#LYHENNE    Huulen korjaaminen tai muovaus
+#OHJE_S  
+Sisältää n.s. lip shave -leikkauksen
+Ei sisällä huulihalkiota, katso EAB30
+#OHJE_R 
+Inkl. sk. lip shave-operationGäller inte läppspalt, se EAB30
+###
+#KOODI      EAB30
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4361      
+#SUOMI      Huulihalkion korjaaminen tai muovaus
+#RUOTSI     Läpprekonstruktion eller -plastik på grund av läppspalt
+#LYHENNE    Huulihalkion korjaaminen tai muovaus
+#OHJE_S  
+Huuli- ja ienhalkion korjaus, katso EHC
+Primaarinen korjausleikkaus lisäkoodilla ZSZ00 ja sekundaarinen korjausleikkaus ZSZ10.
+#OHJE_R 
+Operation av kombinerad läpp-gomspalt, se EHC
+###
+#KOODI      EAB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Muu huulen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av läpp
+#LYHENNE    Muu huulen korjaamisleikkaus
+###
+#KOODI_A    EAW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut huulien toimenpiteet
+#RUOTSI     Andra operationer på läpparna
+#ENGL       Other operations on lips
+###
+#KOODI      EAW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Muu huulien leikkaus
+#RUOTSI     Annan operation av läppar
+#LYHENNE    Muu huulien leikkaus
+###
+#KOODI_R    EB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaiston toimenpiteet
+#RUOTSI     Åtgärder i tänderna
+#ENGL       Teeth
+#OHJE_S  
+Konservatiiviset toimenpiteet luvussa S ja T
+#OHJE_R 
+Konservativa åtgärder se kapitel S och T
+###
+#KOODI      EB1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5173      
+#SUOMI      Hammasröntgen
+#RUOTSI     Tandröntgen
+#LYHENNE    Hammas-rtg, yksink.
+#OHJE_S  
+
+#OHJE_R 
+Utan separat utlåtande
+###
+#KOODI      EB1BA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5174      
+#SUOMI      Hammasröntgen usealle filmille tai muu intraoraaliröntgen
+#RUOTSI     Tandröntgen omfattande flera bilder eller annan intraoral röntgenundersökning
+#LYHENNE    Hammas-rtg, laaja
+###
+#KOODI      EB1CA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5180      
+#SUOMI      Hammasröntgenin lisä- tai tarkistuskuvat
+#RUOTSI     Tilläggs- eller kontrollbilder
+#LYHENNE    Hammas-rtg,lisäkuvat
+###
+#KOODI      EB1HA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5176      
+#SUOMI      Hampaiston ja leuan panoraamatomografia tai muu yksinkertainen rakokuvaus
+#RUOTSI     Ortopantomografi eller annan enkel spaltröntgen av käkar och tänder
+#LYHENNE    OPG
+###
+#KOODI      EB1JA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5177      
+#SUOMI      Hampaiston ja leuan kaksoispanoraamatomografia tai muu vaativa rakokuvaus
+#RUOTSI     Dubbel ortopantomografi eller annan krävande spaltröntgen av käkar och tänder
+#LYHENNE    Kaksois-OPG
+###
+#KOODI      EB1MA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5178      
+#SUOMI      Kallonmittaus röntgenillä (kefalometria)
+#RUOTSI     Röntgenkefalometri
+#LYHENNE    Rtg-kefalometria
+###
+#KOODI_A    EBA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaiden poistot
+#RUOTSI     Extraktion av tand eller del av tand
+#ENGL       Extraction and partial excision of tooth
+###
+#KOODI      EBA00
+#MUUT_PVM   2000/11/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4304      
+#SUOMI      Hampaan poisto
+#RUOTSI     Tandextraktion
+#LYHENNE    Hampaan poisto
+###
+#KOODI      EBA05
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa hampaan poisto ilman lekkausta
+#RUOTSI     Krävand icke operativ extraktion av tand
+#LYHENNE    Vaativa hampaan poisto ilman lekkausta
+#OHJE_S  
+Sisältää monijuurisen hampaan juurten erottelun
+#OHJE_R 
+Innefattar skiljning av rötter i mång röttig tand
+###
+#KOODI      EBA10
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4305      
+#SUOMI      Hampaan poistoleikkaus
+#RUOTSI     Operativ extraktion av tand
+#LYHENNE    Hampaan poisto leikkaamalla
+#OHJE_S  
+Sisältää mm. puhkeamattoman hampaan ja luun sisällä olevan hampaan leikkauksellisen poiston
+#OHJE_R 
+innehåller bl.a. operativ extraktion av oerupturad eller käkbenet retinerad tand
+###
+#KOODI      EBA12
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa hampaan poistoleikkaus
+#RUOTSI     Krävande operativ extraktion av tand
+#LYHENNE    Vaativa hampaan poistoleikkaus
+#OHJE_S  
+Esimerkiksi syvällä luun sisällä oleva puhkeamaton hammas
+#OHJE_R 
+T.ex. djup liggande oerupterad tand
+###
+#KOODI      EBA15
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaiston saneeraus
+#RUOTSI     Sanering av tänderna
+#LYHENNE    Hampaiston saneeraus
+#OHJE_S  
+Vähintään neljän hampaan poisto leukaa kohden
+#OHJE_R 
+Extraktion av minst fyra tänder per käke
+###
+#KOODI      EBA20
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4305+     
+#SUOMI      Hampaan poisto osittain, hemisektio
+#RUOTSI     Avlägsnande av del av tand, hemisektion
+#LYHENNE    Hampaan poisto osittain, hemisektio
+#OHJE_S  
+Esim. monijuurisen hampaan yhden pinnan poisto
+monijuurisen hampaan halkaisu
+#OHJE_R 
+t.ex. extraktion av en rot från tand med flera rötter
+hemisektion av tand med flera rötter
+###
+#KOODI      EBA30
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4305+     
+#SUOMI      Hampaan juuren poisto
+#RUOTSI     Rotextraktion
+#LYHENNE    Hampaan juuren poisto
+#OHJE_S  
+jäännösjuuren poisto
+monijuurisen hampaan kohdalla merkitään vain yksi toimenpide
+#OHJE_R 
+extraktion av radix
+vid tand med flera rötter anteckas åtgärder bara en gång
+###
+#KOODI      EBA40
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4305+     
+#SUOMI      Hampaan juuren pään poisto
+#RUOTSI     Rotspetsresektion
+#LYHENNE    Hampaan juuren pään poisto
+###
+#KOODI      EBA45
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Monijuurisen hampaan juurenpään poisto
+#RUOTSI     Rotspetsresektion av tand med flera rötter
+#LYHENNE    Monijuurisen hampan juurenpään poisto
+###
+#KOODI      EBA99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4319      
+#SUOMI      Muu hampaan poistoleikkaus
+#RUOTSI     Annan operativ tandextraktion
+#LYHENNE    Muu hampaan poistoleikkaus
+###
+#KOODI_A    EBB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaiden kiruginen korjaaminen tai korvaaminen
+#RUOTSI     Kirurgisk rekonstruktion eller ersättande av tänder
+#ENGL       Reconstructive surgical operations on teeth
+###
+#KOODI      EBB00
+#MUUT_PVM   2000/11/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4802, 4803
+#SUOMI      Hampaan kiinnitys sijoiltaanmenon vuoksi
+#RUOTSI     Behandling av tandluxation
+#LYHENNE    Hampaan kiinnitys sijoiltaanmenon vuoksi
+#OHJE_S  
+sisältää mahdollisen kiskotuksen
+#OHJE_R 
+innehåller möjlig fixering
+###
+#KOODI      EBB05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4803      
+#SUOMI      Hammasmurtuman hoito
+#RUOTSI     Behandling av tandfraktur
+#LYHENNE    Hammasmurtuman hoito
+#OHJE_S  
+sisältää mahdollisen kiskotuksen
+#OHJE_R 
+innehåller möjlig fixering
+###
+#KOODI      EBB10
+#MUUT_PVM   2001/01/16
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4313      
+#SUOMI      Hampaan keinojuuren (implantin) asettaminen
+#RUOTSI     Insättning av tandimplantat
+#LYHENNE    Hampaan keinojuuren asettaminen
+#OHJE_S  
+Asetettaessa useita keinojuuria samalla kerralla merkitään lisäkeinojuuret omalla koodillaan, katso EBB11
+#OHJE_R 
+Vid insättning av flera implantat vid samma tillfälle noteras varje implantat med egen kod, se EBB11
+###
+#KOODI      EBB11
+#MUUT_PVM   2001/01/16
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toisen keinojuuren (implantin) asettaminen samanaikaisesti
+#RUOTSI     Insättning av följande tandimplantat vid samma besök
+#LYHENNE    Toisen keinojuuren asettaminen samalla k
+#OHJE_S  
+Kunkin keinojuuren asettaminen koodataan erikseen
+#OHJE_R 
+Varje implantat registeras separat
+###
+#KOODI      EBB15
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4313      
+#SUOMI      Hampaan keinojuurijatkeen asettaminen
+#RUOTSI     Placering av implantatdistans
+#LYHENNE    Hampaan keinojuurijatkeen asettaminen
+#OHJE_S  
+Kunkin keinojuurijatkeen asettaminen koodataan erikseen
+#OHJE_R 
+Varje distans registeras separat
+###
+#KOODI      EBB20
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4310      
+#SUOMI      Hampaan siirto
+#RUOTSI     Transplantation av tand
+#LYHENNE    Hampaan siirto
+#OHJE_S  
+Sisältää ristiompeleen käytön
+#OHJE_R 
+Inkl. korssutur
+###
+#KOODI      EBB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4319      
+#SUOMI      Muu hampaan korjaamisleikkaus
+#RUOTSI     Annan operativrekonstruktion av tand
+#LYHENNE    Muu hampaan korjaamisleikkaus
+###
+#KOODI      EBU00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaisiin kiinnitetyn kiinnityslaitteen poisto
+#RUOTSI     Avlägsnande av fixationsapparat från tänderna
+#LYHENNE    Hampaisiin kiinnitetyn kiinnityslaitteen
+#OHJE_S  
+Hampaan keinojuuren poisto, katso ECU00
+Oikomiskojeen purkaminen, katso SJC
+#OHJE_R 
+Avlägsnande av tandimplantat, se ECU00
+Avlägsnande av fast apparatur för ortodontisk vård, se SJC
+###
+#KOODI_A    EBW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut hammasleikkaukset
+#RUOTSI     Andra operationer på tänderna
+#ENGL       Other operations on teeth
+#OHJE_S  
+Konservatiiviset toimenpiteet kohdassa TE
+#OHJE_R 
+Non-operativ tandbehandling, se TE
+###
+#KOODI      EBW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4319      
+#SUOMI      Muu hammasleikkaus
+#RUOTSI     Annan tandoperation
+#LYHENNE    Muu hammasleikkaus
+###
+#KOODI_R    EC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ikenien ja hammasharjanteen toimenpiteet
+#RUOTSI     Operationer i gingiva och alveolarutskott
+#ENGL       Gingiva and alveoli
+#OHJE_S  
+Punktiot ja neulabiopsiat kohdassa TE
+#OHJE_R 
+Punktion och nålbiopsi, se TE
+###
+#KOODI_A    ECA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ikenen ja hammasharjanteen aukaisu tai poistoleikkaukset
+#RUOTSI     Incision, biopsi och excision av gingiva och alveolarutskott
+#ENGL       Incision, biopsy and excision of gingiva and alveolus
+###
+#KOODI      ECA00
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4303      
+#SUOMI      Hampaan paljastus
+#RUOTSI     Friläggning av tand
+#LYHENNE    Hampaan paljastus
+#OHJE_S  
+Luun sisällä olevan hampaan paljastus
+#OHJE_R 
+Friläggning av intraossealt belägen tand
+###
+#KOODI      ECA10
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4319      
+#SUOMI      Ikenen aukaisu
+#RUOTSI     Incision och dränering genom gingivan
+#LYHENNE    Ikenen aukaisu
+###
+#KOODI      ECA20
+#MUUT_PVM   2000/11/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4322      
+#SUOMI      Koepalan otto ikenestä
+#RUOTSI     Biopsi av gingiva
+#LYHENNE    Koepalan otto ikenestä
+#OHJE_S  
+Neulanäytteen otto ikenestä TEC00
+#OHJE_R 
+Nålbiopsi se TEC00
+###
+#KOODI      ECA30
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4322      
+#SUOMI      Ienmuutoksen poisto
+#RUOTSI     Excision av gingivaförändring
+#LYHENNE    Ienmuutoksen poisto
+#OHJE_S  
+Esim. hyperplasian poisto
+#OHJE_R 
+T.ex. excision av hyperplasie
+###
+#KOODI      ECA35
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa ienmuutoksen poisto
+#RUOTSI     Krävande excision av gingivaförändring
+#LYHENNE    Vaativa ienmuutoksen poisto
+#OHJE_S  
+Esim. laaja gingivaektomialeikkaus
+#OHJE_R 
+T.ex. omfattande gingivaektomi
+###
+#KOODI      ECA40
+#MUUT_PVM   2000/11/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Ikenen ja hammasharjanteen märkäpesäkkeen leikkaus
+#RUOTSI     Behandling av gingival eller parodontal abscess
+#LYHENNE    Ikenen ja hammasharj. märkäpes. leikkaus
+###
+#KOODI      ECA50
+#MUUT_PVM   2001/01/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parodontologinen läppäleikkaus
+#RUOTSI     Parodontal flap-operation
+#LYHENNE    Parodontal operation
+###
+#KOODI      ECA55
+#MUUT_PVM   2000/11/26
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa parodontologinen läppäleikkaus
+#RUOTSI     Krävande parodontal flap-operation
+#LYHENNE    Vaativa parodontologinen läppäleikkaus
+#OHJE_S  
+Luuta korvaavaa tai luun muodostusta edistävää tekniikkaa käyttäenSisältää kalvotekniikan
+#OHJE_R 
+Inkl. ersättande av benvävnad eller stimulering av nybildning
+Inkl. membranteknik
+###
+#KOODI      ECA60
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4321+     
+#SUOMI      Vierasesineen poisto ikenestä tai hammasharjanteesta
+#RUOTSI     Exstirpation av främmande föremål i gingiva eller alveolarutskott
+#LYHENNE    Vierasesinepoisto ien/hammasharjanne
+###
+#KOODI      ECA99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Muu ikenen tai hammasharjanteen poistoleikkaus
+#RUOTSI     Annan incision, biopsi eller excision av gingiva och alveolarutskott
+#LYHENNE    Muu ikenen tai hammasharjanteen poisto
+###
+#KOODI_A    ECB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ikenen ja hammasharjanteen korjaavat leikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på gingiva och alveolarutskott
+#ENGL       Reconstructive operations on gingiva and alveoli
+###
+#KOODI      ECB00
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4801+     
+#SUOMI      Ikenen ompelu
+#RUOTSI     Suturering av gingivan (inkl. ev. revision)
+#LYHENNE    Ikenen ompelu
+###
+#KOODI      ECB05
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4323+     
+#SUOMI      Ikenen limakalvomuovaus
+#RUOTSI     Slemhinneplastik
+#LYHENNE    Ikenen limakalvomuovaus
+#OHJE_S  
+esim arpi, fisteli, frenulum
+#OHJE_R 
+T.ex. frenulum, ärr, fistel
+###
+#KOODI      ECB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4324+     
+#SUOMI      Ikenen korjaamisleikkaus
+#RUOTSI     Rekonstruktion av gingiva
+#LYHENNE    Ikenen korjaamisleikkaus
+###
+#KOODI      ECB15
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4323+     
+#SUOMI      Hammasharjanteen alueen ja poskiontelon tai nenän välisen avanteen sulkemminen
+#RUOTSI     Plastikoperation av oronasal eller oroantral gingivafistel
+#LYHENNE    Alv.harj. avant. sulku suusta nenään/pos
+#OHJE_S  
+Suulaen avanteet, katso EHC10
+#OHJE_R 
+Slutning av fistel i gommen, se EHC10
+###
+#KOODI      ECB17
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4370      
+#SUOMI      Ienhalkion korjaaminen
+#RUOTSI     Korrigering av gingivaspalt
+#LYHENNE    Ienhalkion korjaaminen
+###
+#KOODI      ECB20
+#MUUT_PVM   2000/11/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammasharjanteen muovaus
+#RUOTSI     Plastik av alveolarutskott
+#LYHENNE    Hammasharjanteen muovaus
+###
+#KOODI      ECB21
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2000/02/09
+#POISTPVM       /  /  
+#VANHA      4324      
+#SUOMI      Hammasharjanteen pidentäminen (distraktiohoito)
+#RUOTSI     Distraktion av alveolärutskott
+#LYHENNE    Hammasharjanteen distraktiohoito
+###
+#KOODI      ECB30
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4325      
+#SUOMI      Hammasharjanteen muovaus iho- tai limakalvosiirrettä käyttäen (sulkusplastia)
+#RUOTSI     Plastik av alveolarutskott med hud- eller slemhinnetransplantat (sulcusplastik)
+#LYHENNE    Hammasharjannemuovaus,iho/limakalvosiirr
+###
+#KOODI      ECB40
+#MUUT_PVM   2000/11/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4325      
+#SUOMI      Hammasharjanteen muovaus luuta tai vierasperäistä siirrettä käyttäen
+#RUOTSI     Plastik av alveolarutskott med bentransplantat eller alloplastiskt material
+#LYHENNE    Hammasharjanne muovaus,luu/alloplastia
+###
+#KOODI      ECB50
+#MUUT_PVM   2000/11/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4803      
+#SUOMI      Hammasharjanteen murtuman leikkaushoito
+#RUOTSI     Kirurgisk behandling av fraktur på alveolarutskotts
+#LYHENNE    Hammasharjanteen murtuman hoito
+###
+#KOODI      ECB60
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4345, 4348
+#SUOMI      Hammasharjanteen uudelleen muodostaminen, rekonstruktio
+#RUOTSI     Rekonstruktion av alveolarutskottet
+#LYHENNE    Hammasharjanteen rekonstruktio
+###
+#KOODI      ECB65
+#MUUT_PVM   2000/11/24
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammasharjanteen katkaisu ja venytys
+#RUOTSI     Avbrytning och distraktion av alveolarutskottet
+#LYHENNE    Hammasharjanteen katkaisu ja venytys
+###
+#KOODI      ECB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Muu ikenen ja hammasharjanteen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av gingiva och alveolarutskott
+#LYHENNE    Muu ien/hammasharjannekorjausleikkaus
+###
+#KOODI      ECU00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammasharjanteeseen kiinnitety istutteen tai kiinnityslaitteen poisto
+#RUOTSI     Uttagning av implantat eller fixations apparat från alveolarutskott
+#LYHENNE    Isutteen tai kiinnityslaitt. poisto iken
+#OHJE_S  
+Sisältää hampaan keinojuuren poiston
+#OHJE_R 
+Innefattar uttagning av tandimplantat
+###
+#KOODI_A    ECW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut ikenien ja hammasharjanteen leikkaukset
+#RUOTSI     Andra operationer på gingiva och alveolarutskott
+#ENGL       Other operations on gingiva and alveoli
+###
+#KOODI      ECW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      43??      
+#SUOMI      Muu ikenien ja hammasharjanteen leikkaus
+#RUOTSI     Annan operation på gingiva och alveolarutskott
+#LYHENNE    Muu ikenien ja hammasharjanteen leikkaus
+###
+#KOODI_R    ED
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Alaleuan toimenpiteet
+#RUOTSI     Åtgärder i underkäken
+#ENGL       Mandible
+#OHJE_S  
+Suunpohjan toimenpiteet kohdassa EJ
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+#OHJE_R 
+Åtgärder i munbotten se EJ
+Punktion och nålbiopsi, se TE
+###
+#KOODI      ED1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5172      
+#SUOMI      Alaleuan natiiviröntgen
+#RUOTSI     Underkäken, röntgen
+#LYHENNE    Alaleuan rtg
+###
+#KOODI_A    EDA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Alaleuan aukaisu tai koepalan otto
+#RUOTSI     Incision, biopsi av underkäke
+#ENGL       Incision and biopsy of mandible
+###
+#KOODI      EDA00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4306      
+#SUOMI      Alaleukaluun märkäkeräymän aukaisu
+#RUOTSI     Incision av underkäkben
+#LYHENNE    Alaleuan märkäkeräymän aukaisu
+#OHJE_S  
+Sisältää dreenin asettamisen
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      EDA10
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4339+     
+#SUOMI      Koepalan otto alaleukaluusta
+#RUOTSI     Biopsi av underkäkben
+#LYHENNE    Koepalan otto alaleuasta
+###
+#KOODI_A    EDB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Alaleuan poisto osittain tai kokonaan
+#RUOTSI     Delresektion, totalexstirpation av underkäke
+#ENGL       Excision of mandible
+###
+#KOODI      EDB00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4332      
+#SUOMI      Alaleukaluun osittainen poisto
+#RUOTSI     Resektion av underkäkben
+#LYHENNE    Alaleuan osittainen poisto
+###
+#KOODI      EDB10
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4333      
+#SUOMI      Alaleuan poisto kokonaan (mandibulektomia)
+#RUOTSI     Exstirpation av underkäke (mandibulektomi)
+#LYHENNE    Alaleuan poisto, mandibulektomia
+###
+#KOODI      EDB20
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4332      
+#SUOMI      Alaleukapuoliskon poisto
+#RUOTSI     Hemimandibulektomi
+#LYHENNE    Alaleukapuoliskon poisto
+###
+#KOODI      EDB30
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun lihashaarakkeen poistoleikkaus (koronoidektomia)
+#RUOTSI     Koronoidektomi
+#LYHENNE    Koronoidektomia
+###
+#KOODI      EDB99
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4339      
+#SUOMI      Muu alaleukaluun poistoleikkaus
+#RUOTSI     Annan resektion av underkäkben
+#LYHENNE    Muu alaleukaluun poistoleikkaus
+#OHJE_S  
+Siirteet ja kielekkeet luvussaZ
+#OHJE_R 
+Transplantat och lambåer, se Z
+###
+#KOODI_A    EDC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Alaleuan korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på underkäken
+#ENGL       Reconstructive operations on mandible
+#OHJE_S  
+Siirteet ja kielekkeet ilmaistaan lisäkoodilla ryhmästä ZZ
+#OHJE_R 
+Transplantat anges med tilläggskod från grupp ZZ
+###
+#KOODI      EDC00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4341      
+#SUOMI      Alaleukaluun nivelhaarakkeen katkaisu
+#RUOTSI     Kondylotomi på underkäken
+#LYHENNE    Alaleukaluun nivelhaarakkeen katkaisu
+###
+#KOODI      EDC05
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4344+     
+#SUOMI      Alaleukaluun segmentaalinen katkaisu
+#RUOTSI     Segmentosteotomi på underkäken
+#LYHENNE    Alaleukaluun segmentaalinen katkaisu
+###
+#KOODI      EDC10
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4344+     
+#SUOMI      Alaleukaluun nousevan haaran sagittaalinen katkaisu
+#RUOTSI     Sagittal ramusosteotomi på underkäkens övre del
+#LYHENNE    Alaleuan nousevan haaran sagit osteotom
+###
+#KOODI      EDC11
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/02/09
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun pidentäminen eteenpäin distraktiomenetelmällä
+#RUOTSI     Horisontal distraktion av underkäkben
+#LYHENNE    Alaleuan horisontaalinen distraktiohoito
+###
+#KOODI      EDC15
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4344+     
+#SUOMI      Alaleukaluun nousevan haaran vertikaalinen katkaisu
+#RUOTSI     Vertikal ramusosteotomi på underkäkens övre del
+#LYHENNE    Alaleuan nousevan haaran vertik osteoto
+###
+#KOODI      EDC16
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/02/09
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun pidentäminen alaspäin distraktiomenetelmällä
+#RUOTSI     Vertikal distraktion av underkäkben
+#LYHENNE    Alaleuan vertikaalinen distraktiohoito
+###
+#KOODI      EDC20
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4344+     
+#SUOMI      Alaleukaluun nousevan haaran muu katkaisu
+#RUOTSI     Annan ramusosteotomi på underkäken
+#LYHENNE    Alaleuan nousevan sivuhaaran muu osteoto
+###
+#KOODI      EDC25
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4344+     
+#SUOMI      Alaleukaluun runko-osan katkaisu
+#RUOTSI     Corpusosteotomi eller -ektomi på underkäken
+#LYHENNE    Alaleuan runko-osan katkaisu
+###
+#KOODI      EDC30
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4344+     
+#SUOMI      Alaleukaluun kärjen muovausleikkaus
+#RUOTSI     Genioplastik
+#LYHENNE    Alaleuan kärjen muovausleikkaus
+###
+#KOODI      EDC31
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/02/09
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kielihasjänteen siirto alaleuan kärjen osteotomialla (box-leikkaus)
+#RUOTSI     Box-operation av underkäkben
+#LYHENNE    Alaleuan box-leikkaus
+#OHJE_S  
+Uniapneapotilaan leikkaus
+#OHJE_R 
+Vid sömnapne
+###
+#KOODI      EDC32
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun nivelhaarakkeen murtuman suljettu paikalleen asettaminen ja leukojen yhteen kiinnitys
+#RUOTSI     Sluten reposition och immobilisation av fraktur i processus condylaris
+#LYHENNE    Alaleuan nivelhaar. sulj. paik. asettam.
+###
+#KOODI      EDC34
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun runko-osan murtuman suljettu paikalleen asettaminen ja leukojen yhteen kiinnitys
+#RUOTSI     Sluten reposition och immobilisation av fraktur i corpus mandibularis
+#LYHENNE    Muun alaleuan murt. sulj. paik.asettam.
+###
+#KOODI      EDC35
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM   2000/11/29
+#POISTETTU
+#VANHA      4804      
+#SUOMI      Alaleukamurtuman suljettu korjaaminen ja kiinnitys
+#RUOTSI     Sluten reposition och immobilisation av underkäksfraktur
+#LYHENNE    Alaleukamurtuman suljettu korjaus/kiinn
+###
+#KOODI      EDC36
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun nivelhaarakkeen murtuman avoin paikalleen asettaminen ja liittäminen
+#RUOTSI     Öppen reposition och osteosyntes av kondylfraktur
+#LYHENNE    Alaleuan nivelhaar. avoin repos./immobil
+#OHJE_S  
+Sisältää levy- tai ruuvikiinnityksen sekä mahdollisen ulkoisen kiinnityksen
+#OHJE_R 
+Innefattar fixation med skruvar eller plattor samt eventuel extern fixation
+###
+#KOODI      EDC38
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun runko-osan murtuman avoin paikalleen asettaminen ja kiinnittäminen
+#RUOTSI     Öppen reposition och immobilisation av fraktur i corpus mandibularis
+#LYHENNE    Alaleuan runko-osan murtuman avoin korja
+#OHJE_S  
+Sisältää levy- tai ruuvikiinnityksen sekä mahdollisen ulkoisen kiinnityksen
+#OHJE_R 
+Innefattar fixation med skruvar eller plattor samt eventuel extern fixation
+###
+#KOODI      EDC40
+#MUUT_PVM   2000/09/29
+#KAYTPVM    1996/01/01
+#POISTPVM   2000/11/29
+#POISTETTU
+#VANHA      4805      
+#SUOMI      Alaleukamurtuman avoin liittäminen
+#RUOTSI     Öppen reposition och osteosyntes av underkäksfraktur
+#LYHENNE    Alaleukamurtuman avoin liittäminen
+###
+#KOODI      EDC42
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/01/17
+#POISTETTU
+#VANHA                
+#SUOMI      Alaleukaluun korjaaminen vierasta materiaalia käyttäen
+#RUOTSI     Alloplastisk rekonstruktion av underkäkben
+#LYHENNE    Alaleuan korjaaminen vierasta materiaali
+###
+#KOODI      EDC45
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4345      
+#SUOMI      Alaleukaluun korjaaminen luusiirteellä
+#RUOTSI     Rekonstruktion av underkäken med bentransplantat
+#LYHENNE    Alaleuan korjaaminen luusiirteellä
+###
+#KOODI      EDC50
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun katkaisu ja horisontaalinen venytys
+#RUOTSI     Avbrytning och horisontal distraktion av underkäkben
+#LYHENNE    Alaleuan katkaisu ja horisontaalinen ven
+###
+#KOODI      EDC55
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleukaluun katkaisu ja vertikaalinen venytys
+#RUOTSI     Avbrytning och vertikal distraktion av underkäkben
+#LYHENNE    Alaleuan katkaisu ja vertikaalinen venyt
+###
+#KOODI      EDC99
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Muu alaleukaluun korjaamisleikkaus
+#RUOTSI     Annat rekonstruktivt ingrepp på underkäkben
+#LYHENNE    Muu alaleuan korjaamisleikkaus
+###
+#KOODI      EDU00
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM   2001/11/14
+#POISTETTU
+#VANHA                
+#SUOMI      Alaleuan istutteen tai kiinnityslaitteen poisto
+#RUOTSI     Uttagning av implant eller fixations apparat från mandibula
+#LYHENNE    Alaleuan istutteen tai kiinn.laitt. pois
+###
+#KOODI_A    EDW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut alaleuan leikkaukset
+#RUOTSI     Andra operationer på underkäken
+#ENGL       Other operations on mandible
+###
+#KOODI      EDW99
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Muu alaleuan leikkaus
+#RUOTSI     Annan operation på underkäkben
+#LYHENNE    Muu alaleuan leikkaus
+###
+#KOODI_R    EE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Yläleuan toimenpiteet
+#RUOTSI     Åtgärder i överkäken
+#ENGL       Maxilla
+#OHJE_S  
+Poskiontelon leikkaukset kohdassa DM
+Punktiot ja neulabiopsiat kohdassa TE
+#OHJE_R 
+Operativa ingrepp på Sinus Maxillaris, se DM
+Punktion och nålbiopsi, se TE
+###
+#KOODI      EE1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5171      
+#SUOMI      Yläleuan tai suulaen natiiviröntgen
+#RUOTSI     Överkäken eller gommen, röntgen
+#LYHENNE    Yläleuan rtg
+###
+#KOODI      EE1HA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5221      
+#SUOMI      Leuan tomografia tai implanttikuvaus
+#RUOTSI     Tomografi av käkarna eller implantatröntgen
+#LYHENNE    Leukatomo/implantti
+###
+#KOODI      EE1JA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5221      
+#SUOMI      Leuan tomografia, laaja
+#RUOTSI     Omfattande tomografi av käken
+#LYHENNE    Vaativa leukatomo
+###
+#KOODI_A    EEA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Yläleuan aukaisu aukaisu
+#RUOTSI     Incision,biopsi i överkäken
+#ENGL       Incision and biopsy or of maxilla
+###
+#KOODI      EEA00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4306      
+#SUOMI      Yläleukaluun märkäkeräymän aukaisu
+#RUOTSI     Incision i överkäkben
+#LYHENNE    Yläleuan märkäkeräymän aukaisu
+#OHJE_S  
+Sisältää dreenin asettamisen
+#OHJE_R 
+Inkl. dränage
+###
+#KOODI      EEA10
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4339+     
+#SUOMI      Koepalan otto yläleukaluusta
+#RUOTSI     Biopsi av överkäkben
+#LYHENNE    Koepalan otto yläleuasta
+###
+#KOODI_A    EEB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Yläleuan poistoleikkaukset
+#RUOTSI     Resektion, exstirpation av överkäken
+#ENGL       Excision of maxilla
+###
+#KOODI      EEB00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4334      
+#SUOMI      Yläleukaluun poisto osittain
+#RUOTSI     Delresektion av överkäkben
+#LYHENNE    Yläleuan poisto osittain
+###
+#KOODI      EEB10
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4334      
+#SUOMI      Yläleukapuoliskon poisto
+#RUOTSI     Hemimaxillektomi
+#LYHENNE    Yläleukapuoliskon poisto
+###
+#KOODI      EEB20
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4335      
+#SUOMI      Yläleuan poisto kokonaan
+#RUOTSI     Totalexstirpation av överkäken
+#LYHENNE    Yläleuan poisto kokonaan
+###
+#KOODI      EEB99
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4339      
+#SUOMI      Muu yläleukaluun poistoleikkaus
+#RUOTSI     Annan resektion av överkäkben
+#LYHENNE    Muu yläleuan poistoleikkaus
+###
+#KOODI_A    EEC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Yläleuan korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på överkäken
+#ENGL       Reconstructive operations on maxilla
+#OHJE_S  
+Silmäkuopan pohjan korjausleikkaukset (esim blow-out murtuma) kohdissa CAC00 ja CAC10
+Siirteet ja kielekkeet ilmaistaan lisäkoodilla ryhmästä ZZ
+#OHJE_R 
+Rekonstruktion av orbita botten (t.ex. för blow-out fraktur), se CAC00 eller CAC10
+Transplantat anges med tilläggskod från grupp ZZ
+###
+#KOODI      EEC00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4347      
+#SUOMI      Yläleukaluun segmentaalinen katkaisu
+#RUOTSI     Segmentosteotomi på överkäken
+#LYHENNE    Yläleuan segmentaalinen katkaisu
+###
+#KOODI      EEC01
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/02/09
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläleukaluun eteensiirto distraktiomenetelmällä
+#RUOTSI     Distraktion av överkäkben
+#LYHENNE    Yläleuan kirurginen levittäminen
+###
+#KOODI      EEC02
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläleukaluun nopea levittäminen distraktiomenetelmällä
+#RUOTSI     Kirugisk distraktion av överkäkben, rapid expansion
+#LYHENNE    Yläleuan kirurginen levittäminen
+###
+#KOODI      EEC05
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4347      
+#SUOMI      Yläleukaluun katkaisu, Le Fort I
+#RUOTSI     Le Fort I-osteotomi
+#LYHENNE    Yläleuan katkaisu, Le Fort I
+###
+#KOODI      EEC10
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4347      
+#SUOMI      Yläleukaluun katkaisu, Le Fort II
+#RUOTSI     Le Fort II-osteotomi
+#LYHENNE    Yläleuan katkaisu, Le Fort II
+###
+#KOODI      EEC15
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4347      
+#SUOMI      Yläleukaluun ja kasvojen luiden katkaisu ja muovaus, Le Fort III
+#RUOTSI     Le Fort III-osteotomi
+#LYHENNE    Yläleuan/naaman Le Fort III
+###
+#KOODI      EEC16
+#MUUT_PVM   2000/11/26
+#KAYTPVM    2000/08/15
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kasvojen ja kallon venytyshoito
+#RUOTSI     Annan distraktion av ansikte och skalle
+#LYHENNE    Muu kasvojen ja kallon distraktiohoito
+###
+#KOODI      EEC20
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4807      
+#SUOMI      Yläleukamurtuman suljettu korjaaminen ja leukojen yhteen kiinnitys
+#RUOTSI     Sluten reposition och osteosyntes av överkäksfraktur
+#LYHENNE    Yläleukamurtuman suljettu korjaus/kiinn
+#OHJE_S  
+Sisältää maksillomandibulaarisen fiksaation, IMF
+#OHJE_R 
+Inkluderar maxillomandibulär fixering, IMF
+###
+#KOODI      EEC25
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4807      
+#SUOMI      Yläleukamurtuman avoin paikalleen asettaminen ja kiinnittäminen
+#RUOTSI     Öppen reposition och osteosyntes av överkäksfraktur
+#LYHENNE    Yläleukamurtuman avoin liittäminen
+#OHJE_S  
+Sisältää levy- tai ruuvikiinnityksen sekä mahdollisen ulkoisen kiinnityksen
+#OHJE_R 
+Innefattar fixation med skruvar eller plattor samt eventuel extern fixation
+###
+#KOODI      EEC30
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4823      
+#SUOMI      Poskiluu-murtuman suljettu paikalleen asettaminen
+#RUOTSI     Reposition av kindbensfraktur
+#LYHENNE    Poskiluu-murtuman repositio
+#OHJE_S  
+Esim. koukkunosto
+#OHJE_R 
+T.ex. lyft med krok
+###
+#KOODI      EEC35
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4824      
+#SUOMI      Poskiluu-murtuman avoin paikalleen asettaminen ja kiinnittäminen
+#RUOTSI     Öppenreposition och osteosyntes av kindbenfraktur
+#LYHENNE    Poskiluu-yläleukamurtuman osteosynteesi
+#OHJE_S  
+Sisältää levy- tai ruuvikiinnityksen sekä mahdollisen ulkoisen kiinnityksen
+#OHJE_R 
+Innefattar fixation med skruvar eller plattor samt eventuel extern fixation
+###
+#KOODI      EEC40
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4808      
+#SUOMI      Yläleuan ulkoisen kiinnityksen tai vedon asettaminen
+#RUOTSI     Anläggande av suspension eller extern fixation av överkäkben
+#LYHENNE    Yläleuan ulkoinen fiksaatio/veto
+###
+#KOODI      EEC42
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläleukaluun korjaaminen vierasta materiaalia käyttäen
+#RUOTSI     Rekonstruktion av överkäken med implantat
+#LYHENNE    Yläleuan korjaaminen implanttia käyttäen
+###
+#KOODI      EEC45
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4348+     
+#SUOMI      Yläleukaluun korjaaminen luusiirteellä
+#RUOTSI     Rekonstruktion av överkäken med bentransplantat
+#LYHENNE    Yläleuan korjaaminen luusiirteellä
+#OHJE_S  
+Luusiirteen materiaali voidaan ilmaista lisäkoodilla kohdasta ZZH
+#OHJE_R 
+Bentransplantatets material anges med tilläggskod, se ZZH
+###
+#KOODI      EEC50
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM   2001/01/17
+#POISTETTU
+#VANHA                
+#SUOMI      Yläleukaluun katkaisu ja venyttäminen
+#RUOTSI     Avbrytning och distratkion av överkäken
+#LYHENNE    Yläleuan katkaisu ja venyttäminen
+###
+#KOODI      EEC99
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4859      
+#SUOMI      Muu yläleukaluun korjaamisleikkaus
+#RUOTSI     Annat rekonstruktivt ingrepp på överkäkben
+#LYHENNE    Muu yläleuan korjaamisleikkaus
+###
+#KOODI      EEU00
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM   2001/01/17
+#POISTETTU
+#VANHA                
+#SUOMI      Yläleuan istutteen tai kiinnityslaitteen poisto
+#RUOTSI     Uttagning av implant eller fixations apparat från maxilla
+#LYHENNE    Istutteen tai kiinn.laitt poisto alaleuk
+###
+#KOODI_A    EEW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut yläleuan leikkaukset
+#RUOTSI     Andra operationer på överkäken
+#ENGL       Other operations on maxilla
+###
+#KOODI      EEW99
+#MUUT_PVM   2000/11/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Muu yläleukaluun leikkaus
+#RUOTSI     Annan operation på överkäken
+#LYHENNE    Muu yläleuan leikkaus
+###
+#KOODI_R    EF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut leukojen toimenpiteet
+#RUOTSI     Övriga operationer i käkarna
+#ENGL       Miscellaneous operations on jaws
+###
+#KOODI_A    EFA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leukaluiden muutosten poistoleikkaukset
+#RUOTSI     Resektion, exstirpation av lesioner i käkarna
+#ENGL       Excision of jaws
+###
+#KOODI      EFA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4334, 4332
+#SUOMI      Kasvaimen poisto leuoista
+#RUOTSI     Exstirpation av tumör i käke
+#LYHENNE    Kasvaimen poisto leuoista
+###
+#KOODI      EFA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4339+     
+#SUOMI      Leukaluun kuoriosan poisto
+#RUOTSI     Dekortikation av käke
+#LYHENNE    Leukaluun kuoriosan poisto
+#OHJE_S  
+Osteomyeliitin yhteydessä
+#OHJE_R 
+Vid osteomyelitbehandling
+###
+#KOODI      EFA40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4331      
+#SUOMI      Leukakystan aukaisu
+#RUOTSI     Fenestration av käkcysta
+#LYHENNE    Leukakystan aukaisu
+###
+#KOODI      EFA50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4331      
+#SUOMI      Leukakystan poisto
+#RUOTSI     Exstirpation av käkcysta
+#LYHENNE    Leukakystan poisto
+###
+#KOODI      EFA99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4339      
+#SUOMI      Muu leukojen poistoleikkaus
+#RUOTSI     Annan resektion av käke
+#LYHENNE    Muu leukojen poistoleikkaus
+###
+#KOODI_A    EFB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leukojen korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på käkarna
+#ENGL       Reconstructive operations on jaws
+###
+#KOODI      EFB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leukaluun muovausleikkaus
+#RUOTSI     Benplastik på käke
+#LYHENNE    Leukaluun muovausleikkaus
+#OHJE_S  
+Esim. torus, linea mylohyoidea
+#OHJE_R 
+T.ex. torus, linea mylohyoidea
+###
+#KOODI      EFB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4825+     
+#SUOMI      Kasvoluiden monimurtuman avoin korjaaminen ja kiinnitys
+#RUOTSI     Öppen reposition och immobilisering av multipla ansiktsfrakturer
+#LYHENNE    Kasvomonimurtuman avoin korjaus/kiinnit
+###
+#KOODI      EFB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4808      
+#SUOMI      Kasvoluumurtuman ulkoinen kiinnitys
+#RUOTSI     Extern fixation vid behandling av ansiktsfraktur
+#LYHENNE    Kasvoluumurtuman ulkoinen kiinnitys
+###
+#KOODI      EFB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4839      
+#SUOMI      Luun kiinnitysmateriaalin poisto leuoista
+#RUOTSI     Exstirpation av osteosyntes- eller fixationsmaterial
+#LYHENNE    Leukojen fiksaatiomateriaalin poisto
+#OHJE_S  
+Sisältää luun kiinnitysmateriaalin ja distraktiolaitteen poiston esim. kasvoluiden monimurtumahoidon yhteydessä
+#OHJE_R 
+Inkluderar uttagning av fixationsmaterial eller distraktionsapparat t.ex. vid multippel ansiktsfraktur
+###
+#KOODI      EFB45
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ulkoisen kiinnityslaitteen poisto leuoista
+#RUOTSI     Uttagning av distraktions aparat från käken
+#LYHENNE    Venytyslaitteen poisto leuoista
+###
+#KOODI      EFB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Hampaanoikomistoimenpide leuan kehityshäiriön leikkauksen yhteydessä
+#RUOTSI     Ortodontisk åtgärd i samband med ortognatisk kirurgi
+#LYHENNE    Hampaanoikominen leuan kehityshäiriöleik
+###
+#KOODI      EFB60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leuka-/kasvoluiden muovaus käyttäen luusiirrettä tai vierasta ainetta
+#RUOTSI     Plastik av käkben/ansiktsben med hjälp av bentransplantat eller alloplastik
+#LYHENNE    Leuka-/kasvoluumuovaus,luusiirre/allopl
+###
+#KOODI      EFB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Muu leukojen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av käke
+#LYHENNE    Muu leukojen korjaamisleikkaus
+###
+#KOODI      EFU00
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM   2001/01/17
+#POISTETTU
+#VANHA                
+#SUOMI      Molempien leukojen kiinnityslaitteiden poisto
+#RUOTSI     Uttagning av fixations apparat från båda käken
+#LYHENNE    Kiinnityslaitteiden poisto mol. leuoista
+###
+#KOODI_A    EFW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut leukojen leikkaukset
+#RUOTSI     Andra operationer på käkarna
+#ENGL       Other operations on jaws
+###
+#KOODI      EFW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359+     
+#SUOMI      Muu leukojen leikkaus
+#RUOTSI     Annan operation på käke
+#LYHENNE    Muu leukojen leikkaus
+###
+#KOODI_R    EG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leukanivelien toimenpiteet
+#RUOTSI     Åtgärder i käklederna
+#ENGL       Mandibular joint
+#OHJE_S  
+Punktiot ja neulabiopsiat kohdassa TE
+#OHJE_R 
+Punktion och nålbiopsi, se TE
+###
+#KOODI      EG1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5172      
+#SUOMI      Leukanivelten natiiviröntgen
+#RUOTSI     Käkleder, röntgen
+#LYHENNE    Leukanivelen rtg
+###
+#KOODI      EG1BF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8179      
+#SUOMI      Leukanivelten magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av käkleder med mellanfältsmagnet
+#LYHENNE    Leukanivel KKMT
+###
+#KOODI      EG1BG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8279      
+#SUOMI      Leukanivelten magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av käkleder med högfältsmagnet
+#LYHENNE    Leukanivel VKMT
+###
+#KOODI      EG1CB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5191      
+#SUOMI      Leukanivelen varjoainetutkimus (artrografia)
+#RUOTSI     Käkledsartrografi
+#LYHENNE    Leukanivelen artrogr
+###
+#KOODI      EG1CF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8189      
+#SUOMI      Leukanivelten laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av käkleder, omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Leukanivel l.KKMT
+###
+#KOODI      EG1CG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8289      
+#SUOMI      Leukanivelten laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av käkleder, omfattande undersökning med högfältsmagnet
+#LYHENNE    Leukanivel l.VKMT
+###
+#KOODI      EG1DF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8196      
+#SUOMI      Leukanivelten erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av käkleder, speciellt omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Leukanivel er.l.KKMT
+###
+#KOODI      EG1DG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8296      
+#SUOMI      Leukanivelten erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av käkleder, speciellt omfattande undersökning med högfältsmagnet
+#LYHENNE    Leukanivel er.l.VKMT
+###
+#KOODI_A    EGA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leukanivelen tähystys
+#RUOTSI     Inkluderar incision eller biopsi
+#ENGL       Endoscopy of mandibular joint
+###
+#KOODI      EGA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leukanivelen tähystys
+#RUOTSI     Käkledsartroskopi
+#LYHENNE    Leukanivelen tähystys
+###
+#KOODI      EGA05
+#MUUT_PVM   2000/09/15
+#KAYTPVM    2000/08/15
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leukanivelen huuhtelu
+#RUOTSI     Spolning av käkled
+#LYHENNE    Leukanivelen huuhtelu
+###
+#KOODI      EGA10
+#MUUT_PVM   2000/08/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leukanivelen aukaisu
+#RUOTSI     Incision av käkled
+#LYHENNE    Leukanivelen aukaisu
+#OHJE_S  
+Sisältää dreenin asetuksen
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      EGA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Koepalan otto leukanivelestä
+#RUOTSI     Biopsi av käkled
+#LYHENNE    Koepalan otto leukanivelestä
+###
+#KOODI_A    EGB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leukanivelen poistoleikkaukset
+#RUOTSI     Resektion av käkled
+#ENGL       Excision of mandibular joint
+###
+#KOODI      EGB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346      
+#SUOMI      Alaleuan nivelnastan poisto
+#RUOTSI     Kondylektomi på käkled
+#LYHENNE    Alaleuan nivelnastan poisto
+###
+#KOODI      EGB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346      
+#SUOMI      Leukanivelen rustolevyn poisto
+#RUOTSI     Diskektomi eller -plastik
+#LYHENNE    Leukanivelen rustolevyn poisto
+###
+#KOODI      EGB20
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leukanivelen nivelkalvon poisto (synovektomia)
+#RUOTSI     Synovektomi av käkled
+#LYHENNE    Leukanivelen nivelkalvon poisto
+###
+#KOODI      EGB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346+     
+#SUOMI      Muu leukanivelen poistoleikkaus
+#RUOTSI     Annan resektion av käkled
+#LYHENNE    Muu leukanivelen poistoleikkaus
+###
+#KOODI_A    EGC
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leukanivelen korjaavat leikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på käkled
+#ENGL       Reconstructive operations on mandibular joint
+###
+#KOODI      EGC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leukanivelen sijoiltaanmenon avoin korjaus
+#RUOTSI     Öppen reposition av käkledsluxation
+#LYHENNE    Leukanivelsijoiltaanmenon avoin korjaus
+###
+#KOODI      EGC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346      
+#SUOMI      Leukanivelen muovausleikkaus
+#RUOTSI     Plastikoperation på käkled
+#LYHENNE    Leukanivelen muovausleikkaus
+###
+#KOODI      EGC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346      
+#SUOMI      Leukanivelen muovausleikkaus luuta tai muuta ainetta käyttäen
+#RUOTSI     Plastikoperation på käkled med ben- eller annat transplantat
+#LYHENNE    Leukanivelen muovaus luu/muu aine
+###
+#KOODI      EGC30
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leukanivelen proteesileikkaus
+#RUOTSI     Protesoperation på käkled
+#LYHENNE    Leukanivelen proteesileikkaus
+###
+#KOODI      EGC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346      
+#SUOMI      Muu leukanivelen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av käkled
+#LYHENNE    Muu leukanivelen korjaamisleikkaus
+###
+#KOODI      EGU00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leukanivelen istutteen tai kiinnityslaitteen poisto
+#RUOTSI     Uttagning av implant eller fixations apparat från mandibular led
+#LYHENNE    Istutteen tai kiinn.laitt poisto leukani
+###
+#KOODI_A    EGW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut leukanivelien leikkaukset
+#RUOTSI     Andra operationer på käklederna
+#ENGL       Other operations on mandibular joint
+###
+#KOODI      EGW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4346      
+#SUOMI      Muu leukanivelen leikkaus
+#RUOTSI     Annan operation på käkled
+#LYHENNE    Muu leukanivelen leikkaus
+###
+#KOODI_R    EH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suulaen toimenpiteet
+#RUOTSI     Åtgärder i gommen
+#ENGL       Palate
+#OHJE_S  
+Punktiot ja neulabiopsiat, katso TE
+
+#OHJE_R 
+Punktion och punktionbiopsi, se TE
+###
+#KOODI      EH1JB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5336      
+#SUOMI      Suulaen funktiotutkimus
+#RUOTSI     Funktionsundersökning av gommen
+#LYHENNE    Suulaen funktiotutk
+#OHJE_S  
+Siirteiden materiaali ilmoitetaan lisäkoodilla luvusta Z
+#OHJE_R 
+Transplantatmaterial anges med tilläggskod, se Z
+###
+#KOODI      EH2BB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5337      
+#SUOMI      Nenän ja nielun varjoainetutkimus (naso-faryngografia)
+#RUOTSI     Naso-faryngografi
+#LYHENNE    Nasofaryngografia
+###
+#KOODI_A    EHA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suulaen aukaisu tai koepalan otto
+#RUOTSI     Incision eller biopsi av gommen
+#ENGL       Incision and biopsy of palate
+###
+#KOODI      EHA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Suulaen aukaisu
+#RUOTSI     Incision i gommen
+#LYHENNE    Suulaen aukaisu
+###
+#KOODI      EHA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Koepalan otto suulaesta
+#RUOTSI     Biopsi i gommen
+#LYHENNE    Koepalan otto suulaesta
+###
+#KOODI_A    EHB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suulaen poistoleikkaukset
+#RUOTSI     Resektioner i gommen
+#ENGL       Excision of palate
+###
+#KOODI      EHB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4383      
+#SUOMI      Suulaen kasvaimen poisto
+#RUOTSI     Excision av lokal förändring i gommen
+#LYHENNE    Suulaen kasvaimen poisto
+###
+#KOODI      EHB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Muu suulaen poistoleikkaus
+#RUOTSI     Annan resektion av gommen
+#LYHENNE    Muu suulaen poistoleikkaus
+#OHJE_S  
+Siirteet ja kielekkeet luvussaZ
+#OHJE_R 
+Transplantat och lambåer, se Z
+###
+#KOODI_A    EHC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suulaen korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på gommen
+#ENGL       Reconstructive operations on palate
+###
+#KOODI      EHC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4841      
+#SUOMI      Suulaen haavan ompelu
+#RUOTSI     Suturering av sår i gommen
+#LYHENNE    Suulaen haavan ompelu
+#OHJE_S  
+Sisältää tarvittavan haavan revision
+#OHJE_R 
+---
+###
+#KOODI      EHC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4384      
+#SUOMI      Suulakiavanteen sulkeminen suun ja nenä- tai poskiontelon väliltä
+#RUOTSI     Förslutning av oronasal eller oroantral fistel i gommen
+#LYHENNE    Suulakiavannesulku suusta nenä/poskiont
+###
+#KOODI      EHC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Suulaen arpikudoksen poisto
+#RUOTSI     Ärrevision i gommen
+#LYHENNE    Suulaen arpikudoksen poisto
+###
+#KOODI      EHC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4362      
+#SUOMI      Suulaen uudelleen muodostaminen
+#RUOTSI     Rekonstruktion av gommen
+#LYHENNE    Suulaen uudelleen muodostaminen
+#OHJE_S  
+Esim. kasvainleikkauksen jälkeen
+#OHJE_R 
+T.ex. efter tumöroperation
+###
+#KOODI      EHC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4363      
+#SUOMI      Suulakihalkion suora korjausleikkaus
+#RUOTSI     Slutning av gomspalt
+#LYHENNE    Suulakihalkion suora korjausleikkaus
+#OHJE_S  
+Primaarinen ja sekundaarinen korjausleikkaus ilmaistaan lisäkoodilla ryhmästä ZSE.
+#OHJE_R 
+Primär, respektive sekundär, rekonstruktion anges med tilläggskod ur grupp ZSE
+###
+#KOODI      EHC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4364+     
+#SUOMI      Suulakihalkion korjaaminen farynxkielekkeellä
+#RUOTSI     Rekonstruktion av gomspalt med farynxlambå
+#LYHENNE    Suulakihalkiokorjaus farynxkielekkeellä
+#OHJE_S  
+Primaarinen ja sekundaarinen korjausleikkaus ilmaistaan lisäkoodilla ryhmästä ZSE.
+#OHJE_R 
+Primär, respektive sekundär, rekonstruktion anges med tilläggskod ur grupp ZSE
+###
+#KOODI      EHC60
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4364+     
+#SUOMI      Samanaikainen huuli-suulakihalkion korjaus
+#RUOTSI     Rekonstruktion av kombinerad läpp- gomspalt
+#LYHENNE    Samanaik huuli-suulakihalkion korjaus
+#OHJE_S  
+Primaarinen ja sekundaarinen korjausleikkaus ilmaistaan lisäkoodilla ryhmästä ZSE.
+#OHJE_R 
+Primär, respektive sekundär, rekonstruktion anges med tilläggskod ur grupp ZSE
+###
+#KOODI      EHC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4379+     
+#SUOMI      Muu suulaen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av gommen
+#LYHENNE    Muu suulaen korjaamisleikkaus
+###
+#KOODI      EHU00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suulaen istutteen tai kiinnityslaitteen poistaminen
+#RUOTSI     Uttagning av implant eller fixations apparat från gommen
+#LYHENNE    Implantin tai kiinn.laitt poist kitalaes
+###
+#KOODI_A    EHW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut suulaen leikkaukset
+#RUOTSI     Andra operationer på gommen
+#ENGL       Other operations on palate
+###
+#KOODI      EHW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Muu suulaen leikkaus
+#RUOTSI     Annan operation på gommen
+#LYHENNE    Muu suulaen leikkaus
+###
+#KOODI_R    EJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kielen ja suunpohjan toimenpiteet
+#RUOTSI     Operationer i tunga och munbotten
+#ENGL       Tongue and floor of mouth
+#OHJE_S  
+Siirteet ja kielekkeet ilmaistaan lisäkoodilla. Katso luku Z
+Kaulan (imusolmukkeiden) toimenpiteet ryhmässä PJ
+#OHJE_R 
+Material av transplantat och lambåer anges med tilläggskod, se Z
+Ingrepp på halsens lymfknutor, se PJ
+###
+#KOODI_A    EJA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kielen ja suunpohjan koepalan otto tai aukaisu
+#RUOTSI     Incision, biopsi av tunga och munbotten
+#ENGL       Incision, biopsy and removal of foreign body of tongue and floor of mouth
+###
+#KOODI      EJA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399, 4705
+#SUOMI      Kielen tai suunpohjan märkäpesäkkeen aukaisu ja kanavointi
+#RUOTSI     Incision och dränering av abscess i tunga eller munbotten
+#LYHENNE    Kielen/suunpohjan märkäpesäkkeen aukaisu
+#OHJE_S  
+Sisältää dreenin asetuksen
+#OHJE_R 
+Inkl ev. dränage
+###
+#KOODI      EJA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Koepalan otto kielestä tai suunpohjasta
+#RUOTSI     Biopsi av tunga eller munbotten
+#LYHENNE    Koepalan otto kielestä tai suunpohjasta
+###
+#KOODI      EJA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Vierasesineen poisto kielestä tai suunpohjasta
+#RUOTSI     Avlägsnande av främmande föremål från tunga eller munbotten
+#LYHENNE    Vierasesinepoisto,kieli/suunpohja
+###
+#KOODI_A    EJB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kielen ja suunpohjan poistotoimenpiteet
+#RUOTSI     Resektion, extirpation av tunga och munbotten
+#ENGL       Excision of tongue and floor of mouth
+###
+#KOODI      EJB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4392      
+#SUOMI      Ranulan poisto
+#RUOTSI     Exstirpation av ranula
+#LYHENNE    Ranulan poisto
+###
+#KOODI      EJB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4392      
+#SUOMI      Kasvaimen poisto kielen kärjestä tai keskiosasta
+#RUOTSI     Exstirpation av tumör från tungans främre eller centrala del
+#LYHENNE    Kasvaimen poisto kielen kärki/keskiosa
+#OHJE_S  
+Ei sisällä kielen tyven kasvainta
+#OHJE_R 
+Exkl tungbastumör
+###
+#KOODI      EJB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4392      
+#SUOMI      Kasvaimen poisto kielentyvestä
+#RUOTSI     Exstirpation av tungbastumör
+#LYHENNE    Kasvaimen poisto kielentyvestä
+###
+#KOODI      EJB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4392      
+#SUOMI      Kasvaimen poisto suunpohjasta
+#RUOTSI     Exstirpation av munbottentumör
+#LYHENNE    Kasvaimen poisto suunpohjasta
+###
+#KOODI      EJB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4394      
+#SUOMI      Kielen puoliskon poisto
+#RUOTSI     Hemiglossektomi
+#LYHENNE    Kielen puoliskon poisto
+###
+#KOODI      EJB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4394      
+#SUOMI      Kielen poisto kokonaan
+#RUOTSI     Total glossektomi
+#LYHENNE    Kielen poisto kokonaan
+###
+#KOODI      EJB60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4392      
+#SUOMI      Suunpohjan poistoleikkaus
+#RUOTSI     Resektion av munbottnen
+#LYHENNE    Suunpohjan poistoleikkaus
+###
+#KOODI      EJB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Muu kielen ja suunpohjan poistoleikkaus
+#RUOTSI     Annan resektion av tunga och munbotten
+#LYHENNE    Muu kielen ja suunpohjan poistoleikkaus
+###
+#KOODI_A    EJC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kielen ja suunpohjan korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på tunga och munbotten
+#ENGL       Reconstructive operations on tongue and floor of mouth
+###
+#KOODI      EJC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4843      
+#SUOMI      Kielen ja suunpohjan haavan ompelu
+#RUOTSI     Suturering av sår i tunga eller munbotten
+#LYHENNE    Kielen ja suunpohjan haavan ompelu
+#OHJE_S  
+Sisältää haavan puhdistamisen
+#OHJE_R 
+inkl. sårrevision
+###
+#KOODI      EJC20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4391      
+#SUOMI      Kielijänteen leikkaus
+#RUOTSI     Frenulumoperation
+#LYHENNE    Frenulum leikkaus
+#OHJE_S  
+Sisältää frenulumplastiikan
+#OHJE_R 
+Inkl. frenulumplastik
+###
+#KOODI      EJC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4393      
+#SUOMI      Kielen korjaaminen, rekonstruktio
+#RUOTSI     Tungplastik
+#LYHENNE    Kielen korjaaminen, rekonstruktio
+###
+#KOODI      EJC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Kielen kiinnitys
+#RUOTSI     Glossopexi
+#LYHENNE    Kielen kiinnitys
+###
+#KOODI      EJC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Muu kielen ja suunpohjan korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av tunga och munbotten
+#LYHENNE    Muu kielen/suunpohjan korjausleikkaus
+###
+#KOODI_A    EJW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kielen ja suupohjan leikkaukset
+#RUOTSI     Andra operationer på tunga och munbotten
+#ENGL       Other operations on tongue and floor of mouth
+###
+#KOODI      EJW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Muu kielen ja suunpohjan leikkaus
+#RUOTSI     Annan operation på tunga och munbotten
+#LYHENNE    Muu kielen ja suunpohjan leikkaus
+###
+#KOODI_R    EK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Posken toimenpiteet
+#RUOTSI     Operationer i kinden
+#ENGL       Cheek
+#OHJE_S  
+Sisältää ihon toimenpiteet muiden kerrosten toimenpiteiden yhteydessä.
+Pelkät posken ihon toimenpiteet, katso QA
+#OHJE_R 
+Inkluderar hudingrepp i samband med övriga ingreppIngrepp enbart på kindens hud, se QA
+###
+#KOODI_A    EKA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Posken aukaisu ja koepalan otto
+#RUOTSI     Incision, biopsi av kind
+#ENGL       Incision and biopsy of cheek
+###
+#KOODI      EKA00
+#MUUT_PVM   1999/04/16
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Posken aukaisu
+#RUOTSI     Incision av kind
+#LYHENNE    Posken aukaisu
+#OHJE_S  
+Sisältää dreenin asetuksen
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      EKA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4322      
+#SUOMI      Koepalan otto poskesta
+#RUOTSI     Biopsi av kind
+#LYHENNE    Koepalan otto poskesta
+###
+#KOODI_A    EKB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Posken poisto osittain tai kokonaan
+#RUOTSI     Resektion av kind
+#ENGL       Excision of cheek
+###
+#KOODI      EKB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4322      
+#SUOMI      Posken kasvaimen poisto
+#RUOTSI     Exstirpation av tumör i kind
+#LYHENNE    Posken kasvaimen poisto
+###
+#KOODI      EKB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4322      
+#SUOMI      Muu posken poistoleikkaus
+#RUOTSI     Annan resektion av kind
+#LYHENNE    Muu posken poistoleikkaus
+###
+#KOODI_A    EKC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Posken korjaamistoimenpiteet
+#RUOTSI     Rekonstruktiva ingrepp på kind
+#ENGL       Reconstructive operations on cheek
+###
+#KOODI      EKC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4841      
+#SUOMI      Posken ompelu
+#RUOTSI     Suturering av kind
+#LYHENNE    Posken ompelu
+#OHJE_S  
+Sisältää haavan puhdistuksen
+#OHJE_R 
+inkl. sårrevision
+###
+#KOODI      EKC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Posken vierasesineen poisto
+#RUOTSI     Avlägsnande av främmande föremål från kind
+#LYHENNE    Posken vierasesineen poisto
+###
+#KOODI      EKC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4325      
+#SUOMI      Posken muovausleikkaus
+#RUOTSI     Plastikoperation av kind
+#LYHENNE    Posken muovausleikkaus
+###
+#KOODI      EKC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Posken vaativa korjaaminen
+#RUOTSI     Krävande rekonstruktion av kind
+#LYHENNE    Posken korjaaminen
+###
+#KOODI      EKC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4325      
+#SUOMI      Muu posken korjaamisleikkaus
+#RUOTSI     Annat rekonstruktivt ingrepp av kind
+#LYHENNE    Muu posken korjaamisleikkaus
+###
+#KOODI_A    EKW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut posken leikkaukset
+#RUOTSI     Andra operationer på kind
+#ENGL       Other operations on cheek
+###
+#KOODI      EKW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Muu posken leikkaus
+#RUOTSI     Annan operation på kind
+#LYHENNE    Muu posken leikkaus
+###
+#KOODI_R    EL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sylkirauhasten toimenpiteet
+#RUOTSI     Radiologiska åtgärder: salivkörtlarna
+#ENGL       Salivary glands
+###
+#KOODI      EL1CB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5421      
+#SUOMI      Korvasylkirauhastiehyen varjoainetutkimus (sialografia)
+#RUOTSI     Sialografi, gl. parotis
+#LYHENNE    Parotissialografia
+###
+#KOODI      EL2CB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5421      
+#SUOMI      Leuanalussylkirauhastiehyen varjoainetutkimus (sialografia)
+#RUOTSI     Sialografi, gl.submandibularis
+#LYHENNE    Submand. sialografia
+###
+#KOODI      EL3AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5401      
+#SUOMI      Sylkirauhasen natiiviröntgen
+#RUOTSI     Översikt av salivkörtel, röntgen
+#LYHENNE    Sylkirauhasen rtg
+###
+#KOODI      EL3AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6356      
+#SUOMI      Sylkirauhasten UÄ *
+#RUOTSI     UL av salivkörtlar
+#LYHENNE    Sylkirauhasten UÄ
+###
+#KOODI      EL3AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Sylkirauhasen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd biopsi från salivkörtel
+#LYHENNE    Sylkir.kudosn.UÄ-ohj
+###
+#KOODI      EL4AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Sylkirauhasen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd finnålsbiopsi från spottkörtel
+#LYHENNE    Sylkir.solun.UÄ-ohj
+###
+#KOODI_A    ELA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sylkirauhasen koepalan otto tai aukaisu
+#RUOTSI     Incision, biopsi av spottkörtel
+#ENGL       Incision and biopsy of salivary glands
+###
+#KOODI      ELA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Sylkirauhasen aukaisu
+#RUOTSI     Incision av salivkörtel
+#LYHENNE    Sylkirauhasen aukaisu
+#OHJE_S  
+sisältää dreenin asettamisen
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      ELA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Sylkirauhastiehyeen aukaisu
+#RUOTSI     Sialodochotomi
+#LYHENNE    Sylkirauhastiehyeen aukaisu
+###
+#KOODI      ELA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4401      
+#SUOMI      Sylkikiven poisto
+#RUOTSI     Sialolithotomi
+#LYHENNE    Sylkikiven poisto
+###
+#KOODI      ELA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4402      
+#SUOMI      Koepalan otto sylkirauhasesta
+#RUOTSI     Biopsi av salivkörtel
+#LYHENNE    Koepalan otto sylkirauhasesta
+###
+#KOODI_A    ELB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sylkirauhasen poistoleikkaukset
+#RUOTSI     Resektion, exstirpation av spottkörtel
+#ENGL       Excision of salivary gland
+###
+#KOODI      ELB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4402      
+#SUOMI      Sylkirauhaskasvaimen tutkimusleikkaus tai poisto
+#RUOTSI     Extirpation eller exploration av tumör i salivkörtel
+#LYHENNE    Sylkirauhaskasvaimen eksploratio/poisto
+###
+#KOODI      ELB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409+     
+#SUOMI      Pienten sylkirauhasten poisto
+#RUOTSI     Exstirpation av glandulae salivariae minores
+#LYHENNE    Pienten sylkirauhasten poisto
+###
+#KOODI      ELB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409+     
+#SUOMI      Kielenalussylkirauhasen poisto
+#RUOTSI     Exstirpation av glandula sublingualis
+#LYHENNE    Kielenalussylkirauhasen poisto
+###
+#KOODI      ELB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4403      
+#SUOMI      Leuanalussylkirauhasen poisto
+#RUOTSI     Exstirpation av glandula submandibularis
+#LYHENNE    Leuanalussylkirauhasen poisto
+###
+#KOODI      ELB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4405      
+#SUOMI      Korvasylkirauhasen poisto osittain
+#RUOTSI     Delresektion av glandula parotis
+#LYHENNE    Korvasylkirauhasen poisto osittain
+###
+#KOODI      ELB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4404      
+#SUOMI      Korvasylkirauhasen poisto kokonaan
+#RUOTSI     Totalexstirpation av glandula parotis
+#LYHENNE    Korvasylkirauhasen poisto kokonaan
+###
+#KOODI      ELB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Muu sylkirauhasten poistoleikkaus
+#RUOTSI     Annan resektion eller excision av spottkörtel
+#LYHENNE    Muu sylkirauhasten poistoleikkaus
+###
+#KOODI_A    ELC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sylkirauhasen korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på spottkörtlar
+#ENGL       Reconstructive operations on salivary glands
+###
+#KOODI      ELC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Sylkirauhasen ompelu
+#RUOTSI     Suturering av salivkörtel
+#LYHENNE    Sylkirauhasen ompelu
+#OHJE_S  
+Sisältää dreenin asetuksen
+#OHJE_R 
+Innehåller dränage
+###
+#KOODI      ELC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Sylkirauhastiehyen sitominen
+#RUOTSI     Ligatur av salivkörtelgång
+#LYHENNE    Sylkirauhastiehyen sitominen
+###
+#KOODI      ELC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4406      
+#SUOMI      Sylkirauhastiehyen korjaaminen
+#RUOTSI     Rekonstruktion av salivkörtelgång
+#LYHENNE    Sylkirauhastiehyen korjaaminen
+###
+#KOODI      ELC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Sylkirauhastiehyen laskuaukon siirto
+#RUOTSI     Translokation av salivkörtelgång
+#LYHENNE    Sylkirauhastiehyen laskuaukon siirto
+###
+#KOODI      ELC60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Sylkirauhasavanteen tukkiminen
+#RUOTSI     Occlusion av fistel på salivkörtel
+#LYHENNE    Sylkirauhasavanteen tukkiminen
+###
+#KOODI      ELC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Muu sylkirauhasen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av salivkörtel
+#LYHENNE    Muu sylkirauhasen korjaamisleikkaus
+###
+#KOODI_A    ELW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut sylkirauhasten leikkaukset
+#RUOTSI     Andra operationer på spottkörtlar
+#ENGL       Other operations on salivary glands
+###
+#KOODI      ELW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4409      
+#SUOMI      Muu sylkirauhasten leikkaus
+#RUOTSI     Annan operation på salivkörtel
+#LYHENNE    Muu sylkirauhasten leikkaus
+###
+#KOODI_R    EM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielurisojen ja kitarisan toimenpiteet
+#RUOTSI     Radiologiska åtgärder: tonsiller och adenoider
+#ENGL       Tonsils and adenoids
+###
+#KOODI      EM1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5167      
+#SUOMI      Kitarisaröntgen
+#RUOTSI     Epifarynx (adenoid), röntgen
+#LYHENNE    Kitarisan rtg
+###
+#KOODI_A    EMA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielurisojen ja kitarisan koepalan otot ja aukaisut
+#RUOTSI     Biopsi, incision av tonsill och adenoid
+#ENGL       Incision and biopsy of tonsils and adenoids
+###
+#KOODI      EMA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4454      
+#SUOMI      Nielurisan aukaisu
+#RUOTSI     Incision av tonsill
+#LYHENNE    Nielurisan aukaisu
+#OHJE_S  
+Sis. mm kurkkupaiseen avauksen
+#OHJE_R 
+Inkl incision av halsböld, peritonsillär abscess
+###
+#KOODI      EMA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4461      
+#SUOMI      Koepalan otto nielurisoista
+#RUOTSI     Biopsi av tonsill
+#LYHENNE    Koepalan otto nielurisoista
+###
+#KOODI      EMA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4459      
+#SUOMI      Kitarisan aukaisu
+#RUOTSI     Incision av adenoid
+#LYHENNE    Kitarisan aukaisu
+###
+#KOODI      EMA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4461      
+#SUOMI      Koepalan otto nenänielusta
+#RUOTSI     Biopsi av nasofarynx
+#LYHENNE    Koepalan otto nenänielusta
+###
+#KOODI_A    EMB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielurisojen ja kitarisan poistoleikkaukset
+#RUOTSI     Resektion, exstirpation av tonsill/adenoid
+#ENGL       Excision of tonsils and adenoids
+###
+#KOODI      EMB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4461+     
+#SUOMI      Kasvaimen poisto nielurisoista tai kitarisasta
+#RUOTSI     Exstirpation av tumör i tonsill eller adenoid
+#LYHENNE    Kasvaimen poisto nielu-/kitarisasta
+###
+#KOODI      EMB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4452      
+#SUOMI      Nielurisaleikkaus
+#RUOTSI     Tonsillektomi
+#LYHENNE    Nielurisaleikkaus
+###
+#KOODI      EMB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4453      
+#SUOMI      Kita- ja nielurisaleikkaus
+#RUOTSI     Adenotonsillektomi
+#LYHENNE    Kita- ja nielurisaleikkaus
+###
+#KOODI      EMB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4451      
+#SUOMI      Kitarisaleikkaus
+#RUOTSI     Adenoidektomi
+#LYHENNE    Kitarisaleikkaus
+###
+#KOODI      EMB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4459      
+#SUOMI      Muu risojen ja rauhaskudoksen poistoleikkaus
+#RUOTSI     Annan resektion/excision av tonsill eller adenoid
+#LYHENNE    Muu risojen/rauhaskudoksen poisto
+###
+#KOODI_A    EMC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielurisojen ja kitarisan korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på tonsiller och adenoid
+#ENGL       Reconstructive operations on tonsils and adenoids
+###
+#KOODI      EMC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4455+     
+#SUOMI      Nielu- tai kitarisan ompelu
+#RUOTSI     Suturering av tonsill eller adenoid
+#LYHENNE    Nielu- tai kitarisan ompelu
+#OHJE_S  
+Sisältää haavan puhdistuksen
+#OHJE_R 
+---
+###
+#KOODI      EMC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4459      
+#SUOMI      Vierasesineen poisto nielurisakudoksesta
+#RUOTSI     Avlägsnande av främmande föremål från tonsill eller adenoid
+#LYHENNE    Vierasesineen poisto nielurisakudoksesta
+###
+#KOODI      EMC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4459      
+#SUOMI      Muu nielurisojen ja kitarisan korjaamisleikkaus
+#RUOTSI     Annat rekonstruktivt ingrepp på tonsiller och adenoid
+#LYHENNE    Muu nielurisa/kitarisan korjausleikkaus
+###
+#KOODI_A    EMW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut risakudoksen leikkaukset
+#RUOTSI     Andra operationer på tonsiller och adenoider
+#ENGL       Other operations on tonsils and adenoids
+###
+#KOODI      EMW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4459      
+#SUOMI      Muu nielurisojen ja kitarisan leikkaus
+#RUOTSI     Annan operation på tonsill ehler adenoid
+#LYHENNE    Muu nielurisojen ja kitarisan leikkaus
+###
+#KOODI_R    EN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielun ja ympäröivien pehmytkudoksien toimenpiteet
+#RUOTSI     Radiologiska åtgärder: farynx och närliggande mjukdelar
+#ENGL       Pharynx and adjacent structures
+###
+#KOODI      EN1AD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5901      
+#SUOMI      Suun ja kaulan pehmytosien natiivi-TT
+#RUOTSI     DT av munhåla och hals utan kontrast
+#LYHENNE    Suu+kaula,nat-TT
+###
+#KOODI      EN1BD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5902      
+#SUOMI      Suun ja kaulan pehmytosien varjoaine-TT
+#RUOTSI     DT av munhåla och hals med kontrast
+#LYHENNE    Suu+kaula,v.a-TT
+###
+#KOODI      EN1CD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5903      
+#SUOMI      Suun ja kaulan pehmytosien natiivi- ja varjoaine-TT
+#RUOTSI     DT av munhåla och hals utan och med kontrast
+#LYHENNE    Suu+kaul,nat.+v.a-TT
+###
+#KOODI      EN1XD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5904      
+#SUOMI      Suun ja kaulan pehmytosien muu TT
+#RUOTSI     DT av munhåla och hals (annan)
+#LYHENNE    Suu+kaula, muu TT
+###
+#KOODI_A    ENA
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielun ja ympäröivän pehmytkudoksen koepalan otto tai aukaisu
+#RUOTSI     Biopsi, incision av farynx och närliggande mjukdelar
+#ENGL       Incision and biopsy of pharynx and adjacent structures
+###
+#KOODI      ENA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479+     
+#SUOMI      Nielun pesäkkeen aukaisu
+#RUOTSI     Incision av farynx eller närliggande mjukdelar
+#LYHENNE    Nielun pesäkkeen aukaisu
+#OHJE_S  
+Sisältää dreenin asetuksen
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      ENA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4461      
+#SUOMI      Koepalan otto nielusta
+#RUOTSI     Biopsi av farynx eller närliggande mjukdelar
+#LYHENNE    Koepalan otto nielusta
+###
+#KOODI      ENA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nielun aukaisu
+#RUOTSI     Faryngotomi
+#LYHENNE    Nielun aukaisu
+###
+#KOODI      ENA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nieluavanteen teko
+#RUOTSI     Faryngostomi
+#LYHENNE    Nieluavanteen teko
+###
+#KOODI      ENA32
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4703      
+#SUOMI      Syvän kaulainfektion avaaminen
+#RUOTSI     Inkl. behandling av infektioner med ursprung i svalget
+#LYHENNE    Syvän kaulainfektion avaaminen
+#OHJE_S  
+Sisältää nielusta alkaneiden infektioiden hoidon
+Tuki- ja liikuntaelinten sairauksiin liittyvät toimenpiteet kohdassa NAS00
+#OHJE_R 
+---
+###
+#KOODI_A    ENB
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielun ja ympäröivän pehmytkudoksen poistoleikkaukset
+#RUOTSI     Resektion av farynx och närliggande mjukdelar
+#ENGL       Excision of pharynx and adjacent structures
+###
+#KOODI      ENB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4461      
+#SUOMI      Nielukasvaimen tutkimusleikkaus tai poisto
+#RUOTSI     Excision eller exploration av lokal förändring i farynx
+#LYHENNE    Nielukasvaimen eksploraatio/poisto
+###
+#KOODI      ENB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Alanielun umpipussin poisto
+#RUOTSI     Exstirpation av hypofarynxdivertikel
+#LYHENNE    Alanielun umpipussin poisto
+###
+#KOODI      ENB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4462      
+#SUOMI      Nielun poisto
+#RUOTSI     Faryngektomi
+#LYHENNE    Nielun poisto
+###
+#KOODI      ENB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4463      
+#SUOMI      Kurkunpään ja nielun poisto
+#RUOTSI     Laryngofaryngektomi
+#LYHENNE    Kurkunpään ja nielun poisto
+###
+#KOODI      ENB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4702      
+#SUOMI      Lateraalisen kaulakystan tai -avanteen poisto
+#RUOTSI     Exstirpation av lateral halscysta eller -fistel
+#LYHENNE    Lateraalisen kaulakystan/avanteen poisto
+#OHJE_S  
+Preaurikulaarisen fistelin poisto kohdassa DAB20
+#OHJE_R 
+---
+###
+#KOODI      ENB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4702      
+#SUOMI      Kilpirauhas-kielitiehyeen poisto
+#RUOTSI     Exstirpation av ductus thyreoglossus
+#LYHENNE    Kilpirauhas-kielitiehyeen poisto
+#OHJE_S  
+Sisältää mediaalisen kaulakystan  tai fistelin hoidon
+#OHJE_R 
+Inkl medial halscysta eller -fistel
+###
+#KOODI      ENB60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4472      
+#SUOMI      Puikkolisäkkeen poisto
+#RUOTSI     Exstirpation av processus styloideus
+#LYHENNE    Puikkolisäkkeen poisto
+###
+#KOODI      ENB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4469      
+#SUOMI      Muu nielun ja ympäröivien pehmytkudosten poistoleikkaus
+#RUOTSI     Annan resektion av farynx och närliggande mjukdelar
+#LYHENNE    Muu nielu/ymp pehmytkudospoistoleikkaus
+###
+#KOODI_A    ENC
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nielun ja ympäröivän pehmytkudoksen korjaamisleikkaukset
+#RUOTSI     Operationer på glomus caroticum, se BDA
+#ENGL       Reconstructive operations on pharynx and adjacent structures
+#OHJE_S  
+Hankarauhasen leikkaukset  kohdassa BDA
+#OHJE_R 
+---
+###
+#KOODI      ENC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nielun ja ympäröivän pehmytkudoksen haavan ompelu
+#RUOTSI     Suturering av sår i farynx eller närliggande mjukdelar
+#LYHENNE    Nielu/ymp pehmytkudoksen haavan ompelu
+#OHJE_S  
+Sisältää haavan puhdistuksen
+#OHJE_R 
+---
+###
+#KOODI      ENC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4469      
+#SUOMI      Vierasesineen poisto nielusta
+#RUOTSI     Avlägsnande av främmande föremål från farynx eller närliggande mjukdelar
+#LYHENNE    Vierasesineen poisto nielusta
+###
+#KOODI      ENC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Rengasrustolihaksen katkaisu
+#RUOTSI     Myotomi av m. cricopharyngeus
+#LYHENNE    Rengasrustolihaksen katkaisu
+###
+#KOODI      ENC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nielun muovausleikkaus
+#RUOTSI     Plastikoperation av farynx
+#LYHENNE    Nielun muovausleikkaus
+#OHJE_S  
+Esim.  kitakielekkeen muovaus
+#OHJE_R 
+Inkl uvulaplastik
+###
+#KOODI      ENC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Uvulopalatopharyngo -muovausleikkaus
+#RUOTSI     Uvulo-palato-faryngoplastik
+#LYHENNE    Uvulopalatopharyngo -muovausleikkaus
+###
+#KOODI      ENC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nieluavanteen sulkeminen
+#RUOTSI     Slutning av farynxfistel
+#LYHENNE    Nieluavanteen sulkeminen
+###
+#KOODI      ENC60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nielukiinnikkeiden vapautus
+#RUOTSI     Adherenslösning i farynx
+#LYHENNE    Nielukiinnikkeiden vapautus
+###
+#KOODI      ENC70
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Nielun muovausleikkaus avohonotuksen takia
+#RUOTSI     Operation på svalget för öppen rinolali, rhinolalia aperta
+#LYHENNE    Nielun muovausleikkaus, avohonotus
+###
+#KOODI      ENC80
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Pehmeän suulaen muovausleikkaus avohonotuksen takia
+#RUOTSI     Operation på mjuka gommen för öppen rinolali, rhinolalia aperta
+#LYHENNE    Pehmeän suulaen muovausleikk, avohonotus
+#OHJE_S  
+Velofaryngeoplastia
+#OHJE_R 
+Velofaryngoplastik
+###
+#KOODI      ENC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Muu nielun ja ympäröivän pehmytkudoksen korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av farynx eller närliggande mjukdelar
+#LYHENNE    Muu nielun/ymp pehmytkudoksen korjaus
+###
+#KOODI_A    ENW
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut nielun ja ympäröivän pehmytkudosen leikkaukset
+#RUOTSI     Andra operationer på farynx och närliggande mjukdelar
+#ENGL       Other operations on pharynx and adjacent structures
+###
+#KOODI      ENW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Muu nielun ja ympäröivän pehmytkudoksen leikkaus
+#RUOTSI     Annan operation på farynx eller närliggande mjukdelar
+#LYHENNE    Muu nielu/ymp pehmytkudoksen leikkaus
+###
+#KOODI      EP1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6351      
+#SUOMI      Kaulan UÄ
+#RUOTSI     UL av halsen
+#LYHENNE    Kaulan UÄ
+###
+#KOODI      EP1AT
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kaulan pehmytkudosmuutoksen punktio UÄ-ohjauksessa
+#RUOTSI     Punktion av mjukdelar på halsen med UL-styrning
+#LYHENNE    Kaulapunkio,UÄ-ohj
+###
+#KOODI      EP1BF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8115      
+#SUOMI      Kaulan pehmytosien magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av halsens mjukdelar med mellanfältsmagnet
+#LYHENNE    Kaulan KKMT
+###
+#KOODI      EP1BG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8215      
+#SUOMI      Kaulan pehmytosien magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av halsens mjukdelar med högfältsmagnet
+#LYHENNE    Kaulan VKMT
+###
+#KOODI      EP1CF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8116      
+#SUOMI      Kaulan laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av halsens mjukdelar, omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Kaulan l.KKMT
+###
+#KOODI      EP1CG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8216      
+#SUOMI      Kaulan laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av halsens mjukdelar, omfattande undersökning med högfältsmagnet
+#LYHENNE    Kaulan l.VKMT
+###
+#KOODI      EP1DF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8117      
+#SUOMI      Kaulan erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av halsens mjukdelar, speciellt omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Kaulan er.l.KKMT
+###
+#KOODI      EP1DG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8217      
+#SUOMI      Kaulan erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av halsens mjukdelar, speciellt omfattande undersökning med högfältsmagnet
+#LYHENNE    Kaulan er.l.VKMT
+###
+#KOODI      EP2AT
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kaulan pehmytkudosmuutoksen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd finnålsbiopsi från halsens mjukdelar
+#LYHENNE    Kaulapunkio,solun,UÄ
+###
+#KOODI      EP3AT
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kaulan pehmytkudosmuutoksen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd biopsi från halsens mjukdelar
+#LYHENNE    Kaulapunkt,kudosn,UÄ
+###
+#KOODI_R    EW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leuka-, hammas-, suu- ja nieluleikkausten haavakomplikaatioleikkaukset
+#RUOTSI     Reoperationer föranledda av sårkomplikationer som följd av läpp-, tand-, käk-, mun- eller svalgoperation
+#ENGL       Reoperations for complications in surgery of teeth, jaws, mouth and pharynx
+###
+#KOODI      EWA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4901      
+#SUOMI      Auenneen tai tulehtuneen leuka-, suu- tai nieluleikkaushaavan tarkistaminen
+#RUOTSI     Revision av sårruptur/sårinfektion efter käk-, mun- eller svalgoperation
+#LYHENNE    Leuka/hammas/suu/nieluhaavarevisio,infek
+###
+#KOODI      EWD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4901      
+#SUOMI      Uusintaleikkaus leuka-, suu-, tai nieluleikkauksen haavan vuodon vuoksi
+#RUOTSI     Revision av blödning efter käk-, mun- eller svalgoperation
+#LYHENNE    Leuka/hammas/suu/nieluhaavarevisio,vuoto
+###
+#KOODI      EWW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4901      
+#SUOMI      Muu leuka-, suu- ja nieluleikkauksen haavakomplikaatioleikkaus
+#RUOTSI     Revision av annan komplikation efter käk-, mun- eller svalgoperation
+#LYHENNE    Leuka/hammas/suu/nieluhaavarevisio,muu
+###
+#KOODI_A    EX0
+#MUUT_PVM   1996/06/05
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Suun ja nielun alueen sädehoito
+#RUOTSI     Strålbehandling av mun och svalg regionen
+#ENGL       
+#OHJE_S  
+Sisältää huulet, suuontelon, sylkirauhaset ja nielun sekä nenänielun choana-tasoa myöten
+#OHJE_R 
+Inkl läppar, munhåla, svalg och spottkörtlar
+###
+#KOODI      EX001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito suun ja nielun alueen primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i mun eller svalg
+#LYHENNE    
+###
+#KOODI      EX002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali suun ja nielun alueen primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i mun eller svalg
+#LYHENNE    
+###
+#KOODI      EX003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito suun ja nielun alueen primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i mun eller svalg
+#LYHENNE    
+###
+#KOODI      EX004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito suun ja nielun alueen primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i mun eller svalg
+#LYHENNE    
+###
+#KOODI      EX029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito suun ja nielun alueen paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokal recidivtumör i mun eller svalg
+#LYHENNE    
+###
+#KOODI      EX049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito suun ja nielun alueella ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i mun eller svalg
+#LYHENNE    
+###
+#KOODI      EX090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito suun ja nielun alueen profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av mun och svalg
+#LYHENNE    
+###
+#KOODI      EX099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu suun ja nielun alueen sädehoito
+#RUOTSI     Annan strålbehandling av mun och svalg
+#LYHENNE    Muu suun ja nielun alueen sädehoito

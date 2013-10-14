@@ -1,0 +1,4362 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU L
+
+@LUVUT_S = KAPITEL L
+
+@SUOMI_L = Naisen sukupuoliemet
+
+@RUOTSI_L = Kvinnliga genitalier
+
+@ENGL_L = Female genital organs
+
+@NOTE_LF = Vatsaontelon toimenpiteet ks. luku J. - esim.  tähystys kohdassa JAH01
+
+@NOTE_LF =
+Vatsaontelon elimiin levinneiden muutosten (metastaasi, endometrioosi) toimenpiteet koodataan ko elimen mukaisesti.
+
+@NOTE_LS = Åtgärder i bukhålan, se kapitel J t.ex laparoskopi JAH01
+
+@NOTE_LS =
+Spridda lokala förändringar (metastas, endometrios) i abdominala organ koderas till organet i fråga
+
+@END_L = 
+
+@KOODI_R = LA
+
+@SUOMI_R = Munasarjat
+
+@RUOTSI_R = Ovarier
+
+@ENGL_R = Ovary
+
+@END = 
+
+@KOODI_A = LA_
+
+@NCSP_A = LAD
+
+@SUOMI_A = Munasarjan diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av ovarium
+
+@ENGL_A = Diagnostic radiology of ovary
+
+@END = 
+
+@KOODI = LA2AE 
+
+@NCSP = LADE2A
+
+@SUOMI = Munasarjarakkulan UÄ (follikkelin UÄ)
+
+@RUOTSI = Follikel UL av äggstockar
+
+@END = 
+
+@KOODI = LA2HE 
+
+@NCSP = LADE2H
+
+@SUOMI = Munasarjarakkulan uudelleen mittaus
+
+@RUOTSI = Upprepad mätning av follilkel i äggstockarna med UL
+
+@END = 
+
+@KOODI = LA2JE 
+
+@NCSP = LADE2H
+
+@SUOMI = Kuukautiskierron kartoitus toistetulla follikkelin UÄ-mittauksella
+
+@RUOTSI = Precisering av menstruationcykeln med upprepade UL follikelmätningar
+
+@END = 
+
+@KOODI_A = LA0
+
+@NCSP_A = LAO
+
+@SUOMI_A = Munasarjojen ja munajohtimien sädehoito
+
+@RUOTSI_A = Strålbehandling av ovarium
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = LA001 
+
+@NCSP = LAO001
+
+@SUOMI = Sädehoito munasarjojen ja munajohtimien primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA002 
+
+@NCSP = LAO002
+
+@SUOMI = Radikaali munasarjojen ja munajohtimien primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA003 
+
+@NCSP = LAO003
+
+@SUOMI = Sädehoito munasarjojen ja munajohtimien primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA004 
+
+@NCSP = LAO004
+
+@SUOMI = Sädehoito munasarjojen ja munajohtimien primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA029 
+
+@NCSP = LAO029
+
+@SUOMI = Sädehoito munasarjojen ja munajohtimien paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt primärtumör i äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA049 
+
+@NCSP = LAO049
+
+@SUOMI = Sädehoito munasarjoissa tai munajohtimissa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA090 
+
+@NCSP = LAO090
+
+@SUOMI = Sädehoito munasarjojen ja munajohtimien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av äggstocket eller äggledare
+
+@END = 
+
+@KOODI = LA099 
+
+@NCSP = LAO099
+
+@SUOMI = Muu munasarjojen sädehoito
+
+@RUOTSI = Annan strålbehandling av ovarium
+
+@END = 
+
+@KOODI_A = LAA
+
+@NCSP_A = LASA
+
+@SUOMI_A = Munasarjan pistot ja tähystykset
+
+@RUOTSI_A = Punktion av ovarium
+
+@ENGL_A = Puncture of ovary
+
+@NOTE_RF = Sisältää ultraääniohjauksen
+
+@NOTE_RF =
+Luonnollisen aukon tai avanteen kautta tehty tähystys sisältää biopsian tai solunäytteen oton
+
+@NOTE_RF =
+
+
+@NOTE_RS = Inkl ultraljudsutstyrd
+
+@NOTE_RS =
+Transluminal endoskopi innefattar biops och provtagning för cytologi
+
+@END = 
+
+@KOODI = LAA00 
+
+@NCSP = LASA00
+
+@SUOMI = Munasarjarakkulan tyhjennys neulalla
+
+@RUOTSI = Punktion av ovarialcysta vid laparotomi
+
+@END = 
+
+@KOODI = LAA01 
+
+@NCSP = LASA01
+
+@SUOMI = Munasarjarakkulan tyhjennys neulalla vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk punktion av ovarialcysta
+
+@END = 
+
+@KOODI = LAA03 
+
+@NCSP = LASA03
+
+@SUOMI = Munasarjarakkulan tyhjennys neulalla iholta
+
+@RUOTSI = Perkutan punktion av ovarialcysta
+
+@END = 
+
+@KOODI = LAA06 
+
+@NCSP = LASA06
+
+@SUOMI = Munasarjarakkulan tyhjennys neulalla emättimestä
+
+@RUOTSI = Transvaginal punktion av ovarialcysta
+
+@END = 
+
+@KOODI = LAA10 
+
+@NCSP = LASA10
+
+@SUOMI = Munasolun ottaminen munasarjasta iholta käsin tai emättimestä
+
+@RUOTSI = Perkutan eller transvaginal punktion med uthämtning av ägg
+
+@END = 
+
+@KOODI = LAA11 
+
+@NCSP = LASA11
+
+@SUOMI = Munasolun ottaminen munasarjasta tähystysteitse
+
+@RUOTSI = Laparoskopisk uthämtning av ägg
+
+@END = 
+
+@KOODI = LAA20 
+
+@NCSP = LASA20
+
+@SUOMI = Lääkeen ruiskuttaminen munasarjaraskauteen iholta käsin tai emättimestä
+
+@RUOTSI = Perkutan eller transvaginal injektion av läkemedel för behandling av ovarialgraviditet
+
+@END = 
+
+@KOODI = LAA31 
+
+@NCSP = LASA31
+
+@SUOMI = Munasarjantähystys
+
+@RUOTSI = Ovarioskopi
+
+@END = 
+
+@KOODI = LAA96 
+
+@NCSP = LASA96
+
+@SUOMI = Muu iholta tai emättimestä käsin tehty munasarjapisto
+
+@RUOTSI = Annan perkutan eller transvaginal punktion av ovarium
+
+@END = 
+
+@KOODI = LAA97 
+
+@NCSP = LASA97
+
+@SUOMI = Muu munasarjan pisto tähystyksessä
+
+@RUOTSI = Annan laparoskopisk punktion av ovarium
+
+@END = 
+
+@KOODI_A = LAB
+
+@NCSP_A = LASB
+
+@SUOMI_A = Munasarjan aukaisut ja kudosnäytteen otot
+
+@RUOTSI_A = Incision och biopsi av ovarium
+
+@ENGL_A = Incision and biopsy of ovary
+
+@NOTE_RF = Kudosnäytteen otto munasarjasta neulalla TLA00
+
+@NOTE_RS = Perkutan biopsi TLA00
+
+@END = 
+
+@KOODI = LAB00 
+
+@NCSP = LASB00
+
+@SUOMI = Munasarjan aukaisu
+
+@RUOTSI = Öppen ovariotomi
+
+@NOTE_F = Sisältää vierasesineen poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = LAB01 
+
+@NCSP = LASB01
+
+@SUOMI = Munasarjan aukaisu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk ovariotomi
+
+@NOTE_F = Sisältää vierasesineen poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = LAB10 
+
+@NCSP = LASB10
+
+@SUOMI = Koepalan otto munasarjasta
+
+@RUOTSI = Öppen biopsi av ovarium
+
+@END = 
+
+@KOODI = LAB11 
+
+@NCSP = LASB11
+
+@SUOMI = Koepalan otto munasarjasta vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk biopsi av ovarium
+
+@END = 
+
+@KOODI = LAB21 
+
+@NCSP = LASB21
+
+@SUOMI = Kudosnäytteen otto munasarjasta neulalla vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk punktionsbiopsi av ovarium
+
+@END = 
+
+@KOODI = LAB96 
+
+@NCSP = LASB96
+
+@SUOMI = Muu munasarjan aukaisu tai kudosnäytteen otto
+
+@RUOTSI = Annan öppen incision eller biopsi av ovarium
+
+@END = 
+
+@KOODI = LAB97 
+
+@NCSP = LASB97
+
+@SUOMI = Muu munasarjan aukaisu tai kudosnäytteen otto vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk incision eller biopsi av ovarium
+
+@END = 
+
+@KOODI_A = LAC
+
+@NCSP_A = LASC
+
+@SUOMI_A = Munasarjamuutosten poistoleikkaukset ja vastaavat
+
+@RUOTSI_A = Resektion av ovarium och destruktion av förändring i ovarium
+
+@ENGL_A = Excision or destruction of lesion of ovary
+
+@END = 
+
+@KOODI = LAC00 
+
+@NCSP = LASC00
+
+@SUOMI = Munasarjarakkulan poisto
+
+@RUOTSI = Öppen enukleation av ovarialcysta
+
+@END = 
+
+@KOODI = LAC01 
+
+@NCSP = LASC01
+
+@SUOMI = Munasarjarakkulan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk enukleation av ovarialcysta
+
+@END = 
+
+@KOODI = LAC10 
+
+@NCSP = LASC10
+
+@SUOMI = Munasarjarakkulan aukaisu ja reunan ompelu
+
+@RUOTSI = Öppen fenestrering eller marsupialisation av ovarialcysta
+
+@END = 
+
+@KOODI = LAC11 
+
+@NCSP = LASC11
+
+@SUOMI = Munasarjarakkulan aukaisu ja reunan ompelu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk fenestrering eller marsupialisation av ovarialcysta
+
+@END = 
+
+@KOODI = LAC20 
+
+@NCSP = LASC20
+
+@SUOMI = Munasarjamuutosten poisto
+
+@RUOTSI = Destruktion av förändring i ovarium (öppen operation)
+
+@NOTE_F = Esim. endometrioosin poltto, polykystisen munasarjan kapselin pisto
+
+@NOTE_S = Inkl koagulation av endometrios, kapselpunktioner vid polycystiskt ovarium (PCO)
+
+@END = 
+
+@KOODI = LAC21 
+
+@NCSP = LASC21
+
+@SUOMI = Munasarjamuutosten poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk destruktion av förändring i ovarium
+
+@END = 
+
+@KOODI = LAC30 
+
+@NCSP = LASC30
+
+@SUOMI = Munajohdinliepeen rakkulan poisto
+
+@RUOTSI = Öppen exstirpation av parovarialcysta
+
+@END = 
+
+@KOODI = LAC31 
+
+@NCSP = LASC31
+
+@SUOMI = Munajohdinliepeen rakkulan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk exstirpation av parovarialcysta
+
+@END = 
+
+@KOODI = LAC96 
+
+@NCSP = LASC96
+
+@SUOMI = Muu munasarjamuutosten poistoleikkaus tai vastaava
+
+@RUOTSI = Annan öppen resektion av ovarium eller destruktion av förändring i ovarium
+
+@END = 
+
+@KOODI = LAC97 
+
+@NCSP = LASC97
+
+@SUOMI = Muu munasarjamuutosten poistoleikkaus tai vastaava tähystyksessä ihon läpi
+
+@RUOTSI = Annan laparoskopisk resektion av ovarium eller destruktion av förändring i ovarium
+
+@END = 
+
+@KOODI_A = LAD
+
+@NCSP_A = LASD
+
+@SUOMI_A = Munasarjan osittaiset poistot
+
+@RUOTSI_A = Delresektioner av ovarier
+
+@ENGL_A = Partial excision of ovary
+
+@END = 
+
+@KOODI = LAD00 
+
+@NCSP = LASD00
+
+@SUOMI = Munasarjan osan poisto
+
+@RUOTSI = Delresektion av ovarium
+
+@END = 
+
+@KOODI = LAD01 
+
+@NCSP = LASD01
+
+@SUOMI = Munasarjan osan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk delresektion av ovarium
+
+@END = 
+
+@KOODI_A = LAE
+
+@NCSP_A = LASE
+
+@SUOMI_A = Munasarjojen poistot
+
+@RUOTSI_A = Ooforektomier
+
+@ENGL_A = Total excision of ovary
+
+@END = 
+
+@KOODI = LAE10 
+
+@NCSP = LASE10
+
+@SUOMI = Toisen munasarjan poisto
+
+@RUOTSI = Öppen unilateral ooforektomi
+
+@END = 
+
+@KOODI = LAE11 
+
+@NCSP = LASE11
+
+@SUOMI = Toisen munasarjan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk unilateral ooforektomi
+
+@END = 
+
+@KOODI = LAE20 
+
+@NCSP = LASE20
+
+@SUOMI = Munasarjojen poisto
+
+@RUOTSI = Öppen bilateral ooforektomi
+
+@END = 
+
+@KOODI = LAE21 
+
+@NCSP = LASE21
+
+@SUOMI = Munasarjojen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk bilateral ooforektomi
+
+@END = 
+
+@KOODI_A = LAF
+
+@NCSP_A = LASF
+
+@SUOMI_A = Munanjohtimien ja munasarjojen poistoleikkaukset
+
+@RUOTSI_A = Salpingo-ooforektomier
+
+@ENGL_A = Excision of ovary and Fallopian tube
+
+@NOTE_RF = Kohdun, sivuelimien, suoliliepeen ja lantio- ja aorttaimusolmukkeiden poisto munasarjasyövän takia kohdassa LCD
+
+@NOTE_RF =
+Munasarjasyövän uusintaleikkaus solunsalpaajahoidon jälkeen tai muu tarkistusleikkaus koodataan tehdyn toimenpiteen mukaan (LAB00, LAF00-11) sekä lisäkoodilla ZSL00
+
+@NOTE_RS = Excision av uterus, adenex, oment och lymfkörtlar i bäcken och para-aortalt för ovarial cancer, se LCD
+
+@NOTE_RS =
+Reoperation för ovarial cancer efter sytostatikabehandling eller  annan second look -operation anges med kod för åtgärdet (LAB00, LAF00-11) samt tilläggskod ZSL00
+
+@END = 
+
+@KOODI = LAF00 
+
+@NCSP = LASF00
+
+@SUOMI = Toisen munanjohtimen ja munasarjan poisto
+
+@RUOTSI = Öppen unilateral salpingo-ooforektomi
+
+@END = 
+
+@KOODI = LAF01 
+
+@NCSP = LASF01
+
+@SUOMI = Toisen munanjohtimen ja munasarjan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk unilateral salpingo-ooforektomi
+
+@END = 
+
+@KOODI = LAF10 
+
+@NCSP = LASF10
+
+@SUOMI = Molempien munanjohtimien ja munasarjojen poisto
+
+@RUOTSI = Öppen bilateral salpingo-ooforektomi
+
+@END = 
+
+@KOODI = LAF11 
+
+@NCSP = LASF11
+
+@SUOMI = Molempien munanjohtimien ja munasarjojen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk bilateral salpingo-ooforektomi
+
+@END = 
+
+@KOODI = LAF20 
+
+@NCSP = LASF20
+
+@SUOMI = Munasarjan ja munajohtimen poisto emättimen kautta
+
+@RUOTSI = Transvaginal salpingo-oophorectomi
+
+@END = 
+
+@KOODI_A = LAG
+
+@NCSP_A = LASG
+
+@SUOMI_A = Munasarjojen korjaavat toimenpiteet
+
+@RUOTSI_A = Rekonstruktiva operationer på ovarier
+
+@ENGL_A = Reconstructive operations on ovary
+
+@END = 
+
+@KOODI = LAG00 
+
+@NCSP = LASG00
+
+@SUOMI = Munasarjakiinnikkeiden irroittelu
+
+@RUOTSI = Ovariolys (öppen operation)
+
+@END = 
+
+@KOODI = LAG01 
+
+@NCSP = LASG01
+
+@SUOMI = Munasarjakiinnikkeiden irroittelu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk ovariolys
+
+@END = 
+
+@KOODI = LAG10 
+
+@NCSP = LASG10
+
+@SUOMI = Munasarjan kiinnitys
+
+@RUOTSI = Öppen ooforopexi
+
+@END = 
+
+@KOODI = LAG11 
+
+@NCSP = LASG11
+
+@SUOMI = Munasarjan kiinnitys vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk ooforopexi
+
+@END = 
+
+@KOODI = LAG20 
+
+@NCSP = LASG20
+
+@SUOMI = Munasarjan kiertymän oikaisu
+
+@RUOTSI = Öppen detorkvering av ovarialtorsion
+
+@NOTE_F = Sisältää munatorven samanaikaisen kiertymän oikaisun
+
+@NOTE_S = Inkl ev detorkverering av tuba
+
+@END = 
+
+@KOODI = LAG21 
+
+@NCSP = LASG21
+
+@SUOMI = Munasarjan kiertymän oikaisu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk detorkvering av ovarialtorsion
+
+@END = 
+
+@KOODI = LAG96 
+
+@NCSP = LASG96
+
+@SUOMI = Muu korjaava munasarjatoimenpide
+
+@RUOTSI = Annan öppen rekonstruktiv operation på ovarium
+
+@END = 
+
+@KOODI = LAG97 
+
+@NCSP = LASG97
+
+@SUOMI = Muu korjaava munasarjatoimenpide vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk rekonstruktiv operation på ovarium
+
+@END = 
+
+@KOODI_A = LAW
+
+@NCSP_A = LASW
+
+@SUOMI_A = Muut munasarjaleikkaukset
+
+@RUOTSI_A = Andra operationer på ovarier
+
+@ENGL_A = Other operations on ovary
+
+@END = 
+
+@KOODI = LAW96 
+
+@NCSP = LASW96
+
+@SUOMI = Muu munasarjaleikkaus
+
+@RUOTSI = Annan öppen operation på ovarium
+
+@END = 
+
+@KOODI = LAW97 
+
+@NCSP = LASW97
+
+@SUOMI = Muu munasarjaleikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk operation på ovarium
+
+@END = 
+
+@KOODI_A = LA_
+
+@NCSP_A = LAX
+
+@SUOMI_A = Muut munasarjojen toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på ovarium
+
+@ENGL_A = Other procedures  of ovary
+
+@END = 
+
+@KOODI = LA1AT 
+
+@NCSP = LAXT1A
+
+@SUOMI = Munasarjapunktio UÄ-ohjauksessa
+
+@RUOTSI = Ovariepunktion, UL-styrd
+
+@END = 
+
+@KOODI = TLA00 
+
+@NCSP = LAXX00
+
+@SUOMI = Munasarjan pisto
+
+@RUOTSI = Punktion av ovarium
+
+@NOTE_F = Sisältää kudosnäytteen oton
+
+@NOTE_F =
+Ultraääniohjauksessa, katso LA1AT
+
+@NOTE_S = Innefattar biopsi
+
+@NOTE_S =
+Ultraljudsutstyrd, se LA1AT
+
+@NOTE_S =
+
+
+@END = 
+
+@KOODI_R = LB
+
+@SUOMI_R = Munanjohtimet
+
+@RUOTSI_R = Äggledare
+
+@ENGL_R = Fallopian tube
+
+@NOTE_RF = Sterilisaatiot kohdassa LG
+
+@NOTE_RS = Sterilisationsoperationer, se LG
+
+@END = 
+
+@KOODI_A = LB_
+
+@NCSP_A = LBD
+
+@SUOMI_A = Munajohtimien diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av äggledare
+
+@ENGL_A = Diagnostic radiology of fallopian tube
+
+@END = 
+
+@KOODI = LB1GB 
+
+@NCSP = LBDB1G
+
+@SUOMI = Kohdun ja munajohdinten varjoainetutkimus (hysterosalpingograf)
+
+@RUOTSI = Hysterosalpingografi
+
+@END = 
+
+@KOODI = LB1LB 
+
+@NCSP = LBDB1L
+
+@SUOMI = Sukupuolitiehyiden varjoainetutkimus (genitografia)
+
+@RUOTSI = Genitografi
+
+@END = 
+
+@KOODI_A = LB_
+
+@NCSP_A = LBE
+
+@SUOMI_A = Munajohtimien tähystys
+
+@RUOTSI_A = Endoskopi av äggledare
+
+@ENGL_A = Endoscopy of fallopian tube
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = ULB02 
+
+@NCSP = LBE002
+
+@SUOMI = Munanjohtimen tähystys kohdun kautta
+
+@RUOTSI = Falloposkopi
+
+@NOTE_F = Salpingoskopia vatsaontelon kautta LBA 07
+
+@NOTE_F =
+Ei sisällä tähystyksessä tehtyjä leikkauksia (LBA98)
+
+@NOTE_S = Endoskopi av äggledare
+
+@NOTE_S =
+Salpingoskopi (genom bukhålan), se LBA
+
+@END = 
+
+@KOODI_A = LBA
+
+@NCSP_A = LBSA
+
+@SUOMI_A = Munanjohtimien pisto ja tähystys
+
+@RUOTSI_A = Puktion och laparoskopi av äggledare
+
+@ENGL_A = Puncture and endoscopy of Fallopian tubes
+
+@NOTE_RF = Myös ultraääniohjattuna
+
+@NOTE_RF =
+Kohdunulkoisen raskauden takia tehdyt toimenpiteet, katso LBC
+
+@NOTE_RF =
+Munatorven sisätilan tähystys, falloposkopia ULB02
+
+@NOTE_RS = Inkl. ultraljudutstyrd
+
+@NOTE_RS =
+Åtgärder för tubargraviditet, se LBC
+
+@NOTE_RS =
+Endoskopi av äggledare, falloposkopi, se ULB02
+
+@END = 
+
+@KOODI = LBA00 
+
+@NCSP = LBSA00
+
+@SUOMI = Munanjohtimen pisto ihon läpi
+
+@RUOTSI = Perkutan punktion av äggledare
+
+@END = 
+
+@KOODI = LBA01 
+
+@NCSP = LBSA01
+
+@SUOMI = Munajohtimien pisto vatsaontelontähystyksessä
+
+@RUOTSI = Laparoskopisk punktion av äggledare
+
+@END = 
+
+@KOODI = LBA03 
+
+@NCSP = LBSA03
+
+@SUOMI = Munajohtimen pisto emättimen kautta
+
+@RUOTSI = Transvaginal punktion av äggledare
+
+@END = 
+
+@KOODI = LBA07 
+
+@NCSP = LBSA07
+
+@SUOMI = Munanjohtimen tähystys vatsaontelon kautta
+
+@RUOTSI = Salpingoskopi
+
+@END = 
+
+@KOODI_A = LBB
+
+@NCSP_A = LBSB
+
+@SUOMI_A = Kudosnäytteiden otot munanjohtimesta
+
+@RUOTSI_A = Biopsi av äggledare
+
+@ENGL_A = Biopsy of Fallopian tube
+
+@NOTE_RF = Neulakudosnäytteen otto munanjohtimesta TLB00
+
+@NOTE_RF =
+Munajohtimen tähystys (ja koepalan otto) ULB02
+
+@NOTE_RS = Nålbiopsi från ovariet, se TLB00
+
+@NOTE_RS =
+Endoskopi av äggledare (med biopsi), se ULB02
+
+@END = 
+
+@KOODI = LBB00 
+
+@NCSP = LBSB00
+
+@SUOMI = Koepalan otto munanjohtimesta
+
+@RUOTSI = Öppen biopsi av äggledare
+
+@END = 
+
+@KOODI = LBB01 
+
+@NCSP = LBSB01
+
+@SUOMI = Koepalan otto munanjohtimesta vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk biopsi av äggledare
+
+@END = 
+
+@KOODI = LBB04 
+
+@NCSP = LBSB04
+
+@SUOMI = Koepalan otto munanjohtimen sisältä tähystyksessä vatsaontelon kautta
+
+@RUOTSI = Salpingoskopisk biopsi av äggledare
+
+@END = 
+
+@KOODI = LBB11 
+
+@NCSP = LBSB11
+
+@SUOMI = Neulakudosnäytteen otto munanjohtimesta vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk punktionsbiopsi av äggledare
+
+@END = 
+
+@KOODI = LBB96 
+
+@NCSP = LBSB96
+
+@SUOMI = Muu kudosnäytteen otto munanjohtimesta
+
+@RUOTSI = Annan biopsi av äggledare
+
+@END = 
+
+@KOODI_A = LBC
+
+@NCSP_A = LBSC
+
+@SUOMI_A = Munanjohtimen säästävät munanjohdinraskaustoimenpiteet
+
+@RUOTSI_A = Behandling av tubargraviditet utan resektion (med bevarande av tuban)
+
+@ENGL_A = Tube conserving operations for tubal pregnancy
+
+@NOTE_RF = Munajohtimen poisto osittain munajohdinraskauden takia kohdassa LBD
+
+@NOTE_RF =
+Munajohtimen poisto kokonaan munajohdinraskauden takia kohdassa LBE
+
+@NOTE_RS = Partiell tubarresektion för tubargraviditet, se LBD
+
+@NOTE_RS =
+Total salpingektomi för tubargraviditet, se LBE
+
+@END = 
+
+@KOODI = LBC00 
+
+@NCSP = LBSC00
+
+@SUOMI = Lääkkeen ruiskuttaminen munatorviraskauteen iholta käsin
+
+@RUOTSI = Perkutan injektion av läkemedel för behandling av tubargraviditet
+
+@END = 
+
+@KOODI = LBC03 
+
+@NCSP = LBSC03
+
+@SUOMI = Lääkkeen ruiskuttaminen munatorviraskauteen emättimestä käsin
+
+@RUOTSI = Transvaginal injektion av läkemedel för behandling av tubargraviditet
+
+@END = 
+
+@KOODI = LBC07 
+
+@NCSP = LBSC07
+
+@SUOMI = Lääkkeen ruiskuttaminen munatorviraskauteen vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk injektion av läkemedel för behandling av tubargraviditet
+
+@END = 
+
+@KOODI = LBC08 
+
+@NCSP = LBSC08
+
+@SUOMI = Lääkkeen ruiskuttaminen munatorviraskauteen munanjohtimen sisätilan tähystyksessä
+
+@RUOTSI = Falloposkopisk injektion av läkemedel för behandling av tubargraviditet
+
+@END = 
+
+@KOODI = LBC10 
+
+@NCSP = LBSC10
+
+@SUOMI = Raskauden poisto munanjohtimesta ilman munanjohtimen aukaisua
+
+@RUOTSI = Utrymning av tubargraviditet utan salpingotomi (öppen operation)
+
+@END = 
+
+@KOODI = LBC11 
+
+@NCSP = LBSC11
+
+@SUOMI = Raskauden poisto munanjohtimesta ilman munanjohtimen aukaisua vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk utrymning av tubargraviditet utan salpingotomi
+
+@END = 
+
+@KOODI = LBC20 
+
+@NCSP = LBSC20
+
+@SUOMI = Raskauden poisto munanjohdinaukaisusta
+
+@RUOTSI = Öppen salpingotomi med utrymning av tubargraviditet
+
+@END = 
+
+@KOODI = LBC21 
+
+@NCSP = LBSC21
+
+@SUOMI = Raskauden poisto munanjohdinaukaisusta vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk salpingotomi med utrymning av tubargraviditet
+
+@END = 
+
+@KOODI = LBC96 
+
+@NCSP = LBSC96
+
+@SUOMI = Muu avoin säästävä munanjohdinraskauden poisto
+
+@RUOTSI = Annan öppen behandling av tubargraviditet utan resektion
+
+@END = 
+
+@KOODI = LBC97 
+
+@NCSP = LBSC97
+
+@SUOMI = Muu vatsaontelon tähystyksessä tehty säästävä munanjohdinraskauden poisto
+
+@RUOTSI = Annan laparoskopisk behandling av tubargraviditet utan resektion
+
+@END = 
+
+@KOODI = LBC98 
+
+@NCSP = LBSC98
+
+@SUOMI = Muu synnytyskanavan sisätilan tähystyksessä tehty säästävä munanjohdinraskauden poisto
+
+@RUOTSI = Annan transluminal endoskopisk behandling av tubargraviditet utan resektion
+
+@END = 
+
+@KOODI_A = LBD
+
+@NCSP_A = LBSD
+
+@SUOMI_A = Munanjohtimien osittaiset poistot
+
+@RUOTSI_A = Partiell tubarresektion
+
+@ENGL_A = Partial excision of Fallopian tube
+
+@NOTE_RF = Sisältää munanjohdinraskauden
+
+@NOTE_RS = Inkl. tubargraviditet
+
+@END = 
+
+@KOODI = LBD00 
+
+@NCSP = LBSD00
+
+@SUOMI = Munanjohtimen osan poisto
+
+@RUOTSI = Delresektion av tuba (öppen operation)
+
+@END = 
+
+@KOODI = LBD01 
+
+@NCSP = LBSD01
+
+@SUOMI = Munanjohtimen osan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk delresektion av tuba
+
+@END = 
+
+@KOODI_A = LBE
+
+@NCSP_A = LBSE
+
+@SUOMI_A = Munanjohtimien poistot
+
+@RUOTSI_A = Totala salpingektomier
+
+@ENGL_A = Total excision of Fallopian tube
+
+@NOTE_RF = Sisältää munanjohdinraskauden
+
+@NOTE_RF =
+Munasarjan ja munatorven poisto kohdassa LAF
+
+@NOTE_RS = Inkl. tubargraviditet
+
+@NOTE_RS =
+Extirpation av ovariet och aggledare, se LAF
+
+@END = 
+
+@KOODI = LBE00 
+
+@NCSP = LBSE00
+
+@SUOMI = Munanjohtimen poisto
+
+@RUOTSI = Salpingektomi (öppen operation)
+
+@END = 
+
+@KOODI = LBE01 
+
+@NCSP = LBSE01
+
+@SUOMI = Munanjohtimen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk salpingektomi
+
+@END = 
+
+@KOODI_A = LBF
+
+@NCSP_A = LBSF
+
+@SUOMI_A = Munanjohdintoimenpiteet hedelmättömyyden hoitamiseksi
+
+@RUOTSI_A = Operationer på äggledare vid infertilitet
+
+@ENGL_A = Operations on Fallopian tube for infertility
+
+@END = 
+
+@KOODI = LBF00 
+
+@NCSP = LBSF00
+
+@SUOMI = Munanjohtimen huuhtelu
+
+@RUOTSI = Genomspolning av äggledare, pertubation (öppen operation)
+
+@NOTE_F = Pertubatio
+
+@END = 
+
+@KOODI = LBF01 
+
+@NCSP = LBSF01
+
+@SUOMI = Munanjohtimen huuhtelu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk genomspolning av äggledare
+
+@END = 
+
+@KOODI = LBF11 
+
+@NCSP = LBSF11
+
+@SUOMI = Keinohedelmöitys vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk konstgjord befruktning
+
+@NOTE_F = esim. GIFT
+
+@NOTE_S = T.ex. GIFT
+
+@END = 
+
+@KOODI = LBF12 
+
+@NCSP = LBSF12
+
+@SUOMI = Keinohedelmöitys kohduntähystyksessä
+
+@RUOTSI = Hysteroskopisk konstgjord befruktning
+
+@NOTE_F = esim. GIFT
+
+@NOTE_S = T.ex. vid GIFT
+
+@END = 
+
+@KOODI = LBF20 
+
+@NCSP = LBSF20
+
+@SUOMI = Munanjohtimen laajennus katetrin avulla, TCSP
+
+@RUOTSI = Transcervikal tubardilatation med kateter, TCSP
+
+@END = 
+
+@KOODI = LBF30 
+
+@NCSP = LBSF30
+
+@SUOMI = Munanjohtimen kiinnikkeiden irrottelu
+
+@RUOTSI = Öppen salpingolys
+
+@END = 
+
+@KOODI = LBF31 
+
+@NCSP = LBSF31
+
+@SUOMI = Munanjohtimen kiinnikeiden irrottelu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk salpingolys
+
+@END = 
+
+@KOODI = LBF40 
+
+@NCSP = LBSF40
+
+@SUOMI = Munanjohtimen ulokkeiden irrottelu
+
+@RUOTSI = Fimbriolys
+
+@END = 
+
+@KOODI = LBF41 
+
+@NCSP = LBSF41
+
+@SUOMI = Munanjohtimen ulokkeiden irrottelu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk fimbrieplastik
+
+@END = 
+
+@KOODI = LBF50 
+
+@NCSP = LBSF50
+
+@SUOMI = Munanjohtimen aukaisu
+
+@RUOTSI = Öppen salpingostomi
+
+@END = 
+
+@KOODI = LBF51 
+
+@NCSP = LBSF51
+
+@SUOMI = Munanjohtimen aukaisu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk salpingostomi
+
+@END = 
+
+@KOODI = LBF60 
+
+@NCSP = LBSF60
+
+@SUOMI = Munanjohtimen osan poisto ja päiden liittäminen
+
+@RUOTSI = Öppen tubarresektion med anastomos
+
+@END = 
+
+@KOODI = LBF61 
+
+@NCSP = LBSF61
+
+@SUOMI = Munanjohtimen osan poisto ja päiden liittäminen vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk tubarresektion med anastomos
+
+@END = 
+
+@KOODI = LBF70 
+
+@NCSP = LBSF70
+
+@SUOMI = Munanjohtimen osan poisto ja uudelleen liittäminen kohtuun
+
+@RUOTSI = Tubarresektion med reimplantation i uterus (öppen operation)
+
+@END = 
+
+@KOODI = LBF71 
+
+@NCSP = LBSF71
+
+@SUOMI = Munanjohtimen osan poisto ja uudelleen liittäminen kohtuun vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk tubarresektion med reimplantation i uterus
+
+@END = 
+
+@KOODI = LBF96 
+
+@NCSP = LBSF96
+
+@SUOMI = Muu munanjohtimen korjausleikkaus
+
+@RUOTSI = Annan öppen operation på äggledare vid infertilitet
+
+@END = 
+
+@KOODI = LBF97 
+
+@NCSP = LBSF97
+
+@SUOMI = Muu munanjohtimen korjausleikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk operation på äggledare vid infertilitet
+
+@END = 
+
+@KOODI_A = LBW
+
+@NCSP_A = LBSW
+
+@SUOMI_A = Muut munajohtimien leikkaukset
+
+@RUOTSI_A = Andra operationer på äggledare
+
+@ENGL_A = Other operations on Fallopian tube
+
+@END = 
+
+@KOODI = LBW96 
+
+@NCSP = LBSW96
+
+@SUOMI = Muu munajohtimen leikkaus
+
+@RUOTSI = Annan öppen operation på äggledare
+
+@END = 
+
+@KOODI = LBW97 
+
+@NCSP = LBSW97
+
+@SUOMI = Muu munajohtimen leikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk operation på äggledare
+
+@END = 
+
+@KOODI = LBW98 
+
+@NCSP = LBSW98
+
+@SUOMI = Muu munajohtimen leikkaus kohduntähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk operation på äggledare
+
+@END = 
+
+@KOODI_A = LB_
+
+@NCSP_A = LBX
+
+@SUOMI_A = Muut munajohtimien toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på äggledare
+
+@ENGL_A = Other procedures of fallopian tube
+
+@END = 
+
+@KOODI = LB1AT 
+
+@NCSP = LBXX00
+
+@SUOMI = Munajohtimen punktio UÄ-ohjauksessa
+
+@RUOTSI = Äggledarpunktion  UL-styrd
+
+@END = 
+
+@KOODI = TLB00 
+
+@NCSP = LBXX00
+
+@SUOMI = Munajohtimen pisto
+
+@RUOTSI = Punktion av tuba
+
+@NOTE_F = Sisältää kudosnäyteen oton
+
+@NOTE_F =
+Ultraääniohjauksessa, katso LB1AT
+
+@NOTE_S = Innefattar biopsi
+
+@NOTE_S =
+Ultraljudsutstyrd, se LB1AT
+
+@END = 
+
+@KOODI = LB1YT 
+
+@NCSP = LBXX10
+
+@SUOMI = Munajohtimen katetrisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Äggledarkatetrisring, radiologiskt styrd
+
+@END = 
+
+@KOODI_R = LC
+
+@SUOMI_R = Kohtu ja sen kannatinsiteet
+
+@RUOTSI_R = Uterus och dess upphängningsapparat
+
+@ENGL_R = Uterus and uterine ligaments
+
+@NOTE_RF = Kohdun kaulaosa kohdassa LD
+
+@NOTE_RF =
+Emättimen kautta tehtävät laskeumaleikkaukset kohdassa LEF
+
+@NOTE_RF =
+Sterilisaatio kohduntähystyksessä kohdassa LG
+
+@NOTE_RF =
+Raskaudenaikaiset kohduntähystystoimenpiteet kohdassa MAA
+
+@NOTE_RS = Operationer på cervix uteri, se LD
+
+@NOTE_RS =
+Vaginala operationer för uterusprolaps, se LEF
+
+@NOTE_RS =
+Hysteroskopisk sterilisation, se LG
+
+@NOTE_RS =
+Hysteroskopiska operationer under graviditet, se MAA
+
+@END = 
+
+@KOODI_A = LC_
+
+@NCSP_A = LCD
+
+@SUOMI_A = Kohdun ja sen kannatinsiteiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av uterus och dess upphängningsapparat
+
+@ENGL_A = Diagnostic radiology of uterus and uterine ligaments
+
+@END = 
+
+@KOODI = LC2AE 
+
+@NCSP = LCDE2A
+
+@SUOMI = Kohdun ja sivuelinten UÄ
+
+@RUOTSI = Livmoder och parametrier, UL
+
+@END = 
+
+@KOODI = LC2BE 
+
+@NCSP = LCDE2A
+
+@SUOMI = Kohdun, sivuelinten ja alavatsan UÄ
+
+@RUOTSI = Livmoder, parametrier och nedre delen av buken, UL
+
+@END = 
+
+@KOODI = LC2DE 
+
+@NCSP = LCDE2A
+
+@SUOMI = Kohdun, sivuelinten ja alavatsan vaativa UÄ erikoistekniikoin
+
+@RUOTSI = Livmoder, parametrier och nedre delen av buken, UL med speciell teknik
+
+@END = 
+
+@KOODI = LC2HE 
+
+@NCSP = LCDE2H
+
+@SUOMI = Kohdun ja munajohtimien UÄ varjoainetta käyttäen (HSG-UÄ)
+
+@RUOTSI = Livmoder och äggledarna, UL med kontrast
+
+@END = 
+
+@KOODI = LC3AE 
+
+@NCSP = LCDE3A
+
+@SUOMI = Ehkäisykierukan paikantaminen tai muu yksittäisen gynekologisen kohteen UÄ
+
+@RUOTSI = Spiral (IUD) lokalisering eller undersökning av annan gynekologisk objekt med UL
+
+@END = 
+
+@KOODI_A = LC_
+
+@NCSP_A = LCE
+
+@SUOMI_A = Kohdun tähystykset
+
+@RUOTSI_A = Endoskopi av uterus
+
+@ENGL_A = Endoscopy of uterus and uterine ligaments
+
+@NOTE_RF = Kepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = ULC02 
+
+@NCSP = LCE002
+
+@SUOMI = Kohdun tähystys
+
+@RUOTSI = Hysteroskopi
+
+@END = 
+
+@KOODI = ULC12 
+
+@NCSP = LCE012
+
+@SUOMI = Kohdun tähystys mikroskoopin avulla
+
+@RUOTSI = Hysteromikroskopi
+
+@END = 
+
+@KOODI_A = LC0
+
+@NCSP_A = LCO
+
+@SUOMI_A = Kohdun ja sen kannatinsiteiden sädehoito
+
+@RUOTSI_A = Strålbehandling av uterus och parametrium
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = LC001 
+
+@NCSP = LCO001
+
+@SUOMI = Sädehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC002 
+
+@NCSP = LCO002
+
+@SUOMI = Radikaali kohdun ja sen kannatinsiteiden  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC003 
+
+@NCSP = LCO003
+
+@SUOMI = Sädehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC004 
+
+@NCSP = LCO004
+
+@SUOMI = Sädehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC029 
+
+@NCSP = LCO029
+
+@SUOMI = Sädehoito kohdun ja sen kannatinsiteiden  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC049 
+
+@NCSP = LCO049
+
+@SUOMI = Sädehoito kohdussa tai sen kannatinsiteissä ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC090 
+
+@NCSP = LCO090
+
+@SUOMI = Sädehoito kohdun ja sen kannatinsiteiden  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av uterus och parametriet
+
+@END = 
+
+@KOODI = LC099 
+
+@NCSP = LCO099
+
+@SUOMI = Muu kohdun ja sen kannatinsiteiden sädehoito
+
+@RUOTSI = Annan strålbehandling av uterus och parametriet
+
+@END = 
+
+@KOODI_A = LCA
+
+@NCSP_A = LCSA
+
+@SUOMI_A = Kohdun sisätoimenpiteet, kudos- tai limakalvonäytteiden otot
+
+@RUOTSI_A = Intrauterina operationer och biopsi av uterus och parametrium
+
+@ENGL_A = Intrauterine operations and biopsy of uterus and uterine ligaments
+
+@NOTE_RF = Kohduntähystys (ja koepalan otto) ULC02 tai ULC12
+
+@NOTE_RS = Hysteroskopi (med biopsi), se ULC02 eller ULC12
+
+@END = 
+
+@KOODI = LCA00 
+
+@NCSP = LCSA00
+
+@SUOMI = Koepalan otto kohdun seinämästä tai vieruskudoksesta
+
+@RUOTSI = Öppen biopsi av uterus eller parametrium
+
+@END = 
+
+@KOODI = LCA01 
+
+@NCSP = LCSA01
+
+@SUOMI = Koepalan otto kohdun seinämästä tai vieruskudoksesta vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk biopsi av uterus eller parametrium
+
+@END = 
+
+@KOODI = LCA06 
+
+@NCSP = LCSA06
+
+@SUOMI = Koepalan otto kohdun limakalvosta
+
+@RUOTSI = Biopsi av endometriet
+
+@NOTE_F = Näytteen ottokohdun kaulaosasta kohdassa LDA
+
+@NOTE_S = Abrasio av enbart cervix, se LDA
+
+@NOTE_S = Hysteroskopisk biopsi, se ULC
+
+@END = 
+
+@KOODI = LCA10 
+
+@NCSP = LCSA10
+
+@SUOMI = Kohdun runko-osan kaavinta
+
+@RUOTSI = Abrasio av corpus uteri
+
+@NOTE_F = Sisältää kohdunkaulan laajennuksen
+
+@NOTE_S = Inkl cervixdilatation
+
+@END = 
+
+@KOODI = LCA13 
+
+@NCSP = LCSA13
+
+@SUOMI = Kohdun runko-osan ja kaulan kaavinta
+
+@RUOTSI = Abrasio av cervix och corpus uteri
+
+@NOTE_F = Sisältää kohdunkaulan laajennuksen
+
+@NOTE_S = Inkl cervixdilatation
+
+@END = 
+
+@KOODI = LCA16 
+
+@NCSP = LCSA16
+
+@SUOMI = Kohdun limakalvon tuhoaminen
+
+@RUOTSI = Destruktion av endometrium
+
+@NOTE_F = Esim lämpökäsittelyllä
+
+@NOTE_S = T.ex. genom värmekoagulation
+
+@END = 
+
+@KOODI = LCA20 
+
+@NCSP = LCSA20
+
+@SUOMI = Vierasesineen poisto kohdusta
+
+@RUOTSI = Extraktion av främmande kropp från uterus
+
+@NOTE_F = Ei sisällä yksinkertaista kierukan poistoa, ks TLC02
+
+@NOTE_S = Exkl. enkel extraktion av IUD, se TLC02
+
+@END = 
+
+@KOODI = LCA22 
+
+@NCSP = LCSA22
+
+@SUOMI = Vierasesineen poisto kohdusta kohduntähystyksessä
+
+@RUOTSI = Hysteroskopisk extraktion av främmande kropp
+
+@NOTE_F = Ei sisällä yksinkertaista kierukan poistoa, ks TLC02
+
+@NOTE_F =
+Kierukan poisto raskauden aikana kohdassa MAA22
+
+@NOTE_S = Exkl. enkel extraktion av IUD, se TLC02
+
+@NOTE_S =
+Extraktion av IUD under graviditet, se MAA22
+
+@END = 
+
+@KOODI = LCA30 
+
+@NCSP = LCSA30
+
+@SUOMI = Munasolun tai alkion siirto kohtuun keinohedelmöityksessä
+
+@RUOTSI = Transfer av ägg eller embryo till uterus vid assisterad befruktning
+
+@END = 
+
+@KOODI = LCA96 
+
+@NCSP = LCSA96
+
+@SUOMI = Muu kohdun sisätoimenpide, kaavinta tai koepalan otto
+
+@RUOTSI = Annan intrauterin operation (abrasion, biopsi)
+
+@END = 
+
+@KOODI = LCA98 
+
+@NCSP = LCSA98
+
+@SUOMI = Muu kohdun sisätoimenpide, kaavinta tai koepalan otto kohduntähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk operation på uterus
+
+@END = 
+
+@KOODI_A = LCB
+
+@NCSP_A = LCSB
+
+@SUOMI_A = Kohtumuutosten poistot
+
+@RUOTSI_A = Hysterotomi, excision och destruktion av förändring i uterus
+
+@ENGL_A = Incision, excision and destruction of lesion of uterus
+
+@END = 
+
+@KOODI = LCB00 
+
+@NCSP = LCSB00
+
+@SUOMI = Kohdun aukaisu
+
+@RUOTSI = Hysterotomi (öppen operation)
+
+@NOTE_F = Raskauden keskeyttämiseksi LCH 20
+
+@NOTE_S = Vid avbrytande av graviditet, se LCH20
+
+@END = 
+
+@KOODI = LCB01 
+
+@NCSP = LCSB01
+
+@SUOMI = Kohdun aukaisu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk hysterotomi
+
+@END = 
+
+@KOODI = LCB10 
+
+@NCSP = LCSB10
+
+@SUOMI = Kohdun lihaskasvaimen poisto
+
+@RUOTSI = Myomexstirpation
+
+@NOTE_F = Enukleaatio
+
+@NOTE_F =
+Keisarileikkauksen yhteydessä kohdassa MCA
+
+@NOTE_S = I samband med kejsarsnitt, se MCA
+
+@END = 
+
+@KOODI = LCB11 
+
+@NCSP = LCSB11
+
+@SUOMI = Kohdun lihaskasvaimen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk myomexstirpation
+
+@END = 
+
+@KOODI = LCB14 
+
+@NCSP = LCSB14
+
+@SUOMI = Kohdun lihaskasvaimen poisto kohduntähystyksessä
+
+@RUOTSI = Hysteroskopisk myomexstirpation
+
+@END = 
+
+@KOODI = LCB20 
+
+@NCSP = LCSB20
+
+@SUOMI = Kohdun lihaskasvaimen poisto emättimen kautta
+
+@RUOTSI = Vaginal myomexstipation
+
+@END = 
+
+@KOODI = LCB25 
+
+@NCSP = LCSB25
+
+@SUOMI = Kohdun muutoksen poisto kohduntähystyksessä
+
+@RUOTSI = Hysteroskopi med exstirpation av förändring
+
+@NOTE_F = esim. myoma, polyyppi
+
+@NOTE_S = T.ex. polyp
+
+@END = 
+
+@KOODI = LCB28 
+
+@NCSP = LCSB28
+
+@SUOMI = Kohdun limakalvon poisto kohduntähystyksessä
+
+@RUOTSI = Hysteroskopi med resektion av endometrium
+
+@END = 
+
+@KOODI = LCB32 
+
+@NCSP = LCSB32
+
+@SUOMI = Kohdun limakalvon tuhoaminen kohduntähystyksessä
+
+@RUOTSI = Hysteroskopi med destruktion av endometrium
+
+@END = 
+
+@KOODI = LCB96 
+
+@NCSP = LCSB96
+
+@SUOMI = Muu kohdun muutoksen poisto
+
+@RUOTSI = Annan öppen excision eller destruktion av förändring i uterus
+
+@END = 
+
+@KOODI = LCB97 
+
+@NCSP = LCSB97
+
+@SUOMI = Muu kohdun muutoksen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk excision eller destruktion av förändring i uterus
+
+@END = 
+
+@KOODI = LCB98 
+
+@NCSP = LCSB98
+
+@SUOMI = Muu kohdun muutoksen poisto kohduntähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk excision eller destruktion av förändring i uterus
+
+@END = 
+
+@KOODI_A = LCC
+
+@NCSP_A = LCSC
+
+@SUOMI_A = Kohdun osittaiset poistot
+
+@RUOTSI_A = Partiella uterusresektioner
+
+@ENGL_A = Partial excision of uterus
+
+@END = 
+
+@KOODI = LCC00 
+
+@NCSP = LCSC00
+
+@SUOMI = Osittainen kohdun poisto
+
+@RUOTSI = Öppen resektion av uterus
+
+@END = 
+
+@KOODI = LCC01 
+
+@NCSP = LCSC01
+
+@SUOMI = Osittainen kohdun poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk resektion av uterus
+
+@END = 
+
+@KOODI = LCC05 
+
+@NCSP = LCSC05
+
+@SUOMI = Kohdunseinän poisto kohduntähystyksessä
+
+@RUOTSI = Hysteroskopisk resektion av uterusvägg
+
+@NOTE_F = Esim. septumin poisto
+
+@NOTE_S = Inkl delning av septum
+
+@END = 
+
+@KOODI = LCC10 
+
+@NCSP = LCSC10
+
+@SUOMI = Kohdun runko-osan poisto
+
+@RUOTSI = Öppen supravaginal uterusamputation
+
+@NOTE_F = Kohdun amputoiminen emättimen yläpuolelta sektiossa, ks MCA30
+
+@NOTE_S = Supravaginal uterusamputation vid kejsarsnitt, se MCA30
+
+@END = 
+
+@KOODI = LCC11 
+
+@NCSP = LCSC11
+
+@SUOMI = Kohdun runko-osan poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk subtotal hysterektomi (LSH)
+
+@END = 
+
+@KOODI = LCC20 
+
+@NCSP = LCSC20
+
+@SUOMI = Kohdun runko-osan poisto, emättimen kautta
+
+@RUOTSI = Supravaginal uterusamputation via vagina
+
+@END = 
+
+@KOODI = LCC96 
+
+@NCSP = LCSC96
+
+@SUOMI = Muu osittainen kohdun poisto
+
+@RUOTSI = Annan öppen uterusresektion
+
+@END = 
+
+@KOODI = LCC97 
+
+@NCSP = LCSC97
+
+@SUOMI = Muu osittainen kohdun poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk uterusresektion
+
+@END = 
+
+@KOODI_A = LCD
+
+@NCSP_A = LCSD
+
+@SUOMI_A = Kohdunpoistot
+
+@RUOTSI_A = Totala hysterektomier
+
+@ENGL_A = Total excision of uterus
+
+@NOTE_RF = Keisarileikkauksen yhteydessä kohdassa MCA
+
+@NOTE_RS = Vid kejsarsnitt, se MCA
+
+@END = 
+
+@KOODI = LCD00 
+
+@NCSP = LCSD00
+
+@SUOMI = Kohdunpoisto
+
+@RUOTSI = Öppen hysterektomi
+
+@END = 
+
+@KOODI = LCD01 
+
+@NCSP = LCSD01
+
+@SUOMI = Kohdunpoisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk hysterektomi
+
+@END = 
+
+@KOODI = LCD04 
+
+@NCSP = LCSD04
+
+@SUOMI = Kohdunpoisto vatsaontelon tähystyksessä emättimen kautta avustaen
+
+@RUOTSI = Laparoskopiassisterad hysterektomi via vagina
+
+@END = 
+
+@KOODI = LCD10 
+
+@NCSP = LCSD10
+
+@SUOMI = Kohdunpoisto emättimen kautta
+
+@RUOTSI = Vaginal hysterektomi
+
+@END = 
+
+@KOODI = LCD11 
+
+@NCSP = LCSD11
+
+@SUOMI = Kohdunpoisto emättimen kautta vatsaontelon tähystystimellä avustaen
+
+@RUOTSI = Laparoskopiskt assisterad vaginal hysterektomi
+
+@NOTE_F = LAVH
+
+@END = 
+
+@KOODI = LAF16 
+
+@NCSP = LCSD30
+
+@SUOMI = Kohdun, sivuelimien, suoliliepeen ja lantio- ja aorttaimusolmukkeiden poisto munasarjasyövän takia
+
+@RUOTSI = Excision av uterus, adenex, oment och lymfkörtlar i bäcken och para-aortalt för ovarial cancer
+
+@END = 
+
+@KOODI = LCD30 
+
+@NCSP = LCSD30
+
+@SUOMI = Laajennettu kohdunpoisto
+
+@RUOTSI = Radikal hysterektomi
+
+@END = 
+
+@KOODI = LCD31 
+
+@NCSP = LCSD31
+
+@SUOMI = Laajennettu kohdunpoisto vatsaontelon tähystyksessä
+
+@RUOTSI = Radikal laparoskopisk hysterektomi
+
+@END = 
+
+@KOODI = LCD40 
+
+@NCSP = LCSD40
+
+@SUOMI = Laajennettu kohdunpoisto emättimen kautta
+
+@RUOTSI = Radikal vaginal hysterektomi
+
+@NOTE_F = Kohdun poisto emättimen kautta, kohdunsivuelinten poisto, regionaalisten imusolmukkeiden poisto ja emättimen osapoisto
+
+@NOTE_S = Vaginal hysterektomi, exstipation av parametrier, körtelutrymning, resektion av vagina
+
+@END = 
+
+@KOODI = LCD96 
+
+@NCSP = LCSD96
+
+@SUOMI = Muu kohdunpoisto
+
+@RUOTSI = Annan öppen hysterektomi
+
+@END = 
+
+@KOODI = LCD97 
+
+@NCSP = LCSD97
+
+@SUOMI = Muu kohdunpoisto vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk hysterektomi
+
+@END = 
+
+@KOODI_A = LCE
+
+@NCSP_A = LCSE
+
+@SUOMI_A = Lantiontyhjennysleikkaukset
+
+@RUOTSI_A = Bäckenutrymning, pelvisexenteration
+
+@ENGL_A = Exenteration of pelvis
+
+@END = 
+
+@KOODI = LCE00 
+
+@NCSP = LCSE00
+
+@SUOMI = Lantion etuosan tyhjennys, exenteratio
+
+@RUOTSI = Främre bäckenevisceration hos kvinna
+
+@END = 
+
+@KOODI = LCE10 
+
+@NCSP = LCSE10
+
+@SUOMI = Lantion takaosan tyhjennys
+
+@RUOTSI = Bakre bäckenevisceration hos kvinna
+
+@END = 
+
+@KOODI = LCE20 
+
+@NCSP = LCSE20
+
+@SUOMI = Lantion täydellinen tyhjennys
+
+@RUOTSI = Total bäckenutrymning hos kvinna
+
+@END = 
+
+@KOODI = LCE96 
+
+@NCSP = LCSE96
+
+@SUOMI = Muu lantion tyhjennysleikkaus
+
+@RUOTSI = Annan bäckenutrymning hos kvinna
+
+@END = 
+
+@KOODI_A = LCF
+
+@NCSP_A = LCSF
+
+@SUOMI_A = Kohdunvieruskudosmuutostenpoistot
+
+@RUOTSI_A = Exstirpationer av förändringar i parametrier
+
+@ENGL_A = Excision of lesion of parametrium
+
+@END = 
+
+@KOODI = LCF00 
+
+@NCSP = LCSF00
+
+@SUOMI = Kohdunvieruskudoksen kasvaimen poisto
+
+@RUOTSI = Öppen exstirpation av intraligamentär tumör (i parametrium)
+
+@END = 
+
+@KOODI = LCF01 
+
+@NCSP = LCSF01
+
+@SUOMI = Kohdunvieruskudoksen muutoksen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk exstirpation av intraligamentär tumör (i parametrium)
+
+@END = 
+
+@KOODI = LCF10 
+
+@NCSP = LCSF10
+
+@SUOMI = Laskimolaajentuman poisto lantion sisältä
+
+@RUOTSI = Öppen exstirpation av varicocele hos kvinna
+
+@END = 
+
+@KOODI = LCF11 
+
+@NCSP = LCSF11
+
+@SUOMI = Laskimolaajentuman poisto lantion sisältä vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk exstirpation av varicocele hos kvinna
+
+@END = 
+
+@KOODI = LCF96 
+
+@NCSP = LCSF96
+
+@SUOMI = Muu kohdusvieruskudoksen muutoksen poisto
+
+@RUOTSI = Annan öppen exstirpation av förändring i parametrium
+
+@END = 
+
+@KOODI = LCF97 
+
+@NCSP = LCSF97
+
+@SUOMI = Muu kohdusvieruskudoksen muutoksen poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk exstirpation av förändring i parametrium
+
+@END = 
+
+@KOODI_A = LCG
+
+@NCSP_A = LCSG
+
+@SUOMI_A = Korjaavat kohtuleikkaukset
+
+@RUOTSI_A = Rekonstruktiva operationer på uterus
+
+@ENGL_A = Reconstructive operations on uterus
+
+@END = 
+
+@KOODI = LCG02 
+
+@NCSP = LCSG02
+
+@SUOMI = Kohtukiinnikkeiden irroittelu kohduntähystyksessä
+
+@RUOTSI = Hysteroskopi med adherenslösning
+
+@END = 
+
+@KOODI = LCG10 
+
+@NCSP = LCSG10
+
+@SUOMI = Kohdun ompelu
+
+@RUOTSI = Öppen sutur av uterus
+
+@NOTE_F = Synnytykseen liittyen MCC00
+
+@NOTE_S = Efter förlossning, MCC00
+
+@END = 
+
+@KOODI = LCG11 
+
+@NCSP = LCSG11
+
+@SUOMI = Kohdun ompelu vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk sutur av uterus
+
+@END = 
+
+@KOODI = LCG20 
+
+@NCSP = LCSG20
+
+@SUOMI = Kohdun ripustus
+
+@RUOTSI = Öppen uteropexi
+
+@END = 
+
+@KOODI = LCG21 
+
+@NCSP = LCSG21
+
+@SUOMI = Kohdun kiinnitys vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk uteropexi
+
+@END = 
+
+@KOODI = LCG30 
+
+@NCSP = LCSG30
+
+@SUOMI = Kohtu-ristiluusiteen katkaisu tai poisto
+
+@RUOTSI = Öppen delning eller resektion av sacrouterinligament
+
+@END = 
+
+@KOODI = LCG31 
+
+@NCSP = LCSG31
+
+@SUOMI = Kohtu-ristiluusiteen katkaisu tai poisto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk delning eller resektion av sacrouterinligament
+
+@END = 
+
+@KOODI = LCG40 
+
+@NCSP = LCSG40
+
+@SUOMI = Kohdun korjaaminen
+
+@RUOTSI = Öppen rekonstruktion av uterus
+
+@NOTE_F = esim. Strassmannin leikkaus
+
+@NOTE_S = T. ex. Strassmann
+
+@END = 
+
+@KOODI = LCG41 
+
+@NCSP = LCSG41
+
+@SUOMI = Kohdun korjaaminen vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk rekonstruktion av uterus
+
+@END = 
+
+@KOODI = LCG96 
+
+@NCSP = LCSG96
+
+@SUOMI = Muu korjaava kohtuleikkaus
+
+@RUOTSI = Annan öppen rekonstruktiv operation på uterus
+
+@END = 
+
+@KOODI = LCG97 
+
+@NCSP = LCSG97
+
+@SUOMI = Muu korjaava kohtuleikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk rekonstruktiv operation på uterus
+
+@END = 
+
+@KOODI = LCG98 
+
+@NCSP = LCSG98
+
+@SUOMI = Muu korjaava kohtuleikkaus kohduntähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk rekonstruktiv operation på uterus
+
+@END = 
+
+@KOODI_A = LCW
+
+@NCSP_A = LCSW
+
+@SUOMI_A = Muut kohdun ja sen vieruskudoksien leikkaukset
+
+@RUOTSI_A = Andra operationer på uterus och dess upphängningsapparat
+
+@ENGL_A = Other operations on uterus and uterine ligaments
+
+@END = 
+
+@KOODI = LCW96 
+
+@NCSP = LCSW96
+
+@SUOMI = Muu avoin kohdun ja sen vieruskudoksien leikkaus
+
+@RUOTSI = Annan öppen operation på uterus eller dess upphängningsapparat
+
+@END = 
+
+@KOODI = LCW97 
+
+@NCSP = LCSW97
+
+@SUOMI = Muu kohdun ja sen vieruskudoksien leikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk operation på uterus eller dess upphängningsapparat
+
+@END = 
+
+@KOODI = LCW98 
+
+@NCSP = LCSW98
+
+@SUOMI = Muu kohdun ja sen vieruskudoksien leikkaus kohduntähystyksessä
+
+@RUOTSI = Annan hysteroskopisk operation på uterus eller dess upphängningsapparat
+
+@END = 
+
+@KOODI_A = LCH
+
+@NCSP_A = LCXH
+
+@SUOMI_A = Raskauden keskeyttämiset
+
+@RUOTSI_A = Avbrytande av graviditet (legal abort) (AAP)
+
+@ENGL_A = Termination of pregnancy
+
+@NOTE_RF = Spontaaniin keskenmenoon liittyvät toimenpiteet kohdassa MB
+
+@NOTE_RS = Spontan abort, se MB
+
+@END = 
+
+@KOODI = LCH00 
+
+@NCSP = LCXH00
+
+@SUOMI = Kohdun tyhjennys imulla raskauden keskeyttämiseksi
+
+@RUOTSI = Exeres med vakuumaspiration
+
+@NOTE_F = Sisältää kohdunkaulan laajennuksen
+
+@NOTE_S = Inkl ev cervixdilatation
+
+@END = 
+
+@KOODI = LCH03 
+
+@NCSP = LCXH03
+
+@SUOMI = Kohdun tyhjennys ja kaavinta raskauden keskeyttämiseksi
+
+@RUOTSI = Exeres med curettage
+
+@NOTE_F = Sisältää kohdunkaulan laajentamisen
+
+@NOTE_S = Inkl ev cervixdilatation
+
+@END = 
+
+@KOODI = LCH10 
+
+@NCSP = LCXH10
+
+@SUOMI = Raskauden keskeytys amniononteloon annostellulla lääkkeellä
+
+@RUOTSI = Intrauterin instillation av abortframkallande ämne
+
+@END = 
+
+@KOODI = LCH11 
+
+@NCSP = LCXH11
+
+@SUOMI = Raskauden keskeytys amnionontelon ulkopuolelle annostellulla lääkkellä
+
+@RUOTSI = Extra-amniotic instillation av abortframkallande ämne
+
+@NOTE_F = Esim. prostasykliinillä
+
+@NOTE_F =
+Kaavinta lääkkeellisen keskeytyksen jälkeen kohdassa LCH13
+
+@NOTE_S = T.ex. prostasyklin
+
+@NOTE_S =
+Exeres efter medikamentellt abort, se  LCH13
+
+@END = 
+
+@KOODI = LCH13 
+
+@NCSP = LCXH13
+
+@SUOMI = Kohdun tyhjennys imulla lääkkeellä tehdyn keskeyttämisen jälkeen
+
+@RUOTSI = Exeres med vakuumaspiration efter medikamentellt inducerad abort
+
+@END = 
+
+@KOODI = LCH20 
+
+@NCSP = LCXH20
+
+@SUOMI = Kohdun aukaisu ja raskauden tyhjennys, vatsaontelon tai emättimen kautta
+
+@RUOTSI = Hysterotomi och exeres (ingrepp via bukhålan eller via vagina)
+
+@END = 
+
+@KOODI = LCH96 
+
+@NCSP = LCXH96
+
+@SUOMI = Muu raskauden keskeytys
+
+@RUOTSI = Annan operation för avbrytande av graviditet
+
+@END = 
+
+@KOODI_A = LC_
+
+@NCSP_A = LCXX
+
+@SUOMI_A = Muut kohtuun kohdistuvat toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på uterus
+
+@ENGL_A = Other procedures of uterus and uterine ligaments
+
+@END = 
+
+@KOODI = TLC00 
+
+@NCSP = LCXX00
+
+@SUOMI = Kohdunsisäisen ehkäisimen asettaminen
+
+@RUOTSI = Inläggning av IUD
+
+@END = 
+
+@KOODI = TLC02 
+
+@NCSP = LCXX02
+
+@SUOMI = Kohdunsisäisen ehkäisimen tavanomainen poistaminen
+
+@RUOTSI = Enkel extraktion av IUD
+
+@NOTE_F = Vatsaonteloon joutuneen ehkäisimen poisto kohdassa JAL10-11
+
+@NOTE_F =
+Mikäli ehkäisintä ei voida poistaa kohdusta valmistajan suunnitelemalla tavalla katso LCA20-22
+
+@NOTE_F =
+Kierukan poisto raskauden aikana kohdassa MAA22
+
+@NOTE_S = Extraktion av IUD från bukålan, se JAL10-11
+
+@NOTE_S =
+Om IUD ej kan extraheras från livmodern enligt de anvisningar som producenten har angivit se LCA20-22
+
+@NOTE_S =
+Extraktion av IUD under graviditet, se MAA22
+
+@END = 
+
+@KOODI_R = LD
+
+@SUOMI_R = Kohdun kaulaosa
+
+@RUOTSI_R = Cervix uteri
+
+@ENGL_R = Cervix uteri
+
+@END = 
+
+@KOODI_A = LD_
+
+@NCSP_A = LDF
+
+@SUOMI_A = Kohdun kaulaosan diagnostiset toimenpiteet
+
+@RUOTSI_A = Diagnostiska åtgärder av cervix uteri
+
+@ENGL_A = Diagnostic procedures of cervix uteri
+
+@END = 
+
+@KOODI = XLD00 
+
+@NCSP = LDFD00
+
+@SUOMI = Gynekologinen irtosolunäytteen otto
+
+@RUOTSI = Gynelkologisk cellprovtakning
+
+@END = 
+
+@KOODI_A = LDA
+
+@NCSP_A = LDSA
+
+@SUOMI_A = Kohdun kaulan laajennukset, kaavinnat ja koepalan otot
+
+@RUOTSI_A = Dilation, curettage och biopsi av portio eller cervix uteri
+
+@ENGL_A = Dilatation, curettage and biopsy of cervix uteri
+
+@END = 
+
+@KOODI = LDA00 
+
+@NCSP = LDSA00
+
+@SUOMI = Kohdun kaulan laajennus
+
+@RUOTSI = Cervixdilatation
+
+@END = 
+
+@KOODI = LDA10 
+
+@NCSP = LDSA10
+
+@SUOMI = Kohdun kaulan kaavinta
+
+@RUOTSI = Abrasio av cervix uteri
+
+@NOTE_F = Sisältää näytteenoton
+
+@NOTE_F =
+Koepalan otto kohduntähystyksessä kohdassa ULC
+
+@NOTE_S = Innefattar provtagningen
+
+@NOTE_S =
+Hysteroskopisk biopsi, se ULC
+
+@END = 
+
+@KOODI = LDA20 
+
+@NCSP = LDSA20
+
+@SUOMI = Koepalan otto kohdun napukasta
+
+@RUOTSI = Biopsi av portio
+
+@END = 
+
+@KOODI_A = LDB
+
+@NCSP_A = LDSB
+
+@SUOMI_A = Kohdun kaulaosan muutosten poistot
+
+@RUOTSI_A = Exstirpation eller destruktion av förändring i portio eller cervix uteri
+
+@ENGL_A = Excision or destruction of lesion of cervix uteri
+
+@END = 
+
+@KOODI = LDB00 
+
+@NCSP = LDSB00
+
+@SUOMI = Paikallisen muutoksen poisto kohdun kaulasta
+
+@RUOTSI = Exstirpation av förändring i portio eller cervix uteri
+
+@NOTE_F = Esim. polyypin poisto
+
+@NOTE_F =
+Sisältää kudoksen tunkeutuneen vierasesineen poiston
+
+@NOTE_F =
+Vierasesineen poisto kohdunkaulan kanavasta ja kohdusta kohdasa LCA22
+
+@NOTE_S = T.ex. av polyp
+
+@NOTE_S =
+Inkluderar avlägsnande av penetrerande främmande kropp
+
+@NOTE_S =
+Avlägsnande av främmande kropp från cervix kanal, se LCA22
+
+@END = 
+
+@KOODI = LDB10 
+
+@NCSP = LDSB10
+
+@SUOMI = Kohdun kaulan jäädytyshoito
+
+@RUOTSI = Kryoterapi av portio eller cervix uteri
+
+@END = 
+
+@KOODI = LDB20 
+
+@NCSP = LDSB20
+
+@SUOMI = Kohdun kaulan laserhoito tai poltto
+
+@RUOTSI = Elektrokoagulation eller laservaporation av portio eller cervix uteri
+
+@END = 
+
+@KOODI_A = LDC
+
+@NCSP_A = LDSC
+
+@SUOMI_A = Osittaiset kohdunkaulan poistot
+
+@RUOTSI_A = Cervixresektion
+
+@ENGL_A = Excision of cervix uteri
+
+@END = 
+
+@KOODI = LDC00 
+
+@NCSP = LDSC00
+
+@SUOMI = Kohdunkaulan kartiopoisto veitsellä
+
+@RUOTSI = Konisation med kniv
+
+@END = 
+
+@KOODI = LDC03 
+
+@NCSP = LDSC03
+
+@SUOMI = Kohdunkaulan kartiopoisto diatermialla tai laserilla
+
+@RUOTSI = Konisation med diatermi eller laser
+
+@NOTE_F = Diatermia lisäkoodilla ZXC00
+
+@NOTE_F =
+Laser lisäkoodilla ZXC10
+
+@NOTE_S = Diatermi anges med tilläggskoden ZXC00
+
+@NOTE_S = Laser anges med tilläggskoden ZXC10
+
+@END = 
+
+@KOODI = LDC10 
+
+@NCSP = LDSC10
+
+@SUOMI = Kohdunkaulan poisto osittain
+
+@RUOTSI = Delresektion av cervix uteri
+
+@END = 
+
+@KOODI = LDC96 
+
+@NCSP = LDSC96
+
+@SUOMI = Muu kohdunkaulan osittainen poisto
+
+@RUOTSI = Annan cervixresektion
+
+@END = 
+
+@KOODI_A = LDD
+
+@NCSP_A = LDSD
+
+@SUOMI_A = Korjaavat kohdunkaulan leikkaukset
+
+@RUOTSI_A = Rekonstruktiva operationer på cervix uteri
+
+@ENGL_A = Reconstructive operations on cervix uteri
+
+@END = 
+
+@KOODI = LDD00 
+
+@NCSP = LDSD00
+
+@SUOMI = Kohdunkaulan ompelu
+
+@RUOTSI = Sutur av cervix uteri
+
+@NOTE_F = Synnytyksen jälkeen kohdassa MBA
+
+@NOTE_S = Vid förlossningsskada, se MBA
+
+@END = 
+
+@KOODI = LDD10 
+
+@NCSP = LDSD10
+
+@SUOMI = Kohdunkaulan muovausleikkaus
+
+@RUOTSI = Plastik på cervix uteri
+
+@NOTE_F = Sulkuommel raskauden aikana kohdassa MAB
+
+@NOTE_S = Cerclage under graviditet, se MAB
+
+@END = 
+
+@KOODI = LDD20 
+
+@NCSP = LDSD20
+
+@SUOMI = Kohdunkaulan sulkuompeleen poisto
+
+@RUOTSI = Avlägsnande av cervixcerclage (icke gravid uterus)
+
+@NOTE_F = Poisto raskauden aikana kohdassa MAB
+
+@NOTE_S = Avlägsnande av cerclage under graviditet, se MAB
+
+@END = 
+
+@KOODI_A = LDW
+
+@NCSP_A = LDSW
+
+@SUOMI_A = Muut kohdunkaulan leikkaukset
+
+@RUOTSI_A = Andra operationer på cervix uteri
+
+@ENGL_A = Other operations on cervix uteri
+
+@END = 
+
+@KOODI = LDW96 
+
+@NCSP = LDSW96
+
+@SUOMI = Muu kohdunkaulan leikkaus
+
+@RUOTSI = Annan operation på cervix uteri
+
+@END = 
+
+@KOODI_R = LE
+
+@SUOMI_R = Emättin
+
+@RUOTSI_R = Vagina
+
+@ENGL_R = Vagina
+
+@END = 
+
+@KOODI_A = LE_
+
+@NCSP_A = LEE
+
+@SUOMI_A = Emättimen tähystys
+
+@RUOTSI_A = Endoskopi av vagina
+
+@ENGL_A = Endoscopy  of vagina
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = ULA02 
+
+@NCSP = LEE002
+
+@SUOMI = Emättimen tähystys
+
+@RUOTSI = Kolposkopi
+
+@NOTE_F = Sisältää ulkosynnyttymien, emättimen ja kohdun napukan tähystyksen
+
+@NOTE_S = Innefattar undersökning av yttre könsorgan, vagina och portio vaginalis
+
+@END = 
+
+@KOODI = TLE10 
+
+@NCSP = LEE012
+
+@SUOMI = Vierasesineen poisto emättimestä
+
+@RUOTSI = Avlägsnande av främmande kropp ur vagina
+
+@END = 
+
+@KOODI_A = LE0
+
+@NCSP_A = LEO
+
+@SUOMI_A = Emättimen ja ulkosynnyttimien sädehoito
+
+@RUOTSI_A = Strålbehandling av vulva och vagina
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = LE001 
+
+@NCSP = LEO001
+
+@SUOMI = Sädehoito emättimen ja ulkosynnyttimien primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i vulva eller vagina
+
+@END = 
+
+@KOODI = LE002 
+
+@NCSP = LEO002
+
+@SUOMI = Radikaali emättimen ja ulkosynnyttimien primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i vulva eller vagina
+
+@END = 
+
+@KOODI = LE003 
+
+@NCSP = LEO003
+
+@SUOMI = Sädehoito emättimen ja ulkosynnyttimien primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i vulva eller vagina
+
+@END = 
+
+@KOODI = LE004 
+
+@NCSP = LEO004
+
+@SUOMI = Sädehoito emättimen ja ulkosynnyttimien primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i vulva eller vagina
+
+@END = 
+
+@KOODI = LE029 
+
+@NCSP = LEO029
+
+@SUOMI = Sädehoito emättimen ja ulkosynnyttimien paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i vulva eller vagina
+
+@END = 
+
+@KOODI = LE049 
+
+@NCSP = LEO049
+
+@SUOMI = Sädehoito emättimessä tai ulkosynnyttimissä ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i vulva eller vagina
+
+@END = 
+
+@KOODI = LE090 
+
+@NCSP = LEO090
+
+@SUOMI = Sädehoito emättimen ja ulkosynnyttimien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av vulva och vagina
+
+@END = 
+
+@KOODI = LE099 
+
+@NCSP = LEO099
+
+@SUOMI = Muu emättimen sädehoito
+
+@RUOTSI = Annan strålbehandling av vulva och vagina
+
+@END = 
+
+@KOODI_A = LEA
+
+@NCSP_A = LESA
+
+@SUOMI_A = Emättimen aukaisuleikkaukset ja tähystykset emättimen pohjukan kautta
+
+@RUOTSI_A = Kuldoskopier och kolpotomier
+
+@ENGL_A = Culdoscopy and incision of vagina
+
+@END = 
+
+@KOODI = LEA01 
+
+@NCSP = LESA01
+
+@SUOMI = Lantiontähystys emättimen pohjan kautta
+
+@RUOTSI = Kuldoskopi
+
+@NOTE_F = Sisältää mahdollisen koepalan oton
+
+@NOTE_S = Inkl ev biopsi
+
+@END = 
+
+@KOODI = LEA10 
+
+@NCSP = LESA10
+
+@SUOMI = Emättimen pohjan aukaisu
+
+@RUOTSI = Kolpotomi
+
+@NOTE_F = Esim. fossa Douglasin kanavointi
+
+@NOTE_S = Inkl ev dränage av fossa Douglasi
+
+@END = 
+
+@KOODI_A = LEB
+
+@NCSP_A = LESB
+
+@SUOMI_A = Koepalan otot emättimestä ja paikallisten muutosten poistot
+
+@RUOTSI_A = Biopsi, exstirpation eller destruktion av förändring i vagina
+
+@ENGL_A = Biopsy, excision or destruction of lesion of vagina
+
+@END = 
+
+@KOODI = LEB00 
+
+@NCSP = LESB00
+
+@SUOMI = Koepalan otto emättimestä
+
+@RUOTSI = Biopsi av vagina
+
+@END = 
+
+@KOODI = LEB10 
+
+@NCSP = LESB10
+
+@SUOMI = Emätimen kasvaimen tai kudosvaurion poisto
+
+@RUOTSI = Exstirpation av förändring i vagina
+
+@NOTE_F = Sisältää haavauman, rakkulan tai vierasesineen poiston
+
+@NOTE_F =
+Vierasesineen poistaminen lapsen emättimestä kohdasa TLE10
+
+@NOTE_S = Inkl av ulceration, cysta eller tumör
+
+@NOTE_S =
+Inkl avlägsnande av främmande kropp
+
+@NOTE_S =
+Avlägsnande av främmande kropp från vagina hos barn, se TLE10
+
+@END = 
+
+@KOODI = LEB20 
+
+@NCSP = LESB20
+
+@SUOMI = Emättimen kystan aukaisu ja reunan ompelu
+
+@RUOTSI = Marsupialisation av vaginalcysta
+
+@END = 
+
+@KOODI = LEB30 
+
+@NCSP = LESB30
+
+@SUOMI = Emättimen limakalvomuutoksen hävittäminen
+
+@RUOTSI = Destruktion av slemhinneförändring i vagina
+
+@NOTE_F = Menetelmä, poltto, jäädytys tai laser voidaan ilmaista lisäkoodilaa ryhmästä ZXC
+
+@NOTE_S = Metod, diatermi, kryo eller laser kan anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI_A = LEC
+
+@NCSP_A = LESC
+
+@SUOMI_A = Emättimen osittaiset  poistoleikkaukset
+
+@RUOTSI_A = Delresektioner av vagina
+
+@ENGL_A = Partial excision of vagina
+
+@END = 
+
+@KOODI = LEC00 
+
+@NCSP = LESC00
+
+@SUOMI = Osittainen emättimen poisto
+
+@RUOTSI = Delresektion av vagina
+
+@END = 
+
+@KOODI = LEC10 
+
+@NCSP = LESC10
+
+@SUOMI = Emätinväliseinän poisto
+
+@RUOTSI = Excision av vaginalseptum
+
+@END = 
+
+@KOODI_A = LED
+
+@NCSP_A = LESD
+
+@SUOMI_A = Emättimen poistoleikkaukset
+
+@RUOTSI_A = Totala kolpektomier
+
+@ENGL_A = Total excision of vagina
+
+@END = 
+
+@KOODI = LED00 
+
+@NCSP = LESD00
+
+@SUOMI = Emättimen poisto
+
+@RUOTSI = Kolpektomi
+
+@END = 
+
+@KOODI_A = LEE
+
+@NCSP_A = LESE
+
+@SUOMI_A = Emättimen korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på vagina
+
+@ENGL_A = Repair or construction of vagina
+
+@NOTE_RF = Ei sisällä kohdunlaskeuman eikä virtsanpidätyskyvyn korjaamisia
+
+@NOTE_RF = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_RS = Exkl uterusprolaps och urininkontinens operationer
+
+@NOTE_RS =
+Material av transplantat bör anges med tilläggskod, se ZZ
+
+@END = 
+
+@KOODI = LEE00 
+
+@NCSP = LESE00
+
+@SUOMI = Emättimen ompelu
+
+@RUOTSI = Sutur av vagina
+
+@NOTE_F = Synnytysvaurion yhteydessä kohdassa MBC
+
+@NOTE_S = Vid förlossningsskada, se MBC
+
+@END = 
+
+@KOODI = LEE10 
+
+@NCSP = LESE10
+
+@SUOMI = Emättimen korjaus siirteellä tai kielekkeellä
+
+@RUOTSI = Rekonstruktion av vagina med transplantat eller lambå
+
+@END = 
+
+@KOODI = LEE20 
+
+@NCSP = LESE20
+
+@SUOMI = Emättimen ja suolen välisen avanteen sulku, siirre tai kieleke
+
+@RUOTSI = Tillslutning av enterovaginal fistel med transplantat eller lambå
+
+@END = 
+
+@KOODI = LEE30 
+
+@NCSP = LESE30
+
+@SUOMI = Emättimen ja virtsateiden välisen avanteen sulku, siirre tai kieleke
+
+@RUOTSI = Tillslutning av urovaginal fistel med transplantat eller lambå
+
+@NOTE_F = Avanteen sulku poistamalla kyseinen suolen osa koodataan ryhmään JFB
+
+@NOTE_S = Tillslutning genom resektion av tarm anges med kod från grupp JFB
+
+@END = 
+
+@KOODI = LEE40 
+
+@NCSP = LESE40
+
+@SUOMI = Emättimen muodostaminen sukupuolen vaihdoksen vuoksi
+
+@RUOTSI = Konstruktion av vagina vid könsbyte
+
+@END = 
+
+@KOODI = LEE96 
+
+@NCSP = LESE96
+
+@SUOMI = Muu emättimen korjaava leikkaus
+
+@RUOTSI = Annan rekonstruktiv operation på vagina
+
+@END = 
+
+@KOODI_A = LEF
+
+@NCSP_A = LESF
+
+@SUOMI_A = Kohdun ja emättimen laskeutumien leikkaukset
+
+@RUOTSI_A = Prolapsoperationer på uterus och vagina
+
+@ENGL_A = Operations for prolapse of uterus or vaginal vault and enterocele
+
+@END = 
+
+@KOODI = LEF00 
+
+@NCSP = LESF00
+
+@SUOMI = Emättimen etuseinänkiristys
+
+@RUOTSI = Främre kolporafi
+
+@NOTE_F = sis. välilihan kiristämisen
+
+@NOTE_S = Inkl ev perineorafi
+
+@END = 
+
+@KOODI = LEF03 
+
+@NCSP = LESF03
+
+@SUOMI = Emättimen takaseinän kiristys
+
+@RUOTSI = Bakre kolporafi
+
+@NOTE_F = sis. kohottajalihaksen ja välilihan kiristämisen
+
+@NOTE_S = Inkl ev levatorsutur och perineorafi
+
+@END = 
+
+@KOODI = LEF10 
+
+@NCSP = LESF10
+
+@SUOMI = Emättimen ja välilihan muovaus
+
+@RUOTSI = Fullständig prolapsplastik
+
+@NOTE_F = Kolpoperineoplastia
+
+@NOTE_F =
+Sisältää kohdunkaulan poiston, kohottajalihaksenja välilihan kiristämisen
+
+@NOTE_S =  Inkl främre och bakre kolporafi, cervixamputation, ev levatorsutur och perineorafi
+
+@END = 
+
+@KOODI = LEF13 
+
+@NCSP = LESF13
+
+@SUOMI = Emättimen ja välilihan muovaus ja kohdunpoisto
+
+@RUOTSI = Fullständig prolapsplastik med vaginal hysterektomi
+
+@NOTE_F = Sisältää kohdunpoiston emättimen kautta sekä kohottajalihaksen ja välilihan kiristämisen
+
+@NOTE_S = Inkl. hysterektomi samt  strämning av höjande muskel och parametrium
+
+@END = 
+
+@KOODI = LEF20 
+
+@NCSP = LESF20
+
+@SUOMI = Osittainen emättimen sulkeminen
+
+@RUOTSI = Partiell förslutning av vagina
+
+@NOTE_F = Kolpokleisis
+
+@END = 
+
+@KOODI = LEF23 
+
+@NCSP = LESF23
+
+@SUOMI = Emättimen sulkeminen
+
+@RUOTSI = Total kolpokleisis
+
+@END = 
+
+@KOODI = LEF30 
+
+@NCSP = LESF30
+
+@SUOMI = Kohdun kiinnitys virtsarakon ja emättimen väliin
+
+@RUOTSI = Interposition av uterus mellan urinblåsa och vagina
+
+@END = 
+
+@KOODI = LEF40 
+
+@NCSP = LESF40
+
+@SUOMI = Suolikohjun korjausleikkaus emättimen kautta
+
+@RUOTSI = Vaginal operation av enterocele
+
+@END = 
+
+@KOODI = LEF41 
+
+@NCSP = LESF41
+
+@SUOMI = Suolikohjun korjausleikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk operation av enterocele
+
+@END = 
+
+@KOODI = LEF50 
+
+@NCSP = LESF50
+
+@SUOMI = Kohdun poiston jälkeisen emättimen pohjukan laskeuman korjaus
+
+@RUOTSI = Öppen operation för vaginaltoppsprolaps, efter tidigare hysterektomi
+
+@END = 
+
+@KOODI = LEF51 
+
+@NCSP = LESF51
+
+@SUOMI = Kohdun poiston jälkeisen emättimen pohjukan laskeuman korjaus vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk operation för vaginaltoppsprolaps efter tidigare hysterektomi
+
+@END = 
+
+@KOODI = LEF53 
+
+@NCSP = LESF53
+
+@SUOMI = Kohdun poiston jälkeisen emättimen pohjukan laskeuman korjaus emättimen kautta
+
+@RUOTSI = Vaginal operation för vaginaltoppsprolaps efter tidigare hysterektomi
+
+@END = 
+
+@KOODI = LEF96 
+
+@NCSP = LESF96
+
+@SUOMI = Muu kohdun ja emättimen laskeutuman leikkaus
+
+@RUOTSI = Annan öppen prolapsoperation på uterus eller vagina
+
+@END = 
+
+@KOODI = LEF97 
+
+@NCSP = LESF97
+
+@SUOMI = Muu kohdun ja emättimen laskeutuman leikkaus vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk prolapsoperation på uterus eller vagina
+
+@END = 
+
+@KOODI_A = LEG
+
+@NCSP_A = LESG
+
+@SUOMI_A = Virtsankarkailun korjaamisleikkaukset emättimen kautta
+
+@RUOTSI_A = Vaginala inkontinensoperationer
+
+@ENGL_A = Vaginal operations for incontinence
+
+@NOTE_RF = Virtsankarkailuleikkaukset vatsan tai vatsan ja emättimen kohdassa KDH
+
+@END = 
+
+@KOODI = LEG00 
+
+@NCSP = LESG00
+
+@SUOMI = Virtsaputken ja virtsarakon kohotus emättimen kautta
+
+@RUOTSI = Enkel vaginal uretrocystopexi
+
+@NOTE_F = Kelly, Kennedy etc.
+
+@END = 
+
+@KOODI = LEG10 
+
+@NCSP = LESG10
+
+@SUOMI = Virtsaputken ja virtsarakon kohotus emättimen kautta slingan avulla
+
+@RUOTSI = Vaginal uretrocystopexi (med slynga)
+
+@END = 
+
+@KOODI = LEG20 
+
+@NCSP = LESG20
+
+@SUOMI = Lantionpohjan korjausleikkaus virtsankarkailun korjaamiseksi, levatorplastia
+
+@RUOTSI = Bäckenbottenplastik hos kvinna med fullständig delning av levatorerna
+
+@END = 
+
+@KOODI = LEG96 
+
+@NCSP = LESG96
+
+@SUOMI = Muu emättimen kautta tehtävä virtsankarkailun korjausleikkaus
+
+@RUOTSI = Annan vaginal inkontinensoperation
+
+@END = 
+
+@KOODI_A = LEW
+
+@NCSP_A = LESW
+
+@SUOMI_A = Muut emättimen leikkaukset
+
+@RUOTSI_A = Andra operationer på vagina
+
+@ENGL_A = Other operations on vagina
+
+@END = 
+
+@KOODI = LEW96 
+
+@NCSP = LESW96
+
+@SUOMI = Muu emättimen leikkaus
+
+@RUOTSI = Annan öppen operation på vagina
+
+@END = 
+
+@KOODI = LEW97 
+
+@NCSP = LESW97
+
+@SUOMI = Muu emättimen leikkaus vatsantähystyksessä
+
+@RUOTSI = Annan laparoskopisk operation på vagina
+
+@END = 
+
+@KOODI_A = LE_
+
+@NCSP_A = LEX
+
+@SUOMI_A = Muut emättimen toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på vagina
+
+@ENGL_A = Other procedures  of vagina
+
+@END = 
+
+@KOODI = TLE00 
+
+@NCSP = LEXX00
+
+@SUOMI = Emättimen laajennus
+
+@RUOTSI = Dilatation av vagina
+
+@END = 
+
+@KOODI = TLE20 
+
+@NCSP = LEXX20
+
+@SUOMI = Pisto emättimen kautta vatsaonteloon
+
+@RUOTSI = Transvaginal punktion av fossa Douglasi
+
+@END = 
+
+@KOODI = TLE30 
+
+@NCSP = LEXX30
+
+@SUOMI = Emättimen tamponointi
+
+@RUOTSI = Tamponad av vagina
+
+@END = 
+
+@KOODI_R = LF
+
+@SUOMI_R = Ulkosynnyttimet ja väliliha
+
+@RUOTSI_R = Vulva och perineum
+
+@ENGL_R = Vulva and perineum
+
+@END = 
+
+@KOODI_A = LFA
+
+@NCSP_A = LFSA
+
+@SUOMI_A = Ulkosynnyttimien ja välilihan aukaisut
+
+@RUOTSI_A = Incision av vulva och perineum
+
+@ENGL_A = Incision of vulva and perineum
+
+@END = 
+
+@KOODI = LFA00 
+
+@NCSP = LFSA00
+
+@SUOMI = Ulkosynnyttimien ja välilihan aukaisu ja kanavointi
+
+@RUOTSI = Incision av vulva eller perineum (inkl ev dränage)
+
+@END = 
+
+@KOODI = LFA10 
+
+@NCSP = LFSA10
+
+@SUOMI = Immenkalvon aukaisu
+
+@RUOTSI = Discission av hymenrest eller hymen imperforatus
+
+@END = 
+
+@KOODI_A = LFB
+
+@NCSP_A = LFSB
+
+@SUOMI_A = Koepalan otot ulkosynnyttimistä tai välilihasta
+
+@RUOTSI_A = Biopsi, excision eller destruktion av förändring i vulva och perineum
+
+@ENGL_A = Biopsy, excision or destruction of lesion of vulva and perineum
+
+@END = 
+
+@KOODI = LFB00 
+
+@NCSP = LFSB00
+
+@SUOMI = Koepalan otto ulkosynnyttimistä tai välilihasta
+
+@RUOTSI = Biopsi av vulva eller perineum
+
+@END = 
+
+@KOODI = LFB10 
+
+@NCSP = LFSB10
+
+@SUOMI = Ulkosynnyttimien tai välilihan paikallisen muutoksen poisto leikkaamalla
+
+@RUOTSI = Excision av lokal förändring i vulva och perineum
+
+@NOTE_F = Sisältää kasvaimen tai haavauman
+
+@NOTE_S = Inkl av tumör eller ulceration
+
+@END = 
+
+@KOODI = LFB20 
+
+@NCSP = LFSB20
+
+@SUOMI = Ulkosynnyttimien tai välilihan paikallisen muutoksen muu poisto
+
+@RUOTSI = Destruktion av lokal förändring i vulva och perineum
+
+@NOTE_F = Menetelmä (poltto, jäädytys tai laser) voidaan ilmaista lisäkoodilla ryhmästä ZXC
+
+@NOTE_S = Metod (diatermi, kryo, laser) kan anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI_A = LFC
+
+@NCSP_A = LFSC
+
+@SUOMI_A = Ulkosynnyttimien ja välilihan osittaiset poistoleikkaukset
+
+@RUOTSI_A = Delresektioner av vulva och perineum
+
+@ENGL_A = Partial excision of vulva and perineum
+
+@END = 
+
+@KOODI = LFC00 
+
+@NCSP = LFSC00
+
+@SUOMI = Ulkosynnyttimien osittainen poisto
+
+@RUOTSI = Vulvaresektion
+
+@END = 
+
+@KOODI = LFC96 
+
+@NCSP = LFSC96
+
+@SUOMI = Muu ulkosynnyttimien ja välilihan osittainen poistoleikkaus
+
+@RUOTSI = Annan resektion av vulva eller perineum
+
+@END = 
+
+@KOODI_A = LFD
+
+@NCSP_A = LFSD
+
+@SUOMI_A = Ulkosynnyttimien poistoleikkaukset
+
+@RUOTSI_A = Total vulvektomi
+
+@ENGL_A = Total excision of vulva
+
+@END = 
+
+@KOODI = LFD00 
+
+@NCSP = LFSD00
+
+@SUOMI = Ulkosynnyttimien poisto kokonaan
+
+@RUOTSI = Vulvektomi
+
+@END = 
+
+@KOODI = LFD10 
+
+@NCSP = LFSD10
+
+@SUOMI = Ulkosynnyttimien ja paikallisten imusolmukkeiden poisto
+
+@RUOTSI = Vulvektomi med utrymning av lymfkörtlar
+
+@END = 
+
+@KOODI_A = LFE
+
+@NCSP_A = LFSE
+
+@SUOMI_A = Ulkosynnyttimien ja välilihan korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktion av vulva och perineum
+
+@ENGL_A = Repair of vulva and perineum
+
+@END = 
+
+@KOODI = LFE00 
+
+@NCSP = LFSE00
+
+@SUOMI = Ulkosynnyttimien ompelu
+
+@RUOTSI = Sutur av vulva
+
+@END = 
+
+@KOODI = LFE10 
+
+@NCSP = LFSE10
+
+@SUOMI = Ulkosynnyttimien muovaus
+
+@RUOTSI = Vulvaplastik
+
+@END = 
+
+@KOODI = LFE20 
+
+@NCSP = LFSE20
+
+@SUOMI = Välilihan ompelu
+
+@RUOTSI = Perineorafi
+
+@NOTE_F = Synnytyksen jälkeen kohdassa MBA
+
+@NOTE_S = Efter förlossning, se MBA
+
+@END = 
+
+@KOODI = LFE96 
+
+@NCSP = LFSE96
+
+@SUOMI = Muu ulkosynnyttimien tai välilihan korjaava leikkaus
+
+@RUOTSI = Annan rekonstruktion av vulva eller perineum
+
+@END = 
+
+@KOODI_A = LFF
+
+@NCSP_A = LFSF
+
+@SUOMI_A = Bartholinin rauhasten leikkaukset
+
+@RUOTSI_A = Operationer på glandula Bartholin
+
+@ENGL_A = Operations on Bartholin gland
+
+@END = 
+
+@KOODI = LFF00 
+
+@NCSP = LFSF00
+
+@SUOMI = Bartholinin rauhasen aukaisu ja reunan ompelu
+
+@RUOTSI = Marsupialisation av Bartholin's körtel (glandula vestibularis major)
+
+@END = 
+
+@KOODI = LFF10 
+
+@NCSP = LFSF10
+
+@SUOMI = Bartholinin rauhasen poisto
+
+@RUOTSI = Exstirpation av glandula Bartholini
+
+@END = 
+
+@KOODI = LFF96 
+
+@NCSP = LFSF96
+
+@SUOMI = Muu Bartholinin rauhasen leikkaus
+
+@RUOTSI = Annan operation på glandula Bartholini
+
+@END = 
+
+@KOODI_A = LFW
+
+@NCSP_A = LFSW
+
+@SUOMI_A = Muut ulkosynnyttimien ja välilihan leikkaukset
+
+@RUOTSI_A = Andra operationer på vulva och perineum
+
+@ENGL_A = Other operations on vulva and perineum
+
+@END = 
+
+@KOODI = LFW96 
+
+@NCSP = LFSW96
+
+@SUOMI = Muu ulkosynnyttimien ja välilihan leikkaus
+
+@RUOTSI = Annan operation på vulva/perineum
+
+@END = 
+
+@KOODI_R = LG
+
+@SUOMI_R = Naisen sterilisaatio ja hedelmättömyyshoidot
+
+@RUOTSI_R = Sterilisation och fertilisaation på kvinnor
+
+@ENGL_R = Female sterilisation and fertilisation
+
+@END = 
+
+@KOODI_A = LGA
+
+@NCSP_A = LGS
+
+@SUOMI_A = Naisen sterilisaatioleikkaukset
+
+@RUOTSI_A = Sterilisationsoperationer på kvinnor
+
+@ENGL_A = Female sterilisation
+
+@END = 
+
+@KOODI = LGA00 
+
+@NCSP = LGSA00
+
+@SUOMI = Munanjohtimien sitominen
+
+@RUOTSI = Tubarligatur för sterilisation
+
+@END = 
+
+@KOODI = LGA10 
+
+@NCSP = LGSA10
+
+@SUOMI = Munanjohtimien katkaisu tai poltto
+
+@RUOTSI = Öppen koagulation och/eller delning av tubor för sterilisation
+
+@END = 
+
+@KOODI = LGA11 
+
+@NCSP = LGSA11
+
+@SUOMI = Munanjohtimien katkaisu tai poltto vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk koagulation och/eller delning av tubor för sterilisation,
+
+@END = 
+
+@KOODI = LGA20 
+
+@NCSP = LGSA20
+
+@SUOMI = Munanjohtimien tukkiminen puristusrenkaalla tai klipsillä
+
+@RUOTSI = Förslutning av tubor för sterilisation medelst kompressionsringar eller clips
+
+@END = 
+
+@KOODI = LGA21 
+
+@NCSP = LGSA21
+
+@SUOMI = Munanjohtimien tukkiminen puristusrenkaalla tai klipsillä vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk förslutning av tubor för sterilisation (ringar,clips)
+
+@END = 
+
+@KOODI = LGA22 
+
+@NCSP = LGSA22
+
+@SUOMI = Munanjohtimien tukkiminen kohduntähystyksessä
+
+@RUOTSI = Hysteroskopisk sterilisation (pluggning, polymerinjektion,etc.)
+
+@END = 
+
+@KOODI = LGA96 
+
+@NCSP = LGSA96
+
+@SUOMI = Muu munanjohtimien tukkiminen
+
+@RUOTSI = Annan obliteration av tuborna
+
+@END = 
+
+@KOODI = LGA97 
+
+@NCSP = LGSA97
+
+@SUOMI = Muu naisten sterilisaatio vatsaontelon tähystyksessä
+
+@RUOTSI = Annan laparoskopisk sterilisation av kvinna
+
+@END = 
+
+@KOODI = LGA98 
+
+@NCSP = LGSA98
+
+@SUOMI = Muu naisten sterilisaatio kohduntähystyksessä
+
+@RUOTSI = Annan transluminal hysteroskopisk sterilisation
+
+@END = 
+
+@KOODI_A = LG_
+
+@NCSP_A = LGX
+
+@SUOMI_A = Hedelmöityshoidot
+
+@RUOTSI_A = Fertilisation
+
+@ENGL_A = Assited fertilisation
+
+@END = 
+
+@KOODI = TLW00 
+
+@NCSP = LGXA00
+
+@SUOMI = Inseminaatio
+
+@RUOTSI = Insemination
+
+@NOTE_F = Sisältää siemennesteen käsittelyn
+
+@NOTE_S = Inkl arbetet med semen
+
+@END = 
+
+@KOODI = TLW10 
+
+@NCSP = LGXA10
+
+@SUOMI = Alkionsiiirto tavanomaisella tekniikalla
+
+@RUOTSI = Implatation av embryo med sedvanlig teknik
+
+@END = 
+
+@KOODI = TLW12 
+
+@NCSP = LGXA12
+
+@SUOMI = Pakastettuna säilytetyn alkion siirto
+
+@RUOTSI = Implantation av djupfryst bevarad embryo
+
+@END = 
+
+@KOODI = TLW14 
+
+@NCSP = LGXA14
+
+@SUOMI = Siittiöiden ruiskutustekniikalla hedelmöitetyn alkion siirto
+
+@RUOTSI = Implantation av embryo befruktad med ICSI-teknik
+
+@END = 
+
+@KOODI_R = LW
+
+@SUOMI_R = Gynekologisen kirurgian komplikaatioleikkaukset
+
+@RUOTSI_R = Operationer för komplikationer av gynekologisk kirurgi
+
+@ENGL_R = Reoperations on female genital organs
+
+@END = 
+
+@KOODI = LWA00 
+
+@NCSP = LWSA00
+
+@SUOMI = Auenneen tai tulehtuneen naisen sukupuolielinleikkausken haavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/infektion efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWC00 
+
+@NCSP = LWSC00
+
+@SUOMI = Naisen sukupuolielinleikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Öppning och dränering av infekterad sårhåla efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWE00 
+
+@NCSP = LWSE00
+
+@SUOMI = Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen haava(ontelo)n vuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWE01 
+
+@NCSP = LWSE01
+
+@SUOMI = Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen vuodon vuoksi vatsaontelon tähytyksessä
+
+@RUOTSI = Perkutan endoskopisk reoperation för blödning  efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWF00 
+
+@NCSP = LWSF00
+
+@SUOMI = Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen ompeleiden pettämisen vuoksi
+
+@RUOTSI = Reoperation för suturruptur efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWF01 
+
+@NCSP = LWSF01
+
+@SUOMI = Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen ompeleiden pettämisen vuoksi vatsaontelon tähytyksessä
+
+@RUOTSI = Perkutan endoskopisk reoperation för suturruptur efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWW96 
+
+@NCSP = LWSW96
+
+@SUOMI = Muu uusintaleikkaus naisen sukupuolielinleikkauksen komplikaation vuoksi
+
+@RUOTSI = Annan laparoskopisk reoperation för komplikation efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI = LWW97 
+
+@NCSP = LWSW97
+
+@SUOMI = Muu uusintaleikkaus naisen sukupuolielinleikkauksen komplikaation vuoksi vatsaontelon tähystyksessä
+
+@RUOTSI = Annan reoperation för komplikation efter operation på kvinnliga genitalia
+
+@END = 
+
+@KOODI_R = LX
+
+@SUOMI_R = Tarkemmin paikantamattomat gynegologiset toimenpiteet
+
+@RUOTSI_R = Gynegologiska åtgärder utan närmare lokalisation
+
+@ENGL_R = Other procedures on female genital organs
+
+@END = 
+
+@KOODI_A = LX_
+
+@NCSP_A = LXD
+
+@SUOMI_A = Gynekologinen diagnostinen radiologia
+
+@RUOTSI_A = Gynegologisk diagnostisk radiologi
+
+@ENGL_A = Other diagnostic  procedures on female genital organs
+
+@NOTE_RF = Elinkohtaiset tutkimukset ovat kunkin elimen kohdalla
+
+@NOTE_RS = Undersökningar av specifierade organ anges vid var organ
+
+@END = 
+
+@KOODI = LX1AE 
+
+@NCSP = LXDE1A
+
+@SUOMI = Gynekologinen UÄ-tutkimus kliinisen tutkimuksen yhteydessä
+
+@RUOTSI = Gynekologiskt UL i samband med klinisk undersökning
+
+@NOTE_F = Ilman erillistä lausuntoa
+
+@NOTE_S = Utan separat utlåtande
+
+@END = 
+
+@KOODI = LX1XE 
+
+@NCSP = LXDE1X
+
+@SUOMI = Gynekologinen muu UÄ
+
+@RUOTSI = Annan gynekologiskt UL
+
+@END = 
+
+@KOODI_A = LX_
+
+@NCSP_A = LXX
+
+@SUOMI_A = Muut gynegologiset toimenpiteet
+
+@RUOTSI_A = Andra gynekologiska åtgärder
+
+@ENGL_A = Other procedures on female genital organs
+
+@NOTE_RF = Gynekologisen tuumorin embolisaatio kohdassa PD
+
+@NOTE_RS = Embolisering av gynekologisk tumör, se PD
+
+@END = 
+
+@KOODI = TLW99 
+
+@NCSP = LXXX99
+
+@SUOMI = Muu naisen sukupuolielinten pientoimenpide
+
+@RUOTSI = Annan mindre operation på kvinnliga genitalia
+
+@NOTE_F = Ultraääniohjattu munajohtimen katetrisaatio, katso LB1YT
+
+@NOTE_S = Ultraljudsutstyrd katetrisering av tuba, se LB1YT
+
+@END = 

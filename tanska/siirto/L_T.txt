@@ -1,0 +1,3713 @@
+
+###
+#KOODI_L    T
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#SUOMI      Pientoimenpiteet
+#RUOTSI     Mindre ingrepp
+#ENGL       Minor surgical procedures
+###
+#KOODI_R    TA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Hermoston pientoimenpiteet
+#RUOTSI     Mindre neurologiska åtgärder
+#ENGL       Minor neurosurgical procedures
+###
+#KOODI      TA100 
+#MUUT_PVM   1997/12/19
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkutaaninen sähköinen hermostimulaatio
+#RUOTSI     Transkutan elektrisk nervstimulation
+#LYHENNE    Transkutaaninen sähköinen hermostimulaat
+###
+#KOODI      TAA40 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivo-selkäydinesteen kanavointi iholle
+#RUOTSI     Kanalisering av cerebro-spinalvätska genom huden
+#LYHENNE    Aivo-selkäydinesteen kanavointi iholle
+#OHJE_S  
+Kanavointi radiologista menetelmää hyödyntäen, katso AB4AT, AB4BT, AB4CT tai AB4DT (radiologian luokitus)
+#OHJE_R 
+Kanalisering med hjälp av radiologisk metod, se  AB4AT, AB4BT, AB4CT eller AB4DT (klassifikation för radiologi)
+###
+#KOODI      TAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2301      
+#SUOMI      Lannepisto (lumbaalipunktio)
+#RUOTSI     Lumbalpunktion
+#LYHENNE    Lannepisto, lumbaalipunktio
+###
+#KOODI      TAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2309+     
+#SUOMI      Niskapisto
+#RUOTSI     Nackstick (suboccipitalpunktion)
+#LYHENNE    Niskapisto
+###
+#KOODI      TAB20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraalipisto
+#RUOTSI     Epiduralpunktion
+#LYHENNE    Epiduraalipisto
+###
+#KOODI      TAB22 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraalinen veripaikka
+#RUOTSI     Tiltätning av epidural läckage med blod
+#LYHENNE    Epiduraalinen veripaikka
+###
+#KOODI      TAB24 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraaliportin asennus
+#RUOTSI     Ingläggning av epiduralport
+#LYHENNE    Epiduraaliportin asennus
+###
+#KOODI      TAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2410      
+#SUOMI      Kivun hoito ääreishermon salpauksella
+#RUOTSI     Blockad av perifer nerv i kronisk smärta
+#LYHENNE    Kivun hoito ääreishermon salpauksella
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se  AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAC02 
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivun hoito kylkiluunvälihermojen salpauksella
+#RUOTSI     Interkostalblockad i kronisk smärta
+#LYHENNE    Interkostaaliblokadi
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAC99 
+#MUUT_PVM   1996/11/25
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu puudutustoimenpide kroonisen kivun hoidossa
+#RUOTSI     Annan bedövning för kronisk smärta
+#LYHENNE    Muu puudutustoimenpide kivun hoidossa
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAD02 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2419+     
+#SUOMI      Sympaattisen hermoston salpaus tähtipunoksessa
+#RUOTSI     Sympathicus-blockad i ganglion stellatum
+#LYHENNE    Sympaattisen hermoston salpaus,blokadi
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAD04 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sympaattisen hermoston salpaus keliakuspunoksessa
+#RUOTSI     Sympathicus-blockad i ganglion coeliacum
+#LYHENNE    Sympaattisen hermoston salpaus keliakus
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se  AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAD06 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sympaattisen hermoston salpaus lannerangan tasolla
+#RUOTSI     Sympathicus-blockad i lumbal nivå
+#LYHENNE    Sympaattisen hermoston salpaus lannerang
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAD08 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sympaattisen hermoston salpaus ristiluun tasolla
+#RUOTSI     Sympathicus-blockad i sakral nivå
+#LYHENNE    Sympaattisen hermoston salpaus ristiluun
+#OHJE_S  
+Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+#OHJE_R 
+Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+###
+#KOODI      TAD10 
+#MUUT_PVM   2003/11/17
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sympaattisen hermoston yleinen salpaus
+#RUOTSI     Allmän sympathicus-blockad
+#LYHENNE    Sympaattisen hermoston yleinen salpaus
+#OHJE_S  
+Käyttäen suonensisäistä lääkeainetta
+Esim. guanetidiini-salpaus
+#OHJE_R 
+Med intravenöst läkemedel
+T.ex. guanetidin-blockad
+###
+#KOODI      TAW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2419+     
+#SUOMI      Muu hermoston pientoimenpide
+#RUOTSI     Annan mindre åtgärd i nervsystemet
+#LYHENNE    Muu hermoston pientoimenpiteet
+###
+#KOODI_R    TB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Umpierityselimien pientoimenpiteet
+#RUOTSI     Mindre åtgärder på endokrina organ
+#ENGL       Minor procedures in endocrine surgery
+###
+#KOODI      TBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2509      
+#SUOMI      Kilpirauhaspisto
+#RUOTSI     Punktion av sköldkörteln
+#LYHENNE    Kilpirauhaspisto
+###
+#KOODI      TBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2501      
+#SUOMI      Neulakudosnäytteen otto kilpirauhasesta
+#RUOTSI     Punktionsbiopsi av sköldkörteln
+#LYHENNE    Neulakudosnäytteen otto kilpirauhasesta
+#OHJE_S  
+UÄ ohjattuna, katso  BA2AT (radiologian luokitus)
+#OHJE_R 
+Ultraljudsutstryrd, se BA2AT (klassifikation för radiologi)
+###
+#KOODI      TBA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2509      
+#SUOMI      Ohutneulanäytteen otto kilpirauhasesta
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av sköldkörteln
+#LYHENNE    Ohutneulanäytteen otto kilpirauhasesta
+#OHJE_S  
+UÄ ohjattuna, katso  BA3AT (radiologian luokitus)
+#OHJE_R 
+Ultraljudsutstryrd, se BA3AT (klassifikation för radiologi)
+###
+#KOODI      TBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2529      
+#SUOMI      Lisäkilpirauhaspisto
+#RUOTSI     Punktion av bisköldkörtel
+#LYHENNE    Lisäkilpirauhaspisto
+#OHJE_S  
+UÄ-ohjaus koodataan radiologisella lisäkoodilla (BB1AE)
+#OHJE_R 
+Ultraljudsutstryrning anges med radiologisk tilläggskod (BB1AE)
+###
+#KOODI      TBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2529      
+#SUOMI      Neulakudosnäytteen otto lisäkilpirauhasesta
+#RUOTSI     Punktionsbiopsi av bisköldkörtel
+#LYHENNE    Neulakudosnäytte lisäkilpirauhasesta
+#OHJE_S  
+UÄ ohjattuna, katso  BB2AT tai BB3AT (radiologian luokitus)
+#OHJE_R 
+Ultraljudsutstryrd, se BA2AT eller BA3AT (klassifikation för radiologi)
+###
+#KOODI      TBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2539      
+#SUOMI      Neulakudosnäytteen otto lisämunuaisesta
+#RUOTSI     Punktionsbiopsi av binjure
+#LYHENNE    Neulakudosnäytteen otto lisämunuaisesta
+#OHJE_S  
+Radiologisessa ohjauksessa, katso  BC2AT, BC2CT tai BC2DT (radiologian luokitus)
+#OHJE_R 
+Med radiologisk utstryrning, se BC2AT, BC2CT eller BC2DT (klassifikation för radiologi)
+###
+#KOODI      TBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2539      
+#SUOMI      Ohutneulanäytteen otto lisämunuaisesta
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av binjure
+#LYHENNE    Ohutneulanäytteen otto lisämunuaisesta
+#OHJE_S  
+Radiologisessa ohjauksessa, katso  BC3AT, BC3CT, BC3DT (radiologian luokitus)
+#OHJE_R 
+Med radiologisk utstryrning, se BC3AT, BC3CT eller BC3DT (klassifikation för radiologi)
+###
+#KOODI      TBW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2559      
+#SUOMI      Muu umpierityselimien pientoimenpide
+#RUOTSI     Annan mindre operation på endokrina organ
+#LYHENNE    Muu umpierityselimien pientoimenpide
+###
+#KOODI_R    TC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Silmän pientoimenpiteet
+#RUOTSI     Mindre åtgärder i ögonregionen
+#ENGL       Minor procedures in eye surgery
+###
+#KOODI      TCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3111      
+#SUOMI      Neulakudosnäytteen otto silmäkuopasta
+#RUOTSI     Punktionsbiopsi av orbita
+#LYHENNE    Neulakudosnäytteen otto silmäkuopasta
+###
+#KOODI      TCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3111+     
+#SUOMI      Ohutneulanäytteen otto silmäkuopasta
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av orbita
+#LYHENNE    Ohutneulanäytteen otto silmäkuopasta
+###
+#KOODI      TCA15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3111+     
+#SUOMI      Lääkkeen ruiskuttaminen silmän taakse
+#RUOTSI     Retrobulbär injektion av läkemedel i orbita
+#LYHENNE    Lääkkeen ruiskuttaminen silmän taakse
+###
+#KOODI      TCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3111+     
+#SUOMI      Lääkkeen ruiskuttaminen silmän ympärille
+#RUOTSI     Peribulbär injektion av läkemedel i orbita
+#LYHENNE    Lääkkeen ruiskuttaminen silmän ympärille
+###
+#KOODI      TCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3209      
+#SUOMI      Neulakudosnäytteen otto silmäluomesta
+#RUOTSI     Punktionsbiopsi av ögonlock
+#LYHENNE    Neulakudosnäytteen otto silmäluomesta
+###
+#KOODI      TCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3211      
+#SUOMI      Silmäripsien poistaminen nyppimällä
+#RUOTSI     Epilering av cilier vid trichiasis
+#LYHENNE    Silmäripsien poistaminen nyppimällä
+#OHJE_S  
+Poisto sähköllä kohdassa CBG00
+#OHJE_R 
+Elektrolysepilering av cilier, se CBG00
+###
+#KOODI      TCB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289+     
+#SUOMI      Ptoosin takia asetetun ompeleen poistaminen
+#RUOTSI     Avlägsnande av ptos-sutur
+#LYHENNE    Ptoosiompeleen poistaminen
+#OHJE_S  
+esim. luomikouristuksessa
+#OHJE_R 
+T.ex. vid blefarospasm (ögonlockskramp)
+###
+#KOODI      TCB40 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM   1997/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Chalazionin poisto
+#RUOTSI     Extirpation av chalazion
+#LYHENNE    Chalazionin poisto
+###
+#KOODI      TCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Neulakudosnäytteen otto kyynelrauhasesta
+#RUOTSI     Punktionsbiopsi av tårkörtel
+#LYHENNE    Neulakudosnäytteen otto kyynelrauhasesta
+###
+#KOODI      TCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3312      
+#SUOMI      Kyyneltiehyeen ja kyynelkanavan sondeeraus
+#RUOTSI     Sondering av tårpunkt och tårrör, canaliculus lacrimalis
+#LYHENNE    Canaliculus lacrimalis sondeeraus
+###
+#KOODI      TCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Kyyneltiehytputken tai kyynelkanavaputken asettaminen
+#RUOTSI     Intubation av tårrör kanal eller nästårgång
+#LYHENNE    Kyyneltiehyt-/kyynelkanavaputkiasetus
+###
+#KOODI      TCC40 
+#MUUT_PVM   1997/12/22
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyyneltietulppien asettaminen
+#RUOTSI     Stängning av tårrör med propp
+#LYHENNE    Kyyneltietulppien asettaminen
+###
+#KOODI      TCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3111+     
+#SUOMI      Lääkkeen ruiskuttaminen silmälihaksiin
+#RUOTSI     Injektion av läkemedel i ögonmuskel
+#LYHENNE    Lääkeruiske silmälihaksiin
+###
+#KOODI      TCF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3609      
+#SUOMI      Lääkkeen ruiskuttaminen sidekalvon alle
+#RUOTSI     Subkonjunktival injektion av läkemedel
+#LYHENNE    Lääkkeen ruiskutus sidekalvon alle
+###
+#KOODI      TCG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveis- ja kovakalvon suojaus kontaktilinssillä
+#RUOTSI     Behandling av sår i hornhinna eller sklera med bandagelins
+#LYHENNE    Sarveis-/kovakalvosuoja,kontaktilinssi
+###
+#KOODI      TCG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvo-ommelten poisto
+#RUOTSI     Suturtagning från hornhinna
+#LYHENNE    Sarveiskalvo-ommelten poisto
+###
+#KOODI      TCG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvo- tai kovakalvo-ommelten poisto laserilla
+#RUOTSI     Suturtagning från hornhinna eller sklera med laser
+#LYHENNE    Sarveis-/kovakalvo-ommelpoisto laserilla
+###
+#KOODI      TCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Etukammion pisto
+#RUOTSI     Aspiration av vätska från främre kammaren
+#LYHENNE    Etukammion pisto
+###
+#KOODI      TCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Pistonäytteen otto värikalvosta
+#RUOTSI     Punktionsbiopsi av iris
+#LYHENNE    Pistonäytteen otto värikalvosta
+###
+#KOODI      TCH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Pistonäytteen otto sädekehästä
+#RUOTSI     Punktionsbiopsi av ciliarkroppen
+#LYHENNE    Pistonäytteen otto sädekehästä
+###
+#KOODI      TCK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Suonikalvon ja verkkokalvon valoherkistäminen
+#RUOTSI     Fotosensitering av åderhinna och näthinna
+#LYHENNE    Suoni-/verkkokalvon valoherkistäminen
+#OHJE_S  
+Fotokoagulaation valmistelu
+#OHJE_R 
+Förberedelse för fotokoagulation
+###
+#KOODI      TCK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Pistonäytteen otto suonikalvosta
+#RUOTSI     Punktionsbiopsi av åderhinna
+#LYHENNE    Pistonäytteen otto suonikalvosta
+###
+#KOODI      TCK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Pistonäytteen otto lasiaisesta
+#RUOTSI     Punktionsbiopsi av glaskropp
+#LYHENNE    Pistonäytteen otto lasiaisesta
+###
+#KOODI      TCK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Pistonäytteen otto verkkokalvosta
+#RUOTSI     Punktionsbiopsi av retina
+#LYHENNE    Pistonäytteen otto verkkokalvosta
+###
+#KOODI      TCW99 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu silmän alueen pientoimenpide
+#RUOTSI     Annan mindre operation i ögonregionen
+#LYHENNE    Muu silmän alueen pientoimenpide
+###
+#KOODI_R    TD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Korvan, nenän ja kurkunpään pientoimenpiteet
+#RUOTSI     Mindre åtgärder på öron, näsa, svalg och struphuvud
+#ENGL       Minor procedures in surgery of ear, nose and larynx
+###
+#KOODI      TDA00 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4102+     
+#SUOMI      Neulakudosnäytteen otto korvalehdestä tai korvakäytävästä
+#RUOTSI     Punktionsbiopsi av ytteröra eller yttre hörselgång
+#LYHENNE    Neulakudosnäyte ulkokorva/korvakäytävä
+###
+#KOODI      TDA10 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4102+     
+#SUOMI      Koepalan otto korvalehdestä tai korvakäytävästä
+#RUOTSI     Biopsi av ytteröra eller yttre hörselgång
+#LYHENNE    Biopsia ulkokorvasta tai korvakäytävästä
+###
+#KOODI      TDA90 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vahanpoisto korvakäytävästä
+#RUOTSI     Avlägsnande av vax från hörselgång
+#LYHENNE    Vahanpoisto korvakäytävästä
+###
+#KOODI      TDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4119      
+#SUOMI      Vierasesineen poisto korvakäytävästä
+#RUOTSI     Avlägsnande av främmande kropp från hörselgång
+#LYHENNE    Vierasesineen poisto korvakäytävästä
+#OHJE_S  
+Ihon sisään tunkeutuneen vierasesineen poisto kohdassa DBW99
+#OHJE_R 
+---
+###
+#KOODI      TDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4121+     
+#SUOMI      Neulakudosnäytteen otto tärykalvosta
+#RUOTSI     Punktionsbiopsi av trumhinna
+#LYHENNE    Neulakudosnäytteen otto tärykalvosta
+###
+#KOODI      TDC10 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4119      
+#SUOMI      Ilmastointiputken poisto tärykalvosta
+#RUOTSI     Avlägsnande av mellanöredränage
+#LYHENNE    Ilmastointiputken poisto tärykalvosta
+###
+#KOODI      TDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Neulakudosnäytteen otto ulkonenästä
+#RUOTSI     Punktionsbiopsi av näsan
+#LYHENNE    Neulakudosnäytteen otto ulkonenästä
+###
+#KOODI      TDH50 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenänväliseinän sivuun luiskahduksen korjaaminen vastasyntyneellä
+#RUOTSI     Neonatal korrektion av deviation av nasal septum
+#LYHENNE    Sept. nasi deviaatio korj neonat
+###
+#KOODI      TDH60 
+#MUUT_PVM   1996/06/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Vierasesineen poisto nenästä
+#RUOTSI     Avlägsnande av främmande kropp från näsan
+#LYHENNE    Vierasesineen poisto nenästä
+###
+#KOODI      TDM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Neulakudosnäytteen otto poskiontelosta
+#RUOTSI     Punktionsbiopsi av käkhåla
+#LYHENNE    Neulakudosnäytteen otto poskiontelosta
+###
+#KOODI      TDM10 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239+     
+#SUOMI      Poskiontelon pisto
+#RUOTSI     Punktion av käkhåla
+#LYHENNE    Poskiontelon punktio
+#OHJE_S  
+Sisältää poskiontelon huuhtelun
+#OHJE_R 
+Inkl spolning
+###
+#KOODI      TDN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Neulakudosnäytteen otto seulalokeroista tai seulaluusta
+#RUOTSI     Punktionsbiopsi av sinus ethmoidalis eller os ethmoidale
+#LYHENNE    Neulakudosnäyte seulalokeroista/-luusta
+###
+#KOODI      TDP00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Neulakudosnäytteen otto otsaontelosta
+#RUOTSI     Punktionsbiopsi av sinus frontalis
+#LYHENNE    Neulakudosnäytteen otto otsaontelosta
+###
+#KOODI      TDP05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Otsaontelon pisto
+#RUOTSI     Punktion av sinus frontalis
+#LYHENNE    Otsaontelon punktio
+###
+#KOODI      TDP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Neulakudosnäytteen otto kitaontelosta
+#RUOTSI     Punktionsbiopsi av sinus sphenoidalis
+#LYHENNE    Neulakudosnäytteen otto kitaontelosta
+###
+#KOODI      TDQ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Neulakudosnäytteen otto kurkunpäästä
+#RUOTSI     Punktionsbiopsi av larynx
+#LYHENNE    Neulakudosnäytteen otto kurkunpäästä
+###
+#KOODI      TDW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Muu korvan, nenän tai kurkunpään pientoimenpide
+#RUOTSI     Annat mindre ingrepp på öron, näsa, svalg och larynx
+#LYHENNE    Muu korvan,nenän/kurkunpään pientmp
+###
+#KOODI_R    TE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Suun, leukojen ja nielun pientoimenpiteet
+#RUOTSI     Mindre åtgärder i mun, käkar och svalg
+#ENGL       Minor procedures in surgery of mouth,  jaws and pharynx
+#OHJE_S  
+Suun ja hampaiston toimenpiteet, katso luku S
+#OHJE_R 
+Åtgärder på mun och tänder, se kapitel S
+###
+#KOODI      TEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Koepalan otto huulesta
+#RUOTSI     Biopsi av läpp
+#LYHENNE    Koepalan otto huulesta
+###
+#KOODI      TEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Neulakudosnäytteen otto huulesta
+#RUOTSI     Punktionsbiopsi av läpp
+#LYHENNE    Neulakudosnäytteen otto huulesta
+###
+#KOODI      TEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/07/09
+#POISTETTU
+#VANHA      4302+     
+#SUOMI      Hampaan kruunuttaminen
+#RUOTSI     Applikationav tandkrona
+#LYHENNE    Hampaan kruunuttaminen
+###
+#KOODI      TEB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/07/09
+#POISTETTU
+#VANHA      4302+     
+#SUOMI      Hampaantäyttö suoralla menetelmällä
+#RUOTSI     Tandfyllning med plastiskt material
+#LYHENNE    Hampaantäyttö suoralla menetelmällä
+###
+#KOODI      TEB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/07/09
+#POISTETTU
+#VANHA      4302+     
+#SUOMI      Hampaantäyttö epäsuoralla menetelmällä
+#RUOTSI     Tandfyllning med fast material
+#LYHENNE    Hampaantäyttö epäsuoralla menetelmällä
+###
+#KOODI      TEB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/07/09
+#POISTETTU
+#VANHA      4307      
+#SUOMI      Hampaan juurihoito
+#RUOTSI     Rotbehandling av tand
+#LYHENNE    Hampaan juurihoito
+###
+#KOODI      TEB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/07/09
+#POISTETTU
+#VANHA      4306      
+#SUOMI      Märkivän hampaan aukaisu
+#RUOTSI     Dränage av odontogen abscess
+#LYHENNE    Märkivän hampaan avaus
+###
+#KOODI      TEC00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Neulakudosnäytteenotto ikenestä
+#RUOTSI     Punktionsbiopsi av gingiva
+#LYHENNE    Neulanäytteenotto ikenestä
+###
+#KOODI      TED00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leukanivelen sijoiltaanmenon paikoilleen asettaminen
+#RUOTSI     Reposition av luxerad underkäke
+#LYHENNE    Leukanivelsijoiltaanmenon repositio
+###
+#KOODI      TED10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Neulakudosnäytteen otto alaleuasta
+#RUOTSI     Punktionsbiopsi av underkäken
+#LYHENNE    Neulakudosnäytteen otto alaleuasta
+###
+#KOODI      TEE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Neulakudosnäytteen otto yläleuasta
+#RUOTSI     Punktionsbiopsi av överkäken
+#LYHENNE    Neulakudosnäytteen otto yläleuasta
+###
+#KOODI      TEG00 
+#MUUT_PVM   1999/07/13
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4359      
+#SUOMI      Leukanivelen pisto
+#RUOTSI     Injektion i käkleden
+#LYHENNE    Leukanivelpunktio
+#OHJE_S  
+Sisältää näytteenoton ja lääkityksen
+#OHJE_R 
+Inkl. biopsi och medicinering
+###
+#KOODI      TEH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4389      
+#SUOMI      Neulakudosnäytteen otto suulaesta
+#RUOTSI     Punktionsbiopsi av gommen
+#LYHENNE    Neulakudosnäytteen otto suulaesta
+###
+#KOODI      TEJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4399      
+#SUOMI      Neulakudosnäytteen otto suunpohjasta
+#RUOTSI     Punktionsbiopsi av munbotten
+#LYHENNE    Neulakudosnäytteen otto suunpohjasta
+###
+#KOODI      TEL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4402      
+#SUOMI      Neulakudosnäytteen otto sylkirauhasesta
+#RUOTSI     Punktionsbiopsi av spottkörtel
+#LYHENNE    Neulakudosnäytteen otto sylkirauhasesta
+###
+#KOODI      TEL40 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Sylkirauhastiehyen aukaisu koettimella
+#RUOTSI     Sondering av spottkörtelgång
+#LYHENNE    Sylkirauhastiehyen sondeeraus
+###
+#KOODI      TEM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4459      
+#SUOMI      Neulakudosnäytteen otto nielu- tai kitarisasta
+#RUOTSI     Punktionsbiopsi av tonsiller och adenoid
+#LYHENNE    Neulakudosnäyte nielu-/kitarisasta
+###
+#KOODI      TEN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4479      
+#SUOMI      Neulakudosnäytteen otto nielusta
+#RUOTSI     Punktionsbiopsi av farynx
+#LYHENNE    Neulakudosnäytteen otto nielusta
+###
+#KOODI      TEW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4329      
+#SUOMI      Muu hampaiden, ikenien, suun ja nielun pientoimenpide
+#RUOTSI     Annan mindre operation i läppar, tänder, käkar, mun och svalg
+#LYHENNE    Muu hammas/ien/suu/nielupientmp
+###
+#KOODI_R    TF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Sydämen ja suurten verisuonien pientoimenpiteet
+#RUOTSI     Mindre åtgärder på hjärtat och de stora intratorakala kärlen
+#ENGL       Minor procedures in cardiac surgery
+###
+#KOODI      TFB00 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkovaltimokatetrin asennus
+#RUOTSI     Katetrisering av lunartär
+#LYHENNE    Keuhkovaltimokatetrin asennus
+###
+#KOODI      TFB10 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1998/01/01
+#POISTPVM   2003/11/07
+#POISTETTU
+#VANHA                
+#SUOMI      Keuhkovaltimon ahtauman pallolaajennus
+#RUOTSI     Ballongutvidgning av lungartär
+#LYHENNE    Keuhkovaltimon ahtauman pallolaajennus
+###
+#KOODI      TFB15 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1998/01/01
+#POISTPVM   2003/11/07
+#POISTETTU
+#VANHA                
+#SUOMI      Keuhkovaltimon ahtauma pallolaajennus ja stentti
+#RUOTSI     Ballongutvidgning av lungartär med stent
+#LYHENNE    Keuhkovaltimon pallolaajennus ja stentti
+###
+#KOODI      TFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen oikean eteisen ja/tai kammion katetrointi
+#RUOTSI     Katetrisering av högerhjärtat
+#LYHENNE    Oikean eteisen/kammion katetrisaatio
+#OHJE_S  
+Varjoainetutkimus, katso FK1AC
+#OHJE_R 
+Med angiografi, se FK1AC
+###
+#KOODI      TFC10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen vasemman eteisen ja/tai kammion  katetrointi
+#RUOTSI     Katetrisering av vänsterhjärtat
+#LYHENNE    Vasemman eteisen/kammion  katetrisaatio
+#OHJE_S  
+Varjoainetutkimus, katso FL1AC
+#OHJE_R 
+Med angiografi, se FL1AC
+###
+#KOODI      TFC20 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Katetrointi sydämen molemmille puolille
+#RUOTSI     Katetrisering av både höger- och vänsterhjärtat
+#LYHENNE    Katetrointi sydämen molemmille puolille
+#OHJE_S  
+Eteis- tai kammioväliseinän aukon läpi
+#OHJE_R 
+Genom öppning i förmaks- eller kammaseptum
+###
+#KOODI      TFC25 
+#MUUT_PVM   1997/12/22
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen vasemman puolen katetrointi eteisväliseinäaukon lävitse
+#RUOTSI     Transseptal katetrisering av vänsterhjärtat
+#LYHENNE    Transseptaalinen vasemman puolen katetro
+###
+#KOODI      TFC30 
+#MUUT_PVM   1996/11/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortan koarktaation pallolaajennus
+#RUOTSI     Ballongutvidgning av koarktation av aortta
+#LYHENNE    Aortan koarktaation pallolaajennus
+###
+#KOODI      TFC40 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Avoimen valtimotiehyen sulkeminen sateenvarjolaitteella
+#RUOTSI     Stängning av öppen ductus arteriosus med paraply apparat
+#LYHENNE    Avoimen kammiotiehyen sulkeminen sateenv
+###
+#KOODI      TFC99 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen katetrointi ja muu toimenpide
+#RUOTSI     Katetrisering av hjärtat med annan åtgärd
+#LYHENNE    Sydämen katetrointi ja muu toimenpide
+###
+#KOODI      TFE00 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4201+     
+#SUOMI      Sydänpussiin pisto
+#RUOTSI     Perikardiocentes
+#LYHENNE    Sydänpussiin pisto
+#OHJE_S  
+Sisältää katerin asettamisen sydänpussiin
+Radiologisessa ohjauksessa tehty toimenpide, katso FE1AT, FE2AT, FE2BT, FE2CT tai FE2FT (radiologian luokitus)
+#OHJE_R 
+Inkluderar insättelse av kateter i perikardiet
+Med radiologisk utstyrning, se FE1AT, FE2AT, FE2BT, FE2CT eller FE2FT (klassifikation för radiologi)
+###
+#KOODI      TFF30 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Eteisväliseinän  aukon pallolaajennus
+#RUOTSI     Katetrisering av hjärtat med ballongutvidgning av öppning i förmaksseptum
+#LYHENNE    Eteisväliseinän  aukon pallolaajennus
+###
+#KOODI      TFF40 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Eteisväliseinäaukon sulkeminen sateenvarjolaitteella
+#RUOTSI     Stängning av  ASD med paraply apparat
+#LYHENNE    Eteisväliseinäaukon sulkeminen sateenvar
+###
+#KOODI      TFJ00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4201+     
+#SUOMI      Sydämen tai suurten suonten punktio
+#RUOTSI     Punktion av hjärtat eller de stora kärlen
+#LYHENNE    Sydämen pisto
+###
+#KOODI      TFJ02 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydänlihasbiopsia
+#RUOTSI     Hjärtmuskelbiopsi
+#LYHENNE    Sydänlihasbiopsia
+###
+#KOODI      TFJ30 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Sydämen läppäaukon pallolaajennus
+#RUOTSI     Katetrisering av hjärtat med ballongutvidgning av klafföppning
+#LYHENNE    Sydämen läppäaukon pallolaajennus
+###
+#KOODI      TFN10 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sepelvaltimoiden paikallinen trombolyysi
+#RUOTSI     Katetrisering av hjärtat med lokal trombolys av koronärartär
+#LYHENNE    Sepelvaltimoiden paikallinen trombolyysi
+###
+#KOODI      TFN40 
+#MUUT_PVM   1998/11/16
+#KAYTPVM    1997/01/01
+#POISTPVM   2002/02/05
+#POISTETTU
+#VANHA                
+#SUOMI      Sepelvaltimoiden pallolaajennus
+#RUOTSI     Katetrisering av hjärtat med ballongutvidgning av koronärartär
+#LYHENNE    Sepelvaltimoiden pallolaajennus
+###
+#KOODI      TFN50 
+#MUUT_PVM   1996/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM   1997/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stentin asentaminen sepelvaltimoon katetrin kautta
+#RUOTSI     Katetrisering med aplikation av stent till koronärartär
+#LYHENNE    Stentin asentaminen koronaarisuoneen
+###
+#KOODI      TFN99 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sepelvaltimon toimenpide katerin kautta
+#RUOTSI     Katetrisering av hjärtat med anna koronaråtgärd
+#LYHENNE    Muu koronaarisuonten toimenpide katerin
+###
+#KOODI      TFP00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5401      
+#SUOMI      Tilapäisen laskimonsisäisen tai epikardiaalinen tahdistimen asettaminen
+#RUOTSI     Temporär användning av transvenös eller epikardiell pacemaker
+#LYHENNE    Tilap iv/epikardiaalitahdistinasetus
+###
+#KOODI      TFP04 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallistuskoe
+#RUOTSI     Lutningstest
+#LYHENNE    Kallistuskoe
+###
+#KOODI      TFP20 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen rytminsiirto
+#RUOTSI     Cardioversion av hjärtat
+#LYHENNE    Sydämen rytminsiirto
+#OHJE_S  
+Pysyvän defibrillaattorin asennus kohdassa FPG
+#OHJE_R 
+Inläggande av permanent defibrillatro, se FPG
+###
+#KOODI      TFP30 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen rytmihäiriön katetritutkimus
+#RUOTSI     Kateterundersökning av arytmier i hjärtat
+#LYHENNE    Sydämen rytmihäiriön katetritutkimus
+###
+#KOODI      TFP31 
+#MUUT_PVM   1997/12/23
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen kammioiden katetritutkimus rytmihäiriön takia
+#RUOTSI     Ventrikulär kateterundersökning av arytmier i hjärtat
+#LYHENNE    Kammioiden katetritutkimus rytmihäiriöid
+###
+#KOODI      TFP32 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen rytmihäiriön katetrihoito
+#RUOTSI     Kateter behandling av arytmeir i hjärtat
+#LYHENNE    Sydämen rytmihäiriön katetrihoito
+###
+#KOODI      TFW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sydämen ja suurten verisuonien pientoimenpide
+#RUOTSI     Annat mindre ingrepp på hjärtat eller de stora kärlen
+#LYHENNE    Muu sydämen/suurten verisuonien pientmp
+###
+#KOODI_R    TG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Rintakehän ja rintaontelon pientoimenpiteet
+#RUOTSI     Mindre torakala åtgärder
+#ENGL       Minor procedures in thoracic surgery
+#OHJE_S  
+Ei sisällä sydämen ja suurien suonten toimenpiteitä
+#OHJE_R 
+Exkl hjärtatoch de stora kärlen
+###
+#KOODI      TGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Neulakudosnäytteen otto rinnan seinämästä
+#RUOTSI     Punktionsbiopsi av bröstvägg
+#LYHENNE    Neulakudosnäyt rinnan seinämästä
+###
+#KOODI      TGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Neulakudosnäytteen otto keuhkopussista
+#RUOTSI     Punktionsbiopsi av pleura
+#LYHENNE    Neulakudosnäytteen otto keuhkopussista
+#OHJE_S  
+Radiologisessa ohjauksessa tehty toimenpide, katso GA2AT, GA2CT, GA2DT, GA3AT, GA3CT tai GA3DT
+#OHJE_R 
+Med radiologisk utstyrd, se GA2AT, GA2CT, GA2DT, GA3AT, GA3CT eller GA3DT
+###
+#KOODI      TGA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Neulakudosnäytteen otto palleasta
+#RUOTSI     Punktionsbiopsi av diafragma
+#LYHENNE    Neulakudosnäytteen otto palleasta
+###
+#KOODI      TGA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5841      
+#SUOMI      Rintaontelon pisto
+#RUOTSI     Torakocentes
+#LYHENNE    Rintaontelon pisto
+###
+#KOODI      TGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5809      
+#SUOMI      Neulakudosnäytteen otto henkitorvesta
+#RUOTSI     Punktionsbiopsi av trakea
+#LYHENNE    Jeulakudosnäytteen otto henkitorvesta
+###
+#KOODI      TGC00 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoputkien huuhtelu
+#RUOTSI     Bronkial lavation
+#LYHENNE    Keuhkoputkien huuhtelu
+#OHJE_S  
+Sisältää imun ja keuhkojen laajennuksen sekä mahdollisten näytteiden oton (BAL)
+#OHJE_R 
+---
+###
+#KOODI      TGD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5821      
+#SUOMI      Neulakudosnäytteen otto keuhkosta
+#RUOTSI     Punktionsbiopsi av lunga
+#LYHENNE    Neulakudosnäytteen otto keuhkosta
+#OHJE_S  
+Radiologisesti ohjattu toimenpide, katso GD1AT, GD1BT, GD1CT, GD2AT, GD2BT tai GD2CT
+#OHJE_R 
+Radiologiskt utstyrd, se GD1AT, GD1BT, GD1CT, GD2AT, GD2BT eller GD2CT
+###
+#KOODI      TGD04 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudosnäytteen otto keuhkosta keuhkoputkentähystyksessä
+#RUOTSI     Punktionsbiopsi av lunga genom bronkoskopi
+#LYHENNE    Kudosnäyte keuhkosta keuhkoputk.tähystyk
+###
+#KOODI      TGE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Neulakudosnäytteen otto välikarsinasta
+#RUOTSI     Punktionsbiopsi av mediastinum
+#LYHENNE    Neulakudosnäytteen otto välikarsinasta
+#OHJE_S  
+Radiologisesti ohjattu toimenpide, katso GE1AT, GE1BT, GE1CT, GE2AT, GE2BT tai GE2CT
+#OHJE_R 
+Radiologiskt utstyrd, se GE1AT, GE1BT, GE1CT, GE2AT, GE2BT eller GE2CT
+###
+#KOODI      TGW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Muu rintakehän alueen pientoimenpide
+#RUOTSI     Annan mindre åtgärd i thorakal regionen
+#LYHENNE    Muu rintakehän alueen pientoimenpide
+###
+#KOODI_R    TH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Rintarauhasen pientoimenpiteet
+#RUOTSI     Mindre åtgärder på bröstkörteln
+#ENGL       Minor procedures in surgery of mammary gland
+###
+#KOODI      THA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719+     
+#SUOMI      Neulakudosnäytteen otto rintarauhasesta
+#RUOTSI     Punktionsbiopsi av bröstkörtel
+#LYHENNE    Neulakudosnäytteen otto rintarauhasesta
+#OHJE_S  
+Radiologisessa ohjauksessa tehty toimenpide, katso HA1AT, HA1DT, HA1MT, HA1ST, HA2AT, HA2DT, HA2MT, HA2ST tai HA2XT
+#OHJE_R 
+Radiologiskt utstyrd, se HA1AT, HA1DT, HA1MT, HA1ST, HA2AT, HA2DT, HA2MT, HA2ST, HA2XT
+###
+#KOODI      THA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719+     
+#SUOMI      Neulakudosnäytteen otto nännistä
+#RUOTSI     Punktionsbiopsi av mamill
+#LYHENNE    Neulakudosnäytteen otto nännistä
+###
+#KOODI      THW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Muu rintarauhasen pientoimenpide
+#RUOTSI     Annan mindre åtgärd på bröstkörteln
+#LYHENNE    Muu rintarauhasen pientoimenpide
+###
+#KOODI_R    TJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Ruoansulatuskanavan ja sen oheiselimien pientoimenpiteet
+#RUOTSI     Mindre åtgärder på gastrointestinalkanalen och därtill hörande organ
+#ENGL       Minor procedures in gastroenterological surgery
+###
+#KOODI      TJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6119      
+#SUOMI      Vatsakalvopisto
+#RUOTSI     Punktion av peritoneum
+#LYHENNE    Vatsakalvopisto
+#OHJE_S  
+Esimerkiksi neulanäyte
+#OHJE_R 
+Innefattar punktionsbiopsi
+###
+#KOODI      TJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6111      
+#SUOMI      Vatsaontelopisto, laparosenteesi
+#RUOTSI     Laparocentes
+#LYHENNE    Vatsaontelopisto, laparosenteesi
+#OHJE_S  
+Radiologisessa ohjauksessa, kohdissa JA3AT, JA3BT, JA3CT, JA3DT
+#OHJE_R 
+Radiologiskt utstyrd, se JA3AT, JA3BT. JA3CT, JA3DT
+###
+#KOODI      TJA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6111      
+#SUOMI      Vatsaontelon diagnostinen huuhtelu
+#RUOTSI     Perkutant peritoneallavage
+#LYHENNE    Vatsaontelon diagnostinen huuhtelu
+###
+#KOODI      TJA30 
+#MUUT_PVM   1997/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM   2000/11/14
+#POISTETTU
+#VANHA      6112      
+#SUOMI      Katetrien asettaminen vatsaontelodialyysiä varten
+#RUOTSI     Introduktion av peritoneal dialys kateter
+#LYHENNE    Vatsaontelodialyysikatetrin asettaminen
+#OHJE_S  
+Peritoneaalidialyysi, katso TK820
+Radiologisessa ohjauksessa, katso JA3AT, JA3BT, JA3CT tai JA3FT
+#OHJE_R 
+Peritonealdialys, se TK820
+Radiologiskt utstyrd, se JA3AT, JA3BT, JA3CT eller JA3FT
+###
+#KOODI      TJA33 
+#MUUT_PVM   2000/10/11
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Katetrien asettaminen vatsaontelodialyysiä varten tähystysteitse
+#RUOTSI     Perkutan introduktion av peritoneal dialys kateter
+#LYHENNE    Kat asett vatsaontelodial. täh.teitse
+#OHJE_S  
+Vatsaontelodialyysikatetrin asettaminen laparotomiateitse, katso JAK10
+Peritoneaalidialyysi, katso TK820
+Radiologisessa ohjauksessa, katso JA3AT, JA3BT, JA3CT tai JA3FT
+#OHJE_R 
+Introduktion av peritoneal dialys kateter i laparotomi, se JAK10
+Peritonealdialys, se TK820
+Radiologiskt utstyrd, se JA3AT, JA3BT, JA3CT eller JA3FT
+###
+#KOODI      TJA35 
+#MUUT_PVM   1997/11/14
+#KAYTPVM    1997/11/14
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsaontelodialyysikatetrin poisto
+#RUOTSI     Avlägsnande av peritonealdialyskateter
+#LYHENNE    Vatsaontelodialyysikatetrin poisto
+###
+#KOODI      TJA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6565      
+#SUOMI      Vatsaontelon märkäpesäkkeen kanavointi iholta käsin
+#RUOTSI     Perkutant dränage av intraperitoneal abscess
+#LYHENNE    Vatsaonteloabsessin kanavointi iholle
+#OHJE_S  
+Radiologisessa ohjauksessa, katso JA3AT, JA3BT, JA3CT tai JA3FT
+#OHJE_R 
+Radiologiskt utstyrd, se JA3AT, JA3BT, JA3CT eller JA3FT
+###
+#KOODI      TJA50 
+#MUUT_PVM   1999/08/18
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektiokanavan asettaminen vatsaonteloon
+#RUOTSI     Introduktion av intraperitoneal injektionsport
+#LYHENNE    Injektiokanavan asett. vatsaonteloon
+###
+#KOODI      TJA55 
+#MUUT_PVM   1999/08/18
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsaontelon injektiokanavan poistaminen
+#RUOTSI     Avlägsnande av intraperitoneal injektionsport
+#LYHENNE    Vatsaontelon injektiokanavan poistaminen
+###
+#KOODI      TJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5649      
+#SUOMI      Ruokatorven laskimolaajentumavuodon hoito pallokatetrilla
+#RUOTSI     Komprimerande sond vid blödande esofagusvaricer
+#LYHENNE    Ruokatorvivaricesvuodon hoito sondilla
+#OHJE_S  
+esim. Sengstaken
+#OHJE_R 
+T.ex. Sengstaken
+###
+#KOODI      TJD00 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6329+     
+#SUOMI      Nenämaha- tai nenä-maha-pohjukaissuoliletkun laitto
+#RUOTSI     Införande av nasogastrisk eller nasogastroduodenal sond
+#LYHENNE    Nenämaha/nenä-maha-pohjukaissuoliletku
+#OHJE_S  
+Sisältää mahdollisen mahalaukun tyhjennyksen ja huuhtelun
+#OHJE_R 
+Inkl tömning och sköljning av magsäcken
+###
+#KOODI      TJD10 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6329+     
+#SUOMI      Muun letkun laitto mahalaukkuun tai pohjukaissuoleen
+#RUOTSI     Införande av annan sond i ventrikel eller duodenum
+#LYHENNE    Muu letku mahalaukkuun/pohjukaissuoleen
+#OHJE_S  
+Ruokatorven painemittaus ja jatkuva pH-mittaus kohdassa XJC
+#OHJE_R 
+Manometri och pH-mätning i matstrupen, se XJC
+###
+#KOODI      TJD20 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mahalaukkuavanneletkun vaihto
+#RUOTSI     Byte av gastrostomikateter
+#LYHENNE    Mahalaukkuavanneletkun vaihto
+###
+#KOODI      TJD30 
+#MUUT_PVM   1996/08/01
+#KAYTPVM    1997/01/01
+#POISTPVM   2000/11/14
+#POISTETTU
+#VANHA      6329      
+#SUOMI      Muu gastoenterologinen pientoimenpide
+#RUOTSI     Annan gastroenterologisk mindre åtrgärd
+#LYHENNE    Muu gastoenterologinen pientoimenpide
+###
+#KOODI      TJF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6419+     
+#SUOMI      Jejunumletkun asettaminen
+#RUOTSI     Införande av jejunumsond
+#LYHENNE    Jejunumletkun asettaminen
+#OHJE_S  
+esim Miller-Abbott, Hodges tai vastaava
+#OHJE_R 
+T.ex. Miller-Abbott, Hodges eller motsvarande
+###
+#KOODI      TJF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6329+     
+#SUOMI      Jejunumletkun asettaminen mahalaukkuavanteen kautta
+#RUOTSI     Införande av jejunumsond via gastrostomi
+#LYHENNE    Jejunumletku mahalaukkuavanteen kautta
+###
+#KOODI      TJF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6419+     
+#SUOMI      Ohutsuolinäytteen otto suun kautta sondilla
+#RUOTSI     Peroral tunntarmsbiopsi
+#LYHENNE    Ohutsuolinäytte suun kautta sondilla
+###
+#KOODI      TJF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2000/11/14
+#POISTETTU
+#VANHA      6562      
+#SUOMI      Suolentuppeuman oikaisu läpivalaisussa varjoaineella
+#RUOTSI     Hydrostatisk desinvagination av tarminvagination under röntgenkontroll
+#LYHENNE    Suolentuppeuman oikaisu läpivalaisussa
+###
+#KOODI      TJG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ulostekovettuman poisto käsin
+#RUOTSI     Manuell uthämtning av fekalom
+#LYHENNE    Ulostekovettuman poisto käsin
+###
+#KOODI      TJG10 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vierasesineen poisto peräsuolesta
+#RUOTSI     Borttagande av främmande kropp från rektum
+#LYHENNE    Vierasesineen poisto peräsuolesta
+###
+#KOODI      TJJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6611      
+#SUOMI      Neulakudosnäytteen otto maksasta
+#RUOTSI     Punktionsbiopsi av levern
+#LYHENNE    Neulakudosnäytteen otto maksasta
+#OHJE_S  
+Radiologisessa ohjauksessa, katso JJ1AT, JJ2AT, JJ2CT, JJ2DT, JJ3AT tai JJ3CT
+#OHJE_R 
+Radiologiskt utstyrd, se JJ1AT, JJ2AT, JJ2CT, JJ2DT, JJ3AT eller JJ3CT
+###
+#KOODI      TJJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6619+     
+#SUOMI      Maksamuutoksen hajottaminen iholta käsin
+#RUOTSI     Perkutan destruktion av förändring i levern
+#LYHENNE    Maksamuutoksen hajottaminen iholta käsin
+#OHJE_S  
+esim. lääkeruiskeella
+#OHJE_R 
+Inkl injektionsbehandling
+###
+#KOODI      TJK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6659      
+#SUOMI      Sappiteiden kuvaus leikkauksen aikana
+#RUOTSI     Peroperativ kolangiografi
+#LYHENNE    Sappiteiden kuvaus leikkauksen aikana
+###
+#KOODI      TJK01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Sappiteiden kuvaus vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk kolangiografi
+#LYHENNE    Sappiteiden kuvaus LAP
+###
+#KOODI      TJL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6726      
+#SUOMI      Haimakystan kanavointi iholta käsin tai mahalaukun kautta
+#RUOTSI     Dränage av pankreasabscess eller -pseudocysta, perkutant eller till ventrikeln
+#LYHENNE    Haimakystakanavointi iholta/mahalaukusta
+#OHJE_S  
+Radiologisessa ohjauksessa, katso JL3AT, JL3BT, JL3CT,JL3DT, JL3YT
+#OHJE_R 
+Radiologiskt utstyrd, se  JL3AT, JL3BT, JL3CT,JL3DT, JL3YT
+###
+#KOODI      TJL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6719+     
+#SUOMI      Neulakudosnäytteen otto haimasta iholta käsin
+#RUOTSI     Perkutan punktionsbiopsi av pankreas
+#LYHENNE    Neulakudosnäytt. otto haimasta ihon läpi
+#OHJE_S  
+Radiologisessa ohjauksessa, katso JL1AT, JL1CT, JL1DT, JL2AT, JL2CT, JL2DT
+#OHJE_R 
+Radiologiskt utstyrd, se JL1AT, JL1CT, JL1DT, JL2AT, JL2CT, JL2DT
+###
+#KOODI      TJM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6759+     
+#SUOMI      Neulakudosnäytteen otto pernasta
+#RUOTSI     Punktionsbiopsi av mjälte
+#LYHENNE    Neulakudosnäytteen otto pernasta
+#OHJE_S  
+Ultraääniohjauksessa, katso JM1AT
+#OHJE_R 
+Ultraljudsutstyrd, se JM1AT
+###
+#KOODI      TJW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ruuansulatuskanavan, vatsaontelon tai haiman pientoimenpide
+#RUOTSI     Annan mindre operation på gastrointestinalkanalen och därtill hörande organ
+#LYHENNE    Muu gastroenterologian pientmp
+###
+#KOODI      TJX00 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktio tai neulakudosnäytteen otto mahasuolikanavan tähystyksen yhteydessä
+#RUOTSI     Punktion eller nålbiopsi i samband med gastrointestinal endoskopi
+#LYHENNE    Punktio tai biopsia endoskopian yhteydes
+###
+#KOODI      TJX10 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verenvuodon tai verisuonen hyydyttäminen poltto mahasuolikanavan tähystyksessä
+#RUOTSI     Koagulation av blödning eller blodkärl med lokal diatermi i gastrointestinal endoskopi
+#LYHENNE    Paik. hyyd. diatermialla tähystyksessä
+###
+#KOODI      TJX12 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laskimon kovetushoito mahasuolikanavan tähystyksessä
+#RUOTSI     Skleroterapi av ven i gastrointestinal endoskopi
+#LYHENNE    Lask. skleroter. g-i-tähystyksessä
+###
+#KOODI      TJX14 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimenpide verenvuodon tyrehdyttämiseksi mahasuolikanavan tähystyksessä
+#RUOTSI     Annan åtgärd för hemostas genom gastrointestinal endoskopi
+#LYHENNE    Muu ver.vuod.tyr.tp g-i-tähystyksessä
+###
+#KOODI      TJX20 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mahasuolikanavan laajennus tähystysteitse
+#RUOTSI     Gastrointestinal dilatation i endoskopi
+#LYHENNE    Mahasuolikanavan laajennus tähystysteits
+###
+#KOODI      TJX22 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen muutoksen poisto mahasuolikanavan tähystyksen yhteydessä
+#RUOTSI     Excision av lokal förändring genom gastrointestinal endoskopi
+#LYHENNE    Paik. muut. poisto g-i-tähystyksen yhtey
+###
+#KOODI      TJX30 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vierasesineen poisto mahasuolikanavasta tähystyksessä
+#RUOTSI     Endoskopisk avlägsnande av främmande föremål från magtarmkanalen
+#LYHENNE    Vierasesineen poisto mahasuolikan. tähys
+###
+#KOODI      TJX90 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ruuansulatuskanavan tähystyksessä suoritettu pientoimenpide
+#RUOTSI     Annan mindre åtgärd genom gastrointestinal endoskopi
+#LYHENNE    Muu g-i-täh. suor. pientoimenpide
+###
+#KOODI_R    TK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Virtsateiden, miehen sukupuolielinten ja vatsaontelon pientoimenpiteet
+#RUOTSI     Mindre åtgärder på urinvägar och manliga genitalia
+#ENGL       Minor surgical procedures in urology
+###
+#KOODI      TK800 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemodialyysi
+#RUOTSI     Hemodialys
+#LYHENNE    Hemodialyysi
+#OHJE_S  
+Sisältää potilaan ohjauksen
+#OHJE_R 
+Inkl patient rådgivning
+###
+#KOODI      TK810 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemofiltraatio
+#RUOTSI     Hemofiltration
+#LYHENNE    Hemofiltraatio
+###
+#KOODI      TK820 
+#MUUT_PVM   1997/11/14
+#KAYTPVM    1997/11/14
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsakalvodialyysi
+#RUOTSI     Peritonealdialys
+#LYHENNE    Peritoneaalidialyysi
+#OHJE_S  
+Katetrien asettaminen vatsaontelodialyysiä varten TJA30
+#OHJE_R 
+Introduktion av peritoneal dialys kateter, se TJA30
+###
+#KOODI      TKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7101      
+#SUOMI      Neulakudosnäytteen otto munuaisesta
+#RUOTSI     Punktionsbiopsi av njure
+#LYHENNE    Neulakudosnäytteen otto munuaisesta
+#OHJE_S  
+Radiologisessa ohjauksessa, katso KA3AT,  KA3CT tai KA3DT
+#OHJE_R 
+Radiologiskt utstyrd, se KA3AT,  KA3CT eller KA3DT
+###
+#KOODI      TKA02 
+#MUUT_PVM   1996/06/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neulakudosnäytteen otto siirretystä munuaisesta
+#RUOTSI     Punktionsbiopsi av transplanterad njure
+#LYHENNE    Neulakudosnäytteen otto siirr. munuaises
+#OHJE_S  
+Ultraääniohjauksessa, katso KA2AT
+#OHJE_R 
+Ultraljudsutstyrd, se KA2AT
+###
+#KOODI      TKA05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäytteen ottaminen munuaisesta
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av njure
+#LYHENNE    Ohutneulanäytteen ottaminen munuaisesta
+#OHJE_S  
+Radiologisesti ohjattuna, katso KA4AT, KA4CT tai KA4DT
+#OHJE_R 
+Radiologiskt utstyrd, se KA4AT, KA4CT tai KA4DT
+###
+#KOODI      TKA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7103      
+#SUOMI      Munuaisen tai munuaisaltaan pisto
+#RUOTSI     Perkutan punktion av njure eller njurbäcken
+#LYHENNE    Munuaisen tai munuaisaltaan pisto
+#OHJE_S  
+Sisältää kanavoinnin
+Radiologisesti ohjattu, katso KA5AT, KA5BT, KA5CT
+#OHJE_R 
+Inkl ev dränage
+Radiologist utstyrd, se KA5AT, KA5BT eller KA5CT
+###
+#KOODI      TKA40 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisavanteen sulku
+#RUOTSI     Slutning av nefrotomi
+#LYHENNE    Munuaisavanteen sulku
+###
+#KOODI      TKB40 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsajohdinavanteen sulku
+#RUOTSI     Slutning av ureterotomi
+#LYHENNE    Virtsajohdinavanteen sulku
+###
+#KOODI      TKC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7301+     
+#SUOMI      Neulakudosnäytteen otto virtsarakosta
+#RUOTSI     Punktionsbiopsi av urinblåsan
+#LYHENNE    Neulakudosnäytteen otto virtsarakosta
+#OHJE_S  
+Ultraääniohjauksessa, katso KC2AT tai KC3AT
+#OHJE_R 
+Ultraljudsutstyrd, se KC2AT eller KC3AT
+###
+#KOODI      TKC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7301      
+#SUOMI      Virtsarakkopisto
+#RUOTSI     Perkutan punktion/dränage av urinblåsan
+#LYHENNE    Virtsarakkopisto
+#OHJE_S  
+Sisältää kanavoinnin
+Ultraääniohjauksessa, katso KC1AT
+#OHJE_R 
+Inkl ev dränage
+Ultraljudsutstyrd, se KC1AT
+###
+#KOODI      TKC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Virtsarakkokatetrin asettaminen
+#RUOTSI     Katetrisering av urinblåsan
+#LYHENNE    Virtsarakkokatetrin asettaminen
+###
+#KOODI      TKC40 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vrtsarakkoavanteen sulku
+#RUOTSI     Slutning av vesicotomi
+#LYHENNE    Vrtsarakkoavanteen sulku
+###
+#KOODI      TKD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7362      
+#SUOMI      Virtsaputken laajentaminen
+#RUOTSI     Dilatation av uretra
+#LYHENNE    Virtsaputken laajentaminen
+#OHJE_S  
+Esim. pallokatetrilla
+Radiologisessa ohjauksessa, katso KH1FT
+#OHJE_R 
+T.ex med ballongkateter
+Radiologiskt utstyrd, se KH1FT
+###
+#KOODI      TKE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7461      
+#SUOMI      Neulakudosnäytteen otto eturauhasesta
+#RUOTSI     Punktionsbiopsi av prostata
+#LYHENNE    Neulakudosnäytteen otto eturauhasesta
+#OHJE_S  
+Ultraääniohjauksessa, katso KE1AT
+#OHJE_R 
+Ultraljudsutstyrd, se KE1AT
+###
+#KOODI      TKE05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäytteen ottaminen eturauhasesta
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av prostata
+#LYHENNE    Ohutneulanäytteen ottaminen eturauhasest
+#OHJE_S  
+Ultraääniohjauksessa, katso KE2AT
+#OHJE_R 
+Ultraljudsutstyrd, se KE2AT
+###
+#KOODI      TKE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7463+     
+#SUOMI      Eturauhaspisto
+#RUOTSI     Punktion/dränage av prostata
+#LYHENNE    Eturauhaspisto
+#OHJE_S  
+sis. kanavoinnin
+#OHJE_R 
+---
+###
+#KOODI      TKF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501      
+#SUOMI      Neulakudosnäytteen otto kiveksestä
+#RUOTSI     Punktionsbiopsi av testis
+#LYHENNE    Neulakudosnäytteen otto kiveksestä
+#OHJE_S  
+Ultraääniohjauksessa, katso KF2AT
+#OHJE_R 
+Ultraljudsutstyrd, se KF2AT
+###
+#KOODI      TKF05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäytteen ottaminen kiveksestä
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av testikel
+#LYHENNE    Ohutneulanäytteen ottaminen kiveksestä
+#OHJE_S  
+Ultraääniohjauksessa, katso KF3AT
+#OHJE_R 
+Ultraljudsutstyrd, se KF3AT
+###
+#KOODI      TKF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501+     
+#SUOMI      Kivespisto
+#RUOTSI     Perkutan punktion/dränage av testikel
+#LYHENNE    Kivespisto
+#OHJE_S  
+Sisältää kanavoinnin
+Ultraääniohjauksessa, katso KF1AT
+#OHJE_R 
+Inkl ev dränage
+Ultraljudsutstyrd, se KF1AT
+###
+#KOODI      TKF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501+     
+#SUOMI      Neulakudosnäytteen otto lisäkiveksestä
+#RUOTSI     Punktionsbiopsi av epididymidis
+#LYHENNE    Neulakudosnäytteen otto lisäkiveksestä
+#OHJE_S  
+Ultraääniohjauksessa, katso KF6AT
+#OHJE_R 
+Ultraljudsutstyrd, se KF6AT
+###
+#KOODI      TKF25 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäytteen ottaminen lisäkiveksestä
+#RUOTSI     Finnålsbiopsi (aspirationscytologi) av epididymis
+#LYHENNE    Ohutneulanäytte lisäkiveksestä
+#OHJE_S  
+Ultraääniohjauksessa, katso KF7AT
+#OHJE_R 
+Ultraljudsutstyrd, se KF7AT
+###
+#KOODI      TKF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501+     
+#SUOMI      Lisäkivespisto
+#RUOTSI     Perkutan punktion/dränage av epididymis
+#LYHENNE    Lisäkivespisto
+#OHJE_S  
+Sisältää kanavoinnin
+Ultraääniohjauksessa, katso KF5AT
+#OHJE_R 
+Inkl ev dränage
+Ultraljudsutstyrd, se KF5AT
+###
+#KOODI      TKF60 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivespussin pisto
+#RUOTSI     Punktion av skrotum
+#LYHENNE    Kivespussin pisto
+#OHJE_S  
+Ultraääniohjauksessa, katso KF8AT
+#OHJE_R 
+Ultraljudsutstyrd, se KF8AT
+###
+#KOODI      TKW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu virsateiden ja miehen sukupuolielinten pientoimenpide
+#RUOTSI     Annan mindre operation på urinvägar och manliga genitalia
+#LYHENNE    Muu virtsatie/miessukupuolielinpientmp
+#OHJE_S  
+Virtsateiden kanavointi radiologisessa ohjauksessa, katso KH1AT, KH1BT, KH1CT, KH1DT tai KH1FT
+#OHJE_R 
+---
+###
+#KOODI_R    TL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Naisen sukupuolielinten pientoimenpiteet
+#RUOTSI     Mindre åtgärder på kvinnliga genitalia
+#ENGL       Minor surgical procedures in gynaecology
+###
+#KOODI      TLA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjan pisto
+#RUOTSI     Punktion av ovarium
+#LYHENNE    Munasarjapunktio
+#OHJE_S  
+Sisältää kudosnäytteen oton
+Ultraääniohjauksessa, katso LA1AT
+#OHJE_R 
+Innefattar biopsi
+Ultraljudsutstyrd, se LA1AT
+
+###
+#KOODI      TLB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munajohtimen pisto
+#RUOTSI     Punktion av tuba
+#LYHENNE    Munajohtimen punktio
+#OHJE_S  
+Sisältää kudosnäyteen oton
+Ultraääniohjauksessa, katso LB1AT
+#OHJE_R 
+Innefattar biopsi
+Ultraljudsutstyrd, se LB1AT
+###
+#KOODI      TLC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8321      
+#SUOMI      Kohdunsisäisen ehkäisimen asettaminen
+#RUOTSI     Inläggning av IUD
+#LYHENNE    Kohdunsisäisen ehkäisimen asettaminen
+###
+#KOODI      TLC02 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kohdunsisäisen ehkäisimen tavanomainen poistaminen
+#RUOTSI     Enkel extraktion av IUD
+#LYHENNE    Kohdunsisäisen ehkäisimen poistaminen
+#OHJE_S  
+Vatsaonteloon joutuneen ehkäisimen poisto kohdassa JAL10-11
+Mikäli ehkäisintä ei voida poistaa kohdusta valmistajan suunnitelemalla tavalla katso LCA20-22
+Kierukan poisto raskauden aikana kohdassa MAA22
+#OHJE_R 
+Extraktion av IUD från bukålan, se JAL10-11
+Om IUD ej kan extraheras från livmodern enligt de anvisningar som producenten har angivit se LCA20-22
+Extraktion av IUD under graviditet, se MAA22
+###
+#KOODI      TLE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8413      
+#SUOMI      Emättimen laajennus
+#RUOTSI     Dilatation av vagina
+#LYHENNE    Emättimen laajennus
+###
+#KOODI      TLE10 
+#MUUT_PVM   1997/12/23
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8429      
+#SUOMI      Vierasesineen poisto emättimestä
+#RUOTSI     Avlägsnande av främmande kropp ur vagina
+#LYHENNE    Vierasesinepoisto emättimestä
+###
+#KOODI      TLE20 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pisto emättimen kautta vatsaonteloon
+#RUOTSI     Transvaginal punktion av fossa Douglasi
+#LYHENNE    Pisto emättimen kautta vatsaonteloon
+###
+#KOODI      TLE30 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Emättimen tamponointi
+#RUOTSI     Tamponad av vagina
+#LYHENNE    Emättimen tamponointi
+###
+#KOODI      TLW00 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inseminaatio
+#RUOTSI     Insemination
+#LYHENNE    Inseminaatio
+#OHJE_S  
+Sisältää siemennesteen käsittelyn
+#OHJE_R 
+Inkl arbetet med semen
+###
+#KOODI      TLW10 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alkionsiiirto tavanomaisella tekniikalla
+#RUOTSI     Implatation av embryo med sedvanlig teknik
+#LYHENNE    Alkionsiiirto
+###
+#KOODI      TLW12 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pakastettuna säilytetyn alkion siirto
+#RUOTSI     Implantation av djupfryst bevarad embryo
+#LYHENNE    Pakastettuna säilytetyn alkion siirto
+###
+#KOODI      TLW14 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siittiöiden ruiskutustekniikalla hedelmöitetyn alkion siirto
+#RUOTSI     Implantation av embryo befruktad med ICSI-teknik
+#LYHENNE    ICSI tekniikalla hedelmöitetyn alkion si
+###
+#KOODI      TLW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu naisen sukupuolielinten pientoimenpide
+#RUOTSI     Annan mindre operation på kvinnliga genitalia
+#LYHENNE    Muu naissukupuolielimien pientmp
+#OHJE_S  
+Ultraääniohjattu munajohtimen katetrisaatio, katso LB1YT
+#OHJE_R 
+Ultraljudsutstyrd katetrisering av tuba, se LB1YT
+###
+#KOODI_R    TM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Raskauteen ja synnytykseen liittyvät pientoimenpiteet
+#RUOTSI     Mindre obstetriska åtgärder
+#ENGL       Minor surgical procedures in obstetrics
+###
+#KOODI      TMA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809+     
+#SUOMI      Välilihanleikkaus, episiotomia
+#RUOTSI     Perineotomi under förlossning
+#LYHENNE    Välilihanleikkaus, episiotomia
+###
+#KOODI      TMW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu raskauteen tai synnytykseen liittyvä pientoimenpide
+#RUOTSI     Annan mindre obstetrisk operation
+#LYHENNE    Muu raskaus/synnytys pientmp
+###
+#KOODI_R    TN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Tuki- ja liikuntaelinten pientoimenpiteet
+#RUOTSI     Mindre ortopediska åtgärder
+#ENGL       Minor procedures in orthopedic surgery
+###
+#KOODI      TNA00 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, selkä tai niska
+#RUOTSI     Tunnålsbiopsi från ryggen eller halsen
+#LYHENNE    Ohutneulanäyte, selkä tai niska
+###
+#KOODI      TNA05 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu,  selkä tai niska
+#RUOTSI     Enkel incision av mjukdelar, rygg eller nacke
+#LYHENNE    Pehmytkudosaukaisu,  selkä tai niska
+###
+#KOODI      TNA10 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nivelen pisto, selkä tai niska
+#RUOTSI     Artrocentes, kotpelare eller nacke
+#LYHENNE    Nivelen pisto, selkä tai niska
+###
+#KOODI      TNA11 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen niveleen, selkä tai niska
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i led, kotpelare eller nacke
+#LYHENNE    Diagn/ther inj niv, selkä/niska
+###
+#KOODI      TNA20 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuytimen imeminen, selkä tai niska
+#RUOTSI     Aspiration av benmärg, kotpelare
+#LYHENNE    Luuytimen imeminen, selkä tai niska
+###
+#KOODI      TNA25 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Porakanavanäyte luuytimestä, selkä tai niska
+#RUOTSI     Borrbiopsi av benmärg, kotpelare
+#LYHENNE    Porakanavanäyte luuytimestä, selkä tai n
+###
+#KOODI      TNA30 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, selkä tai niska
+#RUOTSI     Mjukt bandage, rygg eller nacke
+#LYHENNE    Pehmeä sidos, selkä tai niska
+###
+#KOODI      TNA31 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, selkä tai niska
+#RUOTSI     Prefabricerad ortos, rygg eller nacke
+#LYHENNE    Valmistuki, selkä tai niska
+###
+#KOODI      TNA32 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, selkä tai niska
+#RUOTSI     Modellerbar skena, rygg eller nacke
+#LYHENNE    Yksilöllinen lasta, selkä tai niska
+###
+#KOODI      TNA33 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, selkä tai niska
+#RUOTSI     Cirkulärt modellerbart bandage, rygg eller nacke
+#LYHENNE    Yksilöllinen tuki, selkä tai niska
+###
+#KOODI      TNA34 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen ortopedinen suuri tuki, selkä tai niska
+#RUOTSI     Större modellerbart bandage, rygg eller nacke
+#LYHENNE    Yks ortop suuri tuki, selkä/niska
+#OHJE_S  
+esim TLSO
+#OHJE_R 
+---
+###
+#KOODI      TNA39 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, selkä tai niska
+#RUOTSI     Annan ortopedisk bandagering, rygg eller nacke
+#LYHENNE    Muu ortoottinen sidos, selkä tai niska
+###
+#KOODI      TNA40 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, selkä tai niska
+#RUOTSI     Externt sträck, rygg eller nacke
+#LYHENNE    Vetoon asettaminen, selkä tai niska
+#OHJE_S  
+Kallovedon tai halolaitteen asettaminen kohdassa NAT00
+#OHJE_R 
+Applikation av skallsträck eller halo-apparat, se NAT00
+###
+#KOODI      TNA50 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus, selkä tai niska
+#RUOTSI     Implantation av skelettmarkör, kotpelare
+#LYHENNE    Luun merkkaus, selkä tai niska
+#OHJE_S  
+Esim haulilla
+#OHJE_R 
+---
+###
+#KOODI      TNB01 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, olkavarsi tai olkanivel
+#RUOTSI     Finnålsbiopsi, skuldran/överarmen
+#LYHENNE    Ohutneulanäyte, olkavarsi tai olkanivel
+###
+#KOODI      TNB05 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu, olkavarsi tai olkanivel
+#RUOTSI     Enkel incision av mjukdelar, axel eller överarm
+#LYHENNE    Pehmytkudosaukaisu, olkavarsi tai olkani
+###
+#KOODI      TNB10 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Olkanivelen pisto
+#RUOTSI     Artrocentes i axel
+#LYHENNE    Olkanivelen pisto
+###
+#KOODI      TNB11 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen olkaniveleen
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i axelled
+#LYHENNE    Diagn/ther inj niv, olkav/olka
+###
+#KOODI      TNB20 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuytimen imeminen olkavarresta
+#RUOTSI     Aspiration av benmärg överarm
+#LYHENNE    Luuytimen imeminen olkavarresta
+###
+#KOODI      TNB25 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Porakanavanäyte olkaluun ytimestä
+#RUOTSI     Borrbiopsi av benmärg i humerus
+#LYHENNE    Porakanavanäyte olkaluun ytimestä
+###
+#KOODI      TNB30 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, olkavarsi tai olkanivel
+#RUOTSI     Mjukt bandage, axel eller överarm
+#LYHENNE    Pehmeä sidos, olkavarsi tai olkanivel
+###
+#KOODI      TNB31 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, olkavarsi tai olkanivel
+#RUOTSI     Prefabricerad ortos, axel eller överarm
+#LYHENNE    Valmistuki, olkavarsi tai olkanivel
+###
+#KOODI      TNB32 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, olkavarsi tai olkanivel
+#RUOTSI     Modellerbar skena, axel eller överarm
+#LYHENNE    Yksilöllinen lasta, olkavarsi tai olkani
+###
+#KOODI      TNB33 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, olkavarsi tai olkanivel
+#RUOTSI     Cirkulärt modellerbart bandage, axel eller överarm
+#LYHENNE    Yksilöllinen tuki, olkavarsi tai olkaniv
+###
+#KOODI      TNB34 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen ortopedinen suuri tuki, olkavarsi tai olkanivel
+#RUOTSI     Större modellerbart bandage, axel eller överarm
+#LYHENNE    Yks ortop suuri tuki, olkav/olka
+###
+#KOODI      TNB39 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, olkavarsi tai olkanivel
+#RUOTSI     Annan ortopedisk bandagering, axel eller överarm
+#LYHENNE    Muu ortoottinen sidos, olkav/olka
+###
+#KOODI      TNB40 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, olkavarsi tai olkanivel
+#RUOTSI     Externt sträck, axel eller överarm
+#LYHENNE    Vetoon asett, olkav/olka
+###
+#KOODI      TNB50 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus, olkavarsi tai olkanivel
+#RUOTSI     Implantation av skelettmarkör, axel eller överarm
+#LYHENNE    Luun merkkaus, olkavarsi tai olkanivel
+#OHJE_S  
+Esim haulilla
+#OHJE_R 
+---
+###
+#KOODI      TNC05 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu,  kyynärnivel tai kyynärvarsi
+#RUOTSI     Enkel incision av mjukdelar, armbåge eller underarm
+#LYHENNE    Pehmytkudosaukaisu,  kyynärniv/kyyvarsi
+###
+#KOODI      TNC10 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nivelen pisto, kyynärnivel
+#RUOTSI     Artrocentes, armbåge
+#LYHENNE    Nivelen pisto, kyynärnivel
+###
+#KOODI      TNC11 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen kyynärniveleen
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i armbågsled
+#LYHENNE    Diagn/ther inj kyynärniv
+###
+#KOODI      TNC25 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Porakanavanäyte luuytimestä, kyynärnivel tai kyynärvarsi
+#RUOTSI     Borrbiopsi av benmärg, armbåge eller underarm
+#LYHENNE    Porakan.näyte luuyt, kyynärniv/vars
+###
+#KOODI      TNC30 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, kyynärnivel tai kyynärvarsi
+#RUOTSI     Mjukt bandage, armbåge eller underarm
+#LYHENNE    Pehmeä sidos, kyynärnivel tai kyynärvars
+###
+#KOODI      TNC31 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, kyynärnivel tai kyynärvarsi
+#RUOTSI     Prefabricerad ortos, armbåge eller underarm
+#LYHENNE    Valmistuki, kyynärnivel tai kyynärvarsi
+###
+#KOODI      TNC32 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, kyynärnivel tai kyynärvarsi
+#RUOTSI     Modellerbar skena, armbåge eller underarm
+#LYHENNE    Yksilöllinen lasta, kyynärniv/varsi
+###
+#KOODI      TNC33 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, kyynärnivel tai kyynärvarsi
+#RUOTSI     Cirkulärt modellerbart bandage, armbåge eller underarm
+#LYHENNE    Yksilöllinen tuki, kyynärnivel tai kyynä
+###
+#KOODI      TNC34 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen toiminnallinen tuki, kyynärnivel tai kyynärvarsi
+#RUOTSI     Större modellerbart bandage, armbåge eller underarm
+#LYHENNE    Yksilöllinen toim tuki, kyynärniv/varsi
+###
+#KOODI      TNC39 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, kyynärnivel tai kyynärvarsi
+#RUOTSI     Annan ortopedisk bandagering, armbåge eller underarm
+#LYHENNE    Muu ortoottinen sidos, kyynärnivel tai k
+###
+#KOODI      TNC40 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, kyynärnivel tai kyynärvarsi
+#RUOTSI     Externt sträck, armbåge eller underarm
+#LYHENNE    Vetoon asettaminen, kyynärniv / kyynärva
+###
+#KOODI      TNC50 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus kyynärnivel tai kyynärvarsi
+#RUOTSI     Externt sträck, armbåge eller underarm
+#LYHENNE    Luun merkkaus kyynärnivel tai kyynärvars
+###
+#KOODI      TND01 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, ranne tai käsi
+#RUOTSI     Finnålsbipsi, handled och hand
+#LYHENNE    Ohutneulanäyte, ranne tai käsi
+###
+#KOODI      TND05 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu,  ranne tai käsi
+#RUOTSI     Incision, handled eller hand
+#LYHENNE    Pehmytkudosaukaisu,  ranne tai käsi
+###
+#KOODI      TND10 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nivelen pisto, ranne tai sorminivel
+#RUOTSI     Artrocentes, handled eller hand
+#LYHENNE    Nivelen pisto, ranne tai sorminivel
+###
+#KOODI      TND11 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen niveleen, ranne tai käsi
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i led, handled eller hand
+#LYHENNE    Diagn/ther inj niv, ranne/käsi
+###
+#KOODI      TND30 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, ranne tai käsi
+#RUOTSI     Mjukt bandage, handled eller hand
+#LYHENNE    Pehmeä sidos, ranne tai käsi
+###
+#KOODI      TND31 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, ranne tai käsi
+#RUOTSI     Prefabricerad ortos, handled eller hand
+#LYHENNE    Valmistuki, ranne tai käsi
+###
+#KOODI      TND32 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, ranne tai käsi
+#RUOTSI     Modellerbar skena, handled eller hand
+#LYHENNE    Yksilöllinen lasta, ranne tai käsi
+###
+#KOODI      TND33 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki tai kipsi, ranne tai käsi
+#RUOTSI     Cirkulärt modellerbart bandage, handled eller hand
+#LYHENNE    Yksilöllinen tuki tai kipsi, ranne tai k
+###
+#KOODI      TND34 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen toiminnallinen tuki, ranne tai käsi
+#RUOTSI     Större modellerbart bandage, handled eller hand
+#LYHENNE    Yksilöllinen toiminn tuki, ranne/käsi
+###
+#KOODI      TND39 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, ranne tai käsi
+#RUOTSI     Annan ortopedisk bandagering, fotled eller fot
+#LYHENNE    Muu ortoottinen sidos, ranne tai käsi
+###
+#KOODI      TNE01 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, lantion alue
+#RUOTSI     Finnålsbiopsi från bäckenregionen
+#LYHENNE    Ohutneulanäyte, lantion alue
+###
+#KOODI      TNE05 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu,  lantion alue
+#RUOTSI     Enkel incision av mjukdelar, bäckenet
+#LYHENNE    Pehmytkudosaukaisu,  lantion alue
+###
+#KOODI      TNE10 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ristinivelen pisto
+#RUOTSI     Artrocentes i SI-led
+#LYHENNE    Ristinivelen pisto
+###
+#KOODI      TNE11 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen ristiniveleen
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i SI-led
+#LYHENNE    Diagn/ther inj ristiniv
+###
+#KOODI      TNE20 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuytimen imeminen, lantio
+#RUOTSI     Aspiration av benmärg, bäckenet
+#LYHENNE    Luuytimen imeminen, lantio
+###
+#KOODI      TNE25 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Porakanavanäyte luuytimestä, lantio
+#RUOTSI     Borrbiopsi av benmärg, bäckenet
+#LYHENNE    Porakanavanäyte luuytimestä, lantio
+###
+#KOODI      TNE30 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, lantion alue
+#RUOTSI     Mjukt bandage, bäckenet
+#LYHENNE    Pehmeä sidos, lantion alue
+###
+#KOODI      TNE31 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, lantion alue
+#RUOTSI     Prefabricerad ortos, bäckenet
+#LYHENNE    Valmistuki, lantion alue
+###
+#KOODI      TNE32 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, lantion alue
+#RUOTSI     Modellerbar skena, bäckenet
+#LYHENNE    Yksilöllinen lasta, lantion alue
+###
+#KOODI      TNE33 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, lantion alue
+#RUOTSI     Cirkulärt modellerbart bandage, bäckenet
+#LYHENNE    Yksilöllinen tuki, lantion alue
+###
+#KOODI      TNE39 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, lantion alue
+#RUOTSI     Annan ortopedisk bandagering, bäckenet
+#LYHENNE    Muu ortoottinen sidos, lantion alue
+###
+#KOODI      TNE40 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, lantion alue
+#RUOTSI     Externt sträck, bäckenet
+#LYHENNE    Vetoon asettaminen, lantion alue
+###
+#KOODI      TNE50 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus, lantion alue
+#RUOTSI     Implantation av skelettmarkör, bäckenet
+#LYHENNE    Luun merkkaus, lantion alue
+#OHJE_S  
+Esim haulilla
+#OHJE_R 
+---
+###
+#KOODI      TNF01 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, lonkkanivel tai reisi
+#RUOTSI     Finnålsbiopsi, höftled och femur
+#LYHENNE    Ohutneulanäyte, lonkkanivel tai reisi
+###
+#KOODI      TNF05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu,  lonkkanivel tai reisi
+#RUOTSI     Enkel incision av mjukdelar, höftled eller lår
+#LYHENNE    Pehmytkudosaukaisu,  lonkka tai reisi
+###
+#KOODI      TNF10 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lonkkanivelen pisto
+#RUOTSI     Artrocentes, höftled
+#LYHENNE    Lonkkanivelen pisto
+###
+#KOODI      TNF11 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen lonkkaniveleen
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i höftled
+#LYHENNE    Diagn/therap inj lonkkaniv
+###
+#KOODI      TNF20 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuytimen imeminen reisiluusta
+#RUOTSI     Aspiration av benmärg från femur
+#LYHENNE    Luuytimen imeminen reisiluusta
+###
+#KOODI      TNF25 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Porakanavanäyte luuytimestä reisiluusta
+#RUOTSI     Borrbiopsi av benmärg från femur
+#LYHENNE    Porakanavanäyte luuytimestä reisiluusta
+###
+#KOODI      TNF30 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, lonkka tai reisi
+#RUOTSI     Mjukt bandage, höftled eller lår
+#LYHENNE    Pehmeä sidos, lonkka tai reisi
+###
+#KOODI      TNF31 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, lonkka tai reisi
+#RUOTSI     Prefabricerad ortos, höft och lår
+#LYHENNE    Valmistuki, lonkka tai reisi
+###
+#KOODI      TNF32 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, lonkka tai reisi
+#RUOTSI     Modellerbar skena, höftled eller lår
+#LYHENNE    Yksilöllinen lasta, lonkka tai reisi
+###
+#KOODI      TNF33 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, lonkka tai reisi
+#RUOTSI     Cirkulärt modellerbart bandage, höftled eller lår
+#LYHENNE    Yksilöllinen tuki, lonkka tai reisi
+###
+#KOODI      TNF34 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen ortopedinen suuri tuki, lonkka tai reisi
+#RUOTSI     Större modellerbart bandage, höftled eller lår
+#LYHENNE    Yksilöllinen ortopedinen suuri tuki, lon
+###
+#KOODI      TNF39 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, lonkka tai reisi
+#RUOTSI     Annan ortopedisk bandagering, höftled eller lår
+#LYHENNE    Muu ortoottinen sidos, lonkka tai reisi
+###
+#KOODI      TNF40 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, lonkkanivel tai reisi
+#RUOTSI     Externt sträck, höftled eller lår
+#LYHENNE    Vetoon asettaminen, lonkkanivel tai reis
+###
+#KOODI      TNF50 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus lonkkanivel tai reisi
+#RUOTSI     Implantation av skelettmarkör, höftled eller lår
+#LYHENNE    Luun merkkaus lonkkanivel tai reisi
+###
+#KOODI      TNG01 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, polvi tai sääri
+#RUOTSI     Finnålsbiopsi, knä eller underben
+#LYHENNE    Ohutneulanäyte, polvi tai sääri
+###
+#KOODI      TNG05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytkudosaukaisu,  polvi tai sääri
+#RUOTSI     Enkel incision av mjukdelar, knä eller underben
+#LYHENNE    Pehmytkudosaukaisu,  polvi tai sääri
+###
+#KOODI      TNG10 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polven pisto
+#RUOTSI     Artrocentes i knäled
+#LYHENNE    Polven pisto
+###
+#KOODI      TNG11 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen polveen
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i knäled
+#LYHENNE    Diagn/ther inj polveen
+###
+#KOODI      TNG20 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuytimen imeminen, sääri
+#RUOTSI     Aspiration av benmärg i underben
+#LYHENNE    Luuytimen imeminen, sääri
+###
+#KOODI      TNG25 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Porakanavanäyte luuytimestä, sääri
+#RUOTSI     Borrbiopsi av benmärg i underben
+#LYHENNE    Porakanavanäyte luuytimestä, sääri
+###
+#KOODI      TNG30 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, polvi tai sääri
+#RUOTSI     Mjukt bandage, knäled eller underben
+#LYHENNE    Pehmeä sidos, polvi tai sääri
+###
+#KOODI      TNG31 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, polvi tai sääri
+#RUOTSI     Prefabricerad ortos, knäled eller underben
+#LYHENNE    Valmistuki, polvi tai sääri
+###
+#KOODI      TNG32 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, polvi tai sääri
+#RUOTSI     Modellerbar skena, knäled eller underben
+#LYHENNE    Yksilöllinen lasta, polvi tai sääri
+###
+#KOODI      TNG33 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, polvi tai sääri
+#RUOTSI     Cirkulärt modellerbart bandage, knäled eller underben
+#LYHENNE    Yksilöllinen tuki, polvi tai sääri
+###
+#KOODI      TNG34 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen ortopedinen suuri tuki, polvi tai sääri
+#RUOTSI     Större modellerbart bandage, knäled eller underben
+#LYHENNE    Yks ortop suuri tuki, polvi tai sääri
+###
+#KOODI      TNG39 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, polvi tai sääri
+#RUOTSI     Annan ortopedisk bandagering, knäled eller underben
+#LYHENNE    Muu ortoottinen sidos, polvi tai sääri
+###
+#KOODI      TNG40 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, polvi tai sääri
+#RUOTSI     Externt sträck, knäled eller underben
+#LYHENNE    Vetoon asettaminen, polvi tai sääri
+###
+#KOODI      TNG50 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus, polvi tai sääri
+#RUOTSI     Implantation av skelettmarkör, knäled eller underben
+#LYHENNE    Luun merkkaus, polvi tai sääri
+###
+#KOODI      TNH01 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutneulanäyte, nilkka tai jalka
+#RUOTSI     Finnålsbiopsi, fotled eller fot
+#LYHENNE    Ohutneulanäyte, nilkka tai jalka
+###
+#KOODI      TNH05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tuki- ja liikuntaelinten pehmytkudosaukaisu
+#RUOTSI     Enkel incision av mjukdelar, fotled eller fot
+#LYHENNE    Tuki- ja liikuntaelinten pehmytkudosauka
+###
+#KOODI      TNH10 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nivelpisto,nilkkanivel tai jalkaterän nivel
+#RUOTSI     Artrocentes, fotled eller fot
+#LYHENNE    Nivelpisto,nilkkanivel tai jalkaterä
+###
+#KOODI      TNH11 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisen tai hoitavan aineen ruiskuttaminen nilkka- tai jalkaterän niveleen
+#RUOTSI     Injektion av diagnostisk eller terapeutisk substans i led, fotled eller fot
+#LYHENNE    Diagn/therp inj nilk/jalkater niv
+###
+#KOODI      TNH30 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos, nilkka tai jalkaterä
+#RUOTSI     Mjukt bandage, fotled eller fot
+#LYHENNE    Pehmeä sidos, nilkka tai jalkaterä
+###
+#KOODI      TNH31 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valmistuki, nilkka tai jalkaterä
+#RUOTSI     Prefabricerad ortos, fotled eller fot
+#LYHENNE    Valmistuki, nilkka tai jalkaterä
+###
+#KOODI      TNH32 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen lasta, nilkka tai jalkaterä
+#RUOTSI     Modellerbar skena, fotled eller fot
+#LYHENNE    Yksilöllinen lasta, nilkka tai jalkaterä
+###
+#KOODI      TNH33 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen tuki, nilkka tai jalkaterä
+#RUOTSI     Cirkulärt modellerbart bandage, fotled eller fot
+#LYHENNE    Yksilöllinen tuki, nilkka tai jalkaterä
+###
+#KOODI      TNH35 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kampurajalan muokkaus ja sitominen
+#RUOTSI     Bandage av klumpfot
+#LYHENNE    Kampuran sitominen
+#OHJE_S  
+Kampuraleikkaus NHT62
+#OHJE_R 
+Reparation av klumpfot se NHT62
+###
+#KOODI      TNH36 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kampurajalan kipsaus
+#RUOTSI     Gipsning av klumpfot
+#LYHENNE    Kampuran kipsaus
+#OHJE_S  
+Kampuraleikkaus NHT62
+#OHJE_R 
+Reparation av klumpfot se NHT62
+###
+#KOODI      TNH39 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortoottinen sidos, nilkka tai jalkaterä
+#RUOTSI     Annan ortopedisk bandagering, fotled eller fot
+#LYHENNE    Muu ortoottinen sidos, nilkka tai jalkat
+###
+#KOODI      TNH40 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vetoon asettaminen, ranne tai käsi
+#RUOTSI     Externt sträck, handled eller hand
+#LYHENNE    Vetoon asettaminen, ranne tai käsi
+###
+#KOODI      TNH50 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun merkkaus, ranne tai käsi
+#RUOTSI     Implantation av skelettmarkör, handled eller hand
+#LYHENNE    Luun merkkaus, ranne tai käsi
+#OHJE_S  
+Esim haulilla
+#OHJE_R 
+---
+###
+#KOODI      TNX00 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9472+     
+#SUOMI      Tuki- ja liikuntaelinten pehmytkudospisto
+#RUOTSI     Punktion av mjuka delar i ortopedin
+#LYHENNE    TULE pehmytkudospisto/punktio
+###
+#KOODI      TNX05 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9471      
+#SUOMI      Tuki- ja liikuntaelinten pehmytkudosaukaisu
+#RUOTSI     Incision av mjuka delar i ortopedin
+#LYHENNE    TULE  pehmytkudosaukaisu
+###
+#KOODI      TNX10 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9251+     
+#SUOMI      Nivelpisto
+#RUOTSI     Ledpunktion
+#LYHENNE    Nivelpisto
+#OHJE_S  
+Radiologisessa ohjauksessa, katso NA7BT, NB1AT, NB1BT, NB2AT, NB2BT, NF1AT, NF2AT, NF2BT, NK4AT, NK4BT, NK5AT tai NK5BT
+#OHJE_R 
+ Radiologiskt utstyrd, se NA7BT, NB1AT, NB1BT, NB2AT, NB2BT, NF1AT, NF2AT, NF2BT, NK4AT, NK4BT, NK5AT eller NK5BT
+###
+#KOODI      TNX30 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmeä sidos
+#RUOTSI     Anläggande av mjukt bandage
+#LYHENNE    Pehmeä sidos
+#OHJE_S  
+esim. mitella, kainalotyyny
+#OHJE_R 
+T.ex. mitella, axillardyna
+###
+#KOODI      TNX31 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9124      
+#SUOMI      Kova, esivalmistettu sidos
+#RUOTSI     Anläggande av ortos
+#LYHENNE    Kova, esivalmistettu sidos
+#OHJE_S  
+Esim. CDH tyyny
+#OHJE_R 
+ T.ex. CDH dyna
+###
+#KOODI      TNX32 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9124      
+#SUOMI      Muovailtava lasta
+#RUOTSI     Anläggande av formbart spjälning
+#LYHENNE    Muovailtava lasta
+#OHJE_S  
+Esim. kipsistä
+#OHJE_R 
+ T. ex. gips
+###
+#KOODI      TNX33 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9124      
+#SUOMI      Muovailtava sidos
+#RUOTSI     Anläggande bandage av formbart material
+#LYHENNE    Muovailtava sidos
+#OHJE_S  
+Esim kipsisaapas
+#OHJE_R 
+ T.ex. gips
+###
+#KOODI      TNX34 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9125      
+#SUOMI      Laaja muovailtava sidos
+#RUOTSI     Anläggande av större formbart bandage
+#LYHENNE    Laaja muovailtava sidos
+#OHJE_S  
+esim kipsikorsetti
+#OHJE_R 
+ T.ex. gipskorsett
+###
+#KOODI      TNX39 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortopedinen sidos
+#RUOTSI     Annat ortopediskt bandage
+#LYHENNE    Muu ortopedinen sidos
+###
+#KOODI      TNX40 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9121      
+#SUOMI      Raajavedon asettaminen
+#RUOTSI     Anläggande av externt sträck
+#LYHENNE    Raajavedon asettaminen
+#OHJE_S  
+Esim. heftaveto
+Luuvedot kohdassa NxT kunkin ryhmän kohdalla
+#OHJE_R 
+ T.ex "heftasträck"
+ Sträck genom ett ben se NxT00 vid gruppen i fråga
+###
+#KOODI      TNX50 
+#MUUT_PVM   1997/04/07
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muovailtavan sidoksen tai luuvedon poisto
+#RUOTSI     Avlägsnande av formbar bandage eller intern sträck
+#LYHENNE    Muovailtavan sidoksen tai vedon poisto
+#OHJE_S  
+Esim. kipsin poisto tai reisiluuvedon poisto
+#OHJE_R 
+T.ex avlägsnande av gips eller femursträck
+###
+#KOODI      TNX60 
+#MUUT_PVM   1999/08/18
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luumerkkiaineen asettaminen
+#RUOTSI     Aplikaiton av markämne i ben
+#LYHENNE    Luumerkkiaineen asettaminen
+###
+#KOODI      TNX90 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9539      
+#SUOMI      Dynaaminen yläraajalasta
+#RUOTSI     Dynamisk spjälning av övre extremiteten
+#LYHENNE    Dynaaminen yläraajalasta
+###
+#KOODI      TNX92 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9124+     
+#SUOMI      Alaraajan tukisidos tai ortoosi
+#RUOTSI     Ortos för undre extremiteten
+#LYHENNE    Alaraajan tukisidos tai ortoosi
+###
+#KOODI      TNX94 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9124+     
+#SUOMI      Alaraajan varhaisproteesi
+#RUOTSI     Primärprotes för undre extremiteten
+#LYHENNE    Alaraajan varhaisproteesi
+###
+#KOODI      TNX99 
+#MUUT_PVM   1997/04/07
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ortopedinen pientoimenpide
+#RUOTSI     Annan ortopedisk mindre ingrepp
+#LYHENNE    Muu ortopedinen pientoimenpide
+###
+#KOODI_R    TP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Verisuoniin ja imuteihin kohdistuvat pientoimenpiteet
+#RUOTSI     Mindre åtgärder på perifera kärl och lymfatiska systemet
+#ENGL       Minor surgical procedures on peripheral vessels and lymphatic system
+###
+#KOODI      TPH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5604+     
+#SUOMI      Laskimon aukaisu, phlebotomia
+#RUOTSI     Flebotomi (venesektion)
+#LYHENNE    Laskimon aukaisu, phlebotomia
+###
+#KOODI      TPH04 
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laskimon kanylointi
+#RUOTSI     Kanylering av ven
+#LYHENNE    Laskimon kanylointi
+#OHJE_S  
+Punktoimalla ihon läpi
+#OHJE_R 
+I punktion genom huden
+###
+#KOODI      TPH05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5604      
+#SUOMI      Laskimon esiin otto ja  kanylointi
+#RUOTSI     Friläggning och kanylering av perifer ven
+#LYHENNE    Laskimon esiin otto ja kanylointi
+###
+#KOODI      TPH07 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valtimon kanylointi
+#RUOTSI     Kanylering av arteria
+#LYHENNE    Valtimon kanylointi
+###
+#KOODI      TPH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5619      
+#SUOMI      Alaraajalaskimoiden kovetushoito, skleroterapia
+#RUOTSI     Sklerosering av varicer på undre extremiteten
+#LYHENNE    Alaraajalaskimoiden skleroterapia
+###
+#KOODI      TPH15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5609      
+#SUOMI      Keskuslaskimokatetrin asettaminen kaulalaskimon kautta
+#RUOTSI     Inläggande av CVK via vena jugularis (externa eller interna)
+#LYHENNE    Keskuslaskimokatetri kaulalaskimosta
+#OHJE_S  
+Sisältää ihonalaisen tai muun kiinteän infuusioportin asennuksen.
+#OHJE_R 
+Inkl inläggande av permanent kateterport
+###
+#KOODI      TPH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5609      
+#SUOMI      Keskuslaskimokatetrin asettaminen solislaskimon tai vena brachiocephalikuksen kautta
+#RUOTSI     Inläggande av CVK via vena subclavia eller brachiocephalica
+#LYHENNE    Keskuslaskimokatetri solis/ylär/päälaski
+#OHJE_S  
+Sisältää ihonalaisen tai muun kiinteän infuusioportin asennuksen.
+#OHJE_R 
+Innefatar installation av subcutan eller annan fas infusionsport
+###
+#KOODI      TPH30 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskuslaskimokatetrin asettaminen ääreislaskimon kautta
+#RUOTSI     Inläggande av CVK via perifert ven
+#LYHENNE    Keskuslaskimokatetri ääreislaskimon kaut
+###
+#KOODI      TPH90 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiinteän suonikanyylin ja/tai infuusioportin poisto
+#RUOTSI     Avlägsnande av permanent kärlkateter och/eller infusionsport
+#LYHENNE    Kiinteän suonikanyylin poisto
+###
+#KOODI      TPJ00 
+#MUUT_PVM   2004/04/15
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5701      
+#SUOMI      Koepalan otto imusolmukkeesta
+#RUOTSI     Biopsi av ytlig lymfkörtel
+#LYHENNE    Koepalan otto imurauhasesta
+###
+#KOODI      TPJ05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Imusolmukkeen pisto
+#RUOTSI     Punktionsbiopsi av lymfkörtel
+#LYHENNE    Imusolmukkeen pisto
+###
+#KOODI      TPW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu verisuoniin tai imuteihin kohdistuva pientoimenpide
+#RUOTSI     Annan mindre operation på perifera kärl och lymfatiska systemet
+#LYHENNE    Muu verisuoni/imurauhaspientmp
+###
+#KOODI      TPX00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5589      
+#SUOMI      Koepalan otto pinnallisesta valtimosta tai laskimosta
+#RUOTSI     Biopsi av ytlig artär eller ven
+#LYHENNE    Koepala pintavaltimosta tai laskimosta
+#OHJE_S  
+Koepalan otto ohimovaltimosta PAW37.
+#OHJE_R 
+Biopsi av temporalartär, se PAW37
+###
+#KOODI      TPX10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pysyvän injektioreitin asettaminen
+#RUOTSI     Applikation av permanent injektions-/infusionsport
+#LYHENNE    Pysyvän injektioreitin asettaminen
+###
+#KOODI      TPX15 
+#MUUT_PVM   1999/08/18
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laskimokanavan poisto
+#RUOTSI     Avlägsnande av vaskular injektionsport
+#LYHENNE    Laskimokanavan poisto
+###
+#KOODI      TPX20 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/16
+#POISTETTU
+#VANHA                
+#SUOMI      Valtimonahtauman pallolaajennus
+#RUOTSI     Ballongutvidning av stenos i artär
+#LYHENNE    Valtimonahtauma pallolaajennus
+###
+#KOODI      TPX22 
+#MUUT_PVM   1998/11/16
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valtimotukoksen trombolyysi laskimoon annettavalla lääkkeellä
+#RUOTSI     Intravenös arteriell trombolys
+#LYHENNE    Valtimotukoksen trombolyysi laskimonsisä
+###
+#KOODI      TPX24 
+#MUUT_PVM   1998/11/16
+#KAYTPVM    1998/01/01
+#POISTPVM   1998/11/16
+#POISTETTU
+#VANHA                
+#SUOMI      Valtimotukoksen trombolyysi tukoksensisäisesti
+#RUOTSI     Intratrombotisk trombolys i arteria
+#LYHENNE    Valtimotukoksen trombolyysi tukoksensisä
+###
+#KOODI_R    TQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Ihon ja ihonalaiskudoksen pientoimenpiteet
+#RUOTSI     Mindre åtgärder på hud och subkutan vävnad
+#ENGL       Minor surgical procedures on skin
+###
+#KOODI      TQW00 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ontelosyylänpoisto
+#RUOTSI     Avlägsnande av mollusc
+#LYHENNE    Ontelosyylänpoisto
+###
+#KOODI      TQW02 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muun syylänpoisto
+#RUOTSI     Avlägsnande av vårta
+#LYHENNE    Muun syylänpoisto
+###
+#KOODI      TQW10 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palovammasiteen vaihto
+#RUOTSI     Byte av brandbandage
+#LYHENNE    Palovammasiteen vaihto
+###
+#KOODI      TQW20 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tatuointi
+#RUOTSI     Tatuering
+#LYHENNE    Tatuointi
+###
+#KOODI      TQW30 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Akupunktio
+#RUOTSI     Akupunktion
+#LYHENNE    Akupunktio
+###
+#KOODI      TQW40 
+#MUUT_PVM   1996/12/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ompeleen tai ompeleiden poisto ihosta
+#RUOTSI     Avlägsnande av stygn i hud
+#LYHENNE    Ompeleen tai ompeleiden poisto ihosta
+###
+#KOODI      TQW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ihon pientoimenpide
+#RUOTSI     Annan mindre operation på hud eller subkutan vävnad
+#LYHENNE    Muu ihon pientoimenpide
+###
+#KOODI      TQX00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Neulakudosnäytteen otto ihosta
+#RUOTSI     Punktionsbiopsi av hud
+#LYHENNE    Neulakudosnäytteen otto ihosta
+###
+#KOODI      TQX10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon ja ihonalaiskudoksen koepalan otto
+#RUOTSI     Biopsi av hud och subkutant vävnad
+#LYHENNE    Ihon ja ihonalaiskudoksen koepalan otto
+###
+#KOODI      TQX20 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihonalaisen lääkeainekapselin asettaminen
+#RUOTSI     Inläggning av subkutant läkemedelsimplantat
+#LYHENNE    Ihonalaisen lääkeainekapselin asettamine
+###
+#KOODI      TQX22 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihonalaisen lääkeainekapselin poisto
+#RUOTSI     Uttagning av subkutant läkemedelsimplantat
+#LYHENNE    Ihonalaisen lääkeainekapselin poisto

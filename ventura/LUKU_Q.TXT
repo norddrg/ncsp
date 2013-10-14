@@ -1,0 +1,2864 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU Q
+
+@LUVUT_S = KAPITEL Q
+
+@SUOMI_L = Iho ja ihonalaiskudos
+
+@RUOTSI_L = Hud och subkutana vävnader
+
+@ENGL_L = Skin and subcutaneous tissue
+
+@NOTE_LF = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_LS = Transplantat och lambåer, se ZZ
+
+@END_L = 
+
+@KOODI_R = QA
+
+@SUOMI_R = Pään ja kaulan iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutana vävnader i huvud-halsregionen
+
+@ENGL_R = Skin and sucutaneous tissue of head and neck
+
+@NOTE_RF = Sis. kasvojen ihon toimenpiteet
+
+@NOTE_RF =
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Inkl ansiktet
+
+@NOTE_RS =
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgärd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QA0
+
+@NCSP_A = QAO
+
+@SUOMI_A = Pään ja kaulan ihon sädehoito
+
+@RUOTSI_A = Strålbehandling av hud i huvud och hals
+
+@ENGL_A = Radiotherapy of skin of head and neck
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = QA001 
+
+@NCSP = QAO001
+
+@SUOMI = Pään ja kaulan ihon paikallinen sädehoito
+
+@RUOTSI = Lokal strålbehandling av hud i huvud-halsregionen
+
+@END = 
+
+@KOODI_A = QAA
+
+@NCSP_A = QASA
+
+@SUOMI_A = Pään tai kaulan ihon koepalan otot, aukaisut ja paikalliset käsittelyt
+
+@RUOTSI_A = Punktion, incision, biopsi och destruktion vid hudförändring i huvud-halsregionen
+
+@ENGL_A = Incision of skin of head and neck
+
+@END = 
+
+@KOODI = QAA00 
+
+@NCSP = QASA00
+
+@SUOMI = Pään tai kaulan ihon pisto
+
+@RUOTSI = Punktion i huvud-halsregionen
+
+@NOTE_F = esim. verenpurkauman, haavanesteen tms
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QAA05 
+
+@NCSP = QASA05
+
+@SUOMI = Koepalan otto pään tai kaulan ihosta tai subkutiksesta
+
+@RUOTSI = Biopsi av hud/subkutan vävnad i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA10 
+
+@NCSP = QASA10
+
+@SUOMI = Pään tai kaulan ihon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dränage i huvud-halsregionen
+
+@NOTE_S = Inkl dränage
+
+@END = 
+
+@KOODI = QAE50 
+
+@NCSP = QASA20
+
+@SUOMI = Pään ja kaulan pinnallisen ihomuutoksen hiominen
+
+@RUOTSI = Dermabrasion av ytlig hudföränding i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA30 
+
+@NCSP = QASA30
+
+@SUOMI = Pään tai kaulan ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Koagulation av hudförändring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA40 
+
+@NCSP = QASA40
+
+@SUOMI = Pään tai kaulan ihomuutoksen laserkäsittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudförändring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA50 
+
+@NCSP = QASA50
+
+@SUOMI = Pään tai kaulan ihomuutoksen jäädytyshoito
+
+@RUOTSI = Kryoterapi av hudförändring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA99 
+
+@NCSP = QASA99
+
+@SUOMI = Muu pään tai kaulan ihon koepalan otto, aukaisu tai paikallinen käsittely
+
+@RUOTSI = Annan punktion, incision, biopsi eller destruktion vid hudförändring i huvud-halsregionen
+
+@END = 
+
+@KOODI_A = QAB
+
+@NCSP_A = QASB
+
+@SUOMI_A = Pään ja kaulan ihohaavojen ompelut ja siteenvaihdot
+
+@RUOTSI_A = Sårbehandling i huvud-halsregionen
+
+@ENGL_A = Procedures for wounds of skin of head and neck
+
+@END = 
+
+@KOODI = QAB00 
+
+@NCSP = QASB00
+
+@SUOMI = Pään tai kaulan ihohaavan ompelu
+
+@RUOTSI = Hudsutur i huvud-halsregionen
+
+@NOTE_F = Laajuus ilmaistaan tarvittaessa lisäkoodilla, katso ZQX
+
+@END = 
+
+@KOODI = QAB05 
+
+@NCSP = QASB05
+
+@SUOMI = Pään tai kaulan ihon ja ihonalaiskudoksen haavan revisio ja mahdollinen sulku
+
+@RUOTSI = Revision och vid behov sutur av djupt sår i huvud-halsregionen
+
+@NOTE_F = Muiden kudosten toimenpiteet koodataan eri koodilla kyseisen toimenpiteen mukaisesti.
+
+@NOTE_S = Åtgärd på andra vävnader koderas enligt åtgärden.
+
+@END = 
+
+@KOODI = QAB10 
+
+@NCSP = QASB10
+
+@SUOMI = Pään tai kaulan ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/förbandsbyte för sår i huvud-halsregionen
+
+@NOTE_F = Palovamma kohdassa QAD
+
+@NOTE_S = Brännskador, se QAD
+
+@END = 
+
+@KOODI = QAB99 
+
+@NCSP = QASB99
+
+@SUOMI = Muu pään tai kaulan ihohaavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan sårbehandling i huvud-halsregionen
+
+@END = 
+
+@KOODI_A = QAC
+
+@NCSP_A = QASC
+
+@SUOMI_A = Pään ja kaulan ihon vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av kutan främmande kropp i huvud-halsregionen
+
+@ENGL_A = Removal of foreign body from head and neck
+
+@NOTE_RF = Sisältää muualla luokittelemattomat tapaukset
+
+@NOTE_RF =
+Ei sisällä ihoa lävistämättömiin vierasesineisiin liittyviä toimenpiteitä
+
+@NOTE_RS = Inkl fall, som ej klassifierats annorstädes
+
+@NOTE_RS =
+Exkl åtrgärd, där främmande kropp ej penetrerar huden
+
+@END = 
+
+@KOODI = QAC00 
+
+@NCSP = QASC00
+
+@SUOMI = Vierasesineen poisto pään tai kaulan ihosta
+
+@RUOTSI = Avlägsnande av kutan främmande kropp i huvud-halsregionen
+
+@END = 
+
+@KOODI_A = QAD
+
+@NCSP_A = QASD
+
+@SUOMI_A = Pään ja kaulan palovammaleikkaukset ja siteenvaihdot
+
+@RUOTSI_A = Behandling av brännskador i huvud-halsregionen
+
+@ENGL_A = Procedures for burns of head and neck
+
+@END = 
+
+@KOODI = QAD00 
+
+@NCSP = QASD00
+
+@SUOMI = Pään tai kaulan palovamman siteiden vaihto
+
+@RUOTSI = Omläggning vid brännskada i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAD10 
+
+@NCSP = QASD10
+
+@SUOMI = Pään tai kaulan palovamman puhdistusleikkaus
+
+@RUOTSI = Revision av brännskada i huvud-halsregionen, débridement
+
+@END = 
+
+@KOODI = QAD20 
+
+@NCSP = QASD20
+
+@SUOMI = Pään tai kaulan palovamman poistoleikkaus ja peittäminen siirteellä
+
+@RUOTSI = Excision och täckning med transplantat av brännskada i huvud-halsregionen
+
+@NOTE_F = Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+
+@END = 
+
+@KOODI_A = QAE
+
+@NCSP_A = QASE
+
+@SUOMI_A = Pään ja kaulan ihon paikallisten muutosten poistot ja korjaavat leikkaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid hudförändringar i huvud-halsregionen
+
+@ENGL_A = Excision and repair of lesion of skin of head and neck
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QAE20 
+
+@NCSP = QASE20
+
+@SUOMI = Pään tai kaulan ihon arven tai kurouman poisto ja korjaus
+
+@RUOTSI = Excision av ärr i huvud-halsregionen
+
+@NOTE_F = Ei sisällä palovamma-arpea QAE25 eikä  leikkausarpea QAE30
+
+@NOTE_S = Exkl ärr efter brännskador (QAE25) och postoperativa ärr (QAE30)
+
+@END = 
+
+@KOODI = QAE25 
+
+@NCSP = QASE25
+
+@SUOMI = Pään tai kaulan palovamma-arven poisto ja korjaus
+
+@RUOTSI = Excision/revision av ärr efter brännskada i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAE30 
+
+@NCSP = QASE30
+
+@SUOMI = Pään tai kaulan leikkausarven poisto ja korjaus
+
+@RUOTSI = Excision/revision av operationsärr i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAE35 
+
+@NCSP = QASE35
+
+@SUOMI = Pään tai kaulan leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+
+@RUOTSI = Rekonstruktion p.g.a. huddefekt efter skada eller operation i huvud-halsregionen
+
+@NOTE_F = Krooninen haava, katso QAG
+
+@NOTE_S = Kroniskt sår, se QAG
+
+@END = 
+
+@KOODI = QAE40 
+
+@NCSP = QASE40
+
+@SUOMI = Pään tai kaulan ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+
+@RUOTSI = Rekonstruktion vid missbildning eller hudsjukdom i huvud-halsregionen
+
+@NOTE_F = Sisältää kasvohermonhalvauksen takia tehtävän rekonstruktiivisen leikkauksen
+
+@NOTE_F =
+Lihas ja hermoleikkaukset kasvohermonhalvauksen vuoksi, katso AAH
+
+@NOTE_S = Inkl rekonstruktiv operation vid facialispares
+
+@NOTE_S =
+Nerv och muskeloperationer vid facialispares, se AAH
+
+@END = 
+
+@KOODI = QAE99 
+
+@NCSP = QASE99
+
+@SUOMI = Muu pään ja kaulan ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+
+@RUOTSI = Annan kutan / subkutan excision eller rekonstruktion i huvud-halsregionen
+
+@END = 
+
+@KOODI_A = QAF
+
+@NCSP_A = QASF
+
+@SUOMI_A = Hiuspohjan leikkaukset
+
+@RUOTSI_A = Operationer på kapillitiet och ögonbrynen
+
+@ENGL_A = Operations on scalp and eyebrow
+
+@END = 
+
+@KOODI = QAF00 
+
+@NCSP = QASF00
+
+@SUOMI = Hiuspohjan korjaus vapaalla hiussiirteellä
+
+@RUOTSI = Rekonstruktion av kapillitiet med hårbärande transplantat
+
+@NOTE_F = esim  punch grafts
+
+@NOTE_F =
+Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_S = T.ex. "punch grafts"
+
+@NOTE_S = Transplantat och lambåer, se ZZ
+
+@END = 
+
+@KOODI = QAF10 
+
+@NCSP = QASF10
+
+@SUOMI = Silmäripsien  korjaus iholla, jossa on karvoitus
+
+@RUOTSI = Rekonstruktion av ögonbryn med hårbärande transplantat
+
+@END = 
+
+@KOODI = QAF99 
+
+@NCSP = QASF99
+
+@SUOMI = Muu hiuspohjan leikkaus
+
+@RUOTSI = Annan operation på kapillitiet
+
+@END = 
+
+@KOODI_A = QAG
+
+@NCSP_A = QASG
+
+@SUOMI_A = Pään ja kaulan ihon kroonisten haavojen ja avanteiden korjaukset
+
+@RUOTSI_A = Operationer för kroniska sår och fistlar i huvud-halsregionen
+
+@ENGL_A = Operations for chronic ulcers and fistulae of skin of head and neck
+
+@END = 
+
+@KOODI = QAG20 
+
+@NCSP = QASG20
+
+@SUOMI = Pään tai kaulan kroonisen haavan poisto ja korjaus
+
+@RUOTSI = Excision av kroniskt sår i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAG30 
+
+@NCSP = QASG30
+
+@SUOMI = Pään tai kaulan ihon leikkaushaavan suunniteltu myöhäissulku
+
+@RUOTSI = Planerad sekundärsutur av hud i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAG99 
+
+@NCSP = QASG99
+
+@SUOMI = Muu pään tai kaulan ihon kroonisen haavan leikkaus
+
+@RUOTSI = Annan operation för kroniskt sår i huvud-halsregionen
+
+@END = 
+
+@KOODI_A = QAJ
+
+@NCSP_A = QASJ
+
+@SUOMI_A = Ulkonäköä muuttavat, esteettisistä syistä tehtävät pään ja kaulan toimenpiteet
+
+@RUOTSI_A = Operationer av estetiska skäl i huvud-halsregionen
+
+@ENGL_A = Aesthetic operations on skin of head and neck
+
+@END = 
+
+@KOODI = QAJ00 
+
+@NCSP = QASJ00
+
+@SUOMI = Pään tai kaulan rasvaimu
+
+@RUOTSI = Fettsugning i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAJ05 
+
+@NCSP = QASJ05
+
+@SUOMI = Pään ja kaulan liian ihon poisto ulkonäön vuoksi
+
+@RUOTSI = Estetiskt betingad hudresektion i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAJ10 
+
+@NCSP = QASJ10
+
+@SUOMI = Kulmakarvojen kohotus
+
+@RUOTSI = Lyftning av ögonbryn
+
+@END = 
+
+@KOODI = QAJ15 
+
+@NCSP = QASJ15
+
+@SUOMI = Kulmakarvojen kohotus tähystyksessä
+
+@RUOTSI = Endoskopisk lyftning av ögonbryn
+
+@END = 
+
+@KOODI = QAJ20 
+
+@NCSP = QASJ20
+
+@SUOMI = Subperiostaalinen kasvojen kohotus
+
+@RUOTSI = Subperiostal ansiktslyftning
+
+@END = 
+
+@KOODI = QAJ25 
+
+@NCSP = QASJ25
+
+@SUOMI = Kasvojen kohotus tähystyksessä
+
+@RUOTSI = Endoskopisk ansiktslyftning
+
+@END = 
+
+@KOODI = QAJ30 
+
+@NCSP = QASJ30
+
+@SUOMI = Avoin kasvojenkohotus
+
+@RUOTSI = Annan ansiktslyftning
+
+@NOTE_F = Konventionaalisella tekniikalla tehty toimenpide.
+
+@NOTE_S = Operation med konventionell teknik
+
+@END = 
+
+@KOODI = QAJ35 
+
+@NCSP = QASJ35
+
+@SUOMI = Muu pään ja niskan löysän ihon korjaus
+
+@RUOTSI = Annan korrektion av hudöverskott i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAJ99 
+
+@NCSP = QASJ99
+
+@SUOMI = Muu ulkonäköa muuttava, esteettisistä syistä tehtävä pään tai kaulan ihon toimenpide
+
+@RUOTSI = Annan estetiskt betingad operation i huvud-halsregionen
+
+@END = 
+
+@KOODI_R = QB
+
+@SUOMI_R = Vartalon iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutan vävnad på bålen
+
+@ENGL_R = Skin and subcutaneous tissue of trunk
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QB0
+
+@NCSP_A = QBO
+
+@SUOMI_A = Vartalon ihon sädehoito
+
+@RUOTSI_A = Strålbehandling av hud på bålen
+
+@ENGL_A = Radiotherapy of skin of trunk
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = QB001 
+
+@NCSP = QBO001
+
+@SUOMI = Vartalon ihon paikallinen sädehoito
+
+@RUOTSI = Lokal strålbehandling av hud på bålen
+
+@END = 
+
+@KOODI_A = QBA
+
+@NCSP_A = QBSA
+
+@SUOMI_A = Vartalon ihon koepalan otot, aukaisut ja paikalliset käsittelyt
+
+@RUOTSI_A = Punktion, incision, biopsi och destruktion vid hudförändring på bålen
+
+@ENGL_A = Puncture, incision or local destruction of lesion of skin of trunk
+
+@END = 
+
+@KOODI = QBA00 
+
+@NCSP = QBSA00
+
+@SUOMI = Vartalon ihon pisto
+
+@RUOTSI = Punktion på bålen
+
+@NOTE_F = Esim, verenpurkauma, haavaneste jne
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QBA10 
+
+@NCSP = QBSA10
+
+@SUOMI = Vartalon ihon aukaisu, insisio, ja kanavointi
+
+@RUOTSI = Incision/dränage på bålen
+
+@END = 
+
+@KOODI = QBE50 
+
+@NCSP = QBSA20
+
+@SUOMI = Vartalon pinnallisen ihomuutoksen hiominen
+
+@RUOTSI = Dermabrasion av ytlig förändring på bålen
+
+@END = 
+
+@KOODI = QBA30 
+
+@NCSP = QBSA30
+
+@SUOMI = Vartalon ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hudförändring på bålen
+
+@END = 
+
+@KOODI = QBA40 
+
+@NCSP = QBSA40
+
+@SUOMI = Vartalon ihomuutoksen laserkäsittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudförändring på bålen
+
+@END = 
+
+@KOODI = QBA50 
+
+@NCSP = QBSA50
+
+@SUOMI = Vartalon ihomuutoksen jäädytyshoito
+
+@RUOTSI = Kryoterapi av hudförändring på bålen
+
+@END = 
+
+@KOODI = QBA99 
+
+@NCSP = QBSA99
+
+@SUOMI = Muu vartalon ihon aukaisu tai koepalan otto
+
+@RUOTSI = Annan punktion, incision, biopsi eller destruktion  vid hudförändring på bålen
+
+@END = 
+
+@KOODI_A = QBB
+
+@NCSP_A = QBSB
+
+@SUOMI_A = Vartalon ihohaavojen ompelut ja siteenvaihdot
+
+@RUOTSI_A = Sårbehandling på bålen
+
+@ENGL_A = Procedures for wounds of skin
+
+@END = 
+
+@KOODI = QBB00 
+
+@NCSP = QBSB00
+
+@SUOMI = Vartalon ihohaavan ompelu
+
+@RUOTSI = Hudsutur på bålen
+
+@END = 
+
+@KOODI = QBB05 
+
+@NCSP = QBSB05
+
+@SUOMI = Vartalon syvän ihohaavan revisio ja mahdollinen sulku
+
+@RUOTSI = Revision och sutur av djupt sår på bålen
+
+@END = 
+
+@KOODI = QBB10 
+
+@NCSP = QBSB10
+
+@SUOMI = Vartalon ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/förbandsbyte vid sår på bålen
+
+@NOTE_F = Palovamma kohdassa QBD
+
+@NOTE_S = Brännskador, se QBD
+
+@END = 
+
+@KOODI = QBB99 
+
+@NCSP = QBSB99
+
+@SUOMI = Muu vartalon ihohaavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan sårbehandling på bålen
+
+@END = 
+
+@KOODI_A = QBC
+
+@NCSP_A = QBSC
+
+@SUOMI_A = Vartalon ihon vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av kutan/subkutan främmande kropp från bålen
+
+@ENGL_A = Removal of foreign body from skin of trunk
+
+@NOTE_RF = Sisältää muualla luokittelemattomat tapaukset
+
+@NOTE_RF =
+Ei sisällä ihoa lävistämättömiin vierasesineisiin liittyviä toimenpiteitä
+
+@NOTE_RS = Inkl fall, som ej klassifierats annorstädes
+
+@NOTE_RS =
+Exkl åtrgärd, där främmande kropp ej penetrerar huden
+
+@END = 
+
+@KOODI = QBC00 
+
+@NCSP = QBSC00
+
+@SUOMI = Vartalon ihon vierasesineen poisto
+
+@RUOTSI = Avlägsnande av kutan/subkutan främmande kropp från bålen
+
+@END = 
+
+@KOODI_A = QBD
+
+@NCSP_A = QBSD
+
+@SUOMI_A = Vartalon palovammaleikkaukset ja siteenvaihdot
+
+@RUOTSI_A = Behandling av brännskador på bålen
+
+@ENGL_A = Procedures for burns of trunk
+
+@END = 
+
+@KOODI = QBD00 
+
+@NCSP = QBSD00
+
+@SUOMI = Vartalon palovamman siteiden vaihto
+
+@RUOTSI = Förbandsbyte vid brännskada på bålen
+
+@END = 
+
+@KOODI = QBD10 
+
+@NCSP = QBSD10
+
+@SUOMI = Vartalon palovamman puhdistusleikkaus, débridement
+
+@RUOTSI = Revision av brännskada på bålen, débridement
+
+@END = 
+
+@KOODI = QBD20 
+
+@NCSP = QBSD20
+
+@SUOMI = Vartalon palovamman poistoleikkaus ja peittäminen
+
+@RUOTSI = Excision och täckning av brännskada på bålen
+
+@NOTE_F = Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+
+@END = 
+
+@KOODI_A = QBE
+
+@NCSP_A = QBSE
+
+@SUOMI_A = Vartalon ihon ja ihonalaiskudoksen paikallisten muutosten poistot ja korjaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid kutana/subkutana förändringar på bålen
+
+@ENGL_A = Excision and repair of lesion of skin of trunk
+
+@NOTE_RF = Sis. ihon ja ihonalaiskudoksen arvet, kasvaimet, poimut, puutokset ja kehityshäiriöt
+
+@NOTE_RF =
+Siirteet ja kielekkeet kohdassa ZZA
+
+@NOTE_RF =
+Lasertekniikan käyttö ilmaistaan lisäkoodilla ryhmästä ZXC
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QBE05 
+
+@NCSP = QBSE05
+
+@SUOMI = Hikirauhasten tai ihon ja hikirauhasten poisto vartalolta
+
+@RUOTSI = Excision av svettkörtlar eller hud med svettkörtlar från bålen
+
+@NOTE_F = Tavallisesti kainalosta
+
+@NOTE_S = Vanligen från armhålan
+
+@END = 
+
+@KOODI = QBE20 
+
+@NCSP = QBSE20
+
+@SUOMI = Vartalon ihon arven tai kurouman poisto ja korjaus
+
+@RUOTSI = Excision av ärr på bålen
+
+@NOTE_F = Ei sisällä palovamma-arpea QBE25 eikä leikkausarpea QBE30
+
+@NOTE_S = Exkl ärr efter brännskador (QBE25) och postoperativa ärr (QBE30)
+
+@END = 
+
+@KOODI = QBE25 
+
+@NCSP = QBSE25
+
+@SUOMI = Vartalon palovamma-arven poisto ja korjaus
+
+@RUOTSI = Excision/revision av ärr efter brännskada på bålen
+
+@END = 
+
+@KOODI = QBE30 
+
+@NCSP = QBSE30
+
+@SUOMI = Vartalon leikkausarven poisto ja korjaus
+
+@RUOTSI = Excision/revision av operationsärr på bålen
+
+@END = 
+
+@KOODI = QBE35 
+
+@NCSP = QBSE35
+
+@SUOMI = Vartalon leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+
+@RUOTSI = Rekonstruktion av huddefekt efter skada eller operation på bålen
+
+@NOTE_F = Krooninen haava, katso QBG
+
+@NOTE_S = Kroniskt sår, se QBG
+
+@END = 
+
+@KOODI = QBE40 
+
+@NCSP = QBSE40
+
+@SUOMI = Vartalon ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+
+@RUOTSI = Rekonstruktion vid missbildning eller hudsjukdom på bålen
+
+@END = 
+
+@KOODI = QBE99 
+
+@NCSP = QBSE99
+
+@SUOMI = Muu vartalon ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+
+@RUOTSI = Annan kutan/subkutan excision eller rekonstruktion på bålen
+
+@END = 
+
+@KOODI_A = QBG
+
+@NCSP_A = QBSG
+
+@SUOMI_A = Vartalon kroonisten haavojen ja avanteiden korjaukset
+
+@RUOTSI_A = Operationer för kroniska sår och fistlar på bålen
+
+@ENGL_A = Operations for chronic ulcers and fistulae of skin of trunk
+
+@NOTE_RF = Siirteet ja kielekkeet kohdassa ZZA
+
+@NOTE_RS = Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@END = 
+
+@KOODI = QBG00 
+
+@NCSP = QBSG00
+
+@SUOMI = Vartalon painehaavan puhdistusleikkaus, débridement
+
+@RUOTSI = Revision av liggsår på bålen, débridement
+
+@END = 
+
+@KOODI = QBG10 
+
+@NCSP = QBSG10
+
+@SUOMI = Vartalon painehaavan poisto ja korjaus
+
+@RUOTSI = Excision med rekonstruktion vid liggsår på bålen
+
+@END = 
+
+@KOODI = QBG20 
+
+@NCSP = QBSG20
+
+@SUOMI = Vartalon kroonisen haavan poisto ja korjaus
+
+@RUOTSI = Excision/revision av kroniskt sår på bålen
+
+@END = 
+
+@KOODI = QBG30 
+
+@NCSP = QBSG30
+
+@SUOMI = Vartalon ihon leikkaushaavan suunniteltu myöhäissulku
+
+@RUOTSI = Planerad sekundärsutur av operationssår i hud på bålen
+
+@NOTE_F = Syvemmällä sijaitsevan elimen leikkaushaavan uudelleen sulku koodataan kyseisen elinryhmän kohdalle
+
+@NOTE_S = Vid sårruptur efter operation. på djupareliggande organ, se resp kapitel
+
+@END = 
+
+@KOODI = QBG99 
+
+@NCSP = QBSG99
+
+@SUOMI = Muu vartalon kroonisen haavan leikkaus
+
+@RUOTSI = Annan operation för kroniskt sår på bålen
+
+@END = 
+
+@KOODI_A = QBJ
+
+@NCSP_A = QBSJ
+
+@SUOMI_A = Esteettisistä syistä tehtävät vartalon ihon toimenpiteet
+
+@RUOTSI_A = Estetiskt betingade operationer på bålens hud/underhudsvävnader
+
+@ENGL_A = Aesthetic operations on skin of trunk
+
+@NOTE_RF = Rintarauhanen luvussa H
+
+@NOTE_RS = Mamma-operationer, se H
+
+@END = 
+
+@KOODI = QBJ00 
+
+@NCSP = QBSJ00
+
+@SUOMI = Vartalon rasvaimu
+
+@RUOTSI = Fettsugning på bålen
+
+@END = 
+
+@KOODI = QBJ05 
+
+@NCSP = QBSJ05
+
+@SUOMI = Vartalon löysän ihon poisto ulkonäön vuoksi
+
+@RUOTSI = Estetiskt betingad hudreduktion på bålen
+
+@END = 
+
+@KOODI = QBJ30 
+
+@NCSP = QBSJ30
+
+@SUOMI = Riippuvatsan korjaus
+
+@RUOTSI = Korrektion av hängbuk
+
+@END = 
+
+@KOODI = QBJ99 
+
+@NCSP = QBSJ99
+
+@SUOMI = Muu esteettisistä syistä tehtävä vartalon ihon tai ihonalaiskudoksen toimenpide
+
+@RUOTSI = Annan operation av estetiska orsaker på bålens hud/underhudsvävnader
+
+@END = 
+
+@KOODI_R = QC
+
+@SUOMI_R = Yläraajojen iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutan vävnad på övre extremitet
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QC0
+
+@NCSP_A = QCO
+
+@SUOMI_A = Yläraajan ihon sädehoito
+
+@RUOTSI_A = Strålbehandling av övre extremiteten
+
+@ENGL_A = Radiotherapy of skin of upper limb
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = QC001 
+
+@NCSP = QCO001
+
+@SUOMI = Yläraajojen ihon paikallinen sädehoito
+
+@RUOTSI = Lokal strålbehandling av hud på övre extremiteten
+
+@END = 
+
+@KOODI_A = QCA
+
+@NCSP_A = QCSA
+
+@SUOMI_A = Yläraajojen ihon koepalan otot, aukaisut ja paikalliset käsittelyt
+
+@RUOTSI_A = Punktion, incision,biopsi och destruktion vid hudförändring, övre extremiteten
+
+@ENGL_A = Puncture, incision or local destruction of lesion of skin of upper limb
+
+@END = 
+
+@KOODI = QCA00 
+
+@NCSP = QCSA00
+
+@SUOMI = Yläraajan ihon pisto
+
+@RUOTSI = Punktion, övre extremiteten
+
+@NOTE_F = esim, verenpurkauma, haavaneste jne
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QCA10 
+
+@NCSP = QCSA10
+
+@SUOMI = Yläraajan ihon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dränage, övre extremiteten
+
+@END = 
+
+@KOODI = QCE50 
+
+@NCSP = QCSA20
+
+@SUOMI = Yläraajan pinnallisen ihomuutoksen hiominen
+
+@RUOTSI = Dermabrasion av ytlig hudförändring, övre extremiteten
+
+@END = 
+
+@KOODI = QCA30 
+
+@NCSP = QCSA30
+
+@SUOMI = Yläraajan ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hudförändring, övre extremiteten
+
+@END = 
+
+@KOODI = QCA40 
+
+@NCSP = QCSA40
+
+@SUOMI = Yläraajan ihomuutoksen laserkäsittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudförändring, övre extremiteten
+
+@END = 
+
+@KOODI = QCA50 
+
+@NCSP = QCSA50
+
+@SUOMI = Yläraajan ihomuutoksen jäädytyshoito
+
+@RUOTSI = Kryoterapi av hudförändring, övre extremiteten
+
+@END = 
+
+@KOODI = QCA99 
+
+@NCSP = QCSA99
+
+@SUOMI = Muu yläraajan ihon aukaisu tai koepalan otto
+
+@RUOTSI = Annan punktion, incision eller biopsi vid hudförändring, övre extremiteten
+
+@END = 
+
+@KOODI_A = QCB
+
+@NCSP_A = QCSB
+
+@SUOMI_A = Yläraajojen ihon haavojen ompelut ja siteenvaihdot
+
+@RUOTSI_A = Sårbehandling, övre extremiteten
+
+@ENGL_A = Procedures for wounds of skin of upper limb
+
+@END = 
+
+@KOODI = QCB00 
+
+@NCSP = QCSB00
+
+@SUOMI = Yläraajan ihohaavan ompelu
+
+@RUOTSI = Hudsutur, övre extremiteten
+
+@END = 
+
+@KOODI = QCB05 
+
+@NCSP = QCSB05
+
+@SUOMI = Yläraajan syvän ihohaavan revisio ja mahdollinen sulku
+
+@RUOTSI = Revision och sutur av djupt sår på övre etremiteten
+
+@END = 
+
+@KOODI = QCB10 
+
+@NCSP = QCSB10
+
+@SUOMI = Yläraajan ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/förbandsbyte vid sår på övre extremiteten
+
+@NOTE_F = Palovamma kohdassa QCD
+
+@NOTE_S = Brännskador, se QCD
+
+@END = 
+
+@KOODI = QCB99 
+
+@NCSP = QCSB99
+
+@SUOMI = Muu yläraajan ihon haavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan sårbehandling, övre extremiteten
+
+@END = 
+
+@KOODI_A = QCC
+
+@NCSP_A = QCSC
+
+@SUOMI_A = Yläraajojen ihon vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av kutan/subkutan främmande kropp, övre extremiteten
+
+@ENGL_A = Removal of foreign body from skin and miscellaneous locations
+
+@NOTE_RF = Sisältää muualla luokittelemattomat tapaukset
+
+@NOTE_RF =
+Ei sisällä ihoa lävistämättömiin vierasesineisiin liittyviä toimenpiteitä
+
+@NOTE_RS = Inkl fall, som ej klassifierats annorstädes
+
+@NOTE_RS =
+Exkl åtrgärd, där främmande kropp ej penetrerar huden
+
+@END = 
+
+@KOODI = QCC00 
+
+@NCSP = QCSC00
+
+@SUOMI = Yläraajan ihon vierasesineen poisto
+
+@RUOTSI = Avlägsnande av kutan/subkutan främmande kropp, övre extremiteten
+
+@END = 
+
+@KOODI_A = QCD
+
+@NCSP_A = QCSD
+
+@SUOMI_A = Yläraajojen palovammaleikkaukset ja siteenvaihdot
+
+@RUOTSI_A = Behandling av brännskador, övre extremiteten
+
+@ENGL_A = Procedures for burns of upper limb
+
+@END = 
+
+@KOODI = QCD00 
+
+@NCSP = QCSD00
+
+@SUOMI = Yläraajan palovamman siteiden vaihto
+
+@RUOTSI = Förbandsbyte vid brännskada, övre extremiteten
+
+@END = 
+
+@KOODI = QCD10 
+
+@NCSP = QCSD10
+
+@SUOMI = Yläraajan palovamman puhdistusleikkaus, débridement
+
+@RUOTSI = Revision av brännskada, övre extremiteten, débridement
+
+@END = 
+
+@KOODI = QCD20 
+
+@NCSP = QCSD20
+
+@SUOMI = Yläraajan palovamman poistoleikkaus ja peittäminen
+
+@RUOTSI = Excision och täckning av brännskada, övre extremiteten
+
+@NOTE_F = Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+
+@END = 
+
+@KOODI_A = QCE
+
+@NCSP_A = QCSE
+
+@SUOMI_A = Yläraajojen ihon ja ihonalaiskudoksen muutosten poistot ja korjaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid kutana/subkutana förändringar, övre extremiteten
+
+@ENGL_A = Excision and repair of lesion of skin of upper limb
+
+@NOTE_RF = Leukanivelen punktio kohdassa TEG00
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QCE20 
+
+@NCSP = QCSE20
+
+@SUOMI = Yläraajan ihon arven tai kurouman poisto ja korjaus
+
+@RUOTSI = Excision av ärr eller hudkontraktur, övre extremiteten
+
+@NOTE_F = Ei sisällä palovamma-arpea QDE25 eikä leikkausarpea QDE30
+
+@NOTE_S = Exkl ärr efter brännskador (QCE25) och postoperativa ärr (QCE30)
+
+@END = 
+
+@KOODI = QCE25 
+
+@NCSP = QCSE25
+
+@SUOMI = Yläraajan palovamma-arven poisto ja korjaus
+
+@RUOTSI = Excision/revision av ärr efter brännskada, övre extremiteten
+
+@END = 
+
+@KOODI = QCE30 
+
+@NCSP = QCSE30
+
+@SUOMI = Yläraajan leikkausarven poisto ja korjaus
+
+@RUOTSI = Excision/revision av operationsärr, övre extremiteten
+
+@END = 
+
+@KOODI = QCE35 
+
+@NCSP = QCSE35
+
+@SUOMI = Yläraajan leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+
+@RUOTSI = Rekonstruktion av huddefekt efter skada eller operation, övre extremiteten
+
+@NOTE_F = Krooninen haava, katso QCG
+
+@NOTE_S = Kroniskt sår, se QCG
+
+@END = 
+
+@KOODI = QCE40 
+
+@NCSP = QCSE40
+
+@SUOMI = Yläraajan ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+
+@RUOTSI = Rekonstruktion vid missbildning eller hudsjukdom, övre extremiteten
+
+@END = 
+
+@KOODI = QCE99 
+
+@NCSP = QCSE99
+
+@SUOMI = Muu yläraajan ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+
+@RUOTSI = Annan kutan / subkutan excision eller rekonstruktion, övre extremiteten
+
+@END = 
+
+@KOODI_A = QCG
+
+@NCSP_A = QCSG
+
+@SUOMI_A = Yläraajojen kroonisten haavojen ja avanteiden korjaukset
+
+@RUOTSI_A = Operationer för kroniska sår och fistlar, övre extremiteten
+
+@ENGL_A = Operations for chronic ulcers and fistulae of skin of upper limb
+
+@END = 
+
+@KOODI = QCG20 
+
+@NCSP = QCSG20
+
+@SUOMI = Yläraajan kroonisen haavan poisto ja korjaus
+
+@RUOTSI = Operation för kroniskt sår, övre extremiteten
+
+@END = 
+
+@KOODI = QCG30 
+
+@NCSP = QCSG30
+
+@SUOMI = Yläraajan leikkaushaavan myöhäissulku
+
+@RUOTSI = Sekundärsutur av oiperationssår, övre extremiteten
+
+@END = 
+
+@KOODI = QCG99 
+
+@NCSP = QCSG99
+
+@SUOMI = Muu yläraajan kroonisen haavan tai avanteen leikkaus
+
+@RUOTSI = Annan operation för kroniskt sår eller fistel, övre extremiteten
+
+@END = 
+
+@KOODI_A = QCH
+
+@NCSP_A = QCSH
+
+@SUOMI_A = Sormen kynsien toimenpiteet
+
+@RUOTSI_A = Operationer på fingernaglarna
+
+@ENGL_A = Operations on finger nails
+
+@END = 
+
+@KOODI = QCH00 
+
+@NCSP = QCSH00
+
+@SUOMI = Sormen kynnen poisto
+
+@RUOTSI = Avlägsnande av fingernagel
+
+@END = 
+
+@KOODI = QCH01 
+
+@NCSP = QCSH01
+
+@SUOMI = Sormen kynsialustan korjaus
+
+@RUOTSI = Revision av fingernagelbädd
+
+@NOTE_F = esim sisään kasvavassa kynnessä
+
+@NOTE_S = T.ex. vid unguis incarnatus
+
+@END = 
+
+@KOODI = QCH05 
+
+@NCSP = QCSH05
+
+@SUOMI = Sormen kynnen epämuotoisuuden korjaus
+
+@RUOTSI = Revision av fingernageldeformitet
+
+@END = 
+
+@KOODI = QCH10 
+
+@NCSP = QCSH30
+
+@SUOMI = Sormen kynnen siirto, mikrokirurginen
+
+@RUOTSI = Mikrokirurgisk transplantation av fingernagel
+
+@END = 
+
+@KOODI_A = QCJ
+
+@NCSP_A = QCSJ
+
+@SUOMI_A = Esteettisistä syistä tehtävät yläraajojen toimenpiteet
+
+@RUOTSI_A = Operationer av estetiska skäl, övre extremiteten
+
+@END = 
+
+@KOODI = QCJ00 
+
+@NCSP = QCSJ00
+
+@SUOMI = Yläraajan rasvaimu
+
+@RUOTSI = Fettsugning, övre extremiteten
+
+@END = 
+
+@KOODI = QCJ05 
+
+@NCSP = QCSJ05
+
+@SUOMI = Yläraajan löysän ihon poisto ulkonäön vuoksi
+
+@RUOTSI = Resektion av hudöverskott, övre extremiteten
+
+@END = 
+
+@KOODI = QCJ99 
+
+@NCSP = QCSJ99
+
+@SUOMI = Muu esteettisistä syistä tehtävä yläraajan ihon leikkaus
+
+@RUOTSI = Annan estetiskt betingad operation på övre extremitetens hud/underhudsvävnader
+
+@END = 
+
+@KOODI_R = QD
+
+@SUOMI_R = Alaraajojen iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutan vävnad på nedre extremiteten
+
+@ENGL_R = Skin and subcutaneous tissue of lower limb
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QD0
+
+@NCSP_A = QDO
+
+@SUOMI_A = Alaraajojen ihon sädehoito
+
+@RUOTSI_A = Strålbehandling av hud på necre extremiteten
+
+@ENGL_A = Radikotherapy of skin of lower limb
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = QD001 
+
+@NCSP = QDO001
+
+@SUOMI = Alaraajojen ihon paikallinen sädehoito
+
+@RUOTSI = Lokal strålbehandling av hud på nedre extemiteten
+
+@END = 
+
+@KOODI_A = QDA
+
+@NCSP_A = QDSA
+
+@SUOMI_A = Alaraajojen ihon koepalan otot, aukaisut ja paikalliset käsittelyt
+
+@RUOTSI_A = Punktion, incision, biopsi och destruktion vid hudförändring, nedre extremiteten
+
+@ENGL_A = Puncture, incision or local destruction of lesion of skin of lower limb
+
+@END = 
+
+@KOODI = QDA00 
+
+@NCSP = QDSA00
+
+@SUOMI = Alaraajan ihon pisto
+
+@RUOTSI = Punktion, nedre extremiteten
+
+@NOTE_F = esim, verenpurkauma, haavaneste jne
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QDA10 
+
+@NCSP = QDSA10
+
+@SUOMI = Alaraajan ihon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dränage, nedre extremiteten
+
+@END = 
+
+@KOODI = QDE50 
+
+@NCSP = QDSA20
+
+@SUOMI = Alaraajan pinnallisen ihomuutoksen hiominen
+
+@RUOTSI = Dermabrasion av ytlig hudfändring, nedre etremiteten
+
+@END = 
+
+@KOODI = QDA30 
+
+@NCSP = QDSA30
+
+@SUOMI = Alaraajan ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hudförändring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA40 
+
+@NCSP = QDSA40
+
+@SUOMI = Alaraajan ihomuutoksen laserkäsittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudförändring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA50 
+
+@NCSP = QDSA50
+
+@SUOMI = Alaraajan ihomuutoksen jäädytyshoito
+
+@RUOTSI = Kryoterapi av hudförändring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA99 
+
+@NCSP = QDSA99
+
+@SUOMI = Muu alaraajan ihon aukaisu tai koepalan otto
+
+@RUOTSI = Annan punktion, incision, biopsi eller destruktion vid hudförändring, nedre extremiteten
+
+@END = 
+
+@KOODI_A = QDB
+
+@NCSP_A = QDSB
+
+@SUOMI_A = Alaraajojen haavojen ompelut ja siteenvaihdot
+
+@RUOTSI_A = Sårbehandling, nedre extremiteten
+
+@ENGL_A = Procedures for wounds of skin of lower limb
+
+@END = 
+
+@KOODI = QDB00 
+
+@NCSP = QDSB00
+
+@SUOMI = Alaraajan ihohaavan ompelu
+
+@RUOTSI = Hudsutur, nedre extremiteten
+
+@END = 
+
+@KOODI = QDB05 
+
+@NCSP = QDSB05
+
+@SUOMI = Alaraajan syvän haavan revisio ja mahdollinen sulku
+
+@RUOTSI = Revision och sutur av djupt sår på övre etremiteten
+
+@END = 
+
+@KOODI = QDB10 
+
+@NCSP = QDSB10
+
+@SUOMI = Alaraajan ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/förbandsbyte vid sår på nedre extremiteten
+
+@NOTE_F = Palovamma kohdassa QDD
+
+@NOTE_S = Brännskador, se QDD
+
+@END = 
+
+@KOODI = QDB99 
+
+@NCSP = QDSB99
+
+@SUOMI = Muu alaraajan ihon haavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan sårbehandling, nedre extremiteten
+
+@END = 
+
+@KOODI_A = QDC
+
+@NCSP_A = QDSC
+
+@SUOMI_A = Alaraajojen ihon vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av kutana/subkutana främmande kroppar, nedre extremiteten
+
+@ENGL_A = Removal of foreign body from skin of lower limb
+
+@NOTE_RF = Sisältää muualla luokittelemattomat tapaukset
+
+@NOTE_RF =
+Ei sisällä ihoa lävistämättömiin vierasesineisiin liittyviä toimenpiteitä
+
+@NOTE_RS = Inkl fall, som ej klassifierats annorstädes
+
+@NOTE_RS =
+Exkl åtrgärd, där främmande kropp ej penetrerar huden
+
+@END = 
+
+@KOODI = QDC00 
+
+@NCSP = QDSC00
+
+@SUOMI = Alaraajan ihon vierasesineen poisto
+
+@RUOTSI = Avlägsnande av kutan/subkutan främmande kropp, nedre extremiteten
+
+@END = 
+
+@KOODI_A = QDD
+
+@NCSP_A = QDSD
+
+@SUOMI_A = Alaraajojen palovammaleikkaukset ja siteenvaihdot
+
+@RUOTSI_A = Behandling av brännskador, nedre extremiteten
+
+@ENGL_A = Procedures for burns of lower limb
+
+@END = 
+
+@KOODI = QDD00 
+
+@NCSP = QDSD00
+
+@SUOMI = Alaraajan palovamman siteiden vaihto
+
+@RUOTSI = Omläggning vid brännskada, nedre extremiteten
+
+@END = 
+
+@KOODI = QDD10 
+
+@NCSP = QDSD10
+
+@SUOMI = Alaraajan palovamman puhdistusleikkaus, débridement
+
+@RUOTSI = Revision av brännskada, nedre extremiteten, débridement
+
+@END = 
+
+@KOODI = QDD20 
+
+@NCSP = QDSD20
+
+@SUOMI = Alaraajan palovamman poistoleikkaus ja peittäminen
+
+@RUOTSI = Excision och täckning av brännskada, nedre extremiteten
+
+@NOTE_F = Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+
+@END = 
+
+@KOODI_A = QDE
+
+@NCSP_A = QDSE
+
+@SUOMI_A = Alaraajojen ihon ja ihonalaiskudoksen paikallisten muutosten poistot ja korjaavat leikkaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid kutana/subkutana förändringar, nedre extremiteten
+
+@ENGL_A = Excision and repair of lesion of skin of lower limb
+
+@NOTE_RF = Sis. ihon ja ihonalaiskudoksen arvet, kasvaimet, poimut, puutokset ja kehityshäiriöt
+
+@NOTE_RF =
+Siirteet ja kielekkeet kohdassa ZZA
+
+@NOTE_RF =
+Lasertekniikan käyttö ilmaistaan lisäkoodilla ryhmästä ZXC
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QDE20 
+
+@NCSP = QDSE20
+
+@SUOMI = Alaraajan ihon arven tai kurouman poisto ja korjaus
+
+@RUOTSI = Excision av ärr eller hudkontraktur, nedre extremiteten
+
+@NOTE_F = Ei sisällä palovamma-arpea QDE25 eikä leikkausarpea QDE30
+
+@NOTE_S = Exkl ärr efter brännskador (QDE25) och postoperativa ärr (QDE30)
+
+@END = 
+
+@KOODI = QDE25 
+
+@NCSP = QDSE25
+
+@SUOMI = Alaraajan palovamma-arven poisto ja korjaus
+
+@RUOTSI = Excision/revision av ärr efter brännskada, nedre extremiteten
+
+@END = 
+
+@KOODI = QDE30 
+
+@NCSP = QDSE30
+
+@SUOMI = Alaraajan leikkausarven poisto ja korjaus
+
+@RUOTSI = Excision/revision av operationsärr, nedre extremiteten
+
+@END = 
+
+@KOODI = QDE35 
+
+@NCSP = QDSE35
+
+@SUOMI = Alaraajan leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+
+@RUOTSI = Rekonstruktion av huddefekt efter skada eller operation, nedre extremiteten
+
+@NOTE_F = Krooninen haava, katso QDG
+
+@NOTE_S = Kroniskt sår, se QDE35
+
+@END = 
+
+@KOODI = QDE40 
+
+@NCSP = QDSE40
+
+@SUOMI = Alaraajan ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+
+@RUOTSI = Rekonstruktion vid missbildning eller hudsjukdom, nedre extremiteten
+
+@END = 
+
+@KOODI = QDE99 
+
+@NCSP = QDSE99
+
+@SUOMI = Muu alaraajan ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+
+@RUOTSI = Annan kutan / subkutan excision eller rekonstruktion, nedre extremiteten
+
+@END = 
+
+@KOODI_A = QDG
+
+@NCSP_A = QDSG
+
+@SUOMI_A = Alaraajojen kroonisten haavojen ja avanteiden leikkaukset
+
+@RUOTSI_A = Operationer för kroniska sår och fistlar, nedre extremiteten
+
+@ENGL_A = Operations for chronic ulcers and fistulae of skin of lower limb
+
+@END = 
+
+@KOODI = QDG00 
+
+@NCSP = QDSG00
+
+@SUOMI = Alaraajan painehaavan puhdistusleikkaus, débridement
+
+@RUOTSI = Revision av liggsår, nedre extremiteten, débridement
+
+@END = 
+
+@KOODI = QDG10 
+
+@NCSP = QDSG10
+
+@SUOMI = Alaraajan painehaavan poisto ja korjaus
+
+@RUOTSI = Excision med rekonstruktion vid liggsår, nedre extremiteten
+
+@END = 
+
+@KOODI = QDG20 
+
+@NCSP = QDSG20
+
+@SUOMI = Alaraajan kroonisen haavan leikkaus
+
+@RUOTSI = Operation för kroniskt sår, nedre extremiteten
+
+@NOTE_F = esim. säärihaavan, poisto ja korjaus
+
+@NOTE_S = Inkl bensår
+
+@END = 
+
+@KOODI = QDG30 
+
+@NCSP = QDSG30
+
+@SUOMI = Alaraajan ihon leikkaushaavan suunniteltu myöhäissulku
+
+@RUOTSI = Planerad sekundärsutur av operationssår i hud av nedre extremiteten
+
+@END = 
+
+@KOODI = QDG99 
+
+@NCSP = QDSG99
+
+@SUOMI = Muu alaraajan kroonisen haavan tai avanteen leikkaus
+
+@RUOTSI = Annan operation för kroniskt sår eller fistel, nedre extremiteten
+
+@END = 
+
+@KOODI_A = QDH
+
+@NCSP_A = QDSH
+
+@SUOMI_A = Varpaan kynsien toimenpiteet
+
+@RUOTSI_A = Operationer på tånaglarna
+
+@ENGL_A = Operations on toe nails
+
+@END = 
+
+@KOODI = QDH00 
+
+@NCSP = QDSH00
+
+@SUOMI = Varpaan kynnen poisto
+
+@RUOTSI = Extraktion av tånagel
+
+@END = 
+
+@KOODI = QDH01 
+
+@NCSP = QDSH01
+
+@SUOMI = Varpaan kynsialustan korjaus
+
+@RUOTSI = Revision av tånagelbädd
+
+@NOTE_F = esim sisään kasvavassa kynnessä
+
+@NOTE_S = T.ex. vid unguis incarnatus
+
+@END = 
+
+@KOODI = QDH05 
+
+@NCSP = QDSH05
+
+@SUOMI = Varpaan kynnen korjaus
+
+@RUOTSI = Revision av tånagel
+
+@END = 
+
+@KOODI = QDH10 
+
+@NCSP = QDSH30
+
+@SUOMI = Varpaan kynnen siirto, mikrokirurginen
+
+@RUOTSI = Mikrokirurgisk transplantation av tånagel
+
+@END = 
+
+@KOODI_A = QDJ
+
+@NCSP_A = QDSJ
+
+@SUOMI_A = Esteettisistä syistä tehtävät alaraajojen toimenpiteet
+
+@RUOTSI_A = Estetiskt betingade operationer, nedre extremiteten
+
+@ENGL_A = Aesthetic operations on skin of lower extremity
+
+@END = 
+
+@KOODI = QDJ00 
+
+@NCSP = QDSJ00
+
+@SUOMI = Alaraajan rasvaimu
+
+@RUOTSI = Fettsugning, nedre extremiteten
+
+@END = 
+
+@KOODI = QDJ05 
+
+@NCSP = QDSJ05
+
+@SUOMI = Alaraajan löysän ihon poisto ulkonäön vuoksi
+
+@RUOTSI = Resektion av hudöverskott, nedre extremiteten
+
+@END = 
+
+@KOODI = QDJ99 
+
+@NCSP = QDSJ99
+
+@SUOMI = Muu esteettisistä syistä tehtävä alaraajan ihon leikkaus
+
+@RUOTSI = Annan operation av estetiska orsaker, nedre extremiteten
+
+@END = 
+
+@KOODI_R = QW
+
+@SUOMI_R = Ihon ja ihonalaiskudoksen leikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Operationer för komplikationer av hudkirurgi
+
+@ENGL_R = Reoperations on skin
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI = QWA00 
+
+@NCSP = QWSA00
+
+@SUOMI = Auenneen tai tulehtuneen iho- ja ihonalaiskudosleikkauksen leikkaushaavan tarkistaminen
+
+@RUOTSI = Revision för sårruptur/sårinfektion efter operation på hud/subkutan vävnad
+
+@END = 
+
+@KOODI = QWC00 
+
+@NCSP = QWSC00
+
+@SUOMI = Iho- ja ihonalaiskudosleikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dränage av infekterad sårhåla efter operation på hud/subkutan vävnad
+
+@END = 
+
+@KOODI = QWD00 
+
+@NCSP = QWSD00
+
+@SUOMI = Uusintaleikkaus iho- ja ihonalaiskudoksen leikkaushaavan vuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter operation på hud/subkutan vävnad
+
+@END = 
+
+@KOODI = QWF00 
+
+@NCSP = QWSF00
+
+@SUOMI = Mikrovaskulaarisiirteen verisuoniliitoksen tarkistaminen
+
+@RUOTSI = Revision av mikrovaskulär anastomos i samband med transplantation av hud/subkutan vävnad
+
+@END = 
+
+@KOODI = QWH99 
+
+@NCSP = QWSH99
+
+@SUOMI = Muu iho- ja ihonalaiskudosleikkauksen komplikaatioleikkaus
+
+@RUOTSI = Annan reoperation för komplikation efter operation på hud/subkutan vävnad
+
+@END = 
+
+@KOODI = QWW99 
+
+@NCSP = QWSW99
+
+@SUOMI = Muu iho-tai ihonalaiskudosleikkauksen uusintaleikkaus
+
+@RUOTSI = Annan reoperation för hud och subkutan åtgärd
+
+@END = 
+
+@KOODI_R = QX
+
+@SUOMI_R = Määrittelemättömän alueen iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutan vävnad utan specifikation av kroppsdel
+
+@ENGL_R = Skin and subcutaneus tissue of unspecified region
+
+@END = 
+
+@KOODI_A = QX_
+
+@NCSP_A = QXD
+
+@SUOMI_A = Ihon ja ihonalaiskudoksen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av hud och subkutan vävnad
+
+@ENGL_A = Diagnostic radiology of skin and subcutaneous tissue
+
+@END = 
+
+@KOODI = QX2XA 
+
+@NCSP = QXDA2X
+
+@SUOMI = Pehmytosan muu röntgentutkimus
+
+@RUOTSI = Övrig mjukdelsröntgen
+
+@END = 
+
+@KOODI = QX2CB 
+
+@NCSP = QXDB2C
+
+@SUOMI = Fistelin varjoainetutkimus (fistulografia)
+
+@RUOTSI = Fistulografi
+
+@END = 
+
+@KOODI = QX1AE 
+
+@NCSP = QXDE1A
+
+@SUOMI = Ihon UÄ
+
+@RUOTSI = Hud, UL
+
+@END = 
+
+@KOODI = QX2XE 
+
+@NCSP = QXDE2X
+
+@SUOMI = Pehmytosan muu UÄ
+
+@RUOTSI = Annan UL av mjukdelar
+
+@END = 
+
+@KOODI = QX3HE 
+
+@NCSP = QXDE3H
+
+@SUOMI = Pinnallisen resistenssin UÄ
+
+@RUOTSI = Ytlig resistens, UL
+
+@END = 
+
+@KOODI_A = QX_
+
+@NCSP_A = QXF
+
+@SUOMI_A = Ihon muut tutkimukset
+
+@RUOTSI_A = Andra undersökningar av hud
+
+@ENGL_A = Other diagnostic procedures of skin
+
+@END = 
+
+@KOODI = XQ800 
+
+@NCSP = QXF800
+
+@SUOMI = Prick-testi
+
+@RUOTSI = Prick-test
+
+@END = 
+
+@KOODI = XQ802 
+
+@NCSP = QXF802
+
+@SUOMI = Epikutaanitesti
+
+@RUOTSI = Epikutantest
+
+@END = 
+
+@KOODI = XQ810 
+
+@NCSP = QXF810
+
+@SUOMI = Fysikaaliset urtikariatestit
+
+@RUOTSI = Fysikaliska tester för urtikaria
+
+@END = 
+
+@KOODI_A = QX0
+
+@NCSP_A = QXO
+
+@SUOMI_A = Ihon sädehoito
+
+@RUOTSI_A = Strålbehandling av huden
+
+@ENGL_A = Radiotherapy of skin
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = QX099 
+
+@NCSP = QXO099
+
+@SUOMI = Koko ihon sädehoito
+
+@RUOTSI = Strålbehandling av hela huden
+
+@END = 
+
+@KOODI_A = QXA
+
+@NCSP_A = QXSA
+
+@SUOMI_A = Ihon koepalan otot, aukaisut ja paikalliset käsittelyt, paikkaa ei määritelty
+
+@RUOTSI_A = Punktion, incision, biopsi och destruktion vid hudförändring i ospecificerad region
+
+@ENGL_A = Incision of skin
+
+@END = 
+
+@KOODI = QXA00 
+
+@NCSP = QXSA00
+
+@SUOMI = Ihon pisto, paikkaa ei määritelty
+
+@RUOTSI = Punktion av hud, ospecificerad lokalisation
+
+@END = 
+
+@KOODI = QXA05 
+
+@NCSP = QXSA05
+
+@SUOMI = Ihon aukaisu, paikkaa ei määritelty
+
+@RUOTSI = Hudinkision, ospecificerad region
+
+@END = 
+
+@KOODI = QXA20 
+
+@NCSP = QXSA20
+
+@SUOMI = Ihon hionta, paikkaa ei määritelty
+
+@RUOTSI = Dermabrasion, ospecificerad region
+
+@END = 
+
+@KOODI = QXA30 
+
+@NCSP = QXSA30
+
+@SUOMI = Ihon elektrokoagulaatio, paikkaa ei määritelty
+
+@RUOTSI = Hud elektrokoagulation, ospecificerad region
+
+@END = 
+
+@KOODI = QXA40 
+
+@NCSP = QXSA40
+
+@SUOMI = Ihon laserkäsittely tai fotokoagulaatio, paikkaa ei määritelty
+
+@RUOTSI = Hud laser behandling eller fotokoagulaiton, ospecifeserad region
+
+@END = 
+
+@KOODI = QXA50 
+
+@NCSP = QXSA50
+
+@SUOMI = Ihon jäädytyskäsittely, paikkaa ei määritelty
+
+@RUOTSI = Kryobehandling av hud, ospecifeserad region
+
+@END = 
+
+@KOODI = QXA99 
+
+@NCSP = QXSA99
+
+@SUOMI = Muu ihon aukaisu, koepalan otto tai paikallinen tuhoaminen, paikkaa ei määritelty
+
+@RUOTSI = Annan inkision, biopsi eller lokal destruktion, ospecifeserad region
+
+@END = 
+
+@KOODI_A = QXB
+
+@NCSP_A = QXSB
+
+@SUOMI_A = Ihohaavojen ompelut ja siteenvaihdot, paikkaa ei määritelty
+
+@RUOTSI_A = Sårbehandling i ospecificerad region
+
+@ENGL_A = Procedures for wounds of skin
+
+@END = 
+
+@KOODI = QXB00 
+
+@NCSP = QXSB00
+
+@SUOMI = Ihohaavan ompelu, paikkaa ei määritelty
+
+@RUOTSI = Sutur av ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXB05 
+
+@NCSP = QXSB05
+
+@SUOMI = Ihohaavan tarkistaminen, paikkaa ei määritelty
+
+@RUOTSI = Sårrevision, ospecificerad region
+
+@END = 
+
+@KOODI = QXB10 
+
+@NCSP = QXSB10
+
+@SUOMI = Suuren ihohaavansidevaihto, paikkaa ei määritelty
+
+@RUOTSI = Omläggning eller förbandsbyte, ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXB99 
+
+@NCSP = QXSB99
+
+@SUOMI = Muu ihohaavan hoitotoimenpide, paikkaa ei määritelty
+
+@RUOTSI = Annan åtgärd för sårbehandling i huden, ospecificerad hudregion
+
+@END = 
+
+@KOODI_A = QXC
+
+@NCSP_A = QXSC
+
+@SUOMI_A = Ihon vierasesineiden poistot, paikkaa ei määritetly
+
+@RUOTSI_A = Avlägsnande av kutan främmande kropp i ospecificerad region
+
+@ENGL_A = Removal of foreign body
+
+@END = 
+
+@KOODI = QX2ZT 
+
+@NCSP = QXSC00
+
+@SUOMI = Pinnallisen vierasesineen poisto, radiologinen ohjaus
+
+@RUOTSI = Avläggsnade av ytligt belägen främmande kropp med radiologisk styrning
+
+@END = 
+
+@KOODI = QXC00 
+
+@NCSP = QXSC00
+
+@SUOMI = Pinnallisen vierasesineen poisto, paikkaa ei määritelty
+
+@RUOTSI = Avlägsnande av subkutan främmande kropp, ospecificerad region
+
+@END = 
+
+@KOODI_A = QXD
+
+@NCSP_A = QXSD
+
+@SUOMI_A = Palovammaleikkaukset ja siteenvaihdot, paikkaa ei määritelty
+
+@RUOTSI_A = Behandling av brännskador i ospecificerad region
+
+@ENGL_A = Procedures for burns
+
+@END = 
+
+@KOODI = QXD00 
+
+@NCSP = QXSD00
+
+@SUOMI = Palovamman siteiden vaihto, paikkaa ei määritelty
+
+@RUOTSI = Omläggning vid brännskada, ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXD10 
+
+@NCSP = QXSD10
+
+@SUOMI = Palovamman puhdistusleikkaus, débridement, paikkaa ei määritelty
+
+@RUOTSI = Revision av brännskada i ospecificerad hudregion, débridement
+
+@END = 
+
+@KOODI = QXD20 
+
+@NCSP = QXSD20
+
+@SUOMI = Palovamman poistoleikkaus ja peittäminen, paikkaa ei määritelty
+
+@RUOTSI = Excision och täckning med transplantat av brännskada i huvud-halsregionen
+
+@END = 
+
+@KOODI = QXG00 
+
+@NCSP = QXSD20
+
+@SUOMI = Painehaavan puhdistusleikkaus, débridement, paikkaa ei määritelty
+
+@RUOTSI = Revision av liggsår på ospecificerad hudregion, débridement
+
+@END = 
+
+@KOODI_A = QXE
+
+@NCSP_A = QXSE
+
+@SUOMI_A = Ihon paikallisten muutosten poistot ja korjaavat leikkaukset, paikkaa ei määritelty
+
+@RUOTSI_A = Excision och rekonstruktion vid hudförändringar i ospecificerad region
+
+@ENGL_A = Excision and repair of lesion of skin
+
+@END = 
+
+@KOODI = QXE05 
+
+@NCSP = QXSE05
+
+@SUOMI = Hikirauhasten tai ihon ja hikirauhasten poisto, paikkaa ei määritelty
+
+@RUOTSI = Excision av svettkörtlar eller hud med svettkörtlar, ospecificerad hudregion
+
+@NOTE_F = Poisto kainalosta kohdassa QBE05
+
+@NOTE_S = Excision från armhålan, se QBE05
+
+@END = 
+
+@KOODI = QXE20 
+
+@NCSP = QXSE20
+
+@SUOMI = Ihon arven tai kurouman poisto ja korjaus, paikkaa ei määritelty
+
+@RUOTSI = Excision av ärr på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXE25 
+
+@NCSP = QXSE25
+
+@SUOMI = Palovamma-arven poisto ja korjaus, paikkaa ei määritelty
+
+@RUOTSI = Excision/revision av ärr efter brännskada på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXE30 
+
+@NCSP = QXSE30
+
+@SUOMI = Leikkausarven poisto ja korjaus, paikkaa ei määritelty
+
+@RUOTSI = Excision/revision av operationsärr på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXE35 
+
+@NCSP = QXSE35
+
+@SUOMI = Leikkauksen tai vamman jälkeisen ihopuutoksen korjaus, paikkaa ei määritelty
+
+@RUOTSI = Rekonstruktion av huddefekt efter skada eller operation på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXE40 
+
+@NCSP = QXSE40
+
+@SUOMI = Ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus, paikkaa ei määritelty
+
+@RUOTSI = Rekonstruktion vid missbildning eller hudsjukdom på ospecificerad region
+
+@END = 
+
+@KOODI = QXE99 
+
+@NCSP = QXSE99
+
+@SUOMI = Muu ihon tai ihonalaiskudoksen poisto tai korjaus, paikkaa ei määritelty
+
+@RUOTSI = Annan kutan / subkutan excision eller rekonstruktion, oscpecificerad hudregion
+
+@END = 
+
+@KOODI_A = QXG
+
+@NCSP_A = QXSG
+
+@SUOMI_A = Ihon kroonisten haavojen ja avanteiden korjaukset, paikkaa ei määritelty
+
+@RUOTSI_A = Operationer för kroniska sår och fistlar i ospecificerad region
+
+@ENGL_A = Operations for chronic ulcers and fistulae of skin
+
+@END = 
+
+@KOODI = QXG10 
+
+@NCSP = QXSG10
+
+@SUOMI = Painehaavan poisto ja korjaus, paikkaa ei määritelty
+
+@RUOTSI = Excision med rekonstruktion vid liggsår på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXG20 
+
+@NCSP = QXSG20
+
+@SUOMI = Kroonisen haavan poisto ja korjaus, paikkaa ei määritelty
+
+@RUOTSI = Excision/revision av kroniskt sår på opesificerad hudregion
+
+@END = 
+
+@KOODI = QXG30 
+
+@NCSP = QXSG30
+
+@SUOMI = Ihon leikkaushaavan suunniteltu myöhäissulku, paikkaa ei määritelty
+
+@RUOTSI = Planerad sekundärsutur av operationssår i hud på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXG99 
+
+@NCSP = QXSG99
+
+@SUOMI = Muu kroonisen haavan leikkaus, paikkaa ei määritelty
+
+@RUOTSI = Annan operation för kroniskt sår på ospecificerad hudregion
+
+@END = 
+
+@KOODI_A = QXJ
+
+@NCSP_A = QXSJ
+
+@SUOMI_A = Ulkonäköä muuttavat, esteettisistä syistä tehtävät ihon toimenpiteet, paikkaa ei määritelty
+
+@RUOTSI_A = Operationer av estetiska skäl i ospecificerad region
+
+@ENGL_A = Aesthetic operations on skin
+
+@END = 
+
+@KOODI = QXJ00 
+
+@NCSP = QXSJ00
+
+@SUOMI = Rasvaimu, paikkaa ei määritelty
+
+@RUOTSI = Fettsugning på ospecificerad hudregion
+
+@END = 
+
+@KOODI = QXJ05 
+
+@NCSP = QXSJ05
+
+@SUOMI = Löysän ihon poisto ulkonäön vuoksi, paikkaa ei määritelty
+
+@RUOTSI = Estetiskt betingad hudreduktion på ospecificerad hudregion
+
+@END = 
+
+@KOODI_A = QX_
+
+@NCSP_A = QXX
+
+@SUOMI_A = Muut ihon toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på skin
+
+@ENGL_A = Other procedures of skin
+
+@END = 
+
+@KOODI = QX3AT 
+
+@NCSP = QXXX00
+
+@SUOMI = Ihonalaisen kudoksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Subkutan vävnadsbiopsi, UL-styrd
+
+@END = 
+
+@KOODI = TQX00 
+
+@NCSP = QXXX00
+
+@SUOMI = Neulakudosnäytteen otto ihosta
+
+@RUOTSI = Punktionsbiopsi av hud
+
+@END = 
+
+@KOODI = QX4AT 
+
+@NCSP = QXXX02
+
+@SUOMI = Ihonalaisen kudoksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Subkutan finnålsbiopsi, UL-styrd
+
+@END = 
+
+@KOODI = TQX10 
+
+@NCSP = QXXX02
+
+@SUOMI = Ihon ja ihonalaiskudoksen koepalan otto
+
+@RUOTSI = Biopsi av hud och subkutant vävnad
+
+@END = 
+
+@KOODI = TQW00 
+
+@NCSP = QXXX10
+
+@SUOMI = Ontelosyylänpoisto
+
+@RUOTSI = Avlägsnande av mollusc
+
+@END = 
+
+@KOODI = TQW02 
+
+@NCSP = QXXX12
+
+@SUOMI = Muun syylänpoisto
+
+@RUOTSI = Avlägsnande av vårta
+
+@END = 
+
+@KOODI = TQX20 
+
+@NCSP = QXXX20
+
+@SUOMI = Ihonalaisen lääkeainekapselin asettaminen
+
+@RUOTSI = Inläggning av subkutant läkemedelsimplantat
+
+@END = 
+
+@KOODI = TQX22 
+
+@NCSP = QXXX22
+
+@SUOMI = Ihonalaisen lääkeainekapselin poisto
+
+@RUOTSI = Uttagning av subkutant läkemedelsimplantat
+
+@END = 
+
+@KOODI = TQW30 
+
+@NCSP = QXXX30
+
+@SUOMI = Akupunktio
+
+@RUOTSI = Akupunktion
+
+@END = 
+
+@KOODI = TQW40 
+
+@NCSP = QXXX40
+
+@SUOMI = Ompeleen tai ompeleiden poisto ihosta
+
+@RUOTSI = Avlägsnande av stygn i hud
+
+@END = 
+
+@KOODI = TQW10 
+
+@NCSP = QXXX50
+
+@SUOMI = Palovammasiteen vaihto
+
+@RUOTSI = Byte av brandbandage
+
+@END = 
+
+@KOODI = TQW20 
+
+@NCSP = QXXX60
+
+@SUOMI = Tatuointi
+
+@RUOTSI = Tatuering
+
+@END = 
+
+@KOODI = TQW99 
+
+@NCSP = QXXX99
+
+@SUOMI = Muu ihon pientoimenpide
+
+@RUOTSI = Annan mindre operation på hud eller subkutan vävnad
+
+@END = 

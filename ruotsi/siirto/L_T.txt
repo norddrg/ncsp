@@ -1,0 +1,2924 @@
+
+###
+#KOODI_L    T
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre ingrepp
+#RUOTSI     ---
+#ENGL       Minor surgical procedures
+###
+#KOODI_R    TA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre neurologiska åtgärder
+#RUOTSI     ---
+#ENGL       Minor neurosurgical procedures
+###
+#KOODI      TAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lumbalpunktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blockad av perifer nerv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TAD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sympatikusblockad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser lumbal sympatikusblockad
+#OHJE_R 
+---
+###
+#KOODI      TAW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre neurokirurgiskt ingrepp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på endokrina organ
+#RUOTSI     ---
+#ENGL       Minor procedures in endocrine surgery
+###
+#KOODI      TBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TBW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på endokrina organ
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder i ögonregionen
+#RUOTSI     ---
+#ENGL       Minor procedures in eye surgery
+###
+#KOODI      TCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av orbita
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av orbita
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCA15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrobulbär injektion av läkemedel i orbita
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peribulbär injektion av läkemedel i orbita
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av ögonlock
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epilering av cilier vid trikiasis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCB20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i ögonlock
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TCB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av ptossutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCB35 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Justering av ptossutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av tårkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sondering av tårpunkt eller tårkanalikel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intubation av tårkanal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i ögonmuskel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TCF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkonjunktival injektion av läkemedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TCG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling av sår i hornhinna eller senhinna med bandagelins
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av sutur från hornhinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av sutur från hornhinna eller senhinna med laser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av vätska från främre kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av regnbågshinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av strålkropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM   2008/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fotosensitering av åderhinna och näthinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av åderhinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av glaskropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av näthinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TCW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp i ögonregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på öron, näsa, svalg och struphuvud
+#RUOTSI     ---
+#ENGL       Minor procedures in surgery of ear, nose and larynx
+###
+#KOODI      TDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ytteröra eller yttre hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av ytteröra eller yttre hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från hörselgång
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avlägsnande av främmande kropp penetrerad under hudnivån av hörselgång, se DBW99
+#OHJE_R 
+---
+###
+#KOODI      TDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av trumhinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av näsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDH10 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från näshåla
+#RUOTSI     ---
+#LYHENNE    Avlägs av främmande kropp fr näshåla
+#OHJE_S  
+Avlägsnande av främmande kropp:
+från näsa, se DHC10
+från hud eller subkutan vävnad i näsan, se QAC00
+#OHJE_R 
+---
+###
+#KOODI      TDJ00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av nässkiljevägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av käkhåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDM10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion och spolning av käkhåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av silbenshålor eller silbenet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDP00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av pannhålor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av kilbenshåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDQ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av struphuvud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TDW00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på öron, näsa, hals eller struphuvud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder i mun, käkar och svalg
+#RUOTSI     ---
+#ENGL       Minor procedures in surgery of mouth,  jaws and pharynx
+###
+#KOODI      TEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av läpp
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser även biopsi av läppspottkörtel
+#OHJE_R 
+---
+###
+#KOODI      TEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av läpp
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser även biopsi av läppspottkörtel
+#OHJE_R 
+---
+###
+#KOODI      TEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kronterapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tandfyllning med plastiskt material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tandfyllning med fast material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rotbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dränage av odontogen abscess genom tanden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEC00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av gingiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TED00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sluten reposition av käkledsluxation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TED10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av underkäke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av överkäke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av käkled
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEG10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i käkled
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av gom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av tunga och munbotten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av spottkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av tonsiller och adenoid
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av farynx och närliggande mjukdelar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TEW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på läpp, tand, käke, mun eller svalg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar t ex dilatation/sondering av spottkörtelgång
+#OHJE_R 
+---
+###
+#KOODI_R    TF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på hjärtat och de stora intratorakala kärlen
+#RUOTSI     ---
+#ENGL       Minor procedures in cardiac surgery
+###
+#KOODI      TFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kateterisering av högerhjärtat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TFC10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kateterisering av vänsterhjärtat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TFE00 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perikardiocentes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TFJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av hjärta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TFP00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Temporär användning av transvenös eller epikardiell pacemaker
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TFW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på hjärta eller stora intratorakala kärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre torakala åtgärder
+#RUOTSI     ---
+#ENGL       Minor procedures in thoracic surgery
+###
+#KOODI      TGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av bröstvägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakocentes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGA40 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artificiell pneumotorax
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGB10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan inläggning av aspirationskanyl i trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av mediastinum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TGW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på och i brösthåla
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga TGX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    TH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på bröstkörteln
+#RUOTSI     ---
+#ENGL       Minor procedures in surgery of mammary gland
+###
+#KOODI      THA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av mammill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      THA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      THW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på gastrointestinalkanalen och därtill hörande organ
+#RUOTSI     ---
+#ENGL       Minor procedures in gastroenterological surgery
+###
+#KOODI      TJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparocentes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant peritoneallavage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggande av peritoneal dialyskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA33 
+#MUUT_PVM   2001/09/11
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan inläggning av peritoneal dialyskateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Laparotomi och inläggande av peritoneal dialyskateter, se JAK10
+#OHJE_R 
+---
+###
+#KOODI      TJA35 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av peritoneal dialyskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA40 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant lokalt dränage av peritonealhåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av intraperitoneal injektionsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJA55 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av intraperitoneal injektionsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Komprimerande sond vid esofagusvaricer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Sengstaken
+#OHJE_R 
+---
+###
+#KOODI      TJD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nasogastrisk eller nasogastroduodenal sond
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sond i ventrikel eller duodenum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga TJ
+#OHJE_R 
+---
+###
+#KOODI      TJD20 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av gastrostomikateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar även avlägsnande av gastrostomikateter
+#OHJE_R 
+---
+###
+#KOODI      TJF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jejunumsond
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jejunumsond via gastrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroral tunntarmsbiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Desinvagination av tarm under röntgenkontroll
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell uthämtning av fekalier i narkos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJG10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av främmande kropp från rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJJ00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan punktionsbiopsi av lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan destruktion av förändring i lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroperativ kolangiografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJK01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolangiografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJL00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan punktionsbiopsi av pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant dränage av pankreasabscess eller -pseudocysta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av mjälte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TJW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på mag-tarmkanal och därtill hörande organ
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga TJX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    TK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på urinvägar och manliga genitalia
+#RUOTSI     ---
+#ENGL       Minor surgical procedures in urology
+###
+#KOODI      TKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive transplantatbiopsi
+#OHJE_R 
+---
+###
+#KOODI      TKA05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan nefropyelostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+DK009 Nefrostomi, perkutan är synonym i KMÅ. DK009 tas bort 1 januari 2010
+#OHJE_R 
+---
+###
+#KOODI      TKA20 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av lymfocele efter njurtransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan punktion av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kateterisering av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive dränage och kateterbyte. För borttagande, se DK021
+#OHJE_R 
+---
+###
+#KOODI      TKC25 
+#MUUT_PVM   1996/11/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intravesikal blåsinstillation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TKD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation, sondering av uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKE05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKF05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan punktion av epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKF60 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av pung
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKK00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av retroperitoneal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKK05 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspirationscytologi av retroperitoneal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKK10 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av retroperitoneala rummet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TKW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på urinvägar eller manliga könsorgan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga TKX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    TL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på kvinnliga genitalia
+#RUOTSI     ---
+#ENGL       Minor surgical procedures in gynaecology
+###
+#KOODI      TLA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av tuba
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning intrauterint preventivmedel (IUP)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLC10 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av intrauterint preventivmedel (IUP)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation av vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLE20 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvaginal punktion av fossa Douglasi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TLW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på kvinnliga könsorgan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga TLX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    TM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre obstetriska åtgärder
+#RUOTSI     ---
+#ENGL       Minor surgical procedures in obstetrics
+###
+#KOODI      TMA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perineotomi under förlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TMA20 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell förlossningshjälp vid normal spontanförlossning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TMW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre obstetriskt ingrepp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre ortopediska åtgärder
+#RUOTSI     ---
+#ENGL       Minor procedures in orthopedic surgery
+###
+#KOODI      TNA00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNA20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNA50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, kotpelare eller nacke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNB20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNB50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, axel eller överarm (inkl skapula och klavikel och deras ledförbindelser)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNC20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNC50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, armbåge eller underarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TND20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TND50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, handled eller hand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNE20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNE50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, bäckenet (inkl sakrum och koccyx)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNF20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNF50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, höftled eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNG20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNG50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, knäled eller underben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH05 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNH20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH25 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH39 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNH50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, fotled eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    TNX
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre ortopediska åtgärder
+#RUOTSI     ---
+#ENGL       Bandages, splints, casts and external traction
+###
+#KOODI      TNX00 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion eller nålbiopsi av mjukdelar, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX05 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel incision av mjukdelar, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artrocentes, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i led, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TNX19 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Artrocentes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX20 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av benmärg, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX22 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Prefabricerad ortos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX25 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borrbiopsi av benmärg, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX30 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjukt bandage, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prefabricerad ortos, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX32 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modellerbar skena, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX33 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulärt modellerbart bandage, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX34 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Större modellerbart bandage, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX35 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Större modellerbart bandage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX39 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ortopedisk bandagering, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX40 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Externt sträck, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TNX50 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av skelettmarkör, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på perifera kärl och lymfatiska systemet
+#RUOTSI     ---
+#ENGL       Minor surgical procedures on peripheral vessels and lymphatic system
+###
+#KOODI      TPH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Venesectio
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Blodtappning
+#OHJE_R 
+---
+###
+#KOODI      TPH05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Friläggning och kateterisering av perifer ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sklerosering av benvaricer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPH15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av CVK via vena jugularis (externa eller interna)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av CVK via v subclavia eller v brachiocephalica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ytlig lymfkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPJ05 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av lymfkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på perifera kärl och lymfsystem
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inläggning av grov kateter i perifert kärl t ex v femoralis
+#OHJE_R 
+---
+###
+#KOODI      TPX00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av artär eller ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPX10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av vaskulär injektionsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TPX15 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av vaskulär injektionsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    TQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mindre åtgärder på hud och subkutan vävnad
+#RUOTSI     ---
+#ENGL       Minor surgical procedures on skin
+###
+#KOODI      TQW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat mindre ingrepp på hud eller subkutan vävnad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TQX00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av hud
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar stansbiopsi
+#OHJE_R 
+---
+###
+#KOODI      TQX10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TQX20 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av subkutant läkemedelsimplantat
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Till exempel p-stav. Läkemedel kan anges genom tillägg av ATC-kod.
+#OHJE_R 
+---
+###
+#KOODI      TQX30 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av subkutant läkemedelsimplantat
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Till exempel p-stav. Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      TQX40 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av hudsuturer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      TQX50 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Justering av volym av vävnadsexpander
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl. påfyllning och urtappning
+#OHJE_R 
+---

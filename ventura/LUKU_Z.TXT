@@ -1,0 +1,2688 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = Lisäkoodit
+
+@RUOTSI_L = Tilläggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = Lisäkoodeja voi käyttää ainoastaan muun toimenpidekoodin lisänä ilmaisemassa  tarkentavaa lisätietoa
+
+@NOTE_LF =
+Koodin elinryhmä (F,L, P tai Q) ei estä käyttöä soveltuvin osin muiden elinten toimenpiteissä
+
+@NOTE_LS = Tilläggskoder används ändast tillsammans med egentliga koder
+
+@NOTE_LS =
+Kodens organgrupp (F,L, P tai Q) förhindrar ej använding i samband av åtgärder i andra organer
+
+@END_L = 
+
+@KOODI_R = ZF
+
+@SUOMI_R = Sydän- ja verisuonikirurgialle tyypillisiä tekniikoita
+
+@RUOTSI_R = Teknik typiska för kardiovaskulära åtgärder
+
+@ENGL_R = Techniques typical for cardiovascular surgery
+
+@END = 
+
+@KOODI = ZFX00 
+
+@NCSP = ZFXX00
+
+@SUOMI = Pallolaajennuskatetrin käyttö
+
+@RUOTSI = Balloonkateter
+
+@END = 
+
+@KOODI = ZFX01 
+
+@NCSP = ZFXX01
+
+@SUOMI = Rotablatorin käyttö
+
+@RUOTSI = Rotablator
+
+@END = 
+
+@KOODI = ZFX02 
+
+@NCSP = ZFXX02
+
+@SUOMI = Angiojetin käyttö
+
+@RUOTSI = Angiojet
+
+@END = 
+
+@KOODI = ZFX03 
+
+@NCSP = ZFXX03
+
+@SUOMI = Aterotomialaitteen käyttö
+
+@RUOTSI = Aterotomi apparat
+
+@END = 
+
+@KOODI_R = ZL
+
+@SUOMI_R = Gynekologinen leikkaustapa
+
+@RUOTSI_R = Gynekologiska åtgärdssätt
+
+@ENGL_R = Gynaecologic approach
+
+@END = 
+
+@KOODI = ZLX00 
+
+@NCSP = ZLXX00
+
+@SUOMI = Vaginan kautta suoritettu leikkaus
+
+@RUOTSI = Transvaginal öppen kirurgi
+
+@END = 
+
+@KOODI = ZLX01 
+
+@NCSP = ZLXX01
+
+@SUOMI = Vaginan kautta tehdyn avauksen yhdistäminen laparatomiaan
+
+@RUOTSI = Transvaginal öppning kombinerad med laparotomi
+
+@END = 
+
+@KOODI_R = ZP
+
+@SUOMI_R = Verisuonikorjauksen materiaali
+
+@RUOTSI_R = Material i kärlplastik
+
+@ENGL_R = Material of vascular plasty
+
+@END = 
+
+@KOODI = ZPB00 
+
+@NCSP = ZPXB00
+
+@SUOMI = Ei siirrettä
+
+@RUOTSI = Inget kärltransplantat/implantat
+
+@END = 
+
+@KOODI = ZPB10 
+
+@NCSP = ZPXB10
+
+@SUOMI = Omakudosvaltimo
+
+@RUOTSI = Egen artär (autotransplantat)
+
+@NOTE_F = Autologinen siirre
+
+@END = 
+
+@KOODI = ZPB16 
+
+@NCSP = ZPXB16
+
+@SUOMI = Vapaa valtimosiirre, allografti
+
+@RUOTSI = Fritt artärtransplantat, allograft
+
+@END = 
+
+@KOODI = ZPB18 
+
+@NCSP = ZPXB18
+
+@SUOMI = Vapaa valtimosiirre, xenografti
+
+@RUOTSI = Fritt artärtransplantat, xenograft
+
+@END = 
+
+@KOODI = ZPB20 
+
+@NCSP = ZPXB20
+
+@SUOMI = Laskimo paikallaan
+
+@RUOTSI = Ven in situ
+
+@NOTE_F = In situ -vena
+
+@END = 
+
+@KOODI = ZPB22 
+
+@NCSP = ZPXB22
+
+@SUOMI = Irrotettu laskimo
+
+@RUOTSI = Lösgjort ventransplantat (egen ven)
+
+@END = 
+
+@KOODI = ZPB24 
+
+@NCSP = ZPXB24
+
+@SUOMI = Laskimopaikka
+
+@RUOTSI = "Venpatch"
+
+@NOTE_F = "venous pathc"
+
+@END = 
+
+@KOODI = ZPB26 
+
+@NCSP = ZPXB26
+
+@SUOMI = Vapaa laskimosiirre, allografti
+
+@RUOTSI = Fritt ventransplantat, allograft
+
+@END = 
+
+@KOODI = ZPB28 
+
+@NCSP = ZPXB28
+
+@SUOMI = Vapaa laskimosiirre, xenografti
+
+@RUOTSI = Fritt ventransplantat, xenograft
+
+@END = 
+
+@KOODI = ZPB30 
+
+@NCSP = ZPXB30
+
+@SUOMI = Dacron
+
+@RUOTSI = Dacron
+
+@END = 
+
+@KOODI = ZPB32 
+
+@NCSP = ZPXB32
+
+@SUOMI = Dacron, päällystetty
+
+@RUOTSI = Dacron, beklädd
+
+@END = 
+
+@KOODI = ZPB40 
+
+@NCSP = ZPXB40
+
+@SUOMI = Polytetrafluoroetyleeni, PTFE
+
+@RUOTSI = Polytetrafluoroetylen, PTFE
+
+@END = 
+
+@KOODI = ZPB50 
+
+@NCSP = ZPXB50
+
+@SUOMI = Napalaskimosiirre
+
+@RUOTSI = Navelven-transplantat
+
+@END = 
+
+@KOODI = ZPB60 
+
+@NCSP = ZPXB60
+
+@SUOMI = Combi graft -siirre
+
+@RUOTSI = Combi graft
+
+@END = 
+
+@KOODI = ZPB96 
+
+@NCSP = ZPXB96
+
+@SUOMI = Verisuonisiirre muusta materiaalista
+
+@RUOTSI = Kärlprotes av annat material
+
+@END = 
+
+@KOODI_R = ZQ
+
+@SUOMI_R = Iho alueen laajuus
+
+@RUOTSI_R = Hudområdets omfang
+
+@ENGL_R = Skin area
+
+@END = 
+
+@KOODI = ZQX00 
+
+@NCSP = ZQXX00
+
+@SUOMI = 0-4% ihon pinta-alasta
+
+@RUOTSI = 0-4% av hudarealen
+
+@END = 
+
+@KOODI = ZQX02 
+
+@NCSP = ZQXX02
+
+@SUOMI = 5-9% ihon pinta-alasta
+
+@RUOTSI = 5-9% av hudarealen
+
+@END = 
+
+@KOODI = ZQX04 
+
+@NCSP = ZQXX04
+
+@SUOMI = 10-19% ihon pinta-alasta
+
+@RUOTSI = 10-19% av hudarealen
+
+@END = 
+
+@KOODI = ZQX06 
+
+@NCSP = ZQXX06
+
+@SUOMI = 20-49% ihon pinta-alasta
+
+@RUOTSI = 20-49% av hudarealen
+
+@END = 
+
+@KOODI = ZQX08 
+
+@NCSP = ZQXX08
+
+@SUOMI = Vähintään 50% ihon pinta-alasta
+
+@RUOTSI = Hälften (50%)  eller mera av hudarealen
+
+@END = 
+
+@KOODI = ZQZ00 
+
+@NCSP = ZQXZ00
+
+@SUOMI = Usean ihoalueen hoito
+
+@RUOTSI = Åtgärd på flera hudregioner
+
+@NOTE_F = Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista tällä koodilla.
+
+@NOTE_S = När man behandlar samtidigt flera hudregioner, bör man ange kod för det områd som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med denna tillägskod.
+
+@END = 
+
+@KOODI_R = ZS
+
+@SUOMI_R = Toimenpiteen suhde aiempaan toimenpiteeseen
+
+@RUOTSI_R = Ingreppets relation till tidigare operation
+
+@ENGL_R = Relation of procedure to previous surgery
+
+@NOTE_RF = Sisältää ns. 'redo' -leikkaukset ja ns. 'second look' -leikkaukset.
+
+@NOTE_RF =
+Koodin kolmas merkki ilmaisee alkuperäisen lekkauksen elinryhmän
+
+@NOTE_RF =
+Luvun P uusintaleikkaukset luvun alueella.
+
+@NOTE_RS = Inkl "redo"-operationer och "second look"-operationer
+
+@NOTE_RS = Tredje tecknet i reoperationskoden anger kapitlet för den tidigare operationens klassificering.
+
+@NOTE_RS = Obs att också reoperationer efter ingrepp tillhöriga kapitel P kodifieras i nämnda kapitel
+
+@END = 
+
+@KOODI = ZSA00 
+
+@NCSP = ZSXA00
+
+@SUOMI = Aiempaan luvun A toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel A
+
+@END = 
+
+@KOODI = ZSB00 
+
+@NCSP = ZSXB00
+
+@SUOMI = Aiempaan luvun B toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel B
+
+@END = 
+
+@KOODI = ZSC00 
+
+@NCSP = ZSXC00
+
+@SUOMI = Aiempaan luvun C toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel C
+
+@END = 
+
+@KOODI = ZSD00 
+
+@NCSP = ZSXD00
+
+@SUOMI = Aiempaan luvun D toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel D
+
+@END = 
+
+@KOODI = ZSE00 
+
+@NCSP = ZSXE00
+
+@SUOMI = Aiempaan luvun E toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel E
+
+@END = 
+
+@KOODI = ZSF00 
+
+@NCSP = ZSXF00
+
+@SUOMI = Aiempaan luvun F toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel F
+
+@END = 
+
+@KOODI = ZSG00 
+
+@NCSP = ZSXG00
+
+@SUOMI = Aiempaan luvun G toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel G
+
+@END = 
+
+@KOODI = ZSH00 
+
+@NCSP = ZSXH00
+
+@SUOMI = Aiempaan luvun H toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel H
+
+@END = 
+
+@KOODI = ZSJ00 
+
+@NCSP = ZSXJ00
+
+@SUOMI = Aiempaan luvun J toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel J
+
+@END = 
+
+@KOODI = ZSK00 
+
+@NCSP = ZSXK00
+
+@SUOMI = Aiempaan luvun K toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel K
+
+@END = 
+
+@KOODI = ZSL00 
+
+@NCSP = ZSXL00
+
+@SUOMI = Aiempaan luvun  L toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel L
+
+@END = 
+
+@KOODI = ZSM00 
+
+@NCSP = ZSXM00
+
+@SUOMI = Aiempaan luvun M toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel M
+
+@END = 
+
+@KOODI = ZSN00 
+
+@NCSP = ZSXN00
+
+@SUOMI = Aiempaan luvun N toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel N
+
+@END = 
+
+@KOODI = ZSQ00 
+
+@NCSP = ZSXQ00
+
+@SUOMI = Aiempaan luvun  Q toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel Q
+
+@END = 
+
+@KOODI = ZST00 
+
+@NCSP = ZSXT00
+
+@SUOMI = Aiempaan luvun T toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel T
+
+@END = 
+
+@KOODI = ZSU00 
+
+@NCSP = ZSXU00
+
+@SUOMI = Aiempaan luvun U toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel U
+
+@END = 
+
+@KOODI = ZSY00 
+
+@NCSP = ZSXY00
+
+@SUOMI = Aiempaan luvun Y toimenpiteeseen liittyvä toimenpide
+
+@RUOTSI = Ingrepp som står i samband med tidigare åtgärd inom kapitel Y
+
+@END = 
+
+@KOODI = ZSZ00 
+
+@NCSP = ZSXZ00
+
+@SUOMI = Primaarinen korjausleikkaus
+
+@RUOTSI = Primär revisionsoperation
+
+@END = 
+
+@KOODI = ZSZ10 
+
+@NCSP = ZSXZ10
+
+@SUOMI = Sekundaarinen korjausleikkaus
+
+@RUOTSI = Sekundär revisionsoperation
+
+@END = 
+
+@KOODI_R = ZZ
+
+@SUOMI_R = Vapaat kudossiirteet
+
+@RUOTSI_R = Fria transplantat, transplantat med kärlanastomoser, lambåer och bruk av vävnadsexpanders
+
+@ENGL_R = Grafts, flaps and tissue expanders
+
+@NOTE_RF = Verisuonisiirteet ilmoitetaan kohdassa ZPB
+
+@NOTE_RF =
+Mikäli ei mainita erityistä, tarkoitetaan vapaata omakudossiirrettä
+
+@NOTE_RS = Kärltransplantat/implantat, se ZPB
+
+@NOTE_RS =
+Om ej annat anges avses fritt autotransplantat
+
+@NOTE_RS =
+Terminologi:
+
+@NOTE_RS =
+Autotransplantat (egen vävnad)
+
+@NOTE_RS =
+Allotransplantat (homo) (vävnad från annan levande individ av samma art)
+
+@NOTE_RS =
+Nekrotransplantat (vävnad från annan död/hjärndöd individ av samma art)
+
+@NOTE_RS =
+Heterotransplantat. (xeno) (artfrämmande vävnad)
+
+@END = 
+
+@KOODI_A = ZZA
+
+@NCSP_A = ZTXA
+
+@SUOMI_A = Ihosiirteet
+
+@RUOTSI_A = Fria hudtransplantat
+
+@ENGL_A = Free graft of skin
+
+@NOTE_RF = Varsinainen toimenpide, katso luku Q
+
+@NOTE_RF =
+Ihosiirteen koko, katso ZQX
+
+@NOTE_RS = Det egentliga åtgärdet, se kapitel Q
+
+@NOTE_RS =
+Storlek av hudtransplantat, se ZQX
+
+@END = 
+
+@KOODI = ZZA00 
+
+@NCSP = ZTXA00
+
+@SUOMI = Iho,  split skin , omakudos, autografti
+
+@RUOTSI = Fritt autologt delhudstransplantat
+
+@END = 
+
+@KOODI = ZZA10 
+
+@NCSP = ZTXA10
+
+@SUOMI = Iho,  split skin , vierassiirre, allografti
+
+@RUOTSI = Fri delhud, allotransplantat
+
+@END = 
+
+@KOODI = ZZA20 
+
+@NCSP = ZTXA20
+
+@SUOMI = Iho,  split skin , vieraslajisiirre, heterografti
+
+@RUOTSI = Fri delhud, heterotransplantat
+
+@END = 
+
+@KOODI = ZZA30 
+
+@NCSP = ZTXA30
+
+@SUOMI = Iho, viljelty, omakudos
+
+@RUOTSI = Fri delhud, odlat autotransplantat
+
+@END = 
+
+@KOODI = ZZA35 
+
+@NCSP = ZTXA35
+
+@SUOMI = Iho, viljelty, vierassiirre
+
+@RUOTSI = Fri delhud, odlat allotransplantat
+
+@END = 
+
+@KOODI = ZZA40 
+
+@NCSP = ZTXA40
+
+@SUOMI = Synteettinen keinoiho
+
+@RUOTSI = Konstgjord dermis
+
+@NOTE_F = Sisältää epidermisviljelmän ja synteettisen dermiksen yhdistelmän
+
+@NOTE_S = Innefattar kombination av epidermisodling och syntetisk hud
+
+@END = 
+
+@KOODI = ZZA50 
+
+@NCSP = ZTXA50
+
+@SUOMI = Koko iho
+
+@RUOTSI = Fritt fullhudtransplantat
+
+@NOTE_F = Ns. 'full thickness ' -ihonsiirre
+
+@END = 
+
+@KOODI = ZZA60 
+
+@NCSP = ZTXA60
+
+@SUOMI = Hermotettu iho
+
+@RUOTSI = Hudtransplantat med bevarad innervation
+
+@END = 
+
+@KOODI_A = ZZB
+
+@NCSP_A = ZTXB
+
+@SUOMI_A = Jännesiirteet
+
+@RUOTSI_A = Fria sentransplantat
+
+@ENGL_A = Free graft of tendon
+
+@END = 
+
+@KOODI = ZZB00 
+
+@NCSP = ZTXB00
+
+@SUOMI = Patellajänne
+
+@RUOTSI = Transplantation av patellarsena
+
+@NOTE_F = Bone - tendon - bone
+
+@END = 
+
+@KOODI = ZZB10 
+
+@NCSP = ZTXB10
+
+@SUOMI = Semitendinosusjänne
+
+@RUOTSI = Transplantation av semitendinosus-sena
+
+@END = 
+
+@KOODI = ZZB20 
+
+@NCSP = ZTXB20
+
+@SUOMI = Palmaris longus -jänne
+
+@RUOTSI = Transplantation av palmaris longus-sena
+
+@END = 
+
+@KOODI = ZZB30 
+
+@NCSP = ZTXB30
+
+@SUOMI = Varpaan ojentajajänne
+
+@RUOTSI = Transplantation av tåextensorsena
+
+@END = 
+
+@KOODI = ZZB40 
+
+@NCSP = ZTXB40
+
+@SUOMI = Jänne, omakudos, muu
+
+@RUOTSI = Annat autologt sentransplantat
+
+@END = 
+
+@KOODI = ZZB50 
+
+@NCSP = ZTXB50
+
+@SUOMI = Jänne, vierassiirre, allografti
+
+@RUOTSI = Transplantation av homolog sena
+
+@END = 
+
+@KOODI = ZZB60 
+
+@NCSP = ZTXB60
+
+@SUOMI = Keinojänne
+
+@RUOTSI = Ersättande av sena med konstgjort material
+
+@END = 
+
+@KOODI_A = ZZC
+
+@NCSP_A = ZTXC
+
+@SUOMI_A = Sidekudoskalvosiirteet
+
+@RUOTSI_A = Fria fasciatransplantat
+
+@ENGL_A = Free graft of fascia
+
+@END = 
+
+@KOODI = ZZC00 
+
+@NCSP = ZTXC00
+
+@SUOMI = Sidekudoskalvo, omakudos
+
+@RUOTSI = Autologt fasciatransplantat
+
+@END = 
+
+@KOODI = ZZC10 
+
+@NCSP = ZTXC10
+
+@SUOMI = Sidekudoskalvo, vierassiirre, allografti
+
+@RUOTSI = Allotransplantation av fascia
+
+@END = 
+
+@KOODI_A = ZZD
+
+@NCSP_A = ZTXD
+
+@SUOMI_A = Kova aivokalvo, duura, siirteet
+
+@RUOTSI_A = Fria duratransplantat
+
+@ENGL_A = Free graft of dura
+
+@END = 
+
+@KOODI = ZZD10 
+
+@NCSP = ZTXD10
+
+@SUOMI = Kova aivokalvo, vierassiirre, allografti
+
+@RUOTSI = Allotransplantation av dura
+
+@END = 
+
+@KOODI_A = ZZE
+
+@NCSP_A = ZTXE
+
+@SUOMI_A = Lihassiirteet
+
+@RUOTSI_A = Fria muskeltransplantat
+
+@ENGL_A = Free graft of skeletal muscle
+
+@END = 
+
+@KOODI = ZZE00 
+
+@NCSP = ZTXE00
+
+@SUOMI = Lihas, omakudos, autografti
+
+@RUOTSI = Autologt skelettmuskeltransplantat
+
+@END = 
+
+@KOODI = ZZE10 
+
+@NCSP = ZTXE10
+
+@SUOMI = Hermotettu lihas
+
+@RUOTSI = Skelettmuskeltransplantat med bevarad innervation
+
+@END = 
+
+@KOODI_A = ZZF
+
+@NCSP_A = ZTXF
+
+@SUOMI_A = Rasvasiirteet
+
+@RUOTSI_A = Fria fettvävnadstransplantat
+
+@ENGL_A = Free graft of adipose tissue
+
+@END = 
+
+@KOODI = ZZF00 
+
+@NCSP = ZTXF00
+
+@SUOMI = Rasva, omakudos, autografti
+
+@RUOTSI = Autologt fettvävnadstransplantat
+
+@END = 
+
+@KOODI_A = ZZG
+
+@NCSP_A = ZTXG
+
+@SUOMI_A = Rustosiirteet
+
+@RUOTSI_A = Fria brosktransplantat
+
+@ENGL_A = Free graft of cartilage
+
+@END = 
+
+@KOODI = ZZG00 
+
+@NCSP = ZTXG00
+
+@SUOMI = Rusto, omakudos, autografti
+
+@RUOTSI = Autologt brosktransplantat
+
+@END = 
+
+@KOODI_A = ZZH
+
+@NCSP_A = ZTXH
+
+@SUOMI_A = Luu- ja luukalvokalvosiirteet
+
+@RUOTSI_A = Fria periost/ben-transplantat
+
+@ENGL_A = Free graft of periosteum
+
+@END = 
+
+@KOODI = ZZH00 
+
+@NCSP = ZTXH00
+
+@SUOMI = Luukalvo, omakudos, autografti
+
+@RUOTSI = Autologt periosttransplantat
+
+@END = 
+
+@KOODI = ZZH21 
+
+@NCSP = ZTXH21
+
+@SUOMI = Omakudosluusiirre, lastuina
+
+@RUOTSI = Autologt bentransplantat, spånor
+
+@END = 
+
+@KOODI = ZZH22 
+
+@NCSP = ZTXH22
+
+@SUOMI = Omakudosluusiirre, hohka-kortikalis blokkina
+
+@RUOTSI = Autologt bentransplantat, spongiosa-kortikalis-block
+
+@END = 
+
+@KOODI = ZZH20 
+
+@NCSP = ZTXH29
+
+@SUOMI = Omakudosluusiirre, laatua ei ilmoitettu
+
+@RUOTSI = Autologt bentransplantat (UNS)
+
+@END = 
+
+@KOODI = ZZH31 
+
+@NCSP = ZTXH31
+
+@SUOMI = Vierasluusiirre, allografti, lastuina tai paloina
+
+@RUOTSI = Homologt bentransplantat, spånor eller bitar
+
+@END = 
+
+@KOODI = ZZH32 
+
+@NCSP = ZTXH32
+
+@SUOMI = Vierasluusiirre, allografti, blokkina
+
+@RUOTSI = Homologt bentransplantat, benblock
+
+@END = 
+
+@KOODI = ZZH33 
+
+@NCSP = ZTXH33
+
+@SUOMI = Vierasluusiirre, allografti,  structural graft
+
+@RUOTSI = Homologt bentransplantat, strukturerat (structural graft)
+
+@END = 
+
+@KOODI = ZZH30 
+
+@NCSP = ZTXH39
+
+@SUOMI = Vierasluusiirre, allografti, laatua ei ilmoitettu
+
+@RUOTSI = Homologt bentransplantat, (UNS)
+
+@END = 
+
+@KOODI = ZZH40 
+
+@NCSP = ZTXH40
+
+@SUOMI = Luun korvike
+
+@RUOTSI = Bensurrogat
+
+@NOTE_F = esim Kieler-luu
+
+@NOTE_S = T.ex. Kieler ben
+
+@END = 
+
+@KOODI = ZZH50 
+
+@NCSP = ZTXH50
+
+@SUOMI = Luun mineraali tai vastaava
+
+@RUOTSI = Benmineral, o.dyl.
+
+@END = 
+
+@KOODI_A = ZZJ
+
+@NCSP_A = ZTXJ
+
+@SUOMI_A = Rustokalvosiirteet
+
+@RUOTSI_A = Fria perikondiumtransplantat
+
+@ENGL_A = Free graft of perichondrium
+
+@END = 
+
+@KOODI = ZZJ00 
+
+@NCSP = ZTXJ00
+
+@SUOMI = Rustokalvo, omakudos, autografti
+
+@RUOTSI = Autologt perikondiumtransplantat
+
+@END = 
+
+@KOODI_A = ZZK
+
+@NCSP_A = ZTXK
+
+@SUOMI_A = Hermosiirteet
+
+@RUOTSI_A = Fria nervtransplantat
+
+@ENGL_A = Free graft of nerve
+
+@END = 
+
+@KOODI = ZZK00 
+
+@NCSP = ZTXK00
+
+@SUOMI = Vapaa hermosiirre, autografti
+
+@RUOTSI = Autologt, fritt nervtransplantat
+
+@END = 
+
+@KOODI_A = ZZL
+
+@NCSP_A = ZTXL
+
+@SUOMI_A = Amnionkalvosiirre
+
+@RUOTSI_A = Fria fosterhinnetransplantat
+
+@ENGL_A = Free graft of amniotic membrane
+
+@END = 
+
+@KOODI = ZZL00 
+
+@NCSP = ZTXL00
+
+@SUOMI = Amnionkalvosiirre
+
+@RUOTSI = Transplantation av fosterhinna
+
+@END = 
+
+@KOODI_A = ZZM
+
+@NCSP_A = ZTXM
+
+@SUOMI_A = Vapaat monikudossiirteet
+
+@RUOTSI_A = Fria sammansatta transplantat (flera vävnadsslag)
+
+@ENGL_A = Free composite graft
+
+@END = 
+
+@KOODI = ZZM00 
+
+@NCSP = ZTXM00
+
+@SUOMI = Vapaa monikudossiirre, autografti
+
+@RUOTSI = Autologt, fritt, sammansatt transplantat (t.ex. tarmtransplantation)
+
+@END = 
+
+@KOODI_A = ZZQ
+
+@NCSP_A = ZTXQ
+
+@SUOMI_A = Vapaat, verisuoniin liitetyt kudossiirteet
+
+@RUOTSI_A = Fria transplantat med mikrovaskulära anastomoser
+
+@ENGL_A = Free microvascular grafts
+
+@NOTE_RF = Ovat omakudossiirteitä, autografteja
+
+@NOTE_RF =
+Hermotettu ihosiirre ZZA60
+
+@END = 
+
+@KOODI = ZZQ00 
+
+@NCSP = ZTXQ00
+
+@SUOMI = Iho-subkutis, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt hud/subcutis transplantat med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ10 
+
+@NCSP = ZTXQ10
+
+@SUOMI = Iho-subkutis–lihas, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av hud, subcutis och muskel med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ20 
+
+@NCSP = ZTXQ20
+
+@SUOMI = Iho-subkutis-lihas-luu, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av hud, subcutis, muskel och ben med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ30 
+
+@NCSP = ZTXQ30
+
+@SUOMI = Lihas, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av muskel med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ40 
+
+@NCSP = ZTXQ40
+
+@SUOMI = Luu, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av ben med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ50 
+
+@NCSP = ZTXQ50
+
+@SUOMI = Suoli, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av tarm med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ60 
+
+@NCSP = ZTXQ60
+
+@SUOMI = Hermo, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av nerv med mikrovaskulära anastomoser
+
+@END = 
+
+@KOODI = ZZQ55 
+
+@NCSP = ZTXQ70
+
+@SUOMI = Vatsapaidan (omentin) vapaa verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av omentum
+
+@END = 
+
+@KOODI_A = ZZR
+
+@NCSP_A = ZTXR
+
+@SUOMI_A = Kielekesiirteet
+
+@RUOTSI_A = Lambåer
+
+@ENGL_A = Flaps
+
+@END = 
+
+@KOODI = ZZR00 
+
+@NCSP = ZTXR00
+
+@SUOMI = Iho-subkutiskieleke
+
+@RUOTSI = Hud-subcutis-lambå
+
+@END = 
+
+@KOODI = ZZR05 
+
+@NCSP = ZTXR05
+
+@SUOMI = Iho-sidekudoskalvo-kieleke
+
+@RUOTSI = Hud-fascia-lambå
+
+@END = 
+
+@KOODI = ZZR10 
+
+@NCSP = ZTXR10
+
+@SUOMI = Iho-subkutis-lihaskieleke
+
+@RUOTSI = Muskulokutan lambå
+
+@END = 
+
+@KOODI = ZZR20 
+
+@NCSP = ZTXR20
+
+@SUOMI = Iho-subkutis-lihas-luukieleke
+
+@RUOTSI = Hud-subcutis-muskel-ben-lambå
+
+@END = 
+
+@KOODI = ZZR30 
+
+@NCSP = ZTXR30
+
+@SUOMI = Lihaskieleke
+
+@RUOTSI = Muskellambå
+
+@END = 
+
+@KOODI = ZZR40 
+
+@NCSP = ZTXR40
+
+@SUOMI = Lihas-luukieleke
+
+@RUOTSI = Muskel-ben-lambå
+
+@END = 
+
+@KOODI = ZZR45 
+
+@NCSP = ZTXR45
+
+@SUOMI = Luukieleke
+
+@RUOTSI = Ben lambå
+
+@END = 
+
+@KOODI = ZZR50 
+
+@NCSP = ZTXR50
+
+@SUOMI = Limakalvo-luukalvokieleke
+
+@RUOTSI = Mukoperiostal lambå
+
+@END = 
+
+@KOODI = ZZR60 
+
+@NCSP = ZTXR60
+
+@SUOMI = Vatsapaitakieleke
+
+@RUOTSI = Omentlambå
+
+@END = 
+
+@KOODI_A = ZZS
+
+@NCSP_A = ZTXS
+
+@SUOMI_A = Menetelmiä rekonstruktioleikkauksissa
+
+@RUOTSI_A = Speciella tekniker vid användning av lambåer och/eller vävnadsexpandrar
+
+@ENGL_A = Use of flaps and expander to advance and expand tissue
+
+@END = 
+
+@KOODI = ZZS00 
+
+@NCSP = ZTXS00
+
+@SUOMI = Rotaatiokieleke
+
+@RUOTSI = Rotationslambå
+
+@END = 
+
+@KOODI = ZZS10 
+
+@NCSP = ZTXS10
+
+@SUOMI = Siirtokieleke
+
+@RUOTSI = Transpositionslambå
+
+@END = 
+
+@KOODI = ZZS20 
+
+@NCSP = ZTXS20
+
+@SUOMI = Varsikieleke
+
+@RUOTSI = Distanslambå
+
+@END = 
+
+@KOODI = ZZS40 
+
+@NCSP = ZTXS40
+
+@SUOMI = V-Y tai Y-V muovaus
+
+@RUOTSI = V-Y- eller Y-V-plastik
+
+@END = 
+
+@KOODI = ZZS45 
+
+@NCSP = ZTXS45
+
+@SUOMI = Z-muovaus
+
+@RUOTSI = Z-plastik
+
+@END = 
+
+@KOODI = ZZS50 
+
+@NCSP = ZTXS50
+
+@SUOMI = Kudoslaajentimen asettaminen
+
+@RUOTSI = Inläggning av vävnadsexpander
+
+@END = 
+
+@KOODI = ZZS55 
+
+@NCSP = ZTXS55
+
+@SUOMI = Kudoslaajentimen täyttö
+
+@RUOTSI = Påfyllning av vävnadsexpander
+
+@END = 
+
+@KOODI = ZZS60 
+
+@NCSP = ZTXS60
+
+@SUOMI = Kudoslaajentimen vaihto
+
+@RUOTSI = Byte av vävnadsexpander
+
+@END = 
+
+@KOODI = ZZS70 
+
+@NCSP = ZTXS70
+
+@SUOMI = Kudoslaajentimen poisto
+
+@RUOTSI = Uttagning av vävnadsexpander
+
+@END = 
+
+@KOODI_A = ZZU
+
+@NCSP_A = ZTXU
+
+@SUOMI_A = Limakalvosiirteet
+
+@RUOTSI_A = Slämhinna transplantat
+
+@ENGL_A = Free graft of mucosa
+
+@END = 
+
+@KOODI = ZZU00 
+
+@NCSP = ZTXU00
+
+@SUOMI = Limakalvosiirre
+
+@RUOTSI = Slämhinna transplantat
+
+@END = 
+
+@KOODI_R = ZX
+
+@SUOMI_R = Erityiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+
+@RUOTSI_R = Diverse omständigheter/incidenter i samband med åtgärden
+
+@ENGL_R = Various circumstances and events in surgery
+
+@END = 
+
+@KOODI_A = ZX0
+
+@NCSP_A = ZXO0
+
+@SUOMI_A = Sädehoidon tekniikka
+
+@RUOTSI_A = Teknik av strålbehandling
+
+@NOTE_RF = SSD = Skin to Source Distance
+
+@NOTE_RF =
+HDR = High Dose Rate
+
+@NOTE_RF =
+LDR = Low Dose Rate
+
+@END = 
+
+@KOODI = ZX000 
+
+@NCSP = ZXO000
+
+@SUOMI = Yksinkertainen hoidon asetus simulaattorilla tai hoitokoneella - isosentrinen hoito
+
+@RUOTSI = Enkel justering av strålbehandling med simulator och vårdmaskin - isocentrisk behandling
+
+@END = 
+
+@KOODI = ZX001 
+
+@NCSP = ZXO001
+
+@SUOMI = Yksinkertainen hoidon asetus simulaattorilla tai hoitokoneella - SSD hoito
+
+@RUOTSI = Enkel justering av strålbehandling med simulator och vårdmaskin - SSD behandling
+
+@END = 
+
+@KOODI = ZX002 
+
+@NCSP = ZXO002
+
+@SUOMI = Yksinkertainen kerroskuvaukseen perustuva annossuunnitelma - isosentrinen hoito
+
+@RUOTSI = Enkel dosplanering baserad på tomografi - isocentrisk behandling
+
+@END = 
+
+@KOODI = ZX003 
+
+@NCSP = ZXO003
+
+@SUOMI = Yksinkertainen kerroskuvaukseen perustuva annossuunnitelma - SSD hoito
+
+@RUOTSI = Enkel dosplanering baserad på tomografi - SSD behandling
+
+@END = 
+
+@KOODI = ZX010 
+
+@NCSP = ZXO010
+
+@SUOMI = Saumattavat hoitoannokset - isosentrinen hoito
+
+@RUOTSI = Sammanfogade strålbehandlingsdoser - isocentrisk behandling
+
+@END = 
+
+@KOODI = ZX011 
+
+@NCSP = ZXO011
+
+@SUOMI = Saumattavat hoitoannokset - SSD hoito
+
+@RUOTSI = Sammanfogade strålbehandlingsdoser - SSD behandling
+
+@END = 
+
+@KOODI = ZX012 
+
+@NCSP = ZXO012
+
+@SUOMI = Sädehoito muotoilluilla laajakentillä - isosentrinen hoito
+
+@RUOTSI = Strålbehandling med formulerade utsträckta fält - isocentrisk behandling
+
+@END = 
+
+@KOODI = ZX013 
+
+@NCSP = ZXO013
+
+@SUOMI = Sädehoito muotoilluilla laajakentillä - SSD hoito
+
+@RUOTSI = Strålbehandling med formulerade utsträckta fält - SSD behandling
+
+@END = 
+
+@KOODI = ZX014 
+
+@NCSP = ZXO014
+
+@SUOMI = Koko keskushermoston sädehoito - isosentrinen hoito
+
+@RUOTSI = Strålbehandling av hela centrala nervsystemet - isocentrisk behandling
+
+@NOTE_F = Käytetään lisäkoodina koodille AX099
+
+@NOTE_S = Används som tilläggskod till AX099
+
+@END = 
+
+@KOODI = ZX015 
+
+@NCSP = ZXO015
+
+@SUOMI = Koko keskushermoston sädehoito - SSD hoito
+
+@RUOTSI = Strålbehandling av hela centrala nervsystemet - SSD behandling
+
+@NOTE_F = Käytetään lisäkoodina koodille AX099
+
+@NOTE_S = Används som tilläggskod till AX099
+
+@END = 
+
+@KOODI = ZX020 
+
+@NCSP = ZXO020
+
+@SUOMI = Kudoksen sisäinen HDR sädehoito
+
+@RUOTSI = HDR strålbehandling inom vävnaden
+
+@END = 
+
+@KOODI = ZX022 
+
+@NCSP = ZXO022
+
+@SUOMI = Kudoksen sisäinen LDR sädehoito
+
+@RUOTSI = LDR strålbehandling inom vävnaden
+
+@END = 
+
+@KOODI = ZX040 
+
+@NCSP = ZXO040
+
+@SUOMI = Ontelonsisäinen HDR sädehoito
+
+@RUOTSI = HDR strålbehandling inom kavitet
+
+@END = 
+
+@KOODI = ZX042 
+
+@NCSP = ZXO042
+
+@SUOMI = Ontelonsisäinen LDR sädehoito
+
+@RUOTSI = LDR strålbehandling inom kavitet
+
+@END = 
+
+@KOODI = ZX050 
+
+@NCSP = ZXO050
+
+@SUOMI = Stereotaktinen sädehoito
+
+@RUOTSI = Steretaktisk strålbehandling
+
+@END = 
+
+@KOODI = ZX060 
+
+@NCSP = ZXO060
+
+@SUOMI = Gamma-veitsi -hoito
+
+@RUOTSI = Behandling med gamma-kniv
+
+@END = 
+
+@KOODI = ZX090 
+
+@NCSP = ZXO090
+
+@SUOMI = Muu sädehoidon tekniikka
+
+@RUOTSI = Annan strålbehandlings teknik
+
+@END = 
+
+@KOODI_A = ZXA
+
+@NCSP_A = ZXXA
+
+@SUOMI_A = Kehon puoli: oikea-vasen
+
+@RUOTSI_A = Kroppshalva (höger/vänster/bilateral)
+
+@ENGL_A = Side of body
+
+@END = 
+
+@KOODI = ZXA00 
+
+@NCSP = ZXXA00
+
+@SUOMI = Oikea puoli
+
+@RUOTSI = Höger sida
+
+@END = 
+
+@KOODI = ZXA05 
+
+@NCSP = ZXXA05
+
+@SUOMI = Vasen puoli
+
+@RUOTSI = Vänster sida
+
+@END = 
+
+@KOODI = ZXA10 
+
+@NCSP = ZXXA10
+
+@SUOMI = Molemminpuolinen
+
+@RUOTSI = Bilateral
+
+@END = 
+
+@KOODI_A = ZXB
+
+@NCSP_A = ZXXB
+
+@SUOMI_A = Sijainti: lateraliteetti
+
+@RUOTSI_A = Lateral/medial lokalisation
+
+@ENGL_A = Lateral or medial
+
+@END = 
+
+@KOODI = ZXB00 
+
+@NCSP = ZXXB00
+
+@SUOMI = Sivun puoleinen, lateraalinen
+
+@RUOTSI = Lateralt
+
+@END = 
+
+@KOODI = ZXB10 
+
+@NCSP = ZXXB10
+
+@SUOMI = Keskiviivan puoleinen, mediaalinen
+
+@RUOTSI = Medialt
+
+@END = 
+
+@KOODI = ZXB20 
+
+@NCSP = ZXXB20
+
+@SUOMI = Sekä sivun että keskiviivan puoleinen
+
+@RUOTSI = Hateralt och medialt
+
+@END = 
+
+@KOODI_A = ZXC
+
+@NCSP_A = ZXXC
+
+@SUOMI_A = Erityiset leikkaustekniikat
+
+@RUOTSI_A = Speciella kirurgiska tekniker/apparater
+
+@ENGL_A = Specific technique
+
+@END = 
+
+@KOODI = ZXC00 
+
+@NCSP = ZXXC00
+
+@SUOMI = Diatermia
+
+@RUOTSI = Användande av diatermi
+
+@END = 
+
+@KOODI = ZXC10 
+
+@NCSP = ZXXC10
+
+@SUOMI = Laser
+
+@RUOTSI = Användande av laser
+
+@NOTE_F = Sisältää hiilidioksidilaserin ja määrittämättömän laserin
+
+@NOTE_S = Innefattar colmonoxid laser och obestämd laser
+
+@END = 
+
+@KOODI = ZXC12 
+
+@NCSP = ZXXC12
+
+@SUOMI = Pulssivärilaser
+
+@RUOTSI = Pulsfärglaser
+
+@END = 
+
+@KOODI = ZXC14 
+
+@NCSP = ZXXC14
+
+@SUOMI = Muu erikoislaser
+
+@RUOTSI = Annan special laser
+
+@NOTE_F = Esim argonlaser
+
+@NOTE_S = T.ex. argonlaser
+
+@END = 
+
+@KOODI = ZXC20 
+
+@NCSP = ZXXC20
+
+@SUOMI = Kemiallinen aine
+
+@RUOTSI = Användande av farmaka/kemikalier
+
+@END = 
+
+@KOODI = ZXC30 
+
+@NCSP = ZXXC30
+
+@SUOMI = Mikroaaltolaite
+
+@RUOTSI = Användande av mikrovågor
+
+@END = 
+
+@KOODI = ZXC40 
+
+@NCSP = ZXXC40
+
+@SUOMI = Ultraäänilaite
+
+@RUOTSI = Användande av ultraljud
+
+@END = 
+
+@KOODI = ZXC50 
+
+@NCSP = ZXXC50
+
+@SUOMI = Jäädytys, kryokoagulaatio
+
+@RUOTSI = Användande av kryoterapi
+
+@END = 
+
+@KOODI = ZXC60 
+
+@NCSP = ZXXC60
+
+@SUOMI = Kuumentaminen
+
+@RUOTSI = Användande av värme
+
+@END = 
+
+@KOODI = ZXC70 
+
+@NCSP = ZXXC70
+
+@SUOMI = Vesisuihku
+
+@RUOTSI = Användande av vattenstråle
+
+@END = 
+
+@KOODI = ZXC80 
+
+@NCSP = ZXXC80
+
+@SUOMI = Magneetin käyttö
+
+@RUOTSI = Användande av magnet
+
+@END = 
+
+@KOODI = ZXC82 
+
+@NCSP = ZXXC82
+
+@SUOMI = Mikrokirurgia
+
+@RUOTSI = Mikrokirurgi
+
+@END = 
+
+@KOODI = ZXC84 
+
+@NCSP = ZXXC84
+
+@SUOMI = Verityhjiö
+
+@RUOTSI = Bloodtomt fält
+
+@END = 
+
+@KOODI = ZXC86 
+
+@NCSP = ZXXC86
+
+@SUOMI = Tähystinlaitteen käyttö
+
+@RUOTSI = Användade av endoskopi utstyr
+
+@END = 
+
+@KOODI = ZXC99 
+
+@NCSP = ZXXC99
+
+@SUOMI = Muu erityinen leikkaustekniikka
+
+@RUOTSI = Annan speciell kirurgisk teknik
+
+@END = 
+
+@KOODI_A = ZXD
+
+@NCSP_A = ZXXD
+
+@SUOMI_A = Toimenpiteen kiireellisyys ja vaikeus
+
+@RUOTSI_A = Ingreppets angelägenhetsgrad och svårighetsgrad
+
+@ENGL_A = Emergency or scheduled procedure
+
+@NOTE_RF = Huom. Mikäli ei muuta ilmoiteta oletetaan yleensä kyseessä olevan suunniteltu vaikeusasteeltaan tavallinen toimenpide. Koodit ZXD10 ja ZXD35 ovat siksi tarpeen vain, mikäli tämä pääsääntö ei pidä paikkaansa.
+
+@NOTE_RS = Obs. Om inte annat anges, antar man vanligtvis att det är fråga om en elektiv operation med vanlig sårighetsgrad. Koderna ZXD10 ja ZXD35 behövs  därför ändast då detta huvudprincip inte gäller.
+
+@END = 
+
+@KOODI = ZXD00 
+
+@NCSP = ZXXD00
+
+@SUOMI = Hätätoimenpide
+
+@RUOTSI = Nödoperation
+
+@NOTE_F = Välittömän hengenvaaran vuoksi suoritettu toimenpide
+
+@NOTE_S = För avvärjande av omedelbar livsfara
+
+@END = 
+
+@KOODI = ZXD05 
+
+@NCSP = ZXXD05
+
+@SUOMI = Kiireellinen toimenpide
+
+@RUOTSI = Akut operation
+
+@NOTE_F = Kiireellinen toimenpide, normaalit valmistelut ehditään suorittaa
+
+@NOTE_S = Tid för sedvanliga förberedelser
+
+@END = 
+
+@KOODI = ZXD10 
+
+@NCSP = ZXXD10
+
+@SUOMI = Suunniteltu toimenpide
+
+@RUOTSI = Elektiv operation
+
+@NOTE_F = Suunniteltu toimenpide tavallisimmin virka-aikana
+
+@NOTE_S = Förlagd till normal tjänstetid
+
+@END = 
+
+@KOODI = ZXD20 
+
+@NCSP = ZXXD20
+
+@SUOMI = Polikliininen päiväkirurgia
+
+@RUOTSI = Poliklinisk dagkirurgi
+
+@NOTE_F = Suunniteltu toimenpide, jossa potilaan on tarkoitus tulla hoitavaan yksikköön ja palata kotiin tai suorittavan yksikön ulkopuoliseen hoito- tai asuinpaikkaan saman päivän aikana.
+
+@NOTE_S = Planerat åtgärd, där patienten är planerad att anlända till enheten och återvända hem eller annan anstalt än utförande enhet inom samma dag
+
+@END = 
+
+@KOODI = ZXD35 
+
+@NCSP = ZXXD30
+
+@SUOMI = Vaikeusasteeltaan tavallinen toimenpide
+
+@RUOTSI = Vanlig åtgärd
+
+@NOTE_F = Esim sydäleikkauksen yhteydessä Euroscore 0-1
+
+@NOTE_S = Ej speciellt svår
+
+@NOTE_S =
+T,ex vid kardiologiska åtgärder euroscore 0-1
+
+@END = 
+
+@KOODI = ZXD30 
+
+@NCSP = ZXXD31
+
+@SUOMI = Laaja tai vaikea toimenpide
+
+@RUOTSI = Extensiv eller svår åtgärd
+
+@NOTE_F = Toimenpide työllistää selvästi enemmän kuin kyseinen toimenpide tavallisesti.
+
+@NOTE_F =
+Esim sydänleikkausten yhteydessä Euroscore 2
+
+@NOTE_S = Åtgärden gräver tydligen mera resurser än vanligt
+
+@NOTE_S =
+T.ex. vid kardiologiska åtgärder euroscore 2
+
+@END = 
+
+@KOODI = ZXD31 
+
+@NCSP = ZXXD32
+
+@SUOMI = Erittäin laaja tai vaikea toimenpide
+
+@RUOTSI = Synnerligen extensiv eller svår åtgärd
+
+@NOTE_F = Esim sydäleikkausten yhteydessä Euroscore 3 tai enemmän
+
+@NOTE_S = T.ex vid kardiologiska åtgärder eursocre 3 eller mera
+
+@END = 
+
+@KOODI_A = ZXE
+
+@NCSP_A = ZXXE
+
+@SUOMI_A = Toimenpiteen kesto
+
+@RUOTSI_A = Tidsåtgång för operationen
+
+@ENGL_A = Duration of operation
+
+@NOTE_RF = Viillosta viimeiseen ompeleeseen
+
+@NOTE_RS = Från första snitt till sista stygn
+
+@END = 
+
+@KOODI = ZXE00 
+
+@NCSP = ZXXE00
+
+@SUOMI = Toimenpiteen kesto enintään 1 tunti
+
+@RUOTSI = Tidsåtgång maximalt 1 timme
+
+@END = 
+
+@KOODI = ZXE10 
+
+@NCSP = ZXXE10
+
+@SUOMI = Toimenpiteen kesto 1-3 tuntia
+
+@RUOTSI = Tidsåtgång 1 - 3 timmar
+
+@END = 
+
+@KOODI = ZXE20 
+
+@NCSP = ZXXE20
+
+@SUOMI = Toimenpiteen kesto 3-5 tuntia
+
+@RUOTSI = Tidsåtgång 3 - 5 timmar
+
+@END = 
+
+@KOODI = ZXE30 
+
+@NCSP = ZXXE30
+
+@SUOMI = Toimenpiteen kesto 5-7 tuntia
+
+@RUOTSI = Tidsåtgång 5 - 7 timmar
+
+@END = 
+
+@KOODI = ZXE40 
+
+@NCSP = ZXXE40
+
+@SUOMI = Toimenpiteen kesto 7-9 tuntia
+
+@RUOTSI = Tidsåtgång 7 - 9 timmar
+
+@END = 
+
+@KOODI = ZXE50 
+
+@NCSP = ZXXE50
+
+@SUOMI = Toimenpiteen kesto 9-12 tuntia
+
+@RUOTSI = Tidsåtgång 9 -12  timmar
+
+@END = 
+
+@KOODI = ZXE60 
+
+@NCSP = ZXXE60
+
+@SUOMI = Toimenpiteen kesto 12-15 tuntia
+
+@RUOTSI = Tidsåtgång 12 - 15 timmar
+
+@END = 
+
+@KOODI = ZXE70 
+
+@NCSP = ZXXE70
+
+@SUOMI = Toimenpiteen kesto 15-18 tuntia
+
+@RUOTSI = Tidsåtgång 15 -18  timmar
+
+@END = 
+
+@KOODI = ZXE80 
+
+@NCSP = ZXXE80
+
+@SUOMI = Toimenpiteen kesto 18-21 tuntia
+
+@RUOTSI = Tidsåtgång 18-21 timmar
+
+@END = 
+
+@KOODI = ZXE90 
+
+@NCSP = ZXXE90
+
+@SUOMI = Toimenpiteen kesto vähintään 22 tuntia
+
+@RUOTSI = Tidsåtgång minst 22 timmar
+
+@END = 
+
+@KOODI_A = ZXF
+
+@NCSP_A = ZXXF
+
+@SUOMI_A = Syyt toimenpiteen keskeyttämiseen
+
+@RUOTSI_A = Orsaker till att operation avbrutits
+
+@ENGL_A = Causes of interrupted operation
+
+@END = 
+
+@KOODI = ZXF00 
+
+@NCSP = ZXXF00
+
+@SUOMI = Toimenpiteen keskeyttäminen potilaan tilan heikkemisen vuoksi
+
+@RUOTSI = Åtgärden avbruten på grund av försämring av patientens tillstånd
+
+@END = 
+
+@KOODI = ZXF05 
+
+@NCSP = ZXXF05
+
+@SUOMI = Toimenpiteen keskeyttäminen muusta potilaasta johtuvasta syystä
+
+@RUOTSI = Åtgärden avbruten av annan på patienten beroende orsak
+
+@END = 
+
+@KOODI = ZXF10 
+
+@NCSP = ZXXF10
+
+@SUOMI = Toimenpiteen keskeyttäminen välineiden teknisen pettämisen vuoksi
+
+@RUOTSI = Åtgärden avbruten av tekniska orsaker
+
+@END = 
+
+@KOODI = ZXF20 
+
+@NCSP = ZXXF20
+
+@SUOMI = Toimenpiteen keskeyttäminen leikkausteknisten syiden vuoksi
+
+@RUOTSI = Kirurgitekniska orsaker
+
+@END = 
+
+@KOODI = ZXF99 
+
+@NCSP = ZXXF99
+
+@SUOMI = Muu syy keskeyttää toimenpide
+
+@RUOTSI = Åtgärden avbruten av annan orsak
+
+@END = 
+
+@KOODI_A = ZXG
+
+@NCSP_A = ZXXG
+
+@SUOMI_A = Toimenpiteen aikaisen sydämen hätätilanteen hoito
+
+@RUOTSI_A = Behandling av peroperativ kardiell kris (t.ex. hjärtstillestånd)
+
+@ENGL_A = Treatment of intraoperative cardiac emergency
+
+@END = 
+
+@KOODI = ZXG05 
+
+@NCSP = ZXXG05
+
+@SUOMI = Suljettu sydänhieronta toimenpiteen aikana
+
+@RUOTSI = Sluten hjärtmassage under operation
+
+@END = 
+
+@KOODI = ZXG10 
+
+@NCSP = ZXXG10
+
+@SUOMI = Avoin sydänhieronta
+
+@RUOTSI = Öppen hjärtmassage
+
+@END = 
+
+@KOODI = ZXG20 
+
+@NCSP = ZXXG20
+
+@SUOMI = Avoin sydänhieronta ja aortan sulku
+
+@RUOTSI = Öppen hjärtmassage med temporär avstängning av bröstaortan
+
+@END = 
+
+@KOODI = ZXG30 
+
+@NCSP = ZXXG30
+
+@SUOMI = Muu sydänhierontatoimenpide
+
+@RUOTSI = Annan hjärtmassage
+
+@END = 
+
+@KOODI = ZXG40 
+
+@NCSP = ZXXG40
+
+@SUOMI = Tilapäisen sydämentahdistimen käyttö laskimoteitse
+
+@RUOTSI = Inläggande av temporär transvenös pacemaker
+
+@END = 
+
+@KOODI = ZXG50 
+
+@NCSP = ZXXG50
+
+@SUOMI = Tilapäisen epikardiaalisen sydämentahdistimen käyttö
+
+@RUOTSI = Inläggande av temporär epikardiell pacemaker
+
+@END = 
+
+@KOODI_A = ZXH
+
+@NCSP_A = ZXXH
+
+@SUOMI_A = Toimenpiten suorituspaikka
+
+@RUOTSI_A = Åtgärdsställe
+
+@ENGL_A = Locality of procedure
+
+@END = 
+
+@KOODI = ZXH00 
+
+@NCSP = ZXXH00
+
+@SUOMI = Tutkimus tai toimenpide suoritettu rtg-osaston ulkopuolella
+
+@RUOTSI = Undersökning eller intervention gjord utanför rtg-avdelningen
+
+@END = 
+
+@KOODI = ZXH01 
+
+@NCSP = ZXXH01
+
+@SUOMI = Tutkimus tai toimenpide suoritettu leikkaussalissa
+
+@RUOTSI = Undersökning eller intervention gjord i operationssal
+
+@END = 
+
+@KOODI = ZXH02 
+
+@NCSP = ZXXH02
+
+@SUOMI = Tutkimus tai toimenpide suoritettu teho-osastolla
+
+@RUOTSI = Undersökning eller intervention gjord på intensivvårdsavdelning
+
+@END = 
+
+@KOODI_A = ZX1
+
+@NCSP_A = ZXXX
+
+@SUOMI_A = Lääkehoidon reitti
+
+@RUOTSI_A = Administrationsrutt vid medicinering
+
+@END = 
+
+@KOODI = ZX100 
+
+@NCSP = ZXXX00
+
+@SUOMI = Suun kautta
+
+@RUOTSI = Peroral
+
+@END = 
+
+@KOODI = ZX101 
+
+@NCSP = ZXXX01
+
+@SUOMI = Kielen alle
+
+@RUOTSI = Sublingualt
+
+@END = 
+
+@KOODI = ZX102 
+
+@NCSP = ZXXX02
+
+@SUOMI = Peräsuolen kautta
+
+@RUOTSI = Rektal
+
+@END = 
+
+@KOODI = ZX106 
+
+@NCSP = ZXXX06
+
+@SUOMI = Intranasaalinen
+
+@RUOTSI = Intranasal
+
+@END = 
+
+@KOODI = ZX108 
+
+@NCSP = ZXXX08
+
+@SUOMI = Inhalaatio
+
+@RUOTSI = Inhalation
+
+@END = 
+
+@KOODI = ZX110 
+
+@NCSP = ZXXX11
+
+@SUOMI = Ihonsisäinen
+
+@RUOTSI = Intracutan
+
+@END = 
+
+@KOODI = ZX112 
+
+@NCSP = ZXXX12
+
+@SUOMI = Ihon alle
+
+@RUOTSI = Subcutan
+
+@END = 
+
+@KOODI = ZX114 
+
+@NCSP = ZXXX14
+
+@SUOMI = Lihakseen
+
+@RUOTSI = Intramuskulär
+
+@END = 
+
+@KOODI = ZX116 
+
+@NCSP = ZXXX16
+
+@SUOMI = Luuytimeen
+
+@RUOTSI = Intraosseal
+
+@END = 
+
+@KOODI = ZX120 
+
+@NCSP = ZXXX20
+
+@SUOMI = Laskimoon
+
+@RUOTSI = Intravenös
+
+@END = 
+
+@KOODI = ZX121 
+
+@NCSP = ZXXX21
+
+@SUOMI = Keskuslaskimokatetriin
+
+@RUOTSI = Central venkateter
+
+@END = 
+
+@KOODI = ZX122 
+
+@NCSP = ZXXX22
+
+@SUOMI = Valtimoon
+
+@RUOTSI = Arteriell
+
+@END = 
+
+@KOODI = PA7RT 
+
+@NCSP = ZXXX23
+
+@SUOMI = Lääkeinfuusio aivojen valtimoon
+
+@RUOTSI = Infusion av medicin i hjärnartär
+
+@END = 
+
+@KOODI = PA7ST 
+
+@NCSP = ZXXX23
+
+@SUOMI = Lääkeinfuusio aivojen valtimoon, laaja
+
+@RUOTSI = Infusion av medicin in i hjärnartär, omfattande
+
+@END = 
+
+@KOODI = ZX123 
+
+@NCSP = ZXXX23
+
+@SUOMI = Kohde-elimen valtimoon
+
+@RUOTSI = Artär av objektorgan
+
+@END = 
+
+@KOODI = ZX124 
+
+@NCSP = ZXXX24
+
+@SUOMI = Elimen tai kohteen perfuusio
+
+@RUOTSI = Perfusion av ett organ
+
+@END = 
+
+@KOODI = ZX130 
+
+@NCSP = ZXXX30
+
+@SUOMI = Epiduraalitilaan
+
+@RUOTSI = Epiduralt
+
+@END = 
+
+@KOODI = ZX131 
+
+@NCSP = ZXXX31
+
+@SUOMI = Selkäydinkanavaan
+
+@RUOTSI = Intrathekal
+
+@END = 
+
+@KOODI = ZX132 
+
+@NCSP = ZXXX32
+
+@SUOMI = Keuhkopussiin
+
+@RUOTSI = Intrapleural
+
+@END = 
+
+@KOODI = ZX134 
+
+@NCSP = ZXXX34
+
+@SUOMI = Vatsaonteloon
+
+@RUOTSI = Intra-abdominal
+
+@END = 
+
+@KOODI = ZX136 
+
+@NCSP = ZXXX36
+
+@SUOMI = Virtsarakkoon
+
+@RUOTSI = Intravesikal
+
+@END = 
+
+@KOODI = ZX140 
+
+@NCSP = ZXXX40
+
+@SUOMI = Niveleen
+
+@RUOTSI = Intraartikulärt
+
+@END = 
+
+@KOODI = ZX190 
+
+@NCSP = ZXXX90
+
+@SUOMI = Kasvaimen tai muutoksen sisään
+
+@RUOTSI = Intralesional
+
+@END = 
+
+@KOODI = ZX198 
+
+@NCSP = ZXXX98
+
+@SUOMI = Muu paikallinen lääkehoito
+
+@RUOTSI = Annan lokal medicinering
+
+@END = 
+
+@KOODI = ZX199 
+
+@NCSP = ZXXX99
+
+@SUOMI = Muu lääkehoidon reitti
+
+@RUOTSI = Annan rot för medicationen
+
+@END = 
+
+@KOODI_R = ZZ
+
+@SUOMI_R = Palveluntuottajan ammatti
+
+@RUOTSI_R = Tjänstproducentens yrke
+
+@ENGL_R = Healthcare providers occupation
+
+@END = 
+
+@KOODI = Z2221 
+
+@NCSP = ZZ2221
+
+@SUOMI = Lääkäri
+
+@RUOTSI = Läkare
+
+@END = 
+
+@KOODI = Z2230 
+
+@NCSP = ZZ2230
+
+@SUOMI = Ylihoitaja tai osastonhoitaja
+
+@RUOTSI = Överskötare eller avdelsningsskötare
+
+@END = 
+
+@KOODI = Z3231 
+
+@NCSP = ZZ2230
+
+@SUOMI = Sairaanhoitaja
+
+@RUOTSI = Sjukskötare
+
+@END = 
+
+@KOODI = Z3232 
+
+@NCSP = ZZ2230
+
+@SUOMI = Kätilö
+
+@RUOTSI = Barnmorska
+
+@END = 
+
+@KOODI = Z2445 
+
+@NCSP = ZZ2445
+
+@SUOMI = Psykologi
+
+@RUOTSI = Psykolog
+
+@END = 
+
+@KOODI = Z2446 
+
+@NCSP = ZZ2446
+
+@SUOMI = Sosiaalityöntekijä
+
+@RUOTSI = Socialarbetre
+
+@END = 
+
+@KOODI = Z3226 
+
+@NCSP = ZZ3226
+
+@SUOMI = Fysioterapeutti
+
+@RUOTSI = Fysioterapeut
+
+@END = 
+
+@KOODI = Z3229 
+
+@NCSP = ZZ3229
+
+@SUOMI = Muu terveydenhuollon erityistyöntekijä
+
+@RUOTSI = Annan terapist
+
+@NOTE_F = Puheterapeutti, toimintaterapeutti jne
+
+@END = 
+
+@KOODI = Z5132 
+
+@NCSP = ZZ3231
+
+@SUOMI = Perushoitaja
+
+@RUOTSI = Undersköterska
+
+@END = 
+
+@KOODI = Z5131 
+
+@NCSP = ZZ5131
+
+@SUOMI = Lastenhoitaja
+
+@RUOTSI = Barnskötare
+
+@END = 

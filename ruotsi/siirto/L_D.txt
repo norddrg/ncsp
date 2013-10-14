@@ -1,0 +1,6523 @@
+
+###
+#KOODI_L    D
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på öron, näsa, hals och struphuvud
+#RUOTSI     ---
+#ENGL       Ear, nose and larynx procedures
+###
+#KOODI_R    DA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på ytterörat
+#RUOTSI     ---
+#ENGL       Auricle
+###
+#KOODI      DA001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Akupunktur
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling där nålar sätts i speciella s.k. akupunkturpunkter varigenom kroppsegna mekanismer aktiveras. I behandlingen ingår planering och kontinuerlig utvärdering
+#OHJE_R 
+---
+###
+#KOODI      DA002 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av epiduralkateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar thorakal och lumbal epiduralkateter
+#OHJE_R 
+---
+###
+#KOODI      DA003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av spinal injektionsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av epiduralkateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av kateter i spinal injektionsutrustning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrokonvulsiv terapi (ECT) UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att kunna tillförsäkra sig fysiskt och psykiskt välbefinnande, såsom att upprätthålla lämplig kost och nivå av fysisk aktivitet samt undvika hälsorisker. Innefattar: egenvård, att söka professionell hjälp och att följa medicinska ordinationer o
+#OHJE_R 
+---
+###
+#KOODI      DA007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering, intrakraniell
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering, spinal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Funktionell stimulering vid video-EEG-monitorering med intrakraniella elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA010 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av intratekalkateter (spinalkateter)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar thorakal och lumbal intratekalkateter (spinalkateter)
+#OHJE_R 
+---
+###
+#KOODI      DA011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggning av intraduralkateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar thorakal och lumbal intraduralkateter
+#OHJE_R 
+---
+###
+#KOODI      DA012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av intratekal cervikal eller intracisternal kateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning av elektrisk intracerebral stimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning av elektrisk ryggmärgsstimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning av elektrisk vagusstimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning av hydrocefalusshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning av spinalstimuleringsprogram
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakutan nervstimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DA019 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll av patient med epiduralanestesi eller intratekal anestesi (spinalanestesi)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive omläggning.
+#OHJE_R 
+---
+###
+#KOODI      DA020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neurolys
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Destruktion av nerv genom injektion av neurotoxisk substans t ex etanol. För att precisera vilket område som destruktionen omfattar anges tillämplig kod för nervblockad
+#OHJE_R 
+---
+###
+#KOODI      DA021 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkutan nervstimulering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utprovning och/eller kontroll av TENS-behandling
+#OHJE_R 
+---
+###
+#KOODI      DA022 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vagusnervstimulering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling av svårbehandlad epilepsi eller depression. Pulsgenerator implanterad subkutant stimulerar centrala nervsystemet via nervus vagus på halsen
+#OHJE_R 
+---
+###
+#KOODI      DA023 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blockad i smärtbehandlande syfte
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Aktuell nerv kan anges med kod ur S-kapitlet. Använt farmakon anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DA024 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrokonvulsiv terapi (ECT), unilateral
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling där ett krampanfall framkallas med hjälp av elektrisk ström som administreras med unilateral elektrodplacering temporalt och parietalt. Används vid psykiska sjukdomar, främst förstämningssyndrom
+#OHJE_R 
+---
+###
+#KOODI      DA025 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrokonvulsiv terapi (ECT), bilateral
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling där ett krampanfall framkallas med hjälp av elektrisk ström som administreras med bilateral elektrodplacering temporalt och parietalt. Används vid psykiska sjukdomar, främst förstämningssyndrom
+#OHJE_R 
+---
+###
+#KOODI      DA030 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nervblockad med ledning av nervstimulator eller ultraljud
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Aktuell nerv kan anges med kod ur S-kapitlet. Använt farmakon anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DA031 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nervblockad med ledning av röntgenteknik
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Aktuell nerv kan anges med kod ur S-kapitlet. Använt farmakon anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av tumör m.m. från ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAB10 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av preaurikulär fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAC00 
+#MUUT_PVM   2002/09/26
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från ytteröra
+#RUOTSI     ---
+#LYHENNE    Avlägsnande av främmande kropp från ytte
+###
+#KOODI      DAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Benfixering av öronprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation av ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på ytteröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på hörselgången
+#RUOTSI     ---
+#ENGL       External auditory canal
+###
+#KOODI      DB002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Insulininsättning hos typ-2-diabetiker
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Individuell undervisning som syftar till att ge basala kunskaper om blodsockerreglering, injektionsteknik, blodsockertestning mm. Åtgärdskoden användes endast under första månaden efter insulininsättningen
+#OHJE_R 
+---
+###
+#KOODI      DB003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Radiojodupptagningsmätning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Jod tillförs peroralt och aktiviteten mäts vid upprepade tillfällen upp till flera dygn
+#OHJE_R 
+---
+###
+#KOODI      DB004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omhändertagande av nydebuterad diabetiker
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Individuell undervisning som syftar till att ge basala kunskaper om blodsockerreglering, injektionsteknik, diet, blodsockertestning, motion mm. Åtgärdskoden användes endast under första månaden
+#OHJE_R 
+---
+###
+#KOODI      DBA00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i yttre hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation (av tumör, exostos) från hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBB10 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av yttre hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av yttre hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation av yttre hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation av hörselgångsatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på hörselgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på trumhinnan och mellanörat
+#RUOTSI     ---
+#ENGL       Eardrum and middle ear
+###
+#KOODI      DC001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fotodynamisk behandling vid makuladegeneration
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DC002 
+#MUUT_PVM   2006/12/19
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ögontryckssänkande åtgärd
+#RUOTSI     ---
+#LYHENNE    Ögontryckssänkande åtgärd
+#OHJE_S  
+Manipulativ eller farmakologisk trycksänkande åtgärd med patienten kvar tills trycket normaliserats
+#OHJE_R 
+---
+###
+#KOODI      DC010 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amblyopibehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övertäckning (lappbehandling) av ett öga i taget för att träna synen hos t.ex. barn med strabism
+#OHJE_R 
+---
+###
+#KOODI      DC011 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ögonspolning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser yttre sköljning av ögat exempelvis för att avlägsna främmande kropp eller för att undvika frätskador. Se även CBC10 avlägsnande av främmande kropp i ögonlock.
+#OHJE_R 
+---
+###
+#KOODI      DCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av trumhinna eller mellanöra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paracentes av trumhinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av mellanöredränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av mellanöra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB00 
+#MUUT_PVM   1996/10/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation (av polyp, granulation m. m.)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adherenslösning i mellanöra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av mellanöra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från mellanöra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Myringoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tympanoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på trumhinna eller mellanöra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på hörselbenskedjan
+#RUOTSI     ---
+#ENGL       Ossicles of ear
+###
+#KOODI      DD001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artikulationsbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av vaxpropp (exkl spolning)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkluderar även rengöring av hörselgång. Se även DD019 Öronspolning!
+#OHJE_R 
+---
+###
+#KOODI      DD003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av röstventil
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Byte av röstprotes/röstventil utan operativ åtgärd
+#OHJE_R 
+---
+###
+#KOODI      DD004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Byte av trakeostomitub
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Farmakologisk destruktion av labyrinten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vid morbus Ménière, t ex med gentamycin
+#OHJE_R 
+---
+###
+#KOODI      DD006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hörsel- och talträning vid kokleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hörselrehabilitering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, utbildning och eventuellt träning. Deltagande av flera olika yrkeskategorier som läkare, kurator, audionom, ingenjör m fl
+#OHJE_R 
+---
+###
+#KOODI      DD008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manipulationsbehandling vid yrsel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2009/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan trakeotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Postoperativ elektrodkontroll efter kokleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Eventuell hjärnstamsaudiometri registreras separat
+#OHJE_R 
+---
+###
+#KOODI      DD011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rengöring av radikalopererat öra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Röstbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Språkbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stödterapi vid tinnitus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, samtal, tinnitus retraining therapy (TRT)
+#OHJE_R 
+---
+###
+#KOODI      DD015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sväljningsterapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tamponadinläggning, öra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tinnitusrehabilitering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, utbildning och eventuellt träning. Deltagande av flera olika yrkeskategorier som läkare, kurator, audionom m fl
+#OHJE_R 
+---
+###
+#KOODI      DD018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uppföljning av kokleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öronspolning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DD020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tonsillotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stapedotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDA10 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av hörselbenskedja
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stapedektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDC00 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av hörselbensprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mobilisering av stapes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hörselbensplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Interposition mellan malleus och stapes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Interposition mellan trumhinna och stapesplatta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pexi mellan trumhinna och stapes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pexi mellan trumhinna och stapesplatta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på hörselbenskedja
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på processus mastoideus och os temporale
+#RUOTSI     ---
+#ENGL       Mastoid and temporal bone
+###
+#KOODI      DEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av processus mastoideus eller os temporale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endaural attiko-antrotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kortikal mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attiko-antro-mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attiko-antro-mastoidektomi och tympanotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attiko-antro-mastoidektomi och tympanoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av processus mastoideus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av os temporale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEC00 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från processus mastoideus eller os temporale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DED00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliteration av radikalhåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anbringande av benförankrad hörapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEW99 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på processus mastoideus eller os temporale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på innerörat
+#RUOTSI     ---
+#ENGL       Inner ear
+###
+#KOODI      DF001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ablation av hjärtvävnad i höger förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ablation av hjärtvävnad i höger kammare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ablation av hjärtvävnad i vänster förmak inklusive lungvener, transseptalpunktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ablation av hjärtvävnad i vänster kammare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av aortaballongpump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontroll av automatisk defibrillator (AICD)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kontroll av den automatiska defibrillatorns funktion. Eventuellt omprogrammering
+#OHJE_R 
+---
+###
+#KOODI      DF007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av central venkateter (CVK) UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av perikarddränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dynamisk angioplastik, borr PTDA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elkonvertering, defibrillering UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser såväl akut som planerad elkonvertering/defibrillering. Typ av anestesi kan anges med speciell anestesikod. Efterföljande rytmövervakning behöver ej tilläggskodas
+#OHJE_R 
+---
+###
+#KOODI      DF011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering, lungartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toraxkompression
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extern, transtorakal pacemakerbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      ICD-kontroll, arytmiprovokation i narkos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggande av central venkateter (CVK) via perifer ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF016 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll och omprogrammering av pacemaker eller defibrillator (AICD)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mekanisk toraxkompression (ej manuell)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pacemaker-kontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kontroll av pacemakerfunktion. Eventuell omprogrammering av pacemaker
+#OHJE_R 
+---
+###
+#KOODI      DF019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan aterektomi i kranskärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan laserrekanalisering av kranskärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF021 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av v. cava superior med inläggning av stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF022 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transesofageal terapeutisk stimulering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Transesofageal stimulering för att bryta supraventrikulär arytmi. Vid diagnostisk transesofageal stimulering registreras åtgärden AF051 Non-invasiv elektrofysiologisk undersökning
+#OHJE_R 
+---
+###
+#KOODI      DF023 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM   2008/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggning av central venkateter (CVK), dubbellumen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF024 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ballongseptotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF025 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elkonvertering, defibrillering av kammararytmi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF026 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elkonvertering, defibrillering av förmaksflimmer, planerat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF027 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elkonvertering, defibrillering av förmaksflimmer, akut
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DF028 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärtlungräddning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser akut åtgärd vid hjärtstopp med thoraxkomplression kombinerat med assisterad ventilation, eventuellt med intubation
+#OHJE_R 
+---
+###
+#KOODI      DF030 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EECP-behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+EECP (Enhanced External Counterpulsation) Behandling med sekventiell och hjärtsynkron extern komprimering vid behandling av svår angina pectoris och/eller hjärtsvikt.
+#OHJE_R 
+---
+###
+#KOODI      DF031 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avläsning av EKG från loop-registrering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Åtgärden avser avläsning och analys av data från ILR (implanterbar loop recorder)
+#OHJE_R 
+---
+###
+#KOODI      DFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sackotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Translabyrintär exploration av pyramidspets
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Labyrintektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Labyrintdestruktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestration av båggång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av ovala fönstret
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av runda fönstret
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av perilymfatisk fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anbringande av kokleärt implantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på inneröra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation på tuba Eustachii
+#RUOTSI     ---
+#ENGL       Eustachian tube
+###
+#KOODI      DG001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inledande av behandling med luftvägsmottryck CPAP eller BiPAP
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser akutbehandling
+#OHJE_R 
+---
+###
+#KOODI      DG002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inledande av behandling med respirator UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser akutbehandling (inklusive NIPPV och högfrekvensoscillatorventilation, HFOV)
+#OHJE_R 
+---
+###
+#KOODI      DG003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av pleuradränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkialtoalett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exsufflation av pneumotorax
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning av diafragmastimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll av patient som behandlas med luftvägsmottryck CPAP eller BiPAP
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Oximetri, ev justering av rekommenderat expiratoriskt tryck. Kontroll av utrustning
+#OHJE_R 
+---
+###
+#KOODI      DG008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kronisk respiratorbehandling, kontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Oximetri ev ändring av ventilatorinställning. Kontroll av utrustning
+#OHJE_R 
+---
+###
+#KOODI      DG009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kronisk syrgasbehandling, kontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Oximetri, ev blodgaser. Ev ändring av rekommenderad syrgastillförselnivå
+#OHJE_R 
+---
+###
+#KOODI      DG010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell ventilation av luftvägar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurolys
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Upplösning av pleuraadherenser med till exempel streptokinas
+#OHJE_R 
+---
+###
+#KOODI      DG012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rensugning av luftvägar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rensugning, sensorisk stimulans (på nyfödda)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spolning av pleuraempyem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Syrgasbehandling vid spontanandning och atmosfärtryck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser akutbehandling
+#OHJE_R 
+---
+###
+#KOODI      DG016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tillsyn av trakeostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeal intubation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeal intubation, fiberendoskopisk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG019 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av trakeostomitub
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avses permanent borttagande. Om trakeostomikanyl åter insättes skall DG024 Byte av trakeostomitub användas
+#OHJE_R 
+---
+###
+#KOODI      DG020 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan trakeotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG021 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Respiratorbehandling, konventionell
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG022 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Respiratorbehandling, HFO
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG023 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Respiratorbehandling, non-invasiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG024 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av trakeostomitub
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DG025 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koniotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Trakeotomi via membrana cricothyreoidea
+#OHJE_R 
+---
+###
+#KOODI      DGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av örontrumpet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliteration av örontrumpet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGW00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation av örontrumpet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på örontrumpet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på näsan (exkl septum)
+#RUOTSI     ---
+#ENGL       Nose
+###
+#KOODI      DHA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i näsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi i näshåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation från ytternäsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation endonasalt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polypevulsio
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av koanalpolyp via sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konkotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB45 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruktion av näsmusslans vävnad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB50 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konkoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från näsan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHC05 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av penetrerande främmande kropp från näsa
+#RUOTSI     ---
+#LYHENNE    Avlägs av penetr främm kropp från näsan
+#OHJE_S  
+Från hud eller subkutan vävnad på näsan, se QAC00
+Från näshåla, se TDH10
+#OHJE_R 
+---
+###
+#KOODI      DHC10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av implantat från näsben
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur i näsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sluten reposition av näsfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen reposition av näsfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Osteosyntes vid näsfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på näsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på nässeptum
+#RUOTSI     ---
+#ENGL       Septum of nose
+###
+#KOODI      DJ001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Angiografi av pankreastransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Angiografi av transplanterad lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan specificerad terapeutisk endoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av peritoneal dialyskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog auxiliär levertransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog auxiliär levertransplantation med levande givare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Justering av magsäcksband
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Justering av mängden röntgenkontrastmedel i magsäcksband (som inopererats i viktreducerande syfte)
+#OHJE_R 
+---
+###
+#KOODI      DJ008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk inläggning av peritoneal dialyskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lavemang
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser både träning och behandling
+#OHJE_R 
+---
+###
+#KOODI      DJ010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ordination och uppföljning av enteral nutritionsbehandling via sond
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av enteral nutritionsbehandling (via sond) inkl ev kosttillskott (tillskott av näringsämne i form av tabletter, kapslar eller mixtur)
+#OHJE_R 
+---
+###
+#KOODI      DJ011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stomikontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tillsyn och eventuellt spolning av stomin. Rådgivning. Utprovning och förskrivning av stomibandage
+#OHJE_R 
+---
+###
+#KOODI      DJ012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terapeutisk endoskopi UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tunntarmstransplantation med multivisceral transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultraljud av pankreastransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultraljud av transplanterad lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikelsköljning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJ017 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Faecestransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rektal tillförsel av avvägd och riktad bakterieflora, s.k. faeceslavemang
+#OHJE_R 
+---
+###
+#KOODI      DJ020 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leverdialysbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Särskild dialysbehandling som ges till patient med grav leverinsufficiens
+#OHJE_R 
+---
+###
+#KOODI      DJ025 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan inläggning av stent i gallväg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i nässeptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nässeptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppnande av sinus sphenoidalis transseptalt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av nässeptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nässeptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tillslutning av nässeptumperforation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation av nässeptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sluten reposition av nässeptumfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen reposition av nässeptumfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på nässeptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ingrepp vid näsblod
+#RUOTSI     ---
+#ENGL       Control of epistaxis
+###
+#KOODI      DK001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggning av tunnelerad hemodialyskateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+För avlägsnande se SP382
+#OHJE_R 
+---
+###
+#KOODI      DK002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av cystostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar sutur och förband
+#OHJE_R 
+---
+###
+#KOODI      DK003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande respektive byte av kateter vid pyelostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av cystostomikateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av tunnelerad hemodialyskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering, spermaticaven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extraktion av njursten, perkutant
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av uretärkateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2008/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefrostomi, perkutan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av njurcysta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punktionsbiopsi av njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Subindelning av TKA00
+#OHJE_R 
+---
+###
+#KOODI      DK013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punktionsbiopsi av njurbäcken i transplanterad njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punktionsbiopsi av njure
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Subindelning av TKA00
+#OHJE_R 
+---
+###
+#KOODI      DK015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punktionsbiopsi av transplanterad njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spermienedfrysning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spolning av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DK018 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urininkontinensutredning och -behandling I
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inhämtande av miktionsanamnes. Rådgivning. Utprovning, justering och förskrivning av hjälpmedel. Blåsträning
+#OHJE_R 
+---
+###
+#KOODI      DK019 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urininkontinensutredning och -behandling II
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inhämtande av miktionsanamnes. Rådgivning. Utprovning, justering och förskrivning av hjälpmedel. Blåsträning samt miktionsobservation/ flödes- och resurinobservation (MKO/FRO), under halv- eller heldag
+#OHJE_R 
+---
+###
+#KOODI      DK020 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spolning av urinkateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser spolning av urinkater. Se även DK017 Spolning av urinblåsa.
+#OHJE_R 
+---
+###
+#KOODI      DK021 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av urinkateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+För insättande, se TKC20 Kateterisering av urinblåsa
+#OHJE_R 
+---
+###
+#KOODI      DK022 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av implantat för lägesbestämning av prostata
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser exempelvis guldkornsimplantat inför extern radioterapi. Tilläggskod för anestesiform kan anges vid behov
+#OHJE_R 
+---
+###
+#KOODI      DKW00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulering av blodkärl vid näsblödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Främre nästamponad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bakre nästamponad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrokoagulation vid näsblödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av artär vid näsblödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat ingrepp vid näsblödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rinoplastik
+#RUOTSI     ---
+#ENGL       Plastic repair of nose
+###
+#KOODI      DL001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embryotransfer med embryo som genomgått intracytoplasmatisk spermieinjektion (ICSI)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används tillsammans med LCA30 Transfer av ägg eller embryo till uterus vid assisterad befruktning för att precisera vilken embryotyp som överflyttas
+#OHJE_R 
+---
+###
+#KOODI      DL002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embryotransfer med frysta och tinade embryon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används tillsammans med LCA30 Transfer av ägg eller embryo till uterus vid assisterad befruktning för att precisera vilken embryotyp som överflyttas
+#OHJE_R 
+---
+###
+#KOODI      DL003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embryotransfer standard-IVF
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används tillsammans med LCA30 Transfer av ägg eller embryo till uterus vid assisterad befruktning för att precisera vilken embryotyp som överflyttas
+#OHJE_R 
+---
+###
+#KOODI      DL004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Frysning av embryo
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DL005 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Användande av progesteronhämmare vid abort eller missfall
+#RUOTSI     ---
+#LYHENNE    Anv av progest.hämm vid abort eller miss
+#OHJE_S  
+T.ex. Mifegyne. Läkemedel kan anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DL006 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Användande av prostaglandin eller prostaglandinanalog vid abort eller missfall
+#RUOTSI     ---
+#LYHENNE    Prostagl/analog vid abort/missfall
+#OHJE_S  
+T.ex Cytotec. Läkemedel kan anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DL007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intracytoplasmatisk spermieinjektion (ICSI)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Befruktning av ägg vid assisterad befruktning genom spermieinjektion i äggets cytoplasma
+#OHJE_R 
+---
+###
+#KOODI      DL008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrauterin insemination
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av preparerad sperma i livmodern med hjälp av kateter genom livmoderhalsen
+#OHJE_R 
+---
+###
+#KOODI      DL009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Patientbedömning inför ovulationsstimulering och assisterad befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DL010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Preimplantatorisk genetisk diagnostik
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Genetisk analys på embryo inför överföring till livmodern
+#OHJE_R 
+---
+###
+#KOODI      DL011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginalt inlägg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex conveenbåge och oestring samt uprovning och kontroll av prolapsring.  Avser ej implantat i samband med brakyterapi
+#OHJE_R 
+---
+###
+#KOODI      DL012 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Preventivmedelsutredning och -behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rådgivning, utprovning och läkemedelsförskrivning. Insättande av spiral och p-stav anges med TLC00 respektive TQX20
+#OHJE_R 
+---
+###
+#KOODI      DL015 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraljudsledd punktion av ovarialcysta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DL020 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraljudsledd punktion av bukcysta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar punktion och eventuellt injektion av skleroserande medel
+#OHJE_R 
+---
+###
+#KOODI      DLD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektionsplastik av näsans broskskelett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektionsplastik av näsans brosk- och benskelett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yttre näsplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD25 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektionsplastik av koanalatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av näsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan näsplastikoperation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på sinus maxillaris
+#RUOTSI     ---
+#ENGL       Maxillary antrum
+###
+#KOODI      DM001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amningshjälp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DM002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Andra igångsättningsåtgärder för förlossning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser andra åtgärder för förlossningsinduktion än DM007 Vibration för igångsättning av förlossning, DT036 Oxytocintillförsel för igångsättning av förlossning och DT037 Oxytocintillförsel för stimulering av värkarbete
+#OHJE_R 
+---
+###
+#KOODI      DM003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysterocentes vid hydramnion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DM004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intubering, övertrycksandning (på nyfödda)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DM007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vibration för igångsättning av förlossning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser förlossningsinduktion med vibration
+#OHJE_R 
+---
+###
+#KOODI      DM020 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion av lakterande bröst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DM021 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av dränage i lakterande bröst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endonasal öppning av sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trepanation av sinus maxillaris med bred öppning och radikaloperation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk öppning av sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transmaxillär operation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lateral rinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av dränage i sinus maxillaris
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Sinoject
+#OHJE_R 
+---
+###
+#KOODI      DMW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på sinus maxillaris och överkäke
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på sinus ethmoidalis och os ethmoidale
+#RUOTSI     ---
+#ENGL       Ethmoidal sinus and bone
+###
+#KOODI      DN001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avgipsning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vid avgipsning och anläggande av nytt cirkulärt gips registreras dels avgipsningen och dels den nya gipsen
+#OHJE_R 
+---
+###
+#KOODI      DN002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ledspolning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Artrolavage
+#OHJE_R 
+---
+###
+#KOODI      DN003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortosbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ortosbehandling och ortostillverkning
+#OHJE_R 
+---
+###
+#KOODI      DN004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Osmiumsynoviortes
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Etsning av ledhinna med osmiumtetraoxid
+#OHJE_R 
+---
+###
+#KOODI      DN005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radiofrekvensablation av innervation till facettled
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DN006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mobilisering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Moblisering kan även inkluderas i QB007 Massage om man inte vill särredovisa
+#OHJE_R 
+---
+###
+#KOODI      DN007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Triggerpunktspressur
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Moblisering kan även inkluderas i QB007 Massage om man inte vill särredovisa
+#OHJE_R 
+---
+###
+#KOODI      DN008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manipulation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Manipulation kan även inkluderas i QB001 Rörlighetsträning om man inte vill särredovisa
+#OHJE_R 
+---
+###
+#KOODI      DN009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muskeltöj
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Muskeltöj kan även inkluderas i QB001 Rörlighetsträning om man inte vill särredovisa
+#OHJE_R 
+---
+###
+#KOODI      DNA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av sinus ethmoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yttre etmoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endonasal etmoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk etmoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i sinus ethmoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från sinus ethmoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på sinus ethmoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på frontal- och sphenoidalsinus
+#RUOTSI     ---
+#ENGL       Frontal and sphenoidal sinuses
+###
+#KOODI      DP001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering, extrakraniell
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av dialyskateter i v. femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggande av perifer artärkateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggning av kateter för intravasal oxygenering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kompressionsbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Omfattar aktiviteter vid ödem som lindning, bandagering, utprovning av kompressionshandskar och kompressionsstrumpor. Omfattar ej  lymfdränagebehandling
+#OHJE_R 
+---
+###
+#KOODI      DP006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuellt lymfdränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av armartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av benartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av bukartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av bäckenartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av njurartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal embolisering av armartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal embolisering av benartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal embolisering av bukartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal embolisering av bäckenartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal embolisering av njurartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Umbilikal artärkateter (på nyfödda)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Umbilikal venkateter (på nyfödda)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DP019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ödembehandling med kompressionspump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Pumpstövel
+#OHJE_R 
+---
+###
+#KOODI      DP020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal embolisering av vengraft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av sinus frontalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av sinus sphenoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trepanation av sinus frontalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trepanation av sinus sphenoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av förändring i sinus frontalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliteration av sinus frontalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av förändring i sinus sphenoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB30 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliteration av sinus sphenoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPC00 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp
+#RUOTSI     ---
+#LYHENNE    Avlägs av främm kropp fr sin front/sphen
+###
+#KOODI      DPW00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av frontonasalt dränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på sinus frontalis eller sinus sphenoidale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på larynx
+#RUOTSI     ---
+#ENGL       Larynx
+###
+#KOODI      DQ001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan specificerad laserbehandling av huden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Debridering, biologisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling med till exempel maggots
+#OHJE_R 
+---
+###
+#KOODI      DQ004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fotodynamisk terapi (PDT)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling för att destruera premalign eller malign hudförändring. Aminolevulinsyra appliceras lokalt och därefter belyses området med speciallampa
+#OHJE_R 
+---
+###
+#KOODI      DQ005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudincision UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lokalisering ej specificerad
+#OHJE_R 
+---
+###
+#KOODI      DQ006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kosmetologisk behandling och rådgivning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex hårborttagning eller applikation av kosmetika för att dölja pigmentrubbningar, kärlförändringar och ärr
+#OHJE_R 
+---
+###
+#KOODI      DQ007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserbehandling av huden, färgämnen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserbehandling av huden, koldioxid
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, Bucky
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, PUVA (Psoralen-ultraviolett-aktivitet), peroralt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psoralen tillförs peroralt. Psoralen aktiveras genom bestrålning med UVA-ljus. PUVA = Psoralen-ultraviolett-aktivitet
+#OHJE_R 
+---
+###
+#KOODI      DQ011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling PUVA (Psoralen-ultraviolett-aktivitet), bad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psoralen tillförs lokalt vid bad. Psoralen aktiveras genom bestrålning av UVA-ljus. PUVA = Psoralen-ultraviolett-aktivitet
+#OHJE_R 
+---
+###
+#KOODI      DQ012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, UVA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, UVA1
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, UVB
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive TL01
+#OHJE_R 
+---
+###
+#KOODI      DQ015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling på nyfödda
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, UVB och UVA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQ017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning av sår UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lokalisering ej specificerad
+#OHJE_R 
+---
+###
+#KOODI      DQ018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punktion av subkutan fettvävnad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bukfettsaspiration för PAD eller cytologi
+#OHJE_R 
+---
+###
+#KOODI      DQ019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion, incision eller destruktion vid hudförändring UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lokalisering ej specificerad
+#OHJE_R 
+---
+###
+#KOODI      DQ020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Smörjning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser situationer då patienten inte kan applicera hudläkemedel själv
+#OHJE_R 
+---
+###
+#KOODI      DQ022 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårslutning med vävnadslim
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lokalisering ej specificerad
+#OHJE_R 
+---
+###
+#KOODI      DQ023 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vakuumbehandling av sår
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vacbehandling
+#OHJE_R 
+---
+###
+#KOODI      DQ024 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övrig specificerad ljusbehandling av huden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Explorativ laryngofissur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av larynxtumör
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk exstirpation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Supraglottisk laryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemilaryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arytenoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av stämband
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för stämbandsstriktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i struphuvudet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laterofixation av stämband
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av larynx med fri slemhinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av larynx med stjälkad lambå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation på larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD42 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tyreoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD50 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av larynxprotes
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser även byte av röstprotes
+#OHJE_R 
+---
+###
+#KOODI      DQE10 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion eller implantation av främmande material i stämband
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes med samtidig adsorption, t.ex. av LDL, granulocyter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes, annan specificerad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes, erytrocyter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes, leukocyter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes, leukocyter med extrakorporal fotokemoterapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes, plasma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aferes, trombocyter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Allogen benmärgstransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aspiration av donators benmärg inför transplantation av benmärg eller stamceller
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Autolog benmärgstransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Benmärgspunktion, sternum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      CAPD - kontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kontroll av patient med CAPD. Rådgivning. Genomgång av dialysprotokoll och eventuellt ordination av förändringar i dialysschemat. Inspektion av kateterutgång. Eventuell omläggning och byte av aggregat
+#OHJE_R 
+---
+###
+#KOODI      DR013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      CAPD - start
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Undervisning och träning av patient som startar med CAPD. Avser tiden från kateterinläggningen fram till 1 månad efter dialysstart. Vid varje mottagingsbesök/hembesök under denna period registreras denna åtgärdskod
+#OHJE_R 
+---
+###
+#KOODI      DR014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemodiafiltration
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+HDF
+#OHJE_R 
+---
+###
+#KOODI      DR015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemodialys, akut
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används för att registrera att en ny patient genomgått ett hemodialyspass. Observera att citratdialys har en egen kod (DR055), liksom heparinfri dialys (DR056)
+#OHJE_R 
+---
+###
+#KOODI      DR016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemodialys, kronisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används för att registrera att en kronisk dialyspatient genomgått ett hemodialyspass. Observera att citratdialys har en egen kod (DR055), liksom heparinfri dialys (DR056)
+#OHJE_R 
+---
+###
+#KOODI      DR017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemofiltration
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Observera att citratdialys har en egen kod (DR055), liksom heparinfri dialys (DR056)
+#OHJE_R 
+---
+###
+#KOODI      DR018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemoperfusion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Infusion av lymfocyter från donator
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Infusion av donatorslymfocyter (DLI) till benmärgstransplanterad patient
+#OHJE_R 
+---
+###
+#KOODI      DR020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinuerlig arteriovenös eller venovenös hemofiltration eller hemodiafiltration
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkluderar CAVH, CAVHD, CVVH och CVVHD
+#OHJE_R 
+---
+###
+#KOODI      DR021 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll inför och efter allogen benmärgstransplantation eller perifer stamcellstransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR022 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll inför och efter högdosbehandling med autolog stamcellstransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR023 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peritonealdialys, akut
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR024 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peritonealdialys, kronisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Användes endast inom slutenvården för att markera att patienten under vårdtiden erhållit peritonealdialys (CAPD). Inom öppenvården användes någon av åtgärderna DR013 CAPD-start eller DR012 CAPD-kontroll
+#OHJE_R 
+---
+###
+#KOODI      DR025 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Preoperativ hemodilution
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR026 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Profylax mot Rh-immunisering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tillförsel av humant immunglobulin anti-D
+#OHJE_R 
+---
+###
+#KOODI      DR027 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stamcellsinsamling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling av stamceller genom aferes och eventuell cellseparation
+#OHJE_R 
+---
+###
+#KOODI      DR028 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stamcellsinsamling och infrysning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling av stamceller genom aferes och eventuell cellseparation inklusive infrysning inför transplantation
+#OHJE_R 
+---
+###
+#KOODI      DR029 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, erytrocyter, allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR030 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, erytrocyter, autolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR031 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, erytrocyter, intrauterin och allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR032 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, granulocyter, allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR033 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, helblod, allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR034 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, helblod, autolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR035 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, lymfocyter eller mononukleära leukocyter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR036 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, plasma, allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR037 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, plasma, autolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR038 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, trombocyter, allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR039 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, trombocyter, autolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR040 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transfusion, trombocyter, intrauterin och allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR041 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från benmärg, allogen, besläktad givare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR042 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från benmärg, allogen, obesläktad givare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR043 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från benmärg, autolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR044 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från navelsträngsblod, besläktad givare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR045 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från navelsträngsblod, obesläktad givare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR046 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från perifert blod, allogen, besläktad givare.
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR047 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från perifert blod, allogen, obesläktad givare.
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR048 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation, stamceller från perifert blod, autolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR049 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Trombocytaggregation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Test för utvidgad blödningsutredning. Avser utförande och/eller bedömning av aggregationskurvor efter tillsats av olika aktiverande substanser, t.ex. ADP, adrenalin, arakidonsyra, ristocetin eller kollagen
+#OHJE_R 
+---
+###
+#KOODI      DR050 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utbytestransfusion, erytrocyter och plasma, allogen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR051 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Immuntoleransinduktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Immunologisk toleransinduktion vid inhibitorutveckling hos patienter med hemofili som behandlas med faktorkoncentrat  Bör kombineras med åtgärd som beskriver på vilket sätt läkemedelstillförseln sker
+#OHJE_R 
+---
+###
+#KOODI      DR052 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blödningsriskkort
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utfärdande av blödningsriskkort för patienter med blödningssjukdomar
+#OHJE_R 
+---
+###
+#KOODI      DR053 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perioperativ autolog blodåtervinning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR054 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Preoperativ blodtappning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DR055 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Citratdialys
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser hemodialys med kontinuerlig tillförsel av citrat som antikoagulantia. För dialys där antikoagulantia ersätts med kontinuerlig infusion eller upprepad genomspolning med natriumklorid används istället DR056 Heparinfri dialys. För akut hemodialys, se
+#OHJE_R 
+---
+###
+#KOODI      DR056 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heparinfri dialys
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser hemodialys där antikoagulantia ersätts med kontinuerlig infusion eller upprepad genomspolning med natriumklorid. För dialys där citrat används som antikoagulantia används istället DR055 Citratdialys. För akut hemodialys, se DR015
+#OHJE_R 
+---
+###
+#KOODI      DT001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hyposensibilisering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser hyposensibilisering med depåextrakt
+#OHJE_R 
+---
+###
+#KOODI      DT002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av diagnostisk eller terapeutisk substans i entes, ligament, senskida och dylikt, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive diagnostisk lokalanestesi. Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inställning och utprovning av läkemedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tillförsel av läkemedel till exempel analgetikum, ACE-hämmare för att kontrollera patientreaktioner. Upptitrering av dos mm. Särskild registrering av läkemedelsbehandlingen skall ej göras
+#OHJE_R 
+---
+###
+#KOODI      DT004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jontofores
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Transkutan tillförsel av läkemedel med hjälp av svag elektrisk ström
+#OHJE_R 
+---
+###
+#KOODI      DT006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, konjunktival
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel med annat specificerat administrationssätt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intraarteriell
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intrakutan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intramuskulär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intratekal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intratrakeal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intratympanal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intraventrikulär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intravenös
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive tillförsel via vaskulär injektionsport.  Innefattar intravenös vätsketillförsel. Läkemedel kan anges genom tillägg av ATC-kod. Avser ej DT036 Oxytocintillförsel för igångsättning av förlossning och DT037Oxytocintillförsel för stimulering av vär
+#OHJE_R 
+---
+###
+#KOODI      DT017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, kutan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod. Kan till exempel användas vid pensling av kondylom, applikation av salvor och krämer
+#OHJE_R 
+---
+###
+#KOODI      DT018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, nasal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, peroral
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, rektal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT021 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, subkutan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT022 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, transkutan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT023 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, vaginal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod. Vid tillförsel av mifepriston, se DL005, och tillförsel av prostaglandinanalog, se DL006
+#OHJE_R 
+---
+###
+#KOODI      DT024 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, via inhalation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT025 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ocklusionsbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser hudbehandling. Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT026 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ordination av läkemedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Åtgärder i samband med insättning, utvärdering och utsättning av läkemedel. Innefattar t.ex. överväganden tillsammans med patienten, receptförskrivning, skriftliga instruktioner samt utvärdering av effekt och biverkningar. Aktuellt läkemedel kan anges me
+#OHJE_R 
+---
+###
+#KOODI      DT027 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förlossningsinduktion med prostaglandin och prostaglandinanalog
+#RUOTSI     ---
+#LYHENNE    Förlossningsinduktion med prostaglandin
+#OHJE_S  
+Avser tillförsel av prostaglanding för igångsättning av förlossning. Läkemedel kan anges genom tillägg av ATC-kod. Avser ej DT036 Oxytocintillförsel för igångsättning av förlossning och DT037Oxytocintillförsel för stimulering av värkarbete.
+#OHJE_R 
+---
+###
+#KOODI      DT028 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Påfyllning av implanterad läkemedelspump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser alla typer av läkemedelspumpar
+#OHJE_R 
+---
+###
+#KOODI      DT029 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Snabbhyposensibilisering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser hyposensibilisering med vattenbaserade extrakt
+#OHJE_R 
+---
+###
+#KOODI      DT030 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaccination
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Typ av vaccination kan anges genom tilläggskod med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT031 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning efter läkemedelstillförsel (inklusive vaccin)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används då patient på grund av t ex allergi måste övervakas efter läkemedelstillförseln. Givet läkemedel kan anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT032 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, injektion till foster
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Givet läkemedel kan anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT033 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intraosseöst
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Givet läkemedel kan anges med ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT034 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av intraosseös infusionnål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DT035 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelstillförsel, intraperitoneal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT036 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oxytocintillförsel för igångsättning av förlossning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser förlossningsinduktion med oxytocin. Avser ej DT037Oxytocintillförsel för stimulering av värkarbete. Observera att DT016 Läkemedelstillförsel, intravenös med tillägg av ATC-kod inte används.
+#OHJE_R 
+---
+###
+#KOODI      DT037 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oxytocintillförsel för stimulering av värkarbete
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser ej DT036 Förlossningsinduktion med oxytocin. Observera att DT016 Läkemedelstillförsel, intravenös med tillägg av ATC-kod inte används.
+#OHJE_R 
+---
+###
+#KOODI      DT107 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cytostatikatillförsel med annat specificerat administrationssätt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT108 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cytostatikatillförsel UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT112 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cytostatikatillförsel, intratekal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT116 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cytostatikatillförsel, intravenös
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DT135 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cytostatikatillförsel, intraperitoneal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      DU001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ljusbehandling, psykiatrisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Exponering för artificiellt ljus som vanligen administreras i ljusrum eller med ljusbox och som ges i syfte att via påverkan på circadiana rytmer behandla psykiatriska tillstånd. Används vid psykiska sjukdomar, främst förstämningssyndrom
+#OHJE_R 
+---
+###
+#KOODI      DU002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuropsykologisk behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex insiktsbearbetning, social träning, träning av kognitiva funktioner
+#OHJE_R 
+---
+###
+#KOODI      DU003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykisk behandling av infertilitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DU004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykologisk bearbetning efter abort
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DU005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykologisk bearbetning efter missfall
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DU006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykologisk förberedelse inför abort
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DU007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stödjande samtal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Strukturerat samtal i behandlande syfte som inte hänförs till systematisk psykologisk behandling, t.ex. krissamtal, motivationssamtal, samtal vid förlossningsrädsla (Aurorasamtal)
+#OHJE_R 
+---
+###
+#KOODI      DU008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling,  psykodynamisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling enligt specifik metod i enlighet med psykodynamisk teori
+#OHJE_R 
+---
+###
+#KOODI      DU009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling, annan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling med annan vedertagen specifik metod än enligt psykodynamisk, kognitiv eller kognitiv-beteendeterapeutisk teori
+#OHJE_R 
+---
+###
+#KOODI      DU010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling, kognitiv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling enligt specifik metod i enlighet med kognitiv teori
+#OHJE_R 
+---
+###
+#KOODI      DU011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling, kognitiv-beteendeterapeutisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling enligt specifik metod i enlighet med kognitiv-beteendeterapeutisk teori
+#OHJE_R 
+---
+###
+#KOODI      DU012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ätträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandlarledd träning, individuell eller i grupp, avser beredning och/eller intagande av måltid, syftande mot ett normaliserat förhållande till mat och ätande
+#OHJE_R 
+---
+###
+#KOODI      DU020 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling, systemisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling enligt specifik metod i enlighet med systemisk teori
+#OHJE_R 
+---
+###
+#KOODI      DU021 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling, dialektisk-beteendeterapeutisk (DBT)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling enligt specifik metod i enlighet med dialektisk-beteendeterapeutisk teori
+#OHJE_R 
+---
+###
+#KOODI      DU022 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systematisk psykologisk behandling, interpersonell (IPT)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologisk eller psykosocial behandling enligt specifik metod i enlighet med interpersonell teori
+#OHJE_R 
+---
+###
+#KOODI      DU023 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykopedagogisk behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Samtal av bearbetande karaktär. Behandlande samtal för att förändra eller öka förståelsen för patientens egen situation. Ange metod och syfte med samtalet ex motiverande samtal, jagstärkande samtal
+#OHJE_R 
+---
+###
+#KOODI      DU024 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Funktionell Familjeterapi (FFT)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DU025 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Barnorienterad Familjeterapi (BOF)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DU026 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Familjebehandling med miljöterapeutiska inslag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Strukturerad behandling av familj med miljöterapeutiska inslag
+#OHJE_R 
+---
+###
+#KOODI      DU027 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Samspelsbehandling förälder och spädbarn
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Strukturerad behandling av samspelet mellan förälder och spädbarn
+#OHJE_R 
+---
+###
+#KOODI      DU028 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Föräldraträning utifrån manualiserad metod
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Föräldraträning som sker utifrån manualiserad metod, ex.vis COPE (the community parent education program)
+#OHJE_R 
+---
+###
+#KOODI      DU029 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gruppbehandling utifrån manualiserad metod
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Gruppbehandling som sker utifrån en manualiserad metod, ex.vis Cool Kids
+#OHJE_R 
+---
+###
+#KOODI      DU030 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marte Meo
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Videobaserad metod med syfte att stödja och hjälpa föräldrar och andra att se behov och resurser hos barnet och de egna möjligheterna att svara utvecklingsfrämjande på barnets behov samt den egna möjligheten att påverka samspelet mellan sig själv och bar
+#OHJE_R 
+---
+###
+#KOODI      DU031 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bildterapi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bildterapi är en behandlingsform där bildskapande används för uttryck och kommunikation. Patienten målar bilder individuellt eller i en grupp för att söka kunskap om sig själv och sin situation
+#OHJE_R 
+---
+###
+#KOODI      DU100 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hypnos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hypnos, hypnoterapi eller annan suggestionsbehandling
+#OHJE_R 
+---
+###
+#KOODI      DV001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Allergisanering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning i syfte att minska allergenexposition. Inkluderar även råd på plats i hemmet, förskolan och skolan
+#OHJE_R 
+---
+###
+#KOODI      DV002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan specificerad behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan specificerad tamponad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avgiftning vid överkonsumtion av läkemedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Upprättande av nedtrappningschema, överenskommelse med patienten samt uppföljning av tidigare överenskommelser
+#OHJE_R 
+---
+###
+#KOODI      DV005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av dränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av implanterad läkemedelspump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avskärmning av strålbehandlingsfält med block
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tillverkning av blyblock inför extern strålbehandling (ej MLC)
+#OHJE_R 
+---
+###
+#KOODI      DV008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Insättande av behandling med antichockbyxa (MAST eller motsvarande)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling med radioaktiva isotoper
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Verifikation av indikation, bestämning av dos, patientinformation samt tillförsel av isotop. Typ av isotop anges med tilläggskod
+#OHJE_R 
+---
+###
+#KOODI      DV010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bio-feedback
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling där patienten tränas att förbättra sin hälsa genom att använda sig av kroppsegna signaler. Används t ex vid sjukdomar i magtarmkanalen, urinvägarna, vid migrän etc
+#OHJE_R 
+---
+###
+#KOODI      DV011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Borttagande av radioaktiv källa eller applikator efter brakyterapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, interstitiell högdosrat
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i tumörvävnad för temporär högdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, interstitiell lågdosrat (permanent implantat)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i tumörvävnad för permanent lågdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, interstitiell lågdosrat (temporärt implantat)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i tumörvävnad för temporär lågdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, interstitiell pulsdosrat
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i tumörvävnad för temporär pulsdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, intrakavitär eller intraluminal eller mould (HDR)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i hålrum eller anbringande av ytapplikator för högdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, intrakavitär eller intraluminal eller mould (LDR)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i hålrum eller anbringande av ytapplikator för kontinuerlig lågdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, intrakavitär eller intraluminal eller mould (PDR)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i hålrum eller anbringande av ytapplikator för pulsdosrat bestrålning
+#OHJE_R 
+---
+###
+#KOODI      DV019 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Brakyterapi, intravaskulär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Införande av applikator för radioaktiv källa i kärl för bestrålning av lumeninskränkande stenos
+#OHJE_R 
+---
+###
+#KOODI      DV020 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av implanterad läkemedelspump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Jmfr även AEA30 Byte av inopererad pump i injektionsutrustning i nervsystemet
+#OHJE_R 
+---
+###
+#KOODI      DV021 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av kassetter och filter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Byte av läkemedelskassett och antibakteriellt filter till extern pump avsedd för läkemedelsadministrering
+#OHJE_R 
+---
+###
+#KOODI      DV022 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Definition av targetområde inför strålbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Grafisk angivelse av målområdet för strålbehandling
+#OHJE_R 
+---
+###
+#KOODI      DV023 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling med extrakorporal membranoxygenering (ECMO) utan samtidig kirurgisk åtgärd
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ECMO (Extra Corporal Membrane Oxygenization) är detsamma som ECLA (Extra Corporal Lung Assist)
+#OHJE_R 
+---
+###
+#KOODI      DV024 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Familjerådgivning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV025 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förskrivning av livsmedel för särskilda näringsändamål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Sk SÄRNÄR
+#OHJE_R 
+---
+###
+#KOODI      DV026 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Genetisk rådgivning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rådgivning till patienter/anhöriga vid misstänkt eller etablerad ärftlig sjukdom
+#OHJE_R 
+---
+###
+#KOODI      DV027 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Godkännande av dosplan eller dosberäkning inför strålbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Granskning och godkännande av stråldoser till tumör- och normalvävnader efter utarbetandet av dosplan eller dosberäkning
+#OHJE_R 
+---
+###
+#KOODI      DV028 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hyperbar oxygenbehandling (HBO)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tryckkammarbehandling med vanligtvis 100% syrgas
+#OHJE_R 
+---
+###
+#KOODI      DV029 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hälsokontroll inom neonatologin
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hälsokontroll av barn som vårdats på neonatalavdelning
+#OHJE_R 
+---
+###
+#KOODI      DV030 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hälsosamtal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Samtal om livsstilsfrågor som kost, motion och sömn samt om alkohol, narkotika, tobak och sex –och samlevnad
+#OHJE_R 
+---
+###
+#KOODI      DV033 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Immunterapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV034 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inducerad hypotermi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV035 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av läkemedelspump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inläggning under huden av läkemedelspump och tillhörande kateter
+#OHJE_R 
+---
+###
+#KOODI      DV036 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intensivövervakning under transport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV037 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intramuskulär stimulering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+IMS
+#OHJE_R 
+---
+###
+#KOODI      DV038 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intravasal oxygenering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV039 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koncentrerad glukoslösning peroral
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Smärtlindring till nyfödda vid måttligt invasiva procedurer som t ex venös provtagning och vaccination
+#OHJE_R 
+---
+###
+#KOODI      DV040 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll av strålfält
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kontroll av analoga eller digitala röntgenbilder som erhållits i samband med extern strålbehandling. Denna åtgärd registreras endast en gång under en strålbehandlingsserie
+#OHJE_R 
+---
+###
+#KOODI      DV041 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koppling av subkutan eller intravenös pump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Koppling av extern pump för administration av läkemedel
+#OHJE_R 
+---
+###
+#KOODI      DV042 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kortvågsbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV043 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kosttillägg, berikning, dietistbedömning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Start och uppföljning av kosttillägg, berikning. Dietist bedömer behovet av kosttillägg
+#OHJE_R 
+---
+###
+#KOODI      DV044 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuvösbehandling (av nyfödda)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV045 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lokal kylbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV046 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelsbehandling, utdelning av dosett eller enstaka dos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Iordningställande och utdelning av dosett eller enstaka läkemedelsdos
+#OHJE_R 
+---
+###
+#KOODI      DV047 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Matträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Används i situationer då patienten starkt misstänker att en allergi föreligger medan den kliniska misstanken är mycket liten. Patienten intar misstänkt födoämne under bevakning. Skilj från peroral allergenprovokation där full anafylaxiberedskap upprätthå
+#OHJE_R 
+---
+###
+#KOODI      DV048 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Medicinsk badbehandling, hand-, fot-, sitt- och benbad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kräver ej övervakning
+#OHJE_R 
+---
+###
+#KOODI      DV049 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Medicinsk badbehandling: helkroppsbad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kräver övervakning
+#OHJE_R 
+---
+###
+#KOODI      DV050 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moulage, gjutrum eller mouldrum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tillverkning av fixationsutrustning inför extern strålbehandling
+#OHJE_R 
+---
+###
+#KOODI      DV051 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nutritionsbehandling, individuellt anpassad kost
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av behandling med individuellt anpassad kost inkl. ev. kosttillskott och anpassad måltidsordning
+#OHJE_R 
+---
+###
+#KOODI      DV052 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nutritionsbehandling, konsistensanpassning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av behandling konsistensanpassad kost
+#OHJE_R 
+---
+###
+#KOODI      DV053 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nutritionsbehandling, kosttillägg, berikning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av behandling med kosttillägg (flytande livsmedel för särskilda näringsändamål) och/eller  berikning (tillsats som ökar matens innehåll av energi och/eller näring  via enskilda näringsämnen, livsmedel eller specialprodukter)
+#OHJE_R 
+---
+###
+#KOODI      DV054 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nutritionsbehandling, lågkaloridieter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av behandling med VLCD/LCD. (Very low calori diets / low calori diets)
+#OHJE_R 
+---
+###
+#KOODI      DV055 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nutritionsbehandling, parenteral nutrition
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Start och uppföljning av parenteral nutritionsbehandling inkl ev kosttillskott (tillskott av näringsämne i form av tabletter, kapslar eller mixtur)
+#OHJE_R 
+---
+###
+#KOODI      DV056 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nutritionsbehandling, specialkost
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av behandling med specialkost inkl ev kosttillskott och anpassad måltidsordning. Specialkost = kost som fyller vissa kriterier med avseende på närings- och livsmedelssammanstättning och som används vid specifika diagnoser. De s
+#OHJE_R 
+---
+###
+#KOODI      DV057 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omhändertagande av patient både före och efter undersökning eller behandling som utförs på annan klinik eller inom annan specialitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar åtgärder som t ex sättande av nål, smärtlindring och lugnande behandling samt övervakning efter undersökningen/behandlingen
+#OHJE_R 
+---
+###
+#KOODI      DV058 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omprogrammering och utprovning av läkemedelspump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV059 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2010/09/29
+#POISTETTU
+#VANHA                
+#SUOMI      Ospecificerad behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV060 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punktion UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lokalisering ej specificerad
+#OHJE_R 
+---
+###
+#KOODI      DV061 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resemedicinsk rådgivning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och rådgivning om hälsorisker vid resa, förslag på profylax och egenbehandling
+#OHJE_R 
+---
+###
+#KOODI      DV062 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rutinmässig hälsoundersökning av barn
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Undersökningar inom barnhälsovården t ex 4-årskontrollen
+#OHJE_R 
+---
+###
+#KOODI      DV063 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rådgivande samtal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rådgivning av väsentligt större omfattning än vad som förekommer vid ordinära besök
+#OHJE_R 
+---
+###
+#KOODI      DV064 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Simulering inför strålbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Orienterade genomlysning eller inställning av strålfält reellt eller virtuellt
+#OHJE_R 
+---
+###
+#KOODI      DV065 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sondmatning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tillförsel av näring genom sond till magsäcken
+#OHJE_R 
+---
+###
+#KOODI      DV066 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sondmatning (på nyfödda)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV067 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spolning av dränage
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex spolning av T-drän
+#OHJE_R 
+---
+###
+#KOODI      DV068 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spolning och rengöring av operationskavitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV069 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Strålbehandling, helkropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV070 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Strålbehandling, IMRT (intensitetsmodulerad radioterapi)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV071 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Strålbehandling, konventionell extern
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV072 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Strålbehandling, närbestrålning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV073 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taktil massage
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utbildning i taktil massage och/eller behandling med taktil massage
+#OHJE_R 
+---
+###
+#KOODI      DV074 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tamponad UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV075 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tamponadtagning i narkos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV076 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Teamrehabilitering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information/träning/behandling med rehabiliterande syfte som utförs av minst 2 olika vårdgivarkategorier. Denna åtgärd kan endast användas vid teambesök och gruppteambesök
+#OHJE_R 
+---
+###
+#KOODI      DV077 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tuberkulinprövning, sensitinprövning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV078 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Undersökning av potentiell donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV079 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Upprättande av dosplan eller dosberäkning inför strålbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Datorbaserad beräkning av dosfördelning inför strålbehandling
+#OHJE_R 
+---
+###
+#KOODI      DV080 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Viktreducerande behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Start och uppföljning av individuellt anpassad energireducerad kost. Motiverande samtal för att patienten skall förändra sina matvanor och sitt rörelsebeteende
+#OHJE_R 
+---
+###
+#KOODI      DV081 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värmebehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV082 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övriga mer omfattande åtgärder av icke operativ art på nyfödda
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV083 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övriga särskilda åtgärder under nyföddhetsperioden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV084 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arbetsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av färdigheter som behövs för att arbeta, studera eller att ha en daglig sysselsättning. T.ex. att passa tider, att planera arbetsdagen, att följa instruktioner eller specifika färdigheter som krävs för den sysselsättning som planeras
+#OHJE_R 
+---
+###
+#KOODI      DV085 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Boendeträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att klara det dagliga livet i boendet. Innefattar exempelvis städning, att gå och handla, att betala räkningar etc
+#OHJE_R 
+---
+###
+#KOODI      DV086 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kroppskännedomsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandlingen syftar till att stärka personens identitetsupplevelse bland annat för att man lättare kunna uppmärksamma och hantera kroppsliga signaler på t.ex. stress. Behandlingen kan ske både individuellt och i grupp. I åtgärden ingår individuell planer
+#OHJE_R 
+---
+###
+#KOODI      DV087 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Social träning med strukturerat upplägg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i interaktion med andra människor i olika situationer. I åtgärden ingår planering, instruktion och utvärdering
+#OHJE_R 
+---
+###
+#KOODI      DV088 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd i ekonomiskt liv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rådgivning vad gäller patientens personliga ekonomi. Stöd vad gäller kontakter med bank, skattemyndigheter, betalning av räkningar etc
+#OHJE_R 
+---
+###
+#KOODI      DV089 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Logopedisk behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV090 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      NO-behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DV091 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Smittisolering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Isolering av patient på grund av dennes smitta
+#OHJE_R 
+---
+###
+#KOODI      DV092 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skyddsisolering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Isolering av patient på grund av dennes smittkänslighet
+#OHJE_R 
+---
+###
+#KOODI      DV093 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Upprättande av rehabiliteringsplan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Koden avser ett paket av åtgärder som bestäms i en individuell skriftlig habiliterings- eller rehabiliteringsplan som dokumenterats i journalen. Koden får inte användas för enstaka habiliterings- eller rehabiliteringsåtgärd. Minst tre olika yrkeskategori
+#OHJE_R 
+---
+###
+#KOODI      DV094 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rehabilitering enligt rehabiliteringsplan
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Koden avser ett paket av åtgärder som bestämts i en individuell skriftlig habiliterings- eller rehabiliteringsplan (se DV093) som dokumenterats i journalen. Koden får inte användas för enstaka habiliterings- eller rehabiliteringsåtgärd.
+#OHJE_R 
+---
+###
+#KOODI      DV095 
+#MUUT_PVM   2006/12/19
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tillverkning och utprovning av individuellt anpassad trakealkanyl
+#RUOTSI     ---
+#LYHENNE    Tillverkning och utprovning av trak.kany
+###
+#KOODI      DV096 
+#MUUT_PVM   2006/12/19
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation och justering av individuellt anpassad trakealkanyl
+#RUOTSI     ---
+#LYHENNE    Reparation och justering av trak.kanyl
+###
+#KOODI      DV097 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palliativ vård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Koden avser ett paket av åtgärder med palliativ avsikt. Koden får inte användas för enstaka palliativa åtgärder. Koda då den aktuella åtgärden samt tillägg av ZV400 (Åtgärd utförd med palliativ avsikt)
+#OHJE_R 
+---
+###
+#KOODI_R    DW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer för sårkomplikationer av ögon-, näs- och halskirurgi
+#RUOTSI     ---
+#ENGL       Reoperations in surgery of ear, nose and larynx
+###
+#KOODI      DWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWC00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWE00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWF00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på öron, näsa, hals eller struphuvud
+#RUOTSI     ---
+#LYHENNE    

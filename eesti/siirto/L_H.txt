@@ -1,0 +1,781 @@
+
+###
+#KOODI_L    H
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasen toimenpiteet
+#RUOTSI     Åtgärder på bröst
+#ENGL       Mammary gland  procedures
+#OHJE_S  
+Myöhäinen uusintatoimenpide ilmaistaan lisäkoodilla ZSH00
+#OHJE_R 
+Sen reoperation anges med tilläggskod ZSH00
+###
+#KOODI_A    HA0
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasen sädehoito kirurgisen hoidon liitännäishoitona
+#RUOTSI     Strålbehandling av bröstkörtel med kirurgi
+#ENGL       
+###
+#KOODI      HA003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasen osittaisen poiston jälkeinen sädehoito
+#RUOTSI     Strålbehandling efter delresektion av bröstkörtel
+#LYHENNE    
+###
+#KOODI      HA013
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasen täydellisen poiston jälkeinen sädehoito
+#RUOTSI     Strålbehandling efter total mastektomi
+#LYHENNE    
+###
+#KOODI      HA1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5211      
+#SUOMI      Rintarauhasen natiiviröntgen (mammografia)
+#RUOTSI     Mammografi
+#LYHENNE    Mammografia
+###
+#KOODI      HA1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6361      
+#SUOMI      Rintarauhasten UÄ
+#RUOTSI     UL av bröstkörtlar
+#LYHENNE    Rintarauhasten UÄ
+#OHJE_S  
+Katso myös mammografiakoodit: HA1AA ja HA1BA
+#OHJE_R 
+---
+###
+#KOODI      HA1AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Rintarauhasen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd bröstkörtelbiopsi
+#LYHENNE    Rintar.kudosn,UÄ-ohj
+###
+#KOODI      HA1BA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5211      
+#SUOMI      Rintarauhasen laaja natiiviröntgen (mammografia)
+#RUOTSI     Mammografi, omfattande
+#LYHENNE    Mammografia, laaja
+#OHJE_S  
+Peruskuvien valmistumisen jälkeen otetaan lisäkuvia, kohdekuvia, suurennoskuvia tai mammografian yhteydessä tehty tarkistus UÄ:llä.
+#OHJE_R 
+---
+###
+#KOODI      HA1BB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5213      
+#SUOMI      Rintarauhaskystan ilmatutkimus (pneumokystografia)
+#RUOTSI     Pneumocystografi
+#LYHENNE    Pneumokystografia
+###
+#KOODI      HA1BF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasten magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av bröstkörtlar med mellanfältsmagnet
+#LYHENNE    Rintarauhasten KKMT
+###
+#KOODI      HA1BG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasten magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av bröstkörtlar med högfältsmagnet
+#LYHENNE    Rintarauhasten VKMT
+###
+#KOODI      HA1CA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5216      
+#SUOMI      Rintarauhasen seulontatutkimus (mammografiaseulonta)
+#RUOTSI     Mammografi, screening
+#LYHENNE    Mammografiaseula
+###
+#KOODI      HA1CF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasten laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av bröstkörtlar, omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Rintarauhast. l.KKMT
+###
+#KOODI      HA1CG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasten  laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av bröstkörtlar, omfattande undersökning med högfältsmagnet
+#LYHENNE    Rintarauhaset l.VKMT
+###
+#KOODI      HA1DF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasten erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av bröstkörtlar, speciellt omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Rintarauh. er.l.KKMT
+###
+#KOODI      HA1DG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasten erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av bröstkörtlar, speciellt omfattande undersökning med högfältsmagnet
+#LYHENNE    Rintarauh. er.l.VKMT
+###
+#KOODI      HA1DT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasen kudosnäytteen otto magneettiohjauksessa
+#RUOTSI     MR-styrd bröstkörtelbiopsi
+#LYHENNE    Rintar.kudosn,MK-ohj
+###
+#KOODI      HA1MT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasen kudosnäytteen otto mammografiaohjauksessa
+#RUOTSI     Mammografistyrd bröstkörtelbiopsi
+#LYHENNE    Rintar.kudosn,mamm-o
+###
+#KOODI      HA1SA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5215      
+#SUOMI      Rintarauhasen suurennus röntgen (suurennosmammografia) *
+#RUOTSI     Mammografi, förstoringsbild
+#LYHENNE    Suurennosmammografia
+###
+#KOODI      HA1ST
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9028      
+#SUOMI      Rintarauhasen kudosnäytteen otto stereotaktisessa ohjauksessa
+#RUOTSI     Stereotaktiskt styrd bröstkörtelbiopsi
+#LYHENNE    Rintar.kudosn,ster-o
+###
+#KOODI      HA2AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Rintarauhasen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd finnåsbiopsi från bröstkörteln
+#LYHENNE    Rintar.solun,UÄ-ohj
+###
+#KOODI      HA2DT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasen solunäytteen otto magneettiohjauksessa
+#RUOTSI     MR-styrd finnålsbiopsi från bröstkörteln
+#LYHENNE    Rintar.solun,MK-ohj
+###
+#KOODI      HA2MT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9037      
+#SUOMI      Rintarauhasen solunäytteen otto mammografiaohjauksessa
+#RUOTSI     Mammografl-styrd finnålsbiopsi från bröstkörtel
+#LYHENNE    Rintar.solun,mammo-o
+###
+#KOODI      HA2ST
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9028      
+#SUOMI      Rintarauhasen solunäytteen otto stereotaktisessa ohjauksessa
+#RUOTSI     Stereotaktiskt styrd finnålsbiopsi från bröstkörtel
+#LYHENNE    Rintar.solun,ster-oh
+###
+#KOODI      HA2XT
+#MUUT_PVM   1998/11/03
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9038      
+#SUOMI      Rintarauhasen solunäytteen otto muussa radiologisessa ohjauksessa
+#RUOTSI     Radiologiskt styrd finnålsbiopsi från bröstkörtel
+#LYHENNE    Rintar.muu solunäyte
+###
+#KOODI      HA3AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Rintarauhaskystan punktio UÄ-ohjauksessa
+#RUOTSI     UL-styrd punktion av bröstkörtelcysta
+#LYHENNE    Rintar.punkt,UÄ-ohj
+###
+#KOODI      HA4AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9011      
+#SUOMI      Rintarauhasmerkkaus UÄ-ohjauksessa
+#RUOTSI     UL-styrd märkning av bröstkörteltumör
+#LYHENNE    Rintar.merkk,UÄ-ohj
+###
+#KOODI      HA4DT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9019      
+#SUOMI      Rintarauhasmerkkaus magneettiohjauksessa
+#RUOTSI     MR-styrd märkning av bröstkörteltumör
+#LYHENNE    Rintar.merkk,MK-ohj
+###
+#KOODI      HA4GT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5212      
+#SUOMI      Rintarauhasmerkkaus galaktografialla
+#RUOTSI     Galaktografistyrd märkning av bröstkörteltumör
+#LYHENNE    Rintar.merkk,galakt.
+###
+#KOODI      HA4MT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9018      
+#SUOMI      Rintarauhasmerkkaus mammografiaohjauksessa
+#RUOTSI     Mammografistyrd märkning av bröstkörteltumör
+#LYHENNE    Rintar.merkk,mammogr
+###
+#KOODI      HA4ST
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9018      
+#SUOMI      Rintarauhasmerkkaus stereotaktisessa ohjauksessa
+#RUOTSI     Stereotaktiskt styrd märkning av bröstkörteltumör
+#LYHENNE    Rintar.merkk,ster-oh
+###
+#KOODI      HA5CB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5212      
+#SUOMI      Rintarauhastiehyeen varjoainetutkimus (galaktografia)
+#RUOTSI     Galaktografi
+#LYHENNE    Galaktografia
+###
+#KOODI      HA6AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5225      
+#SUOMI      Rintarauhaspreparaatin röntgen (mammapreparaattiröntgen)
+#RUOTSI     Mammografi, preparat
+#LYHENNE    Mammapreparaatti-rtg
+###
+#KOODI_A    HAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasen aukaisut, ompelut ja koepalan otot
+#RUOTSI     Biopsi och incision av bröstkörtel
+#ENGL       Incision, suture and biopsy of mammary gland
+###
+#KOODI      HAA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9701      
+#SUOMI      Rintarauhasen aukaisu
+#RUOTSI     Incision av bröstkörtel
+#LYHENNE    Rintarauhasen aukaisu
+###
+#KOODI      HAA01
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Rintarauhasen ompelu
+#RUOTSI     Sutur av bröstkörtel
+#LYHENNE    Rintarauhasen ompelu
+###
+#KOODI      HAA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9702      
+#SUOMI      Koepalan otto rintarauhasesta
+#RUOTSI     Biopsi av bröstkörtel
+#LYHENNE    Koepalan otto rintarauhasesta
+###
+#KOODI_A    HAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasen osittaiset poistot
+#RUOTSI     Delresektion av bröstkörtel
+#ENGL       Partial excision of mammary gland
+###
+#KOODI      HAB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9703      
+#SUOMI      Rintarauhasen kudosmuutoksen tai kasvaimen poisto
+#RUOTSI     Exstirpation av förändring/tumör i bröstkörtel (inkl fistel)
+#LYHENNE    Rintarauhaskudosmuutos/kasvain poisto
+###
+#KOODI      HAB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Rintarauhastiehyen poisto mikrotekniikalla
+#RUOTSI     Mikroduktektomi i bröstkörtel
+#LYHENNE    Rintarauhastiehyen poisto mikrotekniikka
+###
+#KOODI      HAB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Nänniin aukeavan maitotiehyen poisto
+#RUOTSI     Resektion av mjölkgång
+#LYHENNE    Nänniin aukeavan maitotiehyen poisto
+#OHJE_S  
+Lactiferous duct
+#OHJE_R 
+Lactiferous duct
+###
+#KOODI      HAB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9704      
+#SUOMI      Nännin tai nänninpihan poisto
+#RUOTSI     Exstirpation av areola eller mamill
+#LYHENNE    Nännin tai nänninpihan poisto
+#OHJE_S  
+
+#OHJE_R 
+Aberrant bröstkörtel eller mammill, se HAC30
+###
+#KOODI      HAB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9703      
+#SUOMI      Rintarauhasen osan poisto, segmentaalinen
+#RUOTSI     Segmentresektion av bröstkörtel
+#LYHENNE    Rintarauhasen osan poisto,segmentaalinen
+###
+#KOODI      HAB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Rintarauhasen osan poisto, muu kuin segmentti
+#RUOTSI     Annan resektion av bröstkörtel
+#LYHENNE    Rintarauhasen osan poisto,muu kuin segm
+###
+#KOODI_A    HAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasen poistot kokonaan
+#RUOTSI     Total mastektomi
+#ENGL       Mastectomy
+###
+#KOODI      HAC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9705      
+#SUOMI      Rintarauhasen ihonalainen poisto, nännin säästävä
+#RUOTSI     Subkutan mastektomi med bevarad mamill
+#LYHENNE    Subkutaaninen mastektomia,nännin säästäv
+###
+#KOODI      HAC15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9705      
+#SUOMI      Rintarauhasen ihonalainen poisto ja nännin poisto
+#RUOTSI     Subkutan mastektomi med excision av mamill
+#LYHENNE    Subkutaaninen mastektomia,nännin poisto
+###
+#KOODI      HAC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9706      
+#SUOMI      Rintarauhasen poisto
+#RUOTSI     Mastektomi (ablatio mammae)
+#LYHENNE    Rintarauhasen poisto
+###
+#KOODI      HAC25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9708      
+#SUOMI      Rintarauhasen laaja poisto
+#RUOTSI     Radikaloperation av bröstkörtelområdet (Halsted)
+#LYHENNE    Rintarauhasen laaja poisto
+#OHJE_S  
+sis. kainalorauhasten poiston ja Halstedin leikkauksen
+#OHJE_R 
+Inkl lymfkörtelutrymning, excision av pektoralismuskler
+###
+#KOODI      HAC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Ylimääräisen rintarauhasen tai nännin poisto
+#RUOTSI     Exstirpation av aberrant bröstkörtel eller mamill
+#LYHENNE    Ylimääräisen rintarauhasen/nännin poisto
+###
+#KOODI      HAC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Muu rintarauhasen poisto kokonaan
+#RUOTSI     Annan total mastektomi
+#LYHENNE    Muu rintarauhasen poisto kokonaan
+###
+#KOODI_A    HAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasen muotoa korjaavat leikkaukset
+#RUOTSI     Rekonstruktiva och korrektiva operationer på bröst
+#ENGL       Plastic operations on breast
+###
+#KOODI      HAD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9724      
+#SUOMI      Rintarauhasen suurentaminen omalla kudoksella
+#RUOTSI     Förstoring av bröst (autolog vävnad)
+#LYHENNE    Rintarauhasen suurentaminen/oma kudos
+###
+#KOODI      HAD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9725+     
+#SUOMI      Rintarauhasen suurentaminen keinomateriaaleilla
+#RUOTSI     Förstoring av bröst med protes
+#LYHENNE    Rintarauhasen suurentaminen/keinoaine
+###
+#KOODI      HAD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9879      
+#SUOMI      Rinnan rasvaimu
+#RUOTSI     Fettsugning av bröst
+#LYHENNE    Rinnan rasvaimu
+###
+#KOODI      HAD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9722      
+#SUOMI      Rintojen pienennys ja nänninpihojen kielekesiirto
+#RUOTSI     Reduktion av bröst med transposition av areola
+#LYHENNE    Rintojen pienennys/nännien kielekesiirto
+###
+#KOODI      HAD35
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9723      
+#SUOMI      Rintojen pienennys ja nänninpihojen vapaa siirto
+#RUOTSI     Reduktion av bröst med fri transplantation av areola
+#LYHENNE    Rintojen pienennys/nännien vapaa siirto
+###
+#KOODI      HAD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Rintojen laskeuman korjausleikkaus
+#RUOTSI     Mastopexi för ptos
+#LYHENNE    Rintojen laskeuman korjausleikkaus
+###
+#KOODI      HAD45
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9721      
+#SUOMI      Nännin sisäänkääntymisen korjausleikkaus
+#RUOTSI     Korrektion av inverterad mamill
+#LYHENNE    Nännin sisäänkääntymisen korjausleikkaus
+###
+#KOODI      HAD50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Rintarauhasproteesin poisto
+#RUOTSI     Avlägsnande av inopererad bröstprotes
+#LYHENNE    Rintarauhasproteesin poisto
+###
+#KOODI      HAD55
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Rintarauhasproteesia ympäröivän kapselin aukaisu
+#RUOTSI     Kapseldiscission kring bröstprotes
+#LYHENNE    Rintarauhasproteesikapselin aukaisu
+###
+#KOODI      HAD60
+#MUUT_PVM   1997/11/10
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Rintarauhasproteesin vaihto
+#RUOTSI     Utbyte av bröstprotes
+#LYHENNE    Rintarauhasproteesin vaihto
+###
+#KOODI      HAD99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Muu rintarauhasen muotoa korjaava tai muuttavat leikkaus
+#RUOTSI     Annan rekonstruktiv eller korrektiv operation på bröst
+#LYHENNE    Muu rintarauhasen muotoleikkaus
+###
+#KOODI_A    HAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rinnan korjaaminen poiston jälkeen tai aplasian vuoksi
+#RUOTSI     Rekonstruktion av bröst (efter mastektomi eller aplasi)
+#ENGL       Reconstruction of breast
+#OHJE_S  
+Mikrokirurgisen tekniikan käyttö ilmaistaan lisäkoodilla ZXC90
+#OHJE_R 
+Mikrokirurgisk teknik anges med tilläggskod, se ZXC90
+###
+#KOODI      HAE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9725      
+#SUOMI      Leikatun rinnan korjausproteesin avulla
+#RUOTSI     Rekonstruktion av bröst med protes
+#LYHENNE    Leikatun rinnan korjausproteesin avulla
+###
+#KOODI      HAE05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9725      
+#SUOMI      Rinnan korjaus pehmytkudoksen ja proteesin avulla
+#RUOTSI     Rekonstruktion av bröst med mjukdelar och protes
+#LYHENNE    Rinnan korjaus kudoksen+proteesin avulla
+###
+#KOODI      HAE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9724      
+#SUOMI      Rinnan korjaus kielekettä tai siirrettä käyttäen
+#RUOTSI     Rekonstruktion av bröst med transplantat eller lambå
+#LYHENNE    Rinnan korjaus kielekellä/siirteellä
+###
+#KOODI      HAE20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9721      
+#SUOMI      Nännin korjaus kielekettä tai siirrettä käyttäen
+#RUOTSI     Rekonstruktion av mamill med transplantat eller hambå
+#LYHENNE    Nännin korjaus kielekellä/siirteellä
+###
+#KOODI      HAE99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9729      
+#SUOMI      Muu rinnan korjausleikkaus
+#RUOTSI     Annan rekonstruktion av bröst
+#LYHENNE    Muu rinnan korjausleikkaus
+###
+#KOODI_A    HAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintasyövän paikallisen uusiutuman leikkaukset
+#RUOTSI     Operationer vid lokalrecidiv av bröstcancer
+#ENGL       Operations for local recurrence of breast cancer
+###
+#KOODI      HAF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9710      
+#SUOMI      Rintasyövän paikallisen uusiutuman poisto
+#RUOTSI     Exstirpation av lokalrecidiv av mammarcancer
+#LYHENNE    Rintasyövän paikall uusiutuman poisto
+###
+#KOODI      HAF10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9710+     
+#SUOMI      Rintasyövän paikallisen uusiutuman poisto, korjaus kielekettä tai siirrettä käyttäen
+#RUOTSI     Excision av bröstcancerrecidiv + rekonstruktion med transplantat eller lambå
+#LYHENNE    Rintasyöpäuusiutuman poisto+kieleke/siir
+###
+#KOODI      HAF20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9710+     
+#SUOMI      Rintasyövän paikallisen uusiutuman poisto, korjaus vieraalla aineella, alloplastialla
+#RUOTSI     Excision av bröstcancerrecidiv + rekonstruktion med främmande material
+#LYHENNE    Rintasyöpäuusiutuman poisto+keinoaine
+###
+#KOODI      HAF99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9710+     
+#SUOMI      Muu rintasyövän paikallisen uusiutuman leikkaus
+#RUOTSI     Annan operation vid lokalrecidiv av bröstcancer
+#LYHENNE    Muu rintasyöpäuusiutuman leikkaus
+###
+#KOODI_A    HB0
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Muu rintarauhasen sädehoito
+#RUOTSI     Annan strålbehandling av bröstkörtel
+#ENGL       
+#OHJE_S  
+Rintakehän seinämän metastaasi kohdassa GA0
+Ihon ja ihonalaiskudoksen metastasoinnin hoito luvussa Q
+#OHJE_R 
+Metastas i bröstväggen koderas i kapitel G
+Metastas i hud och subkutan vävnad koderas i kapitel Q
+###
+#KOODI      HB000
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintarauhasen profylaktinen sädehoito
+#RUOTSI     Profylaktisk strålbehandling av bröstkörteln
+#LYHENNE    Rintarauhasen profylaktinen sädehoito
+###
+#KOODI      HB001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintarauhasen primaarikasvaimen preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i bröstkörteln
+#LYHENNE    
+###
+#KOODI      HB003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali leikkaamattoman rintarauhasen primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i bröstkörteln
+#LYHENNE    
+###
+#KOODI      HB004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintarauhasen primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i bröstkörteln
+#LYHENNE    
+###
+#KOODI      HB049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintarauhasessa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i bröstkörteln
+#LYHENNE    
+###
+#KOODI_R    HW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintarauhasleikkausten komplikaatiotoimenpiteet
+#RUOTSI     Komplikationsåtgärder av operationer på bröst
+#ENGL       Reoperations on mammary gland
+###
+#KOODI      HWA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Auenneen tai tulehtuneen rintarauhasleikkaushaavan tarkistaminen
+#RUOTSI     Revision av sårruptur/såprinfektion efter bröstoperation
+#LYHENNE    Rintarauhasleikk haavarevisio,auenn/inf
+###
+#KOODI      HWD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Uusintaleikkaus rintarauhasleikkauksen haavan vuodon vuoksi
+#RUOTSI     Reoperation p.g.a. blödning efter bröstoperation
+#LYHENNE    Rintarauhasleikk haavarevisio,vuoto
+###
+#KOODI      HWH99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9719      
+#SUOMI      Muu rintarauhasleikkauksen haavakomplikaatioleikkaus
+#RUOTSI     Annan reoperation p.g.a. komplikation efter bröstoperation
+#LYHENNE    Rintarauhasleikk haavarevisio,muu

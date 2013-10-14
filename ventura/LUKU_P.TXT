@@ -1,0 +1,9844 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU P
+
+@LUVUT_S = KAPITEL P
+
+@SUOMI_L = Verisuonet ja imusuonijärjestelmät
+
+@RUOTSI_L = Perifera kärl och lymfsystem
+
+@ENGL_L = Peripheral vessels and lymphatic system
+
+@NOTE_LF = Rintaontelon suuret verisuonet luvussa F.
+
+@NOTE_LF =
+Aivoverisuonet luvussa A.
+
+@NOTE_LF =
+Pysyvän valtimo- tai laskimokanyylin asettaminen kohdassa TPX10
+
+@NOTE_LF =
+Ohitusleikkauksissa käytetty materiaali voidaan kuvata lisäkoodilla kohdasta ZPB.
+
+@NOTE_LF =
+Tämän luvun 3 merkki kuvaa käytettyä menetelmää ja on sama kaikissa anatomisissa paikoissa.
+
+@NOTE_LS = Intrakraniella kärl, se A
+
+@NOTE_LS =
+Stora intratorakala kärl, se F
+
+@NOTE_LS =
+Implantation av artär- eller venport, se TPX10
+
+@NOTE_LS =
+Nyttjat by-pass-material kan specificeras med tilläggskod ur grupp ZPB
+
+@NOTE_LS =
+I detta kapitel anges den tillämpade ingreppstekniken av kodens tredje tecken, som är oberoende av målorganets anatomiska lokalisation
+
+@END_L = 
+
+@KOODI_R = PA
+
+@SUOMI_R = Aortan kaaresta ja sen haaroista alkavat valtimot
+
+@RUOTSI_R = Artärer avgående från aortabågen och dess grenar
+
+@ENGL_R = Arteries of aortic arch and branches
+
+@END = 
+
+@KOODI_A = PA_
+
+@NCSP_A = PAD
+
+@SUOMI_A = Aortankaaresta lähtevien valtimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi på artärer avgående från aortabågen
+
+@ENGL_A = Diagnostic radiology on arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PA1AC 
+
+@NCSP = PADC1A
+
+@SUOMI = Kaulavaltimoiden varjoainetutkimus (aortokervikaalinen angio)
+
+@RUOTSI = Aortocervikal angiografi
+
+@END = 
+
+@KOODI = PA1BC 
+
+@NCSP = PADC1A
+
+@SUOMI = Kaulavaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Aortocervikal angiografi, omfattande (1-2 selektiva injektioner)
+
+@END = 
+
+@KOODI = PA1CC 
+
+@NCSP = PADC1A
+
+@SUOMI = Kaulavaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Aortocervikal angiografi, mycket omfattande (3-4 selektiva injektioner)
+
+@END = 
+
+@KOODI = PA1AD 
+
+@NCSP = PADD1A
+
+@SUOMI = Aortan kaaren ja haarojen TT-angio
+
+@RUOTSI = Angiografi av aortabågen och dess grenar med DT
+
+@END = 
+
+@KOODI = PA1BD 
+
+@NCSP = PADD1A
+
+@SUOMI = Aortan kaaren ja haarojen laaja TT-angio
+
+@RUOTSI = Omfattande angiografi av aortabågen och dess grenar med DT
+
+@END = 
+
+@KOODI = PA6AD 
+
+@NCSP = PADD6A
+
+@SUOMI = Kaulavaltimoiden TT-angio
+
+@RUOTSI = Halsens DT angiografi
+
+@END = 
+
+@KOODI = PA6BD 
+
+@NCSP = PADD6A
+
+@SUOMI = Kaulavaltimoiden laaja  TT-angio
+
+@RUOTSI = Halsens omfattande DT angiografi
+
+@END = 
+
+@KOODI = PA6AE 
+
+@NCSP = PADE6A
+
+@SUOMI = Kaulan verisuonten UÄ
+
+@RUOTSI = Halskärlen, UL
+
+@END = 
+
+@KOODI = PA6DE 
+
+@NCSP = PADE6D
+
+@SUOMI = Kaulan valtimoiden Doppler-UÄ
+
+@RUOTSI = Halskärlen, UL med dopplerteknik
+
+@END = 
+
+@KOODI = PA2AF 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, begränsad MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2AG 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, begränsad MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA2BF 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2BG 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA2CF 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2CG 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA2DF 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA2DG 
+
+@NCSP = PADG2B
+
+@SUOMI = Pään verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Huvudets blodkärl, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA6AF 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Halsens blodkärl, begränsad MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6AG 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Halsens blodkärl, begränsad MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA6BF 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Halsens blodkärl, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6BG 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Halsens blodkärl, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA6CF 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Halsens blodkärl, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6CG 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Halsens blodkärl, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PA6DF 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Halsens blodkärl, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PA6DG 
+
+@NCSP = PADG6B
+
+@SUOMI = Kaulan verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Halsens blodkärl, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = PAA
+
+@NCSP_A = PASA
+
+@SUOMI_A = Tutkimusleikkaukset, aortan kaaren tai sen haarojen valtimot
+
+@RUOTSI_A = Exploration av artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Exploration of arteries of aortic arch and branches
+
+@NOTE_RF = Ei sisällä koepalan ottoa pinnallisesta valtimosta, ks TPX00
+
+@NOTE_RS = Exkluderar biopsi av ytliga artärer, se TPX00
+
+@END = 
+
+@KOODI = PAA06 
+
+@NCSP = PASA10
+
+@SUOMI = Tutkimusleikkaus, truncus brachiocephalicus
+
+@RUOTSI = Exploration, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAA12 
+
+@NCSP = PASA20
+
+@SUOMI = Tutkimusleikkaus, a. carotis communis
+
+@RUOTSI = Exploration, a. carotis communis
+
+@END = 
+
+@KOODI = PAA14 
+
+@NCSP = PASA21
+
+@SUOMI = Tutkimusleikkaus, a. carotis interna
+
+@RUOTSI = Exploration, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotis-bifurkationen
+
+@END = 
+
+@KOODI = PAA07 
+
+@NCSP = PASA30
+
+@SUOMI = Tutkimusleikkaus, a. subclavia
+
+@RUOTSI = Exploration, a. subclavia
+
+@END = 
+
+@KOODI = PAA99 
+
+@NCSP = PASA99
+
+@SUOMI = Tutkimusleikkaus, muu alueen ääreisvaltimo
+
+@RUOTSI = Exploration av annan perifer artär i området
+
+@NOTE_F = Koepala a. temporaliksesta, ks. PAW37
+
+@NOTE_S =  Exkluderar a. temporalis, se PAW37
+
+@END = 
+
+@KOODI_A = PAB
+
+@NCSP_A = PASB
+
+@SUOMI_A = Sitomiset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Ligaturer av artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Ligature of arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAB06 
+
+@NCSP = PASB10
+
+@SUOMI = Sitominen, truncus brachiocephalicus
+
+@RUOTSI = Ligatur, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAB12 
+
+@NCSP = PASB20
+
+@SUOMI = Sitominen, a. carotis communis
+
+@RUOTSI = Ligatur, a. carotis communis
+
+@END = 
+
+@KOODI = PAB14 
+
+@NCSP = PASB21
+
+@SUOMI = Sitominen, a. carotis interna
+
+@RUOTSI = Ligatur, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAB13 
+
+@NCSP = PASB22
+
+@SUOMI = Sitominen, a. carotis externa
+
+@RUOTSI = Ligatur, a. carotis externa
+
+@END = 
+
+@KOODI = PAB07 
+
+@NCSP = PASB30
+
+@SUOMI = Sitominen, a. subclavia
+
+@RUOTSI = Ligatur, a. subclavia
+
+@END = 
+
+@KOODI = PAB15 
+
+@NCSP = PASB40
+
+@SUOMI = Sitominen, a vertebralis
+
+@RUOTSI = Ligatur, a vertebralis
+
+@END = 
+
+@KOODI = PAB99 
+
+@NCSP = PASB99
+
+@SUOMI = Sitominen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Annan operation på artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAC
+
+@NCSP_A = PASC
+
+@SUOMI_A = Ompelemiset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Arteriorafier på artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Suture of arteries of aortic arch and branches
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Valtimoiden sisäistutteiden poistot kohdassa PAR
+
+@NOTE_RF =
+Muun aiemmassa leikkauksessa asetetun materiaalin poistot kohdassa PAU99
+
+@NOTE_RS = Inkl avlägsnande av främmande föremål
+
+@NOTE_RS =
+Uttagningar av endovaskulära implantat, se PAR
+
+@NOTE_RS =
+Avlägsnande av annat material insatt i tidigare operation, se PAU99
+
+@END = 
+
+@KOODI = PAC06 
+
+@NCSP = PASC10
+
+@SUOMI = Ompeleminen, truncus brachiocephalicus
+
+@RUOTSI = Arteriorafi, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAC12 
+
+@NCSP = PASC20
+
+@SUOMI = Ompeleminen, a. carotis communis
+
+@RUOTSI = Arteriorafi, a. carotis communis
+
+@END = 
+
+@KOODI = PAC14 
+
+@NCSP = PASC21
+
+@SUOMI = Ompeleminen, a. carotis interna
+
+@RUOTSI = Arteriorafi, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAC07 
+
+@NCSP = PASC30
+
+@SUOMI = Ompeleminen, a. subclavia
+
+@RUOTSI = Arteriorafi, a. subclavia
+
+@END = 
+
+@KOODI = PAC99 
+
+@NCSP = PASC99
+
+@SUOMI = Ompeleminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Trombendarterektomi, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAE
+
+@NCSP_A = PASE
+
+@SUOMI_A = Veritulpan tai tukoksen poistot, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Trombektomi/embolektomi ur artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Thrombectomy or embolectomy of arteries of aortic arch and branches
+
+@NOTE_RF = Embolektomiat tai trombektomiat
+
+@END = 
+
+@KOODI = PAE06 
+
+@NCSP = PASE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, truncus brachiocephalicus
+
+@RUOTSI = Trombektomi/embolektomi, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAE12 
+
+@NCSP = PASE20
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. carotis communis
+
+@RUOTSI = Trombektomi/embolektomi a. carotis communis
+
+@END = 
+
+@KOODI = PAE14 
+
+@NCSP = PASE21
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. carotis interna
+
+@RUOTSI = Trombektomi/embolektomi, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAE07 
+
+@NCSP = PASE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. subclavia
+
+@RUOTSI = Trombektomi/embolektomi a. subclavia
+
+@END = 
+
+@KOODI = PAE99 
+
+@NCSP = PASE99
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Trombektomi/embolektomi, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAF
+
+@NCSP_A = PASF
+
+@SUOMI_A = Verisuonitukoksen ja sisäkalvonpoistot, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Trombendarterektomi ur artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Thrombendarterectomy of arteries of aortic arch and branches
+
+@NOTE_RF = Trombendarterektomiat
+
+@END = 
+
+@KOODI = PAF06 
+
+@NCSP = PASF10
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, truncus brachiocephalicus
+
+@RUOTSI = Trombendarterektomi, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAF12 
+
+@NCSP = PASF20
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. carotis communis
+
+@RUOTSI = Trombendarterektomi, a. carotis communis
+
+@END = 
+
+@KOODI = PAF14 
+
+@NCSP = PASF21
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. carotis interna
+
+@RUOTSI = Trombendarterektomi, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAF13 
+
+@NCSP = PASF22
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. carotis externa
+
+@RUOTSI = Trombendarterektomi, a. carotis externa
+
+@END = 
+
+@KOODI = PAF07 
+
+@NCSP = PASF30
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. subclavia
+
+@RUOTSI = Trombendarterektomi, a. subclavia
+
+@END = 
+
+@KOODI = PAF15 
+
+@NCSP = PASF40
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a vertebralis
+
+@RUOTSI = Trombendarterektomi, a vertebralis
+
+@END = 
+
+@KOODI = PAF99 
+
+@NCSP = PASF99
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Trombendarterektomi, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAG
+
+@NCSP_A = PASG
+
+@SUOMI_A = Valtimonpullistumien leikkaukset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Aneurysmoperationer på artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Operations for aneurysm of arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAG06 
+
+@NCSP = PASG10
+
+@SUOMI = Valtimonpullistuman leikkaus, truncus brachiocephalicus
+
+@RUOTSI = Aneurysmoperation, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAG12 
+
+@NCSP = PASG20
+
+@SUOMI = Valtimonpullistuman leikkaus, a. carotis communis
+
+@RUOTSI = Aneurysmoperation, a. carotis communis
+
+@END = 
+
+@KOODI = PAG14 
+
+@NCSP = PASG21
+
+@SUOMI = Valtimonpullistuman leikkaus, a. carotis interna
+
+@RUOTSI = Aneurysmoperation, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAG07 
+
+@NCSP = PASG30
+
+@SUOMI = Valtimonpullistuman leikkaus, a. subclavia
+
+@RUOTSI = Aneurysmoperation, a. subclavia
+
+@END = 
+
+@KOODI = PAG99 
+
+@NCSP = PASG99
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Aneurysmoperation, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAH
+
+@NCSP_A = PASH
+
+@SUOMI_A = Ohitukset aortan kaaresta lähtevistä valtimoista
+
+@RUOTSI_A = By-pass från artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Bypass from arteries of aortic arch and branches
+
+@NOTE_RF = Epäanatomiset ohitukset kohdassa PG
+
+@NOTE_RF =
+Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = "Extra-anatomiska"arteriella by-pass-operationer, se PG
+
+@NOTE_RS =
+Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PAH06 
+
+@NCSP = PASH10
+
+@SUOMI = Ohitusleikkaus, lähtökohta truncus brachiocephalicus
+
+@RUOTSI = By-pass utgående från truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAH12 
+
+@NCSP = PASH20
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. carotis communis
+
+@RUOTSI = By-pass utgående från a. carotis communis
+
+@END = 
+
+@KOODI = PAH14 
+
+@NCSP = PASH21
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. carotis interna
+
+@RUOTSI = By-pass utgående från a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAH07 
+
+@NCSP = PASH30
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. subclavia
+
+@RUOTSI = By-pass utgående från a. subclavia
+
+@END = 
+
+@KOODI = PAH99 
+
+@NCSP = PASH99
+
+@SUOMI = Ohitusleikkaus, lähtökohta muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = By-pass utgående från annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAJ
+
+@NCSP_A = PASJ
+
+@SUOMI_A = Valtimoiden tyvien siirtämiset aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Transposition av artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Transposition of arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAJ07 
+
+@NCSP = PASJ30
+
+@SUOMI = Valtimon tyven siirtäminen, a subclavia
+
+@RUOTSI = Transposition av artäravgång, a subclavia
+
+@END = 
+
+@KOODI = PAJ15 
+
+@NCSP = PASJ40
+
+@SUOMI = Valtimon tyven siirtäminen, a. vertebralis
+
+@RUOTSI = Transposition av artäravgång, a. vertebralis
+
+@END = 
+
+@KOODI = PAJ99 
+
+@NCSP = PASJ99
+
+@SUOMI = Valtimon tyven siirtäminen, lähtökohta muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Transposition av artäravgång, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAK
+
+@NCSP_A = PASK
+
+@SUOMI_A = Valtimoiden uudelleen istutukset aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Reimplantation av artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Reimplantation of arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAK06 
+
+@NCSP = PASK10
+
+@SUOMI = Valtimon uudelleen istutus, truncus brachiocephalicus
+
+@RUOTSI = Reimplantation av truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAK12 
+
+@NCSP = PASK20
+
+@SUOMI = Valtimon uudelleen istutus, a. carotis communis
+
+@RUOTSI = Reimplantation av a. carotis communis
+
+@END = 
+
+@KOODI = PAK14 
+
+@NCSP = PASK21
+
+@SUOMI = Valtimon uudelleen istutus, a. carotis interna
+
+@RUOTSI = Reimplantation av a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAK07 
+
+@NCSP = PASK30
+
+@SUOMI = Valtimon uudelleen istutus, a. subclavia
+
+@RUOTSI = Reimplantation av  a. subclavia
+
+@END = 
+
+@KOODI = PAK15 
+
+@NCSP = PASK40
+
+@SUOMI = Valtimon uudelleen istutus, a. vertebralis
+
+@RUOTSI = Reimplantation av, a. vertebralis
+
+@END = 
+
+@KOODI = PAK99 
+
+@NCSP = PASK99
+
+@SUOMI = Valtimon uudelleen istutus, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Reimplantation av, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAM
+
+@NCSP_A = PASM
+
+@SUOMI_A = Valtimoavanteiden sulut, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Förslutningar av A-V fistlar från artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Closure of arteriovenous fistula of arteries of aortic arch and branches
+
+@NOTE_RF = Ei sisällä synnynnäisten valtimo-laskimoavanteiden sulkua, ks PAW99
+
+@NOTE_RS = Exkluderar medfödda A-V fistlar, se PAW99
+
+@END = 
+
+@KOODI = PAM14 
+
+@NCSP = PASM21
+
+@SUOMI = Valtimoavanteen sulku, a. carotis interna
+
+@RUOTSI = Förslutning av A-V fistel avgående från a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAM13 
+
+@NCSP = PASM22
+
+@SUOMI = Valtimoavanteen sulku, a. carotis externa
+
+@RUOTSI = Förslutning av A-V fistel avgående från a. carotis externa
+
+@END = 
+
+@KOODI = PAM07 
+
+@NCSP = PASM30
+
+@SUOMI = Valtimoavanteen sulku, a. subclavia
+
+@RUOTSI = Förslutning av A-V fistel avgående från a. subclavia
+
+@END = 
+
+@KOODI = PAM99 
+
+@NCSP = PASM99
+
+@SUOMI = Valtimoavanteen sulku, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Förslutning av A-V fistel avgående från annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAN
+
+@NCSP_A = PASN
+
+@SUOMI_A = Valtimoiden muovausleikkaukset aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Öppna plastiker på artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Plastic repair of arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAN06 
+
+@NCSP = PASN10
+
+@SUOMI = Valtimon muovausleikkaus, truncus brachiocephalicus
+
+@RUOTSI = Öppen arterioplastik, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAN12 
+
+@NCSP = PASN20
+
+@SUOMI = Valtimon muovausleikkaus, a. carotis communis
+
+@RUOTSI = Öppen arterioplastik, a. carotis communis
+
+@END = 
+
+@KOODI = PAN14 
+
+@NCSP = PASN21
+
+@SUOMI = Valtimon muovausleikkaus, a. carotis interna
+
+@RUOTSI = Öppen arterioplastik, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAN07 
+
+@NCSP = PASN30
+
+@SUOMI = Valtimon muovausleikkaus, a. subclavia
+
+@RUOTSI = Öppen arterioplastik, a. subclavia
+
+@END = 
+
+@KOODI = PAN15 
+
+@NCSP = PASN40
+
+@SUOMI = Valtimon muovausleikkaus, a. vertebralis
+
+@RUOTSI = Öppen arterioplastik, a. vertebralis
+
+@END = 
+
+@KOODI = PAN99 
+
+@NCSP = PASN99
+
+@SUOMI = Valtimon muovausleikkaus, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Öppen arterioplastik, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAP
+
+@NCSP_A = PASP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti,aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Perkutana plastiker på artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Percutaneous plastic repair of arteries of aortic arch and branches
+
+@NOTE_RF = Sis. mm. aspiraatiembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajennusta (PTA), katso PA2AT, PA2BT (aivovaltimot), PA6AT, PA6BT (kaulavaltimot), PG1AT tai PG1BT (muut valtimot)
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PA2AT, PA2BT (hjärnartärer), PA6AT, PA6BT (halsartärer), PG1AT eller PG1BT (andra artärer)
+
+@END = 
+
+@KOODI = PAP06 
+
+@NCSP = PASP10
+
+@SUOMI = Valtimon korjaaminen suljetusti, truncus brachiocephalicus
+
+@RUOTSI = Perkutan arterioplastik, truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAP12 
+
+@NCSP = PASP20
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. carotis communis
+
+@RUOTSI = Perkutan arterioplastik, a. carotis communis
+
+@NOTE_F = Kaulavaltimon PTA, katso PA6AT tai PA6BT
+
+@NOTE_S = PTA i a. carotis, se PA6AT eller PA6BT
+
+@END = 
+
+@KOODI = PAP14 
+
+@NCSP = PASP21
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. carotis interna
+
+@RUOTSI = Perkutan arterioplastik, a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_F =
+Aivovaltimon PTA, katso PA2AT tai PA2BT
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@NOTE_S =
+PTA i hjärnartär, se PA2AT eller PA2BT
+
+@END = 
+
+@KOODI = PAP07 
+
+@NCSP = PASP30
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. subclavia
+
+@RUOTSI = Perkutan arterioplastik, a. subclavia
+
+@NOTE_F = Yläraajavaltimoiden PTA, katso PB1AT tai PB1BT
+
+@NOTE_S = PTA i armens artärer, se PB1AT eller PB1BT
+
+@END = 
+
+@KOODI = PAP99 
+
+@NCSP = PASP99
+
+@SUOMI = Valtimon korjaaminen suljetusti, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Perkutan arterioplastik, annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAQ
+
+@NCSP_A = PASQ
+
+@SUOMI_A = Valtimoiden sisäistutteiden asettamiset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Inläggande av endovaskulära implantat i artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Insertion of endovascular graft into arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAQ06 
+
+@NCSP = PASQ10
+
+@SUOMI = Valtimon sisäistutteen asettaminen, truncus brachiocephalicus
+
+@RUOTSI = Inläggande av endovaskulärt implantat i truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PA6YT 
+
+@NCSP = PASQ20
+
+@SUOMI = Kaulavaltimon suonensisäinen laajennus stentillä
+
+@RUOTSI = Karotisdilatation, perkutan med stent
+
+@END = 
+
+@KOODI = PA8XT 
+
+@NCSP = PASQ20
+
+@SUOMI = Kaulavaltimon suonensisäinen laajennus stentillä, laaja
+
+@RUOTSI = Halsartär, omfattande perkutan dilatation av med stent
+
+@END = 
+
+@KOODI = PA8YT 
+
+@NCSP = PASQ20
+
+@SUOMI = Kaulavaltimon suonensisäinen laajennus stentillä, erittäin laaja
+
+@RUOTSI = Halsartär, mycket  omfattande perkutan dilatation av med stent
+
+@END = 
+
+@KOODI = PAQ12 
+
+@NCSP = PASQ20
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. carotis communis
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. carotis communis
+
+@END = 
+
+@KOODI = PA2YT 
+
+@NCSP = PASQ21
+
+@SUOMI = Aivovaltimon suonensisäinen laajennushoito (PTA) ja stentin asettaminen
+
+@RUOTSI = Hjärnartär, perkutan angioplastik (PTA) med stent
+
+@END = 
+
+@KOODI = PA7XT 
+
+@NCSP = PASQ21
+
+@SUOMI = Aivovaltimon suonensisäinen laajennushoito (PTA) ja stentin asettaminen,laaja
+
+@RUOTSI = Hjärnartär, omfattande perkutan angioplastik (PTA) med stent
+
+@END = 
+
+@KOODI = PA7YT 
+
+@NCSP = PASQ21
+
+@SUOMI = Aivovaltimon suonensisäinen laajennushoito (PTA) ja stentin asettaminen, erittäin laaja
+
+@RUOTSI = Hjärnartär, mycket omfattande perkutan angioplastik (PTA) med stent
+
+@END = 
+
+@KOODI = PAQ14 
+
+@NCSP = PASQ21
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. carotis interna
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAQ07 
+
+@NCSP = PASQ30
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. subclavia
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. subclavia
+
+@END = 
+
+@KOODI = PAQ99 
+
+@NCSP = PASQ99
+
+@SUOMI = Valtimon sisäistutteen asettaminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Inläggande av endovaskulärt implantat i annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PAR
+
+@NCSP_A = PASR
+
+@SUOMI_A = Valtimoiden sisäistutteiden poistamiset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Uttagningar av endovaskulära implantat från artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Removal of endovascular graft from arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAR06 
+
+@NCSP = PASR10
+
+@SUOMI = Valtimon sisäistutteen poistaminen, truncus brachiocephalicus
+
+@RUOTSI = Uttagning av endovaskulärt implantat från truncus brachiocephalicus
+
+@END = 
+
+@KOODI = PAR12 
+
+@NCSP = PASR20
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. carotis communis
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. carotis communis
+
+@END = 
+
+@KOODI = PAR14 
+
+@NCSP = PASR21
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. carotis interna
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. carotis interna
+
+@NOTE_F = Sisältää carotisbifurkaation
+
+@NOTE_S = Inkl carotisbifurkationen
+
+@END = 
+
+@KOODI = PAR07 
+
+@NCSP = PASR30
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. subclavia
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. subclavia
+
+@END = 
+
+@KOODI = PAR99 
+
+@NCSP = PASR99
+
+@SUOMI = Valtimon sisäistutteen poistaminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Uttagning av endovaskulärt implantat från annan artär avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI_A = PAT
+
+@NCSP_A = PAST
+
+@SUOMI_A = Kemiallisen tai tukkivan aineen ruiskuttamiset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Injektioner av skleroserande läkemedel eller ockluderande material i artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Injection of therapeutic or sclerosing agent into arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAT07 
+
+@NCSP = PAST30
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. subclavia
+
+@RUOTSI = Injection av skleroserande drog eller ockluderande material i a. subclavia
+
+@END = 
+
+@KOODI = PAT99 
+
+@NCSP = PAST99
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, muu aortan kaaresta lähtevä valtimo tai sen haara
+
+@RUOTSI = Injection av skleroserande drog eller ockluderande material iannan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PAU
+
+@NCSP_A = PASU
+
+@SUOMI_A = Valtimoiden uusintakorjaamiset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Operation sammanhängande med tidigare rekonstruktion av artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Repair after previous reconstruction of arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAU70 
+
+@NCSP = PASU70
+
+@SUOMI = Tutkimusleikkaus aortan kaaren tai sen haarojen aiempaan korjaukseen liittyen
+
+@RUOTSI = Exploration av tidigare rekonstruktion på artärer avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI = PAU81 
+
+@NCSP = PASU74
+
+@SUOMI = Veritulpan tai tukoksen poisto ohituksesta, aortan kaaresta lähtevistä valtimoista tai olkavaltimosta alkava ohitus
+
+@RUOTSI = Avlägsnande av tromb/tromboemboli från by-pass avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI = PAU72 
+
+@NCSP = PASU80
+
+@SUOMI = Aortan kaaresta lähtevistä valtimoista tai olkavaltimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen sulku
+
+@RUOTSI = Perkutan slutning av kvarstående a-v fistel i bypass från a carotis, a subclavia eller a axillaris
+
+@END = 
+
+@KOODI = PAU74 
+
+@NCSP = PASU81
+
+@SUOMI = Aortan kaaresta lähtevistä valtimoista tai olkavaltimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen sulku
+
+@RUOTSI = Slutning av kvarstående a-v fistel i bypass från a carotis, a subclavia eller a axillaris
+
+@END = 
+
+@KOODI = PAU91 
+
+@NCSP = PASU88
+
+@SUOMI = Aortan kaaresta lähtevistä valtimoista tai olkavaltimosta alkavan ohituksen poisto
+
+@RUOTSI = Avlägsnande av by-pass avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI = PAU96 
+
+@NCSP = PASU96
+
+@SUOMI = Uusintaohitus, lähtökohta aortan kaari tai sen haarat
+
+@RUOTSI = Reoperation för by-pass avgående från aortabågen eller dess grenar
+
+@END = 
+
+@KOODI = PAU99 
+
+@NCSP = PASU99
+
+@SUOMI = Muu uusintakorjaus aortan kaaresta lähtevästä valtimosta tai olkavaltimosta alkavassa valtimohaarassa
+
+@RUOTSI = Annan reoperation inom tidigare rekonstruktion av artärer avgående från aortabågen eller dess grenar
+
+@NOTE_F = Sisältää aiemmassa leikkauksessa asetetun materiaalin poiston
+
+@NOTE_F =
+Valtimoiden sisäistutteiden poistamiset kohdassa PAR
+
+@NOTE_S = Inkl avlägsnande av material insatt i tidigare operation
+
+@NOTE_S =
+Uttagningar av endovaskulära implantat, se PAR
+
+@END = 
+
+@KOODI_A = PAW
+
+@NCSP_A = PASW
+
+@SUOMI_A = Muut valtimoleikkaukset, aortan kaaresta lähtevät valtimot
+
+@RUOTSI_A = Andra operationer på artärer avgående från aortabågen och dess grenar
+
+@ENGL_A = Other operations on arteries of aortic arch and branches
+
+@END = 
+
+@KOODI = PAW99 
+
+@NCSP = PASW99
+
+@SUOMI = Muu leikkaus, aortan kaaren tai sen haaran valtimo
+
+@RUOTSI = Annan operation på artär avgående från aortabågen eller dess grenar
+
+@NOTE_F = Sisältää synnynnäisen valtimo-laskimo avanteen korjauksen
+
+@NOTE_S =  Inkl. operation för medfödd arteriö-venös fistel
+
+@END = 
+
+@KOODI_A = PA_
+
+@NCSP_A = PAX
+
+@SUOMI_A = Aortan kaaresta lähtevien valtimoiden muut toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på artärer avgående från aortabågen
+
+@ENGL_A = Other procedures on arteries of aortic arch and branches
+
+@NOTE_RF = PTA = Percutaneous transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PA8KT 
+
+@NCSP = PAXT3C
+
+@SUOMI = Carotis-valtimon suonensisäinen koetukkiminen
+
+@RUOTSI = Karotis, intravaskulär temporär ocklusion
+
+@END = 
+
+@KOODI = PA3KT 
+
+@NCSP = PAXT3K
+
+@SUOMI = Carotis-valtimon pysyvä suonensisäinen tukkiminen
+
+@RUOTSI = Karotis, permanent intravaskulär ocklusion
+
+@END = 
+
+@KOODI = PA9KT 
+
+@NCSP = PAXT4C
+
+@SUOMI = Vertebraalivaltimon suonensisäinen koetukkiminen
+
+@RUOTSI = Vertebralis artär, temporär intravaskulär ocklusion
+
+@END = 
+
+@KOODI = PA4KT 
+
+@NCSP = PAXT4K
+
+@SUOMI = Vertebraalivaltimon pysyvä suonensisäinen tukkiminen
+
+@RUOTSI = Vertebralis-artär, permanent intravaskulär ocklusion
+
+@END = 
+
+@KOODI = PA5DT 
+
+@NCSP = PAXT5D
+
+@SUOMI = Carotis externa ja/tai pään ja kaulan alueen kasvaimen embolisaatio
+
+@RUOTSI = Carotis externa-området, tumörembolisering
+
+@END = 
+
+@KOODI = PA5ET 
+
+@NCSP = PAXT5D
+
+@SUOMI = Carotis externa ja/tai pään ja kaulan alueen kasvaimen embolisaatio, laaja
+
+@RUOTSI = Carotis externa-området, omfattande tumörembolisering
+
+@END = 
+
+@KOODI = PA5FT 
+
+@NCSP = PAXT5D
+
+@SUOMI = Carotis externa ja/tai pään ja kaulan alueen kasvaimen embolisaatio, erittäin laaja
+
+@RUOTSI = Carotis externa-området, mycket omfattande tumörembolisering
+
+@END = 
+
+@KOODI = PA5GT 
+
+@NCSP = PAXT5G
+
+@SUOMI = Carotis externa-alueen av-malformation embolisaatio
+
+@RUOTSI = Carotis externa-områdets av-malformation, embolisering
+
+@END = 
+
+@KOODI = PA5HT 
+
+@NCSP = PAXT5G
+
+@SUOMI = Carotis externa-alueen av-malformation embolisaatio, laaja
+
+@RUOTSI = Carotis externa-områdets av-malformation, omfattande embolisering
+
+@END = 
+
+@KOODI = PA5JT 
+
+@NCSP = PAXT5G
+
+@SUOMI = Carotis externa-alueen av-malformation embolisaatio, erittäin laaja
+
+@RUOTSI = Carotis externa-områdets av-malformation, mycket omfattande embolisering
+
+@END = 
+
+@KOODI = PA5NT 
+
+@NCSP = PAXT5N
+
+@SUOMI = Nenäverenvuodon suonensisäinen tukkiminen
+
+@RUOTSI = Näsblödning, embolisering
+
+@END = 
+
+@KOODI = PA5PT 
+
+@NCSP = PAXT5N
+
+@SUOMI = Nenäverenvuodon suonensisäinen tukkiminen, laaja
+
+@RUOTSI = Näsblödning, omfattande embolisering
+
+@END = 
+
+@KOODI = PA5QT 
+
+@NCSP = PAXT5N
+
+@SUOMI = Nenäverenvuodon suonensisäinen tukkiminen, erittäin laaja
+
+@RUOTSI = Näsblödning, mycket omfattande embolisering
+
+@END = 
+
+@KOODI = PA6AT 
+
+@NCSP = PAXT6A
+
+@SUOMI = Kaulavaltimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Karotisangioplastik, perkutan (PTA)
+
+@END = 
+
+@KOODI = PA6BT 
+
+@NCSP = PAXT6A
+
+@SUOMI = Kaulavaltimon suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Karotisangioplastik, perkutan (PTA), omfattande
+
+@END = 
+
+@KOODI = PA6CT 
+
+@NCSP = PAXT6A
+
+@SUOMI = Kaulavaltimon suonensisäinen laajennushoito (PTA), erittäin laaja
+
+@RUOTSI = Karotisangioplastik, perkutan (PTA), mycket omfattande
+
+@END = 
+
+@KOODI = PA2ZT 
+
+@NCSP = PAXT9A
+
+@SUOMI = Vierasesineen suonensisäinen poisto pään tai kaulan alueen valtimosta
+
+@RUOTSI = Huvud- och halsregionens artär, intravaskulär avlägsnande av främmande föremål
+
+@END = 
+
+@KOODI = PAW37 
+
+@NCSP = PAXX23
+
+@SUOMI = Koepalan otto ohimovaltimosta
+
+@RUOTSI = Biopsi av temporalartär
+
+@END = 
+
+@KOODI_R = PB
+
+@SUOMI_R = Yläraajojen valtimot
+
+@RUOTSI_R = Artärer i övre extremiteten
+
+@ENGL_R = Arteries of upper extremities
+
+@END = 
+
+@KOODI_A = PB_
+
+@NCSP_A = PBD
+
+@SUOMI_A = Yläraajan valtimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av artärer i övre extemitet
+
+@ENGL_A = Diagnostic radiology on arteries of upper extremity
+
+@END = 
+
+@KOODI = PB1AC 
+
+@NCSP = PBDC1A
+
+@SUOMI = Yläraajan valtimoiden varjoainetutkimus
+
+@RUOTSI = Övre extremitet, angiografi
+
+@END = 
+
+@KOODI = PB1BC 
+
+@NCSP = PBDC1A
+
+@SUOMI = Yläraajan valtimoiden laaja varjoainetutkimus
+
+@RUOTSI = Övre extremitet, omfattande angiografi
+
+@END = 
+
+@KOODI = PB1CC 
+
+@NCSP = PBDC1A
+
+@SUOMI = Yläraajavaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Övre extremitet, mycket omfattande angiografi
+
+@END = 
+
+@KOODI = PB1AD 
+
+@NCSP = PBDD1A
+
+@SUOMI = Yläraajavaltimoiden TT-angio
+
+@RUOTSI = Övre extremiteternas DT angiografi
+
+@END = 
+
+@KOODI = PB1BD 
+
+@NCSP = PBDD1A
+
+@SUOMI = Yläraajavaltimoiden laaja TT-angio
+
+@RUOTSI = Övre extremiteternas omfattande DT angiografi
+
+@END = 
+
+@KOODI = PB1AE 
+
+@NCSP = PBDE1A
+
+@SUOMI = Yläraajan valtimoiden UÄ
+
+@RUOTSI = Artärer i övre extremitet, UL
+
+@END = 
+
+@KOODI = PB1DE 
+
+@NCSP = PBDE1D
+
+@SUOMI = Yläraajan valtimoiden Doppler-UÄ
+
+@RUOTSI = Artärer i övre extremitet, UL med dopplerteknik
+
+@END = 
+
+@KOODI_A = PBA
+
+@NCSP_A = PBSA
+
+@SUOMI_A = Tutkimusleikkaukset, yläraajojen valtimot
+
+@RUOTSI_A = Exploration av artärer i övre extremiteten
+
+@ENGL_A = Exploration of arteries of upper extremity
+
+@NOTE_RF = Ei sisällä koepalan ottoa pinnallisesta valtimosta, ks TPX00
+
+@NOTE_RS = Exkluderar biopsi av ytliga artärer, se TPX00
+
+@END = 
+
+@KOODI = PBA08 
+
+@NCSP = PBSA10
+
+@SUOMI = Tutkimusleikkaus, a. axillaris
+
+@RUOTSI = Exploration, a. axillaris
+
+@END = 
+
+@KOODI = PBA09 
+
+@NCSP = PBSA20
+
+@SUOMI = Tutkimusleikkaus, a. brachialis
+
+@RUOTSI = Exploration, a. brachialis
+
+@END = 
+
+@KOODI = PBA10 
+
+@NCSP = PBSA30
+
+@SUOMI = Tutkimusleikkaus, a. radialis
+
+@RUOTSI = Exploration, a. radialis
+
+@END = 
+
+@KOODI = PBA11 
+
+@NCSP = PBSA30
+
+@SUOMI = Tutkimusleikkaus, a. ulnaris
+
+@RUOTSI = Exploration, a. ulnaris
+
+@END = 
+
+@KOODI = PBA99 
+
+@NCSP = PBSA99
+
+@SUOMI = Tutkimusleikkaus, muu yläraajavaltimo
+
+@RUOTSI = Exploration, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBB
+
+@NCSP_A = PBSB
+
+@SUOMI_A = Sitomiset, yläraajojen valtimot
+
+@RUOTSI_A = Ligaturer av artärer i övre extremitet
+
+@ENGL_A = Ligature of arteries of upper extremity
+
+@END = 
+
+@KOODI = PBB08 
+
+@NCSP = PBSB08
+
+@SUOMI = Sitominen, a. axillaris
+
+@RUOTSI = Ligatur, a. axillaris
+
+@END = 
+
+@KOODI = PBB09 
+
+@NCSP = PBSB20
+
+@SUOMI = Sitominen, a. brachialis
+
+@RUOTSI = Ligatur, a. brachialis
+
+@END = 
+
+@KOODI = PBB10 
+
+@NCSP = PBSB30
+
+@SUOMI = Sitominen, a. radialis
+
+@RUOTSI = Ligatur, a. radialis
+
+@END = 
+
+@KOODI = PBB11 
+
+@NCSP = PBSB30
+
+@SUOMI = Sitominen, a. ulnaris
+
+@RUOTSI = Ligatur, a. ulnaris
+
+@END = 
+
+@KOODI = PBB99 
+
+@NCSP = PBSB99
+
+@SUOMI = Sitominen, muu yläraajavaltimo
+
+@RUOTSI = Ligatur, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBC
+
+@NCSP_A = PBSC
+
+@SUOMI_A = Ompelemiset, yläraajojen valtimot
+
+@RUOTSI_A = Arteriorafier på artärer i övre extremiteten
+
+@ENGL_A = Suture of arteries of upper extremity
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Muun aiemmassa leikkauksessa asetetun materiaalin poistot kohdassa PBU99
+
+@NOTE_RS = Inkl avlägsnande av främmande föremål
+
+@NOTE_RS =
+Avlägsnande av annat material insatt i tidigare operation, se PBU99
+
+@END = 
+
+@KOODI = PBC08 
+
+@NCSP = PBSC10
+
+@SUOMI = Ompeleminen, a. axillaris
+
+@RUOTSI = Arteriorafi, a. axillaris
+
+@END = 
+
+@KOODI = PBC09 
+
+@NCSP = PBSC20
+
+@SUOMI = Ompeleminen, a. brachialis
+
+@RUOTSI = Arteriorafi, a. brachialis
+
+@END = 
+
+@KOODI = PBC10 
+
+@NCSP = PBSC30
+
+@SUOMI = Ompeleminen, a. radialis
+
+@RUOTSI = Arteriorafi, a. radialis
+
+@END = 
+
+@KOODI = PBC11 
+
+@NCSP = PBSC30
+
+@SUOMI = Ompeleminen, a. ulnaris
+
+@RUOTSI = Arteriorafi, a. ulnaris
+
+@END = 
+
+@KOODI = PBC99 
+
+@NCSP = PBSC99
+
+@SUOMI = Ompeleminen, muu yläraajavaltimo
+
+@RUOTSI = Arteriorafi, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBE
+
+@NCSP_A = PBSE
+
+@SUOMI_A = Veritulpan tai tukoksen poistot, yläraajojen valtimot
+
+@RUOTSI_A = Trombektomier och tromboembolektomier ur artärer i övre extremiteten
+
+@ENGL_A = Thrombectomy or embolectomy of arteries of upper extremity
+
+@NOTE_RF = Embolektomiat tai trombektomiat
+
+@END = 
+
+@KOODI = PBE08 
+
+@NCSP = PBSE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. axillaris
+
+@RUOTSI = Trombektomi/tromboembolektomi, a. axillaris
+
+@END = 
+
+@KOODI = PBE09 
+
+@NCSP = PBSE20
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. brachialis
+
+@RUOTSI = Trombektomi/tromboembolektomi, a. brachialis
+
+@END = 
+
+@KOODI = PBE10 
+
+@NCSP = PBSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. radialis
+
+@RUOTSI = Trombektomi/tromboembolektomi, a. radialis
+
+@END = 
+
+@KOODI = PBE11 
+
+@NCSP = PBSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. ulnaris
+
+@RUOTSI = Trombektomi/tromboembolektomi, a. ulnaris
+
+@END = 
+
+@KOODI = PBE99 
+
+@NCSP = PBSE99
+
+@SUOMI = Vertulpan tai tukoksen poistaminen, muu yläraajavaltimo
+
+@RUOTSI = Trombektomi/tromboembolektomi, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBF
+
+@NCSP_A = PBSF
+
+@SUOMI_A = Verisuonitukoksen ja sisäkalvonpoistot, yläraajojen valtimot
+
+@RUOTSI_A = Trombendarterektomier ur artärer i övre extremiteten
+
+@ENGL_A = Thrombendarterectomy of arteries of upper extremity
+
+@NOTE_RF = Trombendarterektomiat
+
+@END = 
+
+@KOODI = PBF08 
+
+@NCSP = PBSF10
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. axillaris
+
+@RUOTSI = Trombendarterektomi, a. axillaris
+
+@END = 
+
+@KOODI = PBF09 
+
+@NCSP = PBSF20
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. brachialis
+
+@RUOTSI = Trombendarterektomi, a. brachialis
+
+@END = 
+
+@KOODI = PBF99 
+
+@NCSP = PBSF99
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, muu yläraajavaltimo
+
+@RUOTSI = Trombendarterektomi, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBG
+
+@NCSP_A = PBSG
+
+@SUOMI_A = Valtimonpullistumien, aneurysmien, leikkaukset, yläraajojen valtimot
+
+@RUOTSI_A = Aneurysmoperationer på artärer i övre extremiteten
+
+@ENGL_A = Operations for aneurysm of arteries of upper extremity
+
+@END = 
+
+@KOODI = PBG08 
+
+@NCSP = PBSG10
+
+@SUOMI = Verisuonipullistuman leikkaus, a. axillaris
+
+@RUOTSI = Aneurysmoperation, a. axillaris
+
+@END = 
+
+@KOODI = PBG09 
+
+@NCSP = PBSG20
+
+@SUOMI = Verisuonipullistuman leikkaus, a. brachialis
+
+@RUOTSI = Aneurysmoperation, a. brachialis
+
+@END = 
+
+@KOODI = PBG99 
+
+@NCSP = PBSG99
+
+@SUOMI = Verisuonipullistuman leikkaus, muu yläraajavaltimo
+
+@RUOTSI = Aneurysmoperation, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBH
+
+@NCSP_A = PBSH
+
+@SUOMI_A = Ohitukset yläraajojen valtimoista
+
+@RUOTSI_A = By-pass från artärer i övre extremiteten
+
+@ENGL_A = Bypass from arteries of upper extremity
+
+@NOTE_RF = Epäanatomiset ohitukset kohdassa PG
+
+@NOTE_RF =
+Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = "Extra-anatomiska"arteriella by-pass-operationer, se PG
+
+@NOTE_RS =
+Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PBH08 
+
+@NCSP = PBSH10
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. axillaris
+
+@RUOTSI = By-pass, utgående från a. axillaris
+
+@END = 
+
+@KOODI = PBH09 
+
+@NCSP = PBSH20
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. brachialis
+
+@RUOTSI = By-pass, utgående från a. brachialis
+
+@END = 
+
+@KOODI = PBH99 
+
+@NCSP = PBSH99
+
+@SUOMI = Ohitusleikkaus, lähtökohta muu yläraajavaltimo
+
+@RUOTSI = By-pass, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBL
+
+@NCSP_A = PBSL
+
+@SUOMI_A = Valtimo-laskimoavanteiden, av-fistelien, tekemiset, yläraajojen valtimot
+
+@RUOTSI_A = Anläggande av A-V fistlar utgående från artärer i övre extremiteten
+
+@ENGL_A = Construction of arteriovenous fistula from arteries of upper extremity
+
+@END = 
+
+@KOODI = PBL08 
+
+@NCSP = PBSL10
+
+@SUOMI = Valtimo-laskimoavanteen teko, a. axillaris
+
+@RUOTSI = Anläggande av A-V fistel, utgående från a. axillaris
+
+@END = 
+
+@KOODI = PBL09 
+
+@NCSP = PBSL20
+
+@SUOMI = Valtimo-laskimoavanteen teko, a. brachialis
+
+@RUOTSI = Anläggande av A-V fistel, utgående från a. brachialis
+
+@END = 
+
+@KOODI = PBL10 
+
+@NCSP = PBSL30
+
+@SUOMI = Valtimo-laskimoavanteen teko, a. radialis
+
+@RUOTSI = Anläggande av A-V fistel, utgående från a. radialis
+
+@END = 
+
+@KOODI = PBL11 
+
+@NCSP = PBSL30
+
+@SUOMI = Valtimo-laskimoavanteen, teko, a. ulnaris
+
+@RUOTSI = Anläggande av A-V fistel, utgående från a. ulnaris
+
+@END = 
+
+@KOODI = PBL99 
+
+@NCSP = PBSL99
+
+@SUOMI = Valtimo-laskimoavanteen teko, muu yläraajavaltimo
+
+@RUOTSI = Anläggande av A-V fistel, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBM
+
+@NCSP_A = PBSM
+
+@SUOMI_A = Valtimo-laskimoavanteiden, av-fistelien, sulkemiset, yläraajojen valtimot
+
+@RUOTSI_A = Förslutning av A-V fistlar utgående från artärer i övre extremiteten
+
+@ENGL_A = Closure of arteriovenous fistula of arteries of upper extremity
+
+@NOTE_RF = Ei sisällä synnynnäisten valtimo-laskimoavanteiden sulkua, ks PBW99
+
+@NOTE_RF =
+Valtimo-laskimoavanne reidessä, PEM
+
+@NOTE_RS = Exkluderar medfödda A-V fistlar, se PBW99
+
+@NOTE_RS =
+A-V fistel i låret, se PEM
+
+@END = 
+
+@KOODI = PBM08 
+
+@NCSP = PBSM10
+
+@SUOMI = Valtimo-laskimoavanteen sulku, a. axillaris
+
+@RUOTSI = Förslutning av A-V fistel, utgående från a. axillaris
+
+@END = 
+
+@KOODI = PBM09 
+
+@NCSP = PBSM20
+
+@SUOMI = Valtimo-laskimoavanteen sulku, a. brachialis
+
+@RUOTSI = Förslutning av A-V fistel, utgående från a. brachialis
+
+@END = 
+
+@KOODI = PBM10 
+
+@NCSP = PBSM30
+
+@SUOMI = Valtimo-laskimoavanteen sulku, a. radialis
+
+@RUOTSI = Förslutning av A-V fistel, utgående från a. radialis
+
+@END = 
+
+@KOODI = PBM11 
+
+@NCSP = PBSM30
+
+@SUOMI = Valtimo-laskimoavanteen sulku, a. ulnaris
+
+@RUOTSI = Förslutning av A-V fistel, utgående från a. ulnaris
+
+@END = 
+
+@KOODI = PBM99 
+
+@NCSP = PBSM99
+
+@SUOMI = Valtimo-laskimoavanteen sulku, muu yläraajavaltimo
+
+@RUOTSI = Förslutning av A-V fistel, utgående från annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBN
+
+@NCSP_A = PBSN
+
+@SUOMI_A = Valtimoiden muovausleikkaukset yläraajojen valtimot
+
+@RUOTSI_A = Öppna plastiska rekonstruktioner av artärer i övre extremiteten
+
+@ENGL_A = Plastic repair of arteries of upper extremity
+
+@END = 
+
+@KOODI = PBN08 
+
+@NCSP = PBSN10
+
+@SUOMI = Valtimon muovausleikkaus, a. axillaris
+
+@RUOTSI = Öppen arterioplastik, a. axillaris
+
+@END = 
+
+@KOODI = PBN09 
+
+@NCSP = PBSN20
+
+@SUOMI = Valtimon muovausleikkaus, a. brachialis
+
+@RUOTSI = Öppen arterioplastik, a. brachialis
+
+@END = 
+
+@KOODI = PBN99 
+
+@NCSP = PBSN99
+
+@SUOMI = Valtimon muovausleikkaus, muu yläraajan valtimo
+
+@RUOTSI = Öppen arterioplastik, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBP
+
+@NCSP_A = PBSP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, yläraajojen valtimot
+
+@RUOTSI_A = Perkutana plastiker på artärer i övre extremiteten
+
+@ENGL_A = Percutaneous plastic repair of arteries of upper extremity
+
+@NOTE_RF = Sis. mm. aspiraatioembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajennusta (PTA), katso PB1AT tai PB1BT
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PB1AT eller PB1BT
+
+@END = 
+
+@KOODI = PBP08 
+
+@NCSP = PBSP10
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. axillaris
+
+@RUOTSI = Perkutan arterioplastik, a. axillaris
+
+@END = 
+
+@KOODI = PBP09 
+
+@NCSP = PBSP20
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. brachialis
+
+@RUOTSI = Perkutan arterioplastik, a. brachialis
+
+@END = 
+
+@KOODI = PBP99 
+
+@NCSP = PBSP99
+
+@SUOMI = Valtimon korjaaminen suljetusti, muu yläraajan valtimo
+
+@RUOTSI = Perkutan arterioplastik, annan artär i övre extremiteten
+
+@END = 
+
+@KOODI_A = PBU
+
+@NCSP_A = PBSU
+
+@SUOMI_A = Yläraajavaltimoiden uusintakorjaamiset
+
+@RUOTSI_A = Reoperation inom tidigare rekonstruktion av artärer i övre extremiteten
+
+@ENGL_A = Repair after previous reconstruction of arteries of upper extremity
+
+@END = 
+
+@KOODI = PBU70 
+
+@NCSP = PBSU70
+
+@SUOMI = Tutkimusleikkaus yläraajavaltimoiden aiempaan korjaukseen liittyen
+
+@RUOTSI = Exploration av tidigare rekonstruktion på artärer i övre extremiteten
+
+@END = 
+
+@KOODI = PBU81 
+
+@NCSP = PBSU74
+
+@SUOMI = Yläraajan valtimo-laskimoavanteen veritulpan poistaminen
+
+@RUOTSI = Avlägsnande av tromb/tromboemboli ur A-V fistel i övre extremiteten
+
+@END = 
+
+@KOODI = PBU72 
+
+@NCSP = PBSU80
+
+@SUOMI = Yläraajan valtimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen sulku
+
+@RUOTSI = Perkutan slutning av kvarstående a-v fistel i bypass från artär i övre extremitet
+
+@END = 
+
+@KOODI = PBU74 
+
+@NCSP = PBSU81
+
+@SUOMI = Yläraajan valtimosta alkavan ohituksenaiheuttaman valtimo-laskimoavanteen sulku
+
+@RUOTSI = Slutning av kvarstående a-v fistel i bypass från artär i övre extremitet
+
+@END = 
+
+@KOODI = PBU84 
+
+@NCSP = PBSU82
+
+@SUOMI = Yläraajan valtimo-laskimoavanteen korjaus
+
+@RUOTSI = Öppen plastisk revision av A-V fistel i övre extremiteten
+
+@END = 
+
+@KOODI = PBU85 
+
+@NCSP = PBSU83
+
+@SUOMI = Yläraajan valtimo-laskimoavanteen suonensisäinen korjaus
+
+@RUOTSI = Perkutan revision av A-V fistel i övre extremiteten
+
+@NOTE_F = esim. PTA ja stentti
+
+@NOTE_S = T.ex. PTA och stent
+
+@END = 
+
+@KOODI = PBU91 
+
+@NCSP = PBSU89
+
+@SUOMI = Yläraajan valtimosta alkavan ohituksen poisto
+
+@RUOTSI = Avlägsnande av by-pass utgående från artär i övre extremiteten
+
+@NOTE_F = Sisältää sitomisen
+
+@NOTE_S = Inkl. ligatur
+
+@END = 
+
+@KOODI = PBU99 
+
+@NCSP = PBSU99
+
+@SUOMI = Muu yläraajavaltimon uusintakorjaus
+
+@RUOTSI = Annan operation inom tidigare rekonstruktion av artärer i övre extremiteten
+
+@NOTE_F = Sisältää aiemmassa leikkauksessa asetetun materiaalin poiston
+
+@NOTE_S = Inkl avlägsnande av material insatt i tidigare operation
+
+@END = 
+
+@KOODI_A = PBW
+
+@NCSP_A = PBSW
+
+@SUOMI_A = Muut yläraajavaltimon leikkaukset
+
+@RUOTSI_A = Andra operationer på artärer i övre extremiteten
+
+@ENGL_A = Other operations on arteries of upper extremity
+
+@END = 
+
+@KOODI = PBW99 
+
+@NCSP = PBSW99
+
+@SUOMI = Muu yläraajavaltimon leikkaus
+
+@RUOTSI = Annan operation på artär i övre extremiteten
+
+@NOTE_F = Sisältää synnynnäisen valtimo-laskimo avanteen korjauksen
+
+@NOTE_S =  Innefattar korrigering av medfödd arteriovenös fistel
+
+@END = 
+
+@KOODI_A = PB_
+
+@NCSP_A = PBX
+
+@SUOMI_A = Muut yläraajavaltimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på artärer i övre extremität
+
+@ENGL_A = Other procedures on arteries of upper extremity
+
+@NOTE_RF = PTA = Percutan, transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PB1AT 
+
+@NCSP = PBXT1A
+
+@SUOMI = Yläraajavaltimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Armartär, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PB1BT 
+
+@NCSP = PBXT1A
+
+@SUOMI = Yläraajavaltimon suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Armartär, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PB1ST 
+
+@NCSP = PBXT1S
+
+@SUOMI = Yläraajavaltimon selektiivinen liuotushoito
+
+@RUOTSI = Armartär, selektiv trombolys
+
+@END = 
+
+@KOODI_R = PC
+
+@SUOMI_R = Vatsa-aortan yläosa ja sisäelinvaltimot
+
+@RUOTSI_R = Suprarenal bukaorta och visceralartärer
+
+@ENGL_R = Suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = Vatsa-aortta munuaisvaltimotasoon saakka
+
+@NOTE_RF =
+Torakoabdominaaliset aorttaleikkaukset kohdassa FCD
+
+@NOTE_RF =
+
+
+@NOTE_RS = Bukaortta nertill njuratären
+
+@NOTE_RS =
+Torakoabdominala operationer på aortan, se FCD
+
+@END = 
+
+@KOODI_A = PC_
+
+@NCSP_A = PCD
+
+@SUOMI_A = Vatsa-aortan yläosan ja sisäelinvalltimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av suprarenal aorta och visceralartärer
+
+@ENGL_A = Diagnostic radiology on suprarenal abdominal aorta and visceral arteries
+
+@END = 
+
+@KOODI = PC1AC 
+
+@NCSP = PCDC1A
+
+@SUOMI = Vatsa-aortan ja aortan haarojen varjoainetutkimus
+
+@RUOTSI = Aorta och bukartärer, angiografi
+
+@END = 
+
+@KOODI = PC1BC 
+
+@NCSP = PCDC1A
+
+@SUOMI = Vatsa-aortan ja aortan haarojen laaja varjoainetutkimus
+
+@RUOTSI = Aorta och bukartärer, omfattande angiografi
+
+@END = 
+
+@KOODI = PC1CC 
+
+@NCSP = PCDC1A
+
+@SUOMI = Vatsa-aortan ja aortan haarojen erittäin laaja varjoainetutkimus
+
+@RUOTSI = Aorta och bukartärer, mycket omfattande angiografi
+
+@END = 
+
+@KOODI = PC1SC 
+
+@NCSP = PCDC1S
+
+@SUOMI = Haiman valtimoiden varjoainetutkimus *
+
+@RUOTSI = Pankreasangiografi *
+
+@END = 
+
+@KOODI = PC2SC 
+
+@NCSP = PCDC2S
+
+@SUOMI = Maksan valtimoiden varjoainetutkimus *
+
+@RUOTSI = Leverangiografi *
+
+@END = 
+
+@KOODI = PC3SC 
+
+@NCSP = PCDC3S
+
+@SUOMI = Pernan valtimoiden ja porttilaskimon varjoainetutkimus *
+
+@RUOTSI = Mjältangiografi *
+
+@END = 
+
+@KOODI = PC4SC 
+
+@NCSP = PCDC4S
+
+@SUOMI = Suoliston valtimoiden varjoainetutkimus *
+
+@RUOTSI = Tarmangiografi *
+
+@END = 
+
+@KOODI = PC5SC 
+
+@NCSP = PCDC5S
+
+@SUOMI = Munuaisvaltimoiden selektiivinen varjoainetutkimus *
+
+@RUOTSI = Njurangiografi *
+
+@END = 
+
+@KOODI = PC6AC 
+
+@NCSP = PCDC6A
+
+@SUOMI = Spinaalialueen angiografia
+
+@RUOTSI = Spinal angiografi
+
+@END = 
+
+@KOODI = PC6BC 
+
+@NCSP = PCDC6A
+
+@SUOMI = Spinaalialueen angiografia, laaja
+
+@RUOTSI = Spinal angiografi, omfattande
+
+@END = 
+
+@KOODI = PC6CC 
+
+@NCSP = PCDC6A
+
+@SUOMI = Spinaalialueen angiografia, erittäin laaja
+
+@RUOTSI = Spinal angiografi, mycket omfattande
+
+@END = 
+
+@KOODI = PD5AD 
+
+@NCSP = PCDD0A
+
+@SUOMI = Aortan TT
+
+@RUOTSI = Aortas DT
+
+@NOTE_F = Tutkimus kohdistuu aorttaan sekä rinta- että vatsaontelon alueella
+
+@NOTE_S = Undersökningen riktar sig mot aorta i både thorakala och abdominala regionen
+
+@END = 
+
+@KOODI = PD5BD 
+
+@NCSP = PCDD0A
+
+@SUOMI = Aortan laaja TT
+
+@RUOTSI = Aortas omfattande DT
+
+@END = 
+
+@KOODI = PD1AD 
+
+@NCSP = PCDD1A
+
+@SUOMI = Vatsa-aortan ja haarojen TT
+
+@RUOTSI = Bukaorta och dess grenar, DT
+
+@END = 
+
+@KOODI = PD1BD 
+
+@NCSP = PCDD1A
+
+@SUOMI = Vatsa-aortan ja haarojen laaja TT
+
+@RUOTSI = Bukaorta och dess grenar, omfattande DT
+
+@END = 
+
+@KOODI = PD1CD 
+
+@NCSP = PCDD1A
+
+@SUOMI = Vatsa-aortan ja haarojen erittäin laaja TT
+
+@RUOTSI = Bukaorta och dess grenar, mycket omfattande DT
+
+@END = 
+
+@KOODI = PC3AD 
+
+@NCSP = PCDD3A
+
+@SUOMI = Pernan TT-angio
+
+@RUOTSI = Mjältets DT angiografi
+
+@END = 
+
+@KOODI = PC3BD 
+
+@NCSP = PCDD3A
+
+@SUOMI = Pernan laaja TT-angio
+
+@RUOTSI = Mjältets omfattande DT angiografi
+
+@END = 
+
+@KOODI = PC4AD 
+
+@NCSP = PCDD4A
+
+@SUOMI = Suoliston TT-angio
+
+@RUOTSI = Tarmkanalens DT angiografi
+
+@END = 
+
+@KOODI = PC4BD 
+
+@NCSP = PCDD4A
+
+@SUOMI = Suoliston laaja TT-angio
+
+@RUOTSI = Tarmkanalens DT omfattande angiografi
+
+@END = 
+
+@KOODI = PC5AD 
+
+@NCSP = PCDD5A
+
+@SUOMI = Munuaisten TT-angio
+
+@RUOTSI = Njurarnas DT angiografi
+
+@END = 
+
+@KOODI = PC5BD 
+
+@NCSP = PCDD5A
+
+@SUOMI = Munuaisten laaja TT-angio
+
+@RUOTSI = Njurarnas omfattande DT angiografi
+
+@END = 
+
+@KOODI = PC2DE 
+
+@NCSP = PCDE2D
+
+@SUOMI = Maksan valtimoiden ja laskimoiden Doppler-UÄ
+
+@RUOTSI = Leverkärlen, UL med Doppler teknik
+
+@END = 
+
+@KOODI = PC4DE 
+
+@NCSP = PCDE4D
+
+@SUOMI = Suoliston valtimoiden ja laskimoiden Doppler-UÄ
+
+@RUOTSI = Tarmkärlen, UL med Doppler teknik
+
+@END = 
+
+@KOODI = PC5DE 
+
+@NCSP = PCDE5A
+
+@SUOMI = Munuaisvaltimoiden ja laskimoiden Doppler-UÄ
+
+@RUOTSI = Njurkärlen, UL med Doppler teknik
+
+@END = 
+
+@KOODI = PC4BF 
+
+@NCSP = PCDG4B
+
+@SUOMI = Vatsaontelon verisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bukens blodkärl, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC4BG 
+
+@NCSP = PCDG4B
+
+@SUOMI = Vatsaontelon verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bukens blodkärl, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PC4CF 
+
+@NCSP = PCDG4B
+
+@SUOMI = Vatsaontelon verisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bukens blodkärl, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC4CG 
+
+@NCSP = PCDG4B
+
+@SUOMI = Vatsaontelon verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bukens blodkärl, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PC4DF 
+
+@NCSP = PCDG4B
+
+@SUOMI = Vatsaontelon verisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bukens blodkärl, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC4DG 
+
+@NCSP = PCDG4B
+
+@SUOMI = Vatsaontelon verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bukens blodkärl, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PC5BF 
+
+@NCSP = PCDG5B
+
+@SUOMI = Munuaisverisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Njurarnas blodkärl, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC5BG 
+
+@NCSP = PCDG5B
+
+@SUOMI = Munuaisverisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Njurarnas blodkärl, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PC5CF 
+
+@NCSP = PCDG5B
+
+@SUOMI = Munuaisverisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Njurarnas blodkärl, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC5CG 
+
+@NCSP = PCDG5B
+
+@SUOMI = Munuaisverisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Njurarnas blodkärl, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PC5DF 
+
+@NCSP = PCDG5B
+
+@SUOMI = Munuaisverisuonten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Njurarnas blodkärl, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PC5DG 
+
+@NCSP = PCDG5B
+
+@SUOMI = Munuaisverisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Njurarnas blodkärl, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = PCA
+
+@NCSP_A = PCSA
+
+@SUOMI_A = Tutkimusleikkaukset, sisäelinvaltimot
+
+@RUOTSI_A = Explorativa ingrepp på visceralartärer
+
+@ENGL_A = Exploration of visceral arteries
+
+@END = 
+
+@KOODI = PCA19 
+
+@NCSP = PCSA40
+
+@SUOMI = Tutkimusleikkaus, munuaisvaltimo, a. renalis
+
+@RUOTSI = Exploration, a. renalis
+
+@END = 
+
+@KOODI = PCA99 
+
+@NCSP = PCSA99
+
+@SUOMI = Tutkimusleikkaus, muu sisäelinvaltimo
+
+@RUOTSI = Exploration, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCB
+
+@NCSP_A = PCSB
+
+@SUOMI_A = Sitomiset, sisäelinvaltimot
+
+@RUOTSI_A = Ligaturer av visceralartärer
+
+@ENGL_A = Ligature of visceral arteries
+
+@END = 
+
+@KOODI = PCB16 
+
+@NCSP = PCSB20
+
+@SUOMI = Sitominen, truncus coeliacus tai sen haara
+
+@RUOTSI = Ligatur, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCB17 
+
+@NCSP = PCSB30
+
+@SUOMI = Sitominen, a. mesenterica superior
+
+@RUOTSI = Ligatur, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCB19 
+
+@NCSP = PCSB40
+
+@SUOMI = Sitominen, a. renalis
+
+@RUOTSI = Ligatur, a. renalis
+
+@END = 
+
+@KOODI = PCB99 
+
+@NCSP = PCSB99
+
+@SUOMI = Sitominen, muu sisäelinvaltimo
+
+@RUOTSI = Ligatur, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCC
+
+@NCSP_A = PCSC
+
+@SUOMI_A = Ompelemiset, vatsa-aortan yläosa tai sisäelinvaltimot
+
+@RUOTSI_A = Arteriorafier på suprarenala bukaortan och visceralartärerna
+
+@ENGL_A = Suture of suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Valtimoiden sisäistutteiden poistot kohdassa PCR
+
+@NOTE_RF =
+Muun aiemmassa leikkauksessa asetetun materiaalin poistot kohdassa PCU99
+
+@NOTE_RS = Inkl avlägsnande av främmande föremål
+
+@NOTE_RS =
+Uttagning av endovaskulära implantat, se PCR
+
+@NOTE_RS =
+Avlägsnande av annat material insatt i tidigare operation, se PCU99
+
+@END = 
+
+@KOODI = PCC04 
+
+@NCSP = PCSC10
+
+@SUOMI = Ompeleminen, vatsa-aortta munuaisvaltimotaso tai ylempää
+
+@RUOTSI = Arteriorafi, suprarenala bukaortan
+
+@END = 
+
+@KOODI = PCC16 
+
+@NCSP = PCSC20
+
+@SUOMI = Ompeleminen, truncus coeliacus tai sen haara
+
+@RUOTSI = Arteriorafi, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCC17 
+
+@NCSP = PCSC30
+
+@SUOMI = Ompeleminen, a. mesenterica superior
+
+@RUOTSI = Arteriorafi, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCC19 
+
+@NCSP = PCSC40
+
+@SUOMI = Ompeleminen, a. renalis
+
+@RUOTSI = Arteriorafi, a. renalis
+
+@END = 
+
+@KOODI = PCC99 
+
+@NCSP = PCSC99
+
+@SUOMI = Ompeleminen, muu sisäelinvaltimo
+
+@RUOTSI = Arteriorafi, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCE
+
+@NCSP_A = PCSE
+
+@SUOMI_A = Veritulpan tai tukoksen poistot, vatsa-aortan yläosa tai sisäelinvaltimot
+
+@RUOTSI_A = Trombektomier eller trombo-embolektomier ur visceralartärerna
+
+@ENGL_A = Thrombectomy or embolectomy of visceral arteries
+
+@NOTE_RF = Embolektomiat tai trombektomiat
+
+@END = 
+
+@KOODI = PCE17 
+
+@NCSP = PCSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. mesenterica superior
+
+@RUOTSI = Trombektomi eller trombo-embolektomi, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCE19 
+
+@NCSP = PCSE40
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. renalis
+
+@RUOTSI = Trombektomi eller trombo-embolektomi, a. renalis
+
+@END = 
+
+@KOODI = PCE99 
+
+@NCSP = PCSE99
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, muu sisäelinvaltimo
+
+@RUOTSI = Trombektomi eller trombo-embolektomi, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCF
+
+@NCSP_A = PCSF
+
+@SUOMI_A = Verisuonitukoksen ja sisäkalvonpoistot, vatsa-aortan yläosa tai sisäelinvaltimo
+
+@RUOTSI_A = Trombendarterektomier ur visceralartärer
+
+@ENGL_A = Thrombendarterectomy of visceral arteries
+
+@NOTE_RF = Trombendarterektomiat
+
+@END = 
+
+@KOODI = PCF16 
+
+@NCSP = PCSF20
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, truncus coeliacus tai sen haara
+
+@RUOTSI = Trombendarterektomi, truncus coeliacus eller dess gren
+
+@END = 
+
+@KOODI = PCF17 
+
+@NCSP = PCSF30
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. mesenterica superior
+
+@RUOTSI = Trombendarterektomi, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCF19 
+
+@NCSP = PCSF40
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. renalis
+
+@RUOTSI = Trombendarterektomi, a. renalis
+
+@END = 
+
+@KOODI = PCF99 
+
+@NCSP = PCSF99
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, muu sisäelinvaltimo
+
+@RUOTSI = Trombendarterektomi, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCG
+
+@NCSP_A = PCSG
+
+@SUOMI_A = Valtimonpullistumien korjaamiset, vatsa-aortan yläosa tai sisäelinvaltimot
+
+@RUOTSI_A = Aneurysmoperationer på suprarenala bukaortan och visceralartärerna
+
+@ENGL_A = Operations for aneurysm of suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = Leikkauksen kiireellisyys voindaan ilmaista lisäkoodilla ryhmästä ZXD
+
+@NOTE_RS = Ingreppets angelägenhetsgrad kan anges med tilläggskod ur grupp ZXD
+
+@END = 
+
+@KOODI = PCG04 
+
+@NCSP = PCSG10
+
+@SUOMI = Valtimonpullistuman korjaaminen, vatsa-aortta munuaisvaltimotaso tai ylempi
+
+@RUOTSI = Aneurysmoperation, suprarenala bukaortan
+
+@END = 
+
+@KOODI = PCG16 
+
+@NCSP = PCSG20
+
+@SUOMI = Valtimonpullistuman korjaaminen, truncus coeliacus tai sen haara
+
+@RUOTSI = Aneurysmoperation, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCG17 
+
+@NCSP = PCSG30
+
+@SUOMI = Valtimonpullistuman korjaaminen, a. mesenterica superior
+
+@RUOTSI = Aneurysmoperation, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCG19 
+
+@NCSP = PCSG40
+
+@SUOMI = Valtimonpullistuman korjaaminen, a. renalis
+
+@RUOTSI = Aneurysmoperation, a. renalis
+
+@END = 
+
+@KOODI = PCG99 
+
+@NCSP = PCSG99
+
+@SUOMI = Valtimonpullistuman korjaaminen, muu sisäelinvaltimo
+
+@RUOTSI = Aneurysmoperation, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCH
+
+@NCSP_A = PCSH
+
+@SUOMI_A = Ohitukset vatsa-aortan yläosasta tai sisäelinvaltimoista
+
+@RUOTSI_A = By-pass-operationer utgående från suprarenala bukaortan eller  visceralartärerna
+
+@ENGL_A = Bypass from suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = Epäanatomiset ohitukset kohdassa PG
+
+@NOTE_RF =
+Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = "Extra-anatomiska"arteriella by-pass-operationer, se PG
+
+@NOTE_RS =
+Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PCH04 
+
+@NCSP = PCSH10
+
+@SUOMI = Ohitusleikkaus, lähtökohta vatsa-aortan yläosa
+
+@RUOTSI = By-pass-operation, utgående från suprarenala bukaortan
+
+@END = 
+
+@KOODI = PCH16 
+
+@NCSP = PCSH20
+
+@SUOMI = Ohitusleikkaus, lähtökohta truncus coeliacus tai sen haara
+
+@RUOTSI = By-pass-operation, utgående från truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCH17 
+
+@NCSP = PCSH30
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. mesenterica superior
+
+@RUOTSI = By-pass-operation, utgående från  a. mesenterica superior
+
+@END = 
+
+@KOODI = PCH19 
+
+@NCSP = PCSH40
+
+@SUOMI = Ohitusleikkaus, lähtökohta a. renalis
+
+@RUOTSI = By-pass-operation, utgående från a. renalis
+
+@END = 
+
+@KOODI = PCH99 
+
+@NCSP = PCSH99
+
+@SUOMI = Ohitusleikkaus, lähtökohta muu sisäelinvaltimo
+
+@RUOTSI = By-pass-operation, utgående från annan visceralartär
+
+@END = 
+
+@KOODI_A = PCJ
+
+@NCSP_A = PCSJ
+
+@SUOMI_A = Valtimoiden tyvien siirtämiset sisäelinvaltimot
+
+@RUOTSI_A = Transpositioner av visceralartärer
+
+@ENGL_A = Transposition of visceral arteries
+
+@END = 
+
+@KOODI = PCJ17 
+
+@NCSP = PCSJ30
+
+@SUOMI = Valtimon tyven siirtäminen, a. mesenterica superior
+
+@RUOTSI = Transposition, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCJ19 
+
+@NCSP = PCSJ40
+
+@SUOMI = Valtimon tyven siirtäminen, a. renalis
+
+@RUOTSI = Transposition, a. renalis
+
+@END = 
+
+@KOODI = PCJ99 
+
+@NCSP = PCSJ99
+
+@SUOMI = Valtimon tyven siirtäminen, muu sisäelinvaltimo
+
+@RUOTSI = Transposition, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCK
+
+@NCSP_A = PCSK
+
+@SUOMI_A = Valtimoiden uudelleen istutukset sisäelinvaltimot
+
+@RUOTSI_A = Reimplantationer av visceralartärer
+
+@ENGL_A = Reimplantation of visceral arteries
+
+@END = 
+
+@KOODI = PCK16 
+
+@NCSP = PCSK20
+
+@SUOMI = Valtimon uudelleen istutus, truncus coeliacus tai sen haara
+
+@RUOTSI = Reimplantation, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCK17 
+
+@NCSP = PCSK30
+
+@SUOMI = Valtimon uudelleen istutus, a. mesenterica superior
+
+@RUOTSI = Reimplantation, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCK18 
+
+@NCSP = PCSK40
+
+@SUOMI = Valtimon uudelleen istutus, a. mesenterica inferior
+
+@RUOTSI = Reimplantation, a. mesenterica inferior
+
+@END = 
+
+@KOODI = PCK19 
+
+@NCSP = PCSK50
+
+@SUOMI = Valtimon uudelleen istutus, a. renalis
+
+@RUOTSI = Reimplantation, a. renalis
+
+@END = 
+
+@KOODI = PCK99 
+
+@NCSP = PCSK99
+
+@SUOMI = Valtimon uudelleen istutus, muu sisäelinvaltimo
+
+@RUOTSI = Reimplantation, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCN
+
+@NCSP_A = PCSN
+
+@SUOMI_A = Valtimoiden muovausleikkaukset sisäelinvaltimot
+
+@RUOTSI_A = Öppna plastiker på visceralartärer
+
+@ENGL_A = Plastic repair of visceral arteries
+
+@END = 
+
+@KOODI = PCN16 
+
+@NCSP = PCSN20
+
+@SUOMI = Valtimon muovausleikkaus, truncus coeliacus tai sen haara
+
+@RUOTSI = Öppen arterioplastik, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCN17 
+
+@NCSP = PCSN30
+
+@SUOMI = Valtimon muovausleikkaus, a. mesenterica superior
+
+@RUOTSI = Öppen arterioplastik, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCN19 
+
+@NCSP = PCSN40
+
+@SUOMI = Valtimon muovausleikkaus, a. renalis
+
+@RUOTSI = Öppen arterioplastik, a. renalis
+
+@END = 
+
+@KOODI = PCN99 
+
+@NCSP = PCSN99
+
+@SUOMI = Valtimon muovausleikkaus, muu sisäelinvaltimo
+
+@RUOTSI = Öppen arterioplastik, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCP
+
+@NCSP_A = PCSP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, sisäelinvaltimot
+
+@RUOTSI_A = Perkutana plastiker på visceralartärer
+
+@ENGL_A = Percutaneous plastic repair of visceral arteries
+
+@NOTE_RF = Sis. mm. aspiraatioembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajenusta (PTA), katso PD1AT, PD1BT (aortta), PC5AT, PC5BT (a.renalis) PG1AT tai PG1BT (muu valtimo)
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PD1AT,  PD1BT (aortta),  PC5AT, PC5BT (a. renalis), PG1AT eller PG1BT (annan artär)
+
+@END = 
+
+@KOODI = PCP16 
+
+@NCSP = PCSP20
+
+@SUOMI = Valtimon korjaaminen suljetusti, truncus coeliacus tai sen haara
+
+@RUOTSI = Perkutan arterioplastik, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCP17 
+
+@NCSP = PCSP30
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. mesenterica superior
+
+@RUOTSI = Perkutan arterioplastik, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCP19 
+
+@NCSP = PCSP40
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. renalis
+
+@RUOTSI = Perkutan arterioplastik, a. renalis
+
+@NOTE_F = A. renaliksen PTA, katso PC5AT tai PC5BT
+
+@NOTE_S = PTA i a. renalis, se PC5AT eller PC5BT
+
+@END = 
+
+@KOODI = PCP99 
+
+@NCSP = PCSP99
+
+@SUOMI = Valtimon korjaaminen suljetusti, muu sisäelinvaltimo
+
+@RUOTSI = Perkutan arterioplastik, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCQ
+
+@NCSP_A = PCSQ
+
+@SUOMI_A = Valtimoiden sisäistutteiden asettamiset, sisäelinvaltimot
+
+@RUOTSI_A = Inläggande av endovaskulära implantat i visceralartärer
+
+@ENGL_A = Insertion of endovascular graft into visceral arteries
+
+@END = 
+
+@KOODI = PCQ04 
+
+@NCSP = PCSQ10
+
+@SUOMI = Sisäistutteen asentaminen munuaisvaltimon yläpuoliseen vatsa-aorttaan
+
+@RUOTSI = Insertion av endovaskulär graft i suprarenal abdominal aorta
+
+@END = 
+
+@KOODI = PCQ16 
+
+@NCSP = PCSQ20
+
+@SUOMI = Valtimon sisäistutteen asettaminen, truncus coeliacus tai sen haara
+
+@RUOTSI = Inläggande av endovaskulärt implantat, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCQ17 
+
+@NCSP = PCSQ30
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. mesenterica superior
+
+@RUOTSI = Inläggande av endovaskulärt implantat, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCQ19 
+
+@NCSP = PCSQ40
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. renalis
+
+@RUOTSI = Inläggande av endovaskulärt implantat, a. renalis
+
+@END = 
+
+@KOODI = PCQ99 
+
+@NCSP = PCSQ99
+
+@SUOMI = Valtimon sisäistutteen asettaminen, muu sisäelinvaltimo
+
+@RUOTSI = Inläggande av endovaskulärt implantat, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCR
+
+@NCSP_A = PCSR
+
+@SUOMI_A = Valtimoiden sisäistutteiden poistamiset, sisäelinvaltimot
+
+@RUOTSI_A = Uttagning av endovaskulärt implantat ur visceralartärer
+
+@ENGL_A = Removal of endovascular graft from visceral arteries
+
+@END = 
+
+@KOODI = PCR04 
+
+@NCSP = PCSR10
+
+@SUOMI = Sisäistutteen poistaminen munuaisvaltimoiden yläpuolisesta vatsa-aortasta
+
+@RUOTSI = Avlägsnande av endovaskulär graft från suprarenal abdominal aorta
+
+@END = 
+
+@KOODI = PCR16 
+
+@NCSP = PCSR20
+
+@SUOMI = Valtimon sisäistutteen poistaminen, truncus coeliacus tai sen haara
+
+@RUOTSI = Borttagning av endovaskulärt implantat, truncus coeliacus eller gren därav
+
+@END = 
+
+@KOODI = PCR17 
+
+@NCSP = PCSR30
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. mesenterica superior
+
+@RUOTSI = Borttagning av endovaskulärt implantat, a. mesenterica superior
+
+@END = 
+
+@KOODI = PCR19 
+
+@NCSP = PCSR40
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. renalis
+
+@RUOTSI = Borttagning av endovaskulärt implantat, a. renalis
+
+@END = 
+
+@KOODI = PCR99 
+
+@NCSP = PCSR99
+
+@SUOMI = Valtimon sisäistutteen poistaminen, muu sisäelinvaltimo
+
+@RUOTSI = Borttagning av endovaskulärt implantat, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCS
+
+@NCSP_A = PCSS
+
+@SUOMI_A = Verisuonileikkaukset tähystyksessä tai ultraääniohjauksessa, sisäelinvaltimot
+
+@RUOTSI_A = Endoskopiska eller ultraljudsstyrda operationer på visceralartärer
+
+@ENGL_A = Endoscopic operation on visceral arteries
+
+@END = 
+
+@KOODI = PCS19 
+
+@NCSP = PCSS40
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, a. renalis
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation, a. renalis
+
+@END = 
+
+@KOODI = PCS99 
+
+@NCSP = PCSS99
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, muu sisäelinvaltimo
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation, annan visceralartär
+
+@END = 
+
+@KOODI_A = PCT
+
+@NCSP_A = PCST
+
+@SUOMI_A = Kemiallisen tai tukkivan aineen ruiskuttamiset, sisäelinvaltimot
+
+@RUOTSI_A = Injektion av läkemedel eller ockluderande material i visceralartärer
+
+@ENGL_A = Injection of therapeutic or sclerosing agent into visceral arteries
+
+@END = 
+
+@KOODI = PCT16 
+
+@NCSP = PCST20
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, truncus coeliacus tai sen haara
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i truncus coeliacus eller dess grenar
+
+@END = 
+
+@KOODI = PCT17 
+
+@NCSP = PCST30
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. mesenterica superior
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. mesenterica superior
+
+@END = 
+
+@KOODI = PCT19 
+
+@NCSP = PCST40
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. renalis
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. renalis
+
+@END = 
+
+@KOODI = PCT99 
+
+@NCSP = PCST99
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, muu sisäelinvaltimo
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i annan visceralartära
+
+@END = 
+
+@KOODI_A = PCU
+
+@NCSP_A = PCSU
+
+@SUOMI_A = Valtimoiden uusintakorjaamiset, vatsa-aortan yläosa tai sisäelinvaltimot
+
+@RUOTSI_A = Reoperationer inom tidigare rekonstruktioner på suprarenala bukaorta och visceralartärer
+
+@ENGL_A = Repair after previous reconstruction of suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RS = Torakoabdominala operationer på aorta, se FCD
+
+@END = 
+
+@KOODI = PCU70 
+
+@NCSP = PCSU70
+
+@SUOMI = Tutkimusleikkaus vatsa-aortan yläosan tai sisäelinvaltimoiden aiempaan korjaukseen liittyen
+
+@RUOTSI = Exploration av tidigare rekonstruktion på suprarenala bukaorta eller visceralartärer
+
+@END = 
+
+@KOODI = PCU81 
+
+@NCSP = PCSU74
+
+@SUOMI = Veritulpan tai tukoksen poisto vatsa-aortan yläosasta tai sisäelinvaltimosta alkavasta ohituksesta
+
+@RUOTSI = Trombektomi/embolektomi ur by-pass utgående från suprarenala bukaortan eller visceralartärerna
+
+@END = 
+
+@KOODI = PCU72 
+
+@NCSP = PCSU80
+
+@SUOMI = Vatsa-aortan yläosasta tai sisäelinvaltimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen suonensisäinen sulku
+
+@RUOTSI = Perkutan slutning av kvarstående a-v fistel i bypass från suprarenala bukaorta och visceralartärer
+
+@END = 
+
+@KOODI = PCU74 
+
+@NCSP = PCSU81
+
+@SUOMI = Vatsa-aortan yläosasta tai sisäelinvaltimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen sulku
+
+@RUOTSI = Slutning av kvarstående a-v fistel i bypass från suprarenala bukaorta och visceralartärer
+
+@END = 
+
+@KOODI = PCU84 
+
+@NCSP = PCSU82
+
+@SUOMI = Vatsa-aortan yläosasta tai sisäelinvaltimosta alkavan ohituksen korjaus
+
+@RUOTSI = Plastik på bypass från infrarenala bukaorta
+
+@END = 
+
+@KOODI = PCU85 
+
+@NCSP = PCSU83
+
+@SUOMI = Vatsa-aortan yläosasta tai sisäelinvaltimosta alkavan ohituksen suonensisäinen korjaus
+
+@RUOTSI = Perkutan plastik på bypass från suprarenala bukaorta och visceralartärer
+
+@NOTE_F = esim PTA
+
+@NOTE_S = T.ex. PTA
+
+@END = 
+
+@KOODI = PCU86 
+
+@NCSP = PCSU84
+
+@SUOMI = Sisäistutteen laitto vatsa-aortan yläosasta tai sisäelinvaltimoista alkavaan ohitukseen
+
+@RUOTSI = Inläggande av endovaskulärt implantat i by-pass från suprarenala bukaorta och visceralartärer
+
+@END = 
+
+@KOODI = PCU87 
+
+@NCSP = PCSU85
+
+@SUOMI = Sisäistutteen poisto vatsa-aortan yläosasta tai sisäelinvaltimoista alkavasta ohituksesta
+
+@RUOTSI = Uttagning av endovaskulärt implantat från by-pass utgående från suprarenala bukaorta och visceralartärer
+
+@END = 
+
+@KOODI = PCU88 
+
+@NCSP = PCSU86
+
+@SUOMI = Vatsa-aortan yläosasta tai sisäelinvaltimoista alkavan ohituksen korjaus tähystystoimenpiteenä
+
+@RUOTSI = Endoskopisk operation på bypass från suprarenala bukaorta och visceralartärer
+
+@NOTE_F = Sisältää UÄ-ohjauksessa tehdyn toimenpiteen
+
+@NOTE_S = Inkl. UL-styrd åtgärd
+
+@END = 
+
+@KOODI = PCU93 
+
+@NCSP = PCSU87
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen vatsa-aortan yläosasta tai sisäelinvaltimosta alkavaan ohitukseen
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i by-pass utgående från suprarenala bukaorta och visceralartärer
+
+@END = 
+
+@KOODI = PCU99 
+
+@NCSP = PCSU99
+
+@SUOMI = Muu valtimon tai ohituksen uusintakorjaus, vatsa-aortan yläosa tai sisäelinvaltimot
+
+@RUOTSI = Annan reoperation inom tidigare rekonstruktion på suprarenala bukaorta och visceralartärer
+
+@NOTE_F = Sisältää aiemmassa leikkauksessa asetetun materiaalin poiston
+
+@NOTE_F =
+Valtimoiden sisäistutteiden poistamiset kohdassa PCR
+
+@NOTE_S = Inkl avlägsnande av material insatt i tidigare operation
+
+@NOTE_S =
+Uttagning av endovaskulärt implantat, se PCR
+
+@END = 
+
+@KOODI_A = PCW
+
+@NCSP_A = PCSW
+
+@SUOMI_A = Muut valtimoleikkaukset, vatsa-aortan yläosa tai sisäelinvaltimot
+
+@RUOTSI_A = Andra operationer på suprarenala bukaorta och visceralartärer
+
+@ENGL_A = Other operations on suprarenal abdominal aorta and visceral arteries
+
+@END = 
+
+@KOODI = PCW99 
+
+@NCSP = PCSW99
+
+@SUOMI = Muu valtimoleikkaus, vatsa-aortan yläosa tai sisäelinvaltimo
+
+@RUOTSI = Annan operation på suprarenala bukaorta eller visceralartär
+
+@NOTE_F = Sisältää synnynnäisen valtimo-laskimo avanteen korjauksen
+
+@NOTE_S =  Inkl operation för medfödd A-V fistel eller aneurysm
+
+@END = 
+
+@KOODI_A = PC_
+
+@NCSP_A = PCX
+
+@SUOMI_A = Muut vatsa-aortan yläosan ja sisäelinvaltimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på suprarenala bukaorta och visceralartärer
+
+@ENGL_A = Other procedures on suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = PTA = Percutaneous transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PC2DT 
+
+@NCSP = PCXT2D
+
+@SUOMI = Maksan paikallisen muutoksen embolisaatio
+
+@RUOTSI = Lever, embolisering av lokal förändring
+
+@END = 
+
+@KOODI = PC2ET 
+
+@NCSP = PCXT2D
+
+@SUOMI = Maksan paikallisen muutoksen suonensisäinen embolisaatio, laaja
+
+@RUOTSI = Lever, omfattande embolisering av lokal förändring
+
+@END = 
+
+@KOODI = PC5AT 
+
+@NCSP = PCXT5A
+
+@SUOMI = Munuaisvaltimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Njurartär, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PC5BT 
+
+@NCSP = PCXT5A
+
+@SUOMI = Munuaisvaltimon suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Njurartär, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PC5DT 
+
+@NCSP = PCXT5D
+
+@SUOMI = Munuaiskasvaimen embolisaatio
+
+@RUOTSI = Njurtumörembolisering
+
+@END = 
+
+@KOODI = PC5ET 
+
+@NCSP = PCXT5D
+
+@SUOMI = Munuaiskasvaimen embolisaatio, laaja
+
+@RUOTSI = Njurtumörembolisering, omfattande
+
+@END = 
+
+@KOODI = PC5GT 
+
+@NCSP = PCXT5G
+
+@SUOMI = Munuaisen av-malformaation suonensisäinen tukkiminen
+
+@RUOTSI = Njure, embolisering av malformation
+
+@END = 
+
+@KOODI = PC5HT 
+
+@NCSP = PCXT5G
+
+@SUOMI = Munuaisen av-malformaation suonensisäinen tukkiminen, laaja
+
+@RUOTSI = Njure, omfattande embolisering av malformation
+
+@END = 
+
+@KOODI = PC5JT 
+
+@NCSP = PCXT5G
+
+@SUOMI = Munuaisen av-malformaation suonensisäinen tukkiminen, erittäin laaja
+
+@RUOTSI = Njure, mycket omfattande embolisering av malformation
+
+@END = 
+
+@KOODI = PC5NT 
+
+@NCSP = PCXT5N
+
+@SUOMI = Munuaisvuodon suonensisäinen tukkiminen
+
+@RUOTSI = Njurblödning, embolisering
+
+@END = 
+
+@KOODI = PC5PT 
+
+@NCSP = PCXT5N
+
+@SUOMI = Munuaisvuodon suonensisäinen tukkiminen, laaja
+
+@RUOTSI = Njurblödning, omfattande embolisering
+
+@END = 
+
+@KOODI = PC5QT 
+
+@NCSP = PCXT5N
+
+@SUOMI = Munuaisvuodon suonensisäinen tukkiminen, erittäin laaja
+
+@RUOTSI = Njurblödning, mycket omfattande embolisering
+
+@END = 
+
+@KOODI = PC6DT 
+
+@NCSP = PCXT6D
+
+@SUOMI = Selkäydinkanavan paikallisen muutoksen embolisaatio
+
+@RUOTSI = Ryggmärgskanal, embolisering av lokal förändring
+
+@NOTE_F = Kasvain AV-malformaatio, aneurysma
+
+@NOTE_F =
+Diagnostisen katetrin avulla
+
+@NOTE_S = Tillväxt, AV-malformation, aneurysm
+
+@NOTE_S =
+Utförs genom diagnostisk kateter
+
+@END = 
+
+@KOODI = PC6ET 
+
+@NCSP = PCXT6D
+
+@SUOMI = Selkäydinkanavan paikallisen muutoksen laaja embolisaatio
+
+@RUOTSI = Ryggmärgskanal, omfattande embolisering av lokal förändring
+
+@NOTE_F = Kasvain AV-malformaatio, aneurysma
+
+@NOTE_F =
+Mikrokatetri
+
+@NOTE_S = Tillväxt, AV-malformation, aneurysm
+
+@NOTE_S =
+Utförs genom mikrokateter
+
+@END = 
+
+@KOODI = PC6FT 
+
+@NCSP = PCXT6D
+
+@SUOMI = Selkäydinkanavan paikallisen muutoksen erittäin laaja embolisaatio
+
+@RUOTSI = Ryggmärgskanal, mycket omfattande embolisering av lokal förändring
+
+@NOTE_F = Kasvain AV-malformaatio, aneurysma
+
+@NOTE_F =
+Mikrokatetri, useita alueita
+
+@NOTE_S = Tillväxt, AV-malformation, aneurysm
+
+@NOTE_S =
+Utförs genom mikrokateter till flera områden
+
+@END = 
+
+@KOODI = PC7DT 
+
+@NCSP = PCXT7D
+
+@SUOMI = Gynekologisen tuumorin suonensisäinen tukkiminen
+
+@RUOTSI = Gynekologisk tumör, embolisering
+
+@END = 
+
+@KOODI = PC7NT 
+
+@NCSP = PCXT7N
+
+@SUOMI = Kohdun valtimoiden suonensisäinen tukkiminen synnytysvuodon takia
+
+@RUOTSI = Livmoderblödning efter förlossning, intravaskulär ocklusion
+
+@END = 
+
+@KOODI_R = PD
+
+@SUOMI_R = Aortan alaosa ja lonkkavaltimot
+
+@RUOTSI_R = Infrarenal bukaorta och aa. iliacae
+
+@ENGL_R = Infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Vatsa-aortta munuaisvaltimoiden haarautumiskohdasta alkaen
+
+@NOTE_RS = Bukaortta nedanför njurartärens avgångspunkt
+
+@END = 
+
+@KOODI_A = PD_
+
+@NCSP_A = PDD
+
+@SUOMI_A = Aortan alaosan ja lonkkavaltimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi på infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Diagnostic radiology on infrarenal abdominal aorta and iliac arteries and distal connectio
+
+@NOTE_RF = Rinta-aortta kohdassa FC
+
+@NOTE_RS = Thorakal aorta, se FC
+
+@END = 
+
+@KOODI = PD4AC 
+
+@NCSP = PDDC4A
+
+@SUOMI = Alaraajan valtimoiden varjoainetutkimus
+
+@RUOTSI = Nedre extremitet, angiografi
+
+@NOTE_F = Yhden anatomisen alueen tutkimus kiinteällä kentällä
+
+@NOTE_S = Undersökning av en anatomisk område med fast fält
+
+@END = 
+
+@KOODI = PD4BC 
+
+@NCSP = PDDC4A
+
+@SUOMI = Alaraajan valtimoiden laaja varjoainetutkimus
+
+@RUOTSI = Nedre extremitet, omfattande angiografi
+
+@NOTE_F = Vatsa-aortan ja alaraajojen tutkimus käyttäen siirtolaitetekniikkaa sekä lantion viistokuvausta ja selektiivistä ruiskutusta toisen raajan valtimoon
+
+@NOTE_S = Undersökning av bukaorta och nedre extremiteten med rörlig apparatur samt snedbilder och selektiva injektioner till en extremitet
+
+@END = 
+
+@KOODI = PD4CC 
+
+@NCSP = PDDC4A
+
+@SUOMI = Alaraajan valtimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Nedre extremitet, mycket omfattande angiografi
+
+@END = 
+
+@KOODI = PD2AD 
+
+@NCSP = PDDD2A
+
+@SUOMI = Lantioelinten TT-angio
+
+@RUOTSI = Bäckenorganens DT angiografi
+
+@END = 
+
+@KOODI = PD2BD 
+
+@NCSP = PDDD2A
+
+@SUOMI = Lantioelinten laaja TT-angio
+
+@RUOTSI = Bäckenorganens omfattande DT angiografi
+
+@END = 
+
+@KOODI = PD4AD 
+
+@NCSP = PDDD4A
+
+@SUOMI = Alaraajavaltimoiden TT
+
+@RUOTSI = Nedre extremiteternas DT angiografi
+
+@END = 
+
+@KOODI = PD4BD 
+
+@NCSP = PDDD4A
+
+@SUOMI = Alaraajavaltimoiden laaja TT
+
+@RUOTSI = Nedre extremiteternas omfattande DT angiografi
+
+@END = 
+
+@KOODI = PD1AE 
+
+@NCSP = PDDE1A
+
+@SUOMI = Vatsa-aortan UÄ *
+
+@RUOTSI = Bukaorta, UL *
+
+@END = 
+
+@KOODI = PD2AE 
+
+@NCSP = PDDE2A
+
+@SUOMI = Ulkoisten sukupuolielinten UÄ verisuonitutkimus
+
+@RUOTSI = Yttre genitalier, blodkärlsundersökning med UL
+
+@END = 
+
+@KOODI = PD4DE 
+
+@NCSP = PDDE4D
+
+@SUOMI = Alaraajan valtimoiden Doppler-UÄ
+
+@RUOTSI = Artärer i nedre extremiteter, UL med dopplerteknik
+
+@END = 
+
+@KOODI = PD4HE 
+
+@NCSP = PDDE4H
+
+@SUOMI = Alaraajan valtimoiden Doppler-UÄ leikkauksen jälkeen
+
+@RUOTSI = Artärer i nedre extremiteter, postoperativ UL kontroll med dopplerteknik
+
+@END = 
+
+@KOODI = PD4BF 
+
+@NCSP = PDDG4B
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bukaorta och blodkärl i nedre extremiteterna, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD4BG 
+
+@NCSP = PDDG4B
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bukaorta och blodkärl i nedre extremiteterna, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PD4CF 
+
+@NCSP = PDDG4B
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bukaorta och blodkärl i nedre extremiteterna, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD4CG 
+
+@NCSP = PDDG4B
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bukaorta och blodkärl i nedre extremiteterna, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PD4DF 
+
+@NCSP = PDDG4B
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten erittäin laaja magneettitutkimus keskikenttälaittteella
+
+@RUOTSI = Bukaorta och blodkärl i nedre extremiteterna, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD4DG 
+
+@NCSP = PDDG4B
+
+@SUOMI = Vatsa-aortan ja alaraajaverisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bukaorta och blodkärl i nedre extremiteterna, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PD5BF 
+
+@NCSP = PDDG5B
+
+@SUOMI = Rinta- ja vatsa-aortan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Aorta, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD5BG 
+
+@NCSP = PDDG5B
+
+@SUOMI = Rinta- ja vatsa-aorttan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Aorta, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PD5CF 
+
+@NCSP = PDDG5B
+
+@SUOMI = Rinta- ja vatsa-aortan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Aorta, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD5CG 
+
+@NCSP = PDDG5B
+
+@SUOMI = Rinta- ja vatsa-aortan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Aorta, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PD5DF 
+
+@NCSP = PDDG5B
+
+@SUOMI = Rinta- ja vatsa-aortan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Aorta, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PD5DG 
+
+@NCSP = PDDG5B
+
+@SUOMI = Rinta- ja vatsa-aortan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Aorta, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = PDA
+
+@NCSP_A = PDSA
+
+@SUOMI_A = Tutkimusleikkaukset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Exploration av infrarenala bukaorta och aa. iliacae
+
+@ENGL_A = Exploration of infrarenal abdominal aorta and iliac arteries
+
+@END = 
+
+@KOODI = PDA05 
+
+@NCSP = PDSA10
+
+@SUOMI = Tutkimusleikkaus, munuaisvaltimon alapuolinen aortta
+
+@RUOTSI = Exploration av infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDA20 
+
+@NCSP = PDSA30
+
+@SUOMI = Tutkimusleikkaus, a. iliaca communis
+
+@RUOTSI = Exploration av a. iliaca communis
+
+@END = 
+
+@KOODI_A = PDC
+
+@NCSP_A = PDSC
+
+@SUOMI_A = Ompelemiset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Arteriorafi på infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Suture of infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Valtimoiden sisäistutteiden poistot kohdassa PDR
+
+@NOTE_RF =
+Muun aiemmassa leikkauksessa asetetun materiaalin poistot kohdassa PDU99
+
+@NOTE_RS = Inkl avlägsnande av främmande föremål
+
+@NOTE_RS =
+Uttagning av endovaskulära implantat, se PDR
+
+@NOTE_RS =
+Avlägsnande av annat material insatt i tidigare operation, se PDU99
+
+@END = 
+
+@KOODI = PDC05 
+
+@NCSP = PDSC10
+
+@SUOMI = Ompeleminen, munuaisvaltimon alapuolinen aortta
+
+@RUOTSI = Arteriorafi på infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDC20 
+
+@NCSP = PDSC30
+
+@SUOMI = Ompeleminen, a. iliaca communis
+
+@RUOTSI = Arteriorafi på a. iliaca communis
+
+@END = 
+
+@KOODI = PDC21 
+
+@NCSP = PDSC30
+
+@SUOMI = Ompeleminen, a. iliaca interna
+
+@RUOTSI = Arteriorafi på a. iliaca interna
+
+@END = 
+
+@KOODI = PDC22 
+
+@NCSP = PDSC30
+
+@SUOMI = Ompeleminen, a. iliaca externa
+
+@RUOTSI = Arteriorafi på a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDE
+
+@NCSP_A = PDSE
+
+@SUOMI_A = Veritulpan tai tukoksen poistot, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Trombektomi eller embolektomi ur infrarenala bukaortan eller aa. iliacae
+
+@ENGL_A = Thrombectomy or embolectomy of infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Embolektomiat tai trombektomiat
+
+@END = 
+
+@KOODI = PDE05 
+
+@NCSP = PDSE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Trombektomi eller embolektomi ur infrarenala bukaortan
+
+@END = 
+
+@KOODI = PDE20 
+
+@NCSP = PDSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. iliaca communis
+
+@RUOTSI = Trombektomi eller embolektomi ur a. iliaca communis
+
+@END = 
+
+@KOODI = PDE21 
+
+@NCSP = PDSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. iliaca interna
+
+@RUOTSI = Trombektomi eller embolektomi ur a. iliaca interna
+
+@END = 
+
+@KOODI = PDE22 
+
+@NCSP = PDSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. iliaca externa
+
+@RUOTSI = Trombektomi eller embolektomi ur a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDF
+
+@NCSP_A = PDSF
+
+@SUOMI_A = Verisuonitukoksen ja sisäkalvonpoistot, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Trombendarterektomier ur infrarenala bukaortan eller aa. iliacae
+
+@ENGL_A = Thrombendarterectomy of infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Trombendarterektomiat
+
+@END = 
+
+@KOODI = PDF05 
+
+@NCSP = PDSF10
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Trombendarterektomi ur infrarenala bukaortan
+
+@END = 
+
+@KOODI = PDF20 
+
+@NCSP = PDSF30
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. iliaca communis
+
+@RUOTSI = Trombendarterektomier ur a. iliaca communis
+
+@END = 
+
+@KOODI = PDF21 
+
+@NCSP = PDSF30
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. iliaca interna
+
+@RUOTSI = Trombendarterektomier ur a. iliaca interna
+
+@END = 
+
+@KOODI = PDF22 
+
+@NCSP = PDSF30
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. iliaca externa
+
+@RUOTSI = Trombendarterektomier ur a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDG
+
+@NCSP_A = PDSG
+
+@SUOMI_A = Valtimonpullistumien korjaamiset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Aneurysmoperationer på infrarenala bukaorta och aa. iliacae
+
+@ENGL_A = Operations for aneurysm of infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Leikkauksen kiireellisyys annetaan koodilla ryhmästä ZXD
+
+@NOTE_RS = Operationernas angelägenhetsgrad anges med tilläggskod ur grupp ZXD
+
+@END = 
+
+@KOODI = PDG05 
+
+@NCSP = PDSG10
+
+@SUOMI = Valtimonpullistuman korjaaminen munuaisvaltimon alapuolisessa aortassa
+
+@RUOTSI = Aneurysmoperation på infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDG51 
+
+@NCSP = PDSG21
+
+@SUOMI = Valtimonpullistuman korjaaminen, proteesi aortasta lonkkavaltimoihin
+
+@RUOTSI = Aneurysmoperation med aorto-iliakal by-pass-operation
+
+@END = 
+
+@KOODI = PDG52 
+
+@NCSP = PDSG22
+
+@SUOMI = Valtimonpullistuman korjaaminen, proteesi aortasta lonkka- ja reisivaltimoon
+
+@RUOTSI = Aneurysmoperation med aorto-iliakal och aorto-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDG54 
+
+@NCSP = PDSG23
+
+@SUOMI = Valtimonpullistuman korjaaminen, proteesi aortasta reisivaltimoihin
+
+@RUOTSI = Aneurysmoperation med aorto-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDG30 
+
+@NCSP = PDSG30
+
+@SUOMI = Valtimonpullistuman korjaaminen lonkkavaltiomossa, a. iliacassa
+
+@RUOTSI = Aneurysmoperation på a. iliaca
+
+@END = 
+
+@KOODI = PDG55 
+
+@NCSP = PDSG35
+
+@SUOMI = Valtimonpullistuman korjaaminen. proteesi lonkkavaltimosta reisivaltimoon
+
+@RUOTSI = Aneurysmoperation med iliako-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDG99 
+
+@NCSP = PDSG99
+
+@SUOMI = Muu valtimonpullistuman korjaaminen, aortan alaosa ja lonkkavaltimot
+
+@RUOTSI = Annan aneurysmaoperation på infrarenala bukaorta och höftartärer
+
+@END = 
+
+@KOODI_A = PDH
+
+@NCSP_A = PDSH
+
+@SUOMI_A = Ohitukset aortan alaosasta tai lonkkavaltimoista
+
+@RUOTSI_A = By-pass utgående från infrarenala bukaortan eller aa. iliacae
+
+@ENGL_A = Bypass from infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Epäanatomiset ohitukset kohdassa PG
+
+@NOTE_RF =
+Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = "Extra-anatomiska"arteriella by-pass-operationer, se PG
+
+@NOTE_RS =
+Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PDH50 
+
+@NCSP = PDSH20
+
+@SUOMI = Ohitusleikkaus, aorto-iliakaalinen ohitus
+
+@RUOTSI = Aorto-iliakal by-pass-operation
+
+@END = 
+
+@KOODI = PDH51 
+
+@NCSP = PDSH21
+
+@SUOMI = Ohitusleikkaus, aorto-bi-iliakaalinen ohitus
+
+@RUOTSI = Aorto-bi-iliakal by-pass-operation
+
+@END = 
+
+@KOODI = PDH52 
+
+@NCSP = PDSH22
+
+@SUOMI = Ohitusleikkaus, aorto-iliakaalinen ja aorto-femoraalinen ohitus
+
+@RUOTSI = Aorto-iliakal och aorto-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDH53 
+
+@NCSP = PDSH23
+
+@SUOMI = Ohitusleikkaus, aorto-femoraalinen ohitus
+
+@RUOTSI = Aorto-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDH54 
+
+@NCSP = PDSH24
+
+@SUOMI = Ohitusleikkaus, aorto-bifemoraalinen ohitus
+
+@RUOTSI = Aorto-bi-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDH55 
+
+@NCSP = PDSH35
+
+@SUOMI = Ohitusleikkaus, iliako-femoraalinen ohitus
+
+@RUOTSI = Iliako-femoral by-pass-operation
+
+@END = 
+
+@KOODI = PDH99 
+
+@NCSP = PDSH99
+
+@SUOMI = Muu ohitusleikkaus, lähtökohta vatsa-aortan alaosa tai lonkkavaltimot
+
+@RUOTSI = Annan by-pass-operation, utgångspunkt infrarenala bukaortan eller höftartärer
+
+@END = 
+
+@KOODI_A = PDN
+
+@NCSP_A = PDSN
+
+@SUOMI_A = Valtimoiden muovausleikkaukset aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Plastiker på infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Plastic repair of infrarenal abdominal aorta and iliac arteries
+
+@END = 
+
+@KOODI = PDN05 
+
+@NCSP = PDSN10
+
+@SUOMI = Valtimon muovausleikkaus, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Plastik på infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDN20 
+
+@NCSP = PDSN30
+
+@SUOMI = Valtimon muovausleikkaus, a. iliaca communis
+
+@RUOTSI = Plastik på a. iliaca communis
+
+@END = 
+
+@KOODI = PDN21 
+
+@NCSP = PDSN30
+
+@SUOMI = Valtimon muovausleikkaus, a. iliaca interna
+
+@RUOTSI = Plastik på a. iliaca interna
+
+@END = 
+
+@KOODI = PDN22 
+
+@NCSP = PDSN30
+
+@SUOMI = Valtimon muovausleikkaus, a. iliaca externa
+
+@RUOTSI = Plastik på a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDP
+
+@NCSP_A = PDSP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Perkutana plastiker på infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Percutaneous plastic repair of infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = Sis. mm. aspiraatioembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä PTA:ta
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA,
+
+@END = 
+
+@KOODI = PDP05 
+
+@NCSP = PDSP10
+
+@SUOMI = Valtimon korjaaminen suljetusti,munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Perkutan plastik på infrarenala bukaorta
+
+@NOTE_F = Aortan PTA, katso PD1AT, PD1BT tai PD1YT
+
+@NOTE_S = PTA i aortta, se PD1AT, PD1BT eller PD1YT
+
+@END = 
+
+@KOODI = PDP20 
+
+@NCSP = PDSP30
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. iliaca communis
+
+@RUOTSI = Perkutan plastik på a. iliaca communis
+
+@NOTE_F = Lantiosuonen PTA, katso PD3AT tai PD3BT
+
+@NOTE_S = PTA i höftartär, se PD3AT eller PD3BT
+
+@END = 
+
+@KOODI = PDP21 
+
+@NCSP = PDSP30
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. iliaca interna
+
+@RUOTSI = Perkutan plastik på a. iliaca interna
+
+@END = 
+
+@KOODI = PDP22 
+
+@NCSP = PDSP30
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. iliaca externa
+
+@RUOTSI = Perkutan plastik på a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDQ
+
+@NCSP_A = PDSQ
+
+@SUOMI_A = Valtimoiden sisäistutteiden asettamiset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Inläggande av endovaskulärt implantat i infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Insertion of endovascular graft into infrarenal abdominal aorta and iliac arteries
+
+@END = 
+
+@KOODI = PDQ05 
+
+@NCSP = PDSQ10
+
+@SUOMI = Valtimon sisäistutteen asettaminen, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Inläggande av endovaskulärt implantat i infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDQ20 
+
+@NCSP = PDSQ30
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. iliaca communis
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. iliaca communis
+
+@END = 
+
+@KOODI = PDQ21 
+
+@NCSP = PDSQ30
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. iliaca interna
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. iliaca interna
+
+@END = 
+
+@KOODI = PDQ22 
+
+@NCSP = PDSQ30
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. iliaca externa
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDR
+
+@NCSP_A = PDSR
+
+@SUOMI_A = Valtimoiden sisäistutteiden poistamiset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Uttagning av endovaskulärt implantat från infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Removal of endovascular graft from infrarenal abdominal aorta and iliac arteries
+
+@END = 
+
+@KOODI = PDR05 
+
+@NCSP = PDSR10
+
+@SUOMI = Valtimon sisäistutteen poistaminen, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Uttagning av endovaskulärt implantat från infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDR20 
+
+@NCSP = PDSR30
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. iliaca communis
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. iliaca communis
+
+@END = 
+
+@KOODI = PDR21 
+
+@NCSP = PDSR30
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. iliaca interna
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. iliaca interna
+
+@END = 
+
+@KOODI = PDR22 
+
+@NCSP = PDSR30
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. iliaca externa
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDS
+
+@NCSP_A = PDSS
+
+@SUOMI_A = Verisuonileikkaukset tähystyksessä tai ultraääniohjauksessa, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Endoskopisk eller ultraljudsstyrd operation på infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Endoscopic operation on infrarenal abdominal aorta and iliac arteries
+
+@END = 
+
+@KOODI = PDS05 
+
+@NCSP = PDSS10
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDS20 
+
+@NCSP = PDSS30
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, a. iliaca communis
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. iliaca communis
+
+@END = 
+
+@KOODI = PDS21 
+
+@NCSP = PDSS30
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, a. iliaca interna
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. iliaca interna
+
+@END = 
+
+@KOODI = PDS22 
+
+@NCSP = PDSS30
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, a. iliaca externa
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDT
+
+@NCSP_A = PDST
+
+@SUOMI_A = Kemiallisen tai tukkivan aineen ruiskuttamiset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Injektioner av läkemedel eller ockluderande material i infrarenala bukaorta eller aa. iliacae
+
+@ENGL_A = Injection of therapeutic or sclerosing agent into infrarenal abdominal aorta and iliac arteries
+
+@END = 
+
+@KOODI = PDT05 
+
+@NCSP = PDST10
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, munuaisvaltimon alapuolinen vatsa-aortta
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i infrarenala bukaorta
+
+@END = 
+
+@KOODI = PDT20 
+
+@NCSP = PDST30
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. iliaca communis
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. iliaca communis
+
+@END = 
+
+@KOODI = PDT21 
+
+@NCSP = PDST30
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. iliaca interna
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. iliaca interna
+
+@END = 
+
+@KOODI = PDT22 
+
+@NCSP = PDST30
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. iliaca externa
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. iliaca externa
+
+@END = 
+
+@KOODI_A = PDU
+
+@NCSP_A = PDSU
+
+@SUOMI_A = Valtimoiden uusintakorjaamiset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Reoperationer inom tidigare rekonstruktioner av infrarenala bukaorta eller aa. iliacae samt därmed sammanhängande distala anslutningar
+
+@ENGL_A = Repair after previous reconstruction of infrarenal abdominal aorta and iliac arteries and distal connections
+
+@END = 
+
+@KOODI = PDU70 
+
+@NCSP = PDSU70
+
+@SUOMI = Tutkimusleikkaus vatsa-aortan alaosan tai lonkkavaltimon ja sen haarojen aiempaan korjaukseen liittyen
+
+@RUOTSI = Exploration av tidigare rekonstruktion på infrarenala bukaorta eller a iliaca och dess grenar
+
+@END = 
+
+@KOODI = PDU81 
+
+@NCSP = PDSU74
+
+@SUOMI = Veritulpan tai tukoksen poisto ohituksesta, aortan alaosasta tai lonkkavaltimosta alkava ohitus
+
+@RUOTSI = Trombektomi/embolektomi ur by-pass utgående från infrarenala bukaortan eller aa. iliacae
+
+@END = 
+
+@KOODI = PDU72 
+
+@NCSP = PDSU80
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen sulku
+
+@RUOTSI = Perkutan slutning av kvarstående a-v fistel i bypass från infrarenala bukaorta eller a iliaca
+
+@END = 
+
+@KOODI = PDU74 
+
+@NCSP = PDSU81
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen aiheuttaman valtimo-laskimoavanteen sulku
+
+@RUOTSI = Slutning av kvarstående a-v fistel i bypass från infrarenala bukaorta eller a iliaca
+
+@END = 
+
+@KOODI = PDU84 
+
+@NCSP = PDSU82
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen korjaus
+
+@RUOTSI = Korrektionsplastik på by-pass utgående från infrarenala bukaortan eller aa. iliacae
+
+@END = 
+
+@KOODI = PDU85 
+
+@NCSP = PDSU83
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen suonensisäinen korjaus
+
+@RUOTSI = Perkutan slutning av kvarstående a-v fistel i bypass från infrarenala bukaorta eller a iliaca
+
+@NOTE_F = esim PTA
+
+@NOTE_S = T.ex. PTA
+
+@END = 
+
+@KOODI = PDU86 
+
+@NCSP = PDSU84
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen sisäistutteen laitto
+
+@RUOTSI = Inläggande av endovaskulärt implantat i by-pass från infrarenala bukaorta eller aa. iliacae
+
+@END = 
+
+@KOODI = PDU87 
+
+@NCSP = PDSU85
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen sisäistutteen poisto
+
+@RUOTSI = Uttagning av endovaskulärt implantat från by-pass utgående från infrarenala bukaortan eller aa. iliacae
+
+@END = 
+
+@KOODI = PDU88 
+
+@NCSP = PDSU86
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen korjaus tähystystoimenpiteenä
+
+@RUOTSI = Endoskopisk operation på bypass från infrarenala bukaorta och a iliaca
+
+@NOTE_F = Sisältää UÄ-ohjauksessa tehdyn toimenpiteen
+
+@NOTE_S = Inkl UL-styrd åtgärd
+
+@END = 
+
+@KOODI = PDU93 
+
+@NCSP = PDSU87
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen ohitukseen, vatsa-aortan alaosasta tai lonkkavaltimosta alkava ohitus
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i by-pass från infrarenala bukaortan eller aa. iliacae
+
+@END = 
+
+@KOODI = PDU91 
+
+@NCSP = PDSU88
+
+@SUOMI = Vatsa-aortan alaosasta tai lonkkavaltimosta alkavan ohituksen poisto
+
+@RUOTSI = Exstirpation av by-pass utgående från infrarenala bukaortan eller aa. iliacae
+
+@END = 
+
+@KOODI = PDU99 
+
+@NCSP = PDSU99
+
+@SUOMI = Muu vatsa-aortan alaosan tai lonkkavaltimon ja sen haarojen uusintakorjaus
+
+@RUOTSI = Annan reoperation inom tidigare rekonstruktion av infrarenala bukaortan eller aa. iliacae samt därmed sammanhängande distala anslutningar
+
+@NOTE_F = Sisältää aiemmassa leikkauksessa asetetun materiaalin poiston
+
+@NOTE_F =
+Valtimoiden sisäistutteiden poistamiset kohdassa PDR
+
+@NOTE_S = Inkl avlägsnande av material insatt i tidigare operation
+
+@NOTE_S =
+Uttagning av endovaskulärt implantat, se PDR
+
+@END = 
+
+@KOODI_A = PDW
+
+@NCSP_A = PDSW
+
+@SUOMI_A = Muut valtimoleikkaukset, aortan alaosa tai lonkkavaltimot
+
+@RUOTSI_A = Andra operationer på infrarenala bukaortan eller aa. iliacae samt därmed sammanhängande distala anslutningar
+
+@ENGL_A = Other operations on infrarenal abdominal aorta and iliac arteries and distal connections
+
+@NOTE_RF = Siittimen valtimoverenkierron korjaus KGH33
+
+@NOTE_RS = Operation på penisartärer, se KGH33
+
+@END = 
+
+@KOODI = PDW99 
+
+@NCSP = PDSW99
+
+@SUOMI = Muu leikkaus, aortan alaosa tai lonkkavaltimo
+
+@RUOTSI = Annan operation på infrarenala bukaortan eller aa. iliacae
+
+@NOTE_F = Sisältää synnynnäisen valtimo-laskimo avanteen korjauksen
+
+@NOTE_S =  Inkl operation för medfödd A-V fistel eller aneurysm
+
+@END = 
+
+@KOODI_A = PD_
+
+@NCSP_A = PDX
+
+@SUOMI_A = Muut aortan alaosan ja lonkkavaltimoiden toimpenpiteet
+
+@RUOTSI_A = Andra åtgärder på infrarenala bukaorta och aa. iliacaea
+
+@ENGL_A = Other procedures on infrarenal abdominal aorta and iliac arteries
+
+@NOTE_RF = PTA = Percutaneous transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PD1AT 
+
+@NCSP = PDXT1A
+
+@SUOMI = Aortan suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Aorta, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PD1BT 
+
+@NCSP = PDXT1A
+
+@SUOMI = Aortan suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Aorta, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PD1YT 
+
+@NCSP = PDXT1Y
+
+@SUOMI = Endoproteesin laitto aorttaan suonensisäisen laajennuksen (PTA) yhteydessä
+
+@RUOTSI = Aorta, perkutan angioplastik (PTA) med inläggning av endoprotes
+
+@END = 
+
+@KOODI = PD3AT 
+
+@NCSP = PDXT3A
+
+@SUOMI = Lantiosuonen suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Bäckenartär, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PD3BT 
+
+@NCSP = PDXT3A
+
+@SUOMI = Lantiosuonen suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Bäckenartär, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PD4ST 
+
+@NCSP = PDXT4S
+
+@SUOMI = Lantion ja alaraajavaltimoiden selektiivinen liuotushoito
+
+@RUOTSI = Bäcken- och benartärer, selektiv trombolys
+
+@END = 
+
+@KOODI = PD5YT 
+
+@NCSP = PDXT5Y
+
+@SUOMI = Aorttaproteesin asennus aneurysman hoitona
+
+@RUOTSI = Aorta-aneurysm, endoprotesinläggning
+
+@NOTE_F = PTA:n yhdeydessä asennettu  proteesi kohdsssa PD1YT
+
+@NOTE_S = Endoprotesinläggning i samband med PTA, se PD1YT
+
+@END = 
+
+@KOODI_R = PE
+
+@SUOMI_R = Reisivaltimo haaroineen
+
+@RUOTSI_R = Arteria femoralis och dess grenar
+
+@ENGL_R = Femoral artery with branches and connection to popliteal artery
+
+@NOTE_RF = Sis. yhteydet arteria popliteaan
+
+@NOTE_RS = Inkl  anslutningar till a. poplitea
+
+@END = 
+
+@KOODI_A = PEA
+
+@NCSP_A = PESA
+
+@SUOMI_A = Tutkimusleikkaukset, reisivaltimot tai sen haarat
+
+@RUOTSI_A = Exploration av a. femoralis och dess grenar
+
+@ENGL_A = Exploration of femoral artery and branches
+
+@NOTE_RF = Ei sisällä koepalan ottoa pinnallisesta valtimosta, ks TPX00
+
+@NOTE_RS = Exkluderar biopsi av ytliga artärer, se TPX00
+
+@END = 
+
+@KOODI = PEA23 
+
+@NCSP = PESA10
+
+@SUOMI = Tutkimusleikkaus, a. femoralis communis
+
+@RUOTSI = Exploration av a. femoralis communis
+
+@END = 
+
+@KOODI = PEA24 
+
+@NCSP = PESA11
+
+@SUOMI = Tutkimusleikkaus, a. femoralis profunda
+
+@RUOTSI = Exploration av a. femoralis profunda
+
+@END = 
+
+@KOODI = PEA25 
+
+@NCSP = PESA12
+
+@SUOMI = Tutkimusleikkaus, a. femoralis superficialis
+
+@RUOTSI = Exploration av a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEC
+
+@NCSP_A = PESC
+
+@SUOMI_A = Ompelemiset, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Arteriorafier på a. femoralis och dess grenar
+
+@ENGL_A = Suture of femoral artery and branches
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Valtimoiden sisäistutteiden poistot kohdassa PER
+
+@NOTE_RF =
+Muun aiemmassa leikkauksessa asetetun materiaalin poistot kohdassa PEU99
+
+@NOTE_RS = Inkl avlägsnande av främmande föremål
+
+@NOTE_RS =
+Uttagning av endovaskulära implantat, se PER
+
+@NOTE_RS =
+Avlägsnande av annat material insatt i tidigare operation, se PEU99
+
+@END = 
+
+@KOODI = PEC23 
+
+@NCSP = PESC10
+
+@SUOMI = Ompelu, a. femoralis communis
+
+@RUOTSI = Arteriorafi på a. femoralis communis
+
+@END = 
+
+@KOODI = PEC24 
+
+@NCSP = PESC10
+
+@SUOMI = Ompelu, a. femoralis profunda
+
+@RUOTSI = Arteriorafi på a. femoralis profunda
+
+@END = 
+
+@KOODI = PEC25 
+
+@NCSP = PESC10
+
+@SUOMI = Ompelu, a. femoralis superficialis
+
+@RUOTSI = Arteriorafi på a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEE
+
+@NCSP_A = PESE
+
+@SUOMI_A = Veritulpan tai tukoksen poistot, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Trombektomier eller embolektomier ur a. femoralis eller dess grenar
+
+@ENGL_A = Thrombectomy or embolectomy of femoral artery and branches
+
+@NOTE_RF = Embolektomiat tai trombektomiat
+
+@END = 
+
+@KOODI = PEE23 
+
+@NCSP = PESE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. femoralis communis
+
+@RUOTSI = Trombektomi eller embolektomi ur a. femoralis communis
+
+@END = 
+
+@KOODI = PEE24 
+
+@NCSP = PESE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. femoralis profunda
+
+@RUOTSI = Trombektomi eller embolektomi ur a. femoralis profunda
+
+@END = 
+
+@KOODI = PEE25 
+
+@NCSP = PESE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. femoralis superficialis
+
+@RUOTSI = Trombektomi eller embolektomi ur a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEF
+
+@NCSP_A = PESF
+
+@SUOMI_A = Verisuonitukoksen ja sisäkalvonpoistot, reisivaltimot tai sen haarat
+
+@RUOTSI_A = Trombendarterektomier ur a. femoralis eller dess grenar
+
+@ENGL_A = Thrombendarterectomy of femoral artery and branches
+
+@NOTE_RF = Trombendarterektomiat
+
+@END = 
+
+@KOODI = PEF23 
+
+@NCSP = PESF10
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. femoralis communis
+
+@RUOTSI = Trombendarterektomi ur a. femoralis communis
+
+@END = 
+
+@KOODI = PEF24 
+
+@NCSP = PESF11
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. femoralis profunda
+
+@RUOTSI = Trombendarterektomi ur a. femoralis profunda
+
+@END = 
+
+@KOODI = PEF25 
+
+@NCSP = PESF12
+
+@SUOMI = Valtimon tukoksen ja sisäkalvon poistaminen, a. femoralis superficialis
+
+@RUOTSI = Trombendarterektomi ur a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEG
+
+@NCSP_A = PESG
+
+@SUOMI_A = Valtimonpullistumien korjaamiset, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Aneurysmoperationer på a. femoralis eller dess grenar
+
+@ENGL_A = Operation for aneurysm of femoral artery and branches
+
+@END = 
+
+@KOODI = PEG23 
+
+@NCSP = PESG10
+
+@SUOMI = Valtimonpullistuman korjaaminen, a. femoralis communis
+
+@RUOTSI = Aneurysmoperation på a. femoralis communis
+
+@END = 
+
+@KOODI = PEG24 
+
+@NCSP = PESG11
+
+@SUOMI = Valtimonpullistuman korjaaminen, a. femoralis profunda
+
+@RUOTSI = Aneurysmoperation på a. femoralis profunda
+
+@END = 
+
+@KOODI = PEG25 
+
+@NCSP = PESG12
+
+@SUOMI = Valtimonpullistuman korjaaminen, a. femoralis superficialis
+
+@RUOTSI = Aneurysmoperation på a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEH
+
+@NCSP_A = PESH
+
+@SUOMI_A = Ohitukset reisivaltimosta tai sen haaroista
+
+@RUOTSI_A = By-pass från femoral artär eller dess grenar
+
+@ENGL_A = Bypass from femoral artery and branches
+
+@NOTE_RF = Arteria poplitean ohitukset kohdassa PFH
+
+@NOTE_RF =
+Epäanatomiset ohitukset kohdassa PGH
+
+@NOTE_RF =
+Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = By pass av arteria poplitea, se PFH
+
+@NOTE_RS =
+"Extra-anatomiska"arteriella by-pass-operationer, se PGH
+
+@NOTE_RS =
+Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PEH56 
+
+@NCSP = PESH20
+
+@SUOMI = Ohitusleikkaus, a. femoraliksesta a. popliteaan polven yläpuolelle
+
+@RUOTSI = By-pass från a. femoralis till a. poplitea ovanom knäleden
+
+@END = 
+
+@KOODI = PEH57 
+
+@NCSP = PESH30
+
+@SUOMI = Ohitusleikkaus, a. femoraliksesta a. popliteaan polven alapuolelle
+
+@RUOTSI = By-pass från a. femoralis till a. poplitea nedanom knäleden
+
+@END = 
+
+@KOODI_A = PEL
+
+@NCSP_A = PESL
+
+@SUOMI_A = Valtimoavanteiden tekeminen, reisi
+
+@RUOTSI_A = Anläggande av A-V fistlar utgående från artärer i låret
+
+@NOTE_RF = Valtimoavanne yläraajassa, PBL
+
+@NOTE_RS = A-V fistel i övre extremität, se PBL
+
+@END = 
+
+@KOODI = PEL25 
+
+@NCSP = PESL90
+
+@SUOMI = Valtimo-laskimoavanteen teko, a. femoralis superficialis
+
+@RUOTSI = Anläggande av A-V fistel utgående från a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEM
+
+@NCSP_A = PESM
+
+@SUOMI_A = Valtimoavanteiden sulku, reisi
+
+@RUOTSI_A = Förslutning av A-V fistlar utgående från artärer i låret
+
+@NOTE_RF = Ei sisällä synnynnäisten valtimo-laskimoavanteiden sulkua, ks PEW99
+
+@NOTE_RF =
+Valtimoavanne yläraajassa, PBM
+
+@NOTE_RS = Exkluderar medfödda A-V fistlar, se PEW99
+
+@NOTE_RS =
+A-V fistel i övre extremität, se PBM
+
+@END = 
+
+@KOODI = PEM25 
+
+@NCSP = PESM90
+
+@SUOMI = Valtimo-laskimoavanteen sulku, a. femoralis superficialis
+
+@RUOTSI = Förslutning av A-V fistel utgående från a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEN
+
+@NCSP_A = PESN
+
+@SUOMI_A = Valtimoiden muovausleikkaukset reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Öppna plastiker på a. femoralis eller dess grenar
+
+@ENGL_A = Plastic repair of femoral artery and branches
+
+@END = 
+
+@KOODI = PEN23 
+
+@NCSP = PESN10
+
+@SUOMI = Valtimon muovausleikkaus, a. femoralis communis
+
+@RUOTSI = Öppen plastik på a. femoralis communis
+
+@END = 
+
+@KOODI = PEN24 
+
+@NCSP = PESN11
+
+@SUOMI = Valtimon muovausleikkaus, a. femoralis profunda
+
+@RUOTSI = Öppen plastik på a. femoralis profunda
+
+@END = 
+
+@KOODI = PEN25 
+
+@NCSP = PESN12
+
+@SUOMI = Valtimon muovausleikkaus, a. femoralis superficialis
+
+@RUOTSI = Öppen plastik på a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEP
+
+@NCSP_A = PESP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Perkutana plastiker på a. femoralis eller dess grenar
+
+@ENGL_A = Percutaneous plastic repair of femoral artery and branches
+
+@NOTE_RF = Sis. mm. aspiraatiembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajennusta (PTA), katso PE1AT tai PE1BT
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PE1AT eller PE1BT
+
+@END = 
+
+@KOODI = PEP23 
+
+@NCSP = PESP10
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. femoralis communis
+
+@RUOTSI = Perkutan plastik på a. femoralis communis
+
+@END = 
+
+@KOODI = PEP24 
+
+@NCSP = PESP11
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. femoralis profunda
+
+@RUOTSI = Perkutan plastik på a. femoralis profunda
+
+@END = 
+
+@KOODI = PEP25 
+
+@NCSP = PESP12
+
+@SUOMI = Valtimon korjaaminen suljetusti,a. femoralis superficialis
+
+@RUOTSI = Perkutan plastik på a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEQ
+
+@NCSP_A = PESQ
+
+@SUOMI_A = Valtimoiden sisäistutteiden asettamiset, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Inläggande av endovaskulärt implantat i a. femoralis eller dess grenar
+
+@ENGL_A = Insertion of endovascular graft into femoral artery and branches
+
+@END = 
+
+@KOODI = PEQ23 
+
+@NCSP = PESQ10
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. femoralis communis
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. femoralis communis
+
+@END = 
+
+@KOODI = PEQ24 
+
+@NCSP = PESQ11
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. femoralis profunda
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. femoralis profunda
+
+@END = 
+
+@KOODI = PEQ25 
+
+@NCSP = PESQ12
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. femoralis superficialis
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. femoralis superficialis
+
+@END = 
+
+@KOODI = PEQ99 
+
+@NCSP = PESQ99
+
+@SUOMI = Muu valtimon sisäistutteen asettaminen, reisivaltimot tai sen haarat
+
+@RUOTSI = Annan inläggande av endovaskulärt implantat i a. femoralis och dess grenar
+
+@END = 
+
+@KOODI_A = PER
+
+@NCSP_A = PESR
+
+@SUOMI_A = Valtimoiden sisäistutteiden poistamiset, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Uttagning av endovaskulärt implantat från a. femoralis eller dess grenar
+
+@ENGL_A = Removal of endovascular graft from femoral artery and branches
+
+@END = 
+
+@KOODI = PER23 
+
+@NCSP = PESR10
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. femoralis communis
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. femoralis communis
+
+@END = 
+
+@KOODI = PER24 
+
+@NCSP = PESR11
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. femoralis profunda
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. femoralis profunda
+
+@END = 
+
+@KOODI = PER25 
+
+@NCSP = PESR12
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. femoralis superficialis
+
+@RUOTSI = Uttagning av endovaskulärt implantat från a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PES
+
+@NCSP_A = PESS
+
+@SUOMI_A = Verisuonileikkaukset tähystyksessä tai ultraääniohjauksessa, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Endoskopiska eller ultraljudsstyrda operationer på a. femoralis eller dess grenar
+
+@ENGL_A = Endoscopic operation on femoral artery and branches
+
+@END = 
+
+@KOODI = PES23 
+
+@NCSP = PESS10
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai ultraääni-ohjauksessa, a. femoralis communis
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. femoralis communis
+
+@END = 
+
+@KOODI = PES24 
+
+@NCSP = PESS11
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai ultraääni-ohjauksessa, a. femoralis profunda
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. femoralis profunda
+
+@END = 
+
+@KOODI = PES25 
+
+@NCSP = PESS12
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai ultraääni-ohjauksessa, a. femoralis superficialis
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PET
+
+@NCSP_A = PEST
+
+@SUOMI_A = Kemiallisen tai tukkivan aineen ruiskuttamiset, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Injektioner av läkemedel eller ockluderande material i a. femoralis eller dess grenar
+
+@ENGL_A = Injection of therapeutic or sclerosing agent into femoral artery and branches and connection to popliteal artery
+
+@END = 
+
+@KOODI = PET23 
+
+@NCSP = PEST10
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. femoralis communis
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. femoralis communis
+
+@END = 
+
+@KOODI = PET24 
+
+@NCSP = PEST11
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. femoralis profunda
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. femoralis profunda
+
+@END = 
+
+@KOODI = PET25 
+
+@NCSP = PEST12
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. femoralis superficialis
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i a. femoralis superficialis
+
+@END = 
+
+@KOODI_A = PEU
+
+@NCSP_A = PESU
+
+@SUOMI_A = Valtimoiden uusintakorjaamiset, reisivaltimot tai niiden haarat
+
+@RUOTSI_A = Reoperationer inom tidigare rekonstruktion på arteria femoralis eller dess grenar och därmed sammanhängande anslutningar till a. poplitea
+
+@ENGL_A = Repair after previous reconstruction of femoral artery with branches and connection to popliteal artery
+
+@END = 
+
+@KOODI = PEU70 
+
+@NCSP = PESU70
+
+@SUOMI = Tutkimusleikkaus a. femoraliksen ja sen haarojen aiempaan korjaukseen tai ohitukseen liittyen
+
+@RUOTSI = Exploration av tidigare rekonstruktion på arteria femoralis eller dess grenar till a poplitea
+
+@END = 
+
+@KOODI = PEU81 
+
+@NCSP = PESU74
+
+@SUOMI = Veritulpan tai tukoksen poistaminen ohituksesta a. femoraliksesta a. popliteaan
+
+@RUOTSI = Trombektomi/embolektomi ur by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU82 
+
+@NCSP = PESU76
+
+@SUOMI = Ohituksen pullistuman korjaus, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Aneurysmoperation på by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU84 
+
+@NCSP = PESU80
+
+@SUOMI = Ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen sulku, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Perkutan ocklusion av kvarstående a-v fistel efter by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU74 
+
+@NCSP = PESU81
+
+@SUOMI = Ohituksen aiheuttaman valtimo-laskimoavanteen sulku, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Ligatur av kvarstående a-v fistel efter bypass från a femoralis
+
+@END = 
+
+@KOODI = PEU85 
+
+@NCSP = PESU82
+
+@SUOMI = Ohituksen korjaus, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Plastik på by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU86 
+
+@NCSP = PESU83
+
+@SUOMI = Ohituksen suonensisäinen korjaus,ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Perkutan korrektion av by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU87 
+
+@NCSP = PESU84
+
+@SUOMI = Ohituksen sisäistutteen laitto, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Inläggande av endovaskulärt implantat i by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU88 
+
+@NCSP = PESU85
+
+@SUOMI = Ohituksen sisäistutteen poisto, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Uttagning av endovaskulärt implantat ur by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU90 
+
+@NCSP = PESU86
+
+@SUOMI = Ohituksen korjaus tähystystoimenpiteenä, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Endoskopisk korrektion av by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU93 
+
+@NCSP = PESU87
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen ohitukseen, ohitus a. femoraliksesta a. poplitean
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i by-pass mellan  a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU91 
+
+@NCSP = PESU88
+
+@SUOMI = Ohituksen poisto, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Exstirpation av by-pass transplantat/implantat mellan a. femoralis till a. poplitea
+
+@NOTE_F = Sisältää sitomisen
+
+@NOTE_S = Inkl. ligatur
+
+@END = 
+
+@KOODI = PEU83 
+
+@NCSP = PESU89
+
+@SUOMI = Ohituksen aiheuttaman valtimo-laskimoavanteen sulku, ohitus a. femoraliksesta a. popliteaan
+
+@RUOTSI = Ligatur av a-v fistel efter by-pass från a. femoralis till a. poplitea
+
+@END = 
+
+@KOODI = PEU99 
+
+@NCSP = PESU99
+
+@SUOMI = Muu uusintakorjaus a. femoraliksen ja sen haarojen aiemman korjauksen tai ohituksen jälkeen
+
+@RUOTSI = Annan reoperation inom tidigare rekonstruktion på a. femoralis, på dess grenar eller på by-pass från a. femoralis till a. poplitea
+
+@NOTE_F = Sisältää aiemmassa leikkauksessa asetetun materiaalin poiston
+
+@NOTE_F =
+Valtimoiden sisäistutteiden poistamiset kohdassa PER
+
+@NOTE_S = Inkl avlägsnande av material insatt i tidigare operation
+
+@NOTE_S =
+Uttagning av endovaskulärt implantat, se PER
+
+@END = 
+
+@KOODI_A = PEW
+
+@NCSP_A = PESW
+
+@SUOMI_A = Muut reisivaltimoiden leikkaukset tai reisi-polvitaivevaltimo-ohitukset
+
+@RUOTSI_A = Andra operationer på arteria femoralis eller dess grenar samt därmed sammanhängande anslutningar till a. poplitea
+
+@ENGL_A = Other operations on femoral artery with branches and connection to popliteal artery
+
+@END = 
+
+@KOODI = PEW99 
+
+@NCSP = PESW99
+
+@SUOMI = Muu valtimoleikkaus, reisivaltimot tai niiden haarat
+
+@RUOTSI = Annan operation på a. femoralis och dess grenar samt därmed sammanhängande anslutningar till a. poplitea
+
+@NOTE_F = Sisältää synnynnäisen valtimo-laskimo avanteen korjauksen
+
+@NOTE_S =  Inkl medfödd A-V fistel eller aneurysm
+
+@END = 
+
+@KOODI_A = PE_
+
+@NCSP_A = PEX
+
+@SUOMI_A = Muut reisivaltimoiden ja reisi-polvitaivevaltimoiden toimepiteet
+
+@RUOTSI_A = Andra åtgärder på arteria femoras och dess delar
+
+@ENGL_A = Other procedures on femoral artery with branches
+
+@NOTE_RF = PTA = Percutaneous transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PE1KT 
+
+@NCSP = PEXG00
+
+@SUOMI = Reiden pseudoaneurysman painantahoito
+
+@RUOTSI = Femoral pseudoaneurysm, kompressionsbehandling
+
+@NOTE_F = Sisältää trombiini-injektion ja UÄ ohjauksen
+
+@NOTE_S = Inkl trombin-injektion och UL styrning
+
+@END = 
+
+@KOODI = PE1AT 
+
+@NCSP = PEXT1A
+
+@SUOMI = Reisivaltimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Lårbensartär, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PE1BT 
+
+@NCSP = PEXT1A
+
+@SUOMI = Reisivaltimon suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Lårbensartär, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI_R = PF
+
+@SUOMI_R = Polvitaipeen, säären ja jalkaterän valtimot
+
+@RUOTSI_R = A. poplitea, underbens- och fotartärer
+
+@ENGL_R = Popliteal artery and arteries of lower leg and foot
+
+@END = 
+
+@KOODI_A = PFA
+
+@NCSP_A = PFSA
+
+@SUOMI_A = Tutkimusleikkaukset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Explorationer av a. poplitea, underbens- eller fotartärer
+
+@ENGL_A = Exploration of popliteal artery
+
+@NOTE_RF = Ei sisällä koepalan ottoa pinnallisesta valtimosta, ks TPX00
+
+@NOTE_RS = Exkluderar biopsi av ytliga artärer, se TPX00
+
+@END = 
+
+@KOODI = PFA26 
+
+@NCSP = PFSA10
+
+@SUOMI = Tutkimusleikkaus, polvitaivevaltimo a. poplitea
+
+@RUOTSI = Exploration av a. poplitea
+
+@END = 
+
+@KOODI = PFA99 
+
+@NCSP = PFSA30
+
+@SUOMI = Tutkimusleikkaus, säären tai jalkaterän valtimo
+
+@RUOTSI = Exploration av  underbens- eller fotartär
+
+@END = 
+
+@KOODI_A = PFB
+
+@NCSP_A = PFSB
+
+@SUOMI_A = Sitomiset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Ligaturer av a. poplitea, underbens- eller fotartärer
+
+@ENGL_A = Ligature of popliteal artery and arteries of lower leg and foot
+
+@END = 
+
+@KOODI = PFB26 
+
+@NCSP = PFSB10
+
+@SUOMI = Sitominen, a. poplitea
+
+@RUOTSI = Ligatur av a. poplitea
+
+@END = 
+
+@KOODI = PFB99 
+
+@NCSP = PFSB30
+
+@SUOMI = Sitominen, säären tai jalkaterän valtimo
+
+@RUOTSI = Ligatur av  underbens- eller fotartär
+
+@END = 
+
+@KOODI_A = PFC
+
+@NCSP_A = PFSC
+
+@SUOMI_A = Ompelemiset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Arteriorafier på a. poplitea, underbens- eller fotartärer
+
+@ENGL_A = Suture of popliteal artery
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Valtimoiden sisäistutteiden poistot kohdassa PFR
+
+@NOTE_RF =
+Muun aiemmassa leikkauksessa asetetun materiaalin poistot kohdassa PFU99
+
+@NOTE_RS = Inkl avlägsnande av främmande föremål
+
+@NOTE_RS =
+Uttagning av endovaskulära implantat, se PFR
+
+@NOTE_RS =
+Avlägsnande av annat material insatt i tidigare operation, se PFU99
+
+@END = 
+
+@KOODI = PFC26 
+
+@NCSP = PFSC10
+
+@SUOMI = Ompelu, a. poplitea
+
+@RUOTSI = Arteriorafi på a. poplitea
+
+@END = 
+
+@KOODI_A = PFE
+
+@NCSP_A = PFSE
+
+@SUOMI_A = Veritulpan tai tukoksen poistot, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Trombektomier/embolektomier ur a. poplitea, underbens- eller fotartärer
+
+@ENGL_A = Thrombectomy or embolectomy of popliteal artery and arteries of lower leg and foot
+
+@NOTE_RF = Embolektomiat tai trombektomiat
+
+@END = 
+
+@KOODI = PFE26 
+
+@NCSP = PFSE10
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, a. poplitea
+
+@RUOTSI = Trombektomi/embolektomi ur a. poplitea
+
+@END = 
+
+@KOODI = PFE99 
+
+@NCSP = PFSE30
+
+@SUOMI = Veritulpan tai tukoksen poistaminen, säären tai jalkaterän valtimo
+
+@RUOTSI = Trombektomi/embolektomi ur underbens- eller fotartär
+
+@END = 
+
+@KOODI_A = PFG
+
+@NCSP_A = PFSG
+
+@SUOMI_A = Valtimonpullistumien leikkaukset, polvitaivevaltimot
+
+@RUOTSI_A = Aneurysmoperation på a. poplitea
+
+@ENGL_A = Operation for aneurysm of popliteal artery
+
+@END = 
+
+@KOODI = PFG26 
+
+@NCSP = PFSG10
+
+@SUOMI = Valtimonpullistuman leikkaus, a. poplitea
+
+@RUOTSI = Aneurysmoperation på a. poplitea
+
+@END = 
+
+@KOODI_A = PFH
+
+@NCSP_A = PFSH
+
+@SUOMI_A = Ohitukset reisi- tai polvitaivevaltimoista sääreen ja jalkaterään
+
+@RUOTSI_A = By-pass-operationer från a. femoralis/a. poplitea till underbens-/fotartärer
+
+@ENGL_A = Bypass from femoral artery to infrapopliteal arteries and from popliteal artery to arteries of lower leg and foot
+
+@NOTE_RF = Epäanatomiset ohitukset kohdassa PG
+
+@NOTE_RF =
+Ohituksissa ulostulokohta ja materiaali voidaan kuvata lisäkoodeilla kohdista ZPA ja ZPB
+
+@NOTE_RS = "Extra-anatomiska"arteriella by-pass-operationer, se PG
+
+@NOTE_RS =
+Vid by-pass kan avgångspunkten och materialet anges med ZPA och ZPB
+
+@END = 
+
+@KOODI = PFH58 
+
+@NCSP = PFSH21
+
+@SUOMI = Ohitusleikkaus a. femoraliksesta tai a. popliteasta proksimaaliseen a. tibialis anterioiriin
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till proksimalt a. tibialis anterior
+
+@END = 
+
+@KOODI = PFH59 
+
+@NCSP = PFSH22
+
+@SUOMI = Ohitusleikkaus a. femoraliksesta tai a. popliteasta distaaliseen a. tibialis anterioriin
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till distalt a. tibialis anterior
+
+@END = 
+
+@KOODI = PFH60 
+
+@NCSP = PFSH23
+
+@SUOMI = Ohitusleikkaus a. femoraliksesta tai a. popliteasta truncus tibiofibularikseen
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till truncus tibiofibularis
+
+@END = 
+
+@KOODI = PFH62 
+
+@NCSP = PFSH24
+
+@SUOMI = Ohitusleikkaus a. femoraliskesta tai a. popliteasta proksimaaliseen a. tibialis posterioriin
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till proksimalt a. tibialis posterior på underbenet
+
+@END = 
+
+@KOODI = PFH63 
+
+@NCSP = PFSH25
+
+@SUOMI = Ohitusleikkaus a. femoraliskesta tai a. popliteasta distaaliseen a. tibialis posterioriin
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till distalt a. tibialis posterior på underbenet
+
+@END = 
+
+@KOODI = PFH64 
+
+@NCSP = PFSH26
+
+@SUOMI = Ohitusleikkaus a. femoraliskesta tai a. popliteasta proksimaaliseen a. fibularikseen
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till proksimalt a. fibularis
+
+@END = 
+
+@KOODI = PFH65 
+
+@NCSP = PFSH27
+
+@SUOMI = Ohitusleikkaus a. femoraliskesta tai a. popliteasta distaaliseen a. fibularikseen
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till distalt a. fibularis
+
+@END = 
+
+@KOODI = PFH66 
+
+@NCSP = PFSH28
+
+@SUOMI = Ohitusleikkaus a. femoraliskesta tai a. popliteasta a. dorsalis pedikseen
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till a. dorsalis pedis
+
+@END = 
+
+@KOODI = PFH67 
+
+@NCSP = PFSH29
+
+@SUOMI = Ohitusleikkaus a. femoraliskesta tai a. popliteasta a. tibialis posterioriin jalkaterässä
+
+@RUOTSI = By-pass från a. femoralis/a. poplitea till a. tibialis posterior på foten
+
+@END = 
+
+@KOODI = PFH99 
+
+@NCSP = PFSH99
+
+@SUOMI = Muu ohitusleikkaus a. femoraliskesta tai a. popliteasta
+
+@RUOTSI = Annan by-pass-operation utgående från a. femoralis/a. poplitea
+
+@END = 
+
+@KOODI_A = PFL
+
+@NCSP_A = PFSL
+
+@SUOMI_A = Valtimo-laskimoavanteiden teko sääressä tai jalkaterässä
+
+@RUOTSI_A = Anläggande av A-V fistlar utgåedne från artärer i underben eller fot
+
+@ENGL_A = Construction of arteriovenous fistula in lower leg and foot
+
+@NOTE_RF = Sisältää ohitusleikkauksen yhteydessä tehtävät toimepiteet
+
+@NOTE_RS = Innefattar åtgärder i samband med by-pass
+
+@END = 
+
+@KOODI = PFL90 
+
+@NCSP = PFSL90
+
+@SUOMI = Valtimo-laskimoavanteen teko sääressä tai jalkaterässä
+
+@RUOTSI = Anläggande av A-V-fistel i underben eller fot
+
+@END = 
+
+@KOODI = PFL95 
+
+@NCSP = PFSL95
+
+@SUOMI = Ohituksen distaalisen liitoksen muokkaaminen verenvirtauksen edistämiseksi sääressä tai jalkaterässä
+
+@RUOTSI = Modifikation av distal by-pass anastomos i underben eller fot för att förbätra blodflöde
+
+@NOTE_S = Venous cuff, collar or patch
+
+@END = 
+
+@KOODI_A = PFN
+
+@NCSP_A = PFSN
+
+@SUOMI_A = Polvitaivevaltimon muovausleikkaukset
+
+@RUOTSI_A = Plastik på a. poplitea
+
+@ENGL_A = Plastic repair of popliteal artery
+
+@END = 
+
+@KOODI = PFN26 
+
+@NCSP = PFSN10
+
+@SUOMI = Valtimon muovausleikkaus, a. poplitea
+
+@RUOTSI = Plastik på a. poplitea
+
+@END = 
+
+@KOODI_A = PFP
+
+@NCSP_A = PFSP
+
+@SUOMI_A = Valtimoiden korjaamiset suljetusti, polvitaive-, sääri- taijalkaterävaltimot
+
+@RUOTSI_A = Perkutana plastiker på a. poplitea, underbens- eller fotartärer
+
+@ENGL_A = Percutaneous plastic repair of popliteal artery or artery of lower leg
+
+@NOTE_RF = Sis. mm. aspiraatioembolektomian ja aterektomian
+
+@NOTE_RF =
+Ei sisällä pallolaajennusta (PTA), katso PF1AT tai PF1BT
+
+@NOTE_RS = Inkl aspirations embolektomi, aterektomi etc.
+
+@NOTE_RS =
+Exkluderar PTA, se PF1AT eller PF1BT
+
+@END = 
+
+@KOODI = PFP26 
+
+@NCSP = PFSP10
+
+@SUOMI = Valtimon korjaaminen suljetusti, a. poplitea
+
+@RUOTSI = Perkutan plastik på a. poplitea
+
+@END = 
+
+@KOODI = PFP99 
+
+@NCSP = PFSP30
+
+@SUOMI = Valtimon korjaaminen suljetusti, säären tai jalkaterän valtimo
+
+@RUOTSI = Perkutan plastik på underbens- eller fotartär
+
+@END = 
+
+@KOODI_A = PFQ
+
+@NCSP_A = PFSQ
+
+@SUOMI_A = Valtimoiden sisäistutteiden asettamiset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Inläggande av endovaskulärt implantat i a. poplitea eller underbensartär
+
+@ENGL_A = Insertion of endovascular graft into popliteal artery or artery of lower leg
+
+@END = 
+
+@KOODI = PFQ26 
+
+@NCSP = PFSQ10
+
+@SUOMI = Valtimon sisäistutteen asettaminen, a. poplitea
+
+@RUOTSI = Inläggande av endovaskulärt implantat i a. poplitea
+
+@END = 
+
+@KOODI = PFQ99 
+
+@NCSP = PFSQ30
+
+@SUOMI = Valtimon sisäistutteen asettaminen, säären tai jalkaterän valtimo
+
+@RUOTSI = Inläggande av endovaskulärt implantat i underbens- eller fotartär
+
+@END = 
+
+@KOODI_A = PFR
+
+@NCSP_A = PFSR
+
+@SUOMI_A = Valtimoiden sisäistutteiden poistamiset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Uttagningar av endovaskulära implantat från a. poplitea/underbens-/fotartärer
+
+@ENGL_A = Removal of endovascular graft from popliteal artery or artery of lower leg
+
+@END = 
+
+@KOODI = PFR26 
+
+@NCSP = PFSR10
+
+@SUOMI = Valtimon sisäistutteen poistaminen, a. poplitea
+
+@RUOTSI = Uttagning av endovaskulärt implantat ur a. poplitea
+
+@END = 
+
+@KOODI = PFR99 
+
+@NCSP = PFSR30
+
+@SUOMI = Valtimon sisäistutteen poistaminen, säären tai jalkaterän valtimo
+
+@RUOTSI = Uttagning av endovaskulärt implantat ur underbens- eller fotartär
+
+@END = 
+
+@KOODI_A = PFS
+
+@NCSP_A = PFSS
+
+@SUOMI_A = Verisuonileikkaukset tähystyksessä tai ultraääniohjauksessa, polvitaivevaltimot
+
+@RUOTSI_A = Endoskopiska eller ultraljudsstyrda operationer på a. poplitea
+
+@ENGL_A = Endoscopic operation on popliteal artery
+
+@END = 
+
+@KOODI = PFS26 
+
+@NCSP = PFSS10
+
+@SUOMI = Verisuonileikkaus tähystyksessä tai uä-ohjauksessa, a. poplitea
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på a. poplitea
+
+@END = 
+
+@KOODI_A = PFT
+
+@NCSP_A = PFST
+
+@SUOMI_A = Kemiallisen tai tukkivan aineen ruiskuttamiset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Injektioner av läkemedel eller ockluderande material i a. poplitea, underbens- eller fotartärer
+
+@ENGL_A = Injection of therapeutic or sclerosing agent into popliteal artery or artery of lower leg
+
+@END = 
+
+@KOODI = PFT26 
+
+@NCSP = PFST10
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen, a. poplitea
+
+@RUOTSI = Injektioner av läkemedel eller ockluderande material i a. poplitea
+
+@END = 
+
+@KOODI_A = PFU
+
+@NCSP_A = PFSU
+
+@SUOMI_A = Valtimoiden uusintakorjaamiset, polvitaive-, sääri- tai jalkaterävaltimot
+
+@RUOTSI_A = Reoperationer inom tidigare rekonstruktioner på a. femoralis/a. poplitea/underbens-/fotartärer
+
+@ENGL_A = Repair after previous bypass from femoral or popliteal artery to infrapopliteal arteries and reconstruction of popliteal artery and arteries of lower
+
+@END = 
+
+@KOODI = PFU70 
+
+@NCSP = PFSU70
+
+@SUOMI = Tutkimusleikkaus aiempaan polven alapuolisen valtimoverenkierron korjaukseen liittyen
+
+@RUOTSI = Exploration av tidigare rekonstruktion av flöde i artärer under knäet
+
+@END = 
+
+@KOODI = PFU81 
+
+@NCSP = PFSU74
+
+@SUOMI = Veritulpan tai tukoksen poisto ohituksesta, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Trombektomi/embolektomi ur by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU82 
+
+@NCSP = PFSU76
+
+@SUOMI = Ohituksen pullistuman korjaus, ohitus a. femoraliksesta taia. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Åtgärd för aneurysm på by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU72 
+
+@NCSP = PFSU80
+
+@SUOMI = Ohituksen aiheuttaman valtimo-laskimoavanteen suonensisäinen sulku, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Perkutan slutning av kvarstående a-v fistel i bypass från a femoralis eller a poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU83 
+
+@NCSP = PFSU81
+
+@SUOMI = Ohituksen aiheuttaman valtimo-laskimoavanteen sulku, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Slutning av kvarstående a-v fistel i bypass från a femoralis eller a poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU74 
+
+@NCSP = PFSU82
+
+@SUOMI = Ohituksen aiheuttaman valtimo-laskimoavanteen sulku, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Plastik på bypass från a femoralis eller a poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU85 
+
+@NCSP = PFSU83
+
+@SUOMI = Ohituksen suonensisäinen korjaus (PTA), ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Perkutan plastik (PTA) på by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU86 
+
+@NCSP = PFSU84
+
+@SUOMI = Ohituksen sisäistutteen laitto, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Insättning av endovaskulärt implantat i by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU87 
+
+@NCSP = PFSU85
+
+@SUOMI = Ohituksen sisäistutteen poisto, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Uttagning av endovaskulärt implantat ur by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU88 
+
+@NCSP = PFSU86
+
+@SUOMI = Ohituksen korjaus tähystyksessä tai uä-ohjauksessa, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Endoskopisk eller ultraljudsstyrd operation på by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU93 
+
+@NCSP = PFSU87
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen ohitukseen a. femoraliksesta tai popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU91 
+
+@NCSP = PFSU88
+
+@SUOMI = Ohitussiirteen poisto, ohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Exstirpation av by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@NOTE_F = Sisältää sitomisen
+
+@NOTE_S = Inkl. ligatur
+
+@END = 
+
+@KOODI = PFU89 
+
+@NCSP = PFSU89
+
+@SUOMI = Ohituksen sulkeminen ompeleella, ohitus a. femoralikesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Ligatur av bypass från a femoralis eller a poplitea
+
+@END = 
+
+@KOODI = PFU96 
+
+@NCSP = PFSU96
+
+@SUOMI = Uusintaohitus a. femoraliksesta tai a. popliteasta polven alapuolisiin valtimoihin
+
+@RUOTSI = Upprepad by-pass från a. femoralis eller a. poplitea till infrapopliteala artärer
+
+@END = 
+
+@KOODI = PFU99 
+
+@NCSP = PFSU99
+
+@SUOMI = Muu uusintakorjaus polven alapuolisen valtimoverenkierron korjauksen jälkeen
+
+@RUOTSI = Annan reoperation efter rekonstruktion av flöde i artärer under knäet
+
+@NOTE_F = Sisältää aiemmassa leikkauksessa asetetun materiaalin poiston
+
+@NOTE_F =
+Valtimoiden sisäistutteiden poistamiset kohdassa PFR
+
+@NOTE_S = Inkl avlägsnande av material insatt i tidigare operation
+
+@NOTE_S =
+Uttagning av endovaskulärt implantat, se PFR
+
+@END = 
+
+@KOODI_A = PFW
+
+@NCSP_A = PFSW
+
+@SUOMI_A = Muut polvitaive-, sääri- tai jalkaterävaltimoleikkaukset
+
+@RUOTSI_A = Andra operationer på a. poplitea eller artärer på underben och fot
+
+@ENGL_A = Other operations on popliteal artery and arteries of lower leg and foot
+
+@END = 
+
+@KOODI = PFW99 
+
+@NCSP = PFSW99
+
+@SUOMI = Muu valtimoleikkaus, polvitaivevaltimo tai sen alapuolinen valtimo
+
+@RUOTSI = Annan operation på a. poplitea eller artärer på underben och fot
+
+@NOTE_F = Sisältää synnynnäisen valtimo-laskimo avanteen korjauksen
+
+@END = 
+
+@KOODI_A = PF_
+
+@NCSP_A = PFX
+
+@SUOMI_A = Muut polvitaipeen, säären tai jalkaterän valtimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på artärer i knä, underben eller fot
+
+@ENGL_A = Other procedures on popliteal artery and arteries of lower leg and foot
+
+@NOTE_RF = PTA = Percutaneous transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PF1AT 
+
+@NCSP = PFXT1A
+
+@SUOMI = Polven, säären ja nilkan valtimoiden suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Knävecks-, underbens- och vristartärer, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PF1BT 
+
+@NCSP = PFXT1A
+
+@SUOMI = Polven, säären ja nilkan valtimoiden suonensisäinen laajennushoito (PTA), laaja
+
+@RUOTSI = Knävecks-, underbens- och vristartärer, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI_R = PG
+
+@SUOMI_R = Anatomisesti paikantamattomat ja epäanatomiset valtimotoimenpiteet
+
+@RUOTSI_R = Anatomiskt olakaliserade och oanatomiska åtgärder på artärer
+
+@ENGL_R = Procedures on other or unspecified arteries and extra-anatomic bypasses
+
+@END = 
+
+@KOODI_A = PGH
+
+@NCSP_A = PGSH
+
+@SUOMI_A = Epäanatomiset valtimoiden ohitusleikkaukset
+
+@RUOTSI_A = Extra-anatomiska arteriella by-pass-operationer
+
+@ENGL_A = Extra-anatomic bypass
+
+@NOTE_RF = Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PGH40 
+
+@NCSP = PGSH10
+
+@SUOMI = Ohitus a. axillaris - a. axillaris  cross-over
+
+@RUOTSI = Axillo-axillar by-pass-operation ("cross over")
+
+@END = 
+
+@KOODI = PGH41 
+
+@NCSP = PGSH20
+
+@SUOMI = Ohitus a. axillaris - a. iliaca
+
+@RUOTSI = By-pass a. axillaris - a. iliaca
+
+@END = 
+
+@KOODI = PGH42 
+
+@NCSP = PGSH21
+
+@SUOMI = Ohitus a. axillaris - a. iliaca, kaksoisohitus
+
+@RUOTSI = Dubbel-by-pass a. axillaris - a. iliaca
+
+@NOTE_F = Ohitus molempiin lonkkavaltimoihin.
+
+@NOTE_S = By-pass till båda sidor
+
+@END = 
+
+@KOODI = PGH43 
+
+@NCSP = PGSH22
+
+@SUOMI = Ohitus a. axillaris - a. femoralis
+
+@RUOTSI = By-pass a. axillaris - a. femoralis
+
+@END = 
+
+@KOODI = PGH44 
+
+@NCSP = PGSH23
+
+@SUOMI = Ohitus a. axillaris - a. femoralis, kaksoisohitus
+
+@RUOTSI = Dubbel-by-pass a. axillaris - a. femoralis
+
+@NOTE_F = Ohitus molempiin reisivaltimoihin.
+
+@END = 
+
+@KOODI = PGH45 
+
+@NCSP = PGSH30
+
+@SUOMI = Ohitus a. iliaca- a. femoralis  cross over
+
+@RUOTSI = By-pass a. iliaca - a. femoralis ("cross over")
+
+@END = 
+
+@KOODI = PGH46 
+
+@NCSP = PGSH31
+
+@SUOMI = Ohitus a. iliaca- a. femoralis, foramen obturatoriumin kautta
+
+@RUOTSI = By-pass a. iliaca - a. femoralis via foramen obturatorium
+
+@END = 
+
+@KOODI = PGH47 
+
+@NCSP = PGSH40
+
+@SUOMI = Ohitus a. femoralis- a. femoralis  cross over
+
+@RUOTSI = By-pass a. femoralis - a. femoralis ("cross over")
+
+@END = 
+
+@KOODI = PGH49 
+
+@NCSP = PGSH99
+
+@SUOMI = Muu epäanatominen ohitusleikkaus
+
+@RUOTSI = Annan "extra-anatomisk" arteriell by-pass-operation
+
+@END = 
+
+@KOODI_A = PGU
+
+@NCSP_A = PGSU
+
+@SUOMI_A = Uusintakorjaamiset epäanatomisten valtimon ohitusten jälkeen
+
+@RUOTSI_A = Reoperationer inom tidigare arteriella by-pass-rekonstruktioner med "extra-anatomiska" förlopp
+
+@ENGL_A = Repair of extra-anatomic bypass
+
+@END = 
+
+@KOODI = PGU70 
+
+@NCSP = PGSU70
+
+@SUOMI = Epäanatomisen ohituksen tutkimusleikkaus
+
+@RUOTSI = Exploration av extra-anatomisk bypass
+
+@END = 
+
+@KOODI = PGU81 
+
+@NCSP = PGSU74
+
+@SUOMI = Veritulpan tai tukoksen poisto epäanatomisesta ohituksesta
+
+@RUOTSI = Trombektomi i bypass på extra-anatomiskt förlopp
+
+@END = 
+
+@KOODI = PGU82 
+
+@NCSP = PGSU76
+
+@SUOMI = Epäanatomisen ohituksen pullistuman korjaus
+
+@RUOTSI = Aneurysmoperation på bypass på extra-anatomiskt förlopp
+
+@END = 
+
+@KOODI = PGU85 
+
+@NCSP = PGSU83
+
+@SUOMI = Epäanatomisen ohituksen suonensisäinen korjaus
+
+@RUOTSI = Perkutan plastik på bypass på extra-anatomiskt förlopp
+
+@NOTE_F = esim PTA
+
+@NOTE_S = T.ex. PTA
+
+@END = 
+
+@KOODI = PGU86 
+
+@NCSP = PGSU84
+
+@SUOMI = Sisäistutteen laitto epäanatomiseen ohitukseen
+
+@RUOTSI = Inläggande av endovaskulärt implantat i bypass på extra-anatomiskt förlopp
+
+@END = 
+
+@KOODI = PGU87 
+
+@NCSP = PGSU85
+
+@SUOMI = Sisäistutteen poisto epäanatomisesta ohituksesta
+
+@RUOTSI = Uttagning av endovaskulärt implantat från bypass på extra-anatomiskt förlopp
+
+@END = 
+
+@KOODI = PGU88 
+
+@NCSP = PGSU86
+
+@SUOMI = Epäanatomisen ohituksen korjaus tähystystoimenpiteenä
+
+@RUOTSI = Endoskopisk operation på bypass på extra-anatomiskt förlopp
+
+@END = 
+
+@KOODI = PGU93 
+
+@NCSP = PGSU87
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen epäanatomiseen valtimon ohitukseen
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i by-pass på extra-anatomiskt förlopp
+
+@END = 
+
+@KOODI = PGU91 
+
+@NCSP = PGSU88
+
+@SUOMI = Epäanatomisen ohituksen poisto
+
+@RUOTSI = Exstirpation av bypass på extra-anatomiskt förlopp
+
+@NOTE_F = Sisältää sitomisen
+
+@NOTE_S = Inkl. ligatur
+
+@END = 
+
+@KOODI = PGU96 
+
+@NCSP = PGSU96
+
+@SUOMI = Epäanatomisen ohituksen uusintaohitus
+
+@RUOTSI = Upprepad by-pass med extra-anatomisk förlopp
+
+@END = 
+
+@KOODI = PGU99 
+
+@NCSP = PGSU99
+
+@SUOMI = Muu epäanatomisen ohituksen korjaaminen
+
+@RUOTSI = Annan korrektion på by-pass med "extra-anatomiskt" förlopp
+
+@END = 
+
+@KOODI_A = PGH
+
+@NCSP_A = PGSH
+
+@SUOMI_A = Epäanatomiset valtimoiden ohitusleikkaukset
+
+@RUOTSI_A = Extra-anatomiska arteriella by-pass-operationer
+
+@ENGL_A = Extra-anatomic bypass
+
+@NOTE_RF = Ohituksissa materiaali voidaan kuvata lisäkoodeilla kohdiasta ZPB
+
+@NOTE_RS = Vid by-pass kan materialet anges med tilläggskod, se ZPB
+
+@END = 
+
+@KOODI = PGW99 
+
+@NCSP = PGSX99
+
+@SUOMI = Muu epäanatomisen ohituksen leikkaus
+
+@RUOTSI = Annan operation på by-pass med "extra-anatomiskt" förlopp
+
+@END = 
+
+@KOODI = PG1AT 
+
+@NCSP = PGXT1A
+
+@SUOMI = Muun valtimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Annan artär, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PG1BT 
+
+@NCSP = PGXT1B
+
+@SUOMI = Muun valtimon suonensisäinen laajennushoito (PTA), laaja, usea alue
+
+@RUOTSI = Annan artär, omfattande perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PG1GT 
+
+@NCSP = PGXT1G
+
+@SUOMI = Muun AV-malformaatioin suonensisäinen tukkiminen
+
+@RUOTSI = Annan av-malformation, intravaskulär embolisering
+
+@END = 
+
+@KOODI = PG1HT 
+
+@NCSP = PGXT1G
+
+@SUOMI = Muun AV-malformaatioin suonensisäinen tukkiminen, laaja
+
+@RUOTSI = Annan av-malformation, intravaskulär omfattande embolisering
+
+@END = 
+
+@KOODI = PG1JT 
+
+@NCSP = PGXT1G
+
+@SUOMI = Muun AV-malformaatioin suonensisäinen tukkiminen, erittäin laaja
+
+@RUOTSI = Annan av-malformation, intravaskulär mycket omfattande embolisering
+
+@END = 
+
+@KOODI = PG1KT 
+
+@NCSP = PGXT1K
+
+@SUOMI = Muun aneurysman suonensisäinen tukkiminen
+
+@RUOTSI = Annan aneurysm, intravaskulär ocklusion
+
+@END = 
+
+@KOODI = PG1LT 
+
+@NCSP = PGXT1K
+
+@SUOMI = Muun aneurysman suonensisäinen tukkiminen, laaja
+
+@RUOTSI = Annan aneurysm, omfattande intravaskulär ocklusion
+
+@END = 
+
+@KOODI = PG1MT 
+
+@NCSP = PGXT1M
+
+@SUOMI = Vasokonstriktiivinen hoito radiologisessa ohjauksessa
+
+@RUOTSI = Vasokonstriktiv behandling, radiologiskt styrd
+
+@END = 
+
+@KOODI = PG1NT 
+
+@NCSP = PGXT1N
+
+@SUOMI = Muun vuodon suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Annan blödning, radiologiskt styrd embolisering
+
+@END = 
+
+@KOODI = PG1PT 
+
+@NCSP = PGXT1N
+
+@SUOMI = Muun vuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Annan blödning, radiologiskt styrd omfatttande embolisering
+
+@END = 
+
+@KOODI = PG1QT 
+
+@NCSP = PGXT1N
+
+@SUOMI = Muun vuodon suonensisäinen tukkiminen radiologisessa ohjauksessa, erittäin laaja
+
+@RUOTSI = Annan blödning, radiologiskt styrd mycket omfatttande embolisering
+
+@END = 
+
+@KOODI = PG1ST 
+
+@NCSP = PGXT1S
+
+@SUOMI = Muu valtimon selektiivinen liuotushoito
+
+@RUOTSI = Annan artär, selektiv trombolys
+
+@END = 
+
+@KOODI = PG1UT 
+
+@NCSP = PGXT1U
+
+@SUOMI = Muun valtimotulpan perkutaaninen poisto aspiraatiolla
+
+@RUOTSI = Annan artär, perkutan aspiration av ocklusion
+
+@END = 
+
+@KOODI = PG1VT 
+
+@NCSP = PGXT1V
+
+@SUOMI = Perkutaaninen aterektomia
+
+@RUOTSI = Perkutan aterektomi
+
+@END = 
+
+@KOODI = PG1WT 
+
+@NCSP = PGXT1W
+
+@SUOMI = Laser-angioplastia radiologisessa ohjauksessa
+
+@RUOTSI = Laserangioplastik, radiologiskt styrd
+
+@END = 
+
+@KOODI = PG1YT 
+
+@NCSP = PGXT1Y
+
+@SUOMI = Verisuonikatetrin asennus läpivalaisussa
+
+@RUOTSI = Kärlkateter insättning med genomlysning
+
+@END = 
+
+@KOODI = PG1ZT 
+
+@NCSP = PGXT1Z
+
+@SUOMI = Vierasesineen poisto verisuonesta radiologisessa ohjauksessa
+
+@RUOTSI = Främmande kropp radiologiskt styrd avlägsnande ur blodkärl
+
+@END = 
+
+@KOODI = PG2YT 
+
+@NCSP = PGXT2Y
+
+@SUOMI = Endoproteesin suonensisäinen laitto muuhun valtimoon
+
+@RUOTSI = Annan artär, radiolgiskt styrd insättning av kärlendoprotes
+
+@NOTE_F = Aorttaproteesi kohdassa PD1YT tai PD5YT
+
+@NOTE_S = Aortaprotes, se PD1YT eller PD5YT
+
+@END = 
+
+@KOODI = PG5RT 
+
+@NCSP = PGXT5R
+
+@SUOMI = Valtimolaskimoavanteen suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Arteriövenösfistel perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI = PG5ST 
+
+@NCSP = PGXT5S
+
+@SUOMI = Valtimolaskimoavanteen selektiivinen liuotushoito
+
+@RUOTSI = Arteriövenösfistel  selektiv trombolys
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimot
+
+@RUOTSI_R = Vener
+
+@ENGL_R = Veins
+
+@END = 
+
+@KOODI_A = PH_
+
+@NCSP_A = PHD
+
+@SUOMI_A = Laskimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi på vener
+
+@ENGL_A = Diagnostic radiology on veins
+
+@END = 
+
+@KOODI = PH3LB 
+
+@NCSP = PHDB3L
+
+@SUOMI = Porttilaskimon katetrin paikan tarkastus
+
+@RUOTSI = Vena portae, granskning av kateterlokalisation
+
+@END = 
+
+@KOODI = PH1AC 
+
+@NCSP = PHDC1A
+
+@SUOMI = Yläraajan laskimotutkimus
+
+@RUOTSI = Flebografi av övre extremitet
+
+@END = 
+
+@KOODI = PH1BC 
+
+@NCSP = PHDC1A
+
+@SUOMI = Yläraajan laaja laskimotutkimus
+
+@RUOTSI = Flebografi av övre extremitet, omfattande
+
+@END = 
+
+@KOODI = PH2AC 
+
+@NCSP = PHDC2A
+
+@SUOMI = Alaraajan laskimon varjoainetutkimus (flebografia,venografia)
+
+@RUOTSI = Flebografi av nedre extremitet
+
+@END = 
+
+@KOODI = PH2BC 
+
+@NCSP = PHDC2A
+
+@SUOMI = Alaraajan laskimon laaja varjoainetutkimus
+
+@RUOTSI = Flebografi av nedre extremitet, omfattande
+
+@NOTE_F = Varjoaineruiskutus jalkaterään ja nivustaipeeseen
+
+@NOTE_S = Kontrast injektion både i fot och ljumske
+
+@END = 
+
+@KOODI = PH3AC 
+
+@NCSP = PHDC3A
+
+@SUOMI = Sisäelinlaskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av bukvener
+
+@END = 
+
+@KOODI = PH3BC 
+
+@NCSP = PHDC3A
+
+@SUOMI = Sisäelinlaskimon laaja varjoainetutkimus
+
+@RUOTSI = Flebografi av bukvener, omfattande
+
+@END = 
+
+@KOODI = PH3CC 
+
+@NCSP = PHDC3A
+
+@SUOMI = Sisäelinlaskimon erittäin laaja varjoainetutkimus
+
+@RUOTSI = Flebografi av bukvener, mycket omfattande
+
+@END = 
+
+@KOODI = PH3EC 
+
+@NCSP = PHDC3E
+
+@SUOMI = Maksalaskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av levervener
+
+@END = 
+
+@KOODI = PH3HC 
+
+@NCSP = PHDC3H
+
+@SUOMI = Munuaislaskimon varjoainetutkimus
+
+@RUOTSI = Flebografi av njurvener
+
+@END = 
+
+@KOODI = PH4AC 
+
+@NCSP = PHDC4A
+
+@SUOMI = Pään ja kaulan alueen laskimon varjoainetutkimus
+
+@RUOTSI = Flebografi i huvud-hals området
+
+@NOTE_F = Sisältää aivojen laskimot
+
+@NOTE_S = Inkl. hjärnans vener
+
+@END = 
+
+@KOODI = PH5AC 
+
+@NCSP = PHDC5A
+
+@SUOMI = Kiveslaskimon varjoainetutkimus (vena spermatica)
+
+@RUOTSI = Flebografi av vena spermatica
+
+@END = 
+
+@KOODI = PH7AC 
+
+@NCSP = PHDC7A
+
+@SUOMI = Alaonttolaskimon varjoainetutkimus
+
+@RUOTSI = Lumbal kavografi
+
+@END = 
+
+@KOODI = PH8AC 
+
+@NCSP = PHDC8A
+
+@SUOMI = Paisuvaiskudoksen varjoainetutkimus (cavernosografia)
+
+@RUOTSI = Kavernosografi
+
+@END = 
+
+@KOODI = PH8BC 
+
+@NCSP = PHDC8B
+
+@SUOMI = Paisuvaiskudoksen varjoainetutkimus ja mittaus
+
+@RUOTSI = Kavernosografi med mätning
+
+@END = 
+
+@KOODI = PH1AD 
+
+@NCSP = PHDD1A
+
+@SUOMI = Yläraajan ja kaulan laskimoiden sekä yläonttolaskimon TT
+
+@RUOTSI = DT av vener i övre extremitet och hals samt övre vena cava
+
+@END = 
+
+@KOODI = PH1BD 
+
+@NCSP = PHDD1A
+
+@SUOMI = Yläraajan ja kaulan laskimoiden sekä yläonttolaskimon laaja TT
+
+@RUOTSI = Omfattande DT av vener i övre extremitet och hals samt övre vena cava
+
+@END = 
+
+@KOODI = PH2AD 
+
+@NCSP = PHDD2A
+
+@SUOMI = Alaonttolaskimon, lantion laskimoiden ja alaraajalaskimoiden laaja TT
+
+@RUOTSI = Omfattande DT av nedre v. cava, bäckenvener och vener i nedre extremitet
+
+@END = 
+
+@KOODI = PH2BD 
+
+@NCSP = PHDD2A
+
+@SUOMI = Alaonttolaskimon, lantion laskimoiden ja alaraajalaskimoiden TT
+
+@RUOTSI = Nedre vena cava, bäckenvener och vener i nedre extremitet, DT
+
+@END = 
+
+@KOODI = PH3AD 
+
+@NCSP = PHDD3A
+
+@SUOMI = Porttilaskimon ja sen haarojen TT
+
+@RUOTSI = Vena portae och dess grenar, DT
+
+@END = 
+
+@KOODI = PH3BD 
+
+@NCSP = PHDD3A
+
+@SUOMI = Porttilaskimon ja sen haarojen laaja TT
+
+@RUOTSI = Vena portae och dess grenar, omfattande DT
+
+@END = 
+
+@KOODI = PH1AE 
+
+@NCSP = PHDE1A
+
+@SUOMI = Yläraajalaskimoiden UÄ
+
+@RUOTSI = Övre extremitetens vener, UL
+
+@END = 
+
+@KOODI = PH2AE 
+
+@NCSP = PHDE2A
+
+@SUOMI = Alaraajalaskimoiden UÄ
+
+@RUOTSI = Nedre extremitetens vener, UL
+
+@END = 
+
+@KOODI = PH2DE 
+
+@NCSP = PHDE2D
+
+@SUOMI = Alaraajalaskimoiden verivirtauksen Doppler-UÄ
+
+@RUOTSI = Nedre extremitetens venflöde, UL med Doppler teknik
+
+@END = 
+
+@KOODI_A = PHB
+
+@NCSP_A = PHSB
+
+@SUOMI_A = Laskimoiden sitomiset
+
+@RUOTSI_A = Ligaturer av vener
+
+@ENGL_A = Ligature of veins
+
+@NOTE_RF = Sisältää katkaisun.
+
+@NOTE_RF =
+Suonikohjuleikkaukset pääosin kohdassa PHD.
+
+@END = 
+
+@KOODI = PHB76 
+
+@NCSP = PHSB10
+
+@SUOMI = Laskimon sitominen, v. saphena magna
+
+@RUOTSI = Ligatur av  v. saphena magna
+
+@END = 
+
+@KOODI = PHB77 
+
+@NCSP = PHSB12
+
+@SUOMI = Laskimon sitominen, v. saphena parva
+
+@RUOTSI = Ligatur av v. saphena parva
+
+@END = 
+
+@KOODI = PHB78 
+
+@NCSP = PHSB13
+
+@SUOMI = Reiden tai säären lävistäjälaskimon sitominen
+
+@RUOTSI = Ligatur av vv perforantes
+
+@NOTE_F = vv. perforantes
+
+@END = 
+
+@KOODI = PHB73 
+
+@NCSP = PHSB23
+
+@SUOMI = Laskimon sitominen, v. iliaca
+
+@RUOTSI = Ligatur av v. iliaca
+
+@END = 
+
+@KOODI = PHB70 
+
+@NCSP = PHSB30
+
+@SUOMI = Laskimon sitominen, v. cava inferior
+
+@RUOTSI = Ligatur av v. cava inferior
+
+@END = 
+
+@KOODI = PHB72 
+
+@NCSP = PHSB31
+
+@SUOMI = Laskimon sitominen, v. renalis
+
+@RUOTSI = Ligatur av v. renalis
+
+@END = 
+
+@KOODI = PHB71 
+
+@NCSP = PHSB32
+
+@SUOMI = Laskimon sitominen, v. mesenterica tai v. portae
+
+@RUOTSI = Ligatur av v. mesenterica/v. portae
+
+@END = 
+
+@KOODI = PHB99 
+
+@NCSP = PHSB99
+
+@SUOMI = Laskimon sitominen, muu laskimo
+
+@RUOTSI = Ligatur av annan ven
+
+@END = 
+
+@KOODI_A = PHC
+
+@NCSP_A = PHSC
+
+@SUOMI_A = Laskimoiden ompelut
+
+@RUOTSI_A = Venorafier
+
+@ENGL_A = Suture of veins
+
+@NOTE_RF = Sis. vierasesineiden poistot
+
+@NOTE_RF =
+Valtimoiden sisäistutteiden poistamiset kohdassa PHR
+
+@NOTE_RS = Inkl avlägsnande av främmande kropp
+
+@NOTE_RS =
+Uttagning av endovaskulärt implantat, se PHR
+
+@END = 
+
+@KOODI = PHC74 
+
+@NCSP = PHSC22
+
+@SUOMI = Laskimon ompelu, v. femoralis
+
+@RUOTSI = Venorafi på v. femoralis
+
+@END = 
+
+@KOODI = PHC73 
+
+@NCSP = PHSC23
+
+@SUOMI = Laskimon ompelu, v. iliaca
+
+@RUOTSI = Venorafi på v. iliaca
+
+@END = 
+
+@KOODI = PHC70 
+
+@NCSP = PHSC30
+
+@SUOMI = Laskimon ompelu, v. cava inferior
+
+@RUOTSI = Venorafi på v. cava inferior
+
+@END = 
+
+@KOODI = PHC72 
+
+@NCSP = PHSC31
+
+@SUOMI = Laskimon ompelu, v. renalis
+
+@RUOTSI = Venorafi på v. renalis
+
+@END = 
+
+@KOODI = PHC71 
+
+@NCSP = PHSC32
+
+@SUOMI = Laskimon ompelu, v. mesenterica tai v. portae
+
+@RUOTSI = Venorafi på v. mesenterica/v. portae
+
+@END = 
+
+@KOODI = PHC99 
+
+@NCSP = PHSC99
+
+@SUOMI = Laskimon ompelu, muu laskimo
+
+@RUOTSI = Venorafi på annan ven
+
+@END = 
+
+@KOODI_A = PHD
+
+@NCSP_A = PHSD
+
+@SUOMI_A = Laskimoiden poistot
+
+@RUOTSI_A = Excisioner/exereser av vener
+
+@ENGL_A = Resection of veins
+
+@END = 
+
+@KOODI = PHD76 
+
+@NCSP = PHSD10
+
+@SUOMI = Ison safeenalaskimon poistaminen
+
+@RUOTSI = Excision/exeres ("stripping") av v. saphena magna
+
+@NOTE_F = V. saphena magnan strippaus.
+
+@END = 
+
+@KOODI = PHD77 
+
+@NCSP = PHSD12
+
+@SUOMI = Pienen safeenalaskimon poistaminen
+
+@RUOTSI = Excision/exeres ("stripping") av v. saphena parva
+
+@NOTE_F =  V. saphena parvan  strippaus
+
+@END = 
+
+@KOODI = PHD78 
+
+@NCSP = PHSD15
+
+@SUOMI = Reiden tai säären lävistäjälaskimoiden poisto
+
+@RUOTSI = Excision/exeres av vv. perforantes på lår eller underben
+
+@NOTE_F =  Vv. perforantes
+
+@END = 
+
+@KOODI = PHD99 
+
+@NCSP = PHSD99
+
+@SUOMI = Laskimon poistaminen, muu laskimo
+
+@RUOTSI = Excision/exeres av annan ven
+
+@END = 
+
+@KOODI_A = PHE
+
+@NCSP_A = PHSE
+
+@SUOMI_A = Laskimoiden tukkivan materiaalin poistot
+
+@RUOTSI_A = Trombektomier ur vener
+
+@ENGL_A = Thrombectomy of veins
+
+@NOTE_RF = Esim. veritulpan poisto
+
+@NOTE_RF =
+Sisältää kasvaintapin poiston
+
+@NOTE_RS = Inkl. avlägsnande av tumörmaterial ur vener
+
+@END = 
+
+@KOODI = PHE74 
+
+@NCSP = PHSE22
+
+@SUOMI = Laskimon tukkivan materiaalin poistaminen, v. femoralis
+
+@RUOTSI = Trombektomi ur v.femoralis
+
+@END = 
+
+@KOODI = PHE73 
+
+@NCSP = PHSE23
+
+@SUOMI = Laskimon tukkivan materiaalin poistaminen, v. iliaca
+
+@RUOTSI = Trombektomi ur v.iliaca
+
+@END = 
+
+@KOODI = PHE70 
+
+@NCSP = PHSE30
+
+@SUOMI = Laskimon tukkivan materiaalin poistaminen, v. cava inferior
+
+@RUOTSI = Trombektomi ur v.cava inferior
+
+@END = 
+
+@KOODI = PHE72 
+
+@NCSP = PHSE31
+
+@SUOMI = Laskimon tukkivan materiaalin poistaminen, v. renalis
+
+@RUOTSI = Trombektomi ur v.renalis
+
+@END = 
+
+@KOODI = PHE99 
+
+@NCSP = PHSE99
+
+@SUOMI = Laskimon tukkivan materiaalin poistaminen, muu laskimo
+
+@RUOTSI = Trombektomi ur annan ven
+
+@END = 
+
+@KOODI_A = PHH
+
+@NCSP_A = PHSH
+
+@SUOMI_A = Laskimoiden ohitusleikkaukset
+
+@RUOTSI_A = Venösa by-pass-operationer
+
+@ENGL_A = Bypass from veins
+
+@END = 
+
+@KOODI = PHH75 
+
+@NCSP = PHSH21
+
+@SUOMI = Laskimon ohitusleikkaus polvitaivelaskimosta,v. popliteae
+
+@RUOTSI = By-pass från v. poplitea
+
+@END = 
+
+@KOODI = PHH74 
+
+@NCSP = PHSH22
+
+@SUOMI = Laskimon ohitusleikkaus reisilaskimosta, v. femoralis
+
+@RUOTSI = By-pass från v. femoralis
+
+@END = 
+
+@KOODI = PHH73 
+
+@NCSP = PHSH25
+
+@SUOMI = Laskimon ohitusleikkaus lonkkalaskimosta, v. iliaca
+
+@RUOTSI = By-pass från v. iliaca
+
+@END = 
+
+@KOODI = PHH99 
+
+@NCSP = PHSH99
+
+@SUOMI = Laskimon ohitusleikkaus muusta laskimosta
+
+@RUOTSI = By-pass från annan ven
+
+@END = 
+
+@KOODI_A = PHJ
+
+@NCSP_A = PHSJ
+
+@SUOMI_A = Laskimoiden tyven siirtämiset
+
+@RUOTSI_A = Transpositioner av vener
+
+@ENGL_A = Transposition of veins
+
+@END = 
+
+@KOODI = PHJ74 
+
+@NCSP = PHSJ22
+
+@SUOMI = Laskimon tyven siirtäminen, v. femoralis
+
+@RUOTSI = Transposition av v. femoralis
+
+@END = 
+
+@KOODI = PHJ99 
+
+@NCSP = PHSJ99
+
+@SUOMI = Laskimon tyven siirtäminen, muu laskimo
+
+@RUOTSI = Transposition av annan ven
+
+@END = 
+
+@KOODI_A = PHN
+
+@NCSP_A = PHSN
+
+@SUOMI_A = Laskimoiden muovausleikkaukset
+
+@RUOTSI_A = Plastiker på vener
+
+@ENGL_A = Plastic repair of veins
+
+@END = 
+
+@KOODI = PHN75 
+
+@NCSP = PHSN21
+
+@SUOMI = Laskimon muovausleikkaus, v. poplitea
+
+@RUOTSI = Plastik på v. poplitea
+
+@END = 
+
+@KOODI = PHN70 
+
+@NCSP = PHSN30
+
+@SUOMI = Laskimon muovausleikkaus, v. cava inferior
+
+@RUOTSI = Plastik på v. cava inferior
+
+@END = 
+
+@KOODI = PHN79 
+
+@NCSP = PHSN99
+
+@SUOMI = Laskimon muovausleikkaus, muu laskimo
+
+@RUOTSI = Plastik på annan ven
+
+@END = 
+
+@KOODI_A = PHP
+
+@NCSP_A = PHSP
+
+@SUOMI_A = Laskimoiden muovaukset suljetusti iholta
+
+@RUOTSI_A = Slutna (perkutana) plastiker på vener
+
+@ENGL_A = Percutaneous plastic repair of veins
+
+@NOTE_RF = Tähystyksessä tehdyt laskimotoimenpiteet, katso PHS
+
+@NOTE_RS = Endoskopisk venkirurgi, se PHS
+
+@END = 
+
+@KOODI = PHP73 
+
+@NCSP = PHSP23
+
+@SUOMI = Laskimon muovaus suljetusti, v. iliaca
+
+@RUOTSI = Sluten (perkutan) plastik på v. iliaca
+
+@END = 
+
+@KOODI = PHP99 
+
+@NCSP = PHSP99
+
+@SUOMI = Laskimon muovaus suljetusti, muu laskimo
+
+@RUOTSI = Sluten (perkutan) plastik på annan ven
+
+@END = 
+
+@KOODI_A = PHQ
+
+@NCSP_A = PHSQ
+
+@SUOMI_A = Laskimoiden sisäistutteiden asettamiset
+
+@RUOTSI_A = Inläggande av endovaskulära implantat i vener
+
+@ENGL_A = Insertion of endovascular graft into veins
+
+@END = 
+
+@KOODI = PHQ73 
+
+@NCSP = PHSQ23
+
+@SUOMI = Laskimon sisäistutteen asettaminen, v. iliaca
+
+@RUOTSI = Inläggande av endovaskulärt implantat i v. iliaca
+
+@END = 
+
+@KOODI = PH7YT 
+
+@NCSP = PHSQ30
+
+@SUOMI = Alaraaja- tai alaonttolaskimon suonensisäinen laajennus stentillä
+
+@RUOTSI = Dilatation av vena cava inferior eller nedre extremitetsvener med stent
+
+@END = 
+
+@KOODI = PHQ70 
+
+@NCSP = PHSQ30
+
+@SUOMI = Laskimon sisäistutteen asettaminen, v. cava inferior
+
+@RUOTSI = Inläggande av endovaskulärt implantat i v. cava inferior
+
+@END = 
+
+@KOODI = PHQ80 
+
+@NCSP = PHSQ35
+
+@SUOMI = Laskimon sisäistutteen asettaminen porttilaskimojärjestelmä - alaonttolaskimo -ohitukseen
+
+@RUOTSI = Inläggande av endovaskulärt implantat i porto-caval shunt
+
+@END = 
+
+@KOODI = PH1YT 
+
+@NCSP = PHSQ40
+
+@SUOMI = Yläraaja- tai yläonttolaskimon stentin asentaminen iholta käsin
+
+@RUOTSI = Övre extremitetsven eller övre cava, perkutan insättning av stent
+
+@END = 
+
+@KOODI = PHQ99 
+
+@NCSP = PHSQ99
+
+@SUOMI = Laskimon sisäistutteen asettaminen, muu laskimo
+
+@RUOTSI = Inläggande av endovaskulärt implantat i annan ven
+
+@END = 
+
+@KOODI_A = PHR
+
+@NCSP_A = PHSR
+
+@SUOMI_A = Laskimoiden sisäistutteiden poistamiset
+
+@RUOTSI_A = Uttagningar av endovaskulära implantat från vener
+
+@ENGL_A = Removal of endovascular graft from veins
+
+@END = 
+
+@KOODI = PHR73 
+
+@NCSP = PHSR23
+
+@SUOMI = Laskimon sisäistutteen poistaminen, v. iliaca
+
+@RUOTSI = Uttagning av endovaskulärt implantat från v. iliaca
+
+@END = 
+
+@KOODI = PHR70 
+
+@NCSP = PHSR30
+
+@SUOMI = Laskimon sisäistutteen poistaminen, v. cava inferior
+
+@RUOTSI = Uttagning av endovaskulärt implantat från v. cava inferior
+
+@END = 
+
+@KOODI = PHR99 
+
+@NCSP = PHSR99
+
+@SUOMI = Laskimon sisäistutteen poistaminen, muu laskimo
+
+@RUOTSI = Uttagning av endovaskulärt implantat från annan ven
+
+@END = 
+
+@KOODI_A = PHS
+
+@NCSP_A = PHSS
+
+@SUOMI_A = Tähystyksessä suoritettavat laskimoleikkaukset
+
+@RUOTSI_A = Endoskopisk venkirurgi
+
+@ENGL_A = Endoscopic operations on veins
+
+@NOTE_RF = Ei sisällä laskimoiden muovauksia suljetusti iholta, katso PHP
+
+@NOTE_RS = Utesluter slutna (perkutana) plastiker på vener, se PHP
+
+@END = 
+
+@KOODI = PHS78 
+
+@NCSP = PHSS13
+
+@SUOMI = Säären lävistäjälaskimon sulkeminen tähystyksessä
+
+@RUOTSI = Endoskopisk avbrytning av vv. perforantes i underbenet
+
+@END = 
+
+@KOODI = PHS79 
+
+@NCSP = PHSS14
+
+@SUOMI = Reiden lävistäjälaskimon sulkeminen tähystyksessä
+
+@RUOTSI = Endoskopisk avbrytning av vv. perforantes i låret
+
+@END = 
+
+@KOODI = PHS99 
+
+@NCSP = PHSS99
+
+@SUOMI = Muu laskimon tähystystoimenpide
+
+@RUOTSI = Annan endoskopisk venkirurgi
+
+@END = 
+
+@KOODI_A = PHT
+
+@NCSP_A = PHST
+
+@SUOMI_A = Kemiallisen tai tukkivan aineen ruiskuttamiset laskimoon
+
+@RUOTSI_A = Injektioner av läkemedel eller ockluderande material i vener
+
+@ENGL_A = Injection of therapeutic or sclerosing agent into veins
+
+@END = 
+
+@KOODI = PHT70 
+
+@NCSP = PHST23
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen laskimoon, v. cava inferior
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i v. cava inferior
+
+@END = 
+
+@KOODI = PHT72 
+
+@NCSP = PHST31
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen laskimoon, v. renalis
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i v. renalis
+
+@END = 
+
+@KOODI = PH1ST 
+
+@NCSP = PHST99
+
+@SUOMI = Yläraajalaskimon selektiivinen liuotushoito
+
+@RUOTSI = Övre extremitetsven, selektiv trombolys
+
+@END = 
+
+@KOODI = PHT99 
+
+@NCSP = PHST99
+
+@SUOMI = Kemiallisen tai tukkivan aineen ruiskuttaminen laskimoon, muu laskimo
+
+@RUOTSI = Injektion av läkemedel eller ockluderande material i annan ven
+
+@END = 
+
+@KOODI_A = PHW
+
+@NCSP_A = PHSW
+
+@SUOMI_A = Muut laskimoleikkaukset
+
+@RUOTSI_A = Andra operationer på vener
+
+@ENGL_A = Other operations on veins
+
+@END = 
+
+@KOODI = PHW80 
+
+@NCSP = PHSW30
+
+@SUOMI = Porttilaskimo-alaonttolaskimoyhdystie tai -ohitus
+
+@RUOTSI = Porto-caval shunt
+
+@END = 
+
+@KOODI = PHW99 
+
+@NCSP = PHSW99
+
+@SUOMI = Muu laskimoleikkaus
+
+@RUOTSI = Annan operation på ven
+
+@END = 
+
+@KOODI_A = PH_
+
+@NCSP_A = PHX
+
+@SUOMI_A = Muut laskimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på vener
+
+@ENGL_A = Other procedures on veins
+
+@END = 
+
+@KOODI = PH900 
+
+@NCSP = PHX900
+
+@SUOMI = Laskimotukoksen suonensisäinen trombolyysi
+
+@RUOTSI = Intravenöst trombolys
+
+@END = 
+
+@KOODI = PH1AT 
+
+@NCSP = PHXT1A
+
+@SUOMI = Yläraaja- ja yläonttolaskimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Övre extremitetsven och övre cava, perkutan dilatation
+
+@END = 
+
+@KOODI = PH1FT 
+
+@NCSP = PHXT1F
+
+@SUOMI = Yläraaja- tai yläonttolaskimon filtterin laitto radiologisessa ohjauksessa
+
+@RUOTSI = Övre extremitetsven eller övre cava, radiologiskt styrd filterinläggning
+
+@END = 
+
+@KOODI = PH1UT 
+
+@NCSP = PHXT1U
+
+@SUOMI = Yläraajan tai yläonttolaskimon laskimotulpan poisto
+
+@RUOTSI = Evakuering av trombos från vena cava superior eller övre extremitetsvener
+
+@END = 
+
+@KOODI = PH2ST 
+
+@NCSP = PHXT2S
+
+@SUOMI = Lantion tai alaraajalaskimon selektiiivinen liuotushoito
+
+@RUOTSI = Bäcken- och benvener, selektiv trombolys
+
+@END = 
+
+@KOODI = PH7UT 
+
+@NCSP = PHXT2T
+
+@SUOMI = Alaraajan, lantion ja/tai alaonttolaskimon laskimotulpan suonensisäinen poisto
+
+@RUOTSI = Evakuering av trombos från vena cava inferior eller från bäckenets och nedre ekstremiteternas vener
+
+@END = 
+
+@KOODI = PH3YT 
+
+@NCSP = PHXT3Y
+
+@SUOMI = Portti- ja maksalaskimon yhdystieproteesin asennus (TIPS)
+
+@RUOTSI = Portosystemisk shunt inläggning (TIPS)
+
+@END = 
+
+@KOODI = PH4AT 
+
+@NCSP = PHXT4A
+
+@SUOMI = Pään ja kaulan alueen laskimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Huvud- och halsregionens ven, perkutan dilatation
+
+@NOTE_F = Sisältää aivojen laskimot
+
+@NOTE_S = Inkl hjärnans vener
+
+@END = 
+
+@KOODI = PH5GT 
+
+@NCSP = PHXT5G
+
+@SUOMI = Kiveslaskimon suonensisäinen tukkiminen
+
+@RUOTSI = Embolisering av vena spermatica
+
+@END = 
+
+@KOODI = PH6GT 
+
+@NCSP = PHXT6G
+
+@SUOMI = Munasarjalaskimon suonensisäinen tukkiminen
+
+@RUOTSI = Embolisering av vena ovarica
+
+@END = 
+
+@KOODI = PH7FT 
+
+@NCSP = PHXT7F
+
+@SUOMI = Alaonttolaskimon filtterin laitto
+
+@RUOTSI = Inläggning av filter i vena cava inferior
+
+@END = 
+
+@KOODI = PH9AT 
+
+@NCSP = PHXT9A
+
+@SUOMI = Muun laskimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Perkutan angioplastik av annan ven (PTA)
+
+@END = 
+
+@KOODI = PH9ST 
+
+@NCSP = PHXT9S
+
+@SUOMI = Muun laskimon selektiivinen liuotushoito
+
+@RUOTSI = Annan ven, selektiv trombolys
+
+@END = 
+
+@KOODI = TPH00 
+
+@NCSP = PHXX00
+
+@SUOMI = Laskimon aukaisu, phlebotomia
+
+@RUOTSI = Flebotomi (venesektion)
+
+@END = 
+
+@KOODI = TPH04 
+
+@NCSP = PHXX04
+
+@SUOMI = Laskimon kanylointi
+
+@RUOTSI = Kanylering av ven
+
+@NOTE_F = Punktoimalla ihon läpi
+
+@NOTE_S = I punktion genom huden
+
+@END = 
+
+@KOODI = TPH05 
+
+@NCSP = PHXX05
+
+@SUOMI = Laskimon esiin otto ja  kanylointi
+
+@RUOTSI = Friläggning och kanylering av perifer ven
+
+@END = 
+
+@KOODI = TPX10 
+
+@NCSP = PHXX06
+
+@SUOMI = Pysyvän injektioreitin asettaminen
+
+@RUOTSI = Applikation av permanent injektions-/infusionsport
+
+@END = 
+
+@KOODI = TPX15 
+
+@NCSP = PHXX07
+
+@SUOMI = Laskimokanavan poisto
+
+@RUOTSI = Avlägsnande av vaskular injektionsport
+
+@END = 
+
+@KOODI = TPH10 
+
+@NCSP = PHXX10
+
+@SUOMI = Alaraajalaskimoiden kovetushoito, skleroterapia
+
+@RUOTSI = Sklerosering av varicer på undre extremiteten
+
+@END = 
+
+@KOODI = TPH15 
+
+@NCSP = PHXX20
+
+@SUOMI = Keskuslaskimokatetrin asettaminen kaulalaskimon kautta
+
+@RUOTSI = Inläggande av CVK via vena jugularis (externa eller interna)
+
+@NOTE_F = Sisältää ihonalaisen tai muun kiinteän infuusioportin asennuksen.
+
+@NOTE_S = Inkl inläggande av permanent kateterport
+
+@END = 
+
+@KOODI = TPH20 
+
+@NCSP = PHXX22
+
+@SUOMI = Keskuslaskimokatetrin asettaminen solislaskimon tai vena brachiocephalikuksen kautta
+
+@RUOTSI = Inläggande av CVK via vena subclavia eller brachiocephalica
+
+@NOTE_F = Sisältää ihonalaisen tai muun kiinteän infuusioportin asennuksen.
+
+@NOTE_S = Innefatar installation av subcutan eller annan fas infusionsport
+
+@END = 
+
+@KOODI = TPH30 
+
+@NCSP = PHXX29
+
+@SUOMI = Keskuslaskimokatetrin asettaminen ääreislaskimon kautta
+
+@RUOTSI = Inläggande av CVK via perifert ven
+
+@END = 
+
+@KOODI = TPH90 
+
+@NCSP = PHXX90
+
+@SUOMI = Kiinteän suonikanyylin ja/tai infuusioportin poisto
+
+@RUOTSI = Avlägsnande av permanent kärlkateter och/eller infusionsport
+
+@END = 
+
+@KOODI_R = PJ
+
+@SUOMI_R = Imusuonijärjestelmä
+
+@RUOTSI_R = Lymfatisk system
+
+@ENGL_R = Lymphatic system
+
+@END = 
+
+@KOODI_A = PJ_
+
+@NCSP_A = PJD
+
+@SUOMI_A = Imuteiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostis radiologi av lymfsystemet
+
+@ENGL_A = Diagnostic radiology on lymphatic system
+
+@END = 
+
+@KOODI = PJ1AC 
+
+@NCSP = PJDC1A
+
+@SUOMI = Imuteiden varjoainetutkimus (lymfografia)
+
+@RUOTSI = Lymfografi
+
+@END = 
+
+@KOODI = PJ2AE 
+
+@NCSP = PJDE2A
+
+@SUOMI = Imusolmukkeiden UÄ
+
+@RUOTSI = Lymfknutor, UL
+
+@END = 
+
+@KOODI_A = PJ0
+
+@NCSP_A = PJO
+
+@SUOMI_A = Imusuonijärjestelmän sädehoito
+
+@RUOTSI_A = Strålbehandling av lymfsystemet
+
+@NOTE_RF = Hoidettu puoli ilmaistaan lisäkoodilla ryhmästä ZXA
+
+@NOTE_RF =
+Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Det behandlade sidan anges med tilläggskod, se ZXA
+
+@NOTE_RS =
+Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = PJ000 
+
+@NCSP = PJO000
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av hals, klavikelområdet och axilla
+
+@END = 
+
+@KOODI = PJ001 
+
+@NCSP = PJO001
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden preoperatiivinen sädehoito
+
+@RUOTSI = Preoperativ behandling av hals, klavikelområdet och axilla
+
+@END = 
+
+@KOODI = PJ002 
+
+@NCSP = PJO002
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden radikaali sädehoito
+
+@RUOTSI = Radikal strålbehandling av av hals, klavikelområdet och axilla
+
+@END = 
+
+@KOODI = PJ003 
+
+@NCSP = PJO003
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden sädehoito liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av hals, klavikelområdet och axilla
+
+@END = 
+
+@KOODI = PJ004 
+
+@NCSP = PJO004
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av hals, klavikelområdet och axilla
+
+@END = 
+
+@KOODI = PJ020 
+
+@NCSP = PJO020
+
+@SUOMI = Keuhkojen välikarsinan imusolmukkeiden profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av lymfknöter i  mediastinum
+
+@END = 
+
+@KOODI = PJ021 
+
+@NCSP = PJO021
+
+@SUOMI = Keuhkojen välikarsinan imusolmukkeiden preoperatiivinen sädehoito
+
+@RUOTSI = Preoperativ  strålbehandling av av lymfknöter i  mediastinum
+
+@END = 
+
+@KOODI = PJ022 
+
+@NCSP = PJO022
+
+@SUOMI = Keuhkojen välikarsinan imusolmukkeiden radikaali sädehoito
+
+@RUOTSI = Radikal strålbehandling av av lymfknöter i  mediastinum
+
+@END = 
+
+@KOODI = PJ023 
+
+@NCSP = PJO023
+
+@SUOMI = Keuhkojen välikarsinan imusolmukkeiden sädehoito litännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av av lymfknöter i  mediastinum
+
+@END = 
+
+@KOODI = PJ024 
+
+@NCSP = PJO024
+
+@SUOMI = Keuhkojen välikarsinan imusolmukkeiden palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av av lymfknöter i  mediastinum
+
+@END = 
+
+@KOODI = PJ040 
+
+@NCSP = PJO040
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av retroperitoneala och mesenteriala lymfknöter
+
+@END = 
+
+@KOODI = PJ041 
+
+@NCSP = PJO041
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden preoperatiivinen sädehoito
+
+@RUOTSI = Preoperativ strålbehandling av retroperitoneala och mesenteriala lymfknöter
+
+@END = 
+
+@KOODI = PJ042 
+
+@NCSP = PJO042
+
+@SUOMI = Vartalon alaosan imusolmukkeiden sädehoito alamanttelikentästä etäpesäkkeiden hoitona
+
+@RUOTSI = Strålbehandling av metastas i lymfknöter i nedre delen av kroppen med mantelfält
+
+@END = 
+
+@KOODI = PJ043 
+
+@NCSP = PJO043
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden sädehoito liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av retroperitoneala och mesenteriala lymfknöter
+
+@END = 
+
+@KOODI = PJ044 
+
+@NCSP = PJO044
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av retroperitoneala och mesenteriala lymfknöter
+
+@END = 
+
+@KOODI = PJ060 
+
+@NCSP = PJO060
+
+@SUOMI = Lantion alueen imusolmukkeiden profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av lymfknöter i pelvis
+
+@END = 
+
+@KOODI = PJ061 
+
+@NCSP = PJO061
+
+@SUOMI = Lantion alueen imusolmukkeiden preoperatiivinen sädehoito
+
+@RUOTSI = Preoperativ strålbehandling av lymfknöter i pelvis
+
+@END = 
+
+@KOODI = PJ062 
+
+@NCSP = PJO062
+
+@SUOMI = Lantion alueen imusolmukkeiden radikaali sädehoito
+
+@RUOTSI = Radikal strålbehandling av lymfknöter i pelvis
+
+@END = 
+
+@KOODI = PJ063 
+
+@NCSP = PJO063
+
+@SUOMI = Lantion alueen imusolmukkeiden sädehoito liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av lymfknöter i pelvis
+
+@END = 
+
+@KOODI = PJ064 
+
+@NCSP = PJO064
+
+@SUOMI = Lantion alueen imusolmukkeiden sädehoito palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av lymfknöter i pelvis
+
+@END = 
+
+@KOODI_A = PJA
+
+@NCSP_A = PJSA
+
+@SUOMI_A = Imusolmukkeiden tutkimusleikkaukset
+
+@RUOTSI_A = Exploration och biopsi av lymfkörtlar
+
+@ENGL_A = Exploration of lymph nodes
+
+@END = 
+
+@KOODI = PJA10 
+
+@NCSP = PJSA10
+
+@SUOMI = Imusolmukkeiden tutkimusleikkaus
+
+@RUOTSI = Exploration/biopsi av lymfkörtlar
+
+@END = 
+
+@KOODI = PJA12 
+
+@NCSP = PJSA10
+
+@SUOMI = Merkityn vartijaimusolmukkeet poistaminen
+
+@RUOTSI = Excision av märkt sentinel lymfkörtel
+
+@END = 
+
+@KOODI_A = PJB
+
+@NCSP_A = PJSB
+
+@SUOMI_A = Imusuonien sitomiset
+
+@RUOTSI_A = Ligatur av lymfkärl
+
+@ENGL_A = Ligature of lymphatic vessels
+
+@END = 
+
+@KOODI = PJB10 
+
+@NCSP = PJSB20
+
+@SUOMI = Ductus thoracicuksen sitominen
+
+@RUOTSI = Ligatur av ductus thoracicus
+
+@END = 
+
+@KOODI = PJB99 
+
+@NCSP = PJSB99
+
+@SUOMI = Muun imusuonen sitominen
+
+@RUOTSI = Ligatur av annat lymfkärl
+
+@END = 
+
+@KOODI_A = PJD
+
+@NCSP_A = PJSD
+
+@SUOMI_A = Imusolmukkeiden poistoleikkaukset
+
+@RUOTSI_A = Exstirpationer och utrymningar av lymfkörtlar
+
+@ENGL_A = Excision and block dissection of lymph nodes
+
+@END = 
+
+@KOODI = PJD41 
+
+@NCSP = PJSD41
+
+@SUOMI = Imusolmukkeiden yksinkertainen poisto kaulalta
+
+@RUOTSI = Exstirpation av cervikala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD42 
+
+@NCSP = PJSD42
+
+@SUOMI = Imusolmukkeiden yksinkertainen poisto kainalosta
+
+@RUOTSI = Exstirpation av axillära lymfkörtlar
+
+@END = 
+
+@KOODI = PJD43 
+
+@NCSP = PJSD43
+
+@SUOMI = Imusolmukkeiden yksinkertainen poisto aortan ympäriltä
+
+@RUOTSI = Exstirpation av para-aortala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD44 
+
+@NCSP = PJSD44
+
+@SUOMI = Imusolmukkeiden yksinkertainen poisto lonkkavaltimoiden ympäriltä
+
+@RUOTSI = Exstirpation av av iliakala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD45 
+
+@NCSP = PJSD45
+
+@SUOMI = Imusolmukkeiden yksinkertainen poisto nivuksista
+
+@RUOTSI = Exstirpation av inguinala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD51 
+
+@NCSP = PJSD51
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto kaulalta
+
+@RUOTSI = Radikal utrymning av cervikala lymfkörtlar
+
+@NOTE_F = Dissektio colli radicalis
+
+@NOTE_S = "Radical neck dissection"
+
+@END = 
+
+@KOODI = PJD52 
+
+@NCSP = PJSD52
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto kainalosta
+
+@RUOTSI = Radikal utrymning av axillära lymfkörtlar
+
+@END = 
+
+@KOODI = PJD53 
+
+@NCSP = PJSD53
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto aortan ympäriltä
+
+@RUOTSI = Radikal utrymning av para-aortala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD54 
+
+@NCSP = PJSD54
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto lonkkavaltimoiden ympäriltä
+
+@RUOTSI = Radikal utrymning av iliakala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD55 
+
+@NCSP = PJSD55
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto nivuksista
+
+@RUOTSI = Radikal utrymning av inguinala lymfkörtlar
+
+@END = 
+
+@KOODI = PJD63 
+
+@NCSP = PJSD63
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto tähystyksessä aortan ympäriltä
+
+@RUOTSI = Laparoskopisk radikal utrymning av para-aortala lymkörtlar
+
+@END = 
+
+@KOODI = PJD64 
+
+@NCSP = PJSD64
+
+@SUOMI = Imusolmukkeiden radikaalinen poisto tähystyksessä lonkkavaltimoiden ympäriltä
+
+@RUOTSI = Laparoskopisk radikal utrymning av iliakala lymkörtlar
+
+@END = 
+
+@KOODI = PJD71 
+
+@NCSP = PJSD71
+
+@SUOMI = Imusolmukkeiden laaja säästävä poisto kaulalta
+
+@RUOTSI = Extensiv, skonsam exstirpation av cervikala lymfkörtlar
+
+@NOTE_F = Dissectio colli functionalis
+
+@END = 
+
+@KOODI = PJD81 
+
+@NCSP = PJSD81
+
+@SUOMI = Imusolmukkeiden poisto kaulan yläosasta
+
+@RUOTSI = Utrymning av halsens supraomohyoidala lymfkörtlar
+
+@NOTE_F = Dissectio colli supraomohyoidalis
+
+@END = 
+
+@KOODI = PJD97 
+
+@NCSP = PJSD97
+
+@SUOMI = Muiden imusolmukkeiden radikaalinen poisto tähystyksessä
+
+@RUOTSI = Endoskopisk, radikal utrymning av andra lymfkörtlar
+
+@END = 
+
+@KOODI = PJD98 
+
+@NCSP = PJSD98
+
+@SUOMI = Muiden imusolmukkeiden radikaalinen poisto
+
+@RUOTSI = Annan radikal regional lymfkörtelutrymning
+
+@END = 
+
+@KOODI = PJD99 
+
+@NCSP = PJSD99
+
+@SUOMI = Muiden imusolmukkeiden poisto
+
+@RUOTSI = Exstirpation av andra lymfkörtlar
+
+@END = 
+
+@KOODI_A = PJW
+
+@NCSP_A = PJSW
+
+@SUOMI_A = Muut imusuonijärjestelmän leikkaukset
+
+@RUOTSI_A = Andra operationer på det lymfatiska systemet
+
+@ENGL_A = Other operations on lymphatic system
+
+@END = 
+
+@KOODI = PJW10 
+
+@NCSP = PJSW10
+
+@SUOMI = Imusolmukkeen aukaisu
+
+@RUOTSI = Incision av lymfkörtel
+
+@END = 
+
+@KOODI = PJW20 
+
+@NCSP = PJSW30
+
+@SUOMI = Imusuonen ja laskimon yhdistäminen
+
+@RUOTSI = Lymfovenös anastomos
+
+@END = 
+
+@KOODI = PJW91 
+
+@NCSP = PJSW91
+
+@SUOMI = Imusuonten yhdistäminen mikrokirurgisesti
+
+@RUOTSI = Mikrokirurgisk lymkärlsanastomos
+
+@END = 
+
+@KOODI = PJW99 
+
+@NCSP = PJSW99
+
+@SUOMI = Muu imusuonijärjestelmän toimenpide
+
+@RUOTSI = Annan operation på lymfsystemet
+
+@END = 
+
+@KOODI_A = PJ_
+
+@NCSP_A = PJX
+
+@SUOMI_A = Muut imuteiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på lymfsystemet
+
+@ENGL_A = Other procedures of lymphatic system
+
+@END = 
+
+@KOODI = PJ4AT 
+
+@NCSP = PJXT4A
+
+@SUOMI = Imusolmukkeen merkkaus UÄ-ohjauksessa
+
+@RUOTSI = Lymfknuta, UL-styrd märkning
+
+@END = 
+
+@KOODI = PJ4CT 
+
+@NCSP = PJXT4A
+
+@SUOMI = Imusolmukkeen merkkaus TT-ohjauksessa
+
+@RUOTSI = Lymfknuta, DT-styrd märkning
+
+@END = 
+
+@KOODI = TPJ00 
+
+@NCSP = PJXX00
+
+@SUOMI = Koepalan otto imusolmukkeesta
+
+@RUOTSI = Biopsi av ytlig lymfkörtel
+
+@END = 
+
+@KOODI = PJ2AT 
+
+@NCSP = PJXX05
+
+@SUOMI = Imusolmukkeen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Lymfknuta, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = PJ2CT 
+
+@NCSP = PJXX05
+
+@SUOMI = Imusolmukkeen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Lymfknuta, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = PJ2HT 
+
+@NCSP = PJXX05
+
+@SUOMI = Imusolmukkeen kudosnäytteen otto UÄ-ohjauksessa, syvä
+
+@RUOTSI = Lymfknuta, UL-styrd djup vävnadsbiopsi
+
+@END = 
+
+@KOODI = TPJ05 
+
+@NCSP = PJXX05
+
+@SUOMI = Imusolmukkeen pisto
+
+@RUOTSI = Punktionsbiopsi av lymfkörtel
+
+@END = 
+
+@KOODI = PJ3AT 
+
+@NCSP = PJXX06
+
+@SUOMI = Imusolmukkeen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Lymfknuta, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = PJ3CT 
+
+@NCSP = PJXX06
+
+@SUOMI = Imusolmukkeen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Lymfknuta, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = PJ3HT 
+
+@NCSP = PJXX06
+
+@SUOMI = Imusolmukkeen solunäytteen otto UÄ-ohjauksessa, syvä
+
+@RUOTSI = Lymfknuta, UL-styrd djup finnålsbiopsi
+
+@END = 
+
+@KOODI_R = PW
+
+@SUOMI_R = Verisuonien ja imusuonijärjestelmän leikkausten komplikaatiotoimenpiteet
+
+@RUOTSI_R = Operationer för komplikationer av kärlkirugin
+
+@ENGL_R = Reoperations on peripheral vessels and lymphatic system
+
+@END = 
+
+@KOODI = PWA00 
+
+@NCSP = PWSA00
+
+@SUOMI = Verisuonileikkauksen auenneen tai tulehtuneen haavan tarkistaminen
+
+@RUOTSI = Revision för sårruptur/sårinfektion efter kärloperation
+
+@END = 
+
+@KOODI = PWC00 
+
+@NCSP = PWSC00
+
+@SUOMI = Verisuonileikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dränage av infekterad sårhåla efter kärloperation
+
+@END = 
+
+@KOODI = PWE00 
+
+@NCSP = PWSE00
+
+@SUOMI = Verisuonileikkauksen uusintaleikkaus haavaontelon vuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter kärloperation
+
+@END = 
+
+@KOODI = PWF00 
+
+@NCSP = PWSF00
+
+@SUOMI = Verisuonileikkauksen uusintaleikkaus liitosompeleiden pettämisen vuoksi
+
+@RUOTSI = Reoperation för kärlsuturruptur efter kärloperation
+
+@END = 
+
+@KOODI = PWG00 
+
+@NCSP = PWSG00
+
+@SUOMI = Verisuonileikkauksen jälkeisen veritulpan tai tukoksen poisto
+
+@RUOTSI = Åtgärd för trombos/tilltäppning efter kärloperation
+
+@END = 
+
+@KOODI = PWH00 
+
+@NCSP = PWSH00
+
+@SUOMI = Uusintaleikkaus lymfoseelen vuoksi
+
+@RUOTSI = Reoperation för lymfocele
+
+@END = 
+
+@KOODI = PWW99 
+
+@NCSP = PWSW99
+
+@SUOMI = Muu uusintaleikkaus verisuoni- tai imusuonijärjestelmäleikkauksen komplikaation vuoksi
+
+@RUOTSI = Annan reoperation för komplikation efter operation på blodkärl/lymfvägar
+
+@END = 
+
+@KOODI_R = PX
+
+@SUOMI_R = Paikantamattomat verisuonitoimenpidekoodit
+
+@RUOTSI_R = Olokaliserade vaskulärä åtgärdskoder
+
+@ENGL_R = Unlocalized vascular procedurecodes
+
+@END = 
+
+@KOODI_A = PX_
+
+@NCSP_A = PXD
+
+@SUOMI_A = Muu verisuonten tai imuteiden diagnostinen radiologia
+
+@RUOTSI_A = Annan diagnostisk radiologi av blodkärler eller lymfsystemet
+
+@ENGL_A = Other diagnostic radiology on peripheral vessels and lymphatic system
+
+@END = 
+
+@KOODI = PG5AC 
+
+@NCSP = PXDC5A
+
+@SUOMI = Valtimo- tai laskimoportin varjoainetutkimus
+
+@RUOTSI = Arteriel eller venös injektionsport, kontrastundersökning
+
+@END = 
+
+@KOODI = PG1DC 
+
+@NCSP = PXDC9A
+
+@SUOMI = Verisuonen suorapunktio-varjoainetutkimus
+
+@RUOTSI = Angiografi genom direkt punktion
+
+@NOTE_F = Pään ja kaulan valtimoiden suora pisto kohdassa PA3DC
+
+@NOTE_S = Direkt punktio av artärer i huvud och hals, se PA3DC
+
+@END = 
+
+@KOODI = XPX00 
+
+@NCSP = PXDC9A
+
+@SUOMI = Leikkauksen aikainen angiografia
+
+@RUOTSI = Intraoperativ angiografi
+
+@END = 
+
+@KOODI = PG1AE 
+
+@NCSP = PXDE1A
+
+@SUOMI = Muualla luokittamaton valtimon UÄ
+
+@RUOTSI = Annan artär, UL
+
+@END = 
+
+@KOODI = PG1BE 
+
+@NCSP = PXDE1B
+
+@SUOMI = Suonen sisäinen UÄ (intravaskulaarinen UÄ)
+
+@RUOTSI = Intravaskulärt UL
+
+@END = 
+
+@KOODI = PG1DE 
+
+@NCSP = PXDE1D
+
+@SUOMI = Muu verisuonten laaja Doppler-UÄ
+
+@RUOTSI = Annan UL av blodkärl med Doppler teknik, omfattande
+
+@END = 
+
+@KOODI = PG1XE 
+
+@NCSP = PXDE1X
+
+@SUOMI = Verisuonten muu UÄ
+
+@RUOTSI = Annan UL av blodkärl
+
+@END = 
+
+@KOODI = PG5DE 
+
+@NCSP = PXDE5D
+
+@SUOMI = Valtimo- tai laskimoportin Doppler-UÄ
+
+@RUOTSI = Arteriel eller venös injektionsport, UL med Doppler teknik
+
+@END = 
+
+@KOODI = PG1BF 
+
+@NCSP = PXDG1B
+
+@SUOMI = Muun verisuonialueen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Annan blodkärlregion, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PG1BG 
+
+@NCSP = PXDG1B
+
+@SUOMI = Muiden verisuonten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Annan blodkärlregion, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PG1CF 
+
+@NCSP = PXDG1B
+
+@SUOMI = Muun verisuonialueen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Annan blodkärlregion, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PG1CG 
+
+@NCSP = PXDG1B
+
+@SUOMI = Muiden verisuonten laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Annan blodkärlregion, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = PG1DF 
+
+@NCSP = PXDG1B
+
+@SUOMI = Muun verisuonialueen erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Annan blodkärlregion, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = PG1DG 
+
+@NCSP = PXDG1B
+
+@SUOMI = Muiden verisuonten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Annan blodkärlregion, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = PX_
+
+@NCSP_A = PXF
+
+@SUOMI_A = Muut ääreisverenkierron tai imuteiden diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder av perifera blodkärl och lymfsystemet
+
+@ENGL_A = Other diagnostic procedures on peripheral vessels and lymphatic system
+
+@END = 
+
+@KOODI = XPX04 
+
+@NCSP = PXFX04
+
+@SUOMI = Angioskopia
+
+@RUOTSI = Angioskopi
+
+@NOTE_F = Angioskopiassa tehdyt toimenpiteet koodataan asianomaisen toimenpiteen koodilla liitettynä angioskopian koodiin
+
+@NOTE_S = Angioskopiska åtgärd koderas med kod för eventuella åtgärd med kod för angioskopi
+
+@END = 
+
+@KOODI = XPX08 
+
+@NCSP = PXFX08
+
+@SUOMI = Leikkauksenaikainen verivirtauksen mittaus
+
+@RUOTSI = Intraoperativ flödesmätning
+
+@NOTE_F = Sisältää sekä valtimo- että laskimomittaukset
+
+@NOTE_S = Innefattar mätningar i både artärer och vener
+
+@END = 
+
+@KOODI = XPX99 
+
+@NCSP = PXFX99
+
+@SUOMI = Muu verisuonen tutkimustoimenpide
+
+@RUOTSI = Annan diagnostisk åtgärd på perifert kärl
+
+@END = 
+
+@KOODI = TPH07 
+
+@NCSP = PXXA02
+
+@SUOMI = Valtimon kanylointi
+
+@RUOTSI = Kanylering av arteria
+
+@END = 
+
+@KOODI = TPX00 
+
+@NCSP = PXXX00
+
+@SUOMI = Koepalan otto pinnallisesta valtimosta tai laskimosta
+
+@RUOTSI = Biopsi av ytlig artär eller ven
+
+@NOTE_F = Koepalan otto ohimovaltimosta PAW37.
+
+@NOTE_S = Biopsi av temporalartär, se PAW37
+
+@END = 
+
+@KOODI = TPX22 
+
+@NCSP = PXXX22
+
+@SUOMI = Valtimotukoksen trombolyysi laskimoon annettavalla lääkkeellä
+
+@RUOTSI = Intravenös arteriell trombolys
+
+@END = 
+
+@KOODI = TPW99 
+
+@NCSP = PXXX99
+
+@SUOMI = Muu verisuoniin tai imuteihin kohdistuva pientoimenpide
+
+@RUOTSI = Annan mindre operation på perifera kärl och lymfatiska systemet
+
+@END = 

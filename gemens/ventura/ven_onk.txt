@@ -1,0 +1,5503 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU A
+
+@LUVUT_S = KAPITEL A
+
+@SUOMI_L = Hermoston s„dehoito
+
+@RUOTSI_L = Str†lbehandling av nervsystemet
+
+@ENGL_L = Nervous system
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = AA0
+
+@SUOMI_A = Aivojen, pikkuaivojen tai niiden osien s„dehoito
+
+@RUOTSI_A = Str†lbehandling av hj„rnan och dess delar
+
+@ENGL_A = Radiotherapy of brain
+
+@END = 
+
+@KOODI = AA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i hj„rnan eller dess delar
+
+@END = 
+
+@KOODI = AA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i hj„rnan eller dess delar
+
+@END = 
+
+@KOODI = AA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i hj„rnan eller dess delar
+
+@END = 
+
+@KOODI = AA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i hj„rnan eller dess delar
+
+@END = 
+
+@KOODI = AA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito aivojen ja  pikkuaivojen tai niiden osien  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i hj„rnan eller dess delar
+
+@END = 
+
+@KOODI = AA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito aivoissa, pikkuaivoissa tai niiden osissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i hj„rnan eller dess delar
+
+@END = 
+
+@KOODI = AA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito aivojen ja  pikkuaivojen tai niiden osien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av  hj„rnan och dess delar
+
+@END = 
+
+@KOODI = AA099 
+
+@VANHA = 
+
+@SUOMI = Muu aivojen ja  pikkuaivojen tai niiden osien s„dehoito
+
+@RUOTSI = Annan str†lbehandling av  hj„rnan och dess delar
+
+@END = 
+
+@KOODI_A = AB0
+
+@SUOMI_A = Ydinjatkoksen ja selk„ydinkanavan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av medulla oblongata och ryggm„rgskanalen
+
+@ENGL_A = Radiotherapy of spinal cord or medulla oblongata
+
+@END = 
+
+@KOODI = AB001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ydinjatkoksen ja selk„ydinkanavan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i medulla oblongata eller i ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB002 
+
+@VANHA = 
+
+@SUOMI = Radikaali ydinjatkoksen ja selk„ydinkanavan primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i medulla oblongata eller i ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ydinjatkoksen ja selk„ydinkanavan primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i medulla oblongata eller i ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ydinjatkoksen ja selk„ydinkanavan primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i medulla oblongata eller i ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ydinjatkoksen ja selk„ydinkanavan paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i medulla oblongata eller i ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ydinjatkoksessa ja selk„ydinkanavassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i medulla oblongata eller i ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ydinjatkoksen ja selk„ydinkanavan profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av medulla oblongata och  ryggm„rgskanalen
+
+@END = 
+
+@KOODI = AB099 
+
+@VANHA = 
+
+@SUOMI = Muu ydinjatkoksen ja selk„ydinkanavan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av medulla oblongata och  ryggm„rgskanalen
+
+@END = 
+
+@KOODI_A = AC0
+
+@SUOMI_A = „reishermojen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av perifera nerver
+
+@ENGL_A = Radiotherapy of peripheral nerves
+
+@END = 
+
+@KOODI = AC001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito „„reishermojen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i perifera nerver
+
+@END = 
+
+@KOODI = AC002 
+
+@VANHA = 
+
+@SUOMI = Radikaali „„reishermojen primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i perifera nerver
+
+@END = 
+
+@KOODI = AC003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito „„reishermojen primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i perifera nerver
+
+@END = 
+
+@KOODI = AC004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito „„reishermojen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliaativ str†lbehandling av prim„rtum”r i perifera nerver
+
+@END = 
+
+@KOODI = AC029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito „„reishermojen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i perifera nerver
+
+@END = 
+
+@KOODI = AC049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito „„reishermoissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i perifera nerver
+
+@END = 
+
+@KOODI = AC090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito „„reishermojen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av perifera nerver
+
+@END = 
+
+@KOODI = AC099 
+
+@VANHA = 
+
+@SUOMI = Muu „„reishermojen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av perifera nerver
+
+@END = 
+
+@KOODI_A = AX0
+
+@SUOMI_A = Hermoston laaja-alainen s„dehoito
+
+@RUOTSI_A = Utvigd str†lbehandling av nervsystemet
+
+@ENGL_A = Extended radiotherapy of nervous system
+
+@END = 
+
+@KOODI = AX099 
+
+@VANHA = 
+
+@SUOMI = Koko keskushermoston s„dehoito
+
+@RUOTSI = Str†lbehandling av hela centrala nervsystemet
+
+@END = 
+
+@LUVUT = LUKU B
+
+@LUVUT_S = KAPITEL B
+
+@SUOMI_L = Umpierityselimien toimenpiteet
+
+@RUOTSI_L = tg„rder p† endokrina organ
+
+@ENGL_L = Endocrine system
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = BA0
+
+@SUOMI_A = Kilpirauhasen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av sk”ldk”rteln
+
+@ENGL_A = Radiotherapy of thyroid gland
+
+@END = 
+
+@KOODI = BA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kilpirauhasen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali kilpirauhasen primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kilpirauhasen primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kilpirauhasen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kilpirauhasen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kilpirauhasessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kilpirauhasenprofylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av sk”ldk”rteln
+
+@END = 
+
+@KOODI = BA099 
+
+@VANHA = 
+
+@SUOMI = Muu kilpirauhasen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av sk”ldk”rteln
+
+@END = 
+
+@KOODI_A = BC0
+
+@SUOMI_A = Lis„munuaisen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av binjurar
+
+@ENGL_A = Radiotherapy of adrenal gland
+
+@END = 
+
+@KOODI = BC001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lis„munuaisen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i binjurar
+
+@END = 
+
+@KOODI = BC002 
+
+@VANHA = 
+
+@SUOMI = Radikaali lis„munuaisen primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i binjurar
+
+@END = 
+
+@KOODI = BC003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lis„munuaisen primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i binjurar
+
+@END = 
+
+@KOODI = BC004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lis„munuaisen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i binjurar
+
+@END = 
+
+@KOODI = BC029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lis„munuaisen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i binjurar
+
+@END = 
+
+@KOODI = BC049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lis„munuaisessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i binjurar
+
+@END = 
+
+@KOODI = BC090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lis„munuaisenprofylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av binjurar
+
+@END = 
+
+@KOODI = BC099 
+
+@VANHA = 
+
+@SUOMI = Muu lis„munaisen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av binjurar
+
+@END = 
+
+@LUVUT = LUKU C
+
+@LUVUT_S = KAPITEL C
+
+@SUOMI_L = Silm„n alueen toimenpiteet
+
+@RUOTSI_L = tg„rder i ”gonregionen
+
+@ENGL_L = Eye and adjacent structures
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = CKC
+
+@SUOMI_A = Silm„n ulkopuolelta teht„v„t lasiais- ja verkkokalvoleikkaukset
+
+@RUOTSI_A = "Extraokul„ra" †tg„rder p† †derhinna, n„thinna och i glaskroppen
+
+@ENGL_A = Extraocular operations on vitreous body and retina
+
+@END = 
+
+@KOODI = CKC80 
+
+@VANHA = 
+
+@SUOMI = Kovakalvon l„pi annettu s„dehoito
+
+@RUOTSI = Transskleral str†lbehandling
+
+@END = 
+
+@KOODI_A = CX0
+
+@SUOMI_A = Silm„n ja silm„kuopan ulkoinen s„dehoito
+
+@RUOTSI_A = Ytre str†lbehandling av ”gonregionen
+
+@ENGL_A = Radiotherapy of eye
+
+@END = 
+
+@KOODI = CX001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito silm„n ja silm„kuopan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av intraorbitalt prim„rtum”r
+
+@END = 
+
+@KOODI = CX002 
+
+@VANHA = 
+
+@SUOMI = Radikaali silm„n ja silm„kuopan primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av intraorbitalt prim„rtum”r
+
+@END = 
+
+@KOODI = CX003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito silm„n ja silm„kuopan primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av intraorbitalt prim„rtum”r
+
+@END = 
+
+@KOODI = CX004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito silm„n ja silm„kuopan primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av intraorbitalt prim„rtum”r
+
+@END = 
+
+@KOODI = CX029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito silm„n ja silm„kuopan paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av intraorbitalt lokalt recidivtum”r
+
+@END = 
+
+@KOODI = CX049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito silm„ss„ tai silm„kuopassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av intraorbital metastas
+
+@END = 
+
+@KOODI = CX090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito silm„n ja silm„kuopan profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av intraorbitala organ
+
+@END = 
+
+@KOODI = CX099 
+
+@VANHA = 
+
+@SUOMI = Muu silm„n ja silm„kuopans„dehoito
+
+@RUOTSI = Annan str†lbehandling av intraorbitala organ
+
+@END = 
+
+@LUVUT = LUKU D
+
+@LUVUT_S = KAPITEL D
+
+@SUOMI_L = Korvan, nen„n ja kurkunp„„n toimenpiteet
+
+@RUOTSI_L = tg„rder p† ”ron, n„sa, hals och struphuvud
+
+@ENGL_L = Ear, nose and larynx
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = DA0
+
+@SUOMI_A = Korvan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av ”rat
+
+@ENGL_A = 
+
+@NOTE_RF = Sis„lt„„ korvalehden, korvak„yt„v„n, v„likorvanontelon ja sis„korvan
+
+@NOTE_RS = Uppfattar ytre ”rat, mellan”rat och inre ”rat
+
+@END = 
+
+@KOODI = DA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito korvan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i ”rat
+
+@END = 
+
+@KOODI = DA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali korvan primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i ”rat
+
+@END = 
+
+@KOODI = DA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito korvan primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i ”rat
+
+@END = 
+
+@KOODI = DA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito korvan primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i ”rat
+
+@END = 
+
+@KOODI = DA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito korvan paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i ”rat
+
+@END = 
+
+@KOODI = DA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito korvassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i ”rat
+
+@END = 
+
+@KOODI = DA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito korvan profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av ”rat
+
+@END = 
+
+@KOODI = DA099 
+
+@VANHA = 
+
+@SUOMI = Muu korvan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av ”rat
+
+@END = 
+
+@KOODI_A = DH0
+
+@SUOMI_A = Nen„n s„dehoito
+
+@RUOTSI_A = Str†lbehandling av n„san
+
+@ENGL_A = 
+
+@NOTE_RF = Sis„lt„„ nen„n ja nen„ontelon hoidot choana-tasoon asti. Nen„nielu choana-tason alapuolella, katso EX0.
+
+@END = 
+
+@KOODI = DH001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„n primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i n„san
+
+@END = 
+
+@KOODI = DH002 
+
+@VANHA = 
+
+@SUOMI = Radikaali nen„n primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i n„san
+
+@END = 
+
+@KOODI = DH003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„n primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i n„san
+
+@END = 
+
+@KOODI = DH004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„n primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i n„san
+
+@END = 
+
+@KOODI = DH029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„n paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i n„san
+
+@END = 
+
+@KOODI = DH049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„ss„ ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i n„san
+
+@END = 
+
+@KOODI = DH090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„n profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av n„san
+
+@END = 
+
+@KOODI = DH099 
+
+@VANHA = 
+
+@SUOMI = Muu nen„n s„dehoito
+
+@RUOTSI = Annan str†lbehandling av n„san
+
+@END = 
+
+@KOODI_A = DM0
+
+@SUOMI_A = Nen„nsivuonteloiden s„dehoito
+
+@RUOTSI_A = Str†lbehandling av n„sans bih†lor
+
+@ENGL_A = Radiotherapy of paranasal sinuses
+
+@NOTE_RF = Yl„leuan s„dehoito kohdassa NV0
+
+@NOTE_RS = Str†lbehandling av maxilla, se NV0
+
+@END = 
+
+@KOODI = DM001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito nen„n sivuonteloiden primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i n„sans bih†lor
+
+@END = 
+
+@KOODI = DM002 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  nen„n sivuonteloiden primaarikasvaimen perushoitona
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i n„sans bih†lor
+
+@END = 
+
+@KOODI = DM003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  nen„n sivuonteloiden primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i n„sans bih†lor
+
+@END = 
+
+@KOODI = DM004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  nen„n sivuonteloiden primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i n„sans bih†lor
+
+@END = 
+
+@KOODI = DM029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  nen„n sivuonteloiden paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i n„sans bih†lor
+
+@END = 
+
+@KOODI = DM049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  nen„n sivuonteloiden ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i n„sans bih†lor
+
+@END = 
+
+@KOODI = DM090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito poskionteloidenprofylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av n„sans bih†lor
+
+@END = 
+
+@KOODI = DM099 
+
+@VANHA = 
+
+@SUOMI = Muu poskionteloiden s„dehoito
+
+@RUOTSI = Annan str†lbehandling av n„sans bih†lor
+
+@END = 
+
+@KOODI_A = DQ0
+
+@SUOMI_A = Kurkunp„„n s„dehoito
+
+@RUOTSI_A = Str†lbehandling av struphuvudet
+
+@ENGL_A = Radiotherapy of larynx
+
+@END = 
+
+@KOODI = DQ001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kurkunp„„n primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i struphuvudet
+
+@END = 
+
+@KOODI = DQ002 
+
+@VANHA = 
+
+@SUOMI = Radikaali kurkunp„„n primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i struphuvudet
+
+@END = 
+
+@KOODI = DQ003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kurkunp„„n primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i struphuvudet
+
+@END = 
+
+@KOODI = DQ004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kurkunp„„n primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i struphuvudet
+
+@END = 
+
+@KOODI = DQ029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kurkunp„„n paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i struphuvudet
+
+@END = 
+
+@KOODI = DQ049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kurkunp„„ss„ ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i struphuvudet
+
+@END = 
+
+@KOODI = DQ090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kurkunp„„n profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av struphuvudet
+
+@END = 
+
+@KOODI = DQ099 
+
+@VANHA = 
+
+@SUOMI = Muu kurkunp„„n s„dehoito
+
+@RUOTSI = Annan str†lbehandling av struphuvudet
+
+@END = 
+
+@LUVUT = LUKU E
+
+@LUVUT_S = KAPITEL E
+
+@SUOMI_L = Suun ja nielun alueen toimenpiteet
+
+@RUOTSI_L = Str†lbehandling av munh†la och svalg
+
+@ENGL_L = Teeth, jaws, mouth and pharynx
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = EX0
+
+@SUOMI_A = Suun ja nielun alueen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av mun och svalg regionen
+
+@ENGL_A = Radiotherapy of mouth and pharynx
+
+@NOTE_RF = Sis„lt„„ huulet, suuontelon, sylkirauhaset ja nielun sek„ nen„nielun choana-tasoa my”ten
+
+@NOTE_RS = Inkl l„ppar, munh†la, svalg och spottk”rtlar
+
+@END = 
+
+@KOODI = EX001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito suun ja nielun alueen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i mun eller svalg
+
+@END = 
+
+@KOODI = EX002 
+
+@VANHA = 
+
+@SUOMI = Radikaali suun ja nielun alueen primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i mun eller svalg
+
+@END = 
+
+@KOODI = EX003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito suun ja nielun alueen primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i mun eller svalg
+
+@END = 
+
+@KOODI = EX004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito suun ja nielun alueen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i mun eller svalg
+
+@END = 
+
+@KOODI = EX029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito suun ja nielun alueen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i mun eller svalg
+
+@END = 
+
+@KOODI = EX049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito suun ja nielun alueella ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i mun eller svalg
+
+@END = 
+
+@KOODI = EX090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito suun ja nielun alueen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av mun och svalg
+
+@END = 
+
+@KOODI = EX099 
+
+@VANHA = 
+
+@SUOMI = Muu suun ja nielun alueen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av mun och svalg
+
+@END = 
+
+@LUVUT = LUKU G
+
+@LUVUT_S = KAPITEL G
+
+@SUOMI_L = Rintaontelon sein„m„n, keuhkopussin, pallean, henkitorven, keuhkoputkien, keuhkojen ja v„likarsinan toimenpiteet
+
+@RUOTSI_L = tg„rder p† br”stv„gg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+
+@ENGL_L = Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung
+
+@NOTE_LF = Sis„lt„„ syd„men s„dehoidon (GE0)
+
+@NOTE_LF =
+S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = GA0
+
+@SUOMI_A = Rintaontelon sein„m„n, keuhkopussin ja pallean s„dehoito
+
+@RUOTSI_A = Str†lbehandling av pleurah†lan
+
+@ENGL_A = Radiotherapy of chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI = GA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintaontelon sein„m„n, keuhkopussin ja pallean primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i br”stv„ggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali rintaontelon sein„m„n, keuhkopussin ja pallean primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i br”stv„ggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintaontelon sein„m„n, keuhkopussin ja pallean primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i br”stv„ggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintaontelon sein„m„n, keuhkopussin ja pallean primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i br”stv„ggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintaontelon sein„m„n, keuhkopussin ja pallean paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i br”stv„ggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintaontelon sein„m„ss„, keuhkopussissa tai palleassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i br”stv„ggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintaontelon sein„m„n, keuhkopussin ja pallean profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av br”stv„gg, pleura och diafragm
+
+@END = 
+
+@KOODI = GA099 
+
+@VANHA = 
+
+@SUOMI = Muu rintaontelon sein„m„n, keuhkopussin ja pallean s„dehoito
+
+@RUOTSI = Annan str†lbehandling av br”stv„gg, pleura och diafragm
+
+@END = 
+
+@KOODI_A = GD0
+
+@SUOMI_A = Keuhkojen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av lungorna
+
+@ENGL_A = Radiotherapy of lung
+
+@END = 
+
+@KOODI = GD001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i lungorna
+
+@END = 
+
+@KOODI = GD002 
+
+@VANHA = 
+
+@SUOMI = Radikaali henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i lungorna
+
+@END = 
+
+@KOODI = GD003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i lungorna
+
+@END = 
+
+@KOODI = GD004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i lungorna
+
+@END = 
+
+@KOODI = GD029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito henkitorven, keuhkoputkien ja keuhkojen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i lungorna
+
+@END = 
+
+@KOODI = GD049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito keuhkoissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i lungorna
+
+@END = 
+
+@KOODI = GD090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito henkitorven, keuhkoputkien ja keuhkojen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av lungorna
+
+@END = 
+
+@KOODI = GD099 
+
+@VANHA = 
+
+@SUOMI = Muu keuhkojen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av lungorna
+
+@END = 
+
+@KOODI_A = GE0
+
+@SUOMI_A = V„likarsinan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av mediastinum
+
+@ENGL_A = Radiotherapy of mediastinum
+
+@NOTE_RF = Sis„lt„„ syd„men s„dehoidon
+
+@NOTE_RS = Inkl str†lbehandling av hj„rtat
+
+@END = 
+
+@KOODI = GE001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito v„likarsinan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i mediastinum
+
+@END = 
+
+@KOODI = GE002 
+
+@VANHA = 
+
+@SUOMI = Radikaali v„likarsinan  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i mediastinum
+
+@END = 
+
+@KOODI = GE003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito v„likarsinan  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i mediastinum
+
+@END = 
+
+@KOODI = GE004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito v„likarsinan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i mediastinum
+
+@END = 
+
+@KOODI = GE029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito v„likarsinan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i mediastinum
+
+@END = 
+
+@KOODI = GE049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito v„likarsinassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i mediastinum
+
+@END = 
+
+@KOODI = GE090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito v„likarsinan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av mediastinum
+
+@END = 
+
+@KOODI = GE099 
+
+@VANHA = 
+
+@SUOMI = Muu v„likarsinan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av mediastinum
+
+@END = 
+
+@LUVUT = LUKU H
+
+@LUVUT_S = KAPITEL H
+
+@SUOMI_L = Rintarauhasen s„dehoito
+
+@RUOTSI_L = Str†lbehandling av br”st
+
+@ENGL_L = Mammary gland
+
+@NOTE_LF = Rintakeh„n sein„m„n et„pes„ke kohdassa GA0
+
+@NOTE_LF =
+S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = HA0
+
+@SUOMI_A = Rintarauhasen s„dehoito kirurgisen hoidon liit„nn„ishoitona
+
+@RUOTSI_A = Str†lbehandling av br”stk”rtel med kirurgi
+
+@ENGL_A = Radiotherapy of mammary gland as adjuvant to surgery
+
+@END = 
+
+@KOODI = HA003 
+
+@VANHA = 
+
+@SUOMI = Rintarauhasen osittaisen poiston j„lkeinen s„dehoito
+
+@RUOTSI = Str†lbehandling efter delresektion av br”stk”rtel
+
+@END = 
+
+@KOODI = HA013 
+
+@VANHA = 
+
+@SUOMI = Rintarauhasen t„ydellisen poiston j„lkeinen s„dehoito
+
+@RUOTSI = Str†lbehandling efter total mastektomi
+
+@END = 
+
+@KOODI_A = HB0
+
+@SUOMI_A = Muu rintarauhasen s„dehoito
+
+@RUOTSI_A = Annan str†lbehandling av br”stk”rtel
+
+@ENGL_A = Other radiotherapy of mammary gland
+
+@NOTE_RF = Rintakeh„n sein„m„n metastaasi kohdassa GA0
+
+@NOTE_RF =
+Ihon ja ihonalaiskudoksen metastasoinnin hoito luvussa Q
+
+@NOTE_RS = Metastas i br”stv„ggen koderas i kapitel G
+
+@NOTE_RS =
+Metastas i hud och subkutan v„vnad koderas i kapitel Q
+
+@END = 
+
+@KOODI = HB000 
+
+@VANHA = 
+
+@SUOMI = Rintarauhasen profylaktinen s„dehoito
+
+@RUOTSI = Profylaktisk str†lbehandling av br”stk”rteln
+
+@END = 
+
+@KOODI = HB001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintarauhasen primaarikasvaimen preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i br”stk”rteln
+
+@END = 
+
+@KOODI = HB003 
+
+@VANHA = 
+
+@SUOMI = Radikaali leikkaamattoman rintarauhasen primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i br”stk”rteln
+
+@END = 
+
+@KOODI = HB004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintarauhasen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i br”stk”rteln
+
+@END = 
+
+@KOODI = HB049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito rintarauhasessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i br”stk”rteln
+
+@END = 
+
+@LUVUT = LUKU J
+
+@LUVUT_S = KAPITEL J
+
+@SUOMI_L = Ruuansulatuskanavan ja sen oheiselinten toimenpiteet
+
+@RUOTSI_L = Operationer p† gastrointestinalkanalen och d„rtill h”rande organ
+
+@ENGL_L = Digestive system and spleen
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = JA0
+
+@SUOMI_A = Vatsapeitteiden, vatsakalvon ja vatsapaidan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av bukv„gg, mesenterium, peritoneum och oment
+
+@ENGL_A = Radiotherapy of abdominall wall, mesentery, peritoneum and greater omentum
+
+@END = 
+
+@KOODI = JA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsanpeitteiden, vatsakalvon ja vatsapaidan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali vatsanpeitteiden, vatsakalvon ja vatsapaidan  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsanpeitteiden, vatsakalvon ja vatsapaidan  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsanpeitteiden, vatsakalvon ja vatsapaidan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsanpeitteiden, vatsakalvon ja vatsapaidan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsanpeitteiss„, vatsakalvossa tai vatsapaidassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas  i bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsanpeitteiden, vatsakalvon ja vatsapaidan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI = JA099 
+
+@VANHA = 
+
+@SUOMI = Muu vatsapeitteiden, vatsakalvon ja vatsapaidan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av bukv„gg, mesenterium, peritoneum eller oment
+
+@END = 
+
+@KOODI_A = JC0
+
+@SUOMI_A = Ruokatorven s„dehoito
+
+@RUOTSI_A = Str†lbehandling av esofagus
+
+@ENGL_A = Radiotherapy of oesophagus
+
+@END = 
+
+@KOODI = JC001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ruokatorven  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i esofagus
+
+@END = 
+
+@KOODI = JC002 
+
+@VANHA = 
+
+@SUOMI = Radikaali ruokatorven  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i esofagus
+
+@END = 
+
+@KOODI = JC003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ruokatorven  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i esofagus
+
+@END = 
+
+@KOODI = JC004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ruokatorven  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i esofagus
+
+@END = 
+
+@KOODI = JC029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ruokatorven  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i esofagus
+
+@END = 
+
+@KOODI = JC049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ruokatorvessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i esofagus
+
+@END = 
+
+@KOODI = JC090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ruokatorven  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av esofagus
+
+@END = 
+
+@KOODI = JC099 
+
+@VANHA = 
+
+@SUOMI = Muu ruokatorven s„dehoito
+
+@RUOTSI = Annan str†lbehandling av esofagus
+
+@END = 
+
+@KOODI_A = JD0
+
+@SUOMI_A = Mahalaukun ja pohjukaissuolen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av ventrikeln och duodenum
+
+@ENGL_A = Radiotherapy of stomach and duodenal bulb
+
+@END = 
+
+@KOODI = JD001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito mahalaukun ja pohjukaissuolen  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i ventrikeln eller duodenum
+
+@END = 
+
+@KOODI = JD002 
+
+@VANHA = 
+
+@SUOMI = Radikaali mahalaukun ja pohjukaissuolen  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i ventrikeln eller duodenum
+
+@END = 
+
+@KOODI = JD003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito mahalaukun ja pohjukaissuolen  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i ventrikeln eller duodenum
+
+@END = 
+
+@KOODI = JD004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito mahalaukun ja pohjukaissuolen  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i ventrikeln eller duodenum
+
+@END = 
+
+@KOODI = JD029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito mahalaukun ja pohjukaissuolen  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i ventrikeln eller duodenum
+
+@END = 
+
+@KOODI = JD049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito mahalaukussa tai pohjukaissuolessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i ventrikeln eller duodenum
+
+@END = 
+
+@KOODI = JD090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito mahalaukun ja pohjukaissuolen  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av ventrikeln och duodenum
+
+@END = 
+
+@KOODI = JD099 
+
+@VANHA = 
+
+@SUOMI = Muu mahalaukun ja pohjukaissuolen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av ventrikeln och duodenum
+
+@END = 
+
+@KOODI_A = JF0
+
+@SUOMI_A = Ohut- ja paksusuolen s„dehoito
+
+@RUOTSI_A = Str†lbehandling p† tunntarm och kolon
+
+@ENGL_A = Radiotherapy of intestine
+
+@END = 
+
+@KOODI = JF001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ohut- ja paksusuolen  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF002 
+
+@VANHA = 
+
+@SUOMI = Radikaali ohut- ja paksusuolen  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ohut- ja paksusuolen  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ohut- ja paksusuolen  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ohut- ja paksusuolen  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ohut- tai paksusuolessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito ohut- ja paksusuolen  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av prim„rtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI = JF099 
+
+@VANHA = 
+
+@SUOMI = Muu ohut- ja paksusuolen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av prim„rtum”r i tunntarm eller kolon
+
+@END = 
+
+@KOODI_A = JG0
+
+@SUOMI_A = Per„suolen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av rectum
+
+@ENGL_A = Radiotherapy of rectum
+
+@END = 
+
+@KOODI = JG001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„suolen  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i rectum
+
+@END = 
+
+@KOODI = JG002 
+
+@VANHA = 
+
+@SUOMI = Radikaali per„suolen  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i rectum
+
+@END = 
+
+@KOODI = JG003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„suolen  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i rectum
+
+@END = 
+
+@KOODI = JG004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„suolen  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i rectum
+
+@END = 
+
+@KOODI = JG029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„suolen  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i rectum
+
+@END = 
+
+@KOODI = JG049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„suolessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i rectum
+
+@END = 
+
+@KOODI = JG090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„suolen  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av rectum
+
+@END = 
+
+@KOODI = JG099 
+
+@VANHA = 
+
+@SUOMI = Muu per„suolen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av rectum
+
+@END = 
+
+@KOODI_A = JH0
+
+@SUOMI_A = Per„aukon ja sen ymp„ryksen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av anus och perianal v„vnad
+
+@ENGL_A = Radiotherapy of anus and perianal tissue
+
+@END = 
+
+@KOODI = JH001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„aukon ja sen ymp„ryksen  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i anus eller perianal v„vnad
+
+@END = 
+
+@KOODI = JH002 
+
+@VANHA = 
+
+@SUOMI = Radikaali per„aukon ja sen ymp„ryksen  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i anus eller perianal v„vnad
+
+@END = 
+
+@KOODI = JH003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„aukon ja sen ymp„ryksen  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i anus eller perianal v„vnad
+
+@END = 
+
+@KOODI = JH004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„aukon ja sen ymp„ryksen  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i anus eller perianal v„vnad
+
+@END = 
+
+@KOODI = JH029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„aukon ja sen ymp„ryksen  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i anus eller perianal v„vnad
+
+@END = 
+
+@KOODI = JH049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„aukon seudussa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i anus eller perianal v„vnad
+
+@END = 
+
+@KOODI = JH090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito per„aukon ja sen ymp„ryksen  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av anus och perianal v„vnad
+
+@END = 
+
+@KOODI = JH099 
+
+@VANHA = 
+
+@SUOMI = Muu per„aukon ja sen ymp„ryksen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av anus och perianal v„vnad
+
+@END = 
+
+@KOODI_A = JJ0
+
+@SUOMI_A = Maksan ja sappiteiden s„dehoito
+
+@RUOTSI_A = Str†lbehandling av levern och gallv„gar
+
+@ENGL_A = Radiotherapy of liver
+
+@END = 
+
+@KOODI = JJ001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito maksan  ja sappiteiden primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i levern eller gallv„gar
+
+@END = 
+
+@KOODI = JJ002 
+
+@VANHA = 
+
+@SUOMI = Radikaali maksan  ja sappiteiden primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i levern eller gallv„gar
+
+@END = 
+
+@KOODI = JJ003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito maksan  ja sappiteiden primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i levern eller gallv„gar
+
+@END = 
+
+@KOODI = JJ004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito maksan  ja sappiteiden primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i levern eller gallv„gar
+
+@END = 
+
+@KOODI = JJ029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito maksan  ja sappiteiden paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i levern eller gallv„gar
+
+@END = 
+
+@KOODI = JJ049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito maksassa tai sappiteiss„ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i levern eller gallv„gar
+
+@END = 
+
+@KOODI = JJ090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito maksan  ja sappiteiden profylaktisena hoitona
+
+@RUOTSI = Profylatktisk str†lbehandling av levern och gallv„gar
+
+@END = 
+
+@KOODI = JJ099 
+
+@VANHA = 
+
+@SUOMI = Muu maksan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av levern och gallv„gar
+
+@END = 
+
+@KOODI_A = JL0
+
+@SUOMI_A = Haiman s„dehoito
+
+@RUOTSI_A = Str†lbehandling av pankreas
+
+@ENGL_A = Radiotherapy of pancreas
+
+@END = 
+
+@KOODI = JL001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito haiman  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i pankreas
+
+@END = 
+
+@KOODI = JL002 
+
+@VANHA = 
+
+@SUOMI = Radikaali haiman  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i pankreas
+
+@END = 
+
+@KOODI = JL003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito haiman  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i pankreas
+
+@END = 
+
+@KOODI = JL004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito haiman  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i pankreas
+
+@END = 
+
+@KOODI = JL029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito haiman  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokal recidivtum”r i pankreas
+
+@END = 
+
+@KOODI = JL049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito haimassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i pankreas
+
+@END = 
+
+@KOODI = JL090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito haiman  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av pankreas
+
+@END = 
+
+@KOODI = JL099 
+
+@VANHA = 
+
+@SUOMI = Muu haiman s„dehoito
+
+@RUOTSI = Annan str†lbehandling av pankreas
+
+@END = 
+
+@KOODI_A = JM0
+
+@SUOMI_A = Pernan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av mj„lten
+
+@ENGL_A = Radiotherapy of spleen
+
+@END = 
+
+@KOODI = JM001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito pernan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i mj„lten
+
+@END = 
+
+@KOODI = JM002 
+
+@VANHA = 
+
+@SUOMI = Radikaali pernan  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i mj„lten
+
+@END = 
+
+@KOODI = JM003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito pernan  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i mj„lten
+
+@END = 
+
+@KOODI = JM004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito pernan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i mj„lten
+
+@END = 
+
+@KOODI = JM029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito pernan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i mj„lten
+
+@END = 
+
+@KOODI = JM049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito pernassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i hj„lten
+
+@END = 
+
+@KOODI = JM090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito pernan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av mj„lten
+
+@END = 
+
+@KOODI = JM099 
+
+@VANHA = 
+
+@SUOMI = Muu pernan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av mj„lten
+
+@END = 
+
+@LUVUT = LUKU K
+
+@LUVUT_S = KAPITEL K
+
+@SUOMI_L = Virtsateiden, miehen sukupuolielinten ja vatsaontelon takaisten kudosten toimenpiteet
+
+@RUOTSI_L = tg„rder p† urinv„gar, manliga genitalier och retroperitoneal v„vnad
+
+@ENGL_L = Urinary system, male genital organs and retroperitoneal space
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = KA0
+
+@SUOMI_A = Munuaisten, munuaisaltaiden ja virtsajohtimien s„dehoito
+
+@RUOTSI_A = Str†lbehandling av njure och njurb„cken
+
+@ENGL_A = Radiotherapy of kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i njure eller njurb„cken
+
+@END = 
+
+@KOODI = KA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i njure eller njurb„cken
+
+@END = 
+
+@KOODI = KA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i njure eller njurb„cken
+
+@END = 
+
+@KOODI = KA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i njure eller njurb„cken
+
+@END = 
+
+@KOODI = KA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munuaisten, munuaisaltaiden  ja virtsajohtimien paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i njure eller njurb„cken
+
+@END = 
+
+@KOODI = KA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  munuaisissa, munuaisaltaissa tai virtsajohtimissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i njure eller njurb„cken
+
+@END = 
+
+@KOODI = KA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munuaisten, munuaisaltaiden  ja virtsajohtimien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av njure och njurb„cken
+
+@END = 
+
+@KOODI = KA099 
+
+@VANHA = 
+
+@SUOMI = Muu munuaisten ja munuaisaltaiden s„dehoito
+
+@RUOTSI = Annan str†lbehandling av njure och njurb„cken
+
+@END = 
+
+@KOODI_A = KC0
+
+@SUOMI_A = Virtsarakon s„dehoito
+
+@RUOTSI_A = Str†lbehandling av urinbl†san
+
+@ENGL_A = Radiotherapy of urinary bladder
+
+@END = 
+
+@KOODI = KC001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito virtsarakon ja virtsaputken primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i urinbl†san
+
+@END = 
+
+@KOODI = KC002 
+
+@VANHA = 
+
+@SUOMI = Radikaali virtsarakon ja virtsaputken primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i urinbl†san
+
+@END = 
+
+@KOODI = KC003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito virtsarakon ja virtsaputken primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i urinbl†san
+
+@END = 
+
+@KOODI = KC004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito virtsarakon ja virtsaputken primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i urinbl†san
+
+@END = 
+
+@KOODI = KC029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito virtsarakon ja virtsaputken paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i urinbl†san
+
+@END = 
+
+@KOODI = KC049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito virtsarakossa tai virtsaputkessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i urinbl†san
+
+@END = 
+
+@KOODI = KC090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito virtsarakon ja virtsaputken profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av urinbl†san
+
+@END = 
+
+@KOODI = KC099 
+
+@VANHA = 
+
+@SUOMI = Muu virtsarakon s„dehoito
+
+@RUOTSI = Annan str†lbehandling av urinbl†san
+
+@END = 
+
+@KOODI_A = KE0
+
+@SUOMI_A = Eturauhasen ja rakkularauhasten s„dehoito
+
+@RUOTSI_A = Str†lbehandling av prostata och s„desbl†sor
+
+@ENGL_A = Radiotherapy of prostata and seminal vesicles
+
+@END = 
+
+@KOODI = KE001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito eturauhasen ja rakkularauhasten  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i prostata eller i s„desbl†sor
+
+@END = 
+
+@KOODI = KE002 
+
+@VANHA = 
+
+@SUOMI = Radikaali eturauhasen ja rakkularauhasten  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i prostata eller i s„desbl†sor
+
+@END = 
+
+@KOODI = KE003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito eturauhasen ja rakkularauhasten  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i prostata eller i s„desbl†sor
+
+@END = 
+
+@KOODI = KE004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito eturauhasen ja rakkularauhasten  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i prostata eller i s„desbl†sor
+
+@END = 
+
+@KOODI = KE029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito eturauhasen ja rakkularauhasten  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i prostata eller i s„desbl†sor
+
+@END = 
+
+@KOODI = KE049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito eturauhasessa tai rakkularauhasessa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i prostata eller i s„desbl†sor
+
+@END = 
+
+@KOODI = KE090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito eturauhasen ja rakkularauhasten  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av prostata och i s„desbl†sor
+
+@END = 
+
+@KOODI = KE099 
+
+@VANHA = 
+
+@SUOMI = Muu eturauhasen ja rakkularauhasten s„dehoito
+
+@RUOTSI = Annan str†lbehandling av prostata och i s„desbl†sor
+
+@END = 
+
+@KOODI_A = KF0
+
+@SUOMI_A = Kivesten ja siemenjohtimien s„dehoito
+
+@RUOTSI_A = Str†lbehandling av testiklar och s„desledare
+
+@ENGL_A = Radiotherapy of scrotum and scrotal organs
+
+@NOTE_RF = Imusolmukealueen s„dehoito - PJ060
+
+@NOTE_RS = Str†lbehandling av lymfk”rtel omr†det, se PJ060
+
+@END = 
+
+@KOODI = KF001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kivesten ja siemenjohtimien  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i testiklar eller s„desledare
+
+@END = 
+
+@KOODI = KF002 
+
+@VANHA = 
+
+@SUOMI = Radikaali kivesten ja siemenjohtimien  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i testiklar eller s„desledare
+
+@END = 
+
+@KOODI = KF003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kivesten ja siemenjohtimien  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i testiklar eller s„desledare
+
+@END = 
+
+@KOODI = KF004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kivesten ja siemenjohtimien  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i testiklar eller s„desledare
+
+@END = 
+
+@KOODI = KF029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kivesten ja siemenjohtimien  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i testiklar eller s„desledare
+
+@END = 
+
+@KOODI = KF049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kiveksiss„ tai siemenjohtimissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i testiklar eller s„desledare
+
+@END = 
+
+@KOODI = KF090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kivesten ja siemenjohtimien  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av  testiklar och s„desledare
+
+@END = 
+
+@KOODI = KF099 
+
+@VANHA = 
+
+@SUOMI = Muu kivesten ja siemenjohtimien s„dehoito
+
+@RUOTSI = Annan str†lbehandling av  testiklar och s„desledare
+
+@END = 
+
+@KOODI_A = KG0
+
+@SUOMI_A = Siittimen s„dehoito
+
+@RUOTSI_A = Str†lbehandling av penis
+
+@ENGL_A = Radiotherapy of penis
+
+@END = 
+
+@KOODI = KG001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito siittimen  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i penis
+
+@END = 
+
+@KOODI = KG002 
+
+@VANHA = 
+
+@SUOMI = Radikaali siittimen  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i penis
+
+@END = 
+
+@KOODI = KG003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito siittimen  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i penis
+
+@END = 
+
+@KOODI = KG004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito siittimen  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i penis
+
+@END = 
+
+@KOODI = KG029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito siittimen  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i penis
+
+@END = 
+
+@KOODI = KG049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito siittimess„ ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i penis
+
+@END = 
+
+@KOODI = KG090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito siittimen  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av prim„rtum”r i penis
+
+@END = 
+
+@KOODI = KG099 
+
+@VANHA = 
+
+@SUOMI = Muu siittimen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av prim„rtum”r i penis
+
+@END = 
+
+@KOODI_A = KK0
+
+@SUOMI_A = Vatsaontelon takaisen tilan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av retroperitoneal v„vnad
+
+@ENGL_A = Radiotherapy of retroperitoneal space
+
+@END = 
+
+@KOODI = KK001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsaontelon takaisen tilan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK002 
+
+@VANHA = 
+
+@SUOMI = Radikaali vatsaontelon takaisen tilan  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsaontelon takaisen tilan  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsaontelon takaisen tilan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsaontelon takaisen tilan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsaontelon takaisessa tilassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vatsaontelon takaisen tilan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av retroperitoneal v„vnad
+
+@END = 
+
+@KOODI = KK099 
+
+@VANHA = 
+
+@SUOMI = Muu vatsaontelon takaisen tilan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av retroperitoneal v„vnad
+
+@END = 
+
+@LUVUT = LUKU L
+
+@LUVUT_S = KAPITEL L
+
+@SUOMI_L = Naisen sukupuolielinten toimenpiteet
+
+@RUOTSI_L = tg„rder p† kvinnliga genitalier
+
+@ENGL_L = Female genital organs
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = LA0
+
+@SUOMI_A = Munasarjojen ja munajohtimien s„dehoito
+
+@RUOTSI_A = Str†lbehandling av ovarium
+
+@ENGL_A = Radiotherapy of ovary and fallopian tubes
+
+@END = 
+
+@KOODI = LA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munasarjojen ja munajohtimien primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i ovariet
+
+@END = 
+
+@KOODI = LA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali munasarjojen ja munajohtimien primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i ovariet
+
+@END = 
+
+@KOODI = LA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munasarjojen ja munajohtimien primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i ovariet
+
+@END = 
+
+@KOODI = LA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munasarjojen ja munajohtimien primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i ovariet
+
+@END = 
+
+@KOODI = LA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munasarjojen ja munajohtimien paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt prim„rtum”r i ovariet
+
+@END = 
+
+@KOODI = LA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munasarjoissa tai munajohtimissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i ovariet
+
+@END = 
+
+@KOODI = LA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito munasarjojen ja munajohtimien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av ovarium
+
+@END = 
+
+@KOODI = LA099 
+
+@VANHA = 
+
+@SUOMI = Muu munasarjojen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av ovarium
+
+@END = 
+
+@KOODI_A = LC0
+
+@SUOMI_A = Kohdun ja sen kannatinsiteiden s„dehoito
+
+@RUOTSI_A = Str†lbehandling av uterus och parametrium
+
+@ENGL_A = Radiotherapy of uterus and uterine ligaments
+
+@END = 
+
+@KOODI = LC001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC002 
+
+@VANHA = 
+
+@SUOMI = Radikaali kohdun ja sen kannatinsiteiden  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kohdun ja sen kannatinsiteiden  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kohdussa tai sen kannatinsiteiss„ ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i uterus eller parametriet
+
+@END = 
+
+@KOODI = LC090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kohdun ja sen kannatinsiteiden  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av uterus och parametriet
+
+@END = 
+
+@KOODI = LC099 
+
+@VANHA = 
+
+@SUOMI = Muu kohdun ja sen kannatinsiteiden s„dehoito
+
+@RUOTSI = Annan str†lbehandling av uterus och parametriet
+
+@END = 
+
+@KOODI_A = LE0
+
+@SUOMI_A = Em„ttimen ja ulkosynnyttimien s„dehoito
+
+@RUOTSI_A = Str†lbehandling av vulva och vagina
+
+@ENGL_A = Radiotherapy of vagina and vulva
+
+@END = 
+
+@KOODI = LE001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito em„ttimen ja ulkosynnyttimien primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i vulva eller vagina
+
+@END = 
+
+@KOODI = LE002 
+
+@VANHA = 
+
+@SUOMI = Radikaali em„ttimen ja ulkosynnyttimien primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i vulva eller vagina
+
+@END = 
+
+@KOODI = LE003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito em„ttimen ja ulkosynnyttimien primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i vulva eller vagina
+
+@END = 
+
+@KOODI = LE004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito em„ttimen ja ulkosynnyttimien primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i vulva eller vagina
+
+@END = 
+
+@KOODI = LE029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito em„ttimen ja ulkosynnyttimien paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i vulva eller vagina
+
+@END = 
+
+@KOODI = LE049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito em„ttimess„ tai ulkosynnyttimiss„ ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i vulva eller vagina
+
+@END = 
+
+@KOODI = LE090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito em„ttimen ja ulkosynnyttimien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av vulva och vagina
+
+@END = 
+
+@KOODI = LE099 
+
+@VANHA = 
+
+@SUOMI = Muu em„ttimen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av vulva och vagina
+
+@END = 
+
+@LUVUT = LUKU N
+
+@LUVUT_S = KAPITEL N
+
+@SUOMI_L = Tuki- ja liikuntaelimien toimenpiteet
+
+@RUOTSI_L = tg„rder p† muskuloskeletala systemet
+
+@ENGL_L = Musculoskeletal system
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = NA0
+
+@SUOMI_A = Selk„- ja kaularangan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av rygg och hals
+
+@ENGL_A = Radiotherapy of spine
+
+@END = 
+
+@KOODI = NA001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito selk„- ja kaularangan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i rygg eller hals
+
+@END = 
+
+@KOODI = NA002 
+
+@VANHA = 
+
+@SUOMI = Radikaali selk„- ja kaularangan  primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i rygg eller hals
+
+@END = 
+
+@KOODI = NA003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito selk„- ja kaularangan  primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i rygg eller hals
+
+@END = 
+
+@KOODI = NA004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito selk„- ja kaularangan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i rygg eller hals
+
+@END = 
+
+@KOODI = NA029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito selk„- ja kaularangan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i rygg eller hals
+
+@END = 
+
+@KOODI = NA049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito selk„- tai kaularangassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i rygg eller hals
+
+@END = 
+
+@KOODI = NA090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito selk„- ja kaularangan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av  rygg och hals
+
+@END = 
+
+@KOODI = NA099 
+
+@VANHA = 
+
+@SUOMI = Muu selk„- ja kaularangan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av  rygg och hals
+
+@END = 
+
+@KOODI_A = NB0
+
+@SUOMI_A = Yl„raajan ja olkap„„n s„dehoito
+
+@RUOTSI_A = Str†lbehandling av ”vre extremit„t
+
+@ENGL_A = Radiotherapy of shoulder and upper arm
+
+@END = 
+
+@KOODI = NB001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito yl„raajan ja olkap„„n primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i ”vre extremit„t
+
+@END = 
+
+@KOODI = NB002 
+
+@VANHA = 
+
+@SUOMI = Radikaali yl„raajan ja olkap„„n primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i ”vre extremit„t
+
+@END = 
+
+@KOODI = NB003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito yl„raajan ja olkap„„n primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i ”vre extremit„t
+
+@END = 
+
+@KOODI = NB004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito yl„raajan ja olkap„„n primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i ”vre extremit„t
+
+@END = 
+
+@KOODI = NB029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito yl„raajan ja olkap„„n paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i ”vre extremit„t
+
+@END = 
+
+@KOODI = NB049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito yl„raajassa tai olkap„„ss„ ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i ”vre extremit„t
+
+@END = 
+
+@KOODI = NB090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito yl„raajan ja olkap„„n profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av  ”vre extremit„t
+
+@END = 
+
+@KOODI = NB099 
+
+@VANHA = 
+
+@SUOMI = Muu yl„raajan ja olkap„„n s„dehoito
+
+@RUOTSI = Annan str†lbehandling av  ”vre extremit„t
+
+@END = 
+
+@KOODI_A = NE0
+
+@SUOMI_A = Lantion, ristiluun ja h„nt„luun s„dehoito
+
+@RUOTSI_A = Str†lbehandling av b„ckenet, korsbenet och svansbenet
+
+@ENGL_A = Radiotherapy of pelvis, sacrum and coccygaeus
+
+@END = 
+
+@KOODI = NE001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lantion, ristiluun ja h„nt„luun primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE002 
+
+@VANHA = 
+
+@SUOMI = Radikaali lantion, ristiluun ja h„nt„luun primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lantion, ristiluun ja h„nt„luun primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lantion, ristiluun ja h„nt„luun primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  lantiossa, ristiluussa tai h„nt„luussa paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito  lantiossa, ristiluussa tai h„nt„luussa ilmenneen et„pes„kken hoitona
+
+@RUOTSI = Str†lbehandling av metastas i b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito lantion, ristiluun ja h„nt„luun profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI = NE099 
+
+@VANHA = 
+
+@SUOMI = Muu lantion, ristiluun ja h„nt„luun s„dehoito
+
+@RUOTSI = Annan str†lbehandling av b„ckenet, korsbenet eller svansbenet
+
+@END = 
+
+@KOODI_A = NF0
+
+@SUOMI_A = Alaraajan s„dehoito
+
+@RUOTSI_A = Str†lbehandling av h”ft och l†rben
+
+@ENGL_A = 
+
+@END = 
+
+@KOODI = NF001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito alaraajan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i nedre extremit„t
+
+@END = 
+
+@KOODI = NF002 
+
+@VANHA = 
+
+@SUOMI = Radikaali alaraajan primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i nedre extremit„t
+
+@END = 
+
+@KOODI = NF003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito alaraajan primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i nedre extremit„t
+
+@END = 
+
+@KOODI = NF004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito alaraajan primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i nedre extremit„t
+
+@END = 
+
+@KOODI = NF029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito alaraajan paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r  i nedre extremit„t
+
+@END = 
+
+@KOODI = NF049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito alaraajassa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i nedre extremit„t
+
+@END = 
+
+@KOODI = NF090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito alaraajan profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av nedre extremit„t
+
+@END = 
+
+@KOODI = NF099 
+
+@VANHA = 
+
+@SUOMI = Muu alaraajan s„dehoito
+
+@RUOTSI = Annan str†lbehandling av nedre extremit„t
+
+@END = 
+
+@KOODI_A = NV0
+
+@SUOMI_A = Kallon ja kasvojen luiden s„dehoito
+
+@RUOTSI_A = Str†lbehandling av skall och ansikte
+
+@ENGL_A = Radiotherapy of the bones in the skull and face
+
+@END = 
+
+@KOODI = NV001 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kallon ja kasvojen luiden primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ str†lbehandling av prim„rtum”r i skall eller ansikte
+
+@END = 
+
+@KOODI = NV002 
+
+@VANHA = 
+
+@SUOMI = Radikaali kallon ja kasvojen luiden primaarikasvaimen s„dehoito
+
+@RUOTSI = Radikal str†lbehandling av prim„rtum”r i skall eller ansikte
+
+@END = 
+
+@KOODI = NV003 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kallon ja kasvojen luiden primaarikasvaimen liit„nn„ishoitona
+
+@RUOTSI = Adjuvant str†lbehandling av prim„rtum”r i skall eller ansikte
+
+@END = 
+
+@KOODI = NV004 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kallon ja kasvojen luiden primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ str†lbehandling av prim„rtum”r i skall eller ansikte
+
+@END = 
+
+@KOODI = NV029 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kallon ja kasvojen luiden paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Str†lbehandling av lokalt recidivtum”r i skall eller ansikte
+
+@END = 
+
+@KOODI = NV049 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kallossa ja kasvojen luissa ilmenneen et„pes„kkeen hoitona
+
+@RUOTSI = Str†lbehandling av metastas i skall eller ansikte
+
+@END = 
+
+@KOODI = NV090 
+
+@VANHA = 
+
+@SUOMI = S„dehoito kallon ja kasvojen luiden profylaktisena hoitona
+
+@RUOTSI = Profylaktisk str†lbehandling av skall och ansikte
+
+@END = 
+
+@KOODI = NV099 
+
+@VANHA = 
+
+@SUOMI = Muu kallon ja kasvojen s„dehoito
+
+@RUOTSI = Annan str†lbehandling av skall och ansikte
+
+@END = 
+
+@LUVUT = LUKU P
+
+@LUVUT_S = KAPITEL P
+
+@SUOMI_L = Imusuonij„rjestelm„n toimenpiteet
+
+@RUOTSI_L = tg„rder p†  lymfsystemet
+
+@ENGL_L = Peripheral vessels and lymphatic system
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI_A = PJ0
+
+@SUOMI_A = Imusuonij„rjestelm„n s„dehoito
+
+@RUOTSI_A = Str†lbehandling av lymfsystemet
+
+@ENGL_A = Radiotherapy of lymfatic system
+
+@NOTE_RF = Hoidettu puoli tulee koodata ryhm„st„ ZXA
+
+@NOTE_RS = Det behandlade sidan anges med till„ggskod, se ZXA
+
+@END = 
+
+@KOODI = PJ000 
+
+@VANHA = 
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden profylaktinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ001 
+
+@VANHA = 
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden preoperatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ002 
+
+@VANHA = 
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden radikaali s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ003 
+
+@VANHA = 
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden s„dehoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ004 
+
+@VANHA = 
+
+@SUOMI = Kaulan, solisalueen ja kainaloiden palliatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ020 
+
+@VANHA = 
+
+@SUOMI = Keuhkojen v„likarsinan imusolmukkeiden profylaktinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ021 
+
+@VANHA = 
+
+@SUOMI = Keuhkojen v„likarsinan imusolmukkeiden preoperatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ022 
+
+@VANHA = 
+
+@SUOMI = Keuhkojen v„likarsinan imusolmukkeiden radikaali s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ023 
+
+@VANHA = 
+
+@SUOMI = Keuhkojen v„likarsinan imusolmukkeiden s„dehoito lit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ024 
+
+@VANHA = 
+
+@SUOMI = Keuhkojen v„likarsinan imusolmukkeiden palliatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ040 
+
+@VANHA = 
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden profylaktinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ041 
+
+@VANHA = 
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden preoperatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ042 
+
+@VANHA = 
+
+@SUOMI = Vartalon alaosan imusolmukkeiden s„dehoito alamanttelikent„st„ et„pes„kkeiden hoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ043 
+
+@VANHA = 
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden s„dehoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ044 
+
+@VANHA = 
+
+@SUOMI = Retroperitoneaalisten ja mesenteriaalisten imusolmukkeiden palliatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ060 
+
+@VANHA = 
+
+@SUOMI = Lantion alueen imusolmukkeiden profylaktinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ061 
+
+@VANHA = 
+
+@SUOMI = Lantion alueen imusolmukkeiden preoperatiivinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ062 
+
+@VANHA = 
+
+@SUOMI = Lantion alueen imusolmukkeiden radikaali s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ063 
+
+@VANHA = 
+
+@SUOMI = Lantion alueen imusolmukkeiden s„dehoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = PJ064 
+
+@VANHA = 
+
+@SUOMI = Lantion alueen imusolmukkeiden s„dehoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@LUVUT = LUKU Q
+
+@LUVUT_S = KAPITEL Q
+
+@SUOMI_L = Ihon s„dehoito
+
+@RUOTSI_L = Str†lbehandling av hud
+
+@ENGL_L = Skin
+
+@NOTE_LF = S„dehoidon tekniikka ilmaistaan tarvittaessa lis„koodilla ryhm„st„ ZX0
+
+@NOTE_LS = Tekniken av str†lbehandlingen kan anges med till„ggskod, se ZX0
+
+@END_L = 
+
+@KOODI = QA001 
+
+@VANHA = 
+
+@SUOMI = P„„n ja kaulan ihon paikallinen s„dehoito
+
+@RUOTSI = Lokal str†lbehandling av hud i huvud-halsregionen
+
+@END = 
+
+@KOODI = QB001 
+
+@VANHA = 
+
+@SUOMI = Vartalon ihon paikallinen s„dehoito
+
+@RUOTSI = Lokal str†lbehandling av hud p† b†len
+
+@END = 
+
+@KOODI = QC001 
+
+@VANHA = 
+
+@SUOMI = Yl„raajojen ihon paikallinen s„dehoito
+
+@RUOTSI = Lokal str†lbehandling av hud p† ”vre extremiteten
+
+@END = 
+
+@KOODI = QD001 
+
+@VANHA = 
+
+@SUOMI =  Alaraajojen ihon paikallinen s„dehoito
+
+@RUOTSI = Lokal str†lbehandling av hud p† nedre extemiteten
+
+@END = 
+
+@KOODI = QX099 
+
+@VANHA = 
+
+@SUOMI = Koko ihon s„dehoito
+
+@RUOTSI = Str†lbehandling av hela huden
+
+@END = 
+
+@LUVUT = LUKU T
+
+@LUVUT_S = KAPITEL T
+
+@SUOMI_L = Pientoimenpiteet
+
+@RUOTSI_L = Mindre ingrepp
+
+@ENGL_L = Minor surgical procedures
+
+@END_L = 
+
+@KOODI = TPH05 
+
+@VANHA = 5604
+
+@SUOMI = Laskimon esiin otto ja kanylointi
+
+@RUOTSI = Fril„ggning och kanylering av perifer ven
+
+@END = 
+
+@KOODI = TPH15 
+
+@VANHA = 5609
+
+@SUOMI = Keskuslaskimokatetrin asettaminen kaulalaskimon kautta
+
+@RUOTSI = Inl„ggande av CVK via vena jugularis (externa eller interna)
+
+@NOTE_F = Sis„lt„„ ihonalaisen tai muun kiinte„n infuusioportin asennuksen.
+
+@NOTE_S = Inkl inl„ggande av permanent kateterport
+
+@END = 
+
+@KOODI = TPH20 
+
+@VANHA = 5609
+
+@SUOMI = Keskuslaskimokatetrin asettaminen solislaskimon tai vena brachiocephalikuksen kautta
+
+@RUOTSI = Inl„ggande av CVK via vena subclavia eller brachiocephalica
+
+@NOTE_F = Sis„lt„„ ihonalaisen tai muun kiinte„n infuusioportin asennuksen.
+
+@END = 
+
+@KOODI = TPH30 
+
+@VANHA = 
+
+@SUOMI = Keskuslaskimokatetrin asettaminen „„reislaskimon kautta
+
+@RUOTSI = Inl„ggande av CVK via perifert ven
+
+@END = 
+
+@KOODI = TPH90 
+
+@VANHA = 
+
+@SUOMI = Kiinte„n suonikanyylin poisto
+
+@RUOTSI = Avl„gsnande av permanent k„rlkateter
+
+@END = 
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinj„rjestelmiin vaikuttavat toimenpiteet
+
+@RUOTSI_L = Systemiska †tg„rder
+
+@ENGL_L = Procedures affecting several organsystems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinj„rjestelmiin tai koko elimist””n.
+
+@NOTE_LS = tg„rder som siktar sig p† flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI = WA010 
+
+@VANHA = 
+
+@SUOMI = Kokokehon s„dehoito  muun sy”p„hoidon tukihoitona
+
+@RUOTSI = Str†lbehandling av hela kroppen som till„gg f”r annan cancerbehandling
+
+@END = 
+
+@KOODI = WA019 
+
+@VANHA = 
+
+@SUOMI = Muu kokokehon s„dehoito
+
+@RUOTSI = Str†lbehandling av hela kroppen f”r andra indikationer
+
+@END = 
+
+@KOODI = WA029 
+
+@VANHA = 
+
+@SUOMI = Puolikehon s„dehoito
+
+@RUOTSI = Str†lbehandling av halva kroppen
+
+@END = 
+
+@KOODI = WA039 
+
+@VANHA = 
+
+@SUOMI = S„dehoito vapailla isotoopeilla
+
+@RUOTSI = Str†behanlding med fria isotoper
+
+@END = 
+
+@KOODI = WA099 
+
+@VANHA = 
+
+@SUOMI = Muu laaja-alainen s„dehoito
+
+@RUOTSI = Annan utvigd str†lbehandling
+
+@END = 
+
+@KOODI = WB101 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen yksinkertainen leikkausta tai s„dehoitoa edelt„v„ sytostaattihoito
+
+@RUOTSI = Enkel neoadjuvant behandling av prim„rtum”r med en sytostatika
+
+@NOTE_F = Ns. neoadjuvanttihoito
+
+@END = 
+
+@KOODI = WB103 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen yksinkertainen sytostaattihoito liit„nn„ishoitona
+
+@RUOTSI = Enkel adjuvant behandling av prim„rtum”r med en sytostatika
+
+@NOTE_F = Ns. adjuvanttihoito
+
+@END = 
+
+@KOODI = WB111 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ monisytostaattihoito
+
+@RUOTSI = Neoadjuvant behandling av prim„rtum”r med flera sytostatika
+
+@END = 
+
+@KOODI = WB113 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen monisytostaattihoito liit„nn„ishoitona
+
+@RUOTSI = Adjuvant behandling av prim„rtum”r med flera sytostatika
+
+@END = 
+
+@KOODI = WB121 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ vaativa sytostaattihoito
+
+@RUOTSI = Kr„vande neoadjuvant behandling av prim„rtum”r
+
+@END = 
+
+@KOODI = WB123 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen vaativa sytostaattihoito liit„nn„ishoitona
+
+@RUOTSI = Kr„vande adjuvant behandling av prim„rtum”r
+
+@END = 
+
+@KOODI = WB131 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ eritt„in vaativa sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB133 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen eritt„in vaativa sytostaattihoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB201 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen yksinkertainen leikkausta tai s„dehoitoa edelt„v„ hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB203 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen yksinkertainen hormonihoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB211 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ monihormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB213 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen monihormonihoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB221 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ vaativa hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB223 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen vaativa hormonihoito liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB301 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen yksinkertainen leikkausta tai s„dehoitoa edelt„v„ hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB303 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen yksinkertainen hoito biovasteenmuuntajilla liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB311 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ monihoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB313 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen monihoito biovasteenmuuntajilla liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB321 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen leikkausta tai s„dehoitoa edelt„v„ vaativa hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WB323 
+
+@VANHA = 
+
+@SUOMI = Primaarikasvaimen vaativa hoito biovasteenmuuntajilla liit„nn„ishoitona
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC101 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai s„dehoitoa edelt„v„ sytostaattihoito
+
+@RUOTSI = 
+
+@NOTE_F = Ns. neoadjuvanttihoito
+
+@END = 
+
+@KOODI = WC105 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen sytostaattihoito
+
+@RUOTSI = 
+
+@NOTE_F = Radikaali tai konsolidaatiohoito
+
+@END = 
+
+@KOODI = WC111 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ monisytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC115 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen tavanomainen monisytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC121 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ vaativa sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC125 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC131 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ eritt„in vaativa sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC135 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen eritt„in vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC201 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai s„dehoitoa edelt„v„ hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC205 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC211 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ monihormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC215 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen tavanomainen monihormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC221 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ vaativa hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC225 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC301 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai s„dehoitoa edelt„v„ hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC305 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC311 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ monihoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC315 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen tavanomainen monihoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC321 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai s„dehoitoa edelt„v„ vaativa hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WC325 
+
+@VANHA = 
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD105 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen yksinkertainen tavanomainen sytostaattihoito
+
+@RUOTSI = 
+
+@NOTE_F = Tavanomainen hoito sis„lt„„ ns. adjuvanttihoidon, radikaalin hoidon ja konsolidaatiohoidon
+
+@END = 
+
+@KOODI = WD115 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen tavanomainen monisytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD125 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD135 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen eritt„in vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD205 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen yksinkertainen tavanomainen hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD215 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen tavanomainen monihormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD225 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen vaativa tavanomainen hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD305 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen yksinkertainen tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD315 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen tavanomainen monihoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WD325 
+
+@VANHA = 
+
+@SUOMI = Laajalle levinneen kasvaimen vaativa tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WE100 
+
+@VANHA = 
+
+@SUOMI = Profylaktinen sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WE198 
+
+@VANHA = 
+
+@SUOMI = Palliatiivinen sytostaattihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WE200 
+
+@VANHA = 
+
+@SUOMI = Profylaktinen hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WE298 
+
+@VANHA = 
+
+@SUOMI = Palliatiivinen hormonihoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WE300 
+
+@VANHA = 
+
+@SUOMI = Profylaktinen hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WE398 
+
+@VANHA = 
+
+@SUOMI = Palliatiivinen hoito biovasteenmuuntajilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WW300 
+
+@VANHA = 
+
+@SUOMI = Luuydinsiirto
+
+@RUOTSI = Benm„rgstransplantation
+
+@END = 
+
+@KOODI = WW310 
+
+@VANHA = 
+
+@SUOMI = Kantasolusiirto
+
+@RUOTSI = Transplantation av stammceller
+
+@END = 
+
+@KOODI = WX000 
+
+@VANHA = 
+
+@SUOMI = Ilman anestesiaa
+
+@RUOTSI = Utan anestesi
+
+@END = 
+
+@KOODI = WX400 
+
+@VANHA = 
+
+@SUOMI = Inhalaatioyleisanestesia
+
+@RUOTSI = Generell anestesi baserad p† inhalationsanestesi
+
+@NOTE_F = Voidaan yhdist„„ muun tyyppiseen anestesian induktiomenetelm„„n
+
+@NOTE_S = Kan kombineras med annat induktionss„tt
+
+@END = 
+
+@KOODI = WX404 
+
+@VANHA = 
+
+@SUOMI = Suonensis„inen yleisanestesia
+
+@RUOTSI = Generell anestesi baserad p† i.v. anestesi
+
+@NOTE_F = Voidaan yhdist„„ muun tyyppisen anestesian induktiomenetelm„„n
+
+@NOTE_S = Kan kombineras med annat induktionss„tt
+
+@END = 
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ f”r transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@END_L = 
+
+@KOODI_A = YNB
+
+@SUOMI_A = Luuytimen tai kantasolujen keruu siirtoa varten
+
+@RUOTSI_A = Uttagningar av benm„rg f”r transplantation
+
+@ENGL_A = Excision of bone marrow for transplantation
+
+@END = 
+
+@KOODI = YNB00 
+
+@VANHA = 
+
+@SUOMI = Luuytimen keruu siirtoa varten
+
+@RUOTSI = Uttagning av benm„rg f”r transplantation
+
+@END = 
+
+@KOODI = YNB10 
+
+@VANHA = 
+
+@SUOMI = Kantasolujen keruu siirtoa varten
+
+@RUOTSI = Insamling av stammceller f”r transplantation
+
+@END = 
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = Lis„koodit
+
+@RUOTSI_L = Till„ggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = Lis„koodeja voi k„ytt„„ ainoastaan muun toimenpidekoodin lis„n„ ilmaisemassa  tarkentavaa lis„tietoa
+
+@NOTE_LS = Till„ggskoder anv„nds „ndast tillsammans med egentliga koder
+
+@END_L = 
+
+@KOODI_A = ZQX
+
+@SUOMI_A = Hoidetun ihoalueen laajuus
+
+@RUOTSI_A = Storlek av behandlad hudareal
+
+@ENGL_A = Areal of skin therapy
+
+@END = 
+
+@KOODI = ZQX00 
+
+@VANHA = 
+
+@SUOMI = 0-4% ihon pinta-alasta
+
+@RUOTSI = 0-4% av hudarealen
+
+@END = 
+
+@KOODI = ZQX02 
+
+@VANHA = 
+
+@SUOMI = 5-9% ihon pinta-alasta
+
+@RUOTSI = 5-9% av hudarealen
+
+@END = 
+
+@KOODI = ZQX04 
+
+@VANHA = 
+
+@SUOMI = 10-19% ihon pinta-alasta
+
+@RUOTSI = 10-19% av hudarealen
+
+@END = 
+
+@KOODI = ZQX06 
+
+@VANHA = 
+
+@SUOMI = 20-49% ihon pinta-alasta
+
+@RUOTSI = 20-49% av hudarealen
+
+@END = 
+
+@KOODI = ZQX08 
+
+@VANHA = 
+
+@SUOMI = V„hint„„n 50% ihon pinta-alasta
+
+@RUOTSI = 50% eller mera av hudarealen
+
+@END = 
+
+@KOODI_A = ZQZ
+
+@SUOMI_A = Useiden ihoalueiden hoito
+
+@RUOTSI_A = tg„rd p† flera hudregioner
+
+@ENGL_A = Treatment of several skin areas
+
+@END = 
+
+@KOODI = ZQZ00 
+
+@VANHA = 
+
+@SUOMI = Usean ihoalueen hoito
+
+@RUOTSI = tg„rd p† flera hudregioner
+
+@NOTE_F = Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista t„ll„ koodilla.
+
+@NOTE_S = N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†d som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med denna till„gskod.
+
+@END = 
+
+@KOODI_A = ZX0
+
+@SUOMI_A = S„dehoidon tekniikka
+
+@RUOTSI_A = Teknik av str†lbehandling
+
+@ENGL_A = Technique of radion therapy
+
+@NOTE_RF = SSD = Skin to Source Distance
+
+@NOTE_RF =
+HDR = High Dose Rate
+
+@NOTE_RF =
+LDR = Low Dose Rate
+
+@END = 
+
+@KOODI = ZX000 
+
+@VANHA = 
+
+@SUOMI = Yksinkertainen hoidon asetus simulaattorilla tai hoitokoneella - isosentrinen hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX001 
+
+@VANHA = 
+
+@SUOMI = Yksinkertainen hoidon asetus simulaattorilla tai hoitokoneella - SSD hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX002 
+
+@VANHA = 
+
+@SUOMI = Yksikertainen kerroskuvaukseen perustuva annossuunnitelma - isosentrinen hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX003 
+
+@VANHA = 
+
+@SUOMI = Yksikertainen kerroskuvaukseen perustuva annossuunnitelma - SSD hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX010 
+
+@VANHA = 
+
+@SUOMI = Saumattavat hoitoannokset - isosentrinen hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX011 
+
+@VANHA = 
+
+@SUOMI = Saumattavat hoitoannokset - SSD hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX012 
+
+@VANHA = 
+
+@SUOMI = S„dehoito muotoilluilla laajakentill„ - isosentrinen hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX013 
+
+@VANHA = 
+
+@SUOMI = S„dehoito muotoilluilla laajakentill„ - SSD hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX014 
+
+@VANHA = 
+
+@SUOMI = Koko keskushermoston s„dehoito - isosentrinen hoito
+
+@RUOTSI = Str†lbehandling av hela centrala nervsystemet - isocentrisk behandling
+
+@NOTE_F = K„ytet„„n lis„koodina koodille AX099
+
+@NOTE_S = Anv„nds som till„ggskod till AX099
+
+@END = 
+
+@KOODI = ZX015 
+
+@VANHA = 
+
+@SUOMI = Koko keskushermoston s„dehoito - SSD hoito
+
+@RUOTSI = Str†lbehandling av hela centrala nervsystemet - SSD behandling
+
+@NOTE_F = K„ytet„„n lis„koodina koodille AX099
+
+@NOTE_S = Anv„nds som till„ggskod till AX099
+
+@END = 
+
+@KOODI = ZX020 
+
+@VANHA = 
+
+@SUOMI = Kudoksen sis„inen HDR s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX022 
+
+@VANHA = 
+
+@SUOMI = Kudoksen sis„inen LDR s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX040 
+
+@VANHA = 
+
+@SUOMI = Ontelonsis„inen HDR s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX042 
+
+@VANHA = 
+
+@SUOMI = Ontelonsis„inen LDR s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX050 
+
+@VANHA = 
+
+@SUOMI = Stereotaktinen s„dehoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX060 
+
+@VANHA = 
+
+@SUOMI = Gamma-veitsi -hoito
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ZX090 
+
+@VANHA = 
+
+@SUOMI = Muu s„dehoidon tekniikka
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = ZX1
+
+@SUOMI_A = L„„kehoidon reitti
+
+@RUOTSI_A = Rot av medication
+
+@ENGL_A = Route
+
+@END = 
+
+@KOODI = ZX100 
+
+@VANHA = 
+
+@SUOMI = Suun kautta
+
+@RUOTSI = Peroral
+
+@END = 
+
+@KOODI = ZX110 
+
+@VANHA = 
+
+@SUOMI = Ihonsis„inen
+
+@RUOTSI = Intracutan
+
+@END = 
+
+@KOODI = ZX112 
+
+@VANHA = 
+
+@SUOMI = Ihon alle
+
+@RUOTSI = Subcutan
+
+@END = 
+
+@KOODI = ZX120 
+
+@VANHA = 
+
+@SUOMI = Laskimonsis„inen
+
+@RUOTSI = Intraven”s
+
+@END = 
+
+@KOODI = ZX122 
+
+@VANHA = 
+
+@SUOMI = Valtimonsis„inen
+
+@RUOTSI = Arteriell
+
+@END = 
+
+@KOODI = ZX124 
+
+@VANHA = 
+
+@SUOMI = Elimen tai kohteen perfuusio
+
+@RUOTSI = Perfusion av ett organ
+
+@END = 
+
+@KOODI = ZX130 
+
+@VANHA = 
+
+@SUOMI = Selk„ydinkanavaan
+
+@RUOTSI = Intrathekal
+
+@END = 
+
+@KOODI = ZX132 
+
+@VANHA = 
+
+@SUOMI = Keuhkopussiin
+
+@RUOTSI = Intrapleural
+
+@END = 
+
+@KOODI = ZX134 
+
+@VANHA = 
+
+@SUOMI = Vatsaonteloon
+
+@RUOTSI = Intra-abdominal
+
+@END = 
+
+@KOODI = ZX136 
+
+@VANHA = 
+
+@SUOMI = Virtsarakkoon
+
+@RUOTSI = Intravesikal
+
+@END = 
+
+@KOODI = ZX190 
+
+@VANHA = 
+
+@SUOMI = Kasvaimen tai muutoksen sis„„n
+
+@RUOTSI = Intralesional
+
+@END = 
+
+@KOODI = ZX199 
+
+@VANHA = 
+
+@SUOMI = Muu reitti
+
+@RUOTSI = Annan rot
+
+@END = 
+
+@KOODI_A = ZXA
+
+@SUOMI_A = Kehon puoli: oikea-vasen
+
+@RUOTSI_A = Kroppshalva (h”ger/v„nster/bilateral)
+
+@ENGL_A = Side of body
+
+@END = 
+
+@KOODI = ZXA00 
+
+@VANHA = 
+
+@SUOMI = Oikea puoli
+
+@RUOTSI = H”ger sida
+
+@END = 
+
+@KOODI = ZXA05 
+
+@VANHA = 
+
+@SUOMI = Vasen puoli
+
+@RUOTSI = V„nster sida
+
+@END = 
+
+@KOODI = ZXA10 
+
+@VANHA = 
+
+@SUOMI = Molemminpuolinen
+
+@RUOTSI = Bilateral
+
+@END = 
+
+@KOODI_A = ZXB
+
+@SUOMI_A = Sijainti: lateraliteetti
+
+@RUOTSI_A = Lateral/medial lokalisation
+
+@ENGL_A = Lateral or medial
+
+@END = 
+
+@KOODI = ZXB00 
+
+@VANHA = 
+
+@SUOMI = Sivun puoleinen, lateraalinen
+
+@RUOTSI = Lateralt
+
+@END = 
+
+@KOODI = ZXB10 
+
+@VANHA = 
+
+@SUOMI = Keskiviivan puoleinen, mediaalinen
+
+@RUOTSI = Medialt
+
+@END = 
+
+@KOODI = ZXB20 
+
+@VANHA = 
+
+@SUOMI = Sek„ sivun ett„ keskiviivan puoleinen
+
+@RUOTSI = Lateralt och medialt
+
+@END = 
+
+@KOODI_A = ZXD
+
+@SUOMI_A = Toimenpiteen kiireellisyys ja vaikeus
+
+@RUOTSI_A = Ingreppets angel„genhetsgrad och sv†righetsgrad
+
+@ENGL_A = Emergency or scheduled procedure
+
+@NOTE_RF = Huom. Mik„li ei muuta ilmoiteta oletetaan yleens„ kyseess„ olevan suunniteltu vaikeusasteeltaan tavallinen toimenpide. Koodit ZXD10 ja ZXD35 ovat siksi tarpeen vain, mik„li t„m„ p„„s„„nt” ei pid„ paikkaansa.
+
+@NOTE_RS = Obs. Om inte annat anges, antar man vanligtvis att det „r fr†ga om en elektiv operation med vanlig s†righetsgrad. Koderna ZXD10 ja ZXD35 beh”vs  d„rf”r „ndast d† detta huvudprincip inte g„ller.
+
+@END = 
+
+@KOODI = ZXD00 
+
+@VANHA = 
+
+@SUOMI = H„t„toimenpide
+
+@RUOTSI = N”doperation
+
+@NOTE_F = V„litt”m„n hengenvaaran vuoksi suoritettu toimenpide
+
+@NOTE_S = F”r avv„rjande av omedelbar livsfara
+
+@END = 
+
+@KOODI = ZXD05 
+
+@VANHA = 
+
+@SUOMI = Kiireellinen toimenpide
+
+@RUOTSI = Akut operation
+
+@NOTE_F = Kiireellinen toimenpide, normaalit valmistelut ehdit„„n suorittaa
+
+@NOTE_S = Tid f”r sedvanliga f”rberedelser
+
+@END = 
+
+@KOODI = ZXD10 
+
+@VANHA = 
+
+@SUOMI = Suunniteltu toimenpide
+
+@RUOTSI = Elektiv operation
+
+@NOTE_F = Suunniteltu toimenpide tavallisimmin virka-aikana
+
+@NOTE_S = F”rlagd till normal tj„nstetid
+
+@END = 
+
+@KOODI = ZXD30 
+
+@VANHA = 
+
+@SUOMI = Poikkeuksellisen vaikea toimenpide
+
+@RUOTSI = Ovanligt sv†r †tg„rd
+
+@NOTE_F = Toimenpide ty”llist„„ selv„sti enemm„n kuin kyseinen toimenpide tavallisesti.
+
+@NOTE_S = tg„rden gr„ver tydligen mera resurser „n vanligt
+
+@END = 
+
+@KOODI = ZXD35 
+
+@VANHA = 
+
+@SUOMI = Vaikeusasteeltaan tavallinen toimenpide
+
+@RUOTSI = Vanlig †tg„rd
+
+@NOTE_S = Ej speciellt sv†r
+
+@END = 
+
+@KOODI_A = ZXE
+
+@SUOMI_A = Toimenpiteen kesto
+
+@RUOTSI_A = Tids†tg†ng f”r operationen
+
+@ENGL_A = Duration of operation
+
+@END = 
+
+@KOODI = ZXE00 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto enint„„n 1 tunti
+
+@RUOTSI = Tids†tg†ng maximalt 1 timme
+
+@END = 
+
+@KOODI = ZXE10 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 1-3 tuntia
+
+@RUOTSI = Tids†tg†ng 1 - 3 timmar
+
+@END = 
+
+@KOODI = ZXE20 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 3-5 tuntia
+
+@RUOTSI = Tids†tg†ng 3 - 5 timmar
+
+@END = 
+
+@KOODI = ZXE30 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 5-7 tuntia
+
+@RUOTSI = Tids†tg†ng 5 - 7 timmar
+
+@END = 
+
+@KOODI = ZXE40 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 7-9 tuntia
+
+@RUOTSI = Tids†tg†ng 7 - 9 timmar
+
+@END = 
+
+@KOODI = ZXE50 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 9-12 tuntia
+
+@RUOTSI = Tids†tg†ng 9 -12  timmar
+
+@END = 
+
+@KOODI = ZXE60 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 12-15 tuntia
+
+@RUOTSI = Tids†tg†ng 12 - 15 timmar
+
+@END = 
+
+@KOODI = ZXE70 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto 15-18 tuntia
+
+@RUOTSI = Tids†tg†ng 15 -18  timmar
+
+@END = 
+
+@KOODI = ZXE80 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen kesto yli 18 tuntia
+
+@RUOTSI = Tids†tg†ng ”ver 18 timmar
+
+@END = 
+
+@KOODI_A = ZXF
+
+@SUOMI_A = Syyt toimenpiteen keskeytt„miseen
+
+@RUOTSI_A = Orsaker till att operation avbrutits
+
+@ENGL_A = Causes of interrupted operation
+
+@END = 
+
+@KOODI = ZXF00 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen keskeytt„minen potilaan tilan heikkenemisen vuoksi
+
+@RUOTSI = F”rs„mring av patientens peroperativa tillst†nd
+
+@END = 
+
+@KOODI = ZXF10 
+
+@VANHA = 
+
+@SUOMI = Toimenpiteen keskeytt„minen v„lineiden teknisen pett„misen vuoksi
+
+@RUOTSI = Tekniska problem med utrustning
+
+@END = 
+
+@KOODI = ZXF99 
+
+@VANHA = 
+
+@SUOMI = Muu syy keskeytt„„ toimenpide
+
+@RUOTSI = Annan orsak f”r att avbryta operation
+
+@END = 

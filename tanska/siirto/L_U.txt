@@ -1,0 +1,575 @@
+
+###
+#KOODI_L    U
+#MUUT_PVM   1999/08/17
+#KAYTPVM    1996/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#SUOMI      Tähystystoimenpiteen kehon luonnollisten aukkojen kautta
+#RUOTSI     Transluminal diagnostisk endoskopi via naturliga kroppsöppningar (eller redan anlagda stomier)
+#ENGL       Transluminal endoscopy
+#OHJE_S  
+Sisältää diagnostiset toimenpiteet
+Ei sisällä ihon läpi tehtyjä tähystyksiä
+Ei sisällä tähystyksessä tehtyjä leikkauksia
+Mahdollinen koepalan otto sisältyy kaikkiin toimenpiteisiin.
+Kun tyypillisesti koko kudoskappale käytetään koepalana, tulee käyttää tämän luvun koodeja vaikka muutos olisi poistettu kokonaan
+Muut toimenpiteet koodataan asianomaisten elinten kohdalla tähystystie mainiten.
+#OHJE_R 
+Incl diagnostisk åtgärden
+Exkl perkutan endoskopi genom punktion eller incision
+Exkl terapeutiska och invasiva transluminala endoskopiska operationer
+Eventuell biopsi omfattas dock av samtliga ingreppskoder i detta kapitel
+När hela vävnadsbiten används som prov, bör man använda kod från detta kapitel
+Andra nämnda åtgärder kodas enligt respektive målorgan
+###
+#KOODI_R    UD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Korvan, nenän, kurkun ja kurkunpään tähystystoimenpiteet
+#RUOTSI     Transluminala endoskopier av öron, näsa, svalg och struphuvud
+#ENGL       Transluminal endoscopy of ear, nose and larynx
+###
+#KOODI      UDC00 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korvan mikroskopia
+#RUOTSI     Otomikroskopi
+#LYHENNE    Otomikroskopia
+###
+#KOODI      UDC10 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tympanoskopia
+#RUOTSI     Tympanoskopi
+#LYHENNE    Tympanoskopia
+###
+#KOODI      UDH02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1290+     
+#SUOMI      Nenän ja nenänielun tähystys
+#RUOTSI     Rinofaryngoskopi
+#LYHENNE    Nenän ja nenänielun tähystys
+###
+#KOODI      UDM02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1210      
+#SUOMI      Nenän sivuonteloiden tähystys
+#RUOTSI     Endoskopi av näsans bihålor
+#LYHENNE    Nenän sivuonteloiden tähystys
+###
+#KOODI      UDQ02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1430      
+#SUOMI      Suora kurkunpään tähystys
+#RUOTSI     Direkt laryngoskopi
+#LYHENNE    Suora kurkunpään tähystys
+###
+#KOODI      UDQ12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1340      
+#SUOMI      Nenän ja kurkunpään tähystys
+#RUOTSI     Rinoskopi med laryngoskopi
+#LYHENNE    Nenän ja kurkunpään tähystys
+###
+#KOODI      UDQ22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1420      
+#SUOMI      Kurkunpään tutkimus mikroskoopilla
+#RUOTSI     Laryngomikroskopi
+#LYHENNE    Kurkunpään tutkimus mikroskoopilla
+###
+#KOODI_R    UE
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Suun ja nielun tähystystoimenpiteet
+#RUOTSI     Transluminala endoskopier av mund och svalg
+#ENGL       Transluminal endoscopy of mouth and pharynx
+###
+#KOODI      UEN02 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun ja nielun tähystys
+#RUOTSI     Oropharyngoskopi
+#LYHENNE    Suun ja nielun tähystys
+###
+#KOODI      UEN12 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alanielun tähystys
+#RUOTSI     Hypofaryngoskopi
+#LYHENNE    Alanielun tähystys
+###
+#KOODI_R    UG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Henkitorven ja keuhkoputkien tähystystoimenpiteet
+#RUOTSI     Transluminala endoskopier av pleurahåla, trakea och bronker
+#ENGL       Transluminal endoscopy of trachea, bronchus and pleura
+#OHJE_S  
+Sisältää siirrettyyn keuhkoon kohdistuvat toimenpiteet
+Välikarsinan tähystys kohdassa DEA00
+#OHJE_R 
+Inkl åtgärder på transplanterad lunga
+Mediastinoskopi, se GEA
+###
+#KOODI      UGA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1500      
+#SUOMI      Tähystys pysyvän keuhkopussiavanteen kautta
+#RUOTSI     Endoskopi genom pleurokutan fistel
+#LYHENNE    Tähystys keuhkopussiavanteen kautta
+###
+#KOODI      UGB02 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Henkitorven tähystys
+#RUOTSI     Trakeoskopi
+#LYHENNE    Henkitorven tähystys
+###
+#KOODI      UGC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1240      
+#SUOMI      Keuhkoputkien tähystys jäykällä tähystimellä
+#RUOTSI     Bronkoskopi med rigida instrument
+#LYHENNE    Keuhkoputkitähystys,jäykkä tähystin
+###
+#KOODI      UGC08 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto keuhkosta jäykällä tähystimellä
+#RUOTSI     Rigid bronkoskopi med biopsi från lunga
+#LYHENNE    Koepalan otto keuhkosta jäykällä tähysti
+###
+#KOODI      UGC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1240      
+#SUOMI      Keuhkoputkien tähystys taipuisalla tähystimellä
+#RUOTSI     Bronkoskopi med flexibla instrument
+#LYHENNE    Keuhkoputkitähystys,taipuisa tähystin
+###
+#KOODI      UGC18 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto keuhkoista taipuisalla tähystimellä
+#RUOTSI     Flexibel bronkoskopi med biopsi från lunga
+#LYHENNE    Koepalan otto keuhkoista taipuisalla täh
+###
+#KOODI_R    UJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Ruoansulatuskanavan ja sen elinten tähystystoimenpiteet
+#RUOTSI     Transluminala endoskopier av gastrointestinalkanalen
+#ENGL       Transluminal endoscopy of gastrointestinal tract
+#OHJE_S  
+Endoskopialla tarkoitetaan luvussa J ja tässä ryhmässä ontelonsisäistä tähystystä, mikäli tekstistä ei muuta ilmene.
+Mahasuolikanavan tähystyksissä tutkitaan aina useita elimiä. Luokittelu tapahtuu tärkeimmän kohde-elimen mukaan tai käyttäen yhdistelmäkoodia UJD10. Jos useiden kohde-elimien tutkiminen muuttaa toimenpiteen luonnetta tulee ne koodata. Tähystys  ilman
+tarkempaa määrittelyä koodataan gastroskopiaksi UJD02 tai gastroduodenoskopiaksi UJD10
+Tähystyksen yhteydessä tehdyt pientoimenpiteet voidaan haluttaessa ilmaista lisäkoodilla ryhmäst TJX tai elinkohtaisilla koodeilla ryhmistä JCA, JDA, JFA tai JGA. Varsinaiset endoskooppiset leikkaukset luokitellaan luvun J koodeilla lokalisaation mukaan.
+#OHJE_R 
+Termerna "endoskopi" och "endoskopisk" i kapitel  J och i detta avsnitt avser  transluminal gastrointestinal endoskopi om ej annat anges.
+Transluminal gastrointestinal endoskopi medger undersökning av flera hålorgan. Klassifikation sker med avseende på det viktigaste målorganet eller genom att använda kombinationskod UJD10. När undersökning av flera organ förändrar åtgärdets karaktär skall
+man ange flera målorgan. Endoskopi utan spesfikation anges som gastroskopi  UJD02 eller som gastroduodenoskopi UJD10
+Mindre åtgärder i samband med gastrointestinal endoskopi kan anges med tilläggskod från gruppen TJX eller med organvisa koder från grupperna JCA, JDA, JFA eller JGA. Egentliga transluminala endoskopiska operationer klassificeras däremot i kapitel J efter
+den aktuella lokalisationen.
+###
+#KOODI      UJC01 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alanielun tähystys
+#RUOTSI     Endoskopi av hypofarynx
+#LYHENNE    Alanielun tähystys
+###
+#KOODI      UJC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1320      
+#SUOMI      Ruokatorven tähystys jäykällä tähystimellä
+#RUOTSI     Esofagoskopi med rigida instrument
+#LYHENNE    Ruokatorven tähystys,jäykkä tähystin
+###
+#KOODI      UJC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1320      
+#SUOMI      Ruokatorven tähystys taipuisalla tähystimellä
+#RUOTSI     Esofagoskopi med flexibla instrument
+#LYHENNE    Ruokatorven tähystys,taipuisa tähystin
+###
+#KOODI      UJD02 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1310      
+#SUOMI      Mahantähystys
+#RUOTSI     Gastroskopi
+#LYHENNE    Gastroskopia
+#OHJE_S  
+Polyypin poisto kohdassa JDA05
+#OHJE_R 
+Polypektomi, se JDA05
+###
+#KOODI      UJD10 
+#MUUT_PVM   1996/02/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1310      
+#SUOMI      Ruokatorven, mahalaukun ja duodenumin tähystys
+#RUOTSI     Esofago- + gastro- + duodenoskopi
+#LYHENNE    Esofago-, gastro- ja duodenoskopia
+###
+#KOODI      UJF02 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1541      
+#SUOMI      Ohutsuolen tähystys nielun kautta
+#RUOTSI     Peroral jejunoskopi/ileoskopi
+#LYHENNE    Ohutsuolen tähystys nielun kautta
+#OHJE_S  
+Ohutsuolen tähystys gatroskopian yhteydessä (UJD10) ja kolonoskopian yhteydessä (UJF32)
+#OHJE_R 
+Endoskopi av angränsande tunntarm vid gastroskopi UJD10 eller vid kolonoskopi UJF32
+###
+#KOODI      UJF12 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Ohutsuolen tähystys suoliavanteen kautta
+#RUOTSI     Jejunoskopi/ileoskopi via enterostomi
+#LYHENNE    Ohutsuolen tähystys suoliavanteen kautta
+#OHJE_S  
+Sisältää avannesäilön tutkimuksen ja ohutsuolen tähystyksen ohutsuolen ja peräaukon välisen avanteen kautta
+Suolesta muodostetun urostomian ja virtsasäiliön tähystys UKB12
+#OHJE_R 
+Inkl undersökning av reservoar i matsmältningskanalen och ileoskopi genom ileoanalstomi
+Endoskopi av urostomi inkl urinreservoar konstruerad av tarm UKB12
+###
+#KOODI      UJF14 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutsuolen ja peräaukon liitoksen tähystys
+#RUOTSI     Skopi av ileoanal anastamos
+#LYHENNE    Ileoanaalianastamoosin tähystys
+###
+#KOODI      UJF22 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1360      
+#SUOMI      Ohutsuolen tähystys suoliavauksesta leikkauksen aikana
+#RUOTSI     Intraoperativ jejunoskopi/ileoskopi via enterotomi
+#LYHENNE    Ohutsuolen tähystys enterotomiatietä
+###
+#KOODI      UJF30 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutsuolen tähystys paksusuolen kautta
+#RUOTSI     Ileoskopi genom colon
+#LYHENNE    Ileoskopia kolonin kautta
+#OHJE_S  
+Sisältää samalla tehdyn paksusuolen tähystyksen
+#OHJE_R 
+Inkl. kolonoskopi som görs samtidigt
+###
+#KOODI      UJF32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1370      
+#SUOMI      Koko paksusuolen tähystys, kolonoskopia
+#RUOTSI     Kolonoskopi, hela kolon
+#LYHENNE    Paksusuolen tähystys, kolonoskopia
+#OHJE_S  
+Sisältää samalla tehdyn sigma- ja peräsuolen tähystyksen
+#OHJE_R 
+Inkl endoskopi av rektum, kolon och angränsande tunntarm i samma seans
+###
+#KOODI      UJF34 
+#MUUT_PVM   1998/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paksusuolen vasemman puolen tähystys
+#RUOTSI     Skopi av kolons vänstra del
+#LYHENNE    Paksusuolen vasemman puolen tähystys
+#OHJE_S  
+Sisältää samalla tehdyn sigma- ja peräsuolen tähystyksen
+Tätä koodia ei voi käyttää yhdessä koodien UJF30 (ohutsuolen tähystys peräsuolen kautta) ja UJF32 (koko paksusuolen tähystys) kanssa
+#OHJE_R 
+Inkl endoskopi av rektum, kolon och angränsande tunntarm i samma seans
+Denna kod kan ej användas tillsammans med koderna UJF30 (Ileoskopi genom colon) och UJF32 (Kolonoskopi, hela kolon)
+###
+#KOODI      UJF45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1490      
+#SUOMI      Sigmasuolen tähystys, sigmoideoskopia
+#RUOTSI     Sigmoideoskopi med flexibla instrument
+#LYHENNE    Sigmasuolen tähystys, sigmoideoskopia
+#OHJE_S  
+Sisältää peräsuolen tähystyksen samassa yhteydessä, taipuisa tähystin
+#OHJE_R 
+Inkl rektoskopi i samma seans
+###
+#KOODI      UJF92 
+#MUUT_PVM   2004/09/21
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kapseliendoskopia
+#RUOTSI     Kapsulärendoskopi
+#LYHENNE    Kapseliendoskopia
+###
+#KOODI      UJG02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1470      
+#SUOMI      Peräsuolen tähystys
+#RUOTSI     Rektoskopi med rigida instrument
+#LYHENNE    Peräsuolen tähystys
+#OHJE_S  
+Ulottuu sigmasuolen alaosaan, jäykkä tähystin
+Vierasesineen poisto tähystyksessä JGA02
+#OHJE_R 
+Inkl endoskopi i samma seans av de delar av tjocktarmen, som kan nås med rigida instrument
+Endoskopiskt avlägsnande av främmande kropp, se JGA02
+###
+#KOODI      UJH02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1470+     
+#SUOMI      Peräaukon tähystys
+#RUOTSI     Anoskopi
+#LYHENNE    Peräaukon tähystys
+###
+#KOODI      UJK02 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1280      
+#SUOMI      Sappi- ja haimatiehyen kanylointi ja varjoainekuvaus (ERCP) pohjukaissuolen kautta
+#RUOTSI     ERCP (Endoskopisk Retrograd Cholangio-Pancreatikografi)
+#LYHENNE    ERCP ja katetrointi
+#OHJE_S  
+ERCP=endoscopic retrograde cholangiopancreaticography
+Sisältää sappiteiden (ERC) ja haimatiehyen (ERP) erillisen katetroinnin tai  kuvauksen
+#OHJE_R 
+Inkl även selektiv katerisering/röntgenundersökning av gallgångar (ERC) eller pancreasgångar  (ERP)
+###
+#KOODI      UJK12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1284      
+#SUOMI      Sappitietähystys nielun kautta
+#RUOTSI     Peroral cholangioskopi
+#LYHENNE    Sappitietähystys nielun kautta
+#OHJE_S  
+Sappitietähystys leikkauksessa JKB 20
+#OHJE_R 
+Cholangioskopi vid laparotomi (JKB20), vid laparoskopi (JKB21)
+###
+#KOODI      UJK22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6659+     
+#SUOMI      Sappitietähystys sappitieavanteen kautta
+#RUOTSI     Cholangioskopi via gallfistel
+#LYHENNE    Sappitietähystys sappitieavanteen kautta
+###
+#KOODI      UJK32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6659+     
+#SUOMI      Sappirakon tähystys sappiavanteen kautta
+#RUOTSI     Cholecystoskopi via gallfistel
+#LYHENNE    Sappirakon tähystys sappiavanteen kautta
+###
+#KOODI      UJK42 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1270      
+#SUOMI      Haiman tähystys mahasuolikanavan kautta
+#RUOTSI     Peroral pankreatikoskopi
+#LYHENNE    Haiman tähystys mahasuolikanavan kautta
+###
+#KOODI_R    UK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Virtsateiden tähystystoimenpiteet
+#RUOTSI     Transluminala endoskopier av urinvägarna
+#ENGL       Transluminal endoscopy of urinary tract
+###
+#KOODI      UKA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Virtsanjohtimen ja munuaisaltaan tähystys virtsateiden kautta
+#RUOTSI     Transluminal pyeloskopi
+#LYHENNE    Ureteropyeloskopia alatietä
+###
+#KOODI      UKB02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520+     
+#SUOMI      Virtsanjohtimen tähystys
+#RUOTSI     Transluminal ureteroskopi
+#LYHENNE    Virtsanjohtimen tähystys
+###
+#KOODI      UKB12 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1544      
+#SUOMI      Virtsatieavanteen tähystys
+#RUOTSI     Endoskopi av urostomi eller conduit
+#LYHENNE    Virtsatieavanne/tekovirtsarakkotähystys
+###
+#KOODI      UKC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1530      
+#SUOMI      Virtsarakon tähystys
+#RUOTSI     Cystoskopi (inkl uretroskopi)
+#LYHENNE    Virtsarakon tähystys
+###
+#KOODI      UKC12 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tekovirtsarakon tähystys
+#RUOTSI     Endoskopi av urinreservoar
+#LYHENNE    Tekovirtsarakon tähystys
+###
+#KOODI      UKD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1530+     
+#SUOMI      Virtsaputken tähystys
+#RUOTSI     Uretroskopi (utan cystoskopi)
+#LYHENNE    Virtsaputken tähystys
+###
+#KOODI_R    UL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Naisten sukupuolielinten tähystystoimenpiteet
+#RUOTSI     Transluminala endoskopier av kvinnliga genitalia
+#ENGL       Transluminal endoscopy of female genital tract
+###
+#KOODI      ULA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Emättimen tähystys
+#RUOTSI     Kolposkopi
+#LYHENNE    Emättimen tähystys
+#OHJE_S  
+Sisältää ulkosynnyttymien, emättimen ja kohdun napukan tähystyksen
+#OHJE_R 
+Innefattar undersökning av yttre könsorgan, vagina och portio vaginalis
+###
+#KOODI      ULB02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Munanjohtimen tähystys kohdun kautta
+#RUOTSI     Falloposkopi
+#LYHENNE    Munanjohtimen tähystys kohdun kautta
+#OHJE_S  
+Salpingoskopia vatsaontelon kautta LBA 07
+Ei sisällä tähystyksessä tehtyjä leikkauksia (LBA98)
+#OHJE_R 
+Endoskopi av äggledare
+Salpingoskopi (genom bukhålan), se LBA
+###
+#KOODI      ULC02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Kohdun tähystys
+#RUOTSI     Hysteroskopi
+#LYHENNE    Kohdun tähystys
+###
+#KOODI      ULC05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1330      
+#SUOMI      Koepalan otto suonikalvon nukkalisäkkeestä kohduntähystyksessä
+#RUOTSI     Biopsi av chorionvillus vid hysteroskopi
+#LYHENNE    Biopsia chorionvilluksesta fetoskopiassa
+###
+#KOODI      ULC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350+     
+#SUOMI      Kohdun tähystys mikroskoopin avulla
+#RUOTSI     Hysteromikroskopi
+#LYHENNE    Kohdun tähystys mikroskoopin avulla

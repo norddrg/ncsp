@@ -1,0 +1,5746 @@
+
+###
+#KOODI_L    G
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung
+#RUOTSI     ---
+#ENGL       Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung
+###
+#KOODI_R    GA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Chest wall, pleura and diaphragm
+#RUOTSI     ---
+#ENGL       Chest wall, pleura and diaphragm
+###
+#KOODI_A    GAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Drainage and endoscopy of pleura
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Thoracocentesis, see: TGA
+#OHJE_R 
+---
+###
+#KOODI      GAA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intercostal innlegging av pleuradren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Interkostal innlegging av pleuradren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Interkostal innlegging av pleuradren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av pleuradren med costareseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA31  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA31  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA31  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA31  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA96  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen pleuradrenasje
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk pleuradrenasje
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk pleuradrenasje
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk pleuradrenasje
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk pleuradrenasje
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk pleuradrenasje
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Thoracotomy
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nødthoracotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nødtorakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nødtorakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Antero- eller posterolateral thoracotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Antero- eller posterolateral torakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Antero- eller posterolateral torakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transaxillær thoracotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB13  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transaksillær torakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB13  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transaksillær torakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Median sternotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on pleura
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For foreign body and lesion of pleura
+#OHJE_R 
+---
+###
+#KOODI      GAC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurabiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk pleurabiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleurabiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleurabiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleurabiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk pleurabiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk fjerning av fremmedlegeme fra pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon eller destruksjon av lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC20  
+#MUUT_PVM   2005/10/04
+#KAYTPVM    2006/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon eller destruksjon av lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC20  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon eller destruksjon av lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk ekstirpasjon el destruksjon lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC21  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon el destruksjon lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC21  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon el destruksjon lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC21  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon eller destruksjon av lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC21  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon eller destruksjon av lesjon i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Anleggelse av pneumothorax
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Anleggelse av pneumotoraks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anleggelse av pneumotoraks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC33  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mekanisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC34  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk mekanisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC34  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk mekanisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC34  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk mekanisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC34  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk mekanisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC34  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk mekanisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC36  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kjemisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC37  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk kjemisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC37  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk kjemisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC37  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk kjemisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC37  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk kjemisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC37  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk kjemisk pleurodese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurodese med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk pleurodese med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC41  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleurodese med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC41  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleurodese med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC41  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleurodese med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC41  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk pleurodese med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC43  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Total decortikasjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC43  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Total dekortikasjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC43  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total dekortikasjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC44  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk total decortikasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC44  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk total decortikasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC44  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk total decortikasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC44  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk total dekortikasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC44  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk total dekortikasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC46  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Partiell decortikasjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC46  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Partiell dekortikasjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC46  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell dekortikasjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC47  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk partiell decortikasjon av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC47  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk partiell decortikasjon av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC47  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk partiell decortikasjon av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC47  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk partiell dekortikasjon av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC47  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk partiell dekortikasjon av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk operasjon på pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på pleura gjennom pleurostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Thoracoplasty and related procedures
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For collapse of lung
+#OHJE_R 
+---
+###
+#KOODI      GAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoplastikk med plombe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD03  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoplastikk med plombe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD03  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoplastikk med plombe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av plombe fra brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoplastikk eller tilhørende inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoplastikk eller tilhørende inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoplastikk eller tilhørende inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, biopsy, resection and repair of chest wall
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For injury, foreign body or lesionAdditional code for specification of grafts and flaps, see: ZZFor malformation, see: GAFFor breast cancer, see: HAC, HAF
+#OHJE_R 
+---
+###
+#KOODI      GAE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon eller biopsi av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av tidligere incisjon i brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av pleuravindu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE16  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av brystvegg og rekonstruksjon med lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av brystvegg og rekonstr med protesemateriale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE23  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av brystvegg og rekonstruksjon med protesemateriale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE23  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av brystvegg og rekonstruksjon med protesemateriale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av brystvegg ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av brystvegg og diafragma ved kombinert skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon på costa og bløtdeler for thoraxapertursyndrom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon på ribbein og bløtdeler for toraksapertursyndrom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon på ribbein og bløtdeler for toraksapertursyndrom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved brystveggsdefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE53  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen incisjon, biopsi, reseksjon el rekonstr av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen incisjon, biopsi, reseksjon eller rekonstruksjon av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen incisjon, biopsi, reseksjon eller rekonstruksjon av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Plastic repair of malformations of chest wall
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      GAF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av pectus carinatum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av pectus excavatum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerne protesemater fra brystvegg etter korreksjon misdann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av protesemateriale fra brystvegg etter korreksjon av misdannelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF10  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av protesemateriale fra brystvegg etter korreksjon av misdannelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for misdannelse av brystvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transthoracic and thoracoscopic operations on diaphragm
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For injury or foreign bodyOperations for gastro-oesophageal reflux (transthoracic or abdominal), and other abdominal operations on diaphragm, see: JBRepair of combined injury to chest wall and diaphragm, see: GAE 30
+#OHJE_R 
+---
+###
+#KOODI      GAG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transthorakal biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal ekstirp el destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal ekstirpasjon eller destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG10  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal ekstirpasjon eller destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk ekstirp el destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirp el destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirp el destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon eller destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG11  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon eller destruksjon av lesjon i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal fjerning av fremmedlegeme fra diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk fjerning av fremmedlegeme fra diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG21  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG21  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG21  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG21  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal rekonstruksjon av diafragma ved ruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG31  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk rekonstruksjon av diafragma ved ruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG33  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal reseksjon av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG36  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal reseksjon & rekonstr av diafragma m/transpl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG36  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal reseksjon og rekonstruksjon av diafragma med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG36  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal reseksjon og rekonstruksjon av diafragma med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transthorakal lukking av thoracoabdominal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal lukking av torakoabdominal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal lukking av torakoabdominal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transthorakal rekonstruksjon av diafragmadefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtorakal rekonstruksjon av diafragmadefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal rekonstruksjon av diafragmadefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transthorakal operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transtorakal operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transtorakal operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontroll/innstilling av diafragmastimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAGT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll/innstilling av diafragmastimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Skylling av pleuraempyem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skylling av pleuraempyem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pleurolyse med fibrinolytika
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAGX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurolyse med fibrinolytika
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on chest wall, pleura and diaphragm
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Operations for gastro-oesophageal reflux (transthoracic or abdominal), and other abdominal operations on diaphragm, see: JB
+#OHJE_R 
+---
+###
+#KOODI      GAW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på brystvegg, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk op på brystvegg, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAW97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk op på brystvegg, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAW97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk op på brystvegg, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på brystvegg, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAW97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på brystvegg, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trachea
+#RUOTSI     ---
+#ENGL       Trachea
+###
+#KOODI_A    GBA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tracheotomy and operations on trachea for injury or lesion
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Removal of foreign bodyTracheoscopy, see: UGBClosure of tracheo-oesophageal fistula, see: JCE
+#OHJE_R 
+---
+###
+#KOODI      GBA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk fjerning av fremmedlegeme fra trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk ekstirpasjon av lesjon i trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk elektrokoagulasjon av lesjon i trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA28  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi av lesjon i trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk dilatasjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA32  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk dilatasjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA32  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatasjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA35  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk innlegging av stent i trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA46  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tracheoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA53  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av trachea med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen incisjon eller op på trachea for skade eller lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen incisjon eller operasjon på trachea for skade eller lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen incisjon eller operasjon på trachea for skade eller lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet endoskopisk inngrep på trachea for skade eller lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GBB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tracheostomy and related operations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GBB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tracheostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB03  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan tracheostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tracheostomi med fjerning av fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av tracheostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB18  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av tracheostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet inngrep ved tracheostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GBC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resection and reconstruction of trachea
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GBC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell reseksjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av trachea med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av carina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av carina m/bruk av transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC13  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av carina med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC13  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av carina med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon eller rekonstruksjon av trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGC00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging eller bytte av trakeostomitube
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGC00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging eller bytte av trakeostomitube
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGC05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fiberendoskopisk trakeal intubasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGC05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fiberendoskopisk trakeal intubasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGC10 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endotrakeal intubasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGC10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endotrakeal intubasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bruk av surfactant ved initial gjenoppliving umiddelbart etter fødsel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bruk av surfactant ved initial gjenoppliving umiddelbart etter fødsel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGM05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bruk av surfactant senere i nyfødtperioden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGM05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bruk av surfactant senere i nyfødtperioden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Trakealtoalett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rensuging med sensorisk stimulans av nyfødte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBGX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rensuging med sensorisk stimulans av nyfødte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GBW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on trachea
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GBW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk inngrep på trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Bronchus
+#RUOTSI     ---
+#ENGL       Bronchus
+#OHJE_S  
+Bronchoscopy, see: UGC
+#OHJE_R 
+---
+###
+#KOODI_A    GCA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on bronchus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For foreign body or lesionClosure of broncho-oesophageal fistula, see: JCE
+#OHJE_R 
+---
+###
+#KOODI      GCA02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk elektrokoagulasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk laserterapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA06  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA06  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA08  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk ekstirpasjon av lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen fjerning av fremmedlegeme i bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen fjerning av fremmedlegeme i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen fjerning av fremmedlegeme i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk fjerning av fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA18  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bronkoskopisk dilatasjon av bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA18  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bronkoskopisk dilatasjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA18  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk dilatasjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sutur eller rekonstruksjon av bronkus for skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sutur eller rekonstruksjon av bronkie for skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur eller rekonstruksjon av bronkie for skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Plastisk rekonstruksjon av bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA26  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Plastisk rekonstruksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA26  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk rekonstruksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av bronkus med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av bronkie med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av bronkie med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA32  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk nedleggelse av stent i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA32  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk innlegging av stent i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA32  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk innlegging av stent i bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av bronkopleural fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk lukking av bronkopleural fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA43  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lukking av bronkopleural fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Partiell reseksjon av bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Partiell reseksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell reseksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av bronkus med ende til ende anastomose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av bronkie med ende til ende-anastomose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA60  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av bronkie med ende til ende-anastomose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA63  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mansjettreseksjon av bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA63  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mansjettreseksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA63  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mansjettreseksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av bronkus med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA70  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av bronkie med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA70  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og rekonstruksjon av bronkie med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet bronkoskopisk inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCFF00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av maksimal ekspiratorisk luftstrøm – 'peak expiratory flow' (PEF)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCFF05 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Peak expiratory flow (PEF)-måling med anstrengelsesprovokasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCFF05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peak expiratory flow (PEF)-måling med anstrengelsesprovokasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCFF10 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Peak expiratory flow (PEF), langtidsobservasjon med automatisk logging
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCFF10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peak expiratory flow (PEF), langtidsobservasjon med automatisk logging
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCGS00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Indusert sputumprøve etter inhalasjon av hyperosmolær NaCl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCGS00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Indusert sputumprøve etter inhalasjon av hyperosmolær NaCl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCGS05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bronkioalveolær lavage med uthenting av vevsprøve/hvite blodlegemer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCGS05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkioalveolær lavage med uthenting av vevsprøve/hvite blodlegemer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bronkialtoalett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkialtoalett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lung
+#RUOTSI     ---
+#ENGL       Lung
+###
+#KOODI_A    GDA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, excision of lesion and repair of lung
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For lesions, injury or removal of foreign body
+#OHJE_R 
+---
+###
+#KOODI      GDA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk incisjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk incisjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk incisjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk incisjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk incisjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bronkoskopisk lungebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk ekstirpasjon av lesjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA21  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon av lesjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA21  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon av lesjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA21  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon av lesjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA21  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk ekstirpasjon av lesjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen fjerning av fremmedlegeme fra lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk fjerning av fremmedlegeme fra lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA31  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA31  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA31  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA31  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk fjerning av fremmedlegeme fra lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av lunge ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk rekonstruksjon av lunge ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA41  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk rekonstruksjon av lunge ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA41  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk rekonstruksjon av lunge ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA41  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk rekonstruksjon av lunge ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA41  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk rekonstruksjon av lunge ved skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen incisjon, ekstirpasjon av lesjon el rekonstr av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen incisjon, ekstirpasjon av lesjon eller rekonstruksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen incisjon, ekstirpasjon av lesjon eller rekonstruksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen toraoskop incisjon, ekstirp lesjon, rekonstr av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk incisjon, ekstirpasjon av lesjon eller rekonstruksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk incisjon, ekstirpasjon av lesjon eller rekonstruksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen bronkoskop incisjon, ekstirp lesjon, rekonstr av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen bronkoskopisk incisjon, ekstirpasjon av lesjon eller rekonstruksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen bronkoskopisk incisjon, ekstirpasjon av lesjon eller rekonstruksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GDB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Minor resections of lung
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Lobectomy and pneumonectomy
+#OHJE_R 
+---
+###
+#KOODI      GDB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk reseksjon av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reseksjon av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reseksjon av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reseksjon av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk reseksjon av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kilereseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk kilereseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk kilereseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk kilereseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk kilereseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk kilereseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB21  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB21  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB21  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB21  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet thoracoskopisk reseksjonsinngrep på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet torakoskopisk reseksjonsinngrep på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet torakoskopisk reseksjonsinngrep på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet torakoskopisk reseksjonsinngrep på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet torakoskopisk reseksjonsinngrep på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GDC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lobectomy of lung
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GDC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidet lobektomi eller bilobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lobektomi av lunge og mansjettreseksjon av bronkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lobektomi av lunge og mansjettreseksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi av lunge og mansjettreseksjon av bronkie
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi og segmentreseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi og annen reseksjon av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk lobektomi av lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GDD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pneumonectomy
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GDD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleuropneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk pleuropneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleuropneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleuropneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk pleuropneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk pleuropneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidet pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pneumonektomi med reseksjon av carina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pneumonektomi med reseksjon av bronkus og evt. Trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD26  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pneumonektomi med reseksjon av bronkie og ev. trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD26  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pneumonektomi med reseksjon av bronkie og ev. trachea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk pneumonektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spirometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri med inhalasjon av hurtigvirkende bronkieutvidende legemiddel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spirometri med inhalasjon av hurtigvirkende bronkieutvidende legemiddel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri med inhalasjon av langsomtvirkende bronkieutvidende legemiddel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spirometri med inhalasjon av langsomtvirkende bronkieutvidende legemiddel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri med forsert inspirasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri med oscillometri for måling av perifer luftveismotstand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spirometri med oscillometri for måling av perifer luftveismotstand
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri med medikamentell provokasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spirometri med medikamentell provokasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spirometri med fysisk belastning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC30 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spirometri med fysisk belastning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC35 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av funksjonell residualkapasitet med SF6- eller He-inhalasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC35 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Måling av funksjonell residualkapasitet med SF6- eller He-inhalasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFC40 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Volum-luftstrømanalyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFM00 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av maksimale respiratoriske trykk og "sniff"-test
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Måling av maksimale respiratoriske trykk og
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFM05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av transdiafragmale trykk ved voluntær ventilasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFM05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Måling av transdiafragmale trykk ved voluntær ventilasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pletysmografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pletysmografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pletysmografi med måling av luftveisresistens/-konduktans I
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pletysmografi med måling av luftveisresistens/-konduktans I
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pletysmografi med måling av luftveisresistens/-konduktans II
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pletysmografi med måling av luftveisresistens/-konduktans II
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av gassutvekslingsevne ved karbonmonoksiddiffusjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Måling av gassutvekslingsevne ved karbonmonoksiddiffusjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av nitrogenmonoksid i ekspirasjonsluft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Måling av nitrogenmonoksid i ekspirasjonsluft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nitrogenutvasking etter O2-inhalasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nitrogenutvasking etter O2-inhalasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Måling av lungeelastisitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX30 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Måling av lungeelastisitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX35 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Single-breath okklusjonstest for måling av luftveisresistens og compliance
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX35 
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Single-breath okklusjonstest for måling av luftveisresistens og compliance
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX40 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Single-breath med nitrogentest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDFX40 
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Single-breath med nitrogentest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GDG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transplantation of lung
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Transplantation of heart and lung, see: FQBDonor operations, see: YGA
+#OHJE_R 
+---
+###
+#KOODI      GDG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral lungetransplantasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Unilat lungetranspl m/revaskularisering av bronkialarterier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG03  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Unilateral lungetransplantasjon med revaskularisering av bronkialarterier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG03  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral lungetransplantasjon med revaskularisering av bronkialarterier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral lungetransplantasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bilat lungetranspl m/revaskularisering av bronkialarterier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG13  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bilateral lungetransplantasjon med revaskularisering av bronkialarterier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG13  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral lungetransplantasjon med revaskularisering av bronkialarterier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungetransplantasjon fra levende donor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lungetransplantasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GDW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on lung
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GDW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDW97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDW97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDW97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen bronkoskopisk operasjon på lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mediastinum
+#RUOTSI     ---
+#ENGL       Mediastinum
+#OHJE_S  
+Includes: Thymus
+#OHJE_R 
+---
+###
+#KOODI_A    GEA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mediastinoscopy
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: With biopsy
+#OHJE_R 
+---
+###
+#KOODI      GEA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopi med fjerning av fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopi med ekstirpasjon av lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet mediastinoskopisk inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GEB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mediastinotomy
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GEB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi med fjerning av fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi og ekstirpasjon av lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi og utvidet ekstirpasjon av lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen mediastinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GEC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on thymus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GEC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopisk biopsi av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervical reseksjon av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervikal reseksjon av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal reseksjon av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsternal reseksjon av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC14  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk reseksjon av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC16  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopisk reseksjon av thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervical thymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervikal thymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal thymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsternal thymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC24  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk thymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopisk thymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC93  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen mediastinoskopisk operasjon på thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet torakoskopisk inngrep på thymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Magnetisk frenikusstimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Magnetisk frenikusstimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GEW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on mediastinum
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Thymus
+#OHJE_R 
+---
+###
+#KOODI      GEW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på mediastinum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GFPE05 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Embolisering av arteriovenøs malformasjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GFPE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering av arteriovenøs malformasjon i lunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+#RUOTSI     ---
+#ENGL       Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+#OHJE_S  
+Puncture, needle biopsy and other minor procedures, see: TG
+Digits 0, 3 and 6:
+Digits 1, 4 and 7:
+Includes (Chapter G): Thoracoscopy and thoracoscopic procedures
+Digits 2, 5 and 8:
+Includes (Chapter G): Tracheoscopic and bronchoscopic procedures, endoscopic procedures through pleuro-cutaneous window
+Diagnostic transluminal endoscopy, including endoscopy of pleura through pleuro-cutaneous window, see: UG (Chapter U).
+For codes with the fourth posision digit 9 (the"other" codes), only the last digits 6, 7 and 8 are used, with significance as above.
+Please note the following difference between transluminal endoscopy and invasive or therapeutic procedures performed in the course of transluminal endoscopy:
+Transluminal endoscopy, frequently allowing examination of several connected organ cavities, is classified (in Chapter U) according to the most common main target for the category of endoscopy in ques
+Endoscopic procedures are classified according to the location where they are actually performed, and then by action and technique.
+In Chapter G, e.g. (transluminal) endoscopic polypectomy in trachea may be performed at tracheoscopy or bronchoscopy.
+Please note that mediastinoscopy is by definition not endoscopy, as no body or organ cavity is entered or examined, only tissue cleavage planes.
+Includes: Chest wall, pleura, mediastium, diaphragm, trachea, bronchi and lungs
+Heart and major thoracic vessels, see: Chapter F
+#OHJE_R 
+---
+###
+#KOODI_A    GWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GWA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound infection
+#OHJE_R 
+---
+###
+#KOODI      GWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Infection in body cavity or at the site of target organ or structures
+#OHJE_R 
+---
+###
+#KOODI      GWC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk reop for dyp infeksjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reop for dyp infeksjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reop for dyp infeksjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reoperasjon for dyp infeksjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk reoperasjon for dyp infeksjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      GWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Haemorrhage or haematoma in body cavity or at the site of target organ or structures
+#OHJE_R 
+---
+###
+#KOODI      GWE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskopisk reop for dyp blødning ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reop for dyp blødning ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reop for dyp blødning ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reoperasjon for dyp blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk reoperasjon for dyp blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk reop for dyp blødning v/thoraxkir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE02  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperasjon for dyp blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE02  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperasjon for dyp blødning ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GWF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for insufficiency of anastomosis or suture in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GWF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for insuffisiens av anastomose el sutur v/thoraxkir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thoracoskop reop insuff av anastomose el sutur v/thoraxkir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF01  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskop reop insuff av anastomose el sutur v/thoraxkir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF01  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskop reop insuff av anastomose el sutur v/thoraxkir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakoskopisk reoperasjon for insuffisiens av anastomose eller sutur ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk reoperasjon for insuffisiens av anastomose eller sutur ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperation in thoracic surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      GWW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reoperasjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen thoracoskopisk reoperasjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW97  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW97  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen torakoskopisk reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen torakoskopisk reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved thoraxkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW98  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved torakskirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV01 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Respiratorbehandling INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV01 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Respiratorbehandling INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Behandling med kontinuerlig positivt luftveistrykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling med kontinuerlig positivt luftveistrykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Behandling med bifasisk positivt luftveistrykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling med bifasisk positivt luftveistrykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV22 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling med bifasisk positivt og negativt luftveistrykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV24 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Respiratorbehandling med høyfrekvensventilasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV24 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Respiratorbehandling med høyfrekvensventilasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Behandling med spesielle inhalasjonsgasser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling med spesielle inhalasjonsgasser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV28 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Manuell luftveisventilasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV28 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuell luftveisventilasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV35 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Oppstart av behandling med hjemmerespirator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXAV35 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oppstart av behandling med hjemmerespirator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXDE00 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXDE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXDE02 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transøsofageal ultralydundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXDE02 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transøsofageal ultralydundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Høydesimuleringstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Høydesimuleringstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan oksymetri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Langtidsregistrering av oksygenmetning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Langtidsregistrering av oksygenmetning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX15 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transkutan oksymetri med CO2-måling i endetidevolum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkutan oksymetri med CO2-måling i endetidevolum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX20 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transkutan noninvasiv monitorering av O2 og CO2
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXFX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkutan noninvasiv monitorering av pO2 og pCO2
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontroll av kronisk oksygenbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXGT05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontroll av behandling med luftveismottrykk (CPAP/BiPAP)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXGT35 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Oppfølging og kontroll av hjemmerespiratorbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GXGX23 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Aspirasjon fra luftvei
+#RUOTSI     ---
+#LYHENNE    

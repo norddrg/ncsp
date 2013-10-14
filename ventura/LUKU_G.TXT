@@ -1,0 +1,4109 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU G
+
+@LUVUT_S = KAPITEL G
+
+@SUOMI_L = Rintaontelon muut osat
+
+@RUOTSI_L = Andra thorakala organ
+
+@ENGL_L = Other thoracic organs
+
+@NOTE_LF = Uusintaleikkaukset ilmaistaan lisäkoodilla ZSG00
+
+@NOTE_LS = Reoperationer anges med tilläggskoden ZSG00
+
+@END_L = 
+
+@KOODI_R = GA
+
+@SUOMI_R = Rintaontelon seinämä, keuhkopussi ja pallea
+
+@RUOTSI_R = Bröstvägg, pleura och diafragma
+
+@ENGL_R = Chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI_A = GA_
+
+@NCSP_A = GAD
+
+@SUOMI_A = Rintaontelon seinämän, keuhkopussin ja pallean diagnostinen radiologia
+
+@RUOTSI_A = Diagnositisk radiologi av bröstvägg, pleura och diafragma
+
+@ENGL_A = Diagnostic radiology chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI = GA5AA 
+
+@NCSP = GADA5A
+
+@SUOMI = Kylkiluiden natiiviröntgen
+
+@RUOTSI = Revben, röntgen
+
+@END = 
+
+@KOODI = GA5DA 
+
+@NCSP = GADA5D
+
+@SUOMI = Kylkiluiden natiiviröntgen, molemmat puolet
+
+@RUOTSI = Revben, bilateral röntgen
+
+@END = 
+
+@KOODI = GA6AA 
+
+@NCSP = GADA6A
+
+@SUOMI = Rintalastan natiiviröntgen
+
+@RUOTSI = Bröstben, röntgen
+
+@END = 
+
+@KOODI = GA7AA 
+
+@NCSP = GADA7A
+
+@SUOMI = Sternoklavikulaarinivelten natiiviröntgen
+
+@RUOTSI = Sternoklavikularleder, röntgen
+
+@END = 
+
+@KOODI = GA1AE 
+
+@NCSP = GADE1A
+
+@SUOMI = Rintakehän UÄ
+
+@RUOTSI = Torax, UL
+
+@END = 
+
+@KOODI_A = GA_
+
+@NCSP_A = GAE
+
+@SUOMI_A = Pleuraontelon tähystys
+
+@RUOTSI_A = Endoskopi av pleurahålan
+
+@ENGL_A = Endoscopy of pleural cavity
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UGA02 
+
+@NCSP = GAE002
+
+@SUOMI = Tähystys pysyvän keuhkopussiavanteen kautta
+
+@RUOTSI = Endoskopi genom pleurokutan fistel
+
+@END = 
+
+@KOODI_A = GA0
+
+@NCSP_A = GAO
+
+@SUOMI_A = Rintaontelon seinämän, keuhkopussin ja pallean sädehoito
+
+@RUOTSI_A = Strålbehandling av pleurahålan
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = GA001 
+
+@NCSP = GAO001
+
+@SUOMI = Sädehoito rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA002 
+
+@NCSP = GAO002
+
+@SUOMI = Radikaali rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA003 
+
+@NCSP = GAO003
+
+@SUOMI = Sädehoito rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA004 
+
+@NCSP = GAO004
+
+@SUOMI = Sädehoito rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA029 
+
+@NCSP = GAO029
+
+@SUOMI = Sädehoito rintaontelon seinämän, keuhkopussin ja pallean paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i bröstväggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA049 
+
+@NCSP = GAO049
+
+@SUOMI = Sädehoito rintaontelon seinämässä, keuhkopussissa tai palleassa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i bröstväggen, pleura eller diafragm
+
+@END = 
+
+@KOODI = GA090 
+
+@NCSP = GAO090
+
+@SUOMI = Sädehoito rintaontelon seinämän, keuhkopussin ja pallean profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av bröstvägg, pleura och diafragm
+
+@END = 
+
+@KOODI = GA099 
+
+@NCSP = GAO099
+
+@SUOMI = Muu rintaontelon seinämän, keuhkopussin ja pallean sädehoito
+
+@RUOTSI = Annan strålbehandling av bröstvägg, pleura och diafragm
+
+@END = 
+
+@KOODI_A = GAA
+
+@NCSP_A = GASA
+
+@SUOMI_A = Rintaontelon tähystykset ja kanavoinnit
+
+@RUOTSI_A = Punktion och dränage av pleurahålan inkl torakoskopi
+
+@ENGL_A = Drainage and endoscopy of pleura
+
+@END = 
+
+@KOODI = GAA10 
+
+@NCSP = GASA10
+
+@SUOMI = Keuhkopussin kanavointi kylkiluiden välistä
+
+@RUOTSI = Anläggande av interkostalt pleuradränage
+
+@END = 
+
+@KOODI = GAA15 
+
+@NCSP = GASA15
+
+@SUOMI = Keuhkopussin kanavointi poistamalla kylkiluu
+
+@RUOTSI = Anläggande av pleuradränage med revbensresektion
+
+@END = 
+
+@KOODI = GAA20 
+
+@NCSP = GASA20
+
+@SUOMI = Keuhkopussin avanteen teko, fenestraatio
+
+@RUOTSI = Anläggande av pleurafistel, fenestration
+
+@END = 
+
+@KOODI = GAA31 
+
+@NCSP = GASA31
+
+@SUOMI = Rintaontelon diagnostinen tähystys
+
+@RUOTSI = Diagnostisk torakoskopi
+
+@NOTE_F = Sisältää koepalan oton paitsi keuhkopussista (GAC01)
+
+@NOTE_F =
+Tähystys pysyvän avanteen kautta kohdass UGA02
+
+@NOTE_S = Inkl biopsi
+
+@NOTE_S =
+Endoskopi via pleurokutan fistel, se UGA02
+
+@END = 
+
+@KOODI = GAA96 
+
+@NCSP = GASA96
+
+@SUOMI = Muu keuhkopussin kanavointi leikkauksessa tai suljetusti iholta
+
+@RUOTSI = Annat öppet eller perkutant dränageingrepp i pleurahålan
+
+@NOTE_F = Keuhkopussin kanavointi radiologisessa ohjauksessa, katso GA4AT, GA4BT, GA4CT, GA4FT (radiologian luokitus)
+
+@NOTE_S = Dränageingrepp i pleurahålan med radiologisk utstyrning, se GA4AT, GA4BT, GA4CT eller GA4FT (klassifikation av radiologi)
+
+@END = 
+
+@KOODI = GAA97 
+
+@NCSP = GASA97
+
+@SUOMI = Muu keuhkopussin kanavointi rintaontelon tähystyksessä
+
+@RUOTSI = Annat torakoskopiskt dränageingrepp i pleurahålan
+
+@END = 
+
+@KOODI_A = GAB
+
+@NCSP_A = GASB
+
+@SUOMI_A = Rintaontelon aukaisut
+
+@RUOTSI_A = Torakotomi
+
+@ENGL_A = Thoracotomy
+
+@NOTE_RF = Tämän ryhmän koodeja käytetään tarvittaessa kuvaamaan leikkausreittiä
+
+@NOTE_RF =
+Ei sisällä koepalan ottoa, jolle on  koodi kunkin elimen kohdalla erikseen
+
+@NOTE_RS = Koder i detta grupp används vid behov för att beskriva åtgärdets gång
+
+@NOTE_RS =
+Exkl. provtagning som koderas för varje organ skild
+
+@END = 
+
+@KOODI = GAB00 
+
+@NCSP = GASB00
+
+@SUOMI = Rintaontelon hätäaukaisu
+
+@RUOTSI = Nödtorakotomi
+
+@END = 
+
+@KOODI = GAB10 
+
+@NCSP = GASB10
+
+@SUOMI = Rintaontelon aukaisu edestä tai takaa kyljestä
+
+@RUOTSI = Torakotomi , antero- eller posterolateral
+
+@END = 
+
+@KOODI = GAB13 
+
+@NCSP = GASB13
+
+@SUOMI = Rintaontelon aukaisu kainalosta
+
+@RUOTSI = Torakotomi, transaxillär
+
+@END = 
+
+@KOODI = GAB20 
+
+@NCSP = GASB20
+
+@SUOMI = Rintaontelon aukaisu rintalastan kautta
+
+@RUOTSI = Torakotomi, median sternotomi
+
+@END = 
+
+@KOODI = GAB96 
+
+@NCSP = GASB96
+
+@SUOMI = Muu rintaontelon aukaisuleikkaus
+
+@RUOTSI = Annan torakotomi
+
+@END = 
+
+@KOODI_A = GAC
+
+@NCSP_A = GASC
+
+@SUOMI_A = Keuhkopussin leikkaukset
+
+@RUOTSI_A = Operationer på pleura
+
+@ENGL_A = Operations on pleura
+
+@END = 
+
+@KOODI = GAC00 
+
+@NCSP = GASC00
+
+@SUOMI = Koepalan otto keuhkopussista
+
+@RUOTSI = Pleurabiopsi
+
+@END = 
+
+@KOODI = GAC01 
+
+@NCSP = GASC01
+
+@SUOMI = Koepalan otto keuhkopussista rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk pleurabiopsi
+
+@NOTE_F = Koepalan otto keuhkopussiavanteen kautta UGA02
+
+@NOTE_S = Biopsi i endoskopi genom pleurokutan fistel, se UGA02
+
+@END = 
+
+@KOODI = GAC10 
+
+@NCSP = GASC10
+
+@SUOMI = Vierasesineen poisto keuhkopussista
+
+@RUOTSI = Avlägsnande av främmande kropp ur pleurahålan
+
+@END = 
+
+@KOODI = GAC11 
+
+@NCSP = GASC11
+
+@SUOMI = Vierasesineen poisto keuhkopussista rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopiskt avlägsnande av främmande kropp ur pleurahålan
+
+@END = 
+
+@KOODI = GAC20 
+
+@NCSP = GASC20
+
+@SUOMI = Keuhkopussin kasvaimen tai kudosmuutoksen poisto
+
+@RUOTSI = Exstirpation eller destruktion av lokal förändring i pleura
+
+@END = 
+
+@KOODI = GAC21 
+
+@NCSP = GASC21
+
+@SUOMI = Keuhkopussin kasvaimen tai kudosmuutoksen poisto tai tuhoaminen rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopisk exstirpation eller destruktion av lokal förändring i pleura
+
+@END = 
+
+@KOODI = GAC30 
+
+@NCSP = GASC30
+
+@SUOMI = Ilmarinnan tekeminen
+
+@RUOTSI = Anläggande av terapeutisk pneumotorax
+
+@END = 
+
+@KOODI = GAC33 
+
+@NCSP = GASC33
+
+@SUOMI = Keuhkokiinnikkeiden aiheuttaminen mekaanisesti
+
+@RUOTSI = Mekanisk pleurodes
+
+@END = 
+
+@KOODI = GAC34 
+
+@NCSP = GASC34
+
+@SUOMI = Mekaaninen keuhkokiinnikkeiden aiheuttaminen rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopisk mekanisk pleurodes
+
+@END = 
+
+@KOODI = GAC36 
+
+@NCSP = GASC36
+
+@SUOMI = Kemiallinen keuhkokiinnikkeiden aiheuttaminen
+
+@RUOTSI = Kemisk pleurodes
+
+@END = 
+
+@KOODI = GAC37 
+
+@NCSP = GASC37
+
+@SUOMI = Kemiallinen keuhkokiinnikkeiden aiheuttaminen rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopisk kemisk pleurodes
+
+@END = 
+
+@KOODI = GAC40 
+
+@NCSP = GASC40
+
+@SUOMI = Keuhkopussin poisto ja keuhkokiinnikkeiden aiheuttaminen
+
+@RUOTSI = Pleurodes med pleurektomi
+
+@END = 
+
+@KOODI = GAC41 
+
+@NCSP = GASC41
+
+@SUOMI = Pleurodeesi ja keuhkopussin poisto rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopisk pleurodes/pleurektomi
+
+@END = 
+
+@KOODI = GAC43 
+
+@NCSP = GASC43
+
+@SUOMI = Keuhkopussin poisto
+
+@RUOTSI = Total pleurektomi (öppen)
+
+@END = 
+
+@KOODI = GAC44 
+
+@NCSP = GASC44
+
+@SUOMI = Keuhkopussin poisto kokonaan rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopisk total pleurektomi
+
+@END = 
+
+@KOODI = GAC46 
+
+@NCSP = GASC46
+
+@SUOMI = Keuhkopussin poisto osittain
+
+@RUOTSI = Partiell pleurektomi
+
+@END = 
+
+@KOODI = GAC47 
+
+@NCSP = GASC47
+
+@SUOMI = Keuhkopussin poisto osittain rintaontelon tähystyksessä
+
+@RUOTSI = Endoskopisk partiell pleurektomi
+
+@END = 
+
+@KOODI = GAC96 
+
+@NCSP = GASC96
+
+@SUOMI = Muu avoin keuhkopussin toimenpide
+
+@RUOTSI = Annan öppen operation på pleura
+
+@END = 
+
+@KOODI = GAC97 
+
+@NCSP = GASC97
+
+@SUOMI = Muu keuhkopussin toimenpide rintaontelon tähystyksessä
+
+@RUOTSI = Annan endoskopisk operation på pleura
+
+@END = 
+
+@KOODI = GAC98 
+
+@NCSP = GASC98
+
+@SUOMI = Muu keuhkopussin toimenpide keuhkopussiavanteen kautta
+
+@RUOTSI = Annan operation på pleura via pleurokutan fistel
+
+@END = 
+
+@KOODI_A = GAD
+
+@NCSP_A = GASD
+
+@SUOMI_A = Rintaonteloa muovaavat leikkaukset, torakoplastiat
+
+@RUOTSI_A = Torakoplastiker
+
+@ENGL_A = Thoracoplasty and related procedures
+
+@END = 
+
+@KOODI = GAD00 
+
+@NCSP = GASD00
+
+@SUOMI = Torakoplastia
+
+@RUOTSI = Torakoplastik utan plombering
+
+@END = 
+
+@KOODI = GAD03 
+
+@NCSP = GASD03
+
+@SUOMI = Torakoplastia täytteen avulla
+
+@RUOTSI = Torakoplastik med plombering
+
+@END = 
+
+@KOODI = GAD10 
+
+@NCSP = GASD10
+
+@SUOMI = Täytteen poisto torakoplastian jälkeen
+
+@RUOTSI = Avlägsnande av intratorakal plombering
+
+@END = 
+
+@KOODI = GAD96 
+
+@NCSP = GASD96
+
+@SUOMI = Muu rintaonteloa muovaava leikkaus
+
+@RUOTSI = Annan torakoplastikoperation
+
+@END = 
+
+@KOODI_A = GAE
+
+@NCSP_A = GASE
+
+@SUOMI_A = Rintaontelon seinämän poistot ja korjaamiset
+
+@RUOTSI_A = Incision, biopsi, resektion och rekonstruktion av bröstvägg
+
+@ENGL_A = Incision, biopsy, resection and repair of chest wall
+
+@END = 
+
+@KOODI = GAE00 
+
+@NCSP = GASE00
+
+@SUOMI = Rintaontelon seinämämuutoksen aukaisu
+
+@RUOTSI = Incision av bröstväggen
+
+@NOTE_F = sis. koepalan oton
+
+@NOTE_S = Inkl biopsi
+
+@END = 
+
+@KOODI = GAE03 
+
+@NCSP = GASE03
+
+@SUOMI = Rintaontelon seinämän ompelu
+
+@RUOTSI = Sutur av bröstväggen
+
+@NOTE_F = Sisältää tarkistamisen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = GAE06 
+
+@NCSP = GASE06
+
+@SUOMI = Rintaontelon seinämän kasvaimen tai kudosmuutoksen poisto
+
+@RUOTSI = Exstirpation av lokal förändring i bröstväggen
+
+@END = 
+
+@KOODI = GAE10 
+
+@NCSP = GASE10
+
+@SUOMI = Rintaontelon aukaisun myöhäissulku
+
+@RUOTSI = Sekundär föslutning av torakotomi
+
+@END = 
+
+@KOODI = GAE13 
+
+@NCSP = GASE13
+
+@SUOMI = Keuhkopussiavanteen sulkeminen
+
+@RUOTSI = Tillslutning av pleurafistel
+
+@END = 
+
+@KOODI = GAE16 
+
+@NCSP = GASE16
+
+@SUOMI = Rintaontelon seinämän poisto
+
+@RUOTSI = Resektion av bröstvägg
+
+@NOTE_F = Laajennetun keuhkonpoiston yhteydessä käytetään koodia GDD20
+
+@NOTE_S = Vid utvidgad pneumektomi anges med kod GDD20
+
+@END = 
+
+@KOODI = GAE20 
+
+@NCSP = GASE20
+
+@SUOMI = Rintaontelon seinämän poisto ja korjaus kielekkeellä
+
+@RUOTSI = Resektion av bröstvägg och rekonstruktion med muskel- eller hudlambå
+
+@NOTE_F = Transplantaatti tai kielekkeen materiaali koodataan lisäkoodilla ryhmästä ZZ
+
+@NOTE_S = Material av transplantat eller lambå bör anges med tilläggskod, se ZZ
+
+@END = 
+
+@KOODI = GAE23 
+
+@NCSP = GASE23
+
+@SUOMI = Rintaontelon seinämän poisto ja proteesikorjaus
+
+@RUOTSI = Resektion av bröstvägg och rekonstruktion med implantat eller protes
+
+@END = 
+
+@KOODI = GAE26 
+
+@NCSP = GASE26
+
+@SUOMI = Rintaontelon seinämän vamman korjaus
+
+@RUOTSI = Reparation av bröstväggsskada
+
+@END = 
+
+@KOODI = GAE30 
+
+@NCSP = GASE30
+
+@SUOMI = Rintakehän ja pallean vamman korjausleikkaus
+
+@RUOTSI = Operation för kombinerad skada på bröstvägg och diafragma
+
+@END = 
+
+@KOODI = GAE40 
+
+@NCSP = GASE40
+
+@SUOMI = Kylkiluun poisto ja pehmytkudosleikkaus  thoracic outlet-syndrooman (TOS) vuoksi
+
+@RUOTSI = Revbensresektion/mjukdelsoperation för TOS ("thoracic outlet syndrome")
+
+@END = 
+
+@KOODI = GAE50 
+
+@NCSP = GASE50
+
+@SUOMI = Rintakehän seinämän rekonstruktioleikkaus
+
+@RUOTSI = Rekonstruktion av bröstvägg
+
+@NOTE_F = Esim. infektion takia tehdyn resektion jälkeinen korjaus
+
+@NOTE_F =
+Rekonstruktiossa käytetty siirretty materiaali tulee ilmoittaa lisäkoodilla kohdasta ZZ
+
+@NOTE_S = T ex efter resektion p g a infektion
+
+@NOTE_S =
+Material av transplantat eller lambå bör anges med tilläggskod, se ZZ
+
+@END = 
+
+@KOODI = GAE53 
+
+@NCSP = GASE53
+
+@SUOMI = Vierasesineen poistaminen rintakehän seinämästä
+
+@RUOTSI = Avlägsnande av främmande kropp från bröstkorg
+
+@END = 
+
+@KOODI = GAE96 
+
+@NCSP = GASE96
+
+@SUOMI = Muu rintaontelon seinämän poisto- ja korjausleikkaus
+
+@RUOTSI = Annan incision, biopsi, resektion eller rekonstruktion av bröstvägg
+
+@END = 
+
+@KOODI_A = GAF
+
+@NCSP_A = GASF
+
+@SUOMI_A = Rintaontelon seinämän synnynnäisen epämuotoisuuden leikkaukset
+
+@RUOTSI_A = Rekonstruktiva operationer vid anomalier och defekter i bröstväggen
+
+@ENGL_A = Plastic repair of malformations of chest wall
+
+@END = 
+
+@KOODI = GAF00 
+
+@NCSP = GASF00
+
+@SUOMI = Harjurinnan korjaus
+
+@RUOTSI = Korrektion av pectus carinatum
+
+@NOTE_F = esim siirrännäisellä tai proteesilla
+
+@NOTE_S = Inkl användande av implantat eller protes
+
+@END = 
+
+@KOODI = GAF03 
+
+@NCSP = GASF03
+
+@SUOMI = Kuopparinnan korjaus
+
+@RUOTSI = Korrektion av pectus excavatum
+
+@NOTE_F = esim siirrännäisellä tai proteesilla
+
+@NOTE_S = Inkl användande av implantat eller protes
+
+@END = 
+
+@KOODI = GAF10 
+
+@NCSP = GASF10
+
+@SUOMI = Rintakehän epämuotoisuuden korjaamisessa käytetyn istutteen poisto
+
+@RUOTSI = Avlägsnande av implantat i toraxväggen efter operation för anomali eller defekt
+
+@END = 
+
+@KOODI = GAF96 
+
+@NCSP = GASF96
+
+@SUOMI = Muu rintakehän epämuotoisuuden leikkaus
+
+@RUOTSI = Annan operation för toraxdeformitet
+
+@END = 
+
+@KOODI_A = GAG
+
+@NCSP_A = GASG
+
+@SUOMI_A = Pallealeikkaukset rintaontelon kautta tai tähystyksessä
+
+@RUOTSI_A = Transtorakala och torakoskopiska operationer på diafragma
+
+@ENGL_A = Transthoracic and thoracoscopic operations on diaphragm
+
+@END = 
+
+@KOODI = GAG00 
+
+@NCSP = GASG00
+
+@SUOMI = Koepalan otto palleasta rintaontelon kautta
+
+@RUOTSI = Transtorakal biopsi av diafragma
+
+@END = 
+
+@KOODI = GAG01 
+
+@NCSP = GASG01
+
+@SUOMI = Koepalan otto palleasta rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk biopsi av diafragma
+
+@END = 
+
+@KOODI = GAG10 
+
+@NCSP = GASG10
+
+@SUOMI = Pallean kasvaimen poisto rintaontelon kautta
+
+@RUOTSI = Transtorakal exstirpation eller destruktion av lokal förändring i diafragma
+
+@END = 
+
+@KOODI = GAG11 
+
+@NCSP = GASG11
+
+@SUOMI = Pallean kasvaimen poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk exstirpation eller destruktion av lokal förändring i diafragma
+
+@END = 
+
+@KOODI = GAG20 
+
+@NCSP = GASG20
+
+@SUOMI = Pallean vierasesineen poisto rintaontelon kautta
+
+@RUOTSI = Transtorakalt avlägsnande av främmande kropp ur diafragma
+
+@END = 
+
+@KOODI = GAG21 
+
+@NCSP = GASG21
+
+@SUOMI = Pallean vierasesineen poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopiskt avlägsnande av främmande kropp ur diafragma
+
+@END = 
+
+@KOODI = GAG30 
+
+@NCSP = GASG30
+
+@SUOMI = Pallean korjausleikkaus rintaontelon kautta
+
+@RUOTSI = Transtorakal operation av diafragmaruptur
+
+@END = 
+
+@KOODI = GAG31 
+
+@NCSP = GASG31
+
+@SUOMI = Pallean korjausleikkaus rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk operation av diafragmaruptur
+
+@END = 
+
+@KOODI = GAG33 
+
+@NCSP = GASG33
+
+@SUOMI = Pallean poisto rintaontelon kautta
+
+@RUOTSI = Transtorakal resektion av diafragma
+
+@NOTE_F = Laajennetun keuhkonpoiston yhteydessä käytetään koodia GDD20
+
+@NOTE_S = Vid utvidgad pneumektomi anges med kod GDD20
+
+@END = 
+
+@KOODI = GAG36 
+
+@NCSP = GASG36
+
+@SUOMI = Pallean poisto rintaontelon kautta, korjaus siirrettä käyttäen
+
+@RUOTSI = Transtorakal resektion och rekonstruktion av diafragma med transplantat
+
+@END = 
+
+@KOODI = GAG40 
+
+@NCSP = GASG40
+
+@SUOMI = Vatsa- ja rintaonteloiden välisen avanteen sulku rintaontelon kautta
+
+@RUOTSI = Transtorakal slutning av torakoabdominell fistel
+
+@END = 
+
+@KOODI = GAG50 
+
+@NCSP = GASG50
+
+@SUOMI = Pallean puutoksen korjaus rintaontelon kautta
+
+@RUOTSI = Transtorakal reparation av diafragmadefekt
+
+@NOTE_F = Pallean korjaus vatsaontelon kautta JBW
+
+@NOTE_S = Transabdominal operation på diafragma, se JBW
+
+@END = 
+
+@KOODI = GAG96 
+
+@NCSP = GASG96
+
+@SUOMI = Muu pallealeikkaus
+
+@RUOTSI = Annan transtorakal operation på diafragma
+
+@NOTE_F = Esim. vaurion tai vierasesineen vuoksi
+
+@NOTE_S = T.ex. för traumatisk lesion eller främmande kropp
+
+@END = 
+
+@KOODI = GAG97 
+
+@NCSP = GASG97
+
+@SUOMI = Muu pallealeikkaus rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk operation på diafragma
+
+@NOTE_F = esim vamman tai vierasesineen vuoksi
+
+@NOTE_S = T.ex. för traumatisk lesion eller främmande kropp
+
+@END = 
+
+@KOODI_A = GAW
+
+@NCSP_A = GASW
+
+@SUOMI_A = Muut rintaontelon seinämän, keuhkopussin ja pallean leikkaukset
+
+@RUOTSI_A = Andra operationer på bröstvägg, pleura och diafragma
+
+@ENGL_A = Other operations on chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI = GAW96 
+
+@NCSP = GASW96
+
+@SUOMI = Muu rintaontelon seinämän, keuhkopussin tai pallean leikkaus
+
+@RUOTSI = Annan transtorakal operation på bröstvägg, pleura och diafragma
+
+@END = 
+
+@KOODI = GAW97 
+
+@NCSP = GASW97
+
+@SUOMI = Muu rintaontelon seinämän, keuhkopussin ja pallean leikkaus rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk operation på bröstvägg, pleura och diafragma
+
+@END = 
+
+@KOODI_A = GA_
+
+@NCSP_A = GAX
+
+@SUOMI_A = Muut rintaontelon seinämän, keuhkopussin ja pallean toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på bröstvägg, pleura och diafragma
+
+@ENGL_A = Other procedures of  chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI = TGA00 
+
+@NCSP = GAXX00
+
+@SUOMI = Neulakudosnäytteen otto rinnan seinämästä
+
+@RUOTSI = Punktionsbiopsi av bröstvägg
+
+@END = 
+
+@KOODI = GA2AT 
+
+@NCSP = GAXX02
+
+@SUOMI = Keuhkopussin kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Pleura, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = GA2CT 
+
+@NCSP = GAXX02
+
+@SUOMI = Keuhkopussin kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Pleura, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = GA2DT 
+
+@NCSP = GAXX02
+
+@SUOMI = Keuhkopussin kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = Pleura, MR-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TGA10 
+
+@NCSP = GAXX02
+
+@SUOMI = Neulakudosnäytteen otto keuhkopussista
+
+@RUOTSI = Punktionsbiopsi av pleura
+
+@NOTE_F = Radiologisessa ohjauksessa tehty toimenpide, katso GA2AT, GA2CT, GA2DT, GA3AT, GA3CT tai GA3DT
+
+@NOTE_S = Med radiologisk utstyrd, se GA2AT, GA2CT, GA2DT, GA3AT, GA3CT eller GA3DT
+
+@END = 
+
+@KOODI = TGA20 
+
+@NCSP = GAXX04
+
+@SUOMI = Neulakudosnäytteen otto palleasta
+
+@RUOTSI = Punktionsbiopsi av diafragma
+
+@END = 
+
+@KOODI = GA3AT 
+
+@NCSP = GAXX10
+
+@SUOMI = Keuhkopussin solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Pleura, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GA3CT 
+
+@NCSP = GAXX10
+
+@SUOMI = Keuhkopussin solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Pleura, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GA3DT 
+
+@NCSP = GAXX10
+
+@SUOMI = Keuhkopussin solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = Pleura, MR-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GA4YT 
+
+@NCSP = GAXX10
+
+@SUOMI = Keuhkopussin punktio UÄ-ohjauksessa
+
+@RUOTSI = Pleurapunktion, UL-styrd
+
+@END = 
+
+@KOODI = GA4FT 
+
+@NCSP = GAXX12
+
+@SUOMI = Keuhko-ontelon katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Lungkavern kateterbyte
+
+@END = 
+
+@KOODI = GA4AT 
+
+@NCSP = GAXX20
+
+@SUOMI = Keuhko-ontelon kanavointi UÄ-ohjauksessa
+
+@RUOTSI = Lungkavern, UL-styrt dränage
+
+@END = 
+
+@KOODI = GA4BT 
+
+@NCSP = GAXX20
+
+@SUOMI = Keuhko-ontelon kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Lungkavern, genomlysningsstyrt dränage
+
+@END = 
+
+@KOODI = GA4CT 
+
+@NCSP = GAXX20
+
+@SUOMI = Keuhko-ontelon kanavointi TT-ohjauksessa
+
+@RUOTSI = Lungkavern, DT-styrt dränage
+
+@END = 
+
+@KOODI = TGA30 
+
+@NCSP = GAXX30
+
+@SUOMI = Rintaontelon pisto
+
+@RUOTSI = Torakocentes
+
+@END = 
+
+@KOODI_R = GB
+
+@SUOMI_R = Henkitorvi
+
+@RUOTSI_R = Trakea
+
+@ENGL_R = Trachea
+
+@END = 
+
+@KOODI_A = GB_
+
+@NCSP_A = GBD
+
+@SUOMI_A = Henkitorven diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av trakea
+
+@ENGL_A = Diagnostic radiology of trachea
+
+@END = 
+
+@KOODI = GB1AA 
+
+@NCSP = GBDA1A
+
+@SUOMI = Henkitorven natiiviröntgen (trakea)
+
+@RUOTSI = Trakea, röntgen
+
+@END = 
+
+@KOODI = GB2AA 
+
+@NCSP = GBDA2A
+
+@SUOMI = Epifarynxin natiiviröntgen
+
+@RUOTSI = Epifarynx, röntgen
+
+@END = 
+
+@KOODI = GB3AA 
+
+@NCSP = GBDA3A
+
+@SUOMI = Kurkunpään natiiviröntgen (larynx)
+
+@RUOTSI = Larynx, röntgen
+
+@END = 
+
+@KOODI_A = GB_
+
+@NCSP_A = GBE
+
+@SUOMI_A = Henkitorven endoskopia
+
+@RUOTSI_A = Endoskopi av trakea
+
+@ENGL_A = Endoscopy  of trachea
+
+@END = 
+
+@KOODI = UGB02 
+
+@NCSP = GBE002
+
+@SUOMI = Henkitorven tähystys
+
+@RUOTSI = Trakeoskopi
+
+@END = 
+
+@KOODI_A = GBA
+
+@NCSP_A = GBSA
+
+@SUOMI_A = Henkitorven aukaisut ja paikalliset toimenpiteet
+
+@RUOTSI_A = Trakeotomi och operationer för skador och lokala förändringar
+
+@ENGL_A = Tracheotomy and operations on trachea for injury or lesion
+
+@END = 
+
+@KOODI = GBA00 
+
+@NCSP = GBSA00
+
+@SUOMI = Henkitorven aukaisu
+
+@RUOTSI = Trakeotomi
+
+@NOTE_F = Sisältää mahdollisen koepalan oton
+
+@NOTE_F =
+Krikotyreotomia, DQA00
+
+@NOTE_F =
+Koepalan otto tähystyksessä, katso UGB05
+
+@NOTE_S = Inkl ev biopsi
+
+@NOTE_S = Krikotyreotomi, se DQA00
+
+@NOTE_S = Endoskopisk biopsi, se UGB05
+
+@END = 
+
+@KOODI = GBA10 
+
+@NCSP = GBSA10
+
+@SUOMI = Henkitorven aukaisu ja vierasesineen poisto
+
+@RUOTSI = Trakeotomi med avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = GBA12 
+
+@NCSP = GBSA12
+
+@SUOMI = Vierasesineen poisto henkitorvesta tähystyksessä
+
+@RUOTSI = Endoskopisk extraktion av främmande kropp ur trakea
+
+@END = 
+
+@KOODI = GBA22 
+
+@NCSP = GBSA22
+
+@SUOMI = Henkitorven kasvaimen tai kudosmuutoksen poisto tähystyksessä
+
+@RUOTSI = Endoskopisk exstirpation av lokal förändring i trakea
+
+@END = 
+
+@KOODI = GBA25 
+
+@NCSP = GBSA25
+
+@SUOMI = Henkitorven kasvaimen tai kudosmuutoksen poltto tähystyksessä
+
+@RUOTSI = Endoskopisk elektrokoagulation av lokal förändring i trakea
+
+@END = 
+
+@KOODI = GBA28 
+
+@NCSP = GBSA28
+
+@SUOMI = Henkitorven kasvaimen tai kudosmuutoksen hoito laserilla
+
+@RUOTSI = Laserbehandling av lokal förändring i trakea
+
+@END = 
+
+@KOODI = GBA32 
+
+@NCSP = GBSA32
+
+@SUOMI = Henkitorven laajennus tähystyksessä
+
+@RUOTSI = Endoskopisk dilatation av trakea
+
+@END = 
+
+@KOODI = GBA35 
+
+@NCSP = GBSA35
+
+@SUOMI = Henkitorven stentin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk installation av stent i trakea
+
+@NOTE_F = Sisältää bifurkaation ylittävän stentin
+
+@NOTE_S = Innefattar stent i bifurkation av trakea
+
+@END = 
+
+@KOODI = GBA40 
+
+@NCSP = GBSA40
+
+@SUOMI = Henkitorven ompelu, trakeorafia
+
+@RUOTSI = Sutur av trakea
+
+@END = 
+
+@KOODI = GBA46 
+
+@NCSP = GBSA46
+
+@SUOMI = Henkitorven muovaus, trakeoplastia
+
+@RUOTSI = Plastikoperation på trakea
+
+@END = 
+
+@KOODI = GBA50 
+
+@NCSP = GBSA50
+
+@SUOMI = Henkitorven korjaaminen
+
+@RUOTSI = Rekonstruktion av trakea utan protes
+
+@END = 
+
+@KOODI = GBA53 
+
+@NCSP = GBSA53
+
+@SUOMI = Henkitorven korjaaminen proteesin avulla
+
+@RUOTSI = Rekonstruktion av trakea med protes
+
+@END = 
+
+@KOODI = GBA96 
+
+@NCSP = GBSA96
+
+@SUOMI = Muu henkitorven kudosmuutos- tai vammaleikkaus
+
+@RUOTSI = Annan öppen operation för skada eller lokal förändring i trakea
+
+@END = 
+
+@KOODI = GBA98 
+
+@NCSP = GBSA98
+
+@SUOMI = Muu henkitorven kudosmuutos- tai vammaleikkaus tähystyksessä
+
+@RUOTSI = Annan endoskopisk operation för skada eller lokal förändring i trakea
+
+@END = 
+
+@KOODI_A = GBB
+
+@NCSP_A = GBSB
+
+@SUOMI_A = Henkitorven avanneleikkaukset
+
+@RUOTSI_A = Trakeostomi och härtill hörande operationer
+
+@ENGL_A = Tracheostomy and related operations
+
+@END = 
+
+@KOODI = GBB00 
+
+@NCSP = GBSB00
+
+@SUOMI = Henkitorviavanteen teko
+
+@RUOTSI = Trakeostomi
+
+@NOTE_F = Krikotyreotomia kohdassa DQA00
+
+@NOTE_S = Krikotyreotomi, se DQA00
+
+@END = 
+
+@KOODI = GBB03 
+
+@NCSP = GBSB03
+
+@SUOMI = Henkitorviavanteen teko pistämällä
+
+@RUOTSI = Perkutan trakeostomi
+
+@NOTE_F = Sisältää hätätrakeostomian
+
+@NOTE_S = Innefatta trakeostomi i nödsituation
+
+@END = 
+
+@KOODI = GBB13 
+
+@NCSP = GBSB13
+
+@SUOMI = Henkitorviavanteen tarkistaminen
+
+@RUOTSI = Revision av trakeostomi
+
+@END = 
+
+@KOODI = GBB18 
+
+@NCSP = GBSB18
+
+@SUOMI = Henkitorviavanteen sulku
+
+@RUOTSI = Förslutning av trakeostomi
+
+@END = 
+
+@KOODI = GBB96 
+
+@NCSP = GBSB96
+
+@SUOMI = Muu henkitorviavannetoimenpide
+
+@RUOTSI = Annan trakeostomirelaterad operation
+
+@END = 
+
+@KOODI_A = GBC
+
+@NCSP_A = GBSC
+
+@SUOMI_A = Henkitorven poisto ja korjausleikkaukset
+
+@RUOTSI_A = Resektion och rekonstruktion av trakea
+
+@ENGL_A = Resection and reconstruction of trachea
+
+@END = 
+
+@KOODI = GBC00 
+
+@NCSP = GBSC00
+
+@SUOMI = Henkitorven seinämäpoisto
+
+@RUOTSI = Resektion av trakea
+
+@NOTE_F = esim. kiilapoisto
+
+@NOTE_S = T ex kilresektion
+
+@END = 
+
+@KOODI = GBC03 
+
+@NCSP = GBSC03
+
+@SUOMI = Henkitorven osan poisto
+
+@RUOTSI = Segmentresektion av trakea med direkt reanastomos
+
+@END = 
+
+@KOODI = GBC06 
+
+@NCSP = GBSC06
+
+@SUOMI = Henkitorven osan poisto ja korjaus proteesin avulla
+
+@RUOTSI = Resektion och rekonstruktion av trakea med protes
+
+@END = 
+
+@KOODI = GBC10 
+
+@NCSP = GBSC10
+
+@SUOMI = Henkitorven harjun poisto ja korjaus
+
+@RUOTSI = Resektion och rekonstruktion av carina
+
+@END = 
+
+@KOODI = GBC13 
+
+@NCSP = GBSC13
+
+@SUOMI = Henkitorven harjun poisto ja korjaus siirteellä
+
+@RUOTSI = Resektion och rekonstruktion av carina med implantat
+
+@END = 
+
+@KOODI = GBC96 
+
+@NCSP = GBSC96
+
+@SUOMI = Muu henkitorven poisto ja korjaus
+
+@RUOTSI = Annan resektion och  rekonstruktion av trakea
+
+@END = 
+
+@KOODI_A = GBW
+
+@NCSP_A = GBSW
+
+@SUOMI_A = Muut henkitorven leikkaukset
+
+@RUOTSI_A = Andra operationer på trakea
+
+@ENGL_A = Other operations on trachea
+
+@END = 
+
+@KOODI = GBW96 
+
+@NCSP = GBSW96
+
+@SUOMI = Muu henkitorvileikkaus
+
+@RUOTSI = Annan operation på trakea
+
+@END = 
+
+@KOODI = GBW98 
+
+@NCSP = GBSW98
+
+@SUOMI = Muu henkitorvitoimenpide  tähystyksessä
+
+@RUOTSI = Annan endoskopisk operation på trakea
+
+@END = 
+
+@KOODI_A = GB_
+
+@NCSP_A = GBX
+
+@SUOMI_A = Muut henkitorven toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på trakea
+
+@ENGL_A = Other procedures of trachea
+
+@END = 
+
+@KOODI = TGB00 
+
+@NCSP = GBXX00
+
+@SUOMI = Neulakudosnäytteen otto henkitorvesta
+
+@RUOTSI = Punktionsbiopsi av trakea
+
+@END = 
+
+@KOODI_R = GC
+
+@SUOMI_R = Keuhkoputket
+
+@RUOTSI_R = Bronker
+
+@ENGL_R = Bronchus
+
+@NOTE_RF = Bronkoskopia kohdassa UGC
+
+@NOTE_RS = Bronkoskopi, se UGC
+
+@END = 
+
+@KOODI_A = GC_
+
+@NCSP_A = GCD
+
+@SUOMI_A = Keuhkoputkien diagnostinen radiologia
+
+@RUOTSI_A = DIagnositisk radiologi av bronker
+
+@ENGL_A = Diagnostic radiology of bronci
+
+@END = 
+
+@KOODI = GC1BB 
+
+@NCSP = GCDB1B
+
+@SUOMI = Keuhkoputkien varjoainetutkimus (bronkografia)
+
+@RUOTSI = Bronkografi
+
+@END = 
+
+@KOODI_A = GC_
+
+@NCSP_A = GCE
+
+@SUOMI_A = Keuhkoputkien tähystykset
+
+@RUOTSI_A = Endoskopi av bronker
+
+@ENGL_A = Endoscopy of bronci
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UGC02 
+
+@NCSP = GCE002
+
+@SUOMI = Keuhkoputkien tähystys jäykällä tähystimellä
+
+@RUOTSI = Bronkoskopi med rigida instrument
+
+@END = 
+
+@KOODI = UGC12 
+
+@NCSP = GCE012
+
+@SUOMI = Keuhkoputkien tähystys taipuisalla tähystimellä
+
+@RUOTSI = Bronkoskopi med flexibla instrument
+
+@END = 
+
+@KOODI_A = GCA
+
+@NCSP_A = GCS
+
+@SUOMI_A = Keuhkoputkien leikkaukset
+
+@RUOTSI_A = Operationer på bronker
+
+@ENGL_A = Operations on bronchus
+
+@END = 
+
+@KOODI = GCA02 
+
+@NCSP = GCSA02
+
+@SUOMI = Keuhkoputkien kudosmuutoksen poltto tähystyksessä
+
+@RUOTSI = Endobronkial elektrokoagulation av lokala förändringar i bronker
+
+@END = 
+
+@KOODI = GCA05 
+
+@NCSP = GCSA05
+
+@SUOMI = Keuhkoputken kudosmuutoksen poisto laserilla
+
+@RUOTSI = Endobronkial laserbehandling av lokal förändring i bronker
+
+@END = 
+
+@KOODI = GCA06 
+
+@NCSP = GCSA06
+
+@SUOMI = Keuhkoputken kudosmuutoksen poisto leikkauksessa
+
+@RUOTSI = Exstirpation av lokal förändring i bronker (öppen operation)
+
+@END = 
+
+@KOODI = GCA08 
+
+@NCSP = GCSA08
+
+@SUOMI = Keuhkoputken kudosmuutoksen poisto tähystyksessä
+
+@RUOTSI = Endobronkial exstirpation av lokal förändring i bronker
+
+@NOTE_F = Koepalan otto tähystyksessä kohdassa UGC
+
+@NOTE_F =
+Kun koko kudoskappale käytetään koepalana, tulee käyttää ryhmän UGC koodeja. Suuremman muutoksen poisto ilmaistaan tällä koodilla
+
+@NOTE_S = Biopsi vid bronkoskopi, se UGC
+
+@NOTE_S =
+När hela vävnadsbiten används som prov, bör man använda kod från grupp UGC. Större exstirpationer anges med detta kod.
+
+@END = 
+
+@KOODI = GCA10 
+
+@NCSP = GCSA10
+
+@SUOMI = Vierasesineen poisto keuhkoputkesta leikkauksessa
+
+@RUOTSI = Avlägsnande av främmande kropp ur bronker medelst öppen operation
+
+@END = 
+
+@KOODI = GCA12 
+
+@NCSP = GCSA12
+
+@SUOMI = Vierasesineen poisto keuhkoputkesta tähystyksessä
+
+@RUOTSI = Endobronkial extraktion av främmande kropp
+
+@END = 
+
+@KOODI = GCA18 
+
+@NCSP = GCSA18
+
+@SUOMI = Keuhkoputken laajennus tähystyksessä
+
+@RUOTSI = Endoskopisk dilatation av bronker
+
+@END = 
+
+@KOODI = GCA20 
+
+@NCSP = GCSA20
+
+@SUOMI = Keuhkoputken ompelu
+
+@RUOTSI = Sutur av bronker vid skada (trauma)
+
+@END = 
+
+@KOODI = GCA26 
+
+@NCSP = GCSA26
+
+@SUOMI = Keuhkoputken muovaus
+
+@RUOTSI = Bronkoplastik
+
+@END = 
+
+@KOODI = GCA30 
+
+@NCSP = GCSA30
+
+@SUOMI = Keuhkoputken muovaus proteesin avulla
+
+@RUOTSI = Bronkoplastik med protes
+
+@END = 
+
+@KOODI = GCA32 
+
+@NCSP = GCSA32
+
+@SUOMI = Keuhkoputken stentin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk installation av stent i bronker
+
+@NOTE_F = Trakean bifurkaatiossa oleva stentti koodataan trakean toimenpiteenä, katso GBA35
+
+@NOTE_S = Stent i bifurkation av trakea koderas i trakea, se GBA35
+
+@END = 
+
+@KOODI = GCA40 
+
+@NCSP = GCSA40
+
+@SUOMI = Keuhkoputken ja -pussin välisen avanteen sulkeminen
+
+@RUOTSI = Förslutning av bronkopleural fistel (öppen operation)
+
+@NOTE_F = Sisältää sirrännäisen (lihas, vatsapaita tms) käytön
+
+@NOTE_S = Inkl användande av transplantat (muskel, oment etc)
+
+@END = 
+
+@KOODI = GCA42 
+
+@NCSP = GCSA42
+
+@SUOMI = Keuhkoputki-keuhkopussiavanteen sulku keuhkoputken tähystyksessä
+
+@RUOTSI = Endoskopisk slutning av bronkopleural fistel
+
+@END = 
+
+@KOODI = GCA43 
+
+@NCSP = GCSA43
+
+@SUOMI = Muu keuhkoputken ja -pussin välisen avanteen sulku
+
+@RUOTSI = Annan slutning av bronkopleural fistel
+
+@END = 
+
+@KOODI = GCA50 
+
+@NCSP = GCSA50
+
+@SUOMI = Keuhkoputken seinämän poisto
+
+@RUOTSI = Resektion av bronk
+
+@NOTE_F = esim kiilapoisto,  wedge
+
+@NOTE_S = T ex kilresektion
+
+@END = 
+
+@KOODI = GCA60 
+
+@NCSP = GCSA60
+
+@SUOMI = Keuhkoputken osan poisto ja liittäminen  end-to-end
+
+@RUOTSI = Resektion av bronker med anastomos ända till ända
+
+@END = 
+
+@KOODI = GCA63 
+
+@NCSP = GCSA63
+
+@SUOMI = Keuhkoputken poisto, sleeve
+
+@RUOTSI = Segmentresektion av bronker, sleeve
+
+@END = 
+
+@KOODI = GCA70 
+
+@NCSP = GCSA70
+
+@SUOMI = Keuhkoputken poisto ja korjaus proteesin avulla
+
+@RUOTSI = Resektion och rekonstruktion av bronker med protes
+
+@END = 
+
+@KOODI = GCA96 
+
+@NCSP = GCSA96
+
+@SUOMI = Muu keuhkoputkien leikkaus leikkauksessa
+
+@RUOTSI = Annat operation på bronker
+
+@END = 
+
+@KOODI = GCA98 
+
+@NCSP = GCSA98
+
+@SUOMI = Muu keuhkoputkien toimenpide tähystyksessä
+
+@RUOTSI = Annan endoskopisk operation på bronker
+
+@END = 
+
+@KOODI_A = GC_
+
+@NCSP_A = GCX
+
+@SUOMI_A = Muut keuhkoputkien toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på bronker
+
+@ENGL_A = Other procedures of bronci
+
+@END = 
+
+@KOODI = TGC00 
+
+@NCSP = GCXX00
+
+@SUOMI = Keuhkoputkien huuhtelu
+
+@RUOTSI = Bronkial lavation
+
+@NOTE_F = Sisältää imun ja keuhkojen laajennuksen sekä mahdollisten näytteiden oton (BAL)
+
+@END = 
+
+@KOODI_R = GD
+
+@SUOMI_R = Keuhkot
+
+@RUOTSI_R = Lungor
+
+@ENGL_R = Lung
+
+@END = 
+
+@KOODI_A = GD_
+
+@NCSP_A = GDD
+
+@SUOMI_A = Keuhkoijen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av lungor
+
+@ENGL_A = Diagnostic radiology of lungs
+
+@END = 
+
+@KOODI = GD1AA 
+
+@NCSP = GDDA1A
+
+@SUOMI = Thoraxin natiiviröntgen
+
+@RUOTSI = Toraxröntgen
+
+@END = 
+
+@KOODI = GD1BA 
+
+@NCSP = GDDA1A
+
+@SUOMI = Thoraxin laaja natiiviröntgen
+
+@RUOTSI = Lungor, omfattande röntgen
+
+@END = 
+
+@KOODI = GD1CA 
+
+@NCSP = GDDA1C
+
+@SUOMI = Thoraxin pienoisröntgen
+
+@RUOTSI = Skärmbildsundersökning av torax
+
+@END = 
+
+@KOODI = GD1EA 
+
+@NCSP = GDDA1E
+
+@SUOMI = Thoraxin natiiviröntgen, kylkikuva *
+
+@RUOTSI = Translateral röntgen av torax *
+
+@END = 
+
+@KOODI = GD1HA 
+
+@NCSP = GDDA1H
+
+@SUOMI = Hengityselimistön tomografia
+
+@RUOTSI = Tomografi av lungor och mediastinum
+
+@END = 
+
+@KOODI = GD1LA 
+
+@NCSP = GDDA1L
+
+@SUOMI = Hengityselimistön läpivalaisu
+
+@RUOTSI = Genomlysning av andningsorgan
+
+@END = 
+
+@KOODI = GD1MA 
+
+@NCSP = GDDA1M
+
+@SUOMI = Sydän-thorax-natiiviröntgen
+
+@RUOTSI = Hjärt-torax röntgen
+
+@END = 
+
+@KOODI = GD1PA 
+
+@NCSP = GDDA1P
+
+@SUOMI = Thoraxin natiiviröntgen, yksi projektio
+
+@RUOTSI = Toraxröntgen, en projektion
+
+@NOTE_F = Esimerkiksi PA
+
+@NOTE_S = T.ex PA
+
+@END = 
+
+@KOODI = GD1QA 
+
+@NCSP = GDDA1Q
+
+@SUOMI = Thoraxin natiiviröntgen makuuasennossa
+
+@RUOTSI = Toraxröntgen i liggande
+
+@END = 
+
+@KOODI = GD1RA 
+
+@NCSP = GDDA1R
+
+@SUOMI = Hengityselimistön läpivalaisu ja natiiviröntgen
+
+@RUOTSI = Röntgen av andningsorgan med genomlysning
+
+@END = 
+
+@KOODI = GD1UA 
+
+@NCSP = GDDA1U
+
+@SUOMI = Thoraxin natiiviröntgen radiologian yksikön ulkopuolella
+
+@RUOTSI = Toraxröntgen utanför radiologisk enhet
+
+@END = 
+
+@KOODI = GD1AD 
+
+@NCSP = GDDD1A
+
+@SUOMI = Rintakehän alueen TT
+
+@RUOTSI = Toraxregion, DT
+
+@NOTE_F = Sisältää thoraxin ja mediastinumin elimet
+
+@NOTE_S = Innefattar organen i thorax och mediastinum
+
+@END = 
+
+@KOODI = GD1BD 
+
+@NCSP = GDDD1A
+
+@SUOMI = Rintakehän alueen laaja TT
+
+@RUOTSI = Toraxregion, omfattande DT
+
+@END = 
+
+@KOODI = GD1CD 
+
+@NCSP = GDDD1A
+
+@SUOMI = Rintakehän alueen erittäin laaja TT
+
+@RUOTSI = Toraxregion, mycket omfattande DT
+
+@END = 
+
+@KOODI = GD1DD 
+
+@NCSP = GDDD1E
+
+@SUOMI = Keuhkokudoksen HR-TT
+
+@RUOTSI = Lungor, högresolutions-DT
+
+@END = 
+
+@KOODI = GD1ED 
+
+@NCSP = GDDD1E
+
+@SUOMI = Keuhkokudoksen laaja HR-TT
+
+@RUOTSI = Lungor, omfattande högresolutions-DT
+
+@END = 
+
+@KOODI = YG1AD 
+
+@NCSP = GDDD1F
+
+@SUOMI = Rintakehän annossuunnittelu-TT
+
+@RUOTSI = Toraxregionens  DT för dosplanering
+
+@END = 
+
+@KOODI = YG1BD 
+
+@NCSP = GDDD1F
+
+@SUOMI = Rintakehän laaja annossuunnittelu-TT
+
+@RUOTSI = Toraxregionens  omfattande DT för dosplanering
+
+@END = 
+
+@KOODI = GD1PD 
+
+@NCSP = GDDD1P
+
+@SUOMI = Keuhkojen perfuusio TT
+
+@RUOTSI = Lungperfusionsundersökning med DT
+
+@END = 
+
+@KOODI = GD5AD 
+
+@NCSP = GDDD5A
+
+@SUOMI = Rintakehän ja ylävatsan TT
+
+@RUOTSI = Torax och övre delen av buken, DT
+
+@END = 
+
+@KOODI = GD5BD 
+
+@NCSP = GDDD5A
+
+@SUOMI = Rintakehän ja ylävatsan laaja TT
+
+@RUOTSI = Torax och övre delen av buken, omfattande DT
+
+@END = 
+
+@KOODI = GD5CD 
+
+@NCSP = GDDD5A
+
+@SUOMI = Rintakehän ja ylävatsan erittäin laaja TT
+
+@RUOTSI = Torax och övre delen av buken, mycket omfattande DT
+
+@END = 
+
+@KOODI = GD1BF 
+
+@NCSP = GDDG1B
+
+@SUOMI = Keuhkojen ja pleuran magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Lungor och pleura, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GD1BG 
+
+@NCSP = GDDG1B
+
+@SUOMI = Keuhkojen ja pleuran magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Lungor och pleura, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = GD1CF 
+
+@NCSP = GDDG1B
+
+@SUOMI = Keuhkojen ja pleuran laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Lungor och pleura, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GD1CG 
+
+@NCSP = GDDG1B
+
+@SUOMI = Keuhkojen ja pleuran laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Lungor och pleura, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = GD1DF 
+
+@NCSP = GDDG1B
+
+@SUOMI = Keuhkojen ja pleuran erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Lungor och pleura, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GD1DG 
+
+@NCSP = GDDG1B
+
+@SUOMI = Keuhkojen ja pleuran erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Lungor och pleura, mycket omfattande MR med  högfältsmagnet
+
+@END = 
+
+@KOODI = YG1VF 
+
+@NCSP = GDDG1F
+
+@SUOMI = Rintakehän alueen annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = Thoraxregion, MR för dosplanering med mellanfältsmagnet
+
+@END = 
+
+@KOODI = YG1VG 
+
+@NCSP = GDDG1F
+
+@SUOMI = Rintakehän alueen annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = Thoraxregion, MR för dosplanering med högfältsmagnet
+
+@END = 
+
+@KOODI_A = GD0
+
+@NCSP_A = GDO
+
+@SUOMI_A = Keuhkojen sädehoito
+
+@RUOTSI_A = Strålbehandling av lungorna
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = GD001 
+
+@NCSP = GDO001
+
+@SUOMI = Sädehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i lungorna
+
+@END = 
+
+@KOODI = GD002 
+
+@NCSP = GDO002
+
+@SUOMI = Radikaali henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i lungorna
+
+@END = 
+
+@KOODI = GD003 
+
+@NCSP = GDO003
+
+@SUOMI = Sädehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i lungorna
+
+@END = 
+
+@KOODI = GD004 
+
+@NCSP = GDO004
+
+@SUOMI = Sädehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i lungorna
+
+@END = 
+
+@KOODI = GD029 
+
+@NCSP = GDO029
+
+@SUOMI = Sädehoito henkitorven, keuhkoputkien ja keuhkojen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i lungorna
+
+@END = 
+
+@KOODI = GD049 
+
+@NCSP = GDO049
+
+@SUOMI = Sädehoito keuhkoissa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i lungorna
+
+@END = 
+
+@KOODI = GD090 
+
+@NCSP = GDO090
+
+@SUOMI = Sädehoito henkitorven, keuhkoputkien ja keuhkojen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av lungorna
+
+@END = 
+
+@KOODI = GD099 
+
+@NCSP = GDO099
+
+@SUOMI = Muu keuhkojen sädehoito
+
+@RUOTSI = Annan strålbehandling av lungorna
+
+@END = 
+
+@KOODI_A = GDA
+
+@NCSP_A = GDSA
+
+@SUOMI_A = Koepalan otot keuhkoista, keuhkon aukaisut ja ompelut
+
+@RUOTSI_A = Incision, lokal exstirpation och sutur av/ur lunga
+
+@ENGL_A = Incision, excision of lesion and repair of lung
+
+@NOTE_RF = Tähystys keuhkopussiavanteen kautta, trakeoskopia ja bronkoskopia sekä niihin liittyvät koepalan otot kohdassa GC, koodit UGC02 ja UGC12
+
+@NOTE_RS = Endoskopi genom pleurokutan fistel, trakeoskopi och bronkoskopi med eventuel biopsi, se GC, koderna UGC02 och UGC12
+
+@END = 
+
+@KOODI = GDA00 
+
+@NCSP = GDSA00
+
+@SUOMI = Keuhkon aukaisu ja kanavointi
+
+@RUOTSI = Incision av lunga (inkl dränage)
+
+@END = 
+
+@KOODI = GDA01 
+
+@NCSP = GDSA01
+
+@SUOMI = Keuhkon aukaisu ja kanavointi tähystyksessä
+
+@RUOTSI = Torakoskopisk incision av lunga (inkl dränage)
+
+@END = 
+
+@KOODI = GDA10 
+
+@NCSP = GDSA10
+
+@SUOMI = Koepalan otto keuhkoista leikkauksessa
+
+@RUOTSI = Lungbiopsi
+
+@END = 
+
+@KOODI = GDA11 
+
+@NCSP = GDSA11
+
+@SUOMI = Koepalan otto keuhkoista rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk lungbiopsi
+
+@NOTE_F = Tähystys pysyvän keuhkopussiavanteen kautta ja koepalan otto kohdassa UGA02
+
+@NOTE_S = Endoskopi genom pleurokutan fistel med eventuel biopsi, se UGA02
+
+@END = 
+
+@KOODI = GDA20 
+
+@NCSP = GDSA20
+
+@SUOMI = Keuhkon kudosmuutoksen paikallinen poistoleikkaus
+
+@RUOTSI = Exstirpation av lokal förändring i lunga
+
+@NOTE_F = Esim. kasvaimen poisto tai enukleaatio
+
+@NOTE_S = Inkl enukleation av tumör
+
+@END = 
+
+@KOODI = GDA21 
+
+@NCSP = GDSA21
+
+@SUOMI = Keuhkon kudosmuutoksen paikallinen poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk exstirpation av lokal förändring i lunga
+
+@NOTE_F = Esim. kasvaimen poisto tai enukleaatio
+
+@NOTE_S = Inkl enukleation av tumör
+
+@END = 
+
+@KOODI = GDA30 
+
+@NCSP = GDSA30
+
+@SUOMI = Keuhkon aukaisu ja vierasesineen poisto
+
+@RUOTSI = Pneumotomi och extraktion av främmande kropp
+
+@END = 
+
+@KOODI = GDA31 
+
+@NCSP = GDSA31
+
+@SUOMI = Keuhkon aukaisu ja vierasesineen poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk pneumotomi och extraktion av främmande kropp
+
+@END = 
+
+@KOODI = GDA40 
+
+@NCSP = GDSA40
+
+@SUOMI = Keuhkovamman korjaus leikkauksessa
+
+@RUOTSI = Revision och sutur av lungskada (öppen operation)
+
+@END = 
+
+@KOODI = GDA41 
+
+@NCSP = GDSA41
+
+@SUOMI = Keuhkovamman korjaus, rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk revision och sutur av lungskada
+
+@END = 
+
+@KOODI = GDA96 
+
+@NCSP = GDSA96
+
+@SUOMI = Muu keuhkon koepalan otto, aukaisu tai korjaus leikkauksessa
+
+@RUOTSI = Annan incision, lokal exstirpation eller sutur av lunga (öppen operation)
+
+@END = 
+
+@KOODI = GDA97 
+
+@NCSP = GDSA97
+
+@SUOMI = Muu keuhkon koepalan otto, aukaisu tai korjaus rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk incision, lokal exstirpation eller sutur av lunga
+
+@END = 
+
+@KOODI = GDA98 
+
+@NCSP = GDSA98
+
+@SUOMI = Muu keuhkon koepalan otto, aukaisu tai korjaus keuhkoputken tähystyksessä
+
+@RUOTSI = Annan bronkoskopisk lungoperation
+
+@END = 
+
+@KOODI_A = GDB
+
+@NCSP_A = GDSB
+
+@SUOMI_A = Keuhkojen osien poistoleikkaukset
+
+@RUOTSI_A = Lungresektioner
+
+@ENGL_A = Minor resections of lung
+
+@END = 
+
+@KOODI = GDB00 
+
+@NCSP = GDSB00
+
+@SUOMI = Keuhkorakkulan poisto
+
+@RUOTSI = Resektion av bulla
+
+@END = 
+
+@KOODI = GDB01 
+
+@NCSP = GDSB01
+
+@SUOMI = Keuhkorakkulan poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk resektion av bulla
+
+@END = 
+
+@KOODI = GDB10 
+
+@NCSP = GDSB10
+
+@SUOMI = Keuhkon kiilapoisto
+
+@RUOTSI = Kilresektion av lunga
+
+@END = 
+
+@KOODI = GDB11 
+
+@NCSP = GDSB11
+
+@SUOMI = Keuhkon kiilapoisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk kilresektion av lunga
+
+@END = 
+
+@KOODI = GDB20 
+
+@NCSP = GDSB20
+
+@SUOMI = Keuhkojaokkeen poisto
+
+@RUOTSI = Segmentresektion av lunga
+
+@END = 
+
+@KOODI = GDB21 
+
+@NCSP = GDSB21
+
+@SUOMI = Keuhkojaokkeen poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk segmentresektion av lunga
+
+@END = 
+
+@KOODI = GDB96 
+
+@NCSP = GDSB96
+
+@SUOMI = Muu keuhkon osan poistoleikkaus
+
+@RUOTSI = Annan lungresektion (öppen operation)
+
+@END = 
+
+@KOODI = GDB97 
+
+@NCSP = GDSB97
+
+@SUOMI = Muu keuhkon osan poisto rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk lungresektion
+
+@END = 
+
+@KOODI_A = GDC
+
+@NCSP_A = GDSC
+
+@SUOMI_A = Keuhkolohkojen poistoleikkaukset
+
+@RUOTSI_A = Lobektomioperationer på lungor
+
+@ENGL_A = Lobectomy of lung
+
+@END = 
+
+@KOODI = GDC00 
+
+@NCSP = GDSC00
+
+@SUOMI = Keuhkolohkon poistoleikkaus
+
+@RUOTSI = Lobektomi av lunga (öppen operation)
+
+@END = 
+
+@KOODI = GDC01 
+
+@NCSP = GDSC01
+
+@SUOMI = Keuhkolohkon poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk lobektomi av lunga
+
+@END = 
+
+@KOODI = GDC10 
+
+@NCSP = GDSC10
+
+@SUOMI = Kahden keuhkolohkon poistoleikkaus
+
+@RUOTSI = Bilobektomi av lunga (öppen operation)
+
+@END = 
+
+@KOODI = GDC11 
+
+@NCSP = GDSC11
+
+@SUOMI = Kahden keuhkolohkon poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk bilobektomi av lunga
+
+@END = 
+
+@KOODI = GDC13 
+
+@NCSP = GDSC13
+
+@SUOMI = Laajennettu yhden tai kahden keuhkolohkon poisto poisto
+
+@RUOTSI = Utvidgad lobektomi eller bilobektomi av lunga
+
+@NOTE_F = Sisältää toimenpiteeseen liittyvän sydänpussin, sydämen eteisen, rintakehänseinämän tai pallean osittaisen poiston
+
+@NOTE_S = Innefattar excision av perikardium, hjärtans förmak, bröstkorg eller diafragm
+
+@END = 
+
+@KOODI = GDC20 
+
+@NCSP = GDSC20
+
+@SUOMI = Keuhkolohkon poistoleikkaus ja  sleeveresektio
+
+@RUOTSI = Lobektomi av lunga med sleeve-bronkresektion
+
+@END = 
+
+@KOODI = GDC23 
+
+@NCSP = GDSC23
+
+@SUOMI = Keuhkolohkon ja -jaokkeen poistoleikkaus
+
+@RUOTSI = Lobektomi av lunga med segmentresektion
+
+@END = 
+
+@KOODI = GDC26 
+
+@NCSP = GDSC26
+
+@SUOMI = Keuhkolohkon ja muun keuhkon osan poistoleikkaus
+
+@RUOTSI = Lobektomi av lunga med annan resektion
+
+@END = 
+
+@KOODI = GDC96 
+
+@NCSP = GDSC96
+
+@SUOMI = Muu keuhkolohkon poistoleikkaus
+
+@RUOTSI = Annan lobektomioperation på lunga (öppen operation)
+
+@END = 
+
+@KOODI = GDC97 
+
+@NCSP = GDSC97
+
+@SUOMI = Muu keuhkolohkon poisto rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk lobektomioperation på lunga
+
+@END = 
+
+@KOODI_A = GDD
+
+@NCSP_A = GDSD
+
+@SUOMI_A = Koko keuhkon poistoleikkaukset
+
+@RUOTSI_A = Pneumektomi
+
+@ENGL_A = Pneumonectomy
+
+@END = 
+
+@KOODI = GDD00 
+
+@NCSP = GDSD00
+
+@SUOMI = Keuhkonpoistoleikkaus
+
+@RUOTSI = Pneumektomi (öppen operation)
+
+@END = 
+
+@KOODI = GDD01 
+
+@NCSP = GDSD01
+
+@SUOMI = Keuhkonpoisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk pneumektomi
+
+@END = 
+
+@KOODI = GDD10 
+
+@NCSP = GDSD10
+
+@SUOMI = Keuhkopussin ja keuhkon poistoleikkaus
+
+@RUOTSI = Pleuropneumektomi (öppen operation)
+
+@END = 
+
+@KOODI = GDD11 
+
+@NCSP = GDSD11
+
+@SUOMI = Keuhkopussin ja keuhkon poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk pleuropneumektomi
+
+@END = 
+
+@KOODI = GDD20 
+
+@NCSP = GDSD20
+
+@SUOMI = Laajennettu keuhkonpoistoleikkaus
+
+@RUOTSI = Utvidgad pneumektomi
+
+@NOTE_F = Sisältää tarpeen mukaan sydäpussin, eteisten, rintakehän ja pallean poiston
+
+@NOTE_S = Inkl eventuel excision av perikard, förmak, bröstvägg eller diafragma
+
+@END = 
+
+@KOODI = GDD23 
+
+@NCSP = GDSD23
+
+@SUOMI = Keuhkonpoisto ja henkitorven harjun poisto osittain
+
+@RUOTSI = Pneumektomi och resektion av carina
+
+@END = 
+
+@KOODI = GDD26 
+
+@NCSP = GDSD26
+
+@SUOMI = Keuhkonpoisto ja keuhkoputken tai henkitorven poisto osittain
+
+@RUOTSI = Pneumektomi + resektion av bronker/trakea
+
+@END = 
+
+@KOODI = GDD96 
+
+@NCSP = GDSD96
+
+@SUOMI = Muu avoin keuhkonpoistoleikkaus
+
+@RUOTSI = Annan öppen pneumektomi
+
+@END = 
+
+@KOODI = GDD97 
+
+@NCSP = GDSD97
+
+@SUOMI = Muu keuhkonpoistoleikkaus rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk pneumektomi
+
+@END = 
+
+@KOODI_A = GDG
+
+@NCSP_A = GDSG
+
+@SUOMI_A = Keuhkonsiirtoleikkaukset
+
+@RUOTSI_A = Lungtransplantationer
+
+@ENGL_A = Transplantation of lung
+
+@END = 
+
+@KOODI = GDG00 
+
+@NCSP = GDSG00
+
+@SUOMI = Yhden keuhkon siirto
+
+@RUOTSI = Unilateral lungtransplantation
+
+@END = 
+
+@KOODI = GDG03 
+
+@NCSP = GDSG03
+
+@SUOMI = Yhden keuhkon siirto keuhkoputkivaltimot yhdistäen
+
+@RUOTSI = Unilateral lungtransplantation med anastomos av bronkialartärer
+
+@END = 
+
+@KOODI = GDG10 
+
+@NCSP = GDSG10
+
+@SUOMI = Molempien keuhkojen siirto
+
+@RUOTSI = Transplantation av båda lungorna
+
+@END = 
+
+@KOODI = GDG13 
+
+@NCSP = GDSG13
+
+@SUOMI = Molempien keuhkojen siirto  en bloc  keuhkoputkivaltimot yhdistäen
+
+@RUOTSI = Transplantation av båda lungorna en bloc med anastomos av bronkialartärer
+
+@END = 
+
+@KOODI = GDG30 
+
+@NCSP = GDSG30
+
+@SUOMI = Keuhkonsiirto elävältä luovuttajalta
+
+@RUOTSI = Lungtransplantation från levande donator
+
+@END = 
+
+@KOODI = GDG96 
+
+@NCSP = GDSG96
+
+@SUOMI = Muu keuhkojen siirtoleikkaus
+
+@RUOTSI = Annan lungtransplantation
+
+@END = 
+
+@KOODI_A = GDW
+
+@NCSP_A = GDSW
+
+@SUOMI_A = Muut keuhkoleikkaukset
+
+@RUOTSI_A = Andra operationer på lungorna
+
+@ENGL_A = Other operations on lung
+
+@END = 
+
+@KOODI = GDW96 
+
+@NCSP = GDSW96
+
+@SUOMI = Muu avoin keuhkoleikkaus
+
+@RUOTSI = Annan öppen operation på lungor
+
+@END = 
+
+@KOODI = GDW97 
+
+@NCSP = GDSW97
+
+@SUOMI = Muu keuhkoleikkaus tähystäen rintaontelon kautta
+
+@RUOTSI = Annan torakoskopisk operation på lungorna
+
+@END = 
+
+@KOODI = GDW98 
+
+@NCSP = GDSW98
+
+@SUOMI = Muu keuhkoleikkaus tähystäen keuhkoputken kautta
+
+@RUOTSI = Annan bronkoskopisk operation på lungorna
+
+@END = 
+
+@KOODI_A = GD_
+
+@NCSP_A = GDX
+
+@SUOMI_A = Muut keuhkojen toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på lungor
+
+@ENGL_A = Other procedures of lungs
+
+@END = 
+
+@KOODI = GD1AT 
+
+@NCSP = GDXX00
+
+@SUOMI = Keuhkon kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Lunga, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = GD1BT 
+
+@NCSP = GDXX00
+
+@SUOMI = Keuhkon kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Lunga, genomlysningsstyrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = GD1CT 
+
+@NCSP = GDXX00
+
+@SUOMI = Keuhkon kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Lunga, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TGD00 
+
+@NCSP = GDXX00
+
+@SUOMI = Neulakudosnäytteen otto keuhkosta
+
+@RUOTSI = Punktionsbiopsi av lunga
+
+@NOTE_F = Radiologisesti ohjattu toimenpide, katso GD1AT, GD1BT, GD1CT, GD2AT, GD2BT tai GD2CT
+
+@NOTE_S = Radiologiskt utstyrd, se GD1AT, GD1BT, GD1CT, GD2AT, GD2BT eller GD2CT
+
+@END = 
+
+@KOODI = GD2BT 
+
+@NCSP = GDXX04
+
+@SUOMI = Keuhkon solunäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Lunga, genomlysningsstyrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GD2CT 
+
+@NCSP = GDXX04
+
+@SUOMI = Keuhkon solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Lunga, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GD3CT 
+
+@NCSP = GDXX04
+
+@SUOMI = Keuhkon merkkaus TT-ohjauksessa
+
+@RUOTSI = Lunga, DT-styrd märkning
+
+@END = 
+
+@KOODI = TGD04 
+
+@NCSP = GDXX04
+
+@SUOMI = Kudosnäytteen otto keuhkosta keuhkoputkentähystyksessä
+
+@RUOTSI = Punktionsbiopsi av lunga genom bronkoskopi
+
+@END = 
+
+@KOODI = GD2AT 
+
+@NCSP = GDXX10
+
+@SUOMI = Keuhkon solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Lunga, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI_R = GE
+
+@SUOMI_R = Välikarsina
+
+@RUOTSI_R = Mediastinum (inkl tymus)
+
+@ENGL_R = Mediastinum
+
+@NOTE_RF = Sydämen toimenpiteet luvussa F paitsi eräät diagnostisen radiologian ja sädehoidon toimenpiteet
+
+@NOTE_RS = Hjärtat med undantag av vissa diagnostiska radiologiska åtgärder och radioterapi, se kapitel F
+
+@END = 
+
+@KOODI_A = GE_
+
+@NCSP_A = GED
+
+@SUOMI_A = Välikarsinan diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av mediastinum
+
+@ENGL_A = Diagnostic radiology of mediastinum
+
+@END = 
+
+@KOODI = GE1BE 
+
+@NCSP = GEDE1B
+
+@SUOMI = Välikarsinan UÄ ruokatorven kautta
+
+@RUOTSI = Mediastinum, UL med transesofagealteknik
+
+@END = 
+
+@KOODI = GE1BF 
+
+@NCSP = GEDG1B
+
+@SUOMI = Sydämen ja mediastinumin magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärta och mediastinum, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GE1BG 
+
+@NCSP = GEDG1B
+
+@SUOMI = Sydämen ja mediastinumin magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärta och mediastinum, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = GE1CF 
+
+@NCSP = GEDG1B
+
+@SUOMI = Sydämen ja mediastinumin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärta och mediastinum, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GE1CG 
+
+@NCSP = GEDG1B
+
+@SUOMI = Sydämen ja mediastinumin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärta och mediastinum, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = GE1DF 
+
+@NCSP = GEDG1B
+
+@SUOMI = Sydämen ja mediastinumin erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärta och mediastinum, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = GE1DG 
+
+@NCSP = GEDG1B
+
+@SUOMI = Sydämen ja mediastinumin erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR av hjärta och mediastinum med högfältsmagnet, mycket omfattande
+
+@END = 
+
+@KOODI_A = GE0
+
+@NCSP_A = GEO
+
+@SUOMI_A = Välikarsinan sädehoito
+
+@RUOTSI_A = Strålbehandling av mediastinum
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RF =
+Sisältää sydämen sädehoidon
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@NOTE_RS =
+Inkl strålbehandling av hjärtat
+
+@END = 
+
+@KOODI = GE001 
+
+@NCSP = GEO001
+
+@SUOMI = Sädehoito välikarsinan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i mediastinum
+
+@END = 
+
+@KOODI = GE002 
+
+@NCSP = GEO002
+
+@SUOMI = Radikaali välikarsinan  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i mediastinum
+
+@END = 
+
+@KOODI = GE003 
+
+@NCSP = GEO003
+
+@SUOMI = Sädehoito välikarsinan  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i mediastinum
+
+@END = 
+
+@KOODI = GE004 
+
+@NCSP = GEO004
+
+@SUOMI = Sädehoito välikarsinan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Pahliativ strålbehandling av primärtumör i mediastinum
+
+@END = 
+
+@KOODI = GE029 
+
+@NCSP = GEO029
+
+@SUOMI = Sädehoito välikarsinan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i mediastinum
+
+@END = 
+
+@KOODI = GE049 
+
+@NCSP = GEO049
+
+@SUOMI = Sädehoito välikarsinassa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i mediastinum
+
+@END = 
+
+@KOODI = GE090 
+
+@NCSP = GEO090
+
+@SUOMI = Sädehoito välikarsinan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av mediastinum
+
+@END = 
+
+@KOODI = GE099 
+
+@NCSP = GEO099
+
+@SUOMI = Muu välikarsinan sädehoito
+
+@RUOTSI = Annan strålbehandling av mediastinum
+
+@END = 
+
+@KOODI_A = GEA
+
+@NCSP_A = GESA
+
+@SUOMI_A = Välikarsinan tähystykset
+
+@RUOTSI_A = Mediastinoskopier
+
+@ENGL_A = Mediastinoscopy
+
+@NOTE_RF = Kateenkorvan tähystystoimenpiteet, katso GEC
+
+@NOTE_RS = Mediastinoskopiska operationer på tymus, se GEC
+
+@END = 
+
+@KOODI = GEA00 
+
+@NCSP = GESA00
+
+@SUOMI = Välikarsinan tähystys
+
+@RUOTSI = Mediastinoskopi (inkl dränage)
+
+@END = 
+
+@KOODI = GEA10 
+
+@NCSP = GESA10
+
+@SUOMI = Välikarsinan tähystys ja vierasesineen poisto
+
+@RUOTSI = Mediastinoskopi med avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = GEA20 
+
+@NCSP = GESA20
+
+@SUOMI = Välikarsinan tähystys ja kasvaimen tai kudosmuutoksen poisto
+
+@RUOTSI = Mediastinoskopi med exstirpation av lokal vävnadsförändring (inkl biopsi)
+
+@END = 
+
+@KOODI = GEA96 
+
+@NCSP = GESA96
+
+@SUOMI = Muu välikarsinan tähystystoimenpide
+
+@RUOTSI = Annan mediastinoskopisk operation
+
+@END = 
+
+@KOODI_A = GEB
+
+@NCSP_A = GESB
+
+@SUOMI_A = Välikarsinan aukaisu- ja poistoleikkaukset
+
+@RUOTSI_A = Mediastinotomi
+
+@ENGL_A = Mediastinotomy
+
+@END = 
+
+@KOODI = GEB10 
+
+@NCSP = GESB10
+
+@SUOMI = Välikarsinan aukaisu
+
+@RUOTSI = Mediastinotomi
+
+@NOTE_F = Sisältää kanavoinin
+
+@NOTE_S = Inkl dränage
+
+@END = 
+
+@KOODI = GEB20 
+
+@NCSP = GESB20
+
+@SUOMI = Välikarsinan aukaisu ja vierasesineen poisto
+
+@RUOTSI = Mediastinotomi med exstirpation av främmande kropp
+
+@END = 
+
+@KOODI = GEB30 
+
+@NCSP = GESB30
+
+@SUOMI = Välikarsinan kasvaimen poisto
+
+@RUOTSI = Mediastinotomi med exstirpation av tumör/lokal förändring
+
+@END = 
+
+@KOODI = GEB40 
+
+@NCSP = GESB40
+
+@SUOMI = Välikarsinan tyhjennys
+
+@RUOTSI = Utvidgad exstirpation av vävnader ur mediastinum
+
+@NOTE_F = Sisältää keuhkojen sekä keuhko- ja sydänpussien osien poistoja
+
+@NOTE_S = Inkl pleura, lungvävnad och pericardium
+
+@END = 
+
+@KOODI = GEB96 
+
+@NCSP = GESB96
+
+@SUOMI = Muu välikarsinan aukaisutoimenpide
+
+@RUOTSI = Annan operation via mediastinotomi
+
+@END = 
+
+@KOODI_A = GEC
+
+@NCSP_A = GESC
+
+@SUOMI_A = Kateenkorvan toimenpiteet
+
+@RUOTSI_A = Åtgärder på tymus
+
+@ENGL_A = Operations on thymus
+
+@END = 
+
+@KOODI = GEC00 
+
+@NCSP = GESC00
+
+@SUOMI = Koepalan otto kateenkorvasta, avoin leikkaus
+
+@RUOTSI = Öppen biopsi av tymus
+
+@END = 
+
+@KOODI = GEC03 
+
+@NCSP = GESC03
+
+@SUOMI = Koepalan otto kateenkorvasta välikarsinan tähystyksessä
+
+@RUOTSI = Endoskopisk biopsi av tymus
+
+@END = 
+
+@KOODI = GEC10 
+
+@NCSP = GESC10
+
+@SUOMI = Kateenkorvan osapoisto kaulalta
+
+@RUOTSI = Transcervikal resektion av tymus
+
+@END = 
+
+@KOODI = GEC13 
+
+@NCSP = GESC13
+
+@SUOMI = Kateenkorvan osapoisto rintalasta-aukaisun kautta
+
+@RUOTSI = Transsternal resektion av tymus
+
+@END = 
+
+@KOODI = GEC14 
+
+@NCSP = GESC14
+
+@SUOMI = Kateenkorvan osapoisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk resektion av tymus
+
+@END = 
+
+@KOODI = GEC16 
+
+@NCSP = GESC16
+
+@SUOMI = Kateenkorvan osapoisto välikarsinan tähystyksessä
+
+@RUOTSI = Mediastinoskopisk resektion av tymus
+
+@END = 
+
+@KOODI = GEC20 
+
+@NCSP = GESC20
+
+@SUOMI = Kateenkorvan poisto kaulalta
+
+@RUOTSI = Transcervikal total tymektomi
+
+@END = 
+
+@KOODI = GEC23 
+
+@NCSP = GESC23
+
+@SUOMI = Kateenkorvan poisto rintalastan kautta
+
+@RUOTSI = Transsternal total tymektomi
+
+@END = 
+
+@KOODI = GEC24 
+
+@NCSP = GESC24
+
+@SUOMI = Kateenkorvan poisto rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk total tymektomi
+
+@END = 
+
+@KOODI = GEC26 
+
+@NCSP = GESC26
+
+@SUOMI = Kateenkorvan poisto välikarsinan tähystyksessä
+
+@RUOTSI = Annan endoskopisk operation på tymus
+
+@END = 
+
+@KOODI = GEC96 
+
+@NCSP = GESC96
+
+@SUOMI = Muu avoin kateenkorvan leikkaus
+
+@RUOTSI = Annan öppen tymusoperation
+
+@END = 
+
+@KOODI = GEC97 
+
+@NCSP = GESC97
+
+@SUOMI = Muu kateenkorvaleikkaus rintaontelon tähystyksessä
+
+@RUOTSI = Annan torakoskopisk tymusoperation
+
+@END = 
+
+@KOODI_A = GEW
+
+@NCSP_A = GESW
+
+@SUOMI_A = Muut välikarsinan leikkaukset
+
+@RUOTSI_A = Andra operationer i mediastinum
+
+@ENGL_A = Other operations on mediastinum
+
+@END = 
+
+@KOODI = GEW99 
+
+@NCSP = GESW99
+
+@SUOMI = Muu välikarsina- ja kateenkorvaleikkaus
+
+@RUOTSI = Andra operationer på tymus/mediastinum
+
+@END = 
+
+@KOODI_A = GE_
+
+@NCSP_A = GEX
+
+@SUOMI_A = Muut välikarsinan toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på mdiastinum
+
+@ENGL_A = Other procedures of mediastinum
+
+@END = 
+
+@KOODI = GE1AT 
+
+@NCSP = GEXX00
+
+@SUOMI = Välikarsinan kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Mediastinum, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = GE1CT 
+
+@NCSP = GEXX00
+
+@SUOMI = Välikarsinan kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Mediastinum, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = GE1DT 
+
+@NCSP = GEXX00
+
+@SUOMI = Välikarsinan kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = Mediastinum, MR-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TGE00 
+
+@NCSP = GEXX00
+
+@SUOMI = Neulakudosnäytteen otto välikarsinasta
+
+@RUOTSI = Punktionsbiopsi av mediastinum
+
+@NOTE_F = Radiologisesti ohjattu toimenpide, katso GE1AT, GE1BT, GE1CT, GE2AT, GE2BT tai GE2CT
+
+@NOTE_S = Radiologiskt utstyrd, se GE1AT, GE1BT, GE1CT, GE2AT, GE2BT eller GE2CT
+
+@END = 
+
+@KOODI = GE2AT 
+
+@NCSP = GEXX02
+
+@SUOMI = Välikarsinan solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Mediastinum, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GE2CT 
+
+@NCSP = GEXX02
+
+@SUOMI = Välikarsinan solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Mediastinum, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = GE2DT 
+
+@NCSP = GEXX02
+
+@SUOMI = Välikarsinan solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = Mediastinum, MR-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI_R = GW
+
+@SUOMI_R = Leikkauskomplikaatioiden vuoksi tehdyt thoraxkirurgiset uusintaleikkaukset
+
+@RUOTSI_R = Thorax kirurgiska reoperationer för sårkomplikationer
+
+@ENGL_R = Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+
+@END = 
+
+@KOODI = GWA00 
+
+@NCSP = GWSA00
+
+@SUOMI = Auenneen tai tulehtuneen rintaontelo-, välikarsina- tai keuhkoleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/-infektion efter op. på pleura, mediastinum eller lungor
+
+@END = 
+
+@KOODI = GWC00 
+
+@NCSP = GWSC00
+
+@SUOMI = Rintaontelo-, välikarsina- tai keuhkoleikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Revision av sårinfektion efter op. på pleura, mediastinum eller lungor (inkl drän)
+
+@END = 
+
+@KOODI = GWE00 
+
+@NCSP = GWSE00
+
+@SUOMI = Uusintaleikkaus rintaontelo-, välikarsina- tai keuhkoleikkauksen jälkeisen haavaontelon vuodon vuoksi
+
+@RUOTSI = Reoperation p.g.a. blödning efter op. på pleura, mediastinum eller lungor
+
+@END = 
+
+@KOODI = GWF00 
+
+@NCSP = GWSF00
+
+@SUOMI = Rintaontelo-, välikarsina- tai keuhkoleikkauksen liitosompeleiden tarkistaminen
+
+@RUOTSI = Revision av anastomoser efter op. på pleura, mediastinum eller lungor
+
+@END = 
+
+@KOODI = GWW96 
+
+@NCSP = GWSW96
+
+@SUOMI = Muu rintaontelo-, välikarsina- ja keuhkoleikkauksen komplikaatioleikkaus
+
+@RUOTSI = Annan reoper. för komplikation efter op. på pleura, mediastinum eller lungor
+
+@END = 
+
+@KOODI_R = GX
+
+@SUOMI_R = Muut rintaontelon toimenpiteet
+
+@RUOTSI_R = Andra torakala åtgärder
+
+@ENGL_R = Other respiratory system procedures
+
+@END = 
+
+@KOODI_A = GX_
+
+@NCSP_A = GXD
+
+@SUOMI_A = Muu rintaontelon diagnostinen radiologia
+
+@RUOTSI_A = Annan diagnostisk radiologi i torax regionen
+
+@ENGL_A = Other diagnostic procedures of thorax
+
+@END = 
+
+@KOODI = XGX10 
+
+@NCSP = GXDE00
+
+@SUOMI = Ultraäänitutkimus keuhkon pinnalta
+
+@RUOTSI = Intrapleural ultraljudsundersökning
+
+@NOTE_F = Epikardiaalinen UÄ, ks XFE00 tai XFE01
+
+@NOTE_S = Epikardiellt ultraljud, se XFE00 eller XFE01
+
+@END = 
+
+@KOODI = XGX21 
+
+@NCSP = GXDE02
+
+@SUOMI = Ultraäänitutkimus rintaontelon tähystyksessä
+
+@RUOTSI = Torakoskopisk ultraljudsundersökning
+
+@NOTE_F = Epikardiaalinen UÄ, ks XFE01
+
+@NOTE_S = Epikardiellt ultraljud, se XFE01
+
+@END = 
+
+@KOODI = XGX32 
+
+@NCSP = GXDE04
+
+@SUOMI = Ultraäänitutkimus keuhkoputken tähystyksessä
+
+@RUOTSI = Bronkoskopisk ultraljudsundersökning
+
+@END = 
+
+@KOODI = XGX96 
+
+@NCSP = GXDE09
+
+@SUOMI = Muu rintaontelon ultraäänitutkimus leikkauksen tai tähystyksen aikana
+
+@RUOTSI = Annan intraoperativ eller endoskopisk torakal ultraljudsundersökning
+
+@END = 
+
+@KOODI_A = GX_
+
+@NCSP_A = GXF
+
+@SUOMI_A = Muut rintaontelon diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder i torax
+
+@ENGL_A = Other diagnostic procedures of thorax
+
+@END = 
+
+@KOODI = XG400 
+
+@NCSP = GXF400
+
+@SUOMI = Hengitysäänianalyysi
+
+@RUOTSI = Andningsljud analys
+
+@END = 
+
+@KOODI = XG404 
+
+@NCSP = GXF404
+
+@SUOMI = Uloshengityksen huippuvirtausmittaus
+
+@RUOTSI = PEF mätning
+
+@NOTE_F = PEF
+
+@END = 
+
+@KOODI = XG410 
+
+@NCSP = GXF410
+
+@SUOMI = Virtaus-tilavuus spirometria
+
+@RUOTSI = Flow-volym spirometri
+
+@NOTE_F = Sisältä ns. minispirometrian
+
+@NOTE_S = Innefatta minispirometri
+
+@END = 
+
+@KOODI = XG412 
+
+@NCSP = GXF412
+
+@SUOMI = Virtaus-tilavuusspirometria ja bronkodilataatiokoe
+
+@RUOTSI = Flow-volym spirometri med bronkodilatation
+
+@END = 
+
+@KOODI = XG416 
+
+@NCSP = GXF416
+
+@SUOMI = Maksimaalisten hengitystiepaineiden mittaus
+
+@RUOTSI = Mätning av maksimala luftvägstrycken
+
+@END = 
+
+@KOODI = XG420 
+
+@NCSP = GXF420
+
+@SUOMI = Aika-tilavuus spirometria
+
+@RUOTSI = Tid-volym spirometri
+
+@END = 
+
+@KOODI = XG422 
+
+@NCSP = GXF422
+
+@SUOMI = Aika-tilavuus spirometria ja bronkodilataatiokoe
+
+@RUOTSI = Tid-volum spirometri med bronkodilatation
+
+@END = 
+
+@KOODI = XG424 
+
+@NCSP = GXF424
+
+@SUOMI = Tahdonalaisen maksimiventilaation mittaus
+
+@RUOTSI = Mätning av maksimal utandnings capasität
+
+@END = 
+
+@KOODI = XG430 
+
+@NCSP = GXF430
+
+@SUOMI = Spiroergometria
+
+@RUOTSI = Spiroergometri
+
+@END = 
+
+@KOODI = XG432 
+
+@NCSP = GXF432
+
+@SUOMI = Kylmäilma-altistus ja spiroergometria
+
+@RUOTSI = Kall exponering with sipirometry
+
+@END = 
+
+@KOODI = XG434 
+
+@NCSP = GXF434
+
+@SUOMI = Spiroergometria ja verikaasuarvojen seuranta
+
+@RUOTSI = Spirometri med blodgasanalys
+
+@END = 
+
+@KOODI = XG440 
+
+@NCSP = GXF440
+
+@SUOMI = Koko vartalon pletysmografia
+
+@RUOTSI = Hela kroppens pletysmografi
+
+@END = 
+
+@KOODI = XG442 
+
+@NCSP = GXF442
+
+@SUOMI = Koko vartalon pletysmografia ja bronkodilataatiokoe
+
+@RUOTSI = Hela kroppens pletysmografi med bronkodilatatioon
+
+@END = 
+
+@KOODI = XG460 
+
+@NCSP = GXF460
+
+@SUOMI = Lyhytaikainen oksimetria
+
+@RUOTSI = Kort tids oximetri
+
+@END = 
+
+@KOODI = XG462 
+
+@NCSP = GXF462
+
+@SUOMI = Keuhkoperfuusion moni-ilmaisin tutkimus
+
+@RUOTSI = Undersökning av lungperfusion med multikanal analysator
+
+@NOTE_F = Oikovirtausmittaus happihengityksessä
+
+@NOTE_S = Genflödesmätning under syreventilation
+
+@END = 
+
+@KOODI = XG464 
+
+@NCSP = GXF464
+
+@SUOMI = Keuhkoventilaation moni-ilmaisin tutkimus
+
+@RUOTSI = Undersökning av lungventilation med med multikanal analysator
+
+@END = 
+
+@KOODI = XG466 
+
+@NCSP = GXF466
+
+@SUOMI = Unioksimetria
+
+@RUOTSI = Sömnoksimetri
+
+@END = 
+
+@KOODI = XG470 
+
+@NCSP = GXF470
+
+@SUOMI = Diffuusiokapasiteetti
+
+@RUOTSI = Diffusions kapasität
+
+@END = 
+
+@KOODI = XG472 
+
+@NCSP = GXF472
+
+@SUOMI = Yhden henkäyksen nitrografia
+
+@RUOTSI = Nitrographi från en utandning
+
+@END = 
+
+@KOODI = XG474 
+
+@NCSP = GXF474
+
+@SUOMI = Uloshengityksen typpioksidianalyysi
+
+@RUOTSI = NO analys av utandning
+
+@END = 
+
+@KOODI = XG476 
+
+@NCSP = GXF476
+
+@SUOMI = Hengityksen säätely ja CO2 stimulaatio
+
+@RUOTSI = Undersökning av andnings reglering och CO2 stimulation
+
+@END = 
+
+@KOODI = XG480 
+
+@NCSP = GXF480
+
+@SUOMI = Hengitysteiden epäspesifinen altistuskoe (histamiinikoe)
+
+@RUOTSI = Ospesifik provokation av andningsvägar med histamin
+
+@NOTE_F = Sisältää histamiini- ja metakoliinialtisuksen
+
+@END = 
+
+@KOODI = XG488 
+
+@NCSP = GXF488
+
+@SUOMI = Hengitysteiden muu altistuskoe
+
+@RUOTSI = Annan provokation av andningsvägar
+
+@NOTE_F = Esim. spesifisellä allergeenilla
+
+@END = 
+
+@KOODI = XG499 
+
+@NCSP = GXF499
+
+@SUOMI = Muu hengitysfunktion kliinis-fysiologinen tutkimus
+
+@RUOTSI = Annan klinis-fysiologisk undersökning av andnings funktion
+
+@END = 
+
+@KOODI_A = GX_
+
+@NCSP_A = GXX
+
+@SUOMI_A = Muut rintaontelon toimenpiteet
+
+@RUOTSI_A = Andra thorakala åtgärder
+
+@ENGL_A = Other procedures of thorax
+
+@END = 
+
+@KOODI = TGW99 
+
+@NCSP = GXXX99
+
+@SUOMI = Muu rintakehän alueen pientoimenpide
+
+@RUOTSI = Annan mindre åtgärd i thorakal regionen
+
+@END = 

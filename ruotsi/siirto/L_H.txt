@@ -1,0 +1,476 @@
+
+###
+#KOODI_L    H
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på bröst
+#RUOTSI     ---
+#ENGL       Mammary gland  procedures
+###
+#KOODI_A    HAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi och incision av bröstkörtel
+#RUOTSI     ---
+#ENGL       Incision, suture and biopsy of mammary gland
+###
+#KOODI      HAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delresektion av bröstkörtel
+#RUOTSI     ---
+#ENGL       Partial excision of mammary gland
+###
+#KOODI      HAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av förändring i bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion eller exstirpation av mjölkgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av areola eller mamill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion av bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga HAB
+#OHJE_R 
+---
+###
+#KOODI_A    HAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total mastektomi
+#RUOTSI     ---
+#ENGL       Mastectomy
+###
+#KOODI      HAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkutan mastektomi med bevarad mamill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkutan mastektomi med excision av mamill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mastektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC22 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modifierad radikal mastektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal mastektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av aberrant bröstkörtel eller mamill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan mastektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga HAC
+#OHJE_R 
+---
+###
+#KOODI_A    HAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva och korrektiva operationer på bröst
+#RUOTSI     ---
+#ENGL       Plastic operations on breast
+###
+#KOODI      HAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förstoring av bröst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förstoring av bröst med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsugning i bröst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduktion av bröst med transposition av areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduktion av bröst med transplantation av areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mastopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av inverterad mamill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av inopererad bröstprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD55 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kapselklyvning i bröst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD57 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av fibrös kapsel kring bröstimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD60 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av bröstprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan korrektiv operation på bröst
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga HAD
+#OHJE_R 
+---
+###
+#KOODI_A    HAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av bröst (efter mastektomi eller aplasi)
+#RUOTSI     ---
+#ENGL       Reconstruction of breast
+###
+#KOODI      HAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av bröst med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av bröst med lambå och protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av bröst med transplantat eller lambå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av areola och mamill med transplantat eller lambå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av bröst
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga HAE
+#OHJE_R 
+---
+###
+#KOODI_A    HAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer vid lokalrecidiv av bröstcancer
+#RUOTSI     ---
+#ENGL       Operations for local recurrence of breast cancer
+###
+#KOODI      HAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lokal excision av cancerrecidiv eller metastas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion efter excision av bröstcancerrecidiv med transplantat eller lambå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion efter excision av bröstcancerrecidiv med främmande material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid lokalrecidiv av bröstcancer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga HAF
+#OHJE_R 
+---
+###
+#KOODI_R    HW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Komplikationsåtgärder av operationer på bröst
+#RUOTSI     ---
+#ENGL       Reoperations on mammary gland
+###
+#KOODI      HWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HWC00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HWD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HWF00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HWW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på bröstkörtel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga HWX (X avser annan bokstav)
+#OHJE_R 
+---

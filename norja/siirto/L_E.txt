@@ -1,0 +1,4086 @@
+
+###
+#KOODI_L    E
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       Teeth, jaws, mouth and pharynx
+###
+#KOODI_R    EA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lips
+#RUOTSI     ---
+#ENGL       Lips
+#OHJE_S  
+Puncture, biopsy, incision etc., see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    EAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and excision of lip
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EAA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av overleppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av underleppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on lip
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      EAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon og rekonstruksjon av leppebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk rekonstruksjon av leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av leppespalte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Undersøkelse av oral motorikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EAOB25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi på leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EAW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on lips
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EAW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på leppe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Teeth
+#RUOTSI     ---
+#ENGL       Teeth
+#OHJE_S  
+Conservative dental treatment, see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    EBA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extraction and partial excision of tooth
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EBA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tannekstraksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirurgisk eksisjon av tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemiseksjon av tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av tannrot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av tannrotspiss
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen ekstraksjon eller reseksjon av tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EBB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on teeth
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EBB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reposisjon og fiksasjon av tannluksasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reposisjon og fiksasjon av tannfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innsetting av tannimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBB15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innsetting av tannimplantatsperre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tanntransplantasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBB40  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstraradikulær rekonstruksjon av rotkanal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBGC00 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tilpasning av bittskinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBGC00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilpasning av bittskinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ettersyn/kontroll av bittskinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat/eksternt fiksasjonsutstyr fra tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EBU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EBW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on teeth
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EBW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Gingiva and alveoli
+#RUOTSI     ---
+#ENGL       Gingiva and alveoli
+#OHJE_S  
+Puncture etc., see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    ECA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, biopsy and excision of gingiva and alveolus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ECA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Frileggelse av tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Frilegging av tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Frilegging av tann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i gingiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av gingiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i gingiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirurgisk behandling av periodontal abscess
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Periodontal operasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra gingiva eller alveol
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen incisjon eller eksisjon av gingiva eller alveol
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ECB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on gingiva and alveoli
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      ECB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av gingiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mucogingival rekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mukogingival rekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB05  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mukogingival rekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av gingiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk lukking av alveonasal eller alveoantral fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Processus alveolarisplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Processus alveolarisplastikk med hud- eller mucosatranspl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Processus alveolarisplastikk med hud- eller mukosatransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Processus alveolarisplastikk med hud- eller mukosatransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirurgisk behandling av processus alveolarisfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Proc alveolarisplastikk m/bentranspl el alloplastisk matr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Processus alveolarisplastikk med beintransplantat eller alloplastisk materiale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB50  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Processus alveolarisplastikk med beintransplantat eller alloplastisk materiale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på gingiva el proc alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på gingiva eller processus alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECB99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på gingiva eller processus alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjern implantat/ekst fiksasjonsutstyr fra proc alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra processus alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra processus alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ECW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on gingiva and alveoli
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ECW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på gingiva eller proc alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på gingiva eller processus alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ECW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på gingiva eller processus alveolaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    ED
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mandible
+#RUOTSI     ---
+#ENGL       Mandible
+#OHJE_S  
+Puncture etc., see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    EDA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of mandible
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EDA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EDB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of mandible
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excision of lesion of mandible, see: EFACondylectomy, see: EGB
+#OHJE_R 
+---
+###
+#KOODI      EDB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mandibulektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemimandibulektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av processus coronoideus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EDC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on mandible
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      EDC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mandibulær condylotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mandibulær kondylotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mandibulær kondylotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Segmental osteotomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sagittal osteotomi av ramus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sagittal osteotomi av ramus mandibula
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sagittal osteotomi av ramus mandibula
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vertikal osteotomi av ramus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC15  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vertikal osteotomi av ramus mandibula
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC15  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vertikal osteotomi av ramus mandibula
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Uspesifisert osteotomi av mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Uspesifisert osteotomi av underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uspesifisert osteotomi av underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Corpusosteotomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korpusosteotomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korpusosteotomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Genioplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukket reposisjon & immobil frakt av collum el caput mandib
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC32  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisering av fraktur av collum eller caput mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC32  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisering av fraktur av collum eller caput mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC34  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukket reposisjon & immobil av fraktur av corpus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC34  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisering av fraktur av corpus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC34  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisering av fraktur av corpus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC36  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen reposisjon & osteosynt frakt av collum el caput mandib
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC36  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen reposisjon og osteosyntese av fraktur av collum eller caput mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC36  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen reposisjon og osteosyntese av fraktur av collum eller caput mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC38  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen reposisjon & osteosyntese fraktur av corpus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC38  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen reposisjon og osteosyntese av fraktur av corpus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC38  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen reposisjon og osteosyntese av fraktur av corpus mandibulae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av underkjeve med bruk av skinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC42  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av underkjeve med skinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC42  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av underkjeve med skinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC45  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av underkjeve med bruk av bentransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC45  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av underkjeve med beintransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC45  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av underkjeve med beintransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDOB94 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi i munnhule og kjever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning implantat/eksternt fiksasjonsutstyr fra underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EDU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EDW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on mandible
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EDW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Maxilla
+#RUOTSI     ---
+#ENGL       Maxilla
+#OHJE_S  
+Operations on maxillary antrum, see DMPuncture etc., see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    EEA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy or of maxilla
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EEA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EEB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of maxilla
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excision of lesion and fenestration of cyst, see: EFA
+#OHJE_R 
+---
+###
+#KOODI      EEB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Maxillektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Maksillektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Maksillektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EEC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on maxilla
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EEC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Segmental osteotomi av overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Le Fort I osteotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Le Fort II osteotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Le Fort III osteotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisasjon av maxillefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisering av maksillefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukket reposisjon og immobilisering av maksillefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen reposisjon og immobilisasjon av maxillefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Åpen reposisjon og immobilisering av maksillefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen reposisjon og immobilisering av maksillefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reposisjon av zygomaticusfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reposisjon og osteosyntese av zygomaticusfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Distraksjonsbehandling av overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av overkjeve med alloplastisk materiale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC45  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av overkjeve med bentransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC45  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av overkjeve med beintransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC45  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av overkjeve med beintransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjern av implantat/eksternt fiksasjonsutstyr fra overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EEU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EEW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on maxilla
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EEW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på overkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Miscellaneous operations on jaws
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on jaws
+###
+#KOODI_A    EFA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of jaws
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EFA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i kjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Decortikering av kjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekortikasjon av kjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekortikasjon av kjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fenestrering av kjevecyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fenestrasjon av kjevecyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrasjon av kjevecyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av kjevecyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på kjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EFB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on jaws
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EFB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Osteoplastikk på kjevene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reposisjon og/eller immobil av multiple ansiktsfrakturer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFB20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reposisjon og/eller immobilisering av multiple ansiktsfrakturer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFB20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reposisjon og/eller immobilisering av multiple ansiktsfrakturer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstern fiksasjon av ansiktsfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av internt eller eksternt fiksasjonsmateriale fra ansiktsskjelettet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på kjevene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat/eksternt fiksasjonsutstyr fra kjevene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra kjevene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EFU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra kjevene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EFW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on jaws
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EFW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på kjevene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mandibular joint
+#RUOTSI     ---
+#ENGL       Mandibular joint
+#OHJE_S  
+Puncture etc., see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    EGA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, endoscopy and biopsy of mandibular joint
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EGA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Arthroskopi i kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Artroskopi i kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artroskopi i kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EGB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of mandibular joint
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EGB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Condylektomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kondylektomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kondylektomi i underkjeve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Meniskektomi i kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Synovektomi i kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EGC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on mandibular joint
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EGC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen reposisjon av kjeveluksasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Arthroplastikk av kjeveledd uten transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Artroplastikk av kjeveledd uten transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artroplastikk av kjeveledd uten transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Arthroplastikk av kjeveledd med ben- el annet transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Artroplastikk av kjeveledd med bein- eller annet transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artroplastikk av kjeveledd med bein- eller annet transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC30  
+#MUUT_PVM   1999/04/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av kjeveleddprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Implantasjon av kjeveleddprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjern av implantat/eksternt fiksasjonsutstyr fra kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EGU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EGW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on mandibular joint
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EGW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på kjeveledd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Palate
+#RUOTSI     ---
+#ENGL       Palate
+#OHJE_S  
+Puncture etc., see: TE
+#OHJE_R 
+---
+###
+#KOODI_A    EHA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of palate
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EHA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EHB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of palate
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EHB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EHC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on palate
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZUvuloplasty and uvulopalatopharyngoplasty, see: ENC
+#OHJE_R 
+---
+###
+#KOODI      EHC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk lukking av palatonasal eller palatoantral fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av arr i ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC31  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fremre partiell rekonstruksjon av ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC32  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bakre partiell rekonstruksjon av ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av submukøs ganespalte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korreksjon av ganespalte med farynxlapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korreksjon av ganespalte med pharynxlapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av ganespalte med pharynxlapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av kombinert leppe- og ganespalte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHDA00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Videofluoroskopi av velopharynxfunksjon under tale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHDA00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Videofluoroskopi av velopharynxfunksjon under tale
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHET00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fiberskopisk undersøkelse av velopharynxfunksjon ved svelging
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHET00 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fiberskopisk undersøkelse av velopharynxfunksjon ved svelging
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat/eksternt fiksasjonsutstyr fra gane
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra gane
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EHU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra gane
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EHW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on palate
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EHW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på ganen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tongue and floor of mouth
+#RUOTSI     ---
+#ENGL       Tongue and floor of mouth
+###
+#KOODI_A    EJA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, biopsy and removal of foreign body of tongue and floor of mouth
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EJA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i tunge eller munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av tunge eller munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra tunge eller munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EJB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of tongue and floor of mouth
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EJB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av ranula
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i tungen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i tungerot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemiglossektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total glossektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på tunge og munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EJC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on tongue and floor of mouth
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      EJC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av tunge eller munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon på tungebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av tungen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Glossopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Glossopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Glossopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC50  
+#MUUT_PVM   2005/10/04
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduksjonsplastikk av tunge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på tunge eller munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utredning av lukt og smak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJFX00 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utredning av lukt og smak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EJOB23 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi på tungen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EJW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on tongue and floor of mouth
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EJW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på tunge eller munngulv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EK
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Cheek
+#RUOTSI     ---
+#ENGL       Cheek
+###
+#KOODI_A    EKA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of cheek
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EKA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EKA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EKB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of cheek
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EKB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EKB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EKC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on cheek
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      EKC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EKC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EKC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk operasjon på kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EKC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EKC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EKW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on cheek
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EKW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på kinn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EL
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Salivary glands
+#RUOTSI     ---
+#ENGL       Salivary glands
+###
+#KOODI_A    ELA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of salivary glands
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ELA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sialodochotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sialodokotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sialodokotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sialolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sialolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sialolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ELB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of salivary gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ELB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon eller eksplorasjon av lesjon i spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av liten spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av glandula sublingualis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av sublingvalkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av sublingvalkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av glandula submandibularis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av submandibulærkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av submandibulærkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av glandula parotis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Parotisreseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parotisreseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total parotidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ELC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on salivary glands
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ELC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av spyttkjertelgang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av spyttkjertelgang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELC50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av spyttkjertelgang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELC60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Okklusjon av spyttkjertelfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELFC00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Salivvolumsmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ELFC00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salivvolumsmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ELW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on salivary glands
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ELW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på spyttkjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EM
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tonsils and adenoids
+#RUOTSI     ---
+#ENGL       Tonsils and adenoids
+###
+#KOODI_A    EMA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of tonsils and adenoids
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EMA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i tonsille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av tonsille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i adenoid vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av rhinofarynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMA30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av rhinopharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMA30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av rhinopharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EMB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of tonsils and adenoids
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EMB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i tonsille eller adenoid vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMB10  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tonsillektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMB12  
+#MUUT_PVM   2012/01/12
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av tonsille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMB15  
+#MUUT_PVM   2005/10/04
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakapsulær tonsilledestruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adenotonsillektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adenotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på tonsille eller adenoid vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EMC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on tonsils and adenoids
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EMC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av tonsille eller adenoid vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra tonsille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EMC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på tonsille eller adenoid vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EMW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on tonsils and adenoids
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EMW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på tonsille eller adenoid vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EN
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pharynx and adjacent structures
+#RUOTSI     ---
+#ENGL       Pharynx and adjacent structures
+###
+#KOODI_A    ENA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of pharynx and adjacent structures
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Pharyngostomy
+#OHJE_R 
+---
+###
+#KOODI      ENA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intern incisjon i pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Faryngotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Faryngostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ENB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of pharynx and adjacent structures
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ENB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon eller eksplorasjon av lesjon i farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon eller eksplorasjon av lesjon i pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon eller eksplorasjon av lesjon i pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hypofarynxdivertikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hypopharynxdivertikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hypopharynxdivertikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Faryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laryngofaryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av branchialcyste eller -fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brankialcyste eller -fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brankialcyste eller -fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av median halsfistel eller -cyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av processus styloideus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på farynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENB99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ENC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on pharynx and adjacent structures
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ENC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sutur av farynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sutur av pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cricofaryngeal myotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kricofaryngeal myotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kricofaryngeal myotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Plastisk operasjon på farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Plastisk operasjon på pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk operasjon på pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uvulopalatofaryngoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC45  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduksjonsplastikk på den bløte gane med bruk av fysikalsk energi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av farynxfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av pharynxfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av pharynxfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Adheranseløsning i farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Adheranseløsning i pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC60  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adheranseløsning i pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk diverticulohypofaryngostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC70  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk divertikulohypofaryngostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC70  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk divertikulohypofaryngostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngr på farynx el tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENC99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ENW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on pharynx and adjacent structures
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ENW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på farynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ENW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på pharynx eller tilstøtende struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    EW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations for complications in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       Reoperations for complications in surgery of teeth, jaws, mouth and pharynx
+###
+#KOODI_A    EWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EWA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for sårruptur etter inngr på kjeve, munn eller farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWA00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound infection
+#OHJE_R 
+---
+###
+#KOODI      EWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfl inf etter inngr på kjeve, munn eller farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWB00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For infection at the site of target organs or structures
+#OHJE_R 
+---
+###
+#KOODI      EWC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon i kjeve, munn eller farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon i kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWC00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      EWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfl blødn etter inngr på kjeve, munn el farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWD00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For haemorrhage or haematoma at the site of target structures
+#OHJE_R 
+---
+###
+#KOODI      EWE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning i kjeve, munn eller farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning i kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWE00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning etter inngrep på kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EWF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for insufficiency of anastomosis or suture in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EWF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for insuff av anastomose el sutur kjeve munn el farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur i kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWF00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur i kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    EWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperations in surgery of teeth, jaws, mouth and pharynx
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      EWW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reop etter inngr på tenner, kjeve, munn eller farynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på tenner, kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EWW99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på tenner, kjeve, munn eller pharynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EXDA00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fluoroskopi av orofaryngeal svelging
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EXDA00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fluoroskopi av orofaryngeal svelging
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EXDA05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Digital volumtomografi av tenner og kjeve
+#RUOTSI     ---
+#LYHENNE    Digital volumtomografi av tenner og kjev
+###
+#KOODI      EXFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Undersøkelse av svelge-, spise- og drikkefunksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      EXFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Undersøkelse av svelge-, spise- og drikkefunksjon
+#RUOTSI     ---
+#LYHENNE    

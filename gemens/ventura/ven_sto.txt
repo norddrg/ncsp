@@ -1,0 +1,6275 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU E
+
+@LUVUT_S = KAPITEL E
+
+@SUOMI_L = Huulten, hampaiden, leuan, suun ja nielun toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ lÑppar, tÑnder, kÑkar, mun och svalg
+
+@ENGL_L = Teeth, jaws, mouth and pharynx procedures
+
+@NOTE_LF = Suun ja hampaiston konservatiiviset toimenpiteet, katso luku S
+
+@NOTE_LS = Konservativa ÜtgÑrder pÜ tÑnder och mun, se kapitel S
+
+@END_L = 
+
+@KOODI_R = EA
+
+@SUOMI_R = Huulien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ lÑpparna
+
+@ENGL_R = Lips
+
+@END = 
+
+@KOODI_A = EAA
+
+@SUOMI_A = Huulen poistotoimenpiteet
+
+@RUOTSI_A = Resektion, excision av lÑpp
+
+@ENGL_A = Incision and excision of lip
+
+@END = 
+
+@KOODI = EAA00
+
+@VANHA = 
+
+@SUOMI = Huulen aukaisu, insisio
+
+@PRICE =      
+
+@RUOTSI = Incision av lÑpp
+
+@NOTE_F = SisÑltÑÑ mahdollisen dreenin asetuksen
+
+@NOTE_F =
+Koepalan otto huulesta TEA
+
+@NOTE_S = Inkl ev drÑnage
+
+@NOTE_S = Biopsi av lÑpp, se TEA
+
+@END = 
+
+@KOODI = EAA10
+
+@VANHA = 
+
+@SUOMI = Huulimuutoksen poisto, eksisio
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av lokal fîrÑndring pÜ lÑpp
+
+@END = 
+
+@KOODI = EAA20
+
+@VANHA = 
+
+@SUOMI = YlÑhuulen poisto osittain
+
+@PRICE =      
+
+@RUOTSI = Resektion av îverlÑpp
+
+@END = 
+
+@KOODI = EAA30
+
+@VANHA = 
+
+@SUOMI = Alahuulen poisto osittain
+
+@PRICE =      
+
+@RUOTSI = Resektion av underlÑpp
+
+@END = 
+
+@KOODI = EAA99
+
+@VANHA = 
+
+@SUOMI = Muu huulien poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion eller excision av lÑpp
+
+@END = 
+
+@KOODI_A = EAB
+
+@SUOMI_A = Huulien korjaamistoimenpiteet
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ lÑpparna
+
+@ENGL_A = Reconstructive operations on lip
+
+@END = 
+
+@KOODI = EAB00
+
+@VANHA = 
+
+@SUOMI = Huulen ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av lÑpp
+
+@NOTE_F = SisÑltÑÑ haavan puhdistamisen
+
+@NOTE_S = Inkl revision, debridering
+
+@END = 
+
+@KOODI = EAB10
+
+@VANHA = 
+
+@SUOMI = HuulijÑnteen poisto tai muovaus
+
+@PRICE =      
+
+@RUOTSI = Excision eller plastik av lÑppfrenulum
+
+@END = 
+
+@KOODI = EAB20
+
+@VANHA = 
+
+@SUOMI = Huulen korjaaminen tai muovaus
+
+@PRICE =      
+
+@RUOTSI = LÑpprekonstruktion eller -plastik
+
+@NOTE_F = SisÑltÑÑ n.s. lip shave -leikkauksen
+
+@NOTE_F =
+Ei sisÑllÑ huulihalkiota, katso EAB30
+
+@NOTE_S = Inkl sk. lip shave -operation
+
+@NOTE_S =
+Exkl vid lÑppspalta, se EAB30
+
+@END = 
+
+@KOODI = EAB30
+
+@VANHA = 
+
+@SUOMI = Huulihalkion korjaaminen tai muovaus
+
+@PRICE =      
+
+@RUOTSI = LÑpprekonstruktion eller -plastik pÜ grund av lÑppspalta
+
+@NOTE_F = Huuli- ja ienhalkion korjaus, katso EHC
+
+@NOTE_F =
+Primaarinen korjausleikkaus lisÑkoodilla ZSZ00 ja sekundaarinen korjausleikkaus ZSZ10.
+
+@NOTE_S = Operation fîr kombinerad lÑpp-gomspalt, se EHC
+
+@NOTE_S = PrimÑr rekonstruktion anges med tillÑgget ZSZ00; sekundÑr med ZSZ10
+
+@END = 
+
+@KOODI = EAB99
+
+@VANHA = 
+
+@SUOMI = Muu huulen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av lÑpp
+
+@END = 
+
+@KOODI_A = EAW
+
+@SUOMI_A = Muut huulien toimenpiteet
+
+@RUOTSI_A = Andra operationer pÜ lÑpparna
+
+@ENGL_A = Other operations on lips
+
+@END = 
+
+@KOODI = EAW99
+
+@VANHA = 
+
+@SUOMI = Muu huulien leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ lÑpp
+
+@END = 
+
+@KOODI_R = EB
+
+@SUOMI_R = Hampaiston toimenpiteet
+
+@RUOTSI_R = Operationer pÜ tÑnderna
+
+@ENGL_R = Teeth
+
+@NOTE_RF = Konservatiiviset toimenpiteet kohdassa TE
+
+@NOTE_RS = Konservativ tandbehandling, se TE
+
+@END = 
+
+@KOODI_A = EBA
+
+@SUOMI_A = Hampaiden poistot
+
+@RUOTSI_A = AvlÑgsnande av tand eller del av tand
+
+@ENGL_A = Extraction and partial excision of tooth
+
+@END = 
+
+@KOODI = EBA00
+
+@VANHA = 
+
+@SUOMI = Hampaan poisto
+
+@PRICE =      
+
+@RUOTSI = Tandextraktion
+
+@END = 
+
+@KOODI = EBA10
+
+@VANHA = 
+
+@SUOMI = Hampaan poisto leikkaamalla
+
+@PRICE =      
+
+@RUOTSI = Operativ exstirpation av tand
+
+@END = 
+
+@KOODI = EBA15
+
+@VANHA = 
+
+@SUOMI = Hampaiston saneeraus
+
+@PRICE =      
+
+@RUOTSI = 
+
+@NOTE_F = VÑhintÑÑn viiden hampaan poisto
+
+@END = 
+
+@KOODI = EBA20
+
+@VANHA = 
+
+@SUOMI = Hampaan poisto osittain, hemisektio
+
+@PRICE =      
+
+@RUOTSI = AvlÑgsnande av del av tand, hemisektion
+
+@END = 
+
+@KOODI = EBA30
+
+@VANHA = 
+
+@SUOMI = Hampaan juuren poisto
+
+@PRICE =      
+
+@RUOTSI = Radektomi
+
+@END = 
+
+@KOODI = EBA40
+
+@VANHA = 
+
+@SUOMI = Hampaan juuren pÑÑn poisto
+
+@PRICE =      
+
+@RUOTSI = Rotspetsresektion
+
+@END = 
+
+@KOODI = EBA45
+
+@VANHA = 
+
+@SUOMI = Monijuurisen hampan juurenpÑÑn poisto
+
+@PRICE =      
+
+@RUOTSI = Rotspetsresektion av tand med flera rîtter
+
+@END = 
+
+@KOODI = EBA99
+
+@VANHA = 
+
+@SUOMI = Muu hampaan poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion eller excision av tand
+
+@END = 
+
+@KOODI_A = EBB
+
+@SUOMI_A = Hampaiden kiruginen korjaaminen tai korvaaminen
+
+@RUOTSI_A = Rekonstruktiva kirurgiska  ingrepp pÜ tÑnderna
+
+@ENGL_A = Reconstructive surgical operations on teeth
+
+@END = 
+
+@KOODI = EBB00
+
+@VANHA = 
+
+@SUOMI = Hampaan kiinnitys sijoiltaanmenon vuoksi
+
+@PRICE =      
+
+@RUOTSI = Behandling av tandluxation
+
+@END = 
+
+@KOODI = EBB05
+
+@VANHA = 
+
+@SUOMI = Hammasmurtuman hoito
+
+@PRICE =      
+
+@RUOTSI = Behandling av tandfraktur
+
+@END = 
+
+@KOODI = EBB10
+
+@VANHA = 
+
+@SUOMI = Hampaan keinojuuren asettaminen
+
+@PRICE =      
+
+@RUOTSI = InsÑttning av tandimplant
+
+@NOTE_F = Asetettaessa useita keinojuuria samalla kerralla merkitÑÑn lisÑkeinojuuret omalla koodillaan, katso EBB11
+
+@END = 
+
+@KOODI = EBB15
+
+@VANHA = 
+
+@SUOMI = Hampaan keinojuurijatkeen asettaminen
+
+@PRICE =      
+
+@RUOTSI = InsÑttning av implantdistans
+
+@NOTE_F = Kunkin keinojuurijatkeen asettaminen koodataan erikseen
+
+@END = 
+
+@KOODI = EBB20
+
+@VANHA = 
+
+@SUOMI = Hampaan siirto
+
+@PRICE =      
+
+@RUOTSI = Transplantation av tand
+
+@NOTE_F = SisÑltÑÑ ristiompeleen kÑytîn
+
+@END = 
+
+@KOODI = EBB99
+
+@VANHA = 
+
+@SUOMI = Muu hampaan korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av tand
+
+@END = 
+
+@KOODI_A = EBW
+
+@SUOMI_A = Muut hammasleikkaukset
+
+@RUOTSI_A = Andra operationer pÜ tÑnderna
+
+@ENGL_A = Other operations on teeth
+
+@NOTE_RF = Konservatiiviset toimenpiteet kohdassa TE
+
+@NOTE_RS = Non-operativ tandbehandling, se TE
+
+@END = 
+
+@KOODI = EBW99
+
+@VANHA = 
+
+@SUOMI = Muu hammasleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ tand
+
+@END = 
+
+@KOODI_R = EC
+
+@SUOMI_R = Ikenien ja hammasharjanteen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ gingiva och alveolarutskott
+
+@ENGL_R = Gingiva and alveoli
+
+@NOTE_RF = Punktiot ja neulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI_A = ECA
+
+@SUOMI_A = Ikenen ja hammasharjanteen aukaisu tai poistoleikkaukset
+
+@RUOTSI_A = Incision, biopsi och excision av gingiva och alveolarutskott
+
+@ENGL_A = Incision, biopsy and excision of gingiva and alveolus
+
+@END = 
+
+@KOODI = ECA00
+
+@VANHA = 
+
+@SUOMI = Hampaan paljastus
+
+@PRICE =      
+
+@RUOTSI = FrilÑggning av tand
+
+@END = 
+
+@KOODI = ECA10
+
+@VANHA = 
+
+@SUOMI = Ikenen aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision och drÑnering genom gingivan
+
+@END = 
+
+@KOODI = ECA20
+
+@VANHA = 
+
+@SUOMI = Koepalan otto ikenestÑ
+
+@PRICE =      
+
+@RUOTSI = Biopsi av gingivan
+
+@NOTE_F = NeulanÑytteen otto ikenestÑ TEC00
+
+@NOTE_S = NÜlbiopsi av gingivan, se TCE00
+
+@END = 
+
+@KOODI = ECA30
+
+@VANHA = 922
+
+@SUOMI = Ienmuutoksen poisto
+
+@PRICE = 9    
+
+@RUOTSI = Excision av gingivafîrÑndring
+
+@END = 
+
+@KOODI = ECA30
+
+@VANHA = 
+
+@SUOMI = Ienmuutoksen poisto
+
+@PRICE =      
+
+@RUOTSI = Excision av gingivafîrÑndring
+
+@END = 
+
+@KOODI = ECA35
+
+@VANHA = 1022
+
+@SUOMI = Vaativa ienmuutoksen poisto
+
+@PRICE = 10   
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = ECA40
+
+@VANHA = 
+
+@SUOMI = Ikenen ja hammasharjanteen mÑrkÑpesÑkkeen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Behandling av parodontal abscess
+
+@END = 
+
+@KOODI = ECA55
+
+@VANHA = 1222
+
+@SUOMI = Vaativa parodontologinen lÑppÑleikkaus
+
+@PRICE = 12   
+
+@RUOTSI = 
+
+@NOTE_F = Luuta korvaavaa tai luun muodostusta edistÑvÑÑ tekniikkaa kÑyttÑen
+
+@NOTE_F = SisÑltÑÑ kalvotekniikan
+
+@END = 
+
+@KOODI = ECA60
+
+@VANHA = 
+
+@SUOMI = Vierasesineen poisto ikenestÑ tai hammasharjanteesta
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av frÑmmande fîremÜl i gingiva eller alveolarutskott
+
+@END = 
+
+@KOODI = ECA99
+
+@VANHA = 
+
+@SUOMI = Muu ikenen tai hammasharjanteen poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan incision, biopsi eller excision av gingiva och alveolarutskott
+
+@END = 
+
+@KOODI_A = ECB
+
+@SUOMI_A = Ikenen ja hammasharjanteen korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ gingiva och alveolarutskott
+
+@ENGL_A = Reconstructive operations on gingiva and alveoli
+
+@END = 
+
+@KOODI = ECB00
+
+@VANHA = 
+
+@SUOMI = Ikenen ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av gingiva (inkl ev revision)
+
+@END = 
+
+@KOODI = ECB05
+
+@VANHA = 
+
+@SUOMI = Ikenen limakalvomuovaus
+
+@PRICE =      
+
+@RUOTSI = Slemhinneplastik
+
+@NOTE_F = esim arpi, fisteli, frenulum
+
+@NOTE_S = Inkl fîr frenulum, Ñrr, fistel
+
+@END = 
+
+@KOODI = ECB10
+
+@VANHA = 
+
+@SUOMI = Ikenen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av gingiva
+
+@END = 
+
+@KOODI = ECB17
+
+@VANHA = 
+
+@SUOMI = Ienhalkion korjaaminen
+
+@PRICE =      
+
+@RUOTSI = ètgÑrd fîr gingivaspalt
+
+@END = 
+
+@KOODI = ECB20
+
+@VANHA = 
+
+@SUOMI = Hammasharjanteen muovaus
+
+@PRICE =      
+
+@RUOTSI = Alveolarutskottsplastik
+
+@END = 
+
+@KOODI = ECB30
+
+@VANHA = 
+
+@SUOMI = Hammasharjanteen muovaus iho- tai limakalvosiirrettÑ kÑyttÑen (sulkusplastia)
+
+@PRICE =      
+
+@RUOTSI = Alveolarutskottsplastik med hud eller slemhinnetransplantat (sulkusplastik)
+
+@END = 
+
+@KOODI = ECB40
+
+@VANHA = 
+
+@SUOMI = Hammasharjanteen muovaus luuta tai vierasperÑistÑ siirrettÑ kÑyttÑen
+
+@PRICE =      
+
+@RUOTSI = Alveolarutskottsplastik med bentransplantat eller alloplastiskt material
+
+@END = 
+
+@KOODI = ECB50
+
+@VANHA = 
+
+@SUOMI = Hammasharjanteen murtuman hoito
+
+@PRICE =      
+
+@RUOTSI = Behandling av alveolarutskottsfraktur
+
+@END = 
+
+@KOODI = ECB60
+
+@VANHA = 
+
+@SUOMI = Hammasharjanteen uudelleen muodostaminen, rekonstruktio
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av alveolarutskottet
+
+@END = 
+
+@KOODI = ECB99
+
+@VANHA = 
+
+@SUOMI = Muu ikenen ja hammasharjanteen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av gingiva och alveolarutskott
+
+@END = 
+
+@KOODI_A = ECW
+
+@SUOMI_A = Muut ikenien ja hammasharjanteen leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ gingiva och alveolarutskott
+
+@ENGL_A = Other operations on gingiva and alveoli
+
+@END = 
+
+@KOODI = ECW99
+
+@VANHA = 
+
+@SUOMI = Muu ikenien ja hammasharjanteen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ gingiva och alveolarutskott
+
+@END = 
+
+@KOODI_R = ED
+
+@SUOMI_R = Alaleuan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ underkÑken
+
+@ENGL_R = Mandible
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI_A = EDA
+
+@SUOMI_A = Alaleuan aukaisu tai koepalan otto
+
+@RUOTSI_A = Incision, biopsi av underkÑke
+
+@ENGL_A = Incision and biopsy of mandible
+
+@END = 
+
+@KOODI = EDA00
+
+@VANHA = 
+
+@SUOMI = Alaleukaluun pesÑkkeen aukaisu, insisio
+
+@PRICE =      
+
+@RUOTSI = Incision av underkÑke
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = EDA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto alaleuasta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av underkÑke
+
+@END = 
+
+@KOODI_A = EDB
+
+@SUOMI_A = Alaleuan poisto osittain tai kokonaan
+
+@RUOTSI_A = Delresektion, totalexstirpation av underkÑke
+
+@ENGL_A = Excision of mandible
+
+@END = 
+
+@KOODI = EDB00
+
+@VANHA = 
+
+@SUOMI = Alaleuan osittainen poisto
+
+@PRICE =      
+
+@RUOTSI = Resektion av underkÑke
+
+@END = 
+
+@KOODI = EDB10
+
+@VANHA = 
+
+@SUOMI = Alaleuan poisto kokonaan (mandibulektomia)
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av underkÑke
+
+@END = 
+
+@KOODI = EDB20
+
+@VANHA = 
+
+@SUOMI = Alaleukapuoliskon poisto
+
+@PRICE =      
+
+@RUOTSI = Hemimandibulektomi
+
+@END = 
+
+@KOODI = EDB30
+
+@VANHA = 
+
+@SUOMI = Alaleuan lihashaarakkeen poistoleikkaus (koronoidektomia)
+
+@PRICE =      
+
+@RUOTSI = Koronoidektomi
+
+@END = 
+
+@KOODI = EDB99
+
+@VANHA = 
+
+@SUOMI = Muu alaleuan poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av underkÑke
+
+@NOTE_F = Siirteet ja kielekkeet luvussaZ
+
+@NOTE_S = Transplantat och lambÜer, se Z
+
+@END = 
+
+@KOODI_A = EDC
+
+@SUOMI_A = Alaleuan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ underkÑken
+
+@ENGL_A = Reconstructive operations on mandible
+
+@NOTE_RF = Siirteet ja kielekkeet ilmaistaan lisÑkoodilla ryhmÑstÑ ZZ
+
+@NOTE_RS = Transplantat anges med tillÑggskod frÜn grupp ZZ
+
+@END = 
+
+@KOODI = EDC00
+
+@VANHA = 
+
+@SUOMI = Alaleuan nivelhaarakkeen katkaisu
+
+@PRICE =      
+
+@RUOTSI = Kondylotomi pÜ underkÑken
+
+@END = 
+
+@KOODI = EDC05
+
+@VANHA = 
+
+@SUOMI = Alaleuan segmentaalinen katkaisu
+
+@PRICE =      
+
+@RUOTSI = Segmentosteotomi pÜ underkÑken
+
+@END = 
+
+@KOODI = EDC10
+
+@VANHA = 
+
+@SUOMI = Alaleuan nousevan haaran sagittaalinen katkaisu
+
+@PRICE =      
+
+@RUOTSI = Sagittal ramusosteotomi pÜ underkÑken îvre del
+
+@END = 
+
+@KOODI = EDC15
+
+@VANHA = 
+
+@SUOMI = Alaleuan nousevan haaran vertikaalinen katkaisu
+
+@PRICE =      
+
+@RUOTSI = Vertikal ramusosteotomi pÜ underkÑken îvre del
+
+@END = 
+
+@KOODI = EDC20
+
+@VANHA = 
+
+@SUOMI = Alaleuan nousevan haaran muu katkaisu
+
+@PRICE =      
+
+@RUOTSI = Annan ramusosteotomi pÜ underkÑken
+
+@END = 
+
+@KOODI = EDC25
+
+@VANHA = 
+
+@SUOMI = Alaleuan runko-osan katkaisu
+
+@PRICE =      
+
+@RUOTSI = Corpusosteotomi eller -ektomi pÜ underkÑken
+
+@END = 
+
+@KOODI = EDC30
+
+@VANHA = 
+
+@SUOMI = Alaleuan kÑrjen muovausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Genioplastik
+
+@END = 
+
+@KOODI = EDC32
+
+@VANHA = 
+
+@SUOMI = Alaleuan nivelhaarakkeen murtuman suljettu paikalleen asettaminen ja leukojen yhteen kiinnitys
+
+@PRICE =      
+
+@RUOTSI = Sluten reposition och immobilisation av fraktur i mandipulÑr huvud
+
+@END = 
+
+@KOODI = EDC34
+
+@VANHA = 
+
+@SUOMI = Alaleuan runko-osan murtuman suljettu paikalleen asettaminen ja kiinnittÑminen
+
+@PRICE =      
+
+@RUOTSI = Sluten reposition och immobilisation av fraktur i mandipulÑr corpus
+
+@END = 
+
+@KOODI = EDC36
+
+@VANHA = 
+
+@SUOMI = Alaleuan nivelhaarakkeen murtuman avoin paikalleen asettaminen tai sisÑinen kiinnittÑminen
+
+@PRICE =      
+
+@RUOTSI = ôppen reposition eller internal immobilisation av fraktur i mandipular huvud
+
+@END = 
+
+@KOODI = EDC38
+
+@VANHA = 
+
+@SUOMI = Alaleuan runko-osan murtuman avoin korjaaminen
+
+@PRICE =      
+
+@RUOTSI = ôppen reposition och immobilisation av fraktur i mandipulÑr corpus
+
+@NOTE_F = SisÑltÑÑ sekÑ sisÑisen ettÑ ulkoisen kiinnityksen
+
+@NOTE_S = Innefattar bÜde intern och extern immobilisation
+
+@END = 
+
+@KOODI = EDC42
+
+@VANHA = 
+
+@SUOMI = Alaleuan korjaaminen vierasta materiaalia kÑyttÑen
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av mandibula med implantat
+
+@END = 
+
+@KOODI = EDC45
+
+@VANHA = 
+
+@SUOMI = Alaleuan korjaaminen luusiirteellÑ
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av underkÑken med bentransplantat
+
+@END = 
+
+@KOODI = EDC99
+
+@VANHA = 
+
+@SUOMI = Muu alaleuan korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annat rekonstruktivt ingrepp pÜ underkÑken
+
+@END = 
+
+@KOODI_A = EDW
+
+@SUOMI_A = Muut alaleuan leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ underkÑken
+
+@ENGL_A = Other operations on mandible
+
+@END = 
+
+@KOODI = EDW99
+
+@VANHA = 
+
+@SUOMI = Muu alaleuan leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ underkÑken
+
+@END = 
+
+@KOODI_R = EE
+
+@SUOMI_R = YlÑleuan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ îverkÑken
+
+@ENGL_R = Maxilla
+
+@NOTE_RF = Poskiontelon leikkaukset kohdassa DM
+
+@NOTE_RF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Operationer pÜ sinus maxillaris, se DM
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI_A = EEA
+
+@SUOMI_A = YlÑleuan koepalan otto tai mÑrkÑkerÑymÑn aukaisu
+
+@RUOTSI_A = Incision, biopsi av îverkÑken
+
+@ENGL_A = Incision and biopsy or of maxilla
+
+@END = 
+
+@KOODI = EEA00
+
+@VANHA = 
+
+@SUOMI = YlÑleuan mÑrkÑkerÑymÑn aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av îverkÑken
+
+@NOTE_F = SisÑltÑÑ dreeninasettamisen
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = EEA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto ylÑleuasta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av îverkÑken
+
+@END = 
+
+@KOODI_A = EEB
+
+@SUOMI_A = YlÑleuan poistoleikkaukset
+
+@RUOTSI_A = Resektion, exstirpation av îverkÑken
+
+@ENGL_A = Excision of maxilla
+
+@END = 
+
+@KOODI = EEB00
+
+@VANHA = 
+
+@SUOMI = YlÑleuan poisto osittain
+
+@PRICE =      
+
+@RUOTSI = Resektion av îverkÑken
+
+@END = 
+
+@KOODI = EEB10
+
+@VANHA = 
+
+@SUOMI = YlÑleukapuoliskon poisto
+
+@PRICE =      
+
+@RUOTSI = Unilateral resektion av îverkÑke, hemimaxillektomi
+
+@END = 
+
+@KOODI = EEB20
+
+@VANHA = 
+
+@SUOMI = YlÑleuan poisto kokonaan
+
+@PRICE =      
+
+@RUOTSI = Totalexstirpation av îverkÑken
+
+@END = 
+
+@KOODI = EEB99
+
+@VANHA = 
+
+@SUOMI = Muu ylÑleuan poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av îverkÑken
+
+@END = 
+
+@KOODI_A = EEC
+
+@SUOMI_A = YlÑleuan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ îverkÑken
+
+@ENGL_A = Reconstructive operations on maxilla
+
+@NOTE_RF = SisÑltÑÑ poskiontelon katon korjaamisen
+
+@NOTE_RF =
+SilmÑkuopan pohjan korjausleikkaukset kohdissa CAC00 ja CAC10
+
+@NOTE_RF =
+Siirteet ja kielekkeet ilmaistaan lisÑkoodilla ryhmÑstÑ ZZ
+
+@NOTE_RS = Innefattar rekonstruktion av sinus maxillaris
+
+@NOTE_RS =
+Rekonstruktion av orbita, se CAC00 eller CAC10
+
+@NOTE_RS =
+Transplantat anges med tillÑggskod frÜn grupp ZZ
+
+@END = 
+
+@KOODI = EEC00
+
+@VANHA = 
+
+@SUOMI = YlÑleuan segmentaalinen katkaisu
+
+@PRICE =      
+
+@RUOTSI = Segmentosteotomi pÜ îverkÑken
+
+@END = 
+
+@KOODI = EEC05
+
+@VANHA = 
+
+@SUOMI = YlÑleuan katkaisu, Le Fort I
+
+@PRICE =      
+
+@RUOTSI = Le Fort I-osteotomi
+
+@END = 
+
+@KOODI = EEC10
+
+@VANHA = 
+
+@SUOMI = YlÑleuan katkaisu, Le Fort II
+
+@PRICE =      
+
+@RUOTSI = Le Fort II-osteotomi
+
+@END = 
+
+@KOODI = EEC15
+
+@VANHA = 
+
+@SUOMI = YlÑleuan ja naamaluiden katkaisu ja muovaus, Le Fort III
+
+@PRICE =      
+
+@RUOTSI = Le Fort III-osteotomi
+
+@END = 
+
+@KOODI = EEC20
+
+@VANHA = 
+
+@SUOMI = YlÑleukamurtuman suljettu korjaaminen ja kiinnitys
+
+@PRICE =      
+
+@RUOTSI = Sluten reposition och immobilisation av îverkÑksfraktur
+
+@NOTE_F = SisÑltÑÑ maksillomandibulaarisen fiksaation
+
+@END = 
+
+@KOODI = EEC25
+
+@VANHA = 
+
+@SUOMI = YlÑleukamurtuman avoin liittÑminen
+
+@PRICE =      
+
+@RUOTSI = ôppen reposition och osteosyntes av îverkÑksfraktur
+
+@NOTE_F = SisÑltÑÑ sekÑ sisÑisen ettÑ ulkoisen kiinnityksen
+
+@END = 
+
+@KOODI = EEC30
+
+@VANHA = 
+
+@SUOMI = Poskiluu-ylÑleukaluu -murtuman paikalleen asettaminen
+
+@PRICE =      
+
+@RUOTSI = Reposition av zygomatico-maxillar fraktur
+
+@NOTE_F = Esim. koukkunosto
+
+@END = 
+
+@KOODI = EEC35
+
+@VANHA = 
+
+@SUOMI = Poskiluu-ylÑleukaluu -murtuman avoin korjaaminen
+
+@PRICE =      
+
+@RUOTSI = Reposition och osteosyntes av zygomatico-maxillar fraktur
+
+@NOTE_F = SisÑltÑÑ sekÑ sisÑisen ettÑ ulkoisen kiinnityksen
+
+@END = 
+
+@KOODI = EEC40
+
+@VANHA = 
+
+@SUOMI = YlÑleuan ulkoisen kiinnityksen tai vedon asettaminen
+
+@PRICE =      
+
+@RUOTSI = AnlÑggande av strÑck eller fixation pÜ îverkÑken
+
+@END = 
+
+@KOODI = EEC42
+
+@VANHA = 
+
+@SUOMI = YlÑleuan korjaaminen implanttia kÑyttÑen
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av îverkÑken med implantat
+
+@END = 
+
+@KOODI = EEC45
+
+@VANHA = 
+
+@SUOMI = YlÑleuan korjaaminen luusiirteellÑ
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av îverkÑken med bentransplantat
+
+@NOTE_F = Luusiirteen materiaali voidaan ilmaista lisÑkoodilla kohdasta ZZH
+
+@NOTE_S = Material pÜ bentransplantat kan anges med tillÑggskod, se ZZH
+
+@END = 
+
+@KOODI = EEC99
+
+@VANHA = 
+
+@SUOMI = Muu ylÑleuan korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annat rekonstruktivt ingrepp pÜ îverkÑken
+
+@END = 
+
+@KOODI_A = EEW
+
+@SUOMI_A = Muut ylÑleuan leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ îverkÑken
+
+@ENGL_A = Other operations on maxilla
+
+@END = 
+
+@KOODI = EEW99
+
+@VANHA = 
+
+@SUOMI = Muu ylÑleuan leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ îverkÑken
+
+@END = 
+
+@KOODI_R = EG
+
+@SUOMI_R = Leukanivelien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ kÑklederna
+
+@ENGL_R = Mandibular joint
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI_A = EFA
+
+@SUOMI_A = Leukaluiden muutosten poistoleikkaukset
+
+@RUOTSI_A = Resektion, exstirpation av lesioner i kÑkarna
+
+@ENGL_A = Excision of jaws
+
+@END = 
+
+@KOODI = EFA10
+
+@VANHA = 
+
+@SUOMI = Kasvaimen poisto leuoista
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av tumîr i kÑke
+
+@END = 
+
+@KOODI = EFA20
+
+@VANHA = 
+
+@SUOMI = Leukaluun kuoriosan poisto
+
+@PRICE =      
+
+@RUOTSI = Dekortikation av kÑke
+
+@NOTE_S = Vid osteomyelitbehandling
+
+@END = 
+
+@KOODI = EFA40
+
+@VANHA = 
+
+@SUOMI = Leukakystan aukaisu
+
+@PRICE =      
+
+@RUOTSI = Fenestration av kÑkcysta
+
+@END = 
+
+@KOODI = EFA50
+
+@VANHA = 
+
+@SUOMI = Leukakystan poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av kÑkcysta
+
+@END = 
+
+@KOODI = EFA99
+
+@VANHA = 
+
+@SUOMI = Muu leukojen poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av kÑke
+
+@END = 
+
+@KOODI_A = EFB
+
+@SUOMI_A = Leukojen korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ kÑkarna
+
+@ENGL_A = Reconstructive operations on jaws
+
+@END = 
+
+@KOODI = EFB10
+
+@VANHA = 
+
+@SUOMI = Leukaluun muovausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Benplastik pÜ kÑke
+
+@NOTE_F = Esim. torus, linea mylohyoidea
+
+@NOTE_S = T.ex. torus, linea mylohyoidea
+
+@END = 
+
+@KOODI = EFB20
+
+@VANHA = 
+
+@SUOMI = Kasvoluiden monimurtuman avoin korjaaminen ja kiinnitys
+
+@PRICE =      
+
+@RUOTSI = ôppen reposition och immobilisering av multipla ansiktsfrakturer
+
+@END = 
+
+@KOODI = EFB30
+
+@VANHA = 
+
+@SUOMI = Kasvoluumurtuman ulkoinen kiinnitys
+
+@PRICE =      
+
+@RUOTSI = Extern fixation vid behandling av ansiktsfraktur
+
+@END = 
+
+@KOODI = EFB40
+
+@VANHA = 
+
+@SUOMI = Luun kiinnitysmateriaalin poisto leuoista
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av osteosyntes- eller fixationsmaterial
+
+@END = 
+
+@KOODI = EFB50
+
+@VANHA = 
+
+@SUOMI = Hampaanoikomistoimenpide leuan kehityshÑiriîn leikkauksen yhteydessÑ
+
+@PRICE =      
+
+@RUOTSI = Ortodontisk ÜtgÑrd i samband med ortognatisk kirurgi
+
+@END = 
+
+@KOODI = EFB60
+
+@VANHA = 
+
+@SUOMI = Leuka-/kasvoluiden muovaus kÑyttÑen luusiirrettÑ tai vierasta ainetta
+
+@PRICE =      
+
+@RUOTSI = Plastik av kÑkben/ansiktsben med hjÑlp av bentransplantat eller alloplastik
+
+@END = 
+
+@KOODI = EFB99
+
+@VANHA = 
+
+@SUOMI = Muu leukojen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av kÑke
+
+@END = 
+
+@KOODI_A = EFW
+
+@SUOMI_A = Muut leukojen leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ kÑkarna
+
+@ENGL_A = Other operations on jaws
+
+@END = 
+
+@KOODI = EFW99
+
+@VANHA = 
+
+@SUOMI = Muu leukojen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ kÑke
+
+@END = 
+
+@KOODI_A = EGA
+
+@SUOMI_A = Leukanivelen tÑhystys
+
+@RUOTSI_A = Endoskopi av kÑkled
+
+@ENGL_A = Endoscopy of mandibular joint
+
+@NOTE_RF = SisÑltÑÑ koepalan oton tai aukaisun
+
+@NOTE_RF =
+Leukanivelen punktio kohdassa TEG00
+
+@NOTE_RS = Includerar incision eller biopsi
+
+@NOTE_RS =
+Punktion av kÑkled, se TEG00
+
+@END = 
+
+@KOODI = EGA00
+
+@VANHA = 
+
+@SUOMI = Leukanivelen tÑhystys
+
+@PRICE =      
+
+@RUOTSI = KÑkledsartroskopi
+
+@END = 
+
+@KOODI = EGA10
+
+@VANHA = 
+
+@SUOMI = Leukanivelen aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av kÑkled
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = EGA20
+
+@VANHA = 
+
+@SUOMI = Koepalan otto leukanivelestÑ
+
+@PRICE =      
+
+@RUOTSI = Biopsi av kÑkled
+
+@END = 
+
+@KOODI_A = EGB
+
+@SUOMI_A = Leukanivelen poistoleikkaukset
+
+@RUOTSI_A = Resektion av kÑkled
+
+@ENGL_A = Excision of mandibular joint
+
+@END = 
+
+@KOODI = EGB00
+
+@VANHA = 
+
+@SUOMI = Alaleuan nivelnastan poisto
+
+@PRICE =      
+
+@RUOTSI = Kondylektomi pÜ kÑkled
+
+@END = 
+
+@KOODI = EGB10
+
+@VANHA = 
+
+@SUOMI = Leukanivelen rustolevyn poisto
+
+@PRICE =      
+
+@RUOTSI = Diskoperation pÜ kÑkled
+
+@END = 
+
+@KOODI = EGB20
+
+@VANHA = 
+
+@SUOMI = Leukanivelen nivelkalvon poisto (synovektomia)
+
+@PRICE =      
+
+@RUOTSI = Synovektomi av kÑkled
+
+@END = 
+
+@KOODI = EGB99
+
+@VANHA = 
+
+@SUOMI = Muu leukanivelen poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av kÑkled
+
+@END = 
+
+@KOODI_A = EGC
+
+@SUOMI_A = Leukanivelen korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ kÑkled
+
+@ENGL_A = Reconstructive operations on mandibular joint
+
+@END = 
+
+@KOODI = EGC00
+
+@VANHA = 
+
+@SUOMI = Leukanivelen sijoiltaanmenon avoin korjaus
+
+@PRICE =      
+
+@RUOTSI = ôppen reposition av kÑkledsluxation
+
+@END = 
+
+@KOODI = EGC10
+
+@VANHA = 
+
+@SUOMI = Leukanivelen muovausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Plastikoperation pÜ kÑkled
+
+@END = 
+
+@KOODI = EGC20
+
+@VANHA = 
+
+@SUOMI = Leukanivelen muovausleikkaus luuta tai muuta ainetta kÑyttÑen
+
+@PRICE =      
+
+@RUOTSI = Plastikoperation pÜ kÑkled med ben- eller annat transplantat
+
+@END = 
+
+@KOODI = EGC30
+
+@VANHA = 
+
+@SUOMI = Leukanivelen proteesileikkaus
+
+@PRICE =      
+
+@RUOTSI = Protesoperation pÜ kÑkled
+
+@END = 
+
+@KOODI = EGC99
+
+@VANHA = 
+
+@SUOMI = Muu leukanivelen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av kÑkled
+
+@END = 
+
+@KOODI_A = EGW
+
+@SUOMI_A = Muut leukanivelien leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ kÑklederna
+
+@ENGL_A = Other operations on mandibular joint
+
+@END = 
+
+@KOODI = EGW99
+
+@VANHA = 
+
+@SUOMI = Muu leukanivelen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ kÑkled
+
+@END = 
+
+@KOODI_R = EH
+
+@SUOMI_R = Suulaen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ gommen
+
+@ENGL_R = Palate
+
+@NOTE_RF = Punktiot ja neulabiopsiat, katso TE
+
+@NOTE_RF =
+Siirteiden materiaali ilmoitetaan lisÑkoodilla luvusta Z
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@NOTE_RS =
+Material av transplantat anges med tillÑggskod, se Z
+
+@END = 
+
+@KOODI_A = EHA
+
+@SUOMI_A = Suulaen aukaisu tai koepalan otto
+
+@RUOTSI_A = Incision, biopsi av gommen
+
+@ENGL_A = Incision and biopsy of palate
+
+@END = 
+
+@KOODI = EHA00
+
+@VANHA = 
+
+@SUOMI = Suulaen aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av gommen
+
+@END = 
+
+@KOODI = EHA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto suulaesta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av gommen
+
+@END = 
+
+@KOODI_A = EHB
+
+@SUOMI_A = Suulaen poistoleikkaukset
+
+@RUOTSI_A = Resektion av gommen
+
+@ENGL_A = Excision of palate
+
+@END = 
+
+@KOODI = EHB00
+
+@VANHA = 
+
+@SUOMI = Suulaen kasvaimen poisto
+
+@PRICE =      
+
+@RUOTSI = Excision av lokal fîrÑndring i gommen
+
+@END = 
+
+@KOODI = EHB99
+
+@VANHA = 
+
+@SUOMI = Muu suulaen poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av gommen
+
+@NOTE_F = Siirteet ja kielekkeet luvussaZ
+
+@NOTE_S = Transplantat och lambÜer, se Z
+
+@END = 
+
+@KOODI_A = EHC
+
+@SUOMI_A = Suulaen korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ gommen
+
+@ENGL_A = Reconstructive operations on palate
+
+@END = 
+
+@KOODI = EHC00
+
+@VANHA = 
+
+@SUOMI = Suulaen haavan ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av sÜr i gommen
+
+@NOTE_F = SisÑltÑÑ tarvittavan haavan revision
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = EHC00
+
+@VANHA = 
+
+@SUOMI = Suulaen haavan ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av sÜr i gommen
+
+@NOTE_F = SisÑltÑÑ tarvittavan haavan revision
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = EHC10
+
+@VANHA = 
+
+@SUOMI = Suulakiavanteen sulkeminen suun ja nenÑ- tai poskiontelon vÑliltÑ
+
+@PRICE =      
+
+@RUOTSI = Slutning av oronasal- eller oroantral fistel i gommen
+
+@END = 
+
+@KOODI = EHC20
+
+@VANHA = 
+
+@SUOMI = Suulaen arpikudoksen poisto
+
+@PRICE =      
+
+@RUOTSI = érrevision i gommen
+
+@END = 
+
+@KOODI = EHC30
+
+@VANHA = 
+
+@SUOMI = Suulaen uudelleen muodostaminen
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av gommen
+
+@NOTE_F = esim. kasvainleikkauksen jÑlkeen
+
+@NOTE_S = T.ex. efter tumîroperation
+
+@END = 
+
+@KOODI = EHC40
+
+@VANHA = 
+
+@SUOMI = Suulakihalkion suora korjausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Slutning av gomspalt
+
+@NOTE_F = Primaarinen ja sekundaarinen korjausleikkaus ilmaistaan lisÑkoodilla ryhmÑstÑ ZSE.
+
+@NOTE_S = PrimÑr, respektive sekundÑr, rekonstruktion anges med tillÑggskod ur grupp ZSE
+
+@END = 
+
+@KOODI = EHC50
+
+@VANHA = 
+
+@SUOMI = Suulakihalkion korjaaminen farynxkielekkeellÑ
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av gomspalt med farynxlambÜ
+
+@NOTE_F = Primaarinen ja sekundaarinen korjausleikkaus ilmaistaan lisÑkoodilla ryhmÑstÑ ZSE.
+
+@NOTE_S = PrimÑr, respektive sekundÑr, rekonstruktion anges med tillÑggskod ur grupp ZSE
+
+@END = 
+
+@KOODI = EHC60
+
+@VANHA = 
+
+@SUOMI = Samanaikainen huuli-suulakihalkion korjaus
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av kombinerad lÑpp- gomspalt
+
+@NOTE_F = Primaarinen ja sekundaarinen korjausleikkaus ilmaistaan lisÑkoodilla ryhmÑstÑ ZSE.
+
+@NOTE_S = PrimÑr, respektive sekundÑr, rekonstruktion anges med tillÑggskod ur grupp ZSE
+
+@END = 
+
+@KOODI = EHC99
+
+@VANHA = 
+
+@SUOMI = Muu suulaen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av gommen
+
+@END = 
+
+@KOODI_A = EHW
+
+@SUOMI_A = Muut suulaen leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ gommen
+
+@ENGL_A = Other operations on palate
+
+@END = 
+
+@KOODI = EHW99
+
+@VANHA = 
+
+@SUOMI = Muu suulaen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ gommen
+
+@END = 
+
+@KOODI_R = EJ
+
+@SUOMI_R = Kielen ja suunpohjan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ tunga och munbotten
+
+@ENGL_R = Tongue and floor of mouth
+
+@NOTE_RF = Siirteet luvussa Z
+
+@NOTE_RF =
+Kaulan (imusolmukkeiden) toimenpiteet ryhmÑssÑ PJ
+
+@NOTE_RS = Material av transplantat anges med tillÑggskod, se Z
+
+@NOTE_RS =
+Ingrepp pÜ halsens lymfknutor, se PJ
+
+@END = 
+
+@KOODI_A = EJA
+
+@SUOMI_A = Kielen ja suunpohjan koepalan otto tai aukaisu
+
+@RUOTSI_A = Incision, biopsi av tunga och munbotten
+
+@ENGL_A = Incision, biopsy and removal of foreign body of tongue and floor of mouth
+
+@END = 
+
+@KOODI = EJA00
+
+@VANHA = 
+
+@SUOMI = Kielen tai suunpohjan mÑrkÑpesÑkkeen aukaisu ja kanavointi
+
+@PRICE =      
+
+@RUOTSI = Incision av abscess i tunga eller munbotten
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev. drÑnage
+
+@END = 
+
+@KOODI = EJA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto kielestÑ tai suunpohjasta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av tunga eller munbotten
+
+@END = 
+
+@KOODI = EJA20
+
+@VANHA = 
+
+@SUOMI = Vierasesineen poisto kielestÑ tai suunpohjasta
+
+@PRICE =      
+
+@RUOTSI = AvlÑgsnande av frÑmmande kropp frÜn tunga eller munbotten
+
+@END = 
+
+@KOODI_A = EJB
+
+@SUOMI_A = Kielen ja suunpohjan poistotoimenpiteet
+
+@RUOTSI_A = Resektion, extirpation av tunga och munbotten
+
+@ENGL_A = Excision of tongue and floor of mouth
+
+@END = 
+
+@KOODI = EJB00
+
+@VANHA = 
+
+@SUOMI = Ranulan poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av ranula
+
+@END = 
+
+@KOODI = EJB10
+
+@VANHA = 
+
+@SUOMI = Kasvaimen poisto kielen kÑrjestÑ tai keskiosasta
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av tungtumîr
+
+@NOTE_F = Ei sisÑllÑ kielen tyven kasvainta
+
+@NOTE_S = Exkl tungbastumîr
+
+@END = 
+
+@KOODI = EJB20
+
+@VANHA = 
+
+@SUOMI = Kasvaimen poisto kielentyvestÑ
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av tungbastumîr
+
+@END = 
+
+@KOODI = EJB30
+
+@VANHA = 
+
+@SUOMI = Kasvaimen poisto suunpohjasta
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av munbottentumîr
+
+@END = 
+
+@KOODI = EJB40
+
+@VANHA = 
+
+@SUOMI = Kielen puoliskon poisto
+
+@PRICE =      
+
+@RUOTSI = Hemiglossektomi
+
+@END = 
+
+@KOODI = EJB50
+
+@VANHA = 
+
+@SUOMI = Kielen poisto kokonaan
+
+@PRICE =      
+
+@RUOTSI = Total glossektomi
+
+@END = 
+
+@KOODI = EJB60
+
+@VANHA = 
+
+@SUOMI = Suunpohjan poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Resektion av munbottnen
+
+@END = 
+
+@KOODI = EJB99
+
+@VANHA = 
+
+@SUOMI = Muu kielen ja suunpohjan poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av tunga och munbotten
+
+@END = 
+
+@KOODI_A = EJC
+
+@SUOMI_A = Kielen ja suunpohjan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ tunga och munbotten
+
+@ENGL_A = Reconstructive operations on tongue and floor of mouth
+
+@END = 
+
+@KOODI = EJC00
+
+@VANHA = 
+
+@SUOMI = Kielen ja suunpohjan haavan ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av sÜr i tunga eller munbotten
+
+@NOTE_F = SisÑltÑÑ haavan puhdistamisen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = EJC20
+
+@VANHA = 
+
+@SUOMI = Suun alueen limakalvojÑnteen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Frenulum operation
+
+@NOTE_F = SisÑltÑÑ frenulumplastiikan
+
+@END = 
+
+@KOODI = EJC30
+
+@VANHA = 
+
+@SUOMI = Kielen korjaaminen, rekonstruktio
+
+@PRICE =      
+
+@RUOTSI = Tungplastik
+
+@END = 
+
+@KOODI = EJC40
+
+@VANHA = 
+
+@SUOMI = Kielen kiinnitys
+
+@PRICE =      
+
+@RUOTSI = Glossopexi
+
+@END = 
+
+@KOODI = EJC99
+
+@VANHA = 
+
+@SUOMI = Muu kielen ja suunpohjan korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av tunga och munbotten
+
+@END = 
+
+@KOODI_A = EJW
+
+@SUOMI_A = Muut kielen ja suupohjan leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ tunga och munbotten
+
+@ENGL_A = Other operations on tongue and floor of mouth
+
+@END = 
+
+@KOODI = EJW99
+
+@VANHA = 
+
+@SUOMI = Muu kielen ja suunpohjan leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ tunga och munbotten
+
+@END = 
+
+@KOODI_R = EK
+
+@SUOMI_R = Posken toimenpiteet
+
+@RUOTSI_R = Operationer pÜ kinden
+
+@ENGL_R = Cheek
+
+@NOTE_RF = SisÑltÑÑ ihon toimenpiteet muiden kerrosten toimenpiteiden yhteydessÑ.
+
+@NOTE_RF =
+PelkÑt posken ihon toimenpiteet, katso QA
+
+@END = 
+
+@KOODI_A = EKA
+
+@SUOMI_A = Posken aukaisu ja koepalan otto
+
+@RUOTSI_A = Incision, biopsi av kind
+
+@ENGL_A = Incision and biopsy of cheek
+
+@END = 
+
+@KOODI = EKA00
+
+@VANHA = 
+
+@SUOMI = Posken aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av kind
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = EKA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto poskesta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av kind
+
+@END = 
+
+@KOODI_A = EKB
+
+@SUOMI_A = Posken poisto osittain tai kokonaan
+
+@RUOTSI_A = Resektion av kind
+
+@ENGL_A = Excision of cheek
+
+@END = 
+
+@KOODI = EKB00
+
+@VANHA = 
+
+@SUOMI = Posken kasvaimen poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av lokal fîrÑndring i kind
+
+@END = 
+
+@KOODI = EKB99
+
+@VANHA = 
+
+@SUOMI = Muu posken poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av kind
+
+@END = 
+
+@KOODI_A = EKC
+
+@SUOMI_A = Posken korjaamistoimenpiteet
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ kind
+
+@ENGL_A = Reconstructive operations on cheek
+
+@END = 
+
+@KOODI = EKC00
+
+@VANHA = 
+
+@SUOMI = Posken ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av kind
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = EKC10
+
+@VANHA = 
+
+@SUOMI = Posken vierasesineen poisto
+
+@PRICE =      
+
+@RUOTSI = AvlÑgsnande av frÑmmande kropp frÜn kind
+
+@END = 
+
+@KOODI = EKC20
+
+@VANHA = 
+
+@SUOMI = Posken muovausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Plastikoperation av kind
+
+@END = 
+
+@KOODI = EKC30
+
+@VANHA = 
+
+@SUOMI = Posken korjaaminen
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av kind
+
+@END = 
+
+@KOODI = EKC99
+
+@VANHA = 
+
+@SUOMI = Muu posken korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annat rekonstruktivt ingrepp pÜ kind
+
+@END = 
+
+@KOODI_A = EKW
+
+@SUOMI_A = Muut posken leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ kind
+
+@ENGL_A = Other operations on cheek
+
+@END = 
+
+@KOODI = EKW99
+
+@VANHA = 
+
+@SUOMI = Muu posken leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ kind
+
+@END = 
+
+@KOODI_R = EL
+
+@SUOMI_R = Sylkirauhasten toimenpiteet
+
+@RUOTSI_R = Operationer pÜ spottkîrtlarna
+
+@ENGL_R = Salivary glands
+
+@END = 
+
+@KOODI_A = ELA
+
+@SUOMI_A = Sylkirauhasen koepalan otto tai aukaisu
+
+@RUOTSI_A = Incision, biopsi av spottkîrtel
+
+@ENGL_A = Incision and biopsy of salivary glands
+
+@END = 
+
+@KOODI = ELA00
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasen aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av spottkîrtel
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = ELA10
+
+@VANHA = 
+
+@SUOMI = Sylkirauhastiehyeen aukaisu
+
+@PRICE =      
+
+@RUOTSI = Sialodochotomi
+
+@END = 
+
+@KOODI = ELA20
+
+@VANHA = 
+
+@SUOMI = Sylkikiven poisto
+
+@PRICE =      
+
+@RUOTSI = Sialolithotomi
+
+@END = 
+
+@KOODI = ELA30
+
+@VANHA = 
+
+@SUOMI = Koepalan otto sylkirauhasesta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av spottkîrtel
+
+@END = 
+
+@KOODI_A = ELB
+
+@SUOMI_A = Sylkirauhasen poistoleikkaukset
+
+@RUOTSI_A = Resektion, exstirpation av spottkîrtel
+
+@ENGL_A = Excision of salivary gland
+
+@END = 
+
+@KOODI = ELB00
+
+@VANHA = 
+
+@SUOMI = Sylkirauhaskasvaimen tutkimusleikkaus tai poisto
+
+@PRICE =      
+
+@RUOTSI = Extirpation eller exploration av lokal fîrÑndring i spottkîrtel
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl enukleation av t ex tumîr
+
+@END = 
+
+@KOODI = ELB10
+
+@VANHA = 
+
+@SUOMI = Pienten sylkirauhasten poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av glandulae salivariae minores
+
+@END = 
+
+@KOODI = ELB20
+
+@VANHA = 
+
+@SUOMI = Kielenalussylkirauhasen poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av glandula sublingualis
+
+@END = 
+
+@KOODI = ELB30
+
+@VANHA = 
+
+@SUOMI = Leuanalussylkirauhasen poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av glandula submandibularis
+
+@END = 
+
+@KOODI = ELB40
+
+@VANHA = 
+
+@SUOMI = Korvasylkirauhasen poisto osittain
+
+@PRICE =      
+
+@RUOTSI = Delresektion av glandula parotis
+
+@END = 
+
+@KOODI = ELB50
+
+@VANHA = 
+
+@SUOMI = Korvasylkirauhasen poisto kokonaan
+
+@PRICE =      
+
+@RUOTSI = Totalexstirpation av glandula parotis
+
+@END = 
+
+@KOODI = ELB99
+
+@VANHA = 
+
+@SUOMI = Muu sylkirauhasten poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion eller excision av spottkîrtel
+
+@END = 
+
+@KOODI_A = ELC
+
+@SUOMI_A = Sylkirauhasen korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ spottkîrtlar
+
+@ENGL_A = Reconstructive operations on salivary glands
+
+@END = 
+
+@KOODI = ELC00
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasen ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av spottkîrtel
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = ELC30
+
+@VANHA = 
+
+@SUOMI = Sylkirauhastiehyen sitominen
+
+@PRICE =      
+
+@RUOTSI = Ligatur av spottkîrtelgÜng
+
+@END = 
+
+@KOODI = ELC40
+
+@VANHA = 
+
+@SUOMI = Sylkirauhastiehyen korjaaminen
+
+@PRICE =      
+
+@RUOTSI = Rekonstruktion av spottkîrtelgÜng
+
+@END = 
+
+@KOODI = ELC50
+
+@VANHA = 
+
+@SUOMI = Sylkirauhastiehyen laskuaukon siirto
+
+@PRICE =      
+
+@RUOTSI = Translokation av spottkîrtelgÜng
+
+@END = 
+
+@KOODI = ELC60
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasavanteen tukkiminen
+
+@PRICE =      
+
+@RUOTSI = Occlusion av fistel pÜ spottkîrtel
+
+@END = 
+
+@KOODI = ELC99
+
+@VANHA = 
+
+@SUOMI = Muu sylkirauhasen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av spottkîrtel
+
+@END = 
+
+@KOODI_A = ELW
+
+@SUOMI_A = Muut sylkirauhasten leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ spottkîrtlar
+
+@ENGL_A = Other operations on salivary glands
+
+@END = 
+
+@KOODI = ELW99
+
+@VANHA = 
+
+@SUOMI = Muu sylkirauhasten leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ spottkîrtel
+
+@END = 
+
+@KOODI_R = EM
+
+@SUOMI_R = Nielurisojen ja kitarisan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ tonsiller och adenoider
+
+@ENGL_R = Tonsils and adenoids
+
+@END = 
+
+@KOODI_A = EMA
+
+@SUOMI_A = Nielurisojen ja kitarisan koepalan otot ja aukaisut
+
+@RUOTSI_A = Biopsi, incision av tonsill och adenoid
+
+@ENGL_A = Incision and biopsy of tonsils and adenoids
+
+@END = 
+
+@KOODI = EMA00
+
+@VANHA = 
+
+@SUOMI = Nielurisan aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av tonsill
+
+@NOTE_F = Sis. mm kurkkupaiseen avauksen
+
+@NOTE_S = Inkl incision av halsbîld, peritonsillÑr abscess
+
+@END = 
+
+@KOODI = EMA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto nielurisoista
+
+@PRICE =      
+
+@RUOTSI = Biopsi av tonsill
+
+@END = 
+
+@KOODI = EMA20
+
+@VANHA = 
+
+@SUOMI = Kitarisan aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av adenoid
+
+@END = 
+
+@KOODI = EMA30
+
+@VANHA = 
+
+@SUOMI = Koepalan otto nenÑnielusta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av nasofarynx
+
+@END = 
+
+@KOODI_A = EMB
+
+@SUOMI_A = Nielurisojen ja kitarisan poistoleikkaukset
+
+@RUOTSI_A = Resektion, exstirpation av tonsill/adenoid
+
+@ENGL_A = Excision of tonsils and adenoids
+
+@END = 
+
+@KOODI = EMB00
+
+@VANHA = 
+
+@SUOMI = Kasvaimen poisto nielurisoista tai kitarisasta
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av tumîr i tonsill eller adenoid
+
+@END = 
+
+@KOODI = EMB10
+
+@VANHA = 
+
+@SUOMI = Nielurisaleikkaus
+
+@PRICE =      
+
+@RUOTSI = Tonsillektomi
+
+@END = 
+
+@KOODI = EMB20
+
+@VANHA = 
+
+@SUOMI = Kita- ja nielurisaleikkaus
+
+@PRICE =      
+
+@RUOTSI = Adenotonsillektomi
+
+@END = 
+
+@KOODI = EMB30
+
+@VANHA = 
+
+@SUOMI = Kitarisaleikkaus
+
+@PRICE =      
+
+@RUOTSI = Adenoidektomi
+
+@END = 
+
+@KOODI = EMB99
+
+@VANHA = 
+
+@SUOMI = Muu risojen ja rauhaskudoksen poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion/excision av tonsill eller adenoid
+
+@END = 
+
+@KOODI_A = EMC
+
+@SUOMI_A = Nielurisojen ja kitarisan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ tonsiller och adenoid
+
+@ENGL_A = Reconstructive operations on tonsils and adenoids
+
+@END = 
+
+@KOODI = EMC00
+
+@VANHA = 
+
+@SUOMI = Nielu- tai kitarisan ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av tonsill eller adenoid
+
+@NOTE_F = SisÑltÑÑ haavan puhdistuksen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = EMC10
+
+@VANHA = 
+
+@SUOMI = Vierasesineen poisto nielurisakudoksesta
+
+@PRICE =      
+
+@RUOTSI = AvlÑgsnande av frÑmmande kropp frÜn tonsill eller adenoid
+
+@END = 
+
+@KOODI = EMC99
+
+@VANHA = 
+
+@SUOMI = Muu nielurisojen ja kitarisan korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annat rekonstruktivt ingrepp pÜ tonsiller och adenoid
+
+@END = 
+
+@KOODI_A = EMW
+
+@SUOMI_A = Muut risakudoksen leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ tonsiller och adenoider
+
+@ENGL_A = Other operations on tonsils and adenoids
+
+@END = 
+
+@KOODI = EMW99
+
+@VANHA = 
+
+@SUOMI = Muu nielurisojen ja kitarisan leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ tonsill ehler adenoid
+
+@END = 
+
+@KOODI_R = EN
+
+@SUOMI_R = Nielun ja ympÑrîivien pehmytkudoksien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ farynx och nÑrliggande mjukdelar
+
+@ENGL_R = Pharynx and adjacent structures
+
+@END = 
+
+@KOODI_A = ENA
+
+@SUOMI_A = Nielun ja ympÑrîivÑn pehmytkudoksen koepalan otto tai aukaisu
+
+@RUOTSI_A = Biopsi, incision av farynx och nÑrliggande mjukdelar
+
+@ENGL_A = Incision and biopsy of pharynx and adjacent structures
+
+@END = 
+
+@KOODI = ENA00
+
+@VANHA = 
+
+@SUOMI = Nielun pesÑkkeen aukaisu
+
+@PRICE =      
+
+@RUOTSI = Incision av farynx eller nÑrliggande mjukdelar
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = ENA10
+
+@VANHA = 
+
+@SUOMI = Koepalan otto nielusta
+
+@PRICE =      
+
+@RUOTSI = Biopsi av farynx eller nÑrliggande mjukdelar
+
+@END = 
+
+@KOODI = ENA20
+
+@VANHA = 
+
+@SUOMI = Nielun aukaisu
+
+@PRICE =      
+
+@RUOTSI = Faryngotomi
+
+@END = 
+
+@KOODI = ENA30
+
+@VANHA = 
+
+@SUOMI = Nieluavanteen teko
+
+@PRICE =      
+
+@RUOTSI = Faryngostomi
+
+@END = 
+
+@KOODI = ENA32
+
+@VANHA = 
+
+@SUOMI = SyvÑn kaulainfektion avaaminen
+
+@PRICE =      
+
+@RUOTSI = Evakuering av djup halsabscess
+
+@NOTE_F = SisÑltÑÑ nielusta alkaneiden infektioiden hoidon
+
+@NOTE_F =
+Tuki- ja liikuntaelinten sairauksiin liittyvÑt toimenpiteet kohdassa NAS00
+
+@NOTE_S = Inkl behandling av infektioner med ursprung i svalgen
+
+@NOTE_S =
+ètgÑrder fîr sjukdomar i muskuloskeletala systemet, se NAS00
+
+@END = 
+
+@KOODI_A = ENB
+
+@SUOMI_A = Nielun ja ympÑrîivÑn pehmytkudoksen poistoleikkaukset
+
+@RUOTSI_A = Resektion av farynx och nÑrliggande mjukdelar
+
+@ENGL_A = Excision of pharynx and adjacent structures
+
+@END = 
+
+@KOODI = ENB00
+
+@VANHA = 
+
+@SUOMI = Nielukasvaimen tutkimusleikkaus tai poisto
+
+@PRICE =      
+
+@RUOTSI = Excision eller exploration av lokal fîrÑndring i farynx
+
+@END = 
+
+@KOODI = ENB10
+
+@VANHA = 
+
+@SUOMI = Alanielun umpipussin poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av hypofarynxdivertikel
+
+@END = 
+
+@KOODI = ENB20
+
+@VANHA = 
+
+@SUOMI = Nielun poisto
+
+@PRICE =      
+
+@RUOTSI = Faryngektomi
+
+@END = 
+
+@KOODI = ENB30
+
+@VANHA = 
+
+@SUOMI = KurkunpÑÑn ja nielun poisto
+
+@PRICE =      
+
+@RUOTSI = Laryngofaryngektomi
+
+@END = 
+
+@KOODI = ENB40
+
+@VANHA = 
+
+@SUOMI = Lateraalisen kaulakystan tai -avanteen poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation lateral halscysta eller -fistel
+
+@NOTE_F = Preaurikulaarisen fistelin poisto kohdassa DAB20
+
+@NOTE_S = AvlÑgsnande av preaurikulÑr fistel, se DAB20
+
+@END = 
+
+@KOODI = ENB50
+
+@VANHA = 
+
+@SUOMI = Kilpirauhas-kielitiehyeen poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av ductus thyreoglossus
+
+@NOTE_F = SisÑltÑÑ mediaalisen kaulakystan  tai fistelin hoidon
+
+@NOTE_S = Inkl medial halscysta eller -fistel
+
+@END = 
+
+@KOODI = ENB60
+
+@VANHA = 
+
+@SUOMI = PuikkolisÑkkeen poisto
+
+@PRICE =      
+
+@RUOTSI = Exstirpation av processus styloideus
+
+@END = 
+
+@KOODI = ENB99
+
+@VANHA = 
+
+@SUOMI = Muu nielun ja ympÑrîivien pehmytkudosten poistoleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan resektion av farynx och nÑrliggande mjukdelar
+
+@END = 
+
+@KOODI_A = ENC
+
+@SUOMI_A = Nielun ja ympÑrîivÑn pehmytkudoksen korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ farynx och nÑrliggande mjukdelar
+
+@ENGL_A = Reconstructive operations on pharynx and adjacent structures
+
+@NOTE_RF = Hankarauhasen leikkaukset  kohdassa BDA
+
+@NOTE_RS = Operationer fîr glomus caroticum, se BDA
+
+@END = 
+
+@KOODI = ENC00
+
+@VANHA = 
+
+@SUOMI = Nielun ja ympÑrîivÑn pehmytkudoksen haavan ompelu
+
+@PRICE =      
+
+@RUOTSI = Sutur av sÜr i farynx eller nÑrliggande mjukdelar
+
+@NOTE_F = SisÑltÑÑ haavan puhdistuksen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = ENC10
+
+@VANHA = 
+
+@SUOMI = Vierasesineen poisto nielusta
+
+@PRICE =      
+
+@RUOTSI = AvlÑgsnande av frÑmmande kropp frÜn farynx eller nÑrliggande mjukdelar
+
+@END = 
+
+@KOODI = ENC20
+
+@VANHA = 
+
+@SUOMI = Rengasrustolihaksen katkaisu
+
+@PRICE =      
+
+@RUOTSI = Myotomi av m. cricopharyngeus
+
+@END = 
+
+@KOODI = ENC30
+
+@VANHA = 
+
+@SUOMI = Nielun muovausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Plastikoperation av farynx
+
+@NOTE_F = Esim.  kitakielekkeen muovaus
+
+@NOTE_S = Inkl uvulaplastik
+
+@END = 
+
+@KOODI = ENC40
+
+@VANHA = 
+
+@SUOMI = Uvulopalatopharyngo -muovausleikkaus
+
+@PRICE =      
+
+@RUOTSI = Uvulo-palato-faryngoplastik
+
+@END = 
+
+@KOODI = ENC50
+
+@VANHA = 
+
+@SUOMI = Nieluavanteen sulkeminen
+
+@PRICE =      
+
+@RUOTSI = Slutning av farynxfistel
+
+@END = 
+
+@KOODI = ENC60
+
+@VANHA = 
+
+@SUOMI = Nielukiinnikkeiden vapautus
+
+@PRICE =      
+
+@RUOTSI = Adherenslîsning i farynx
+
+@END = 
+
+@KOODI = ENC70
+
+@VANHA = 
+
+@SUOMI = Nielun muovausleikkaus avohonotuksen takia
+
+@PRICE =      
+
+@RUOTSI = Operation pÜ svalget fîr îppen rinolali, rhinolalia aperta
+
+@END = 
+
+@KOODI = ENC80
+
+@VANHA = 
+
+@SUOMI = PehmeÑn suulaen muovausleikkaus avohonotuksen takia
+
+@PRICE =      
+
+@RUOTSI = Operation pÜ mjuka gommen fîr îppen rinolali, rhinolalia aperta
+
+@NOTE_F = Velofaryngeoplastia
+
+@NOTE_S = Velofaryngoplastik
+
+@END = 
+
+@KOODI = ENC99
+
+@VANHA = 
+
+@SUOMI = Muu nielun ja ympÑrîivÑn pehmytkudoksen korjaamisleikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan rekonstruktion av farynx eller nÑrliggande mjukdelar
+
+@END = 
+
+@KOODI_A = ENW
+
+@SUOMI_A = Muut nielun ja ympÑrîivÑn pehmytkudosen leikkaukset
+
+@RUOTSI_A = Andra operationer pÜ farynx och nÑrliggande mjukdelar
+
+@ENGL_A = Other operations on pharynx and adjacent structures
+
+@END = 
+
+@KOODI = ENW99
+
+@VANHA = 
+
+@SUOMI = Muu nielun ja ympÑrîivÑn pehmytkudoksen leikkaus
+
+@PRICE =      
+
+@RUOTSI = Annan operation pÜ farynx eller nÑrliggande mjukdelar
+
+@END = 
+
+@KOODI_R = EW
+
+@SUOMI_R = Leuka-, hammas-, suu- ja nieluleikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer fîr sÜrkomplikationer av operationer pÜ lÑppar, tÑnder, kÑkar, mun och svalg
+
+@ENGL_R = Reoperations for complications in surgery of teeth, jaws, mouth and pharynx
+
+@END = 
+
+@KOODI = EWA00
+
+@VANHA = 
+
+@SUOMI = Auenneen tai tulehtuneen leuka-, suu- tai nieluleikkaushaavan tarkistaminen
+
+@PRICE =      
+
+@RUOTSI = Revision av sÜrruptur/sÜrinfektion efter kÑk-, mun- eller svalgoperation
+
+@END = 
+
+@KOODI = EWD00
+
+@VANHA = 
+
+@SUOMI = Uusintaleikkaus leuka-, suu-, tai nieluleikkauksen haavan vuodon vuoksi
+
+@PRICE =      
+
+@RUOTSI = Revision av blîdning efter kÑk-, mun- eller svalgoperation
+
+@END = 
+
+@KOODI = EWW99
+
+@VANHA = 
+
+@SUOMI = Muu leuka-, suu- ja nieluleikkauksen haavakomplikaatioleikkaus
+
+@PRICE =      
+
+@RUOTSI = Revision av annan komplikation efter kÑk-, mun- eller svalgoperation
+
+@END = 
+
+@LUVUT = LUKU S
+
+@LUVUT_S = KAPITEL S
+
+@SUOMI_L = Suun ja hampaiston avohoidon toimenpiteet
+
+@RUOTSI_L = ôppenvÜrds ÜtgÑrder tÑnder och mun
+
+@ENGL_L = Non-surgical procedures of mouth and teeth
+
+@NOTE_LF = TÑhÑn sisÑltyy tavallisesti avohoidossa tehtÑvÑt suun ja hampaiston hoitotoimenpiteet.
+
+@NOTE_LF =
+Kirurgiset toimenpiteet, katso luku E
+
+@NOTE_LS = Kirugiska ÜtgÑrder, se kapitel E
+
+@END_L = 
+
+@KOODI_R = SA
+
+@SUOMI_R = Suun ja hampaiston tutkimukset
+
+@RUOTSI_R = Undersîkining av tÑnder och mun
+
+@ENGL_R = Investigation of mouth and teeth
+
+@NOTE_RF = Tutkimustoimenpiteet ovat kokonaisuuksia, joihin sisÑltyy aina anamneesi, diagnoosi,  hoitosuunnitelma ja kustannusarvio.
+
+@END = 
+
+@KOODI_A = SAA
+
+@SUOMI_A = HammaslÑÑkÑrin tekemÑ tutkimus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Seulontatutkimus, katso WYA00
+
+@NOTE_RF =
+Radiologiset toimenpiteet kts. Liite 1
+
+@END = 
+
+@KOODI = SAA01
+
+@VANHA = 201
+
+@SUOMI = Suun suppea tutkimus
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Esim. sÑrkypotilaat pÑivystyksessÑ, erilaiset kontrollit
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SAA02
+
+@VANHA = 301
+
+@SUOMI = Suun perustutkimus
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@NOTE_F = Esim. jÑrjestelmÑllisessÑ hoidossa olevan potilaan purentaelimen mÑÑrÑaikaistutkimus
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SAA03
+
+@VANHA = 401, 501
+
+@SUOMI = Suun laaja tutkimus
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Esim. uuden potilaan purentaelimen tutkimus
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SAA04
+
+@VANHA = 601, 701, 801
+
+@SUOMI = Suun erityistutkimus
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ kliinisen tutkimuksen ja perustuu lisÑksi rîntgen- ja laboratoriotutkimuksiin ja/tai kipsimalleihin
+
+@NOTE_F =
+Kesto yli 30 min
+
+@END = 
+
+@KOODI_R = SB
+
+@SUOMI_R = TÑydentÑvÑt tutkimukset
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI_A = SBA
+
+@SUOMI_A = Vastaanotolla suoritettavat sylkitestit
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SBA00
+
+@VANHA = 393
+
+@SUOMI = Mikrobiologinen sylkitesti
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@NOTE_F = Laktobasillitesti, mutans streptokokkitesti,  hiivasienitesti tai muu vastaava
+
+@END = 
+
+@KOODI = SBA10
+
+@VANHA = 
+
+@SUOMI = Syljen eritysnopeuden mÑÑritys
+
+@PRICE = 1    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SBA20
+
+@VANHA = 
+
+@SUOMI = Puskurikapasiteetin mÑÑritys
+
+@PRICE = 1    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = SBB
+
+@SUOMI_A = Muut suun ja hampaiston tutkimukset
+
+@RUOTSI_A = Andra undersîkningar av tÑnder och mun
+
+@END = 
+
+@KOODI = SBB00
+
+@VANHA = 
+
+@SUOMI = Suun ja hampaiston valokuvaus
+
+@PRICE = 3    
+
+@RUOTSI = Fotografering av tÑnder och mun
+
+@NOTE_F = Kliinisen lîydîksen nykytilan dokumentointi valokuvaamalla
+
+@NOTE_F = Kirjataan kerran kÑyntikerralla
+
+@END = 
+
+@KOODI = SBB10
+
+@VANHA = 
+
+@SUOMI = Hampaiston jÑljennîkset ja kipsimallit
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = SC
+
+@SUOMI_R = EhkÑisevÑ hammashoito
+
+@RUOTSI_R = 
+
+@NOTE_RF = EhkÑisevÑÑn hoitoon ei luokitella kiinnityskudossairauksien hoitoa kuten esimerkiksi subgingivaalisen hammaskiven poistoa (katso SD).
+
+@END = 
+
+@KOODI_A = SCA
+
+@SUOMI_A = Hammashoitoon liittyvÑ ravintoanalyysi ja neuvonta
+
+@RUOTSI_A = 
+
+@NOTE_RF = EdellyttÑÑ merkintÑ potilasasiakirjaan
+
+@END = 
+
+@KOODI = SCA01
+
+@VANHA = 211
+
+@SUOMI = Suppea hammashoitoon liittyvÑ ravintoanalyysi ja neuvonta
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn10 min
+
+@END = 
+
+@KOODI = SCA02
+
+@VANHA = 311, 411, 511
+
+@SUOMI = Hammashoitoon liittyvÑ ravintoanalyysi ja neuvonta
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto yli 10 min
+
+@END = 
+
+@KOODI_A = SCB
+
+@SUOMI_A = Kotihoidon opetus
+
+@RUOTSI_A = 
+
+@NOTE_RF = EdellyttÑÑ merkintÑ potilasasiakirjaan
+
+@END = 
+
+@KOODI = SCB01
+
+@VANHA = 211
+
+@SUOMI = Suppea suun kotihoidon opetus
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SCB02
+
+@VANHA = 311, 411, 511
+
+@SUOMI = Suun kotihoidon opetus
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto yli 10 min
+
+@END = 
+
+@KOODI_A = SCC
+
+@SUOMI_A = Fluori tai muu vastaava kÑsittely
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SCC01
+
+@VANHA = 211
+
+@SUOMI = Suun suppea fluori tai muu vastaava kÑsittely
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn10 min
+
+@END = 
+
+@KOODI = SCC02
+
+@VANHA = 311, 411, 511
+
+@SUOMI = Suun fluori tai muu vastaava kÑsittely
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto yli10 min
+
+@END = 
+
+@KOODI_A = SCD
+
+@SUOMI_A = Plakin ja nÑkyvÑn hammaskiven poisto
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SCD01
+
+@VANHA = 211
+
+@SUOMI = Suppea plakin ja nÑkyvÑn hammaskiven poisto
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SCD02
+
+@VANHA = 311, 411, 511
+
+@SUOMI = Plakin ja nÑkyvÑn hammaskiven poisto
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto yli 10 min
+
+@END = 
+
+@KOODI_A = SCE
+
+@SUOMI_A = Hampaiden pinnoitus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Pinnoituksella tarkoitetaan ehjÑn, vastapuhjenneen hampaan uurteiden pinnoittamista. Jos pinnoituksen yhteydessÑ on kuitenkin poistettu hampaan kovakudosta ja se on korvattu jollakin tÑyteaineella, kÑytetÑÑn paikkauskoodia SFA00.
+
+@END = 
+
+@KOODI = SCE00
+
+@VANHA = 312
+
+@SUOMI = Hampaan pinnoitus
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@NOTE_F = KÑyntikerralla tilastoidaan korkeintaan yksi toimenpide leuanpuoliskoa kohden
+
+@END = 
+
+@KOODI_R = SD
+
+@SUOMI_R = Ikenen ja hampaan kiinnityskudossairauksien hoito
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI_A = SDA
+
+@SUOMI_A = Parodontologinen hoito
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kaikki samalla kÑyntikerralla tehty kiinnityskudoksiin kohdistunut  hoito ilmaistaan yhdellÑ koodilla
+
+@END = 
+
+@KOODI = SDA01
+
+@VANHA = 221
+
+@SUOMI = Suppea parodontologinen hoito
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Esim. vÑhÑisen hammaskiven ja/tai pehmeiden peitteiden poisto kÑyntikerralta
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SDA02
+
+@VANHA = 321, 421
+
+@SUOMI = Parodontologinen hoito
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Esim. hammaskiven poisto ja hampaiden kiinnityskudossairauden hoito kÑyntikerralta
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SDA03
+
+@VANHA = 521
+
+@SUOMI = Vaativa parodontologinen hoito
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@NOTE_F = Esim. kyretointi tai syvien ientaskujen hoito
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SDA04
+
+@VANHA = 621, 721, 821
+
+@SUOMI = ErittÑin vaativa parodontologinen hoito
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = Esim laaja ja vaativa kyretointi, hammaskiven poisto, syventyneiden ientaskujen hoito tai parodontologinen kiskotus
+
+@NOTE_F = Kesto yli 30 min
+
+@END = 
+
+@KOODI_R = SF
+
+@SUOMI_R = Paikkaushoidot
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI_A = SFA
+
+@SUOMI_A = Paikkaushoito suoralla menetelmÑllÑ
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SFA00
+
+@VANHA = 
+
+@SUOMI = Pieni tÑyte
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@NOTE_F = Pieni korjaus tai lisÑys
+
+@NOTE_F = KÑytetÑÑn myîskin silloin, kun pinnoite ulottuu hammasluuhun (kts. EhkÑisevÑ hammashoito SCE)
+
+@END = 
+
+@KOODI = SFA10
+
+@VANHA = 331, 432
+
+@SUOMI = Yhden pinnan tÑyte
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan yhdestÑ pinnasta
+
+@NOTE_F = Jos samalle pinnalle tehdÑÑn saman hoitojakson aikana useampia tÑytteitÑ, merkitÑÑn koodi vain kerran
+
+@END = 
+
+@KOODI = SFA20
+
+@VANHA = 431, 632
+
+@SUOMI = Kahden pinnan tÑyte
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan kahdesta hampaan pinnasta
+
+@END = 
+
+@KOODI = SFA30
+
+@VANHA = 531, 732
+
+@SUOMI = Kolmen tai useamman pinnan tÑyte
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan kolmesta hampaan pinnasta
+
+@NOTE_F =
+SisÑltÑÑ vÑli- ja poskihampaaseen tunnelipreparoinnilla tehdyn tÑytteen
+
+@END = 
+
+@KOODI = SFA40
+
+@VANHA = 731, 832
+
+@SUOMI = TerÑ tai kruunu
+
+@PRICE = 8    
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan ainakin neljÑstÑ hampaan pinnasta
+
+@END = 
+
+@KOODI_A = SFB
+
+@SUOMI_A = Paikkaushoito epÑsuoralla menetelmÑllÑ
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SFB10
+
+@VANHA = 633
+
+@SUOMI = Suun ulkopuolella valmistettu yhden pinnan tÑyte
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan hampaan yhdestÑ pinnasta
+
+@END = 
+
+@KOODI = SFB20
+
+@VANHA = 833
+
+@SUOMI = Suun ulkopuolella valmistettu kahden pinnan tÑyte
+
+@PRICE = 8    
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan hampaan kahdesta pinnasta
+
+@NOTE_F =
+SisÑltÑÑ etuhampaan fasadin, joka ei ulotu hampaan kÑrjen yli
+
+@END = 
+
+@KOODI = SFB30
+
+@VANHA = 1133
+
+@SUOMI = Suun ulkopuolella valmistettu kolmen pinnan tÑyte
+
+@PRICE = 11   
+
+@RUOTSI = 
+
+@NOTE_F = TÑyte korvaa huomattavan osan hampaan kolmesta pinnasta
+
+@NOTE_F =
+SisÑltÑÑ etuhampaan fasadin, joka ulottuu hampaan kÑrjen yli
+
+@END = 
+
+@KOODI_A = SFC
+
+@SUOMI_A = AlustÑyte
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SFC00
+
+@VANHA = 731
+
+@SUOMI = AlustÑytepilari
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = Toimenpide liittyy kruunun tai terÑn valmistukseen ja se tehdÑÑn erillisellÑ kÑyntikerralla
+
+@END = 
+
+@KOODI_R = SG
+
+@SUOMI_R = Hampaan juurenhoito
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI_A = SGA
+
+@SUOMI_A = Hampaan juurikanavien avaus
+
+@RUOTSI_A = 
+
+@NOTE_RF = SisÑltÑÑ mahdollisen lÑÑkehoidon juurikanavan avauksen yhteydessÑ
+
+@END = 
+
+@KOODI = SGA02
+
+@VANHA = 235, 335, 435
+
+@SUOMI = Hampaan juurikanavien avaus ja laajennus
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SGA03
+
+@VANHA = 535
+
+@SUOMI = Vaativa hampaan juurikanavien avaus ja laajennus
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SGA04
+
+@VANHA = 635, 735
+
+@SUOMI = ErittÑin vaativa hampaan juurikanavien avaus ja laajennus
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto yli 30 min
+
+@END = 
+
+@KOODI_A = SGB
+
+@SUOMI_A = Hampaan juurentÑyttî
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SGB00
+
+@VANHA = 235, 335, 435, 535
+
+@SUOMI = Osittainen hammasytimen poisto (amputaatio)
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SGB10
+
+@VANHA = 235, 335
+
+@SUOMI = Hampaan juurentÑyttî, 1-juurikanavainen hammas
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SGB20
+
+@VANHA = 435, 535
+
+@SUOMI = Hampaan juurentÑyttî, 2-juurikanavainen hammas
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SGB30
+
+@VANHA = 635, 735, 835
+
+@SUOMI = Muu vaativa juurentÑyttî
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ 3- tai useampijuurikanavaisen hampaan juurentÑytîn
+
+@END = 
+
+@KOODI_A = SGC
+
+@SUOMI_A = Muut juurenhoitotoimenpiteet
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SGC00
+
+@VANHA = 
+
+@SUOMI = Juurikanavien lÑÑkehoito
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Aikaisemmin avattujen juurikanavien lÑÑkehoito erillisellÑ kÑynnillÑ
+
+@END = 
+
+@KOODI = SGC10
+
+@VANHA = 
+
+@SUOMI = Hammasytimen (pulpan) kattaminen
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ mahdollisen vÑliaikaisen tÑytteen
+
+@END = 
+
+@KOODI_R = SH
+
+@SUOMI_R = Purentafysiologia
+
+@RUOTSI_R = 
+
+@NOTE_RF = Purentafysiologinen hoito edellyttÑÑ diagnosoitua toimintahÑiriîtÑ, purennan sairautta tai vammaa. Tavanomainen kontrolli muun hammashoidon yhteydessÑ ei ole tÑssÑ tarkoitettua purentafysiologista hoitoa.
+
+@END = 
+
+@KOODI_A = SHA
+
+@SUOMI_A = Purentafysiologinen hoitokÑynti
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kaikki yhdellÑ kÑyntikerralla suoritetut purentafysiologiset toimenpiteet, joita ei ole muualla erikseen luokiteltu, ilmaistaan yhdellÑ koodilla
+
+@END = 
+
+@KOODI = SHA01
+
+@VANHA = 241
+
+@SUOMI = Suppea purentafysiologinen hoitokÑynti
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SHA02
+
+@VANHA = 341, 441
+
+@SUOMI = Purentafysiologinen hoitokÑynti
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SHA03
+
+@VANHA = 541
+
+@SUOMI = Vaativa purentafysiologinen hoitokÑynti
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SHA04
+
+@VANHA = 641, 741, 841
+
+@SUOMI = ErittÑin vaativa purentafysiologinen hoitokÑynti
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto yli 30 min
+
+@END = 
+
+@KOODI_A = SHB
+
+@SUOMI_A = Purentakisko
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SHB00
+
+@VANHA = 942
+
+@SUOMI = Purentakiskon valmistus ja suuhun sovitus
+
+@PRICE = 9    
+
+@RUOTSI = 
+
+@NOTE_F = Toimenpide on hoitokokonaisuus, joka kÑsittÑÑ purentakiskon   valmistuksen jÑljennîksineen ja kÑyttîohjeineen
+
+@NOTE_F =
+Leukanivelen sijoiltaan menon reponointi kts. TED00
+
+@END = 
+
+@KOODI_R = SJ
+
+@SUOMI_R = Oikomishoito
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI_A = SJA
+
+@SUOMI_A = Oikomishoidon suunnittelu
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SJA02
+
+@VANHA = 
+
+@SUOMI = Oikomiskojeen tyîsuunnittelu
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = EnintÑÑn 20 min.
+
+@END = 
+
+@KOODI = SJA03
+
+@VANHA = 
+
+@SUOMI = Vaativa oikomiskojeen tyîsuunnittelu
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@NOTE_F = EnintÑÑn 30 min
+
+@END = 
+
+@KOODI = SJA04
+
+@VANHA = 
+
+@SUOMI = ErittÑin vaativa oikomiskojeen tyîsuunnittelu
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = Yli 30 min
+
+@END = 
+
+@KOODI_A = SJB
+
+@SUOMI_A = Oikomishoito irtokojeilla
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SJB00
+
+@VANHA = 562
+
+@SUOMI = Irtokojeen sovitus ja kÑytîn opetus
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJB30
+
+@VANHA = 264
+
+@SUOMI = EkstraoraalijÑrjestelyt ja kÑytîn opetus
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJB60
+
+@VANHA = 464
+
+@SUOMI = Irtokojeen hionnat ja sÑÑtî
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = SJC
+
+@SUOMI_A = Oikomishoito kiinteillÑ kojeilla
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SJC00
+
+@VANHA = 163
+
+@SUOMI = Etsattava tai muu vastaava kiinnike
+
+@PRICE = 1    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJC10
+
+@VANHA = 362
+
+@SUOMI = Rengaskiinnike / hammas
+
+@PRICE = 3    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJC20
+
+@VANHA = 264
+
+@SUOMI = EkstraoraalivetojÑrjestelyt ja kÑytîn opetus
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJC40
+
+@VANHA = 465
+
+@SUOMI = KiinteÑn oikomiskojeen purkaminen leukaa kohden (enintÑÑn 6 kiinnikettÑ)
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJC50
+
+@VANHA = 664
+
+@SUOMI = KiinteÑn oikomiskojeen purkaminen leukaa kohden (vÑhintÑÑn 7 kiinnikettÑ)
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = SJD
+
+@SUOMI_A = Oikomiskojeen kaaret
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SJD00
+
+@VANHA = 661
+
+@SUOMI = Muotoiltava kiinteÑn oikomiskojeen kaari
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJD10
+
+@VANHA = 662
+
+@SUOMI = HammaslÑÑkÑrin tekemÑ palatinaalitai lingualikaari juotoksineen
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJD20
+
+@VANHA = 563
+
+@SUOMI = KiinteÑn oikomiskojeen kaari
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJD30
+
+@VANHA = 861
+
+@SUOMI = Vaativa kiinteÑn oikomiskojeen kaari
+
+@PRICE = 8    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJD40
+
+@VANHA = 861
+
+@SUOMI = ErittÑin vaativa kiinteÑn oikomiskojeen kaari
+
+@PRICE = 8    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJD50
+
+@VANHA = 565
+
+@SUOMI = Tehdas- tai laboratoriovalmisteisen  palatinaali- tai lingualikaaren etsauskiinnitys tai sementointi
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJD60
+
+@VANHA = 564
+
+@SUOMI = KiinteÑn oikomiskojeen kaaren irroitus ja/tai uudelleen aktivointi ja kiinnitys
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = SJE
+
+@SUOMI_A = Oikomishoitoon liittyvÑ hionta
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SJE01
+
+@VANHA = 
+
+@SUOMI = Suppea hampaiston oikomishoitoon liittyvÑ hionta
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJE02
+
+@VANHA = 
+
+@SUOMI = Hampaiston oikomishoitoon liittyvÑ hionta
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJE03
+
+@VANHA = 
+
+@SUOMI = Vaativa hampaiston oikomishoitoon liittyvÑ hionta
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJE90
+
+@VANHA = 
+
+@SUOMI = Hampaiston oikomishoidon viimeistely
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ purennan tasapainoitushionnan
+
+@END = 
+
+@KOODI_A = SJX
+
+@SUOMI_A = Muu oikomishoito
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SJX00
+
+@VANHA = 663
+
+@SUOMI = HammaslÑÑkÑrin tekemÑ oikomiskojeen korjaus
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SJX10
+
+@VANHA = 262
+
+@SUOMI = Hampaiston oikomishoitoon liittyvÑ hoito tai kontrollikÑynti
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = KÑytetÑÑn vain silloin kun tehdÑ muuta oikomistoimenpidettÑ
+
+@NOTE_F = JÑljennîkset ja kipsimallit kts. tÑydentÑvÑt tutkimukset
+
+@END = 
+
+@KOODI_R = SP
+
+@SUOMI_R = Hammasprotetiikka
+
+@RUOTSI_R = 
+
+@NOTE_RF = Protetiikan toimenpiteiden nimikkeeksi on turhan toistamisen vÑlttÑmiseksi useimmiten valittu vain toimenpiteen lopputulos. TÑten esimerksi 'Kokoproteesi' tarkoittaa kaikkia niitÑ toimenpiteitÑ, joita potilaan kokoproteesin tekemiseksi
+tarvitaan. Hammasteknikon tyî ei kuitenkaan sisÑlly toimenpiteisiin.
+
+@END = 
+
+@KOODI_A = SPA
+
+@SUOMI_A = Hammasprotetiikkaa valmistelevat toimenpiteet
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SPA00
+
+@VANHA = 
+
+@SUOMI = Hampaiston muotoilu proteettista tyîtÑ varten
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SPA10
+
+@VANHA = 
+
+@SUOMI = Tarkkuuskiinnikkeet hampaisiin tai implantteihin
+
+@PRICE = 10   
+
+@RUOTSI = 
+
+@NOTE_F = Huomioidaan yksi toimenpide proteesia kohden
+
+@END = 
+
+@KOODI_A = SPB
+
+@SUOMI_A = Hammasprotetiikan tilapÑiset rakenteet
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SPB00
+
+@VANHA = 273
+
+@SUOMI = TilapÑinen tehdasvalmisteinen kruunu
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPB10
+
+@VANHA = 573
+
+@SUOMI = TilapÑisen kruunun valmistaminen vastaanotolla
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPB20
+
+@VANHA = 274
+
+@SUOMI = TilapÑinen silta/siltayksikkî
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = VÑliaikaisen sillan valmistustoimenpide kutakin hammaskruunua kohden
+
+@END = 
+
+@KOODI = SPB30
+
+@VANHA = 971
+
+@SUOMI = TilapÑinen osaproteesi
+
+@PRICE = 9    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = SPC
+
+@SUOMI_A = KiinteÑt hammasproteesit
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SPC10
+
+@VANHA = 1071, 1171
+
+@SUOMI = Kruunu
+
+@PRICE = 11   
+
+@RUOTSI = 
+
+@NOTE_F = Myîskin sillan tukihampaana
+
+@END = 
+
+@KOODI = SPC20
+
+@VANHA = 572, 1172
+
+@SUOMI = Implanttikantoinen kruunu
+
+@PRICE = 11   
+
+@RUOTSI = 
+
+@NOTE_F = Myîskin sillan tukihampaana
+
+@END = 
+
+@KOODI = SPC30
+
+@VANHA = 1172
+
+@SUOMI = Pintakiinnitteinen kruunu, laminaatti tai silta
+
+@PRICE = 10   
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPC40
+
+@VANHA = 1072
+
+@SUOMI = Sillan 1. tai 2. vÑlihammas
+
+@PRICE = 8    
+
+@RUOTSI = 
+
+@NOTE_F = Kuhunkin vÑlihampaaseen liittyvÑ tyî koodataan erikseen, vaikka tyî suoritettaisiin samalla kÑynnillÑ
+
+@END = 
+
+@KOODI = SPC45
+
+@VANHA = 773
+
+@SUOMI = Sillan 3. tai sitÑ seuraava vÑlihammas
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@NOTE_F = Kuhunkin vÑlihampaaseen liittyvÑ tyî koodataan erikseen, vaikka tyî suoritettaisiin samalla kÑynnillÑ
+
+@END = 
+
+@KOODI = SPC50
+
+@VANHA = 771
+
+@SUOMI = Nastapilari
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = TÑhÑn sisÑltyy hammasteknisessÑ laboratoriossa valmistettuun nastapilariin liittyvÑt toimenpiteet.
+
+@NOTE_F =
+Toimenpiteensuorittajan itse valmistama nastapilari sisÑltyy paikkaushoitoon, katso SFC00
+
+@NOTE_F =
+Etuhampaan fasadi sisÑltyy paikkaushoitoon, katso SFB20, SFB30
+
+@END = 
+
+@KOODI_A = SPD
+
+@SUOMI_A = Hammasprotetiikan irrotettavat kokoproteesit
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SPD00
+
+@VANHA = 1174
+
+@SUOMI = Limakalvokantoinen kokoproteesi
+
+@PRICE = 11   
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPD05
+
+@VANHA = 1274
+
+@SUOMI = Vaativa limakalvokantoinen kokoproteesi
+
+@PRICE = 12   
+
+@RUOTSI = 
+
+@NOTE_F = Esim. pitkÑlle mennyt alveoliatrofia tai leukojen epÑsuhde
+
+@END = 
+
+@KOODI = SPD10
+
+@VANHA = 
+
+@SUOMI = Implantti- ja limakalvokantoinen kokoproteesi
+
+@PRICE = 12   
+
+@RUOTSI = 
+
+@NOTE_F = Peittoproteesi on implantti ja limakalvokantoinen
+
+@END = 
+
+@KOODI_A = SPE
+
+@SUOMI_A = Hammasprotetiikan irrotettavat osaproteesit
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SPE00
+
+@VANHA = 1272
+
+@SUOMI = Metallirunkoinen osaproteesi
+
+@PRICE = 12   
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPE05
+
+@VANHA = 1371
+
+@SUOMI = Vaativa metallirunkoinen osaproteesi
+
+@PRICE = 13   
+
+@RUOTSI = 
+
+@NOTE_F = Vaatii esim. purennan muuttamista
+
+@END = 
+
+@KOODI = SPE10
+
+@VANHA = 
+
+@SUOMI = Implanttikantoinen osaproteesi
+
+@PRICE = 13   
+
+@RUOTSI = 
+
+@NOTE_F = Hammasosa tÑysin implanttikantoinen
+
+@END = 
+
+@KOODI = SPE90
+
+@VANHA = 1173, 1271
+
+@SUOMI = Muu osaproteesi
+
+@PRICE = 11   
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ akryyliosaproteesin
+
+@END = 
+
+@KOODI_A = SPF
+
+@SUOMI_A = Hammasproteettiset korjaustoimenpiteet
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = SPF00
+
+@VANHA = 473
+
+@SUOMI = Proteesin korjaus
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Pieni proteesin pohjaus ilman jÑjennîstÑ
+
+@END = 
+
+@KOODI = SPF10
+
+@VANHA = 672
+
+@SUOMI = Vaativa proteesin korjaus
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@NOTE_F = Proteesin korjaus, joka edellyttÑÑ jÑljennîstÑ
+
+@END = 
+
+@KOODI = SPF20
+
+@VANHA = 474
+
+@SUOMI = VÑliaikainen pohjaus
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@NOTE_F = Immediaattiproteesin valmistuksen jÑlkeen tapahtuva vÑliaikainen pohjaus tai muu vÑliaikainen pohjaus
+
+@END = 
+
+@KOODI = SPF30
+
+@VANHA = 774
+
+@SUOMI = Proteesin pohjaus
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ reunojen ja ulkopintojen muotoilun, okkluusion korjauksen sekÑ yhden jÑlkikÑynnin
+
+@END = 
+
+@KOODI = SPF40
+
+@VANHA = 574
+
+@SUOMI = Kruunun tai pienen sillan irrotus ja uudelleen sementointi
+
+@PRICE = 5    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPF50
+
+@VANHA = 
+
+@SUOMI = Sillan irrotus, korjaus ja uudelleen sementointi
+
+@PRICE = 6    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SPF60
+
+@VANHA = 775
+
+@SUOMI = Fasadin korjaus
+
+@PRICE = 7    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = SX
+
+@SUOMI_R = Muut suun ja hampaiden hoidon toimenpiteet
+
+@RUOTSI_R = 
+
+@END = 
+
+@KOODI = SXA00
+
+@VANHA = 
+
+@SUOMI = MÑrkivÑn hampaan avaus
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SXA10
+
+@VANHA = 
+
+@SUOMI = Suun alueen limakalvonÑytteen otto
+
+@PRICE = 1    
+
+@RUOTSI = 
+
+@NOTE_F = SisÑltÑÑ huulet
+
+@NOTE_F =
+Suun alueen neulakudosnÑytteet, katso TE
+
+@END = 
+
+@KOODI = SXB00
+
+@VANHA = 
+
+@SUOMI = Suun alueen limakalvo-ompeleen poisto
+
+@PRICE = 0    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = SXB10
+
+@VANHA = 
+
+@SUOMI = Kiinnityksen tai kiskotuksen purkaminen
+
+@PRICE = 4    
+
+@RUOTSI = 
+
+@END = 
+
+@LUVUT = LUKU T
+
+@LUVUT_S = KAPITEL T
+
+@SUOMI_L = Pientoimenpiteet
+
+@RUOTSI_L = Mindre ingrepp
+
+@ENGL_L = Minor surgical procedures
+
+@END_L = 
+
+@KOODI_R = TE
+
+@SUOMI_R = Suun, leukojen ja nielun pientoimenpiteet
+
+@RUOTSI_R = Mindre ÜtgÑrder pÜ mun, kÑkar och svalg
+
+@ENGL_R = Minor procedures in surgery of mouth,  jaws and pharynx
+
+@NOTE_RF = Suun ja hampaiston toimenpiteet, katso luku S
+
+@NOTE_RS = ètgÑrder pÜ mun och tÑnder, se kapitel S
+
+@END = 
+
+@KOODI = TEA00
+
+@VANHA = 
+
+@SUOMI = Koepalan otto huulesta
+
+@PRICE = 0    
+
+@RUOTSI = Biopsi av lÑpp
+
+@END = 
+
+@KOODI = TEA10
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto huulesta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av lÑpp
+
+@END = 
+
+@KOODI = TEC00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteenotto ikenestÑ
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av gingiva
+
+@END = 
+
+@KOODI = TED00
+
+@VANHA = 
+
+@SUOMI = Leukanivelen sijoiltaanmenon paikoilleen asettaminen
+
+@PRICE = 3    
+
+@RUOTSI = Reposition av luxerad underkÑke
+
+@END = 
+
+@KOODI = TED10
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto alaleuasta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av underkÑken
+
+@END = 
+
+@KOODI = TEE00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto ylÑleuasta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av îverkÑken
+
+@END = 
+
+@KOODI = TEG00
+
+@VANHA = 
+
+@SUOMI = Leukanivelen pisto
+
+@PRICE = 4    
+
+@RUOTSI = Punktion av kÑkled
+
+@NOTE_F = SisÑltÑÑ nÑytteenoton ja lÑÑkityksen
+
+@END = 
+
+@KOODI = TEH00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto suulaesta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av gommen
+
+@END = 
+
+@KOODI = TEJ00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto suunpohjasta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av munbottnen
+
+@END = 
+
+@KOODI = TEL00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto sylkirauhasesta
+
+@PRICE = 1    
+
+@RUOTSI = Punktionsbiopsi av spottkîrtel
+
+@END = 
+
+@KOODI = TEL40
+
+@VANHA = 
+
+@SUOMI = Sylkirauhastiehyen aukaisu koettimella
+
+@PRICE = 2    
+
+@RUOTSI = Sondering av spottkîrtelgÜng
+
+@END = 
+
+@KOODI = TEM00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto nielu- tai kitarisasta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av tonsiller och adenoid
+
+@END = 
+
+@KOODI = TEN00
+
+@VANHA = 
+
+@SUOMI = NeulakudosnÑytteen otto nielusta
+
+@PRICE = 0    
+
+@RUOTSI = Punktionsbiopsi av farynx
+
+@END = 
+
+@KOODI = TEW99
+
+@VANHA = 
+
+@SUOMI = Muu hampaiden, ikenien, suun ja nielun pientoimenpide
+
+@PRICE = 0    
+
+@RUOTSI = Annan mindre operation pÜ lÑppar, tÑnder, kÑkar, mun och svalg
+
+@END = 
+
+@KOODI_R = TQ
+
+@SUOMI_R = Ihon ja ihonalaiskudoksen pientoimenpiteet
+
+@RUOTSI_R = Mindre ÜtgÑrder pÜ hud och subkutan vÑvnad
+
+@ENGL_R = Minor surgical procedures on skin
+
+@END = 
+
+@KOODI = TQW30
+
+@VANHA = 
+
+@SUOMI = Akupunktio
+
+@PRICE =      
+
+@RUOTSI = Akupunktion
+
+@END = 
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinjÑrjestelmiin vaikuttavat toimenpiteet
+
+@RUOTSI_L = Andra ÜtgÑrde och ÜtgÑrder pÜ flera organsystem
+
+@ENGL_L = Other procedures and procedures acting on several organ systems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinjÑrjestelmiin tai koko elimistîîn.
+
+@NOTE_LS = ètgÑrder som siktar sig pÜ flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI_R = WX
+
+@SUOMI_R = Anestesia, hengityksen tuki ja elvytys
+
+@RUOTSI_R = Anestesi ÜtgÑrder
+
+@NOTE_RF = Ei sisÑllÑ ÑÑreishermojen salpausta (TAC00)
+
+@NOTE_RS = Exkluderar blockad av perifer nerv (TAC00)
+
+@END = 
+
+@KOODI_A = WX0
+
+@SUOMI_A = Ei anestesiaa
+
+@RUOTSI_A = Ingen anesesi
+
+@END = 
+
+@KOODI = WX002
+
+@VANHA = 492
+
+@SUOMI = Sedaatio tai kivunlievitys ilman anestesiaa
+
+@PRICE = 4    
+
+@RUOTSI = Sedering eller analgesi utan annan anestesi
+
+@NOTE_F = Esim. ilokaasusedaatio
+
+@END = 
+
+@KOODI_A = WX1
+
+@SUOMI_A = Paikalliset puudutukset
+
+@RUOTSI_A = Lokala bedîvningar
+
+@END = 
+
+@KOODI = WX110
+
+@VANHA = 092
+
+@SUOMI = Infiltraatiopuudutus
+
+@PRICE = 0    
+
+@RUOTSI = Infiltrationsanestesi
+
+@NOTE_F = Pintapuudutus iholle tai limakalvolle
+
+@END = 
+
+@KOODI_R = WY
+
+@SUOMI_R = KÑyntityypit
+
+@RUOTSI_R = Besîkstyper
+
+@END = 
+
+@KOODI = WYA00
+
+@VANHA = 
+
+@SUOMI = Seulonta tai terveystarkastus
+
+@PRICE = 0    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WYA10
+
+@VANHA = 
+
+@SUOMI = Ensiapuluontoinen tai muu vastaava kÑynti
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = KÑynnillÑ ei tehdÑ muita toimenpiteitÑ
+
+@END = 
+
+@KOODI = WYA20
+
+@VANHA = 
+
+@SUOMI = KÑynti potilaan luona
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WYA30
+
+@VANHA = 
+
+@SUOMI = Vaikeahoitoisen potilaan valmistelu toimenpidettÑ varten
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@NOTE_F = PelkÑÑvÑ, liikuntavammainen  jne.
+
+@END = 
+
+@KOODI_R = WZ
+
+@SUOMI_R = Todistukset, lÑÑkemÑÑrÑykset ja lausunnot
+
+@RUOTSI_R = Intyg, recept och utlÜtanden
+
+@END = 
+
+@KOODI = WZA00
+
+@VANHA = 
+
+@SUOMI = Suppea todistus
+
+@PRICE = 0    
+
+@RUOTSI = 
+
+@NOTE_F = A-todistus tai vastaava
+
+@END = 
+
+@KOODI = WZA90
+
+@VANHA = 
+
+@SUOMI = Muu lÑÑkÑrin tai hammaslÑÑkÑrin todistus
+
+@PRICE = 0    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = WZB00
+
+@VANHA = 093
+
+@SUOMI = Puhelimitse annettu hoito-ohje ja mahdollinen resepti
+
+@PRICE = 0    
+
+@RUOTSI = 
+
+@NOTE_F = Vastaanotolla hoidon yhteydessÑ annettu resepti myîskin puhelimitse toimitettuna sisÑltyy  kÑynnin toimenpiteisiin
+
+@END = 
+
+@KOODI = WZC00
+
+@VANHA = 
+
+@SUOMI = Hoidon suunnittelu tai konsultaatio
+
+@PRICE = 2    
+
+@RUOTSI = 
+
+@END = 
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = LisÑkoodit
+
+@RUOTSI_L = TillÑggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = LisÑkoodeja voi kÑyttÑÑ ainoastaan muun toimenpidekoodin lisÑnÑ ilmaisemassa  tarkentavaa lisÑtietoa
+
+@NOTE_LS = TillÑggskoder anvÑnds Ñndast tillsammans med egentliga koder
+
+@END_L = 
+
+@KOODI_R = ZX
+
+@SUOMI_R = Eriytyiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+
+@RUOTSI_R = Diverse omstÑndigheter/incidenter i samband med ÜtgÑrden
+
+@ENGL_R = Various circumstances and events in surgery
+
+@END = 
+
+@KOODI_A = ZX1
+
+@SUOMI_A = LÑÑkehoidon reitti
+
+@RUOTSI_A = Rot fîr medicationen
+
+@END = 
+
+@KOODI = ZX114
+
+@VANHA = 
+
+@SUOMI = Lihakseen
+
+@PRICE = 2    
+
+@RUOTSI = IntramuskulÑr
+
+@END = 
+
+@KOODI = ZX120
+
+@VANHA = 491
+
+@SUOMI = Laskimoon
+
+@PRICE = 4    
+
+@RUOTSI = Intravenîs
+
+@END = 
+
+@KOODI = ZX140
+
+@VANHA = 
+
+@SUOMI = Niveleen
+
+@PRICE =      
+
+@RUOTSI = In i ledet
+
+@END = 
+
+@KOODI = ZX198
+
+@VANHA = 091
+
+@SUOMI = Muu paikallinen lÑÑkehoito
+
+@PRICE = 0    
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EB1AA
+
+@VANHA = 
+
+@SUOMI = Hammasrîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@NOTE_F = Ilman erillistÑ lausuntoa
+
+@END = 
+
+@KOODI = EB1BA
+
+@VANHA = 
+
+@SUOMI = Hammasrîntgen usealle filmille tai muu intraoraalirîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EB1CA
+
+@VANHA = 
+
+@SUOMI = Hammasrîntgenin lisÑ- tai tarkistuskuvat
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EB1HA
+
+@VANHA = 
+
+@SUOMI = Hampaiston ja leuan panoraamatomografia tai muu yksinkertainen rakokuvaus (ortopantomografia)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EB1JA
+
+@VANHA = 
+
+@SUOMI = Hampaiston ja leuan kaksoispanoraamatomografia tai muu vaativa rakokuvaus (ortopantomografia)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EB1LA
+
+@VANHA = 
+
+@SUOMI = Hampaiston rîntgenkuvaus kliinisen tutkimuksen yhteydessÑ
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EB1MA
+
+@VANHA = 
+
+@SUOMI = Kallonmittaus rîntgenillÑ (kefalometria)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = ED
+
+@SUOMI_R = Alaleuan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ underkÑken
+
+@ENGL_R = Mandible
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI = ED1AA
+
+@VANHA = 
+
+@SUOMI = Alaleuan natiivirîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = EE
+
+@SUOMI_R = YlÑleuan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ îverkÑken
+
+@ENGL_R = Maxilla
+
+@NOTE_RF = Poskiontelon leikkaukset kohdassa DM
+
+@NOTE_RF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Operationer pÜ sinus maxillaris, se DM
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI = EE1AA
+
+@VANHA = 
+
+@SUOMI = YlÑleuan tai suulaen natiivirîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EE1HA
+
+@VANHA = 
+
+@SUOMI = Leuan tomografia tai implanttikuvaus
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EE1JA
+
+@VANHA = 
+
+@SUOMI = Leuan tomografia, laaja
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = EG
+
+@SUOMI_R = Leukanivelien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ kÑklederna
+
+@ENGL_R = Mandibular joint
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI = EG1AA
+
+@VANHA = 
+
+@SUOMI = Leukanivelten natiivirîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1BF
+
+@VANHA = 
+
+@SUOMI = Leukanivelten magneettitutkimus keskikenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1BG
+
+@VANHA = 
+
+@SUOMI = Leukanivelten magneettitutkimus vahvakenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1CB
+
+@VANHA = 
+
+@SUOMI = Leukanivelen varjoainetutkimus (artrografia)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1CF
+
+@VANHA = 
+
+@SUOMI = Leukanivelten laaja magneettitutkimus keskikenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1CG
+
+@VANHA = 
+
+@SUOMI = Leukanivelten laaja magneettitutkimus vahvakenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1DF
+
+@VANHA = 
+
+@SUOMI = Leukanivelten erittÑin laaja magneettitutkimus keskikenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EG1DG
+
+@VANHA = 
+
+@SUOMI = Leukanivelten erittÑin laaja magneettitutkimus vahvakenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = EH
+
+@SUOMI_R = Suulaen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ gommen
+
+@ENGL_R = Palate
+
+@NOTE_RF = Punktiot ja neulabiopsiat, katso TE
+
+@NOTE_RF =
+Siirteiden materiaali ilmoitetaan lisÑkoodilla luvusta Z
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@NOTE_RS =
+Material av transplantat anges med tillÑggskod, se Z
+
+@END = 
+
+@KOODI = EH1JB
+
+@VANHA = 
+
+@SUOMI = Suulaen funktiotutkimus
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EH2BB
+
+@VANHA = 
+
+@SUOMI = NenÑn ja nielun varjoainetutkimus (naso-faryngografia)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = EL
+
+@SUOMI_R = Sylkirauhasten toimenpiteet
+
+@RUOTSI_R = Operationer pÜ spottkîrtlarna
+
+@ENGL_R = Salivary glands
+
+@END = 
+
+@KOODI = EL1CB
+
+@VANHA = 
+
+@SUOMI = Korvasylkirauhastiehyen varjoainetutkimus (sialografia)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EL2CB
+
+@VANHA = 
+
+@SUOMI = Leuanalussylkirauhastiehyen varjoainetutkimus (sialografia)
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EL3AA
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasen natiivirîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EL3AE
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasten Ué *
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EL3AT
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasen kudosnÑytteen otto Ué-ohjauksessa
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EL4AT
+
+@VANHA = 
+
+@SUOMI = Sylkirauhasen solunÑytteen otto Ué-ohjauksessa
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = EM
+
+@SUOMI_R = Nielurisojen ja kitarisan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ tonsiller och adenoider
+
+@ENGL_R = Tonsils and adenoids
+
+@END = 
+
+@KOODI = EM1AA
+
+@VANHA = 
+
+@SUOMI = Kitarisarîntgen
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = EN
+
+@SUOMI_R = Nielun ja ympÑrîivien pehmytkudoksien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ farynx och nÑrliggande mjukdelar
+
+@ENGL_R = Pharynx and adjacent structures
+
+@END = 
+
+@KOODI = EN1AD
+
+@VANHA = 
+
+@SUOMI = Suun ja kaulan pehmytosien natiivi-TT
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EN1BD
+
+@VANHA = 
+
+@SUOMI = Suun ja kaulan pehmytosien varjoaine-TT
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EN1CD
+
+@VANHA = 
+
+@SUOMI = Suun ja kaulan pehmytosien natiivi- ja varjoaine-TT
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EN1XD
+
+@VANHA = 
+
+@SUOMI = Suun ja kaulan pehmytosien muu TT
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1AE
+
+@VANHA = 
+
+@SUOMI = Kaulan Ué
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1AT
+
+@VANHA = 
+
+@SUOMI = Kaulan pehmytosien punktio Ué-ohjauksessa
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1BF
+
+@VANHA = 
+
+@SUOMI = Kaulan pehmytosien magneettitutkimus keskikenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1BG
+
+@VANHA = 
+
+@SUOMI = Kaulan pehmytosien magneettitutkimus vahvakenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1CF
+
+@VANHA = 
+
+@SUOMI = Kaulan laaja magneettitutkimus keskikenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1CG
+
+@VANHA = 
+
+@SUOMI = Kaulan laaja magneettitutkimus vahvakenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1DF
+
+@VANHA = 
+
+@SUOMI = Kaulan erittÑin laaja magneettitutkimus keskikenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP1DG
+
+@VANHA = 
+
+@SUOMI = Kaulan erittÑin laaja magneettitutkimus vahvakenttÑlaitteella
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP2AT
+
+@VANHA = 
+
+@SUOMI = Kaulan pehmytosien solunÑytteen otto Ué-ohjauksessa
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = EP3AT
+
+@VANHA = 
+
+@SUOMI = Kaulan pehmytosien kudosnÑytteen otto Ué-ohjauksessa
+
+@PRICE =      
+
+@RUOTSI = 
+
+@END = 

@@ -1,0 +1,2411 @@
+
+###
+#KOODI_L    X
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#SUOMI      Tutkimustoimenpiteet
+#RUOTSI     Diagnostiska åtgärder
+#ENGL       Investigative procedures
+###
+#KOODI_R    XA
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Neurologiset tutkimukset
+#RUOTSI     Neurologiska examinationer
+#ENGL       
+###
+#KOODI      XA100 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tensilontesti
+#RUOTSI     Tensilon-test
+#LYHENNE    Tensilontesti
+###
+#KOODI      XA400 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG
+#RUOTSI     EEG
+#LYHENNE    EEG
+###
+#KOODI      XA402 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      ENMG
+#RUOTSI     ENMG
+#LYHENNE    ENMG
+###
+#KOODI      XA404 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      SEP
+#RUOTSI     SEP
+#LYHENNE    SEP
+###
+#KOODI      XA410 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      BAEP
+#RUOTSI     BAEP
+#LYHENNE    BAEP
+###
+#KOODI      XA412 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      VEP
+#RUOTSI     VEP
+#LYHENNE    VEP
+###
+#KOODI      XA420 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja unitutkimus
+#RUOTSI     Lång sömnundersökning
+#LYHENNE    Laaja unitutkimus
+#OHJE_S  
+Ns. unipatjatutkimus
+#OHJE_R 
+---
+###
+#KOODI      XA800 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuropsykologinen tutkimus
+#RUOTSI     Neuropsykologisk undersökning
+#LYHENNE    Neuropsykologinen tutkimus
+###
+#KOODI      XAD00 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Autonomisen hermoston testi
+#RUOTSI     Autonoma nervsystemets funktionstest
+#LYHENNE    Autonomisen hermoston testi
+###
+#KOODI_R    XC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Silmän alueen tutkimukset
+#RUOTSI     Diagnostiska åtgärder i ögonregionen
+#ENGL       Investigative procedures on eye
+###
+#KOODI      XCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3312      
+#SUOMI      Kyynelteiden huuhtelu
+#RUOTSI     Diagnostisk genomspolning av tårkanaler
+#LYHENNE    Kyynelteiden huuhtelu
+###
+#KOODI      XCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3768      
+#SUOMI      Nukutuksessa tehtävä kliininen silmätutkimus
+#RUOTSI     Klinisk ögonundersökning i narkos
+#LYHENNE    Kliininen silmätutkimus anestesiassa
+###
+#KOODI      XCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neurofysiologinen silmätutkimus
+#RUOTSI     Elektrofysiologisk ögonundersökning
+#LYHENNE    Neurofysiologinen silmätutkimus
+#OHJE_S  
+Sisältää ERG ja silmälihasten EMG
+#OHJE_R 
+Inkl ERG och EMG av ögonmusklar
+###
+#KOODI      XCD20 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Silmänpohjan verisuonien valokuvaus
+#RUOTSI     Retinografi
+#LYHENNE    Silmänpohjan verisuonien valokuvaus
+#OHJE_S  
+Sisältää fluoreskeiini angiografian.
+#OHJE_R 
+ Inkl. fluoreskein angiografi
+###
+#KOODI      XCK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Näkökenttätutkimus
+#RUOTSI     Synfältsundersökning
+#LYHENNE    Näkökenttätutkimus
+#OHJE_S  
+
+#OHJE_R 
+Perimetri
+###
+#KOODI      XCK10 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Silmänpohjan valokuvaus
+#RUOTSI     Fotografering av ögonbotten
+#LYHENNE    Silmänpohjan valokuvaus
+###
+#KOODI      XCW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu silmän alueen tutkimus
+#RUOTSI     Annan diagnostisk åtgärd i ögonregionen
+#LYHENNE    Muu silmän alueen tutkimus
+###
+#KOODI_R    XD
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Korvan, nenän ja kurkun alueen tutkimukset
+#RUOTSI     Diagnostiska åtgärder i öron, näsa och svalg
+#ENGL       
+###
+#KOODI      XDW00 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ultraäänitutkimus
+#RUOTSI     Ultraljudsundersökning av näsans bihålor
+#LYHENNE    Nenän sivuonteloiden ultraäänitutkimus
+###
+#KOODI      XDW10 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sylkirauhasen ultraäänitutkimus
+#RUOTSI     Ultraljudsundersökning av spottkörtlar
+#LYHENNE    Sylkirauhasen ultraäänitutkimus
+###
+#KOODI      XDW20 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM   2002/08/26
+#POISTETTU
+#VANHA                
+#SUOMI      Kaulan ultraäänitutkimus
+#RUOTSI     Ultraljudsundersökning av halsregionen
+#LYHENNE    Kaulan ultraäänitutkimus
+###
+#KOODI_R    XF
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Sydämen tutkimukset
+#RUOTSI     Diagnostiska åtgärder på hjärtat och de stora intratorakala kärlen
+#ENGL       Investigative procedures on heart
+#OHJE_S  
+Suunpohjan toimenpiteet kohdassa EJ
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+#OHJE_R 
+Transesofageal ultraljudsdiagnostik, se XGX02
+###
+#KOODI      XF400 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      12-kytkentäinen EKG
+#RUOTSI     EKG med 12 led
+#LYHENNE    12-kytkentäinen EKG
+###
+#KOODI      XF402 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuormituskoe
+#RUOTSI     Belastnings test
+#LYHENNE    Rasitus EKG
+#OHJE_S  
+Sisältää rasitus EKG:n ja siihen liittyvät oheismittaukset
+#OHJE_R 
+Innefattar alla mätningar i samband med belastnings EKG
+###
+#KOODI      XF404 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EKG:n pitkäaikaisrekisteröinti
+#RUOTSI     Ambulatorisk EKG
+#LYHENNE    EKG:n pitkäaikaisrekisteröinti
+#OHJE_S  
+Sisältää tulkinnan
+#OHJE_R 
+Inkl tolkning
+###
+#KOODI      XF405 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oire-EKG
+#RUOTSI     Symtom-EKG
+#LYHENNE    Oire-EKG
+###
+#KOODI      XF406 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Herkkyys EKG
+#RUOTSI     Storresolution EKG
+#LYHENNE    Herkkyys EKG
+#OHJE_S  
+Suurresoluutio EKG
+#OHJE_R 
+---
+###
+#KOODI      XF408 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruokatorvi EKG
+#RUOTSI     Esophageal EKG
+#LYHENNE    Ruokatorvi EKG
+###
+#KOODI      XF409 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu erityisrekisteröinti EKG
+#RUOTSI     Annan speciell EKG
+#LYHENNE    Muu erityisrekisteröinti EKG
+###
+#KOODI      XF600 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verenpaineen mittaus
+#RUOTSI     Blodtrycksmätning
+#LYHENNE    Verenpaineen mittaus
+#OHJE_S  
+Sisältää noninvasiiviset ääreisverenpaineen mittaukset varmistusmenetelmineen (isovarvas, ABI,PVR)
+#OHJE_R 
+Innefattar noninvasiva perfifera blodtrycksmätningar med sina försäkrginsmetoder (stortå, ABI, PVR)
+###
+#KOODI      XF601 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verenpaineen mittaus Doppler-ultraäänilaitteen avulla
+#RUOTSI     Blodtrycksmätning med Doppler-ultraljuds metod
+#LYHENNE    Verenpaineen mittaus Doppler-ultraäänila
+###
+#KOODI      XF602 
+#MUUT_PVM   1996/10/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verenpaineen pitkäaikaisseuranta
+#RUOTSI     Monitorering av blodtrycket
+#LYHENNE    Verenpaineen pitkäaikaisseuranta
+###
+#KOODI      XF603 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suora valtimopaineen mittaus
+#RUOTSI     Direkt blodtrycksmätning
+#LYHENNE    Suora verenpaineen mittaus
+###
+#KOODI      XF604 
+#MUUT_PVM   1996/10/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Barorefleksin herkkyyden mittaus
+#RUOTSI     Baroreflex sensitivtätsbestämning
+#LYHENNE    Barorefleksin herkkyyden mittaus
+###
+#KOODI      XF606 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortostaattinen koe
+#RUOTSI     Ortostatisk test
+#LYHENNE    Ortostaattinen koe
+###
+#KOODI      XF610 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sykevaihtelun mittaaminen
+#RUOTSI     Mätning av pulsvarians
+#LYHENNE    Sykevaihtelun mittaaminen
+###
+#KOODI      XF612 
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskuslaskimopainen mittaus
+#RUOTSI     Mätning av ventralt venöst tryck
+#LYHENNE    Keskuslaskimopainen mittaus
+###
+#KOODI      XF614 
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiilapaineen mittaus
+#RUOTSI     Mätning av tryck i arteria pulmonalis
+#LYHENNE    Kiilapaineen mittaus
+###
+#KOODI      XF619 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu fysikaalinen sydäntutkimus
+#RUOTSI     Annan fysikalisk undersökning av hjärtat
+#LYHENNE    Muu fysikaalinen sydäntutkimus
+#OHJE_S  
+Kinotokardiografia
+Apex-kardiografia
+Kaulalaskimon pulssikäyrät
+A. carotiksen pulssikäyrä
+#OHJE_R 
+Kinotokardiografi
+Apex-kardiografi
+Pulsmätning av halsvener
+Pulsmätning av a. carotis
+###
+#KOODI      XF620 
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verenkierron värilaimennos tutkimus
+#RUOTSI     Undersökning av cirkulation med färg
+#LYHENNE    Verenkierron värilaimennos tutkimus
+###
+#KOODI      XF622 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen minuuttivoluumin mittaus
+#RUOTSI     Undersökning av hjärtats minutvolym
+#LYHENNE    Sydämen minuuttivoluumin mittaus
+#OHJE_S  
+Fick'in mentelemä
+Termodiluutio
+#OHJE_R 
+Fick's metod
+Termodilution
+###
+#KOODI      XF640 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Sydämen ultraäänitutkimus
+#RUOTSI     Ultraljudsundersökning av hjärtat
+#LYHENNE    Sydämen ultraäänitutkimus
+###
+#KOODI      XF645 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen ultraäänitutkimus rasituksessa
+#RUOTSI     Ultraljudsundersökning av hjärtat vid belastning
+#LYHENNE    Sydämen ultraäänitutkimus rasituksessa
+###
+#KOODI      XF650 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen supistustoiminnan isotooppitutkimus levossa
+#RUOTSI     Funktionell isotopundersökning av hjärtat utan belastning
+#LYHENNE    Sydämen toiminnan isotooppikuvaus ei ras
+#OHJE_S  
+MUGA
+#OHJE_R 
+---
+###
+#KOODI      XF651 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen supistustoiminnan isotooppitutkimus kuormituksen aikana
+#RUOTSI     Funktionell isotopundersökning av hjärtat med belastning
+#LYHENNE    Sydämen toiminnan isotooppikuvaus rasitu
+###
+#KOODI      XF652 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydänlihaksen verenvirtauksen isotooppitutkimus levossa
+#RUOTSI     Undersökning av hjärtmuskelns perfusion med isotopteknik utan belastning
+#LYHENNE    Sydänlihasperf. isotooppitutkimus ei ras
+###
+#KOODI      XF655 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydänlihaksen verenvirtauksen isotooppitutkimus kuormituksen aikana
+#RUOTSI     Undersökning av hjärtmuskelns perfusion med isotopteknik och belastning
+#LYHENNE    Sydänlihasperf. isotooppitutkimus rasitu
+###
+#KOODI      XF659 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydänlihaksen muu isotooppitutkimus
+#RUOTSI     Annan isotopundersökning av härtat
+#LYHENNE    Sydänlihaksen muu isotooppitutkimus
+###
+#KOODI      XF660 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen oikovirtauksen isotooppitutkimus
+#RUOTSI     Isotopundersökning av intrakardiell shunt
+#LYHENNE    Sydämen oikovirtauksen isotooppitutkimus
+###
+#KOODI      XFA00 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Onttolaskimon varjoainekuvaus
+#RUOTSI     Kineangiografi av intratorakala vena cava
+#LYHENNE    Onttolaskimon varjoainekuvaus
+###
+#KOODI      XFB00 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Keuhkovaltimon varjoainekuvaus
+#RUOTSI     Kineangiografi av lungartären
+#LYHENNE    Keuhkovaltimon varjoainekuvaus
+###
+#KOODI      XFC00 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Aortan varjoainekuvaus
+#RUOTSI     Kineangiografi av aorta
+#LYHENNE    Aortan varjoainekuvaus
+###
+#KOODI      XFE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5201+     
+#SUOMI      Ultraäänitutkimus sydämen pinnalta
+#RUOTSI     Epikardiell ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus sydämen pinnalta
+###
+#KOODI      XFE01 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1230+     
+#SUOMI      Ultraäänitutkimus sydämen pinnalta tähystyksessä
+#RUOTSI     Torakoskopisk epikardiell ultraljudsundersökning
+#LYHENNE    UÄtutkimus sydämen pinnalta tähystyksess
+###
+#KOODI      XFE12 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Angioskooppinen sydämen ultraäänitutkimus
+#RUOTSI     Angioskopisk ultraljudsundersökning av hjärtat
+#LYHENNE    Angioskooppinen sydämen ultraäänitutkimu
+###
+#KOODI      XFJ00 
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Sydämen oikean puolen kinekuvaus
+#RUOTSI     Kineangiografi av högra sidan av hjärtat
+#LYHENNE    Sydämen oikean puolen kinekuvaus
+###
+#KOODI      XFJ20 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM   2003/09/13
+#POISTETTU
+#VANHA                
+#SUOMI      Sydämen sisäosien ultraäänitutkimus katetrin kautta
+#RUOTSI     Ultraljudsundersökning av hjärtans inre delar genom kateter
+#LYHENNE    Sydämen sisäosien IVUS
+###
+#KOODI      XFL00 
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Sydämen vasemman puolen kinekuvaus
+#RUOTSI     Kineangiografia av vänstra sidan av hjärtat
+#LYHENNE    Sydämen vasemman puolen kinekuvaus
+###
+#KOODI      XFL20 
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Sydämen molempien puolien kinekuvaus
+#RUOTSI     Kineangiografi av båda sidor av hjärtat
+#LYHENNE    Sydämen molempien puolien kinekuvaus
+###
+#KOODI      XFN00 
+#MUUT_PVM   1996/08/08
+#KAYTPVM    1997/01/01
+#POISTPVM   2002/02/05
+#POISTETTU
+#VANHA                
+#SUOMI      Sepelvaltimoiden varjoainekuvaus
+#RUOTSI     Kineangiografi av kranskärlen
+#LYHENNE    Sepelvaltimoiden varjoainekuvaus
+###
+#KOODI      XFN02 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5201+     
+#SUOMI      Sepelvaltimoiden tähystäminen leikkauksen aikana
+#RUOTSI     Intraoperativ koronar angioskopi
+#LYHENNE    Koronaarisuonten tähystys leikkauksessa
+###
+#KOODI      XFN04 
+#MUUT_PVM   1996/10/07
+#KAYTPVM    1997/01/01
+#POISTPVM   1999/02/05
+#POISTETTU
+#VANHA                
+#SUOMI      Sepelvaltimoiden tutkiminen ultraäänellä katetrin kautta
+#RUOTSI     Ultraljudsundersökning av koronärartär genom katetrisering
+#LYHENNE    Sepelvaltimoiden IVUS
+###
+#KOODI      XFN96 
+#MUUT_PVM   1996/04/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      5201+     
+#SUOMI      Muu leikkauksen aikainen sydämen  tähystystutkimus
+#RUOTSI     Annan intraoperativ angioskopisk undersökning
+#LYHENNE    Muu leikkauksen aikainen sydäntähystys
+###
+#KOODI      XFP00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5201+     
+#SUOMI      Ektooppisten lisälyöntien lähteen tai ektooppisen johtoradan kartoitus leikkauksen aikana
+#RUOTSI     Intraoperativ kartläggning av ektopiskt fokus/ektopisk retledningsbana
+#LYHENNE    Ektooppifokuksen/johtoradan kartoitus
+###
+#KOODI      XFP20 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen tahdistinlaitteen kontrolli
+#RUOTSI     Kontrol av pacemaker i hjärtat
+#LYHENNE    Sydämen tahdistinlaitteen kontrolli
+###
+#KOODI      XFP96 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu elektrofysiologinen tutkimus
+#RUOTSI     Annan intraoperativ elektrofysiologisk undersökning
+#LYHENNE    Muu elektrofysiologinen tutkimus
+###
+#KOODI      XFX00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen tai suurten suonten punktio ja verinäytteen otto
+#RUOTSI     Intraoperativ punktion av hjärtat eller de stora kärlen (blodprovstagning)
+#LYHENNE    Sydämen/suurten suonten pisto/verinäyte
+###
+#KOODI      XFX10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen tai suurten suonten pisto ja paineen mittaus
+#RUOTSI     Intraoperativ punktion av hjärtat eller de stora kärlen (manometri)
+#LYHENNE    Sydämen/suurten suonten pisto/painemitta
+###
+#KOODI      XFX20 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen ja/tai suurten suonten virtausmittaus
+#RUOTSI     Intraoperativ flödesmätning i hjärtat eller de stora kärlen
+#LYHENNE    Sydämen/suurten suonten virtausmittaus
+###
+#KOODI      XFX96 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/11/09
+#POISTETTU
+#VANHA                
+#SUOMI      Muu sydämen tai suurten suonten tutkimuksellinen pisto leikkauksen aikana
+#RUOTSI     Annan diagnostisk intraoperativ punktion av hjärtat eller de stora kärlen
+#LYHENNE    Muu sydän/suuren suonen pisto leikk:ssa
+###
+#KOODI      XFX97 
+#MUUT_PVM   1996/02/28
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sydämen tai suurten suonten tutkimuksellinen pisto tähystyksessä
+#RUOTSI     Annan diagnostisk endoskopisk punktion av hjärtat eller de stora kärlen
+#LYHENNE    Muu sydän/suuren suonen pisto endosk.
+###
+#KOODI_R    XG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Rintaontelon ultraäänitutkimukset leikkauksen tai tähystyksen aikana
+#RUOTSI     Intraoperativ eller torakoskopisk ultraljudsundersökning i bröstkorgen
+#ENGL       Intraoperative and endoscopic thoracic ultrasonography
+###
+#KOODI      XG400 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hengitysäänianalyysi
+#RUOTSI     Andningsljud analys
+#LYHENNE    Hengitysäänianalyysi
+###
+#KOODI      XG404 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uloshengityksen huippuvirtausmittaus
+#RUOTSI     PEF mätning
+#LYHENNE    Uloshengityksen huippuvirtausmittaus
+#OHJE_S  
+PEF
+#OHJE_R 
+---
+###
+#KOODI      XG410 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtaus-tilavuus spirometria
+#RUOTSI     Flow-volym spirometri
+#LYHENNE    Virtaus-tilavuus spirometria
+#OHJE_S  
+Sisältä ns. minispirometrian
+#OHJE_R 
+Innefatta minispirometri
+###
+#KOODI      XG412 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtaus-tilavuusspirometria ja bronkodilataatiokoe
+#RUOTSI     Flow-volym spirometri med bronkodilatation
+#LYHENNE    Virtaus-tilavuusspirometria ja bronkodil
+###
+#KOODI      XG416 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Maksimaalisten hengitystiepaineiden mittaus
+#RUOTSI     Mätning av maksimala luftvägstrycken
+#LYHENNE    Maksimaalisten hengitystiepaineiden mitt
+###
+#KOODI      XG420 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aika-tilavuus spirometria
+#RUOTSI     Tid-volym spirometri
+#LYHENNE    Aika-tilavuus spirometria
+###
+#KOODI      XG422 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aika-tilavuus spirometria ja bronkodilataatiokoe
+#RUOTSI     Tid-volum spirometri med bronkodilatation
+#LYHENNE    Aika-tilavuus spirometria ja bronkodilat
+###
+#KOODI      XG424 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tahdonalaisen maksimiventilaation mittaus
+#RUOTSI     Mätning av maksimal utandnings capasität
+#LYHENNE    Tahdonalaisen maksimiventilaation mittau
+###
+#KOODI      XG430 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spiroergometria
+#RUOTSI     Spiroergometri
+#LYHENNE    Spiroergometria
+###
+#KOODI      XG432 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kylmäilma-altistus ja spiroergometria
+#RUOTSI     Kall exponering with sipirometry
+#LYHENNE    Kylmäilma-altistus ja spiroergometria
+###
+#KOODI      XG434 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spiroergometria ja verikaasuarvojen seuranta
+#RUOTSI     Spirometri med blodgasanalys
+#LYHENNE    Verikaasuspiroergometria
+###
+#KOODI      XG440 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko vartalon pletysmografia
+#RUOTSI     Hela kroppens pletysmografi
+#LYHENNE    Koko vartalon pletysmografia
+###
+#KOODI      XG442 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko vartalon pletysmografia ja bronkodilataatiokoe
+#RUOTSI     Hela kroppens pletysmografi med bronkodilatatioon
+#LYHENNE    Koko vartalon pletysmografia ja bronkodi
+###
+#KOODI      XG460 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lyhytaikainen oksimetria
+#RUOTSI     Kort tids oximetri
+#LYHENNE    Lyhytaikainen oksimetria
+###
+#KOODI      XG462 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoperfuusion moni-ilmaisin tutkimus
+#RUOTSI     Undersökning av lungperfusion med multikanal analysator
+#LYHENNE    Keuhkoperfuusion moni-ilmaisin tutkimus
+#OHJE_S  
+Oikovirtausmittaus happihengityksessä
+#OHJE_R 
+Genflödesmätning under syreventilation
+###
+#KOODI      XG464 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoventilaation moni-ilmaisin tutkimus
+#RUOTSI     Undersökning av lungventilation med med multikanal analysator
+#LYHENNE    Keuhkoventilaation moni-ilmaisin tutkimu
+###
+#KOODI      XG466 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unioksimetria
+#RUOTSI     Sömnoksimetri
+#LYHENNE    Unioksimetria
+###
+#KOODI      XG470 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diffuusiokapasiteetti
+#RUOTSI     Diffusions kapasität
+#LYHENNE    Diffuusiokapasiteetti
+###
+#KOODI      XG472 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhden henkäyksen nitrografia
+#RUOTSI     Nitrographi från en utandning
+#LYHENNE    Yhden henkäyksen nitrografia
+###
+#KOODI      XG474 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uloshengityksen typpioksidianalyysi
+#RUOTSI     NO analys av utandning
+#LYHENNE    Uloshengityksen typpioksidianalyysi
+###
+#KOODI      XG476 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hengityksen säätely ja CO2 stimulaatio
+#RUOTSI     Undersökning av andnings reglering och CO2 stimulation
+#LYHENNE    Hengityksen säätely ja CO2 stimulaatio
+###
+#KOODI      XG480 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hengitysteiden epäspesifinen altistuskoe (histamiinikoe)
+#RUOTSI     Ospesifik provokation av andningsvägar med histamin
+#LYHENNE    Histamiinialtistuskoe
+#OHJE_S  
+Sisältää histamiini- ja metakoliinialtisuksen
+#OHJE_R 
+---
+###
+#KOODI      XG488 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hengitysteiden muu altistuskoe
+#RUOTSI     Annan provokation av andningsvägar
+#LYHENNE    Hengitysteiden muu altistuskoe
+#OHJE_S  
+Esim. spesifisellä allergeenilla
+#OHJE_R 
+---
+###
+#KOODI      XG499 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hengitysfunktion kliinis-fysiologinen tutkimus
+#RUOTSI     Annan klinis-fysiologisk undersökning av andnings funktion
+#LYHENNE    Muu hengitysfunktion kliinis-fysiologine
+###
+#KOODI      XGX02 
+#MUUT_PVM   1996/04/09
+#KAYTPVM    1997/01/01
+#POISTPVM   2002/08/26
+#POISTETTU
+#VANHA                
+#SUOMI      Ultraäänitutkimus ruokatorven kautta
+#RUOTSI     Ultraljudsundersökning av esofagus
+#LYHENNE    Ultraäänitutkimus ruokatorven kautta
+###
+#KOODI      XGX10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraäänitutkimus keuhkon pinnalta
+#RUOTSI     Intrapleural ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus keuhkon pinnalta
+#OHJE_S  
+Epikardiaalinen UÄ, ks XFE00 tai XFE01
+#OHJE_R 
+Epikardiellt ultraljud, se XFE00 eller XFE01
+###
+#KOODI      XGX21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1230+     
+#SUOMI      Ultraäänitutkimus rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus torakoskopiassa
+#OHJE_S  
+Epikardiaalinen UÄ, ks XFE01
+#OHJE_R 
+Epikardiellt ultraljud, se XFE01
+###
+#KOODI      XGX32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1240+     
+#SUOMI      Ultraäänitutkimus keuhkoputken tähystyksessä
+#RUOTSI     Bronkoskopisk ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus bronkoskopiassa
+###
+#KOODI      XGX96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1240+     
+#SUOMI      Muu rintaontelon ultraäänitutkimus leikkauksen tai tähystyksen aikana
+#RUOTSI     Annan intraoperativ eller endoskopisk torakal ultraljudsundersökning
+#LYHENNE    Muu rintaontelon UÄtutkimus leikk aikana
+###
+#KOODI_R    XJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Ruoansulatuskanavan ja siihen liittyvien elinten tutkimukset
+#RUOTSI     Diagnostiska åtgärder på matsmältningskanalen
+#ENGL       Investigative procedures on digestive system
+###
+#KOODI      XJ100 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekretiinitesti
+#RUOTSI     Sekretintest
+#LYHENNE    Sekretiinitesti
+###
+#KOODI      XJ110 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Helikobakteerihengitystesti
+#RUOTSI     Helicobacter-inhalationstest
+#LYHENNE    Helikobakteerihengitystesti
+###
+#KOODI      XJ120 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pentagastriinikoe
+#RUOTSI     Pentagastrintest
+#LYHENNE    Pentagastriinikoe
+###
+#KOODI      XJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsaontelon ultraäänitutkimus leikkauksen aikana
+#RUOTSI     Ultraljudsundersökning vid laparotomi
+#LYHENNE    Vatsaontelon UÄtutkimus leikk aikana
+###
+#KOODI      XJA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsaontelon ultraäänitutkimus vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk ultraljudsundersökning
+#LYHENNE    Vatsaontelon ultraäänitutkimus LAP
+###
+#KOODI      XJC00 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruokatorven painemittaus
+#RUOTSI     Esofagusmanometri
+#LYHENNE    Ruokatorven painemittaus
+###
+#KOODI      XJC02 
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruokatorven paineenmittaus ja ruokatorven alemman sulkijalihaksen paineprofiili
+#RUOTSI     Mätning av esofageal trygg och tryggprofil från esofagus sfinktern
+#LYHENNE    Ruokatorven painemitt+LES-profiili
+###
+#KOODI      XJC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruokatorven happamuuden jatkuva mittaus, pH-monitorointi
+#RUOTSI     Kontinuerlig pH-mätning i esofagus
+#LYHENNE    Ruokatorven pH-monitorointi
+###
+#KOODI      XJC15 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruokatorven toiminnan ja paineen seuranta
+#RUOTSI     Kontinuerlig uppföljning av matstrupens funktions och tryck
+#LYHENNE    Ruokatorven toiminnan ja paineen seurant
+###
+#KOODI      XJC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruokatorven lihassähkötutkimus, EMG
+#RUOTSI     Elektromyografi av matstrupen (EMG)
+#LYHENNE    Ruokatorven lihassähkötutkimus, EMG
+###
+#KOODI      XJD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1300+     
+#SUOMI      Ultraäänitutkimus yläruuansulatuskanavan tähystyksessä
+#RUOTSI     Ultraljudsundersökning vid övre gastrointestinal endoskopi
+#LYHENNE    Uätutkimus gastroduodenoskopiassa
+#OHJE_S  
+Sisältää UÄ-tutkimuksen ruokatorvessa, mahalaukussa, pohjukaissuolessa
+#OHJE_R 
+Inkl endoskopisk ultraljudsundersökning i esofagus, ventrikel, duodenum eller tunntarm
+###
+#KOODI      XJF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraäänitutkimus suoliavanteen kautta
+#RUOTSI     Ultraljudsundersökning via entero/kolostomi
+#LYHENNE    Ultraäänitutkimus suoliavanteen kautta
+###
+#KOODI      XJF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraäänitutkimus tähystyksessä suoliavanteen kautta
+#RUOTSI     Endoskopisk ultraljudsundersökning via entero/kolostomi
+#LYHENNE    UÄtutkimus suoliavannetähystyksessä
+###
+#KOODI      XJG12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1470+     
+#SUOMI      Ultraäänitutkimus tähystyksessä peräsuolen kautta
+#RUOTSI     Transrektal endoskopisk ultraljudsundersökning
+#LYHENNE    UÄtutkimus rektoskopiassa
+###
+#KOODI      XJH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraäänitutkimus peräaukon kautta
+#RUOTSI     Transanal ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus peräaukon kautta
+###
+#KOODI      XJH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1602      
+#SUOMI      Peräaukon/suolen painemittaus
+#RUOTSI     Anorektal manometri
+#LYHENNE    Peräaukon/suolen painemittaus
+###
+#KOODI      XJH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peräaukon sulkijan lihassähkötutkimus, EMG
+#RUOTSI     Elektromyografi av analsfinkter, EMG
+#LYHENNE    Peräaukon sulkijan EMG
+###
+#KOODI      XJK02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1260+     
+#SUOMI      Sapenjohtimen painemittaus tähystyksessä
+#RUOTSI     Endoskopisk manometri av gallgång
+#LYHENNE    Sapenjohtimen painemittaus tähystyksessä
+###
+#KOODI      XJL02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1270+     
+#SUOMI      Haimatiehyen painemittaus tähystyksessä
+#RUOTSI     Endoskopisk manometri av pankreasgång
+#LYHENNE    Haimatiehyen painemittaus tähystyksessä
+###
+#KOODI      XJW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ruoansulatuskanavan ja siihen liittyvien elinten tutkimus
+#RUOTSI     Annan diagnostisk åtgärd på gastrointestinalkanalen
+#LYHENNE    Muu GE-kanavan tutkimus leikk aikana
+###
+#KOODI_R    XK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Virtsateiden ja miehen sukupuolielinten tutkimukset
+#RUOTSI     Diagnostiska åtgärder på urinvägar och manliga genitalia
+#ENGL       Investigative procedures on urinary and male genital system
+###
+#KOODI      XKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisaltaan urodynaaminen tutkimus
+#RUOTSI     Urodynamisk undersökning av njurbäcken
+#LYHENNE    Munuaisaltaan urodynaaminen tutkimus
+###
+#KOODI      XKB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1603+     
+#SUOMI      Virtsanjohtimen urodynaaminentutkimus
+#RUOTSI     Urodynamisk undersökning av uretär
+#LYHENNE    Virtsanjohtimen urodynaaminentutkimus
+###
+#KOODI      XKC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1603      
+#SUOMI      Rakon urodynaaminen tutkimus, kaasukystometria
+#RUOTSI     Urodynamisk undersökning av urinblåsan (gas)
+#LYHENNE    Rakon kaasukystometria
+###
+#KOODI      XKC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1603      
+#SUOMI      Rakon urodynaaminen tutkimus, vesikystometria
+#RUOTSI     Urodynamisk undersökning av urinblåsan (vätska)
+#LYHENNE    Rakon vesikystometria
+###
+#KOODI      XKD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1603      
+#SUOMI      Virtsasuihkun virtausmittaus, flowmetria
+#RUOTSI     Urinflödesmätning
+#LYHENNE    Virtsasuihkun virtausmittaus, flowmetria
+###
+#KOODI      XKD03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaputken paineprofiilin mittaus
+#RUOTSI     Registrering av tryckprofilen i uretra
+#LYHENNE    Virtsaputken paineprofiilin mittaus
+###
+#KOODI      XKD06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaamistutkimus; paine, virtaus
+#RUOTSI     Miktionsfysiologisk undersökning (tryck, flöde)
+#LYHENNE    Virtsaamistutkimus; paine, virtaus
+###
+#KOODI      XKD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraäänitutkimus virtsaputken kautta
+#RUOTSI     Transuretral ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus virtsaputken kautta
+#OHJE_S  
+Eturauhasen ultraäänitutkimus peräsuolen kautta XJH 00
+#OHJE_R 
+Transanal/rektal ultraljudsundersökning av prostata, se XJG12, XJH00
+###
+#KOODI      XKG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keinotekoisesti aiheutettu erektio
+#RUOTSI     Framkallande av artificiell erektion
+#LYHENNE    Keinotekoisesti aiheutettu erektio
+###
+#KOODI      XKG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siittimen verenvirtauksen mittaus
+#RUOTSI     Mätning av blodflödet i penis
+#LYHENNE    Siittimen verenvirtauksen mittaus
+###
+#KOODI      XKW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu virtsateiden ja miehen sukupuolielinten toiminnan tutkimus
+#RUOTSI     Annan diagnostisk åtgärd på urinvägar eller manliga genitalia
+#LYHENNE    Muu virtsatie/miessukupuolielintutkimus
+###
+#KOODI      XKX00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantion pohjan EMG tutkimus
+#RUOTSI     Elektromyografi av bäckenbottnen (EMG)
+#LYHENNE    Lantion pohjan EMG tutkimus
+###
+#KOODI_R    XL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Naisen lantion elinten tutkimukset
+#RUOTSI     Diagnostiska åtgärder på kvinnliga genitalia
+#ENGL       Investigative procedures on female genital system
+###
+#KOODI      XLA00 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM   1999/02/05
+#POISTETTU
+#VANHA                
+#SUOMI      Gynekologinen ultraäänitutkimus
+#RUOTSI     Gynekologisk ultraljudsundersökning
+#LYHENNE    Gynekologinen ultraäänitutkimus
+###
+#KOODI      XLA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/02/05
+#POISTETTU
+#VANHA                
+#SUOMI      Ultraäänitutkimus emättimen kautta
+#RUOTSI     Transvaginal ultraljudsundersökning
+#LYHENNE    Ultraäänitutkimus emättimen kautta
+###
+#KOODI      XLD00 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gynekologinen irtosolunäytteen otto
+#RUOTSI     Gynelkologisk cellprovtakning
+#LYHENNE    Gynekologinen irtosolunäytteen otto
+###
+#KOODI_R    XM
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Raskauden aikaiset tutkimukset
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      XMA00 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA                
+#SUOMI      Sikiön ultraäänitutkimus
+#RUOTSI     Ultraljudsundersökning av foster
+#LYHENNE    Sikiön ultraäänitutkimus
+###
+#KOODI      XMA02 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sikiön sydämen ultraäänitutkimus
+#RUOTSI     ultraljudsundersökning av fosterhjärta
+#LYHENNE    Sikiön sydämen ultraäänitutkimus
+###
+#KOODI      XMA20 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Varhaisraskauden tutkimus
+#RUOTSI     Undersökning av tidig gravidität
+#LYHENNE    Varhaisraskauden tutkimus
+###
+#KOODI      XMA22 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Raskauden yleistutkimus
+#RUOTSI     Generel undersökning av gravidität
+#LYHENNE    Raskauden yleistutkimus
+###
+#KOODI_R    XP
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Verisuonten tutkimustoimenpiteet
+#RUOTSI     Diagnostiska åtgärder på perifera kärl
+#ENGL       
+#OHJE_S  
+Verenpaineen mittaukset, katso XF
+#OHJE_R 
+Blodtrycksmätningar, se XF
+###
+#KOODI      XP000 
+#MUUT_PVM   1996/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM   2003/09/13
+#POISTETTU
+#VANHA                
+#SUOMI      Valtimon varjoainekuvaus
+#RUOTSI     Kineangiografi av artär
+#LYHENNE    Valtimon varjoainekuvaus
+#OHJE_S  
+Ei sisällä rintakehän sisäisen aortan (XFC00) tai koronaarisuonten (XFN00) varjoainetutkimusta
+#OHJE_R 
+Exkluderar angiografi av aorta (XFC00) och kranskärlen (XFN00)
+###
+#KOODI      XPX00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leikkauksen aikainen angiografia
+#RUOTSI     Intraoperativ angiografi
+#LYHENNE    Leikkauksen aikainen angiografia
+###
+#KOODI      XPX04 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angioskopia
+#RUOTSI     Angioskopi
+#LYHENNE    Angioskopia
+#OHJE_S  
+Angioskopiassa tehdyt toimenpiteet koodataan asianomaisen toimenpiteen koodilla liitettynä angioskopian koodiin
+#OHJE_R 
+Angioskopiska åtgärd koderas med kod för eventuella åtgärd med kod för angioskopi
+###
+#KOODI      XPX08 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leikkauksenaikainen verivirtauksen mittaus
+#RUOTSI     Intraoperativ flödesmätning
+#LYHENNE    Intraoperatiivinen virtausmittaus
+#OHJE_S  
+Sisältää sekä valtimo- että laskimomittaukset
+#OHJE_R 
+Innefattar mätningar i både artärer och vener
+###
+#KOODI      XPX10 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM   2002/06/06
+#POISTETTU
+#VANHA                
+#SUOMI      Suonensisäinen ultraäänitutkimus
+#RUOTSI     Endovaskulärt ultraljud
+#LYHENNE    Suonensisäinen ultraäänitutkimus
+###
+#KOODI      XPX16 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perifeerisen verisuonen ultraäänitutkimus
+#RUOTSI     Ultraljudsundersökning av perifert kärl
+#LYHENNE    Perifeerisen verisuonen ultraäänitutkimu
+#OHJE_S  
+Sisältää Doppler tekniikan
+#OHJE_R 
+---
+###
+#KOODI      XPX99 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu verisuonen tutkimustoimenpide
+#RUOTSI     Annan diagnostisk åtgärd på perifert kärl
+#LYHENNE    Muu verisuonen tutkimustoimenpide
+###
+#KOODI      XQ800 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prick-testi
+#RUOTSI     Prick-test
+#LYHENNE    Prick-testi
+###
+#KOODI      XQ802 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epikutaanitesti
+#RUOTSI     Epikutantest
+#LYHENNE    Epikutaanitesti
+###
+#KOODI      XQ810 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysikaaliset urtikariatestit
+#RUOTSI     Fysikaliska tester för urtikaria
+#LYHENNE    Fysikaaliset urtikariatestit
+###
+#KOODI_R    XW
+#MUUT_PVM   1997/02/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Muiden elinjärjestelmien  tutkimustoimenpiteet
+#RUOTSI     Diagnostiska åtgärder i andra organsystem
+#ENGL       
+###
+#KOODI      XW000 
+#MUUT_PVM   2003/12/03
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuydinnäytteenotto
+#RUOTSI     Benmärgsprovtagning
+#LYHENNE    Luuydinnäytteenotto
+#OHJE_S  
+Sisältää luuydinbiopsian ja luuydinaspiraation
+#OHJE_R 
+Inkl. sternalpunktion
+###
+#KOODI      XW1AT 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Muun pinnallisen elimen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Annan ytligt belägen organ, UL-styrd finnålsbiopsi
+#LYHENNE    Pinn.el,solunäyte,UÄ
+###
+#KOODI      XW1BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9032      
+#SUOMI      Muun pinnallisen elimen solunäytteen otto läpivalaisuohjauksessa
+#RUOTSI     Annan ytligt belägen organ, genomlysningsstyrd finnålsbiopsi
+#LYHENNE    Pinn.el,solunäyt,lpv
+###
+#KOODI      XW1CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muun pinnallisen elimen solunäytteen otto TT-ohjauksessa
+#RUOTSI     Annan ytligt belägen organ, DT-styrd finnålsbiopsi
+#LYHENNE    Pinn.el,solunäyte,TT
+###
+#KOODI      XW1XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9038      
+#SUOMI      Muun pinnallisen elimen solunäytteen otto muussa ohjauksessa
+#RUOTSI     Annan ytligt belägen organ, finnålsbiopsi med annan styrning
+#LYHENNE    Pinn.el,solunäyt,muu
+###
+#KOODI      XW2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Muun sisäelimen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Annan inre organ, UL-styrd finnålsbiopsi
+#LYHENNE    Sisäel.solunäyte,UÄ
+###
+#KOODI      XW2BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9034      
+#SUOMI      Muun sisäelimen solunäytteen otto läpivalaisuohjauksessa
+#RUOTSI     Annan inre organ, genomlysningsstyrd finnålsbiopsi
+#LYHENNE    Sisäel.solunäyte,lpv
+###
+#KOODI      XW2CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9035      
+#SUOMI      Muun sisäelimen solunäytteen otto TT-ohjauksessa
+#RUOTSI     Annan inre organ, DT-styrd finnålsbiopsi
+#LYHENNE    Sisäel.solunäyte,TT
+###
+#KOODI      XW2DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9036      
+#SUOMI      Muun sisäelimen solunäytteen otto magneettiohjauksessa
+#RUOTSI     Annan inre organ, MR-styrd finnålsbiopsi
+#LYHENNE    Sisäel.solunäyte,MK
+###
+#KOODI      XW2XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9039      
+#SUOMI      Muun sisäelimen solunäytteen otto muussa ohjauksessa
+#RUOTSI     Annan inre organ, finnålsbiopsi men annan styrning
+#LYHENNE    Sisäel.solunäyte,muu
+###
+#KOODI      XW3AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Muun pinnallisen elimen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Annan ytligt belägen organ, UL-styrd vävnadsbiopsi
+#LYHENNE    Pinn.el,kud.näyte,UÄ
+###
+#KOODI      XW3BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9042      
+#SUOMI      Muun pinnallisen elimen kudosnäytteen otto läpivalaisuohjauksessa
+#RUOTSI     Annan ytligt belägen organ, genomlysningsstyrd vävnadsbiopsi
+#LYHENNE    Pinn.el,kud.näyt,lpv
+###
+#KOODI      XW3CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9049      
+#SUOMI      Muun pinnallisen elimen kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Annan ytligt belägen organ, DT-styrd vävnadsbiopsi
+#LYHENNE    Pinn.el,kud.näyte,TT
+###
+#KOODI      XW4AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Muun sisäelimen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Annan inre organ, UL-styrd vävnadsbiopsi
+#LYHENNE    Sisäel,kudosnäyte,UÄ
+###
+#KOODI      XW4BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9044      
+#SUOMI      Muun sisäelimen kudosnäytteen otto läpivalaisuohjauksessa
+#RUOTSI     Annan inre organ, genomlysningsstyrd vävnadsbiopsi
+#LYHENNE    Sisäel,kud.näyte,lpv
+###
+#KOODI      XW4CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9045      
+#SUOMI      Muun sisäelimen kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Annan inre organ, DT-styrd vävnadsbiopsi
+#LYHENNE    Sisäel,kudosnäyte,TT
+###
+#KOODI      XW4DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9046      
+#SUOMI      Muun sisäelimen kudosnäytteen otto magneettiohjauksessa
+#RUOTSI     Annan inre organ, MR-styrd vävnadsbiopsi
+#LYHENNE    Sisäel,kudosnäyte,MK
+###
+#KOODI      XW4XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9049      
+#SUOMI      Muun sisäelimen kudosnäytteen otto muussa ohjauksessa
+#RUOTSI     Annan inre organ, vävnadsbiopsi med annan styrning
+#LYHENNE    Sisäel,kud.näyte,muu
+###
+#KOODI      XW5WT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9540      
+#SUOMI      Muu radiologisesti ohjattu verinäytteen otto
+#RUOTSI     Annat radiologiskt styrt blodprov
+#LYHENNE    Muu kohd. verinäyte
+###
+#KOODI_R    XX
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Määräämättömän elinjärjestelmän tutkimukset
+#RUOTSI     Diagnostiska åtgärder utan specifikation av organsystem
+#ENGL       Investigative procedures on unspecified organ system
+###
+#KOODI      XX1AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5949      
+#SUOMI      Muu TT
+#RUOTSI     Annan DT
+#LYHENNE    Muu TT
+###
+#KOODI      XX1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Muu punktio tai tyhjennys UÄ-ohjauksessa
+#RUOTSI     Annan UL-styrd punktion eller tömning
+#LYHENNE    Punktio/tyhj,UÄ-ohj.
+###
+#KOODI      XX1AW 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5002      
+#SUOMI      Lausunto natiivikuvista
+#RUOTSI     Utlåtande om nativ röntgenundersökning
+#LYHENNE    Laus. nat.kuvista
+###
+#KOODI      XX1BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu laaja TT
+#RUOTSI     Annan omfattande DT
+#LYHENNE    Muu laaja TT
+###
+#KOODI      XX1BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9022      
+#SUOMI      Muu punktio tai tyhjennys läpivalaisuohjauksessa
+#RUOTSI     Annan genomlysningsstyrd punktion eller tömning
+#LYHENNE    Punktio/tyhj,lpv-ohj
+###
+#KOODI      XX1BW 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5003      
+#SUOMI      Lausunto varjoainekuvista
+#RUOTSI     Utlåtande om kontrastmedelröntgenundersökning
+#LYHENNE    Laus.. v.a-kuvista
+###
+#KOODI      XX1CD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu erittäin laaja TT
+#RUOTSI     Annan mycket omfattande DT
+#LYHENNE    Muu erittäin laaja TT
+###
+#KOODI      XX1CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9023      
+#SUOMI      Muu punktio tai tyhjennys TT-ohjauksessa
+#RUOTSI     Annan DT-styrd punktion eller tömning
+#LYHENNE    Punktio/tyhj,TT-ohj.
+###
+#KOODI      XX1CW 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lausunto angiografiakuvista
+#RUOTSI     Utlåtande om angiografi
+#LYHENNE    Laus. vier. angiokuv
+###
+#KOODI      XX1DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9024      
+#SUOMI      Muu punktio tai tyhjennys magneettiohjauksessa
+#RUOTSI     Annan MR-styrd punktion eller tömning
+#LYHENNE    Punktio/tyhj,MK-ohj.
+###
+#KOODI      XX1DW 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5004      
+#SUOMI      Lausunto TT-kuvista
+#RUOTSI     Utlåtande om DT-undersökning
+#LYHENNE    Laus. vier. TT-kuv
+###
+#KOODI      XX1FW 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5005      
+#SUOMI      Lausunto magneettikuvista
+#RUOTSI     Utlåtande om MR-undersökning
+#LYHENNE    Laus.vier.MK-kuvista
+###
+#KOODI      XX1XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9029      
+#SUOMI      Muu punktio tai tyhjennys muussa ohjauksessa
+#RUOTSI     Annan radiologiskt styrd punktion eller tömning
+#LYHENNE    Punktio/tyhj,muu ohj
+###
+#KOODI      XX1XW 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lausunto muista kuvista
+#RUOTSI     Utlåtande om annan radiologisk undersökning
+#LYHENNE    Laus.muista vier.kuv
+###
+#KOODI      XX2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Muu injektio UÄ-ohjauksessa
+#RUOTSI     Annan UL-styrd injektion
+#LYHENNE    Injektio, UÄ-ohjaus
+###
+#KOODI      XX2AW 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5010      
+#SUOMI      Teleradiologinen konsultaatio natiivikuvista
+#RUOTSI     Teleradiologisk konsultation av röntgenundersökning
+#LYHENNE    Teleradiol.nat.kons.
+###
+#KOODI      XX2BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9022      
+#SUOMI      Muu injektio läpivalaisuohjauksessa
+#RUOTSI     Annan genomlysningsstyrd injektion
+#LYHENNE    Injektio, lpv-ohjaus
+###
+#KOODI      XX2BW 
+#MUUT_PVM   2004/04/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5010      
+#SUOMI      Teleradiologinen konsultaatio varjoainekuvista
+#RUOTSI     Teleradiologisk konsultation av kontraströntgenundersökning
+#LYHENNE    Teleradiol.v-a.kons.
+###
+#KOODI      XX2CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9023      
+#SUOMI      Muu injektio TT-ohjauksessa
+#RUOTSI     Annan DT-styrd injektion
+#LYHENNE    Injektio, TT-ohjaus
+###
+#KOODI      XX2CW 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5010      
+#SUOMI      Teleradiologinen konsultaatio angiografiakuvista
+#RUOTSI     Teleradiologisk konsultation av angiografibilder
+#LYHENNE    Teleradiol.angiokons
+###
+#KOODI      XX2DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9024      
+#SUOMI      Muu injektio magneettiohjauksessa
+#RUOTSI     Annan MR-styrd injektion
+#LYHENNE    Injektio, MK-ohjaus
+###
+#KOODI      XX2DW 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5010      
+#SUOMI      Teleradiologionen konsultaatio TT-kuvista
+#RUOTSI     Teleradiologisk konsultation av DT-undersökning
+#LYHENNE    Teleradiol.TT-kons.
+###
+#KOODI      XX2FW 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5010      
+#SUOMI      Teleradiologinen konsultaatio magneettikuvista
+#RUOTSI     Teleradiologisk konsultation av MR-undersökning
+#LYHENNE    Teleradiol.magn.kons
+###
+#KOODI      XX2XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9025      
+#SUOMI      Muu injektio muussa ohjauksessa
+#RUOTSI     Annan radiologiskt styrd injektion
+#LYHENNE    Injektio, muu ohjaus
+###
+#KOODI      XX2XW 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5010      
+#SUOMI      Muu teleradiologinen konsultaatio
+#RUOTSI     Teleradiologisk konsultation av annan radiologisk undersökning
+#LYHENNE    Muu teleradiol.kons.
+###
+#KOODI      XX3AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9011      
+#SUOMI      Muu merkkaus UÄ-ohjauksessa
+#RUOTSI     UL-styrd märkning av annan struktur
+#LYHENNE    Merkkaus, UÄ-ohjaus
+###
+#KOODI      XX3BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9012      
+#SUOMI      Muu merkkaus läpivalaisuohjauksessa
+#RUOTSI     Genomlysningsstyrd märkning  av annan struktur
+#LYHENNE    Merkkaus, lpv-ohjaus
+###
+#KOODI      XX3CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9019      
+#SUOMI      Muu merkkaus TT-ohjauksessa
+#RUOTSI     DT-styrd märkning  av annan struktur
+#LYHENNE    Merkkaus, TT-ohjaus
+###
+#KOODI      XX3DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9019      
+#SUOMI      Muu merkkaus magneettiohjauksessa
+#RUOTSI     MR-styrd märkning  av annan struktur
+#LYHENNE    Merkkaus, MK-ohjaus
+###
+#KOODI      XX3DW 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5020      
+#SUOMI      Laaja lisäanalyysi radiologisesta tutkimusainestosta
+#RUOTSI     Tidskrävande tilläggsanalys av existerande radiologisk material
+#LYHENNE    Työläs työasematyö
+###
+#KOODI      XX3XT 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9019      
+#SUOMI      Muu merkkaus muussa ohjauksessa
+#RUOTSI     Annan märkning  av annan struktur
+#LYHENNE    Merkkaus, muu ohjaus
+###
+#KOODI      XX4AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9191      
+#SUOMI      Muun ontelon kanavointi UÄ-ohjauksessa
+#RUOTSI     Annat UL-styrt dränage
+#LYHENNE    Ontelon dren,UÄ-ohj.
+###
+#KOODI      XX4BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9192      
+#SUOMI      Muun ontelon kanavointi läpivalaisuohjauksessa
+#RUOTSI     Annat genomlysningsstyrt dränage
+#LYHENNE    Ontelon dren,lpv-ohj
+###
+#KOODI      XX4CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9193      
+#SUOMI      Muun ontelon kanavointi TT-ohjauksessa
+#RUOTSI     Annat DT-styrt dränage
+#LYHENNE    Ontelon dren,TT-ohj.
+###
+#KOODI      XX4DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muun ontelon kanavointi magneettiohjauksessa
+#RUOTSI     Annat MR-styrt dränage
+#LYHENNE    Ontelon dren,MK-ohj.
+###
+#KOODI      XX4FT 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9195      
+#SUOMI      Muun ontelon katetrin vaihto radiologisessa ohjauksessa
+#RUOTSI     Annat dränbyte med radiologisk styrning
+#LYHENNE    Ontelon kat. vaihto
+###
+#KOODI      XX4XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9199      
+#SUOMI      Muu kanavointi radiologisessa ohjauksessa
+#RUOTSI     Annat radiologiskt styrt dränage
+#LYHENNE    Muu kanavointi
+###
+#KOODI      XX5KT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9055      
+#SUOMI      Skleroterapia muuhun kystaan
+#RUOTSI     Skleroterapi av annan cysta
+#LYHENNE    Skleroterap,muu kyst
+###
+#KOODI      XX5LT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9055      
+#SUOMI      Skleroterapia muuhun elimeen
+#RUOTSI     Skleroterapi i en annan organ
+#LYHENNE    Skleroterap,muu elin
+###
+#KOODI      XX5WT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9071      
+#SUOMI      Laserhoito UÄ-ohjauksessa
+#RUOTSI     UL-styrd laserbehandling
+#LYHENNE    Laserhoito UÄ-ohj
+###
+#KOODI      XX6DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9340      
+#SUOMI      Muun kasvaimen embolisaatio radiologisessa ohjauksessa
+#RUOTSI     Annan tumör, radiologiskt styrd embolisering
+#LYHENNE    Kasv,embol/okkluusio
+###
+#KOODI      XX6ET 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9340      
+#SUOMI      Muun kasvaimen embolisaatio radiologisessa ohjauksessa, laaja
+#RUOTSI     Annan tumör, radiologiskt styrd omfattande embolisering
+#LYHENNE    Muun kasv.l.embol.
+###
+#KOODI      XX6KT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9059      
+#SUOMI      Muu skleroterapia
+#RUOTSI     Annan skleroterapi
+#LYHENNE    Skleroterapia
+###
+#KOODI      XX6LT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9054      
+#SUOMI      Kasvaimen lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Tumör termokoagulation, radiologiskt styrd
+#LYHENNE    Kasv,lämpökoagulatio
+###
+#KOODI      XX6RT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9299      
+#SUOMI      Muu dilataatio radiologisessa ohjauksessa
+#RUOTSI     Annan radiologiskt styrd dilatation
+#LYHENNE    Muu dilataatio
+###
+#KOODI      XX6XT 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9390      
+#SUOMI      Muu lääkehoito tai suonensisäinen verenkierron tukkiminen
+#RUOTSI     Radiologiskt styrd annan farmakoterapi eller ocklusion
+#LYHENNE    Muu lääkehoito/okkl.
+###
+#KOODI      XX6ZT 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9490      
+#SUOMI      Muu kiven tai vierasesineen poisto radiologisessa ohjauksessa
+#RUOTSI     Radiologiskt styrd extraktion av konkrement eller främmande kropp från annan lokalisation
+#LYHENNE    Kiv. poisto muualta
+###
+#KOODI      XX9AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Täydentävä TT
+#RUOTSI     Kompleterande DT
+#LYHENNE    Täydentävä TT
+###
+#KOODI      XX9AF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu suppea magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR (övrig) begränsad undersökning med mellanfältsmagnet
+#LYHENNE    Muu suppea KKMT
+###
+#KOODI      XX9AG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu suppea magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR (övrig) begränsad undersökning med högfältsmagnet
+#LYHENNE    Muu suppea VKMT
+###
+#KOODI      XX9AK 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8400      
+#SUOMI      Muu spektroskopia
+#RUOTSI     Spektroskopi, övrig
+#LYHENNE    Muu spektroskopia
+###
+#KOODI      XX9AL 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu magneettikenttämittaus (magnetografia)
+#RUOTSI     Magnetografi, övrig
+#LYHENNE    Muu magnetografia
+###
+#KOODI      XX9AW 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5001      
+#SUOMI      Röntgenkuvien kopio
+#RUOTSI     Kopiering av röntgenbilder
+#LYHENNE    Röntgenkuvien kopio
+###
+#KOODI      XX9BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Täydentävä laaja TT
+#RUOTSI     Kompleterande omfattande DT
+#LYHENNE    Täydentävä laaja TT
+###
+#KOODI      XX9BF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8197      
+#SUOMI      Muu magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR (övrig) med mellanfältsmagnet
+#LYHENNE    Muu KKMT
+###
+#KOODI      XX9BG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8297      
+#SUOMI      Muu magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR (övrig) med högfältsmagnet
+#LYHENNE    Muu VKMT
+###
+#KOODI      XX9CD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Täydentävä erittäin laaja TT
+#RUOTSI     Kompleterande mycket omfattande DT
+#LYHENNE    Täydentävä erittäin laaja TT
+###
+#KOODI      XX9CF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8198      
+#SUOMI      Muu laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR (övrig) omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Muu l.KKMT
+###
+#KOODI      XX9CG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8298      
+#SUOMI      Muu laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR (övrig) omfattande undersökning med högfältsmagnet
+#LYHENNE    Muu l.VKMT
+###
+#KOODI      XX9DF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8199      
+#SUOMI      Muu erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR (övrig) speciellt omfattande undersökning med mellanfältsmagnet
+#LYHENNE    Muu er.l.KKMT
+###
+#KOODI      XX9DG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8299      
+#SUOMI      Muu erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR (övrig) speciellt omfattande undersökning med högfältsmagnet
+#LYHENNE    Muu er.l.VKMT
+###
+#KOODI      XX9KE 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu UÄ varjoainetta käyttäen
+#RUOTSI     Annan UL med kontrastmedel
+#LYHENNE    Varjoaine UÄ
+#OHJE_S  
+Sydämen  tutkimus kts. FM1KE Kohdun ja munajohtimien tutkimus kts. LC2HE
+#OHJE_R 
+---
+###
+#KOODI      XX9LA 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5398      
+#SUOMI      Täydentävä läpivalaisututkimus ilman varjoainetta
+#RUOTSI     Kompletterande genomlysning utan kontrastmedel
+#LYHENNE    Täydentävä lpv
+###
+#KOODI      XX9TB 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Täydentävä röntgenvarjoainetutkimus
+#RUOTSI     Kompletterande röntgen kontrastundersökning
+#LYHENNE    Täydentävä grafia
+###
+#KOODI      XX9TD 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5948      
+#SUOMI      Täydentävä TT
+#RUOTSI     Kompletterande DT undersökning
+#LYHENNE    Täydentävä TT
+###
+#KOODI      XX9TE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6398      
+#SUOMI      Täydentävä UÄ-tutkimus
+#RUOTSI     Kompletterande UL
+#LYHENNE    Täydentävä UÄ
+###
+#KOODI      XX9TT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9698      
+#SUOMI      Täydentävä radiologinen toimenpide
+#RUOTSI     Kompletterande radiologisk intervention
+#LYHENNE    Täydent. toimenpide
+###
+#KOODI      XX9XA 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu natiiviröntgen
+#RUOTSI     Annan röntgenundersökning utan kontrastmedel
+#LYHENNE    Muu natiivi rtg
+###
+#KOODI      XX9XB 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu röntgenrvarjoainetutkimus
+#RUOTSI     Annan röntgen kontrastundersökning
+#LYHENNE    Muu grafia
+###
+#KOODI      XX9XE 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6399      
+#SUOMI      Muu UÄ
+#RUOTSI     Annan UL
+#LYHENNE    Muu UÄ
+###
+#KOODI      XX9XT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9699      
+#SUOMI      Muu radiologinen toimenpide
+#RUOTSI     Annan radiologisk intervention
+#LYHENNE    Muu toimenpide
+###
+#KOODI      XXA00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kliininen tutkimus, joka edellyttää yleisanestesiaa
+#RUOTSI     Klinisk undersökning i generell anestesi (narkos)
+#LYHENNE    Kliininen tutkimus yleisanestesiassa
+###
+#KOODI      XY1NK 
+#MUUT_PVM   2003/08/27
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diffuusiokuvaus *
+#RUOTSI     Diffusionsavbildning *
+#LYHENNE    Diffuusiokuvaus
+###
+#KOODI      XY1PK 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perfuusiokuvaus *
+#RUOTSI     Perfusionsavbildning*
+#LYHENNE    Perfuusiokuvaus

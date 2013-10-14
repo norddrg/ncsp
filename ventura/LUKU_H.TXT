@@ -1,0 +1,1013 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU H
+
+@LUVUT_S = KAPITEL H
+
+@SUOMI_L = Rintarauhanen
+
+@RUOTSI_L = Bröstkörtel
+
+@ENGL_L = Mammary gland
+
+@NOTE_LF = Rintakehän seinämän etäpesäke kohdassa GA
+
+@NOTE_LF =
+Myöhäinen uusintatoimenpide ilmaistaan lisäkoodilla ZSH00
+
+@NOTE_LS = Metasstas i bröstväggen, se GA
+
+@NOTE_LS =
+Sen reoperation anges med tilläggskod ZSH00
+
+@END_L = 
+
+@KOODI_R = HA
+
+@SUOMI_R = Rintarauhasen toimenpiteet
+
+@RUOTSI_R = Operationer på bröst
+
+@ENGL_R = Mammary gland primary procedures
+
+@END = 
+
+@KOODI_A = HA_
+
+@NCSP_A = HAD
+
+@SUOMI_A = Rintarauhasen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av bröst
+
+@ENGL_A = Diagnostic procedures on mammary gland
+
+@END = 
+
+@KOODI = HA1AA 
+
+@NCSP = HADA1A
+
+@SUOMI = Rintarauhasten natiiviröntgen
+
+@RUOTSI = Mammografi
+
+@END = 
+
+@KOODI = HA1BA 
+
+@NCSP = HADA1A
+
+@SUOMI = Rintarauhasten laaja natiiviröntgen
+
+@RUOTSI = Mammografi, omfattande
+
+@NOTE_F = Peruskuvien valmistumisen jälkeen otetaan lisäkuvia, kohdekuvia, suurennoskuvia tai mammografian yhteydessä tehty tarkistus UÄ:llä.
+
+@NOTE_S = Efter grundprojektioner tar man tilläggsbilder, detaljbilder, förstorningsbidler eller gör en ultraljudsundersökning
+
+@END = 
+
+@KOODI = HA1DA 
+
+@NCSP = HADA1A
+
+@SUOMI = Rintarauhasen suppea natiiviröntgen *
+
+@RUOTSI = Begränsad unilateral mammografi *
+
+@END = 
+
+@KOODI = HA1CA 
+
+@NCSP = HADA1C
+
+@SUOMI = Rintarauhasten seulontatutkimus (mammografiaseulonta)
+
+@RUOTSI = Mammografi, screening
+
+@END = 
+
+@KOODI = HA1SA 
+
+@NCSP = HADA1S
+
+@SUOMI = Rintarauhasten suurennusröntgen (suurennosmammografia) *
+
+@RUOTSI = Mammografi, förstoringsbild *
+
+@END = 
+
+@KOODI = HA6AA 
+
+@NCSP = HADA6A
+
+@SUOMI = Rintarauhaspreparaatin röntgen (mammapreparaattiröntgen)
+
+@RUOTSI = Mammografi, preparat
+
+@END = 
+
+@KOODI = HA1BB 
+
+@NCSP = HADB1B
+
+@SUOMI = Rintarauhaskystan ilmatutkimus (pneumokystografia)
+
+@RUOTSI = Pneumocystografi
+
+@END = 
+
+@KOODI = HA5CB 
+
+@NCSP = HADB5C
+
+@SUOMI = Rintarauhastiehyeen varjoainetutkimus (galaktografia)
+
+@RUOTSI = Galaktografi
+
+@END = 
+
+@KOODI = HA1AE 
+
+@NCSP = HADE1A
+
+@SUOMI = Rintarauhasten UÄ
+
+@RUOTSI = Bröstkörtlar, UL
+
+@NOTE_F = Katso myös mammografiakoodit: HA1AA ja HA1BA
+
+@NOTE_S = Se också mammografier: HA1AA ja HA1BA
+
+@END = 
+
+@KOODI = HA1TE 
+
+@NCSP = HADE1A
+
+@SUOMI = Rintarauhasten täydentävä tai suppea UÄ *
+
+@RUOTSI = Bröstkörtlar, kompletterande eller begränsad UL *
+
+@NOTE_F = Katso myös mammografiakoodit: HA1AA ja HA1BA
+
+@NOTE_S = Se också mammografier: HA1AA ja HA1BA
+
+@END = 
+
+@KOODI = HA1BF 
+
+@NCSP = HADG1B
+
+@SUOMI = Rintarauhasten magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bröstkörtlar, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = HA1BG 
+
+@NCSP = HADG1B
+
+@SUOMI = Rintarauhasten magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bröstkörtlar, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = HA1CF 
+
+@NCSP = HADG1B
+
+@SUOMI = Rintarauhasten laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bröstkörtlar, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = HA1CG 
+
+@NCSP = HADG1B
+
+@SUOMI = Rintarauhasten  laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bröstkörtlar, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = HA1DF 
+
+@NCSP = HADG1B
+
+@SUOMI = Rintarauhasten erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bröstkörtlar, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = HA1DG 
+
+@NCSP = HADG1B
+
+@SUOMI = Rintarauhasten erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bröstkörtlar, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = HA0
+
+@NCSP_A = HAO
+
+@SUOMI_A = Rintarauhasen sädehoito kirurgisen hoidon liitännäishoitona
+
+@RUOTSI_A = Strålbehandling av bröstkörtel med kirurgi
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = HA003 
+
+@NCSP = HAO003
+
+@SUOMI = Rintarauhasen osittaisen poiston jälkeinen sädehoito
+
+@RUOTSI = Strålbehandling efter delresektion av bröstkörtel
+
+@END = 
+
+@KOODI = HA013 
+
+@NCSP = HAO013
+
+@SUOMI = Rintarauhasen täydellisen poiston jälkeinen sädehoito
+
+@RUOTSI = Strålbehandling efter total mastektomi
+
+@END = 
+
+@KOODI = HB000 
+
+@NCSP = HAO100
+
+@SUOMI = Rintarauhasen profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av bröstkörteln
+
+@END = 
+
+@KOODI = HB001 
+
+@NCSP = HAO101
+
+@SUOMI = Sädehoito rintarauhasen primaarikasvaimen preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i bröstkörteln
+
+@END = 
+
+@KOODI = HB003 
+
+@NCSP = HAO103
+
+@SUOMI = Radikaali leikkaamattoman rintarauhasen primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i bröstkörteln
+
+@END = 
+
+@KOODI = HB004 
+
+@NCSP = HAO104
+
+@SUOMI = Sädehoito rintarauhasen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i bröstkörteln
+
+@END = 
+
+@KOODI = HB049 
+
+@NCSP = HAO149
+
+@SUOMI = Sädehoito rintarauhasessa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i bröstkörteln
+
+@END = 
+
+@KOODI_A = HAA
+
+@NCSP_A = HASA
+
+@SUOMI_A = Rintarauhasen aukaisut, ompelut ja koepalan otot
+
+@RUOTSI_A = Biopsi och incision av bröstkörtel
+
+@ENGL_A = Incision, suture and biopsy of mammary gland
+
+@END = 
+
+@KOODI = HAA00 
+
+@NCSP = HASA00
+
+@SUOMI = Rintarauhasen aukaisu
+
+@RUOTSI = Incision av bröstkörtel
+
+@END = 
+
+@KOODI = HAA01 
+
+@NCSP = HASA01
+
+@SUOMI = Rintarauhasen ompelu
+
+@RUOTSI = Sutur av bröstkörtel
+
+@END = 
+
+@KOODI = HAA10 
+
+@NCSP = HASA10
+
+@SUOMI = Koepalan otto rintarauhasesta
+
+@RUOTSI = Biopsi av bröstkörtel
+
+@END = 
+
+@KOODI_A = HAB
+
+@NCSP_A = HASB
+
+@SUOMI_A = Rintarauhasen osittaiset poistot
+
+@RUOTSI_A = Delresektion av bröstkörtel
+
+@ENGL_A = Partial excision of mammary gland
+
+@END = 
+
+@KOODI = HAB00 
+
+@NCSP = HASB00
+
+@SUOMI = Rintarauhasen kudosmuutoksen tai -vaurion poisto
+
+@RUOTSI = Exstirpation av förändring/tumör i bröstkörtel
+
+@NOTE_F = Sisältää fistelin tai vierasesineen poiston
+
+@NOTE_F =
+Ihon tai ihoalaisen vierasesineen poisto kohdassa QBC00
+
+@NOTE_S = Inkluderar avlägsnande av fistel eller främmande kropp
+
+@NOTE_S =
+Avlägsnande av främmande kropp från hud eller subkutis, se QBC00
+
+@END = 
+
+@KOODI = HAB10 
+
+@NCSP = HASB10
+
+@SUOMI = Rintarauhastiehyen poisto mikrotekniikalla
+
+@RUOTSI = Mikroduktektomi i bröstkörtel
+
+@END = 
+
+@KOODI = HAB20 
+
+@NCSP = HASB20
+
+@SUOMI = Nänniin aukeavan maitotiehyen poisto
+
+@RUOTSI = Resektion av mjölkgång
+
+@NOTE_F = Lactiferous duct
+
+@NOTE_S = Lactiferous duct
+
+@END = 
+
+@KOODI = HAB30 
+
+@NCSP = HASB30
+
+@SUOMI = Nännin tai nänninpihan poisto
+
+@RUOTSI = Exstirpation av areola eller mamill
+
+@NOTE_F = Ylimääräiseen nänniin kohdistuvat toimenpiteet kohdassa HAC30
+
+@NOTE_S = Aberrant bröstkörtel eller mammill, se HAC30
+
+@END = 
+
+@KOODI = HAB40 
+
+@NCSP = HASB40
+
+@SUOMI = Rintarauhasen osan poisto, segmenti
+
+@RUOTSI = Segmentresektion av bröstkörtel
+
+@END = 
+
+@KOODI = HAB99 
+
+@NCSP = HASB99
+
+@SUOMI = Rintarauhasen osan poisto, muu kuin segmentti
+
+@RUOTSI = Annan resektion av bröstkörtel
+
+@END = 
+
+@KOODI_A = HAC
+
+@NCSP_A = HASC
+
+@SUOMI_A = Rintarauhasen poistot kokonaan
+
+@RUOTSI_A = Total mastektomi
+
+@ENGL_A = Mastectomy
+
+@END = 
+
+@KOODI = HAC10 
+
+@NCSP = HASC10
+
+@SUOMI = Rintarauhasen ihonalainen poisto, nännin säästävä
+
+@RUOTSI = Subkutan mastektomi med bevarad mamill
+
+@END = 
+
+@KOODI = HAC15 
+
+@NCSP = HASC15
+
+@SUOMI = Rintarauhasen ihonalainen poisto ja nännin poisto
+
+@RUOTSI = Subkutan mastektomi med excision av mamill
+
+@END = 
+
+@KOODI = HAC20 
+
+@NCSP = HASC20
+
+@SUOMI = Rintarauhasen poisto
+
+@RUOTSI = Mastektomi (ablatio mammae)
+
+@END = 
+
+@KOODI = HAC25 
+
+@NCSP = HASC25
+
+@SUOMI = Rintarauhasen laaja poisto
+
+@RUOTSI = Radikaloperation av bröstkörtelområdet
+
+@NOTE_F = Sisältää kainalorauhasten poiston ja Halstedin leikkauksen
+
+@NOTE_F =
+Merkityn vartijaimusolmukkeen poistaminen kohdassa PJA12
+
+@NOTE_S = Inkl lymfkörtelutrymning, excision av pektoralismuskler (Halsted)
+
+@NOTE_S =
+Excision av märkt sentinel lymfkörtel , se PJA12
+
+@END = 
+
+@KOODI = HAC30 
+
+@NCSP = HASC30
+
+@SUOMI = Ylimääräisen rintarauhasen tai nännin poisto
+
+@RUOTSI = Exstirpation av aberrant bröstkörtel eller mamill
+
+@END = 
+
+@KOODI = HAC99 
+
+@NCSP = HASC99
+
+@SUOMI = Muu rintarauhasen poisto kokonaan
+
+@RUOTSI = Annan total mastektomi
+
+@END = 
+
+@KOODI_A = HAD
+
+@NCSP_A = HASD
+
+@SUOMI_A = Rintarauhasen muotoa korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva och korrektiva operationer på bröst
+
+@ENGL_A = Plastic operations on breast
+
+@END = 
+
+@KOODI = HAD00 
+
+@NCSP = HASD00
+
+@SUOMI = Rintarauhasen suurentaminen omalla kudoksella
+
+@RUOTSI = Förstoring av bröst (autolog vävnad)
+
+@END = 
+
+@KOODI = HAD10 
+
+@NCSP = HASD10
+
+@SUOMI = Rintarauhasen suurentaminen proteesilla
+
+@RUOTSI = Förstoring av bröst med protes
+
+@END = 
+
+@KOODI = HAD20 
+
+@NCSP = HASD20
+
+@SUOMI = Rinnan rasvaimu
+
+@RUOTSI = Fettsugning av bröst
+
+@END = 
+
+@KOODI = HAD30 
+
+@NCSP = HASD30
+
+@SUOMI = Rintojen pienennys ja nänninpihojen kielekesiirto
+
+@RUOTSI = Reduktion av bröst med transposition av areola
+
+@END = 
+
+@KOODI = HAD35 
+
+@NCSP = HASD35
+
+@SUOMI = Rintojen pienennys ja nänninpihojen vapaa siirto
+
+@RUOTSI = Reduktion av bröst med fri transplantation av areola
+
+@END = 
+
+@KOODI = HAD40 
+
+@NCSP = HASD40
+
+@SUOMI = Rintojen laskeuman korjausleikkaus
+
+@RUOTSI = Mastopexi för ptos
+
+@END = 
+
+@KOODI = HAD45 
+
+@NCSP = HASD45
+
+@SUOMI = Nännin sisäänkääntymisen korjausleikkaus
+
+@RUOTSI = Korrektion av inverterad mamill
+
+@END = 
+
+@KOODI = HAD50 
+
+@NCSP = HASD50
+
+@SUOMI = Rintarauhasproteesin poisto
+
+@RUOTSI = Avlägsnande av inopererad bröstprotes
+
+@END = 
+
+@KOODI = HAD55 
+
+@NCSP = HASD55
+
+@SUOMI = Rintarauhasproteesia ympäröivän kapselin aukaisu
+
+@RUOTSI = Kapseldiscission kring bröstprotes
+
+@END = 
+
+@KOODI = HAD60 
+
+@NCSP = HASD60
+
+@SUOMI = Rintarauhasproteesin vaihto
+
+@RUOTSI = Utbyte av bröstprotes
+
+@END = 
+
+@KOODI = HAD99 
+
+@NCSP = HASD99
+
+@SUOMI = Muu rintarauhasen muotoa korjaava tai muuttava leikkaus
+
+@RUOTSI = Annan rekonstruktiv eller korrektiv operation på bröst
+
+@END = 
+
+@KOODI_A = HAE
+
+@NCSP_A = HASE
+
+@SUOMI_A = Rinnan korjaaminen poiston jälkeen tai aplasian vuoksi
+
+@RUOTSI_A = Rekonstruktion av bröst (efter mastektomi eller aplasi)
+
+@ENGL_A = Reconstruction of breast
+
+@NOTE_RF = Mikrokirurgisen tekniikan käyttö ilmaistaan lisäkoodilla ZXC90
+
+@NOTE_RS = Mikrokirurgisk teknik anges med tilläggskod, se ZXC90
+
+@END = 
+
+@KOODI = HAE00 
+
+@NCSP = HASE00
+
+@SUOMI = Leikatun rinnan korjaus proteesin avulla
+
+@RUOTSI = Rekonstruktion av bröst med protes
+
+@END = 
+
+@KOODI = HAE05 
+
+@NCSP = HASE05
+
+@SUOMI = Rinnan korjaus pehmytkudoksen ja proteesin avulla
+
+@RUOTSI = Rekonstruktion av bröst med mjukdelar och protes
+
+@END = 
+
+@KOODI = HAE10 
+
+@NCSP = HASE10
+
+@SUOMI = Rinnan korjaus kielekettä tai siirrettä käyttäen
+
+@RUOTSI = Rekonstruktion av bröst med transplantat eller lambå
+
+@END = 
+
+@KOODI = HAE20 
+
+@NCSP = HASE20
+
+@SUOMI = Nännin korjaus kielekettä tai siirrettä käyttäen
+
+@RUOTSI = Rekonstruktion av mamill med transplantat eller lambå
+
+@END = 
+
+@KOODI = HAE99 
+
+@NCSP = HASE99
+
+@SUOMI = Muu rinnan korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av bröst
+
+@END = 
+
+@KOODI_A = HAF
+
+@NCSP_A = HASF
+
+@SUOMI_A = Rintasyövän paikallisen uusiutuman leikkaukset
+
+@RUOTSI_A = Operationer vid lokalrecidiv av bröstcancer
+
+@ENGL_A = Operations for local recurrence of breast cancer
+
+@END = 
+
+@KOODI = HAF00 
+
+@NCSP = HASF00
+
+@SUOMI = Rintasyövän paikallisen uusiutuman poisto
+
+@RUOTSI = Exstirpation av lokalrecidiv av mammarcancer
+
+@END = 
+
+@KOODI = HAF10 
+
+@NCSP = HASF10
+
+@SUOMI = Rintasyövän paikallisen uusiutuman poisto, korjaus kielekettä tai siirrettä käyttäen
+
+@RUOTSI = Excision av bröstcancerrecidiv + rekonstruktion med transplantat eller lambå
+
+@END = 
+
+@KOODI = HAF20 
+
+@NCSP = HASF20
+
+@SUOMI = Rintasyövän paikallisen uusiutuman poisto ja korjaus vieraalla aineella
+
+@RUOTSI = Excision av bröstcancerrecidiv med rekonstruktion med främmande material
+
+@END = 
+
+@KOODI = HAF99 
+
+@NCSP = HASF99
+
+@SUOMI = Muu rintasyövän paikallisen uusiutuman leikkaus
+
+@RUOTSI = Annan operation vid lokalrecidiv av bröstcancer
+
+@END = 
+
+@KOODI_A = HA_
+
+@NCSP_A = HAX
+
+@SUOMI_A = Muut rintarauhasen toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på bröst
+
+@ENGL_A = Other procedures on mammary gland
+
+@END = 
+
+@KOODI = HA1AT 
+
+@NCSP = HAX000
+
+@SUOMI = Rintarauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Bröstkörtel, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = HA1DT 
+
+@NCSP = HAX000
+
+@SUOMI = Rintarauhasen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = Bröstkörtel, MR-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = HA1MT 
+
+@NCSP = HAX000
+
+@SUOMI = Rintarauhasen kudosnäytteen otto mammografiaohjauksessa
+
+@RUOTSI = Bröstkörtel, mammografistyrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = THA00 
+
+@NCSP = HAX000
+
+@SUOMI = Neulakudosnäytteen otto rintarauhasesta
+
+@RUOTSI = Punktionsbiopsi av bröstkörtel
+
+@NOTE_F = Radiologisessa ohjauksessa tehty toimenpide, katso HA1AT, HA1DT, HA1MT, HA1ST, HA2AT, HA2DT, HA2MT, HA2ST tai HA2XT
+
+@NOTE_S = Radiologiskt utstyrd, se HA1AT, HA1DT, HA1MT, HA1ST, HA2AT, HA2DT, HA2MT, HA2ST, HA2XT
+
+@END = 
+
+@KOODI = HA1ST 
+
+@NCSP = HAX002
+
+@SUOMI = Rintarauhasen kudosnäytteen otto stereotaktisessa ohjauksessa
+
+@RUOTSI = Bröstkörtel, stereotaktiskt styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = THA10 
+
+@NCSP = HAX002
+
+@SUOMI = Neulakudosnäytteen otto nännistä
+
+@RUOTSI = Punktionsbiopsi av mamill
+
+@END = 
+
+@KOODI = HA2AT 
+
+@NCSP = HAX004
+
+@SUOMI = Rintarauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Bröstkörtel, UL-styrd finnåsbiopsi
+
+@END = 
+
+@KOODI = HA2DT 
+
+@NCSP = HAX004
+
+@SUOMI = Rintarauhasen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = Bröstkörtel, MR-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = HA2MT 
+
+@NCSP = HAX004
+
+@SUOMI = Rintarauhasen solunäytteen otto mammografiaohjauksessa
+
+@RUOTSI = Bröstkörtel, mammografl-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = HA2ST 
+
+@NCSP = HAX004
+
+@SUOMI = Rintarauhasen solunäytteen otto stereotaktisessa ohjauksessa
+
+@RUOTSI = Bröstkörtel, stereotaktiskt styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = HA2XT 
+
+@NCSP = HAX004
+
+@SUOMI = Rintarauhasen solunäytteen otto muussa ohjauksessa
+
+@RUOTSI = Bröstkörtel, finnålsbiopsi med annan styrning
+
+@END = 
+
+@KOODI = HA3AT 
+
+@NCSP = HAX010
+
+@SUOMI = Rintarauhaskystan punktio UÄ-ohjauksessa
+
+@RUOTSI = Bröstkörtelcysta punktion, UL-styrd
+
+@END = 
+
+@KOODI = HA3ST 
+
+@NCSP = HAX012
+
+@SUOMI = Rintarauhasen muutoksen poisto radiologisessa ohjauksessa
+
+@RUOTSI = Bröst, radiologiskt styrd evakuering av vävnadsförändring
+
+@END = 
+
+@KOODI = HA4AT 
+
+@NCSP = HAX020
+
+@SUOMI = Rintarauhasmerkkaus UÄ-ohjauksessa
+
+@RUOTSI = Bröstkörteltumör, UL-styrd märkning
+
+@END = 
+
+@KOODI = HA4DT 
+
+@NCSP = HAX020
+
+@SUOMI = Rintarauhasmerkkaus magneettiohjauksessa
+
+@RUOTSI = Bröstkörteltumör, MR-styrd märkning
+
+@END = 
+
+@KOODI = HA4GT 
+
+@NCSP = HAX020
+
+@SUOMI = Rintarauhasmerkkaus galaktografialla
+
+@RUOTSI = Bröstkörteltumör, galaktografistyrd märkning
+
+@END = 
+
+@KOODI = HA4MT 
+
+@NCSP = HAX020
+
+@SUOMI = Rintarauhasmerkkaus mammografiaohjauksessa
+
+@RUOTSI = Bröstkörteltumör, mammografistyrd märkning
+
+@END = 
+
+@KOODI = HA4ST 
+
+@NCSP = HAX020
+
+@SUOMI = Rintarauhasmerkkaus stereotaktisessa ohjauksessa
+
+@RUOTSI = Bröstkörteltumör, stereotaktiskt styrd märkning
+
+@END = 
+
+@KOODI_R = HW
+
+@SUOMI_R = Rintarauhasleikkausten haavakomplikaatiotoimenpiteet
+
+@RUOTSI_R = Åtgärder för sårkomplikationer i bröstkirurgi
+
+@ENGL_R = Reoperations on mammary gland
+
+@END = 
+
+@KOODI = HWA00 
+
+@NCSP = HWSA00
+
+@SUOMI = Auenneen tai tulehtuneen rintarauhasleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/såprinfektion efter bröstoperation
+
+@END = 
+
+@KOODI = HWD00 
+
+@NCSP = HWSD00
+
+@SUOMI = Uusintaleikkaus rintarauhasleikkauksen haavan vuodon vuoksi
+
+@RUOTSI = Reoperation p.g.a. blödning efter bröstoperation
+
+@END = 
+
+@KOODI = HWH99 
+
+@NCSP = HWSH99
+
+@SUOMI = Muu rintarauhasleikkauksen haavakomplikaatioleikkaus
+
+@RUOTSI = Annan reoperation p.g.a. komplikation efter bröstoperation
+
+@END = 
+
+@KOODI_A = HX_
+
+@NCSP_A = HXX
+
+@SUOMI_A = Muu rintarauhasen pientoimenpide
+
+@RUOTSI_A = Andra mindre åtgärder på bröst
+
+@ENGL_A = Other procedures on mammary gland
+
+@END = 
+
+@KOODI = THW99 
+
+@NCSP = HXXX99
+
+@SUOMI = Muu rintarauhasen pientoimenpide
+
+@RUOTSI = Annan mindre åtgärd på bröstkörteln
+
+@END = 

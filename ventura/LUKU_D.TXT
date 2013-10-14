@@ -1,0 +1,3383 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU D
+
+@LUVUT_S = KAPITEL D
+
+@SUOMI_L = Korva, nenä ja kurkunpää
+
+@RUOTSI_L = Öron, näsa, hals och struphuvud
+
+@ENGL_L = Ear, nose and larynx
+
+@NOTE_LF = Trakeostomia kohdassa GBC
+
+@NOTE_LF =
+Trakeoskopia kohdassa UGA
+
+@NOTE_LS = Trakeotomiingrepp, se GBC
+
+@NOTE_LS =
+Trakeoskopi, se UGA
+
+@END_L = 
+
+@KOODI_R = DA
+
+@SUOMI_R = Korvalehti
+
+@RUOTSI_R = Ytteröra
+
+@ENGL_R = Auricle
+
+@NOTE_RF = Koepalat pään ihosta luvussa Q
+
+@NOTE_RS = Biopsi av huvudets hud, se Q
+
+@NOTE_RS =
+Biopsi av ytterörat, se T
+
+@END = 
+
+@KOODI_A = DA_
+
+@NCSP_A = DAS
+
+@SUOMI_A = Korvalehden leikkaukset
+
+@RUOTSI_A = Operationer på ytteröra
+
+@ENGL_A = Surgery on auricle
+
+@END = 
+
+@KOODI = DAA00 
+
+@NCSP = DASA00
+
+@SUOMI = Korvalehden paikallisen muutoksen aukaisu
+
+@RUOTSI = Incision av ytteröra
+
+@NOTE_F = Sisältää korvakäytävään ulottuvan muutoksen aukaisun
+
+@NOTE_F =
+Korvakäytävän muutoksen aukaisu DBA00
+
+@NOTE_S = Inkl incision som sträcker sig till hörselgången
+
+@NOTE_S =
+Incision av örongånget, se DBA00
+
+@END = 
+
+@KOODI = DAB00 
+
+@NCSP = DASB00
+
+@SUOMI = Korvalehden paikallisen muutoksen poisto
+
+@RUOTSI = Resektion av  lokal förändring i ytterörat
+
+@END = 
+
+@KOODI = DAB10 
+
+@NCSP = DASB10
+
+@SUOMI = Korvalehden poisto osittain
+
+@RUOTSI = Delresektion av ytterörat
+
+@END = 
+
+@KOODI = DAB15 
+
+@NCSP = DASB15
+
+@SUOMI = Korvalehden poisto kokonaan
+
+@RUOTSI = Total exstirpation av ytterörat
+
+@END = 
+
+@KOODI = DAB20 
+
+@NCSP = DASB20
+
+@SUOMI = Preaurikulaarisen fistelin leikkaus
+
+@RUOTSI = Operation av preaurikulär fistel
+
+@END = 
+
+@KOODI = DAC00 
+
+@NCSP = DASC00
+
+@SUOMI = Vierasesineen poisto korvalehdestä
+
+@RUOTSI = Avlägsnande av främmande kropp från aurikel
+
+@END = 
+
+@KOODI = DAD00 
+
+@NCSP = DASD00
+
+@SUOMI = Korvalehden ompelu
+
+@RUOTSI = Sutur av ytterörat
+
+@END = 
+
+@KOODI = DAD10 
+
+@NCSP = DASD10
+
+@SUOMI = Korvalehden muodostaminen
+
+@RUOTSI = Rekonstruktion av ytterörat
+
+@END = 
+
+@KOODI = DAD20 
+
+@NCSP = DASD20
+
+@SUOMI = Korvalehtiproteesin kiinnittäminen
+
+@RUOTSI = Benfixering av öronprotes
+
+@END = 
+
+@KOODI = DAD30 
+
+@NCSP = DASD30
+
+@SUOMI = Korvalehden muodon tai asennon muuttaminen
+
+@RUOTSI = Plastikoperation på ytterörat
+
+@NOTE_F = esim. hörökorva
+
+@NOTE_S = Inkl plastik för utstående öron
+
+@END = 
+
+@KOODI = DAW99 
+
+@NCSP = DASW99
+
+@SUOMI = Muu korvalehden leikkaus
+
+@RUOTSI = Annan operation på ytterörat
+
+@END = 
+
+@KOODI_A = DA_
+
+@NCSP_A = DAX
+
+@SUOMI_A = Muut ulkokorvan toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på yttterörat eller hörselgången
+
+@ENGL_A = Other procedures on auricle
+
+@END = 
+
+@KOODI = TDA00 
+
+@NCSP = DAXX00
+
+@SUOMI = Neulakudosnäytteen otto korvalehdestä tai korvakäytävästä
+
+@RUOTSI = Punktionsbiopsi av ytteröra eller yttre hörselgång
+
+@END = 
+
+@KOODI = TDA10 
+
+@NCSP = DAXX10
+
+@SUOMI = Koepalan otto korvalehdestä tai korvakäytävästä
+
+@RUOTSI = Biopsi av ytteröra eller yttre hörselgång
+
+@END = 
+
+@KOODI_R = DB
+
+@SUOMI_R = Korvakäytävä
+
+@RUOTSI_R = Hörselgång
+
+@ENGL_R = External auditory canal
+
+@NOTE_RF = Paikallisen muutoksen aukaisu, katso DAA00
+
+@NOTE_RS = Incision av hörselgången, se DAA00
+
+@NOTE_RS =
+Biopsi, se T
+
+@END = 
+
+@KOODI_A = DB_
+
+@NCSP_A = DBS
+
+@SUOMI_A = Korvakäytävän leikkaukset
+
+@RUOTSI_A = Operationer på hörselgången
+
+@ENGL_A = Surgery on external auditory canal
+
+@END = 
+
+@KOODI = DBA00 
+
+@NCSP = DBSA00
+
+@SUOMI = Korvakäytävän paikallisen muutoksen aukaisu
+
+@RUOTSI = Incision av yttre hörselgången
+
+@END = 
+
+@KOODI = DBB00 
+
+@NCSP = DBSB00
+
+@SUOMI = Korvakäytävän paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av lokal förändring från hörselgången
+
+@NOTE_F = Sisältää mm. eksostoosin poiston
+
+@NOTE_S = Inkl bl.a. avlägsnande av exostos
+
+@END = 
+
+@KOODI = DBB02 
+
+@NCSP = DBSB02
+
+@SUOMI = Korvakäytävän kasvaimen poisto
+
+@RUOTSI = Exstirpation av tumör från hörselgången
+
+@END = 
+
+@KOODI = DBD00 
+
+@NCSP = DBSD00
+
+@SUOMI = Korvakäytävän haavan ompeleminen
+
+@RUOTSI = Sutur av sår i yttre hörselgången
+
+@END = 
+
+@KOODI = DBD10 
+
+@NCSP = DBSD10
+
+@SUOMI = Korvakäytävän korjaamisleikkaus
+
+@RUOTSI = Rekonstruktion av yttre hörselgången
+
+@END = 
+
+@KOODI = DBD20 
+
+@NCSP = DBSD20
+
+@SUOMI = Korvakäytävän muovausleikkaus
+
+@RUOTSI = Plastikoperation på yttre hörselgången
+
+@NOTE_F = Esim. ahtauma
+
+@NOTE_S = T.ex. åtgärdande av förträngning
+
+@END = 
+
+@KOODI = DBD30 
+
+@NCSP = DBSD30
+
+@SUOMI = Korvakäytävän umpeuman korjaamisleikkaus
+
+@RUOTSI = Operation för hörselgångsatresi
+
+@END = 
+
+@KOODI = DBW99 
+
+@NCSP = DBSW99
+
+@SUOMI = Muu korvakäytävän leikkaus
+
+@RUOTSI = Annan operation på hörselgången
+
+@NOTE_F = Sisältää vierasesineen poiston kudoksesta
+
+@NOTE_S = Inkl avlägsnande av penetrerande främmande kropp
+
+@END = 
+
+@KOODI_A = DB_
+
+@NCSP_A = DBX
+
+@SUOMI_A = Muut korvakäytävän toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på hörselgången
+
+@ENGL_A = Other procedures on external auditory canal
+
+@END = 
+
+@KOODI = TDB00 
+
+@NCSP = DBXX00
+
+@SUOMI = Vierasesineen poisto korvakäytävästä
+
+@RUOTSI = Avlägsnande av främmande kropp från hörselgång
+
+@NOTE_F = Ihon sisään tunkeutuneen vierasesineen poisto kohdassa DBW99
+
+@END = 
+
+@KOODI = TDA90 
+
+@NCSP = DBXX90
+
+@SUOMI = Vahanpoisto korvakäytävästä
+
+@RUOTSI = Avlägsnande av vax från hörselgång
+
+@END = 
+
+@KOODI_R = DC
+
+@SUOMI_R = Tärykalvo ja välikorva
+
+@RUOTSI_R = Ttrumhinna och mellanöra
+
+@ENGL_R = Eardrum and middle ear
+
+@NOTE_RS = Skopier inkl otomikroskopi, se U
+
+@END = 
+
+@KOODI_A = DC_
+
+@NCSP_A = DCD
+
+@SUOMI_A = Välikorvan diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av mellanöra
+
+@ENGL_A = Diagnostic radiology of middle ear
+
+@END = 
+
+@KOODI = DC1AA 
+
+@NCSP = DCDA1A
+
+@SUOMI = Korvan natiiviröntgen
+
+@RUOTSI = Temporalbenet, röntgen
+
+@END = 
+
+@KOODI = DC1BA 
+
+@NCSP = DCDA1A
+
+@SUOMI = Korvan laaja natiiviröntgen
+
+@RUOTSI = Temporalbenet, omfattande röntgen
+
+@END = 
+
+@KOODI = DC1DA 
+
+@NCSP = DCDA1D
+
+@SUOMI = Korvien natiiviröntgen
+
+@RUOTSI = Temporalben, bilateral röntgen
+
+@END = 
+
+@KOODI = DC1AD 
+
+@NCSP = DCDD1A
+
+@SUOMI = Korvan TT
+
+@RUOTSI = Temporalben, DT
+
+@END = 
+
+@KOODI = DC1BD 
+
+@NCSP = DCDD1A
+
+@SUOMI = Korvan laaja TT
+
+@RUOTSI = Temporalben, omfattande DT
+
+@END = 
+
+@KOODI = DC1CD 
+
+@NCSP = DCDD1A
+
+@SUOMI = Korvan erittäin laaja TT
+
+@RUOTSI = Temporalben, mycket omfattande DT
+
+@END = 
+
+@KOODI_A = DC_
+
+@NCSP_A = DCE
+
+@SUOMI_A = Korvan tähystystoimenpiteet
+
+@RUOTSI_A = Endoskopi av öronen
+
+@ENGL_A = Endoscopy of ear
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UDC00 
+
+@NCSP = DCE000
+
+@SUOMI = Korvan mikroskopia
+
+@RUOTSI = Otomikroskopi
+
+@END = 
+
+@KOODI = UDC10 
+
+@NCSP = DCE010
+
+@SUOMI = Tympanoskopia
+
+@RUOTSI = Tympanoskopi
+
+@END = 
+
+@KOODI_A = DC_
+
+@NCSP_A = DCS
+
+@SUOMI_A = Tärykalvo- ja välikorvakirurgia
+
+@RUOTSI_A = Kirugiska åtgärder på trumhinnan och mellanörat
+
+@ENGL_A = Surgery of eadrdrum and middle ear
+
+@END = 
+
+@KOODI = DCA00 
+
+@NCSP = DCSA00
+
+@SUOMI = Koepalan otto tärykalvosta tai välikorvasta
+
+@RUOTSI = Biopsi av trumhinnan eller mellanörat
+
+@END = 
+
+@KOODI = DCA10 
+
+@NCSP = DCSA10
+
+@SUOMI = Tärykalvopisto
+
+@RUOTSI = Paracentes av trumhinnan
+
+@END = 
+
+@KOODI = DCA20 
+
+@NCSP = DCSA20
+
+@SUOMI = Ilmastointiputken asettaminen, tympanostomia
+
+@RUOTSI = Anläggande av mellanöredränage tympanostomi
+
+@END = 
+
+@KOODI = DCA30 
+
+@NCSP = DCSA30
+
+@SUOMI = Välikorvan aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Exploration av mellanörat
+
+@END = 
+
+@KOODI = DCB00 
+
+@NCSP = DCSB00
+
+@SUOMI = Kasvaimen tai kudosmuutoksen poisto välikorvasta
+
+@RUOTSI = Evulsio av förändring i mellanörat
+
+@NOTE_F = Polyyppi, granulaatiokudos yms
+
+@NOTE_S = Polyp, granulation m.m.
+
+@END = 
+
+@KOODI = DCB10 
+
+@NCSP = DCSB10
+
+@SUOMI = Kiinnikkeiden irrottelu välikorvassa
+
+@RUOTSI = Adherenslösning i mellanörat
+
+@END = 
+
+@KOODI = DCC00 
+
+@NCSP = DCSC00
+
+@SUOMI = Vierasesineen poisto välikorvasta
+
+@RUOTSI = Avlägsnande av främmande kropp från mellanörat
+
+@END = 
+
+@KOODI = DCD00 
+
+@NCSP = DCSD00
+
+@SUOMI = Tärykalvon korjaamisleikkaus
+
+@RUOTSI = Myringoplastik
+
+@END = 
+
+@KOODI = DCD10 
+
+@NCSP = DCSD10
+
+@SUOMI = Tärykalvon ja kuuloluiden korjaamisleikkaus
+
+@RUOTSI = Tympanoplastik
+
+@END = 
+
+@KOODI = DCW00 
+
+@NCSP = DCSW00
+
+@SUOMI = Ilmastointiputken poisto välikorvasta
+
+@RUOTSI = Avlägsnande av ventilationsrör från mellanörat
+
+@END = 
+
+@KOODI = DCW99 
+
+@NCSP = DCSW99
+
+@SUOMI = Muu tärykalvon ja välikorvan leikkaus
+
+@RUOTSI = Annan operation på trumhinnan eller mellanörat
+
+@END = 
+
+@KOODI_A = DC_
+
+@NCSP_A = DCX
+
+@SUOMI_A = Muut tärykalvon ja välikorvan toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på trumhinnan och mellanörat
+
+@ENGL_A = Other procedures of eadrdrum and middle ear
+
+@END = 
+
+@KOODI = TDC00 
+
+@NCSP = DCXX00
+
+@SUOMI = Neulakudosnäytteen otto tärykalvosta
+
+@RUOTSI = Punktionsbiopsi av trumhinna
+
+@END = 
+
+@KOODI = TDC10 
+
+@NCSP = DCXX10
+
+@SUOMI = Ilmastointiputken poisto tärykalvosta
+
+@RUOTSI = Avlägsnande av mellanöredränage
+
+@END = 
+
+@KOODI_R = DD
+
+@SUOMI_R = Kuuloluut
+
+@RUOTSI_R = Hörselbenskedja
+
+@ENGL_R = Ossicles of ear
+
+@END = 
+
+@KOODI_A = DD_
+
+@NCSP_A = DDS
+
+@SUOMI_A = Kuuloluiden leikkaukset
+
+@RUOTSI_A = Operationer på hörselben
+
+@ENGL_A = Surgery on ossicles of ear
+
+@END = 
+
+@KOODI = DDA00 
+
+@NCSP = DDSA00
+
+@SUOMI = Jalustimen levyn aukaisu
+
+@RUOTSI = Stapedotomi
+
+@END = 
+
+@KOODI = DDA10 
+
+@NCSP = DDSA10
+
+@SUOMI = Kuuloluuketjun tutkimusleikkaus
+
+@RUOTSI = Eploration av hörselben
+
+@END = 
+
+@KOODI = DDB00 
+
+@NCSP = DDSB00
+
+@SUOMI = Jalustimen poisto
+
+@RUOTSI = Stapedektomi
+
+@END = 
+
+@KOODI = DDC00 
+
+@NCSP = DDSC00
+
+@SUOMI = Kuuloluuketjun proteesin poisto
+
+@RUOTSI = Avlägsnande av protes i hörselsbenskädjan
+
+@END = 
+
+@KOODI = DDD00 
+
+@NCSP = DDSD00
+
+@SUOMI = Jalustimen irroittelu
+
+@RUOTSI = Mobilisering av stapes
+
+@END = 
+
+@KOODI = DDD05 
+
+@NCSP = DDSD05
+
+@SUOMI = Kuuloluiden muovausleikkaus
+
+@RUOTSI = Hörselbensplastik
+
+@END = 
+
+@KOODI = DDD10 
+
+@NCSP = DDSD10
+
+@SUOMI = Vasaran ja jalustimen yhdistäminen
+
+@RUOTSI = Interposition mellan malleus och stapes
+
+@END = 
+
+@KOODI = DDD20 
+
+@NCSP = DDSD20
+
+@SUOMI = Tärykalvon ja jalustimen levyn yhdistäminen
+
+@RUOTSI = Interposition mellan trumhinna och stapesplatta
+
+@END = 
+
+@KOODI = DDD30 
+
+@NCSP = DDSD30
+
+@SUOMI = Tärykalvon ja jalustimen välinen kiinnitys
+
+@RUOTSI = Pexi mellan trumhinna och stapes
+
+@END = 
+
+@KOODI = DDD40 
+
+@NCSP = DDSD40
+
+@SUOMI = Tärykalvon ja jalustimen levyn välinen kiinnitys
+
+@RUOTSI = Pexi mellan trumhinna och stapesplatta
+
+@END = 
+
+@KOODI = DDW99 
+
+@NCSP = DDSW99
+
+@SUOMI = Muu kuuloluiden leikkaus
+
+@RUOTSI = Annan operation på hörselbenskedjan
+
+@END = 
+
+@KOODI_R = DE
+
+@SUOMI_R = Kartiolisäke ja ohimoluu
+
+@RUOTSI_R = Processus mastoideus och os temporale
+
+@ENGL_R = Mastoid and temporal bone
+
+@NOTE_RF = Kallon murtumat kohdassa AAD
+
+@NOTE_RS = Skallfrakturer, se AAD
+
+@END = 
+
+@KOODI_A = DE_
+
+@NCSP_A = DED
+
+@SUOMI_A = Kartiolisäkkeen ja ohimoluun diagnostinen radiologia
+
+@RUOTSI_A = Diagnostic radiologi av processus mastoideus och os temporale
+
+@ENGL_A = Diagnostic radiology of mastoid and temporal bone
+
+@END = 
+
+@KOODI = DE2AA 
+
+@NCSP = DEDA2A
+
+@SUOMI = Kuulohermon luukanavan natiiviröntgen (porusröntgen)
+
+@RUOTSI = Porus acusticus, röntgen
+
+@END = 
+
+@KOODI = DE3AA 
+
+@NCSP = DEDA3A
+
+@SUOMI = Puikkolisäkkeen natiiviröntgen
+
+@RUOTSI = Processus styloideus, röntgen
+
+@END = 
+
+@KOODI = DE2BF 
+
+@NCSP = DEDG2B
+
+@SUOMI = Kuulohermon kanavan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Porus, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DE2BG 
+
+@NCSP = DEDG2B
+
+@SUOMI = Kuulohermon kanavan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Porus, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = DE2CF 
+
+@NCSP = DEDG2B
+
+@SUOMI = Kuulohermon kanavan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Porus, MR omfattande med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DE2CG 
+
+@NCSP = DEDG2B
+
+@SUOMI = Kuulohermon kanavan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Porus, MR omfattande med högfältsmagnet
+
+@END = 
+
+@KOODI = DE2DF 
+
+@NCSP = DEDG2B
+
+@SUOMI = Kuulohermon kanavan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Porus, MR mycket omfattande med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DE2DG 
+
+@NCSP = DEDG2B
+
+@SUOMI = Kuulohermon kanavan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Porus, MR mycket omfattande med högfältsmagnet
+
+@END = 
+
+@KOODI_A = DA0
+
+@NCSP_A = DEO
+
+@SUOMI_A = Korvan sädehoito
+
+@RUOTSI_A = Strålbehandling av örat
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RF =
+Sisältää korvalehden, korvakäytävän, välikorvanontelon ja sisäkorvan
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@NOTE_RS =
+Uppfattar ytre örat, mellanörat och inre örat
+
+@END = 
+
+@KOODI = DA001 
+
+@NCSP = DEO001
+
+@SUOMI = Sädehoito korvan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i örat
+
+@END = 
+
+@KOODI = DA002 
+
+@NCSP = DEO002
+
+@SUOMI = Radikaali korvan primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i örat
+
+@END = 
+
+@KOODI = DA003 
+
+@NCSP = DEO003
+
+@SUOMI = Sädehoito korvan primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i örat
+
+@END = 
+
+@KOODI = DA004 
+
+@NCSP = DEO004
+
+@SUOMI = Korvan primaarikasvaimen palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i örat
+
+@END = 
+
+@KOODI = DA029 
+
+@NCSP = DEO029
+
+@SUOMI = Korvan paikallisesti uusineen kasvaimen sädehoito
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i örat
+
+@END = 
+
+@KOODI = DA049 
+
+@NCSP = DEO049
+
+@SUOMI = Korvassa ilmenneen etäpesäkkeen sädehoito
+
+@RUOTSI = Strålbehandling av metastas i örat
+
+@END = 
+
+@KOODI = DA090 
+
+@NCSP = DEO090
+
+@SUOMI = Korvan profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av örat
+
+@END = 
+
+@KOODI = DA099 
+
+@NCSP = DEO099
+
+@SUOMI = Muu korvan sädehoito
+
+@RUOTSI = Annan strålbehandling av örat
+
+@END = 
+
+@KOODI_A = DE_
+
+@NCSP_A = DES
+
+@SUOMI_A = Kartiolisäkkeen ja ohimoluun kirurgia
+
+@RUOTSI_A = Kirurgiska åtgärder på processus mastoideus och os temporale
+
+@ENGL_A = Surgery of mastoid and temporal bone
+
+@END = 
+
+@KOODI = DEA00 
+
+@NCSP = DESA00
+
+@SUOMI = Koepalan otto kartiolisäkkeestä tai ohimoluusta
+
+@RUOTSI = Biopsi av processus mastoideus eller os temporale
+
+@END = 
+
+@KOODI = DEA10 
+
+@NCSP = DESA10
+
+@SUOMI = Välikorvaontelon aukaisu
+
+@RUOTSI = Endaural attiko-antrotomi
+
+@END = 
+
+@KOODI = DEB00 
+
+@NCSP = DESB00
+
+@SUOMI = Kartiolisäkkeen aukaisu
+
+@RUOTSI = Kortikal mastoidektomi
+
+@END = 
+
+@KOODI = DEB10 
+
+@NCSP = DESB10
+
+@SUOMI = Välikorvaontelon ja kartiolisäkkeen aukaisu
+
+@RUOTSI = Attiko-antro-mastoidektomi
+
+@END = 
+
+@KOODI = DEB20 
+
+@NCSP = DESB20
+
+@SUOMI = Välikorva-kartiolisäke-täryonteloaukaisu
+
+@RUOTSI = Attiko-antro-mastoidektomi och tympanotomi
+
+@END = 
+
+@KOODI = DEB25 
+
+@NCSP = DESB25
+
+@SUOMI = Välikorvaontelo-kartiolisäkeaukaisu sekä kuuloluukorjaus
+
+@RUOTSI = Attiko-antro-mastoidektomi och tympanoplastik
+
+@END = 
+
+@KOODI = DEB30 
+
+@NCSP = DESB30
+
+@SUOMI = Kartiolisäkkeen laaja aukaisu
+
+@RUOTSI = Radikal mastoidektomi
+
+@END = 
+
+@KOODI = DEB40 
+
+@NCSP = DESB40
+
+@SUOMI = Kartiolisäkkeen poisto osittain
+
+@RUOTSI = Resektion av processus mastoideus
+
+@END = 
+
+@KOODI = DEB50 
+
+@NCSP = DESB50
+
+@SUOMI = Ohimoluun poisto osittain
+
+@RUOTSI = Resektion av os temporale
+
+@END = 
+
+@KOODI = DEB60 
+
+@NCSP = DESB60
+
+@SUOMI = Ohimoluun poisto kokonaan
+
+@RUOTSI = Total exstirpation av os temporale
+
+@END = 
+
+@KOODI = DEC00 
+
+@NCSP = DESC00
+
+@SUOMI = Vierasesineiden poisto seulalokerostosta ja ohimoluusta
+
+@RUOTSI = Avlägsnande av främmande kropp från processus mastoideus eller os temporale
+
+@END = 
+
+@KOODI = DED00 
+
+@NCSP = DESD00
+
+@SUOMI = Ontelon täyttö kartiolisäkkeen poiston jälkeen
+
+@RUOTSI = Obliteration av radikalhåla
+
+@END = 
+
+@KOODI = DEE00 
+
+@NCSP = DESE00
+
+@SUOMI = Luuankkuroidun kuulokojeen asettaminen
+
+@RUOTSI = Anbringande av benförankrad hörapparat
+
+@END = 
+
+@KOODI = DEW99 
+
+@NCSP = DESW99
+
+@SUOMI = Muu ohimoluun tai kartiolisäkkeen leikkaus
+
+@RUOTSI = Annan operation på processus mastoideus och os temporale
+
+@END = 
+
+@KOODI_R = DF
+
+@SUOMI_R = Sisäkorva
+
+@RUOTSI_R = Inneröra
+
+@ENGL_R = Inner ear
+
+@NOTE_RF = Akustikusneurinooman poisto AAE32
+
+@NOTE_RF =
+Kuulo- ja  tasapainohermon leikkaukset AAE34
+
+@NOTE_RF =
+Kasvohermon leikkaukset AAH
+
+@NOTE_RS = Exstirpation av acusticusneurinom AAE32
+
+@NOTE_RS = Operationer på nervus vestibulocochlearis AAE34
+
+@NOTE_RS = Operationer på nervus facialis, se AAH
+
+@END = 
+
+@KOODI_A = DF_
+
+@NCSP_A = DFS
+
+@SUOMI_A = Sisäkorvan leikkaukset
+
+@RUOTSI_A = Operationer på innerörat
+
+@ENGL_A = Surgery of inner ear
+
+@END = 
+
+@KOODI = DFA00 
+
+@NCSP = DFSA00
+
+@SUOMI = Endolymfarakkulan aukaisu
+
+@RUOTSI = Saccotomi
+
+@END = 
+
+@KOODI = DFA10 
+
+@NCSP = DFSA10
+
+@SUOMI = Pyramidin tutkimusleikkaus labyrintin läpi
+
+@RUOTSI = Translabyrintär exploration av pyramiden
+
+@END = 
+
+@KOODI = DFB00 
+
+@NCSP = DFSB00
+
+@SUOMI = Labyrintin poistoleikkaus
+
+@RUOTSI = Labyrintektomi
+
+@END = 
+
+@KOODI = DFB10 
+
+@NCSP = DFSB10
+
+@SUOMI = Labyrintin tuhoaminen
+
+@RUOTSI = Labyrintdestruktion
+
+@END = 
+
+@KOODI = DFC00 
+
+@NCSP = DFSC00
+
+@SUOMI = Vierasesineen poisto sisäkorvasta
+
+@RUOTSI = Avlägsnande av främmande kropp från innerörat
+
+@END = 
+
+@KOODI = DFD00 
+
+@NCSP = DFSD00
+
+@SUOMI = Kaarikäytävän ikkunointi
+
+@RUOTSI = Fenestration av båggång
+
+@END = 
+
+@KOODI = DFD10 
+
+@NCSP = DFSD10
+
+@SUOMI = Soikean ikkunan korjaaminen
+
+@RUOTSI = Rekonstruktion av ovala fönstret
+
+@END = 
+
+@KOODI = DFD20 
+
+@NCSP = DFSD20
+
+@SUOMI = Pyöreän ikkunan korjaaminen
+
+@RUOTSI = Rekonstruktion av runda fönstret
+
+@END = 
+
+@KOODI = DFD30 
+
+@NCSP = DFSD30
+
+@SUOMI = Perilymfaattisen avanteen sulku
+
+@RUOTSI = Slutning av perilymfatisk fistel
+
+@END = 
+
+@KOODI = DFE00 
+
+@NCSP = DFSE00
+
+@SUOMI = Istutteen asettaminen korvasimpukkaan
+
+@RUOTSI = Anbringande av cochleärt implantat
+
+@END = 
+
+@KOODI = DFW99 
+
+@NCSP = DFSW99
+
+@SUOMI = Muu sisäkorvan leikkaus
+
+@RUOTSI = Annan operation på innerörat
+
+@END = 
+
+@KOODI_R = DG
+
+@SUOMI_R = Korvatorvi
+
+@RUOTSI_R = Tuba Eustachii
+
+@ENGL_R = Eustachian tube
+
+@END = 
+
+@KOODI_A = DG_
+
+@NCSP_A = DGS
+
+@SUOMI_A = Korvatorven leikkaukset
+
+@RUOTSI_A = Operationer på örontrumpeten
+
+@ENGL_A = Surgery of Eustachian tube
+
+@END = 
+
+@KOODI = DGA00 
+
+@NCSP = DGSA00
+
+@SUOMI = Koepalan otto korvatorvesta, tuba Eustachiista
+
+@RUOTSI = Biopsi av örontrumpeten
+
+@END = 
+
+@KOODI = DGB00 
+
+@NCSP = DGSB00
+
+@SUOMI = Korvatorven tukkiminen
+
+@RUOTSI = Obliteration av örontrumpeten
+
+@END = 
+
+@KOODI = DGW00 
+
+@NCSP = DGSW00
+
+@SUOMI = Korvatorven laajentaminen
+
+@RUOTSI = Dilatation av örontrumpeten
+
+@END = 
+
+@KOODI = DGW99 
+
+@NCSP = DGSW99
+
+@SUOMI = Muu korvatorven leikkaus
+
+@RUOTSI = Annan operation på tuba Eustachii
+
+@END = 
+
+@KOODI_R = DH
+
+@SUOMI_R = Nenä
+
+@RUOTSI_R = Näsa
+
+@ENGL_R = Nose
+
+@NOTE_RF = Nenän ihon toimenpiteet kohdassa QA
+
+@NOTE_RS = Åtgärder på näsans hud, se QA
+
+@NOTE_RS =
+
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHD
+
+@SUOMI_A = Nenän diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av näsa
+
+@ENGL_A = Diagnostic radiology of nose
+
+@END = 
+
+@KOODI = DH1AA 
+
+@NCSP = DHDA1A
+
+@SUOMI = Nenän natiiviröntgen
+
+@RUOTSI = Näsa, röntgen
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHE
+
+@SUOMI_A = Nenän tähystys
+
+@RUOTSI_A = Endoskopi av näsa
+
+@ENGL_A = Endoscopy of nose
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UDH02 
+
+@NCSP = DHE002
+
+@SUOMI = Nenän ja nenänielun tähystys
+
+@RUOTSI = Rinofaryngoskopi
+
+@END = 
+
+@KOODI_A = DH0
+
+@NCSP_A = DHO
+
+@SUOMI_A = Nenän sädehoito
+
+@RUOTSI_A = Strålbehandling av näsan
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RF =
+Sisältää nenän ja nenäontelon hoidot choana-tasoon asti. Nenänielu choana-tason alapuolella, katso EX0.
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = DH001 
+
+@NCSP = DHO001
+
+@SUOMI = Sädehoito nenän primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i näsan
+
+@END = 
+
+@KOODI = DH002 
+
+@NCSP = DHO002
+
+@SUOMI = Radikaali nenän primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i näsan
+
+@END = 
+
+@KOODI = DH003 
+
+@NCSP = DHO003
+
+@SUOMI = Sädehoito nenän primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i näsan
+
+@END = 
+
+@KOODI = DH004 
+
+@NCSP = DHO004
+
+@SUOMI = Nenän primaarikasvaimen palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i näsan
+
+@END = 
+
+@KOODI = DH029 
+
+@NCSP = DHO029
+
+@SUOMI = Nenän paikallisesti uusineen kasvaimen sädehoito
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i näsan
+
+@END = 
+
+@KOODI = DH049 
+
+@NCSP = DHO049
+
+@SUOMI = Nenässä ilmenneen etäpesäkkeen sädehoito
+
+@RUOTSI = Strålbehandling av metastas i näsan
+
+@END = 
+
+@KOODI = DH090 
+
+@NCSP = DHO090
+
+@SUOMI = Nenän profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av näsan
+
+@END = 
+
+@KOODI = DH099 
+
+@NCSP = DHO099
+
+@SUOMI = Muu nenän sädehoito
+
+@RUOTSI = Annan strålbehandling av näsan
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHSA
+
+@SUOMI_A = Nenäontelon ja nenän ulkorakenteen toimenpiteet
+
+@RUOTSI_A = Åtgärder på näshålan och ytternäsan
+
+@ENGL_A = Procedures of nasal cavity and external nose
+
+@END = 
+
+@KOODI = DHA00 
+
+@NCSP = DHSA00
+
+@SUOMI = Ulkonenän paikallisen muutoksen aukaisu
+
+@RUOTSI = Incision av lokal förändring i näsan
+
+@END = 
+
+@KOODI = DHA10 
+
+@NCSP = DHSA02
+
+@SUOMI = Koepalan otto nenäontelosta
+
+@RUOTSI = Biopsi ur näshålan
+
+@END = 
+
+@KOODI = DHB00 
+
+@NCSP = DHSA10
+
+@SUOMI = Paikallisen kudosmuutoksen poisto nenän ulkonevista osista
+
+@RUOTSI = Exstirpation vävnadsförändring från näsans yttre delar
+
+@END = 
+
+@KOODI = DHB10 
+
+@NCSP = DHSA20
+
+@SUOMI = Paikallisen muutoksen poisto nenäontelosta
+
+@RUOTSI = Exstirpation av endonasal tumör
+
+@END = 
+
+@KOODI = DHB20 
+
+@NCSP = DHSA22
+
+@SUOMI = Polyypin poisto nenäontelosta
+
+@RUOTSI = Polypevulsion
+
+@END = 
+
+@KOODI = DHB30 
+
+@NCSP = DHSA24
+
+@SUOMI = Polyypin poisto nenänielusta poskiontelon kautta
+
+@RUOTSI = Avlägsnande av polyp från nasofarynx via sinus maxillaris
+
+@END = 
+
+@KOODI = DHB40 
+
+@NCSP = DHSA30
+
+@SUOMI = Nenäkuorikon poisto
+
+@RUOTSI = Konkotomi
+
+@NOTE_S = Turbinektomi
+
+@END = 
+
+@KOODI = DHB50 
+
+@NCSP = DHSA32
+
+@SUOMI = Nenäkuorikon muovaus
+
+@RUOTSI = Turbinoplastik
+
+@END = 
+
+@KOODI = DHB60 
+
+@NCSP = DHSA38
+
+@SUOMI = Ozaenan leikkaushoito
+
+@RUOTSI = Opertion för ozaena
+
+@END = 
+
+@KOODI = DHC10 
+
+@NCSP = DHSA40
+
+@SUOMI = Istutteen poisto nenäluusta
+
+@RUOTSI = Uttagning av implant från näsbenet
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHSD
+
+@SUOMI_A = Nenävamman leikkaukset
+
+@RUOTSI_A = Åtgärder för nasal trauma
+
+@ENGL_A = Procedures for nasal trauma
+
+@END = 
+
+@KOODI = DHD00 
+
+@NCSP = DHSD00
+
+@SUOMI = Nenän limakalvon  ompelu
+
+@RUOTSI = Sutur av näsans slemhinna
+
+@NOTE_F = Nenän ompelu ulkoa QAB 00
+
+@NOTE_S = Sutur av näsans hud, se QAB00
+
+@END = 
+
+@KOODI = DHD10 
+
+@NCSP = DHSD10
+
+@SUOMI = Nenän murtuman korjaaminen suljetusti
+
+@RUOTSI = Sluten reposition av näsfraktur
+
+@END = 
+
+@KOODI = DHD20 
+
+@NCSP = DHSD20
+
+@SUOMI = Nenän murtuman korjaaminen avoimesti
+
+@RUOTSI = Öppen reposition av näsfraktur
+
+@NOTE_S = Inkl osteosyntes
+
+@END = 
+
+@KOODI = DHD30 
+
+@NCSP = DHSD30
+
+@SUOMI = Nenäluun murtuman liittäminen
+
+@RUOTSI = Osteosyntes vid näsfraktur
+
+@NOTE_F = Ns. blow out -murtuma silmävamman seurauksena EEC20-35.
+
+@NOTE_F =
+Frontobasaalisen murtuman hoito  AAD42
+
+@NOTE_S =  Sk blow out -fraktur vid ögonskada, se EEC20-35
+
+@NOTE_S =
+ Behandling av frontobasalfraktur, se AAD42
+
+@END = 
+
+@KOODI = DHC00 
+
+@NCSP = DHSD40
+
+@SUOMI = Kudokseen tunkeutuneen vierasesineen poisto nenästä
+
+@RUOTSI = Avlägsnande av främmande kropp från näshålan
+
+@NOTE_F = Vierasesineiden poisto nenän väliseinästä kohdassa DJA00
+
+@NOTE_F =
+Vierasesineiden poisto ihosta ja ihonalaisesta kudoksesta kohtassa QAC00
+
+@NOTE_F =
+Vierasesineidenpoisto nenäontelosta kohdassa TDH60
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHSE
+
+@SUOMI_A = Nenäväliseinän toimenpiteet
+
+@RUOTSI_A = Åtgärder på nasalseptum
+
+@ENGL_A = Procedures on septum of nose
+
+@END = 
+
+@KOODI = DJA00 
+
+@NCSP = DHSE00
+
+@SUOMI = Nenän väliseinän aukaisu
+
+@RUOTSI = Incision av nässeptum
+
+@END = 
+
+@KOODI = DJA10 
+
+@NCSP = DHSE10
+
+@SUOMI = Koepalan otto nenän väliseinästä
+
+@RUOTSI = Biopsi av nässeptum
+
+@END = 
+
+@KOODI = DJA20 
+
+@NCSP = DHSE20
+
+@SUOMI = Kitaontelon aukaisu nenän väliseinän kautta
+
+@RUOTSI = Öppnande av sinus sphenoidalis transseptalt
+
+@END = 
+
+@KOODI = DJB10 
+
+@NCSP = DHSE30
+
+@SUOMI = Nenän väliseinän poisto
+
+@RUOTSI = Resektion eller exstirpation av nässeptum
+
+@END = 
+
+@KOODI = DJW00 
+
+@NCSP = DHSE32
+
+@SUOMI = Nenän väliseinän paikallisen muutoksen poisto
+
+@RUOTSI = Resektion av lokal förändring i nässeptum
+
+@END = 
+
+@KOODI = DJD00 
+
+@NCSP = DHSE40
+
+@SUOMI = Nenän väliseinän ompelu
+
+@RUOTSI = Sutur av nässeptum
+
+@END = 
+
+@KOODI = DJD10 
+
+@NCSP = DHSE42
+
+@SUOMI = Nenän väliseinän reiän tukkiminen
+
+@RUOTSI = Tillslutning av nässeptumperforation
+
+@END = 
+
+@KOODI = DJD20 
+
+@NCSP = DHSE44
+
+@SUOMI = Nenän väliseinän muovausleikkaus
+
+@RUOTSI = Plastikoperation av nässeptum
+
+@END = 
+
+@KOODI = DJD30 
+
+@NCSP = DHSE50
+
+@SUOMI = Nenän väliseinämurtuman korjaaminen suljetusti
+
+@RUOTSI = Sluten reposition av nässeptumfraktur
+
+@END = 
+
+@KOODI = DJD40 
+
+@NCSP = DHSE52
+
+@SUOMI = Nenän väliseinämurtuman korjaaminen avoimesti
+
+@RUOTSI = Öppen reposition av nässeptumfraktur
+
+@END = 
+
+@KOODI = DJW99 
+
+@NCSP = DHSE99
+
+@SUOMI = Muu nenän väliseinän leikkaus
+
+@RUOTSI = Annan operation på nässeptum
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHSF
+
+@SUOMI_A = Nenäverenvuodon hoito
+
+@RUOTSI_A = Åtgärder för epistaxis
+
+@ENGL_A = Procedures for epistaxis
+
+@END = 
+
+@KOODI = DKW00 
+
+@NCSP = DHSF00
+
+@SUOMI = Nenän limakalvovuodon hyydytys
+
+@RUOTSI = Koagulering av blodkärl vid näsblod
+
+@END = 
+
+@KOODI = DKW10 
+
+@NCSP = DHSF10
+
+@SUOMI = Nenän etutamponaatio
+
+@RUOTSI = Främre nästamponad
+
+@END = 
+
+@KOODI = DKW20 
+
+@NCSP = DHSF20
+
+@SUOMI = Nenän takatamponaatio
+
+@RUOTSI = Bakre nästamponad
+
+@END = 
+
+@KOODI = DKW30 
+
+@NCSP = DHSF30
+
+@SUOMI = Nenävaltimoiden polttaminen
+
+@RUOTSI = Elektrokoagulation vid näsblod
+
+@END = 
+
+@KOODI = DKW40 
+
+@NCSP = DHSF40
+
+@SUOMI = Nenävaltimoiden sitominen
+
+@RUOTSI = Ligatur av artär vid näsblod
+
+@END = 
+
+@KOODI = DKW90 
+
+@NCSP = DHSF90
+
+@SUOMI = Nenäverenvuodon embolisaatio
+
+@RUOTSI = Embolisering vid näsblod
+
+@END = 
+
+@KOODI = DKW99 
+
+@NCSP = DHSF99
+
+@SUOMI = Muu nenäverenvuodon tyrehdytystoimenpide
+
+@RUOTSI = Annat ingrepp vid näsblod
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHSG
+
+@SUOMI_A = Nenän muovaus tai rekonstruktio
+
+@RUOTSI_A = Rinoplastik
+
+@ENGL_A = Plastic surgery of nose
+
+@END = 
+
+@KOODI = DLD00 
+
+@NCSP = DHSG00
+
+@SUOMI = Rustoisen nenän korjaaminen
+
+@RUOTSI = Korrektionsplastik av näsans broskskelett
+
+@NOTE_F = Nenähalkion leikkaus, ks DLW00
+
+@NOTE_S = Operation för nässpalta, se DLW00
+
+@END = 
+
+@KOODI = DLD10 
+
+@NCSP = DHSG10
+
+@SUOMI = Rustoisen ja luisen nenän korjaaminen
+
+@RUOTSI = Korrektionsplastik av näsans brosk- och benskelett
+
+@NOTE_F = Mobilisaatio ja repositio
+
+@NOTE_S = Mobilisering och reposition
+
+@END = 
+
+@KOODI = DLD20 
+
+@NCSP = DHSG20
+
+@SUOMI = Ulkonenän muotoilu, rinoplastia
+
+@RUOTSI = Yttre näsplastik, rinoplastik
+
+@NOTE_F = Sisältää am Goldmanin yms
+
+@NOTE_S = Inkl a m Goldman etc
+
+@END = 
+
+@KOODI = DLD25 
+
+@NCSP = DHSG25
+
+@SUOMI = Synnynnäisen nenänieluaukkojen umpeuman avausleikkaus
+
+@RUOTSI = Operation för koanalatresi
+
+@END = 
+
+@KOODI = DLD30 
+
+@NCSP = DHSG30
+
+@SUOMI = Puuttuvan nenän muodostaminen
+
+@RUOTSI = Rekonstruktionsoperation vid avsaknad av näsa
+
+@END = 
+
+@KOODI = DLW00 
+
+@NCSP = DHSG40
+
+@SUOMI = Nenähalkion, cleft nose , korjaaminen
+
+@RUOTSI = Korrektionsoperation för nässpalta, cleft nose
+
+@END = 
+
+@KOODI = DLW99 
+
+@NCSP = DHSG99
+
+@SUOMI = Muu nenän muotoiluleikkaus
+
+@RUOTSI = Annan rinoplastikoperation
+
+@END = 
+
+@KOODI = DHW99 
+
+@NCSP = DHSW99
+
+@SUOMI = Muu nenän leikkaus
+
+@RUOTSI = Annan operation på näsan
+
+@END = 
+
+@KOODI_A = DH_
+
+@NCSP_A = DHX
+
+@SUOMI_A = Muut nenän toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på näsa
+
+@ENGL_A = Other procedures of nose
+
+@END = 
+
+@KOODI = TDH60 
+
+@NCSP = DHXD00
+
+@SUOMI = Vierasesineen poisto nenästä
+
+@RUOTSI = Avlägsnande av främmande kropp från näsan
+
+@END = 
+
+@KOODI = TDH00 
+
+@NCSP = DHXX00
+
+@SUOMI = Neulakudosnäytteen otto ulkonenästä
+
+@RUOTSI = Punktionsbiopsi av näsan
+
+@END = 
+
+@KOODI = TDH50 
+
+@NCSP = DHXX50
+
+@SUOMI = Nenänväliseinän sivuun luiskahduksen korjaaminen vastasyntyneellä
+
+@RUOTSI = Neonatal korrektion av deviation av nasal septum
+
+@END = 
+
+@KOODI_R = DM
+
+@SUOMI_R = Nenän sivuontelot
+
+@RUOTSI_R = Paranasala sinusar
+
+@ENGL_R = Paranasal sinuses
+
+@NOTE_RF = Kystan ikkunointi kohdassa EFA
+
+@NOTE_RF =
+Muut yläleukaleikkaukset kohdassa EE
+
+@NOTE_RF =
+Tähystykset luvussa U
+
+@NOTE_RS = Fenestration av käkcysta, se EFA
+
+@NOTE_RS = Andra operationer på sinus maxillaris, inkl frakturbehandling, se EE
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMD
+
+@SUOMI_A = Nenän sivuonteloiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av paranasala sinusar
+
+@ENGL_A = Diagnostic radiology of paranasal sinuses
+
+@END = 
+
+@KOODI = DM1AA 
+
+@NCSP = DMDA1A
+
+@SUOMI = Nenän sivuonteloiden natiiviröntgen
+
+@RUOTSI = Näsans bihålor, röntgen
+
+@END = 
+
+@KOODI = DM1QA 
+
+@NCSP = DMDA1Q
+
+@SUOMI = Nenän sivuonteloiden natiiviröntgen, yksi suunta (esimerkiksi kuutamokuva)
+
+@RUOTSI = Näsans bihålor, röntgen (t.ex. frontalbild i PA-projektion)
+
+@END = 
+
+@KOODI = DM1AD 
+
+@NCSP = DMDD1A
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen TT
+
+@RUOTSI = Bihålor och ansiktsskelett, DT
+
+@END = 
+
+@KOODI = DM1BD 
+
+@NCSP = DMDD1A
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen laaja TT
+
+@RUOTSI = Bihålor och ansiktsskelett, omfattande DT
+
+@END = 
+
+@KOODI = DM1CD 
+
+@NCSP = DMDD1A
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen erittäin laaja TT
+
+@RUOTSI = Bihålor och ansiktsskelett, mycket omfattande DT
+
+@END = 
+
+@KOODI = DM1BE 
+
+@NCSP = DMDE1B
+
+@SUOMI = Nenän sivuonteloiden UÄ
+
+@RUOTSI = Bihålor, UL
+
+@END = 
+
+@KOODI = XDW00 
+
+@NCSP = DMDE1B
+
+@SUOMI = Nenän sivuonteloiden ultraäänitutkimus
+
+@RUOTSI = Ultraljudsundersökning av näsans bihålor
+
+@END = 
+
+@KOODI = DM1AF 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bihålor och ansiktsskelett, begränsad MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DM1AG 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bihålor och ansiktsskelett, begränsad MR med högfältsmagnet
+
+@END = 
+
+@KOODI = DM1BF 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bihålor och ansiktsskelett, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DM1BG 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bihålor och ansiktsskelett, MR med högältsmagnet
+
+@END = 
+
+@KOODI = DM1CF 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Bihålor och ansiktsskelett, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DM1CG 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Bihålor och ansiktsskelett, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = DM1DF 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen erittäin laaja magneettitutkimus keskikenttälait
+
+@RUOTSI = Bihålor och ansiktsskelett, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = DM1DG 
+
+@NCSP = DMDG1B
+
+@SUOMI = Nenän sivuonteloiden ja kasvojen erittäin laaja magneettitutkimus vahvakenttälait
+
+@RUOTSI = Bihålor och ansiktsskelett, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DME
+
+@SUOMI_A = Nenän sivuonteloiden tähystys
+
+@RUOTSI_A = Endoskopi av paranasal sinusar
+
+@ENGL_A = Endoscopy of paranasal sinuses
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UDM02 
+
+@NCSP = DME002
+
+@SUOMI = Nenän sivuonteloiden tähystys
+
+@RUOTSI = Endoskopi av näsans bihålor
+
+@END = 
+
+@KOODI_A = DM0
+
+@NCSP_A = DMO
+
+@SUOMI_A = Nenänsivuonteloiden sädehoito
+
+@RUOTSI_A = Strålbehandling av näsans bihålor
+
+@NOTE_RF = Yläleuan sädehoito kohdassa NV0
+
+@NOTE_RF =
+Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Strålbehandling av maxilla, se NV0
+
+@NOTE_RS =
+Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = DM001 
+
+@NCSP = DMO001
+
+@SUOMI = Sädehoito nenän sivuonteloiden primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i näsans bihålor
+
+@END = 
+
+@KOODI = DM002 
+
+@NCSP = DMO002
+
+@SUOMI = Sädehoito  nenän sivuonteloiden primaarikasvaimen perushoitona
+
+@RUOTSI = Radikal strålbehandling av primärtumör i näsans bihålor
+
+@END = 
+
+@KOODI = DM003 
+
+@NCSP = DMO003
+
+@SUOMI = Sädehoito  nenän sivuonteloiden primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i näsans bihålor
+
+@END = 
+
+@KOODI = DM004 
+
+@NCSP = DMO004
+
+@SUOMI = Nenän sivuonteloiden primaarikasvaimen palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i näsans bihålor
+
+@END = 
+
+@KOODI = DM029 
+
+@NCSP = DMO029
+
+@SUOMI = Nenän sivuonteloiden paikallisesti uusineen kasvaimen sädehoito
+
+@RUOTSI = Strålbehandling av lokal recidivtumör i näsans bihålor
+
+@END = 
+
+@KOODI = DM049 
+
+@NCSP = DMO049
+
+@SUOMI = Nenän sivuonteloissa ilmenneen etäpesäkkeen sädehoito
+
+@RUOTSI = Strålbehandling av metastas i näsans bihålor
+
+@END = 
+
+@KOODI = DM090 
+
+@NCSP = DMO090
+
+@SUOMI = Nenän sivuonteloiden profylaktisena sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av näsans bihålor
+
+@END = 
+
+@KOODI = DM099 
+
+@NCSP = DMO099
+
+@SUOMI = Muu nenän sivuonteloiden sädehoito
+
+@RUOTSI = Annan strålbehandling av näsans bihålor
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMSA
+
+@SUOMI_A = Poskionteloiden kirurgiset toimenpiteet
+
+@RUOTSI_A = Kirurgiska åtgärder på sinus maxillaris
+
+@ENGL_A = Procedures of maxillary antrum
+
+@END = 
+
+@KOODI = DMA00 
+
+@NCSP = DMSA00
+
+@SUOMI = Koepalan otto poskiontelosta
+
+@RUOTSI = Biopsi ur käkhåla
+
+@END = 
+
+@KOODI = DMA10 
+
+@NCSP = DMSA02
+
+@SUOMI = Poskiontelon tutkimusleikkaus
+
+@RUOTSI = Exploration av käkhåla
+
+@END = 
+
+@KOODI = DMB00 
+
+@NCSP = DMSA10
+
+@SUOMI = Poskeontelon ja nenän välisen seinämän poisto, alakäytäväantrostomia
+
+@RUOTSI = Endonasal öppning av sinus maxillaris
+
+@NOTE_F = Claoué
+
+@END = 
+
+@KOODI = DMB10 
+
+@NCSP = DMSA12
+
+@SUOMI = Poskionteloleikkaus
+
+@RUOTSI = Bred öppning av käkhålan/radikaloperation
+
+@NOTE_F =  Caldwell-Luc
+
+@END = 
+
+@KOODI = DMB20 
+
+@NCSP = DMSA14
+
+@SUOMI = Poskiontelon aukaisu tähystyksessä, FESS
+
+@RUOTSI = Endoskopisk öppning av sinus maxillaris, FESS
+
+@NOTE_F = FESS = Functional endoscopic sinus surgery
+
+@END = 
+
+@KOODI = DMB30 
+
+@NCSP = DMSA20
+
+@SUOMI = Poskiontelon muutoksen tai kasvaimen poisto yläleukaluun kautta
+
+@RUOTSI = Transmaxillär operation, t.ex. tumörexstirpation
+
+@NOTE_F = Denker
+
+@END = 
+
+@KOODI = DMB40 
+
+@NCSP = DMSA24
+
+@SUOMI = Poskiontelon muutoksen tai kasvaimen poisto nenän sivulta aukaisten
+
+@RUOTSI = Lateral rinotomi
+
+@END = 
+
+@KOODI = DMC00 
+
+@NCSP = DMSA30
+
+@SUOMI = Vierasesineen poisto poskiontelosta
+
+@RUOTSI = Avlägsnande av främmande kropp från sinus maxillaris
+
+@END = 
+
+@KOODI = DMW00 
+
+@NCSP = DMSA90
+
+@SUOMI = Poskionteloputken asettaminen
+
+@RUOTSI = Anläggande av dränage i sinus maxillaris
+
+@END = 
+
+@KOODI = DMW99 
+
+@NCSP = DMSA99
+
+@SUOMI = Muu poskionteloiden leikkaus
+
+@RUOTSI = Annan operation på sinus maxillaris och överkäken
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMSB
+
+@SUOMI_A = Seulalokeroiden ja seulaluun kirurgiset toimenpiteet
+
+@RUOTSI_A = KIrurgiska åtgärder på sinus ethmoidalis och os ethmoidale
+
+@ENGL_A = Proceddures of ethmoidal sinus and bone
+
+@END = 
+
+@KOODI = DNA00 
+
+@NCSP = DMSB00
+
+@SUOMI = Koepalan otto seulalokeroista
+
+@RUOTSI = Biopsi ur sinus ethmoidalis
+
+@END = 
+
+@KOODI = DNB00 
+
+@NCSP = DMSB10
+
+@SUOMI = Seulalokeroiden aukaisu ulkokautta
+
+@RUOTSI = Yttre ethmoidektomi
+
+@END = 
+
+@KOODI = DNB10 
+
+@NCSP = DMSB12
+
+@SUOMI = Seulalokeroiden aukaisu nenäontelon kautta
+
+@RUOTSI = Endonasal ethmoidektomi
+
+@END = 
+
+@KOODI = DNB20 
+
+@NCSP = DMSB14
+
+@SUOMI = Seulalokeroiden aukaisu tähystyksessä, FESS
+
+@RUOTSI = Endoskopisk ethmoidektomi, FESS
+
+@NOTE_F = FESS = Functional endoscopic sinus surgery
+
+@NOTE_S = FESS = Functional endoscopic sinus surgery
+
+@END = 
+
+@KOODI = DNB30 
+
+@NCSP = DMSB20
+
+@SUOMI = Seulalokeromuutoksen tai kasvaimen poisto
+
+@RUOTSI = Exstirpation av lokal förändring i sinus ethmoidalis
+
+@END = 
+
+@KOODI = DNC00 
+
+@NCSP = DMSB30
+
+@SUOMI = Vierasesineen poisto seulalokerostosta
+
+@RUOTSI = Avlägsnande av främmande kropp från sinus ethmoidalis
+
+@END = 
+
+@KOODI = DNB40 
+
+@NCSP = DMSB60
+
+@SUOMI = Nenän aukaisu huulen alta
+
+@RUOTSI = Sublabial rinotomi
+
+@END = 
+
+@KOODI = DNW99 
+
+@NCSP = DMSB99
+
+@SUOMI = Muu seulalokeroiden ja seulaluun leikkaus
+
+@RUOTSI = Annan operation på sinus ethmoidalis och os ethmoidale
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMSC
+
+@SUOMI_A = Otsaonteloiden kirurgiset toimenpiteet
+
+@RUOTSI_A = KIrurgiska åtgärder på sinus frontalis
+
+@ENGL_A = Procedures on frontal sinuses
+
+@END = 
+
+@KOODI = DPA00 
+
+@NCSP = DMSC00
+
+@SUOMI = Koepalan otto otsaontelosta
+
+@RUOTSI = Biopsi ur sinus frontalis
+
+@END = 
+
+@KOODI = DPA20 
+
+@NCSP = DMSC10
+
+@SUOMI = Otsaontelon aukaisu
+
+@RUOTSI = Trepanation av sinus frontalis
+
+@END = 
+
+@KOODI = DPA25 
+
+@NCSP = DMSC12
+
+@SUOMI = Otsaontelon aukaisu nenään
+
+@RUOTSI = Öppning av frontalsinus till näshålan
+
+@END = 
+
+@KOODI = DPB00 
+
+@NCSP = DMSC20
+
+@SUOMI = Otsaontelon poisto osittain
+
+@RUOTSI = Resektion av sinus frontalis (inkl mucocele, pyocele och osteom)
+
+@END = 
+
+@KOODI = DPB20 
+
+@NCSP = DMSC22
+
+@SUOMI = Otsaontelon täyttö
+
+@RUOTSI = Obliteration av frontalsinus
+
+@END = 
+
+@KOODI = DPW00 
+
+@NCSP = DMSC90
+
+@SUOMI = Otsaonteloputken asettaminen
+
+@RUOTSI = Inläggande av frontonasalt dränage
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMSD
+
+@SUOMI_A = Kitaontelon kirurgiset toimenpiteet
+
+@RUOTSI_A = Kirurgiska åtgärder på sphenoidalsinus
+
+@ENGL_A = Surgery of sphenoidal sinuses
+
+@END = 
+
+@KOODI = DPA10 
+
+@NCSP = DMSD00
+
+@SUOMI = Koepalan otto kitaontelosta
+
+@RUOTSI = Biopsi ur sinus sphenoidalis
+
+@END = 
+
+@KOODI = DPA30 
+
+@NCSP = DMSD10
+
+@SUOMI = Kitaontelon aukaisu
+
+@RUOTSI = Sphenotomi
+
+@END = 
+
+@KOODI = DPB10 
+
+@NCSP = DMSD20
+
+@SUOMI = Kitaontelon poisto osittain
+
+@RUOTSI = Delresektion av sinus ethmoidalis
+
+@END = 
+
+@KOODI = DPW10 
+
+@NCSP = DMSD90
+
+@SUOMI = Kitaonteloputken asettaminen
+
+@RUOTSI = Dränage av sinus sphenoidalis
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMSW
+
+@SUOMI_A = Muut määrittämättömät sivuontelotoimenpiteet
+
+@RUOTSI_A = Åtgärder på odefinierade paranasala sinusar
+
+@ENGL_A = Procedures of undefined paranasal sinuses
+
+@END = 
+
+@KOODI = DPC00 
+
+@NCSP = DMSW30
+
+@SUOMI = Vierasesineen poisto otsa- tai kitaontelosta
+
+@RUOTSI = Avlägsnande av främmande kropp från frontal- och sphenoidalsinus
+
+@END = 
+
+@KOODI = DPW99 
+
+@NCSP = DMSW99
+
+@SUOMI = Muu otsa- tai kitaontelon leikkaus
+
+@RUOTSI = Annan operation på frontal- och sphenoidalsinus
+
+@END = 
+
+@KOODI_A = DM_
+
+@NCSP_A = DMX
+
+@SUOMI_A = Muut sivuonteloiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på paranasala sinusar
+
+@ENGL_A = Other procedures on paranasal sinuses
+
+@END = 
+
+@KOODI = TDM00 
+
+@NCSP = DMXA00
+
+@SUOMI = Neulakudosnäytteen otto poskiontelosta
+
+@RUOTSI = Punktionsbiopsi av käkhåla
+
+@END = 
+
+@KOODI = TDM10 
+
+@NCSP = DMXA10
+
+@SUOMI = Poskiontelon pisto
+
+@RUOTSI = Punktion av käkhåla
+
+@NOTE_F = Sisältää poskiontelon huuhtelun
+
+@NOTE_S = Inkl spolning
+
+@END = 
+
+@KOODI = TDN00 
+
+@NCSP = DMXB00
+
+@SUOMI = Neulakudosnäytteen otto seulalokeroista tai seulaluusta
+
+@RUOTSI = Punktionsbiopsi av sinus ethmoidalis eller os ethmoidale
+
+@END = 
+
+@KOODI = TDP00 
+
+@NCSP = DMXC00
+
+@SUOMI = Neulakudosnäytteen otto otsaontelosta
+
+@RUOTSI = Punktionsbiopsi av sinus frontalis
+
+@END = 
+
+@KOODI = TDP05 
+
+@NCSP = DMXC05
+
+@SUOMI = Otsaontelon pisto
+
+@RUOTSI = Punktion av sinus frontalis
+
+@END = 
+
+@KOODI = TDP10 
+
+@NCSP = DMXD00
+
+@SUOMI = Neulakudosnäytteen otto kitaontelosta
+
+@RUOTSI = Punktionsbiopsi av sinus sphenoidalis
+
+@END = 
+
+@KOODI_R = DQ
+
+@SUOMI_R = Kurkunpää
+
+@RUOTSI_R = Larynx
+
+@ENGL_R = Larynx
+
+@NOTE_RF = Kurkunpään ja nielun poisto kohdassa ENB30
+
+@NOTE_RF =
+Kaulan imusolmukkeiden radikaali poisto kohdassa PJD
+
+@NOTE_RS = Laryngektomi/faryngektomi ENB30
+
+@NOTE_RS = Exstirpation/radikal utrymning av cervikala lymfkörtlar, se PJD
+
+@END = 
+
+@KOODI_A = DQ_
+
+@NCSP_A = DQE
+
+@SUOMI_A = Kurkunpään tähystys
+
+@RUOTSI_A = Laryngoskopi
+
+@ENGL_A = Endoscopy of larynx
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UDQ02 
+
+@NCSP = DQE002
+
+@SUOMI = Suora kurkunpään tähystys
+
+@RUOTSI = Direkt laryngoskopi
+
+@END = 
+
+@KOODI = UDQ12 
+
+@NCSP = DQE012
+
+@SUOMI = Nenän ja kurkunpään tähystys
+
+@RUOTSI = Rinoskopi med laryngoskopi
+
+@END = 
+
+@KOODI = UDQ22 
+
+@NCSP = DQE022
+
+@SUOMI = Kurkunpään tutkimus mikroskoopilla
+
+@RUOTSI = Laryngomikroskopi
+
+@END = 
+
+@KOODI_A = DQ0
+
+@NCSP_A = DQO
+
+@SUOMI_A = Kurkunpään sädehoito
+
+@RUOTSI_A = Strålbehandling av struphuvudet
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = DQ001 
+
+@NCSP = DQO001
+
+@SUOMI = Sädehoito kurkunpään primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i struphuvudet
+
+@END = 
+
+@KOODI = DQ002 
+
+@NCSP = DQO002
+
+@SUOMI = Radikaali kurkunpään primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i struphuvudet
+
+@END = 
+
+@KOODI = DQ003 
+
+@NCSP = DQO003
+
+@SUOMI = Sädehoito kurkunpään primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i struphuvudet
+
+@END = 
+
+@KOODI = DQ004 
+
+@NCSP = DQO004
+
+@SUOMI = Sädehoito kurkunpään primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i struphuvudet
+
+@END = 
+
+@KOODI = DQ029 
+
+@NCSP = DQO029
+
+@SUOMI = Sädehoito kurkunpään paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokal recidivtumör i struphuvudet
+
+@END = 
+
+@KOODI = DQ049 
+
+@NCSP = DQO049
+
+@SUOMI = Sädehoito kurkunpäässä ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i struphuvudet
+
+@END = 
+
+@KOODI = DQ090 
+
+@NCSP = DQO090
+
+@SUOMI = Sädehoito kurkunpään profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av struphuvudet
+
+@END = 
+
+@KOODI = DQ099 
+
+@NCSP = DQO099
+
+@SUOMI = Muu kurkunpään sädehoito
+
+@RUOTSI = Annan strålbehandling av struphuvudet
+
+@END = 
+
+@KOODI_A = DQ_
+
+@NCSP_A = DQS
+
+@SUOMI_A = Kurkunpään kirurgia
+
+@RUOTSI_A = Larynxkirurgi
+
+@ENGL_A = Surgery of larynx
+
+@END = 
+
+@KOODI = DQA00 
+
+@NCSP = DQSA00
+
+@SUOMI = Kurkunpään aukaisu
+
+@RUOTSI = Incision av larynx
+
+@NOTE_F = Sisältää krikotyreoideamembraanin avauksen eli koniotomian
+
+@NOTE_F =
+Trakeostomia kohdassa GBB
+
+@NOTE_S = Inkl krikotyreotomi och koniotomi
+
+@NOTE_S = Trakeostomi, se GBB
+
+@END = 
+
+@KOODI = DQA10 
+
+@NCSP = DQSA10
+
+@SUOMI = Koepalan otto kurkunpäästä
+
+@RUOTSI = Biopsi av larynx
+
+@END = 
+
+@KOODI = DQA20 
+
+@NCSP = DQSA20
+
+@SUOMI = Kurkunpään aukaisu tutkimus- ja hoitotarkoituksessa
+
+@RUOTSI = Explorativ laryngofissur
+
+@END = 
+
+@KOODI = DQB00 
+
+@NCSP = DQSB00
+
+@SUOMI = Paikallisen muutoksen poisto kurkunpäästä epäsuoralla menetelmällä
+
+@RUOTSI = Exstirpation eller resektion av larynxtumör, indirekt
+
+@END = 
+
+@KOODI = DQB10 
+
+@NCSP = DQSB10
+
+@SUOMI = Paikallisen muutoksen poisto kurkunpäästä laryngomikroskopiassa
+
+@RUOTSI = Endoskopisk exstirpation av t.ex. stämbandspolyp eller tumör
+
+@NOTE_F = Laserin käyttö lisäkoodilla ZXC10
+
+@NOTE_S = Laserexstirpation anges med tilläggskod ZXC10
+
+@END = 
+
+@KOODI = DQB20 
+
+@NCSP = DQSB20
+
+@SUOMI = Kurkunpään poisto osittain
+
+@RUOTSI = Delesektion av larynx
+
+@END = 
+
+@KOODI = DQB30 
+
+@NCSP = DQSB30
+
+@SUOMI = Kurkunpään poisto
+
+@RUOTSI = Total laryngektomi
+
+@END = 
+
+@KOODI = DQB40 
+
+@NCSP = DQSB40
+
+@SUOMI = Kurkunpään poisto äänihuulitason yläpuolelta
+
+@RUOTSI = Supraglottisk laryngektomi
+
+@END = 
+
+@KOODI = DQB50 
+
+@NCSP = DQSB50
+
+@SUOMI = Kurkunpään puoliskon poisto
+
+@RUOTSI = Hemilaryngektomi
+
+@END = 
+
+@KOODI = DQB60 
+
+@NCSP = DQSB60
+
+@SUOMI = Kannuruston poisto
+
+@RUOTSI = Arytenoidektomi
+
+@END = 
+
+@KOODI = DQB70 
+
+@NCSP = DQSB70
+
+@SUOMI = Äänijänteen poisto, chordectomia vocalis
+
+@RUOTSI = Exstirpation av stämband
+
+@END = 
+
+@KOODI = DQB80 
+
+@NCSP = DQSB80
+
+@SUOMI = Äänihuulikurouman korjaaminen
+
+@RUOTSI = Operation för stämbandsstriktur
+
+@END = 
+
+@KOODI = DQC00 
+
+@NCSP = DQSC00
+
+@SUOMI = Vierasesineen poisto kurkunpäästä
+
+@RUOTSI = Avlägsnande av främmande kropp ur struphuvudet
+
+@END = 
+
+@KOODI = DQC10 
+
+@NCSP = DQSC10
+
+@SUOMI = Vierasesineen poisto kurkunpäästä tähystyksessä
+
+@RUOTSI = Endoskopiskt avlägsnande av främmande kropp ur struphuvudet
+
+@END = 
+
+@KOODI = DQD00 
+
+@NCSP = DQSD00
+
+@SUOMI = Äänihuulen kiinnitys sivulle
+
+@RUOTSI = Laterofixation av stämband
+
+@END = 
+
+@KOODI = DQD10 
+
+@NCSP = DQSD10
+
+@SUOMI = Kurkunpään ompelu
+
+@RUOTSI = Sutur av larynx
+
+@END = 
+
+@KOODI = DQD20 
+
+@NCSP = DQSD20
+
+@SUOMI = Kurkunpään korjaaminen vapaalla limakalvosiirteellä
+
+@RUOTSI = Rekonstruktion av larynx med fritt slemhinnetransplantat
+
+@END = 
+
+@KOODI = DQD25 
+
+@NCSP = DQSD25
+
+@SUOMI = Kurkunpään korjaaminen mikrovaskulaarisella siirteellä
+
+@RUOTSI = Rekonstruktion av larynx med mikrovaskulär transplantat
+
+@END = 
+
+@KOODI = DQD30 
+
+@NCSP = DQSD30
+
+@SUOMI = Kurkunpään korjaaminen varrellisella kielekkeellä
+
+@RUOTSI = Rekonstruktion av larynx med stjälkad lambå
+
+@END = 
+
+@KOODI = DQD32 
+
+@NCSP = DQSD32
+
+@SUOMI = Äänihuulen limakalvon plastia äänen parantamiseksi
+
+@RUOTSI = Plastik av stämbandsmukosan för röstförbättring
+
+@END = 
+
+@KOODI = DQD34 
+
+@NCSP = DQSD34
+
+@SUOMI = Spasmodisen dysfonian hoito
+
+@RUOTSI = Åtgärd mot spasmodisk dysfoni
+
+@END = 
+
+@KOODI = DQD40 
+
+@NCSP = DQSD40
+
+@SUOMI = Kurkunpään muovausleikkaus
+
+@RUOTSI = Laryngoplastik
+
+@END = 
+
+@KOODI = DQD42 
+
+@NCSP = DQSD42
+
+@SUOMI = Muu ääntä parantava rustoon kohdistuva leikkaus
+
+@RUOTSI = Annan röstförbättrande operation på broskvävnad
+
+@NOTE_F = Thyroplastiat
+
+@NOTE_F =
+Ishiki tyyppi 1-4
+
+@NOTE_S = Thyroplastik
+
+@NOTE_S =
+Ishiki typ 1-4
+
+@END = 
+
+@KOODI = DQD50 
+
+@NCSP = DQSD50
+
+@SUOMI = Kurkunpääputken asettaminen tähystyksessä
+
+@RUOTSI = Endoskopiskt inläggande av stent i larynx
+
+@END = 
+
+@KOODI = DQE00 
+
+@NCSP = DQSE00
+
+@SUOMI = Puheproteesin asettaminen
+
+@RUOTSI = Inläggande av larynxprotes (talprotes)
+
+@END = 
+
+@KOODI = DQE10 
+
+@NCSP = DQSE10
+
+@SUOMI = Vieraan materiaalin ruiskutus äänihuuliin
+
+@RUOTSI = Injektion av främmande material i stämband
+
+@NOTE_F = Sisältää teflonin ja parafiinin ruiskuttamisen
+
+@NOTE_S = Inkl injektion av teflon, paraffin
+
+@END = 
+
+@KOODI = DQE20 
+
+@NCSP = DQSE20
+
+@SUOMI = Äänihuulen asennon korjaaminen vierasaineistutteella
+
+@RUOTSI = Implantation av främmande material i stämband
+
+@NOTE_F = Thyroplastia type I
+
+@NOTE_S = Tyroplastik typ I
+
+@END = 
+
+@KOODI = DQW99 
+
+@NCSP = DQSW99
+
+@SUOMI = Muu kurkunpään leikkaus
+
+@RUOTSI = Annan operation på larynx
+
+@END = 
+
+@KOODI_A = DQ_
+
+@NCSP_A = DQX
+
+@SUOMI_A = Muu kurkunpään toimenpide
+
+@RUOTSI_A = Andra åtgärder på larynx
+
+@ENGL_A = Other procedures of larynx
+
+@END = 
+
+@KOODI = TDQ00 
+
+@NCSP = DQXX00
+
+@SUOMI = Neulakudosnäytteen otto kurkunpäästä
+
+@RUOTSI = Punktionsbiopsi av larynx
+
+@END = 
+
+@KOODI_R = DW
+
+@SUOMI_R = Korva-, nenä-, kaula- ja kurkunpääleikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer för sårkomplikationer av ögon-, näs- och halskirurgi
+
+@ENGL_R = Reoperations in surgery of ear, nose and larynx
+
+@END = 
+
+@KOODI = DWA00 
+
+@NCSP = DWSA00
+
+@SUOMI = Auenneen tai tulehtuneen korva-, nenä-, kaula- tai kurkunpääleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision p.g.a. komplikation i ÖNH-operationssår
+
+@END = 
+
+@KOODI = DWC00 
+
+@NCSP = DWSC00
+
+@SUOMI = Uusintaleikkaus korva-, nenä-, kaula- tai kurkunpääleikkauksen jälkeisen syvän infektion vuoksi
+
+@RUOTSI = Revision av ÖNH-operationssår p.g.a djup infektion
+
+@END = 
+
+@KOODI = DWD00 
+
+@NCSP = DWSD00
+
+@SUOMI = Uusintaleikkaus korva-, nenä-, kaula- tai kurkunpääleikkauksen haavan vuodon vuoksi
+
+@RUOTSI = Revision av ÖNH-operationssår p.g.a. blödning
+
+@END = 
+
+@KOODI = DWW99 
+
+@NCSP = DWSW99
+
+@SUOMI = Muu korva-, nenä-, kaula- ja kurkunpääleikkausten haavakomplikaatioleikkaus
+
+@RUOTSI = Revision av ÖNH-operationssår p.g.a. andra komplikationer
+
+@END = 
+
+@KOODI_R = DX
+
+@SUOMI_R = Muut korvan, nenän ja kurkun toimenpiteet
+
+@RUOTSI_R = Andra åtgärder på öron, näsa och hals
+
+@ENGL_R = Other procedures on ear, nose and throat
+
+@END = 
+
+@KOODI = TDW99 
+
+@NCSP = DXXX00
+
+@SUOMI = Muu korvan, nenän tai kurkunpään pientoimenpide
+
+@RUOTSI = Annat mindre ingrepp på öron, näsa, svalg och larynx
+
+@END = 

@@ -1,0 +1,7154 @@
+
+###
+#KOODI_L    K
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinary system, male genital organs and retroperitoneal space
+#RUOTSI     ---
+#ENGL       Urinary system, male genital organs and retroperitoneal space
+###
+#KOODI_R    KA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       Kidney and pelvis of kidney
+###
+#KOODI_A    KAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration of kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksplorasjon av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ nefrotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksplorativ nefrotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ pyelotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan nefroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksplorasjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopi av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Transluminal endoscopic biopsy of pelvis of kidney, see: UKA 05
+#OHJE_R 
+---
+###
+#KOODI      KAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk biopsi av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of kidney
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excision of transplanted kidney, see: KAS
+#OHJE_R 
+---
+###
+#KOODI      KAC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefroureterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAC21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefroureterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision or destruction of tumour of kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nyrereseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nyrereseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heminefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk heminefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reseksjon av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av nyrebekkentumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk destruksjon av nyrebekkentumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD52  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd ureteronefroskopisk destruksjon av nyrebekkentumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD56  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/10/10
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i nyreparenkym
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD60  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/10/10
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan destruksjon av lesjon i nyreparenkym
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ann perkut endoskop reseksjon/destruksjon av nyre/nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reseksjon eller destruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reseksjon eller destruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reseksjon av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KADE87 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KADE87 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KADE88 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av nyre med Doppler, omfattende
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KADE88 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av nyre med Doppler, omfattende
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of calculi from kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefrolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefrolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefrolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefroskopisk nefrolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefroskopisk nefrolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefroskopisk nefrolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pyelolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pyelolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pyelolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefroskopisk pyelolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefroskopisk pyelolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefroskopisk pyelolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd ureterorenoskopisk pyelolitotripsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen fjerning av stein fra nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ann perkut endoskop fjerning av stein fra nyre/nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk fjerning av stein fra nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk fjerning av stein fra nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ann translum endoskop fjerning av stein fra nyre/nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk fjerning av stein fra nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk fjerning av stein fra nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av fremmedlegeme fra nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskop fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF11  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translum endoskop fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF12  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF12  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk fjerning av fremmedlegeme fra nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFF00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Flowmåling ved dialyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFF00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Flowmåling ved dialyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urodynamisk undersøkelse av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urodynamisk undersøkelse av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Glomerulær filtrasjonsrate ved Iohexolmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Glomerulær filtrasjonsrate ved Iohexolmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kreatininclearance
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tubulær konsentrasjonsevne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tubulær konsentrasjonsevne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD40 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hemodialyse, kronisk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD40 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemodialyse, kronisk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD46 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hemofiltrasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD46 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemofiltrasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD47 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hemodialyse, akutt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD47 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemodialyse, akutt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD48 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Plasmautskifting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGD48 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plasmautskifting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Skylling av nefrostomikateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk sutur av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk sutur av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nyrebekken-ureterplastikk u/deling nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nyrebekken-ureterplastikk uten deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nyrebekken-ureterplastikk uten deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perk endosk pelvis-ureterplastikk u/deling pelvis-ureterovrg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH31  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk nyrebekken-ureterplastikk uten deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH31  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nyrebekken-ureterplastikk uten deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nyrebekken-ureterplastikk m/deling nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nyrebekken-ureterplastikk med deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nyrebekken-ureterplastikk med deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perk endosk pelvis-ureterplastikk m/deling pelvis-ureterovrg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH41  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk nyrebekken-ureterplastikk med deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH41  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nyrebekken-ureterplastikk med deling av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterocalycostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterocalycostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH54  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk incisjon eller dilatasjon av calyxhals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH55  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Retrograd ureterorenoskop incisjon el dilatasjon calyxhals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH55  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Retrograd ureterorenoskopisk incisjon eller dilatasjon av calyxhals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH55  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd ureterorenoskopisk incisjon eller dilatasjon av calyxhals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH61  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk incisjon av nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH62  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endopyelotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adheranseløsning i nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH71  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endosk adheranseløsning i nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH71  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk adheranseløsning i nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH71  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk adheranseløsning i nyrebekken-ureterovergang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH80  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefropexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH80  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nefropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH80  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH81  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefropexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH81  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH81  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen rekonstruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkut endosk rekonstruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk rekonstruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk rekonstruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen translum endosk rekonstruksjon av nyre el nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk rekonstruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk rekonstruksjon av nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      External drainage of pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd ureteronefroskopisk nefrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pyelostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk pyelostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen ekstern drenasje av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk ekstern drenasje av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen translum endoskopisk ekstern drenasje av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk ekstern drenasje av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk ekstern drenasje av nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAPE05 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Embolisering av a. renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAPE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering av a. renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAS
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transplantation of kidney and related operations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAS00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Autotransplantasjon av nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS10  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantasjon av nyre fra avdød donor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS13  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantasjon av nyre fra avdød donor med mini invasiv teknikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Allogen transplantasjon av nyre fra levende donor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS23  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Allogen transplantasjon av nyre fra levende donor med mini invasiv teknikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksisjon av transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefrocystostomi på transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for lymfocele i transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS61  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk op for lymfocele i transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS61  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk operasjon for lymfocele i transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS61  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk operasjon for lymfocele i transplantert nyre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet inngrep ved nyretransplantasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet perkutant endoskopisk inngrep ved nyretransplantasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAT
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extracorporeal fragmentation of calculi of pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAT00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstrakorporal sjokkbølgelitotripsi i nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on kidney and pelvis of kidney
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KAW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk op på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAW97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk op på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAW98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAW98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på nyre eller nyrebekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ureter
+#RUOTSI     ---
+#ENGL       Ureter
+###
+#KOODI_A    KBA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration and incision of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan nefroureteroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ ureterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksplorativ ureterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksplorasjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopi el endoskopisk incisjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopi eller endoskopisk incisjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopi eller endoskopisk incisjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk biopsi av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of ureter and destruction of tumour of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reseksjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd ureteroskopisk destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av ureterstump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksisjon av ureterstump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reseksjon av ureter el destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reseksjon av ureter eller destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av ureter eller destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkut endosk reseksj ureter el destr av uretertumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reseksjon av ureter eller destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reseksjon av ureter eller destruksjon av tumor i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for calculus of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ureterolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ureterolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk ekstraksjon av ureterstein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk dislokasjon av innkilt ureterstein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for ureterstein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon for ureterstein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon for ureterstein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av fremmedlegeme fra ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBF02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translum endoskopisk fjerning av fremmedlegeme fra ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBF02  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk fjerning av fremmedlegeme fra ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBF02  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk fjerning av fremmedlegeme fra ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBFM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urodynamisk undersøkelse av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBFM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urodynamisk undersøkelse av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utprøving og stell/vedlikehold av urostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair or connection of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk sutur av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroureterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontralateral ureteroureterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantasjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reimplantasjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av ureter med interposisjon av ileum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk rekonstruksjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH45  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoureterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH62  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk dilatasjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen rekonstruksjon eller anastomose av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endosk rekonstruksjon el anastomose av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk rekonstruksjon eller anastomose av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk rekonstruksjon eller anastomose av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk rekonstruksjon av ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinary diversion from ureter and related operations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kutan ureterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk kutan ureterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kutan ureteroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ11  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kutan ureteroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinent kutan ureteroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Anastomose av ureter til urethra m/interposisjon av tynntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Anastomose av ureter til urethra med interposisjon av tynntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ60  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomose av ureter til urethra med interposisjon av tynntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av stein fra kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ72  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translum endosk stenextr fra kutan ureterostomi el reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ72  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk steinekstraksjon fra kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ72  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk steinekstraksjon fra kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ80  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for malfunksjon av kutan ureterostomi el reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ80  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for funksjonssvikt av kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ80  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for funksjonssvikt av kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet urinavledende eller tilhørende inngrep på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet perkut endosk urinavledende el tilhørende op på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet perkutan endoskopisk urinavledende eller tilhørende inngrep på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet perkutan endoskopisk urinavledende eller tilhørende inngrep på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen translum endosk op på kutan ureterostomi el reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk inngrep på kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk inngrep på kutan ureterostomi eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBT
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extracorporeal fragmentation of calculi of ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBT00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstrakorporal sjokkbølgelitotripsi i ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBV
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Miscellaneous operations on ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBV00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefroskopisk innlegging av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral innnleggelse av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV05  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/10/10
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoskopisk reposisjon av dislosert ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefroskopisk fjerning av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral fjerning av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV15  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoskopisk skifte av ureterstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral dilatasjon av ureterostium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral incisjon av ureterostium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon eller eksisjon av ureterocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral incisjon eller eksisjon av ureterocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV52  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transurethral injeksjonsbehandling for vesicoureteral reflux
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV52  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transurethral injeksjonsbehandling for vesikoureteral refluks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV52  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral injeksjonsbehandling for vesikoureteral refluks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on ureter
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KBW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på ureter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Bladder
+#RUOTSI     ---
+#ENGL       Bladder
+###
+#KOODI_A    KCA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision of bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk cystotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk biopsi av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk cystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoprostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC11  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk cystoprostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoprostatourethrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC21  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk cystoprostatourethrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystektomi med eksisjon av kvinnelige genitalia interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC31  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk cystektomi med eksisjon av kvinnelige genitalia interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen cystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk cystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of bladder and destruction of tumour of bladder
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Of urachus
+#OHJE_R 
+---
+###
+#KOODI      KCD02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral reseksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blærereseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk blærereseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av blæredivertikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksisjon av blæredivertikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av urachus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen blærereseksjon eller destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkut endosk blærereseksjon el destruksjon blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk blærereseksjon eller destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk blærereseksjon eller destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transurethral reseksjon el destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transurethral reseksjon eller destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transurethral reseksjon eller destruksjon av blæretumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCDE40 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Uspesifisert ultralydundersøkelse av blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCDE41 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstern ultralydundersøkelse av blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCDE41 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstern ultralydundersøkelse av blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCDE42 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal ultralydundersøkelse av blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCDE42 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal ultralydundersøkelse av blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCDE88 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Residualurinmåling ved hjelp av ultralyd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of calculus from bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cystolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cystolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk ekstraksjon av blærestein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCE02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral ekstraksjon av blærestein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystotomi med fjerning av fremmedlegeme fra urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endosk fjerning av fremmedlegeme fra urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCF01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av fremmedlegeme fra urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCF01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av fremmedlegeme fra urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCF02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral fjerning av fremmedlegeme fra urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCFM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Gasscystometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCFM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gasscystometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCFM03 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vanncystometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCFM03 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vanncystometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGC15 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal eller anal stimulator for urininkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGC15 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal eller anal stimulator for urininkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utprøving og stell/vedlikehold av cystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tapping av urinblære, ev.med måling av residualvolum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Skylling av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skylling av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCGX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Skylling av permanent kateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on bladder
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Procedures for interstitial cystitis
+#OHJE_R 
+---
+###
+#KOODI      KCH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk sutur av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral blæresutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enterocystoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk enterocystoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduksjonscystoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reduksjonscystoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av vesicointestinal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av vesikointestinal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av vesikointestinal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon eller reseksjon av blærehals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral incisjon eller reseksjon av blærehals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen blærerekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk blærerekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk blærerekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinary diversion from bladder
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Needle cystotomy, see: TKC
+#OHJE_R 
+---
+###
+#KOODI      KCJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCJ10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kutan cystoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCJ20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinent kutan cystoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCJ96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen cystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCT
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extracorporeal fragmentation of calculi of bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCT00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstrakorporal sjokkbølgelitotripsi i urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCV
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Miscellaneous operations on bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCV02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral blæredilatasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Denervasjon av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Denervering av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Denervering av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk denervasjon av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk denervering av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk denervering av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mobilisering av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk mobilisering av urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV22  
+#MUUT_PVM   2007/10/16
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral evakuering av koagler fra blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV32  
+#MUUT_PVM   2007/10/16
+#KAYTPVM    1999/01/01
+#POISTPVM   2007/10/16
+#POISTETTU
+#VANHA                
+#SUOMI      Transurethral evakuering av koagler fra blære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on bladder
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KCW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på urinblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCXJ00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Opplæring i selvkateterisering (RIK)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCXJ81 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Blæretrening
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urethra
+#RUOTSI     ---
+#ENGL       Urethra
+#OHJE_S  
+Biopsy of urethra, see: UKC 05, UKD 05
+#OHJE_R 
+---
+###
+#KOODI_A    KDC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of urethra
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KDC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urethrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of urethra and destruction of tumour of urethra
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KDD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av divertikkel i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av tumor i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral destruksjon av tumor i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av eksterne urethrasfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral reseksjon av eksterne urethrasfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av urethraklaff
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD52  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral eksisjon av urethraklaff
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD80  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og plastisk rekonstruksjon av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transurethral eksisjon i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDDE10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transuretral ultralydundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDDE10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral ultralydundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of calculus or foreign body from urethra
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Lithotripsy
+#OHJE_R 
+---
+###
+#KOODI      KDE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urethrolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urethrolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urethrolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral steinekstraksjon fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral fjerning av fremmedlegeme fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen fjerning av stein eller fremmedlegeme fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen translum endosk ekstr stein/fremmedlegeme fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk fjerning av stein eller fremmedlegeme fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk fjerning av stein eller fremmedlegeme fra urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDFM03 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Trykkmåling i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDFM03 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trykkmåling i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bonnys test ved stressinkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Miksjonsobservasjon > 4 timer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on female urethra and bladder neck for urinary incontinence
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Vaginal operations, see: LEG
+#OHJE_R 
+---
+###
+#KOODI      KDG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retropubisk kolposuspensjon av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk retropubisk kolposuspensjon av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominovaginal suspensjon av blærehals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominal kolposuspensjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk kolposuspensjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Suprapubisk urethrocystopexi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Suprapubisk urethrocystopeksi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suprapubisk urethrocystopeksi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk urethrocystopexi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG31  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk urethrocystopeksi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG31  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk urethrocystopeksi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Suprapubisk urethrocystopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Suprapubisk urethrocystopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suprapubisk urethrocystopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk urethrocystopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG41  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk urethrocystopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG41  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk urethrocystopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG43  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transobturatorisk urethrocystopeksi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transabdominal bekkenbunnplastikk for urininkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG60  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av justerbar ekspander rundt blærehalsen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG70  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urethropeksi med slynge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen op på urethra el blærehals hos kvinne for inkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på urethra eller blærehals hos kvinne for inkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på urethra eller blærehals for inkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkut endosk inkontinens-op urethra/blærehals hos kv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på urethra eller blærehals hos kvinne for inkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på urethra eller blærehals for inkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on urethra
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KDH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urethral meatoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av urethrokutan fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av urethrointestinal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH62  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral rekanalisering av urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urethraplastikk for striktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen translum endoskopisk rekonstruksjonsinngrep på urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk rekonstruksjonsinngrep på urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk rekonstruksjonsinngrep på urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinary diversion from urethra
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KDJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urethrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDK
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Artificial urethral sphincter operations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KDK00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av sfinkterprotese rundt blærehals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDK01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk implantasjon av sfinkterprotese på blærehals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDK10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av sfinkterprotese rundt bulbære urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDK30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av urethral sfinkterprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDK40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av urethral sfinkterprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDV
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Miscellaneous operations on urethra
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KDV00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av stent i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral intern urethrotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral intern sfinkterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Periurethral injeksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral submukøs injeksjon i urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on urethra
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Dilatation of urethra, see: TKD 00
+#OHJE_R 
+---
+###
+#KOODI      KDW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk inngrep på urethra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Prostate and seminal vesicles
+#RUOTSI     ---
+#ENGL       Prostate and seminal vesicles
+###
+#KOODI_A    KEA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration and incision of prostate and seminal vesicles
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KEA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prostatotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Incisjon av vesicula seminalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Incisjon av sædblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av sædblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of prostate
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Needle biopsy, see: TKE 00
+#OHJE_R 
+---
+###
+#KOODI      KEB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen biopsi av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of prostate and seminal vesicles
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KEC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retropubisk radikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEC01  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk radikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perineal radikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsakral radikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KED
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of prostate
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KED00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transvesical prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transvesikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvesikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral reseksjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral incisjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED52  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laser reseksjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED52  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserreseksjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED52  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserreseksjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED62  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral nåleablasjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED72  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral mikrobølgeterapi av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED80  
+#MUUT_PVM   2005/10/04
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan kryokirurgi på prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transurethral reseksjon av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEDE50 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Uspesifisert ultralydundersøkelse av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEDE51 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstern ultralydundersøkelse av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEDE51 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstern ultralydundersøkelse av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEDE52 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal ultralydundersøkelse av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEDE52 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal ultralydundersøkelse av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of calculus or foreign body from prostate
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KEE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Prostatolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Prostatolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prostatolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transurethral prostatolithotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE02  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transurethral prostatolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE02  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral prostatolitotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEE12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral fjerning av fremmedlegeme fra prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEFT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mikroskopi av sædvæske
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEFT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikroskopi av sædvæske
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEV
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Miscellaneous operations on prostate
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KEV00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulasjon av prostata for spontan blødning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEV02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral koagulasjon av prostata for spontan blødning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEV12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral reseksjon av colliculus seminalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEV22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transurethral innlegging av stent i prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on prostate and seminal vesicles
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KEW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på prostata eller vesicula seminalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEW96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på prostata eller sædblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEW96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på prostata eller sædblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endosk op på prostata el vesicula seminalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på prostata eller sædblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEW97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på prostata eller sædblære
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Scrotum and scrotal organs
+#RUOTSI     ---
+#ENGL       Scrotum and scrotal organs
+###
+#KOODI_A    KFA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration and incision of scrotum and scrotal organs
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KFA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorasjon av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorasjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorativ incisjon av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorativ incisjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ incisjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ incisjon av epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av ductus deferens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA50  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    2003/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra scrotum og skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA50  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fj fremmedlegeme fra scrotum og skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA50  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra scrotum og skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA50  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen eksplorasjon el incisjon av scrotum el scrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen eksplorasjon eller incisjon av scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksplorasjon eller incisjon av scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KFB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of testis, epididymis and vas deferens
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Needle biopsy, see: TKF
+#OHJE_R 
+---
+###
+#KOODI      KFB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ductus deferens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen biopsi av scrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen biopsi av skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFB96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen biopsi av skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KFC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of testis and epididymis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KFC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Unilateral orchiektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Unilateral orkiektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral orkiektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bilateral orchiektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bilateral orkiektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral orkiektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epididymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen eksisjon av testis eller epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen eksisjon av testikkel eller epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksisjon av testikkel eller epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KFD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of scrotal organs
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Ligature of vas deferens or of spermatic veins above spermatic chord
+#OHJE_R 
+---
+###
+#KOODI      KFD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD16  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hydrocele testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hydrocele testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD20  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hydrocele testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hydrocele funiculi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD43  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral vasektomi eller ligatur av ductus deferens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD46  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral vasektomi eller ligatur av ductus deferens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon eller ligatur av vena spermatica interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reseksjon el ligatur av vena spermatica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD51  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reseksjon eller ligatur av vena spermatica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD51  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reseksjon eller ligatur av vena spermatica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD56  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av varicocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av scrotalfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av skrotalfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD60  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av skrotalfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD63  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/10/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD70  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i hud på scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD73  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i hud på scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på scrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet reseksjonsinngrep på skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFDE86 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFDE86 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KFH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on testis, epididymis and vas deferens
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KFH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for retinert eller ektopisk testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for retinert eller ektopisk testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for retinert eller ektopisk testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operasjon for retinert eller ektopisk testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Orchiopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Orkiopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Orkiopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Detorkvering av funikkel og fiksasjon av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Detorkvering av funikkel og fiksasjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Detorkvering av funikkel og fiksasjon av testikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vasovasostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epididymovasostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av testisprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av testikkelprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av testikkelprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av testikkelprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH70  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH73  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av scrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet rekonstruksjonsop på testis/epididymis/ductus deferens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KFW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on scrotum and scrotal organs
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KFW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på scrotum eller scrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFW96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFW96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på scrotum eller skrotalorganer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Penis
+#RUOTSI     ---
+#ENGL       Penis
+###
+#KOODI_A    KGA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration and incision of penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av preputium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksplorasjon eller incisjon av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Amputation of penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell amputasjon av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total amputasjon av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of penis and destruction of lesion of penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av glans penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGD05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av penisskaft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGD20  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i hud på penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFE30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektromyografi (EMG) av corpus cavernosus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFE30 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografi (EMG) av corpus cavernosus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFF10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Blodstrømsundersøkelse i penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFF10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blodstrømsundersøkelse i penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cavernosometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFX25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cavernosometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFX40 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ambulatorisk ereksjonsregistrering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGFX40 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ambulatorisk ereksjonsregistrering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Induksjon av ereksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Induksjon av ereksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGGX99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Impotensutredning IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH05  
+#MUUT_PVM   2009/12/15
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudsutur på penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for fimose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korreksjon av indurasjon eller kurvatur av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korreksjon av indurasjon eller krumning av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av indurasjon eller krumning av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon eller ligatur av penil vene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH33  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arteriell revaskularisering av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for priapisme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av spongiokavernøs fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av hypospadi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av epispadi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH80  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av penishud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGV
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Miscellaneous operations on penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGV00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reposisjon av parafimose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adheranseløsning av preputium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rituell circumcisjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rituell omskjæring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rituell omskjæring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av penisprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av penisprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av penisprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on penis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KGW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGXJ00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Opplæring i selvinjeksjon i penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGXJ00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opplæring i selvinjeksjon i penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KK
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Retroperitoneal space
+#RUOTSI     ---
+#ENGL       Retroperitoneal space
+###
+#KOODI_A    KKA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration, incision and biopsy of retroperitoneal space
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KKA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retroperitoneal eksplorasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA01  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk retroperitoneal eksplorasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av retroperitonealt vev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk biopsi av retroperitonealrommet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retroperitoneal incisjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk drenasje av retroperitonealrommet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KKB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of lesion of retroperitoneal space
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KKB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av retroperitoneal tumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKB11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksisjon av retroperitoneal tumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av retroperitoneal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKB21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk eksisjon av retroperitoneal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KKF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body of retroperitoneal space
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KKF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av retroperitonealt fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endosk fjerning av retroperitonealt fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKF01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av retroperitonealt fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKF01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk fjerning av retroperitonealt fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KKW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on retroperitoneal space
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KKW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på retroperitonealrommet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkut endoskopisk operasjon på retroperitonealrommet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på retroperitonealrommet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKW97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk operasjon på retroperitonealrommet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    KW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations in urological surgery
+#RUOTSI     ---
+#ENGL       Reoperations in urological surgery
+#OHJE_S  
+Puncture, needle biopsy and other minor procedures, see: TK
+Digits 0, 3 and 6:
+Note: Procedures not otherwise specified in the code texts are open operations or procedures
+Digits 1, 4 and 7:
+Includes (Chapter K): Laparoscopy, percutaneous nephroscopy and percutaneous ureteronephroscopy with belonging endoscopic procedures
+Includes: Use of auxiliary stabs or minor incisions. A procedure is classified as percutaneous endoscopic if dissection and preparation of the organ in question is performed endoscopically, even if pa
+Note: In the code texts, these procedures are specified according to endoscopy wherever possible.
+Digits 2, 5 and 8:
+Includes (Chapter K): Procedures in the course of urethroscopy, cystoscopy, retrograde ureteroscopy and retrograde ureteronephroscopy
+For codes with the fourth posision digit 9 (the"other" codes), only the last digits 6, 7 and 8 are used, with significance as above.
+Please note the following difference between transluminal endoscopy and invasive or therapeutic procedures performed in the course of transluminal endoscopy:
+Transluminal endoscopy, frequently allowing examination of several connected organ cavities, is generally classified (in Chapter U) according to the most common main target for the category of endosco
+Endoscopic procedures are classified according to the location where they are actually performed, and then by action and technique.
+In Chapter K, e.g. transluminal endoscopic ureterolithotripsy may be performed at percutaneous ureteronephroscopy or retrograde ureteroscopy.
+Includes: Reoperations on urinary system, male genital organs and retroperitoneal space
+#OHJE_R 
+---
+###
+#KOODI_A    KWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in urological surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KWA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in urological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound infection
+#OHJE_R 
+---
+###
+#KOODI      KWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in urological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Infection in body cavity or at the site of target organ or structures
+#OHJE_R 
+---
+###
+#KOODI      KWC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endosk reop for dyp infeksjon v/urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWC01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp infeksjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWC01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp infeksjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in urological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      KWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in urological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Haemorrhage or haematoma in body cavity or at the site of target organ or structures
+#OHJE_R 
+---
+###
+#KOODI      KWE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reop for dyp blødning v/urologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp blødning ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp blødning ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translum endosk reop for dyp blødning v/urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE02  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperasjon for dyp blødning ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE02  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperasjon for dyp blødning ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KWF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for insufficiency of anastomosis or suture in urological surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KWF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for insuffisient anastomose el sutur v/urologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWF00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perk endosk reop insuff anastomose el sutur v/urologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWF01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for insuffisiens av anastomose eller sutur ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWF01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for insuffisiens av anastomose eller sutur ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperation in urological surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KWW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reoperasjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reop ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWW98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWW98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved urologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFC00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Døgnmåling av urinvolum, ev. ved veiing av bleier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFC00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Døgnmåling av urinvolum, ev. ved veiing av bleier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektromyografi (EMG) i bekkenbunnen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografi (EMG) i bekkenbunnen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFE80 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urologisk elektromyografi (EMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFE80 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urologisk elektromyografi (EMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFF00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Uroflowmetri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFF00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uroflowmetri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFM20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ambulatorisk urodynamisk undersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFM20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ambulatorisk urodynamisk undersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Uretralutstryk med mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretralutstryk med mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFT10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urinmikroskopi
+#RUOTSI     ---
+#LYHENNE    Urinmikroskopi
+###
+#KOODI      KXFX00 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Test på stressinkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Test på stressinkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontinenstest med måling >12 timer av urin- og drikkevolum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinenstest med måling >12 timer av urin- og drikkevolum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX06 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fysiologisk miksjonsundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX06 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysiologisk miksjonsundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX08 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Miksjonsobservasjon > 4 timer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX08 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Miksjonsobservasjon > 4 timer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Urinsedimentundersøkelse i mikroskop
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Induksjon av ejakulasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXFX99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen urofysiologisk undersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXGX00 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Infertilitetsutredning hos mann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXGX00 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Infertilitetsutredning hos mann
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXGX01 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal eller anal stimulator for urininkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXGX99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Infertilitetsutredning IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXK00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intralesjonal eksisjon av omfattende tumor i det retroperitoneale rom uten definert utgangspunkt i totegnsgruppe i kapittel K
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXK03  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marginal eksisjon av omfattende tumor i det retroperitoneale rom uten definert utgangspunkt i totegnsgruppe i kapittel K
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXK06  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vid eksisjon av omfattende tumor i det retroperitoneale rom uten definert utgangspunkt i totegnsgruppe i kapittel K
+#RUOTSI     ---
+#LYHENNE    

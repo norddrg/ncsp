@@ -1,0 +1,5129 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU A
+
+@LUVUT_S = KAPITEL A
+
+@SUOMI_L = Hermosto
+
+@RUOTSI_L = Nervsystemet
+
+@ENGL_L = Nervous system
+
+@END_L = 
+
+@KOODI_R = AA
+
+@SUOMI_R = Kallo ja kallon sisäiset elimet
+
+@RUOTSI_R = Kranium och intrakraniala strukturer
+
+@ENGL_R = Skull and intracranial structures
+
+@NOTE_RF = Sisältää aivolisäkkeen ja käpyrauhasen
+
+@NOTE_RS = Inkluderar åtgärder på hypofysen och tallkottkörteln
+
+@END = 
+
+@KOODI_A = AA_
+
+@NCSP_A = AAD
+
+@SUOMI_A = Pään diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av huvudet
+
+@ENGL_A = Diagnostic radiology of head and brain
+
+@NOTE_RF = Aivojen verisuonten toimenpiteet kohdassa PA
+
+@NOTE_RS = Åtgärder på artärer av hjärnan, se PA
+
+@END = 
+
+@KOODI = AA1AA 
+
+@NCSP = AADA1A
+
+@SUOMI = Kallon natiiviröntgen
+
+@RUOTSI = Skalle, röntgen
+
+@END = 
+
+@KOODI = AA1BA 
+
+@NCSP = AADA1A
+
+@SUOMI = Kallon laaja natiiviröntgen
+
+@RUOTSI = Skalle, omfattande röntgen
+
+@END = 
+
+@KOODI = AA2AA 
+
+@NCSP = AADA2A
+
+@SUOMI = Kallonpohjan natiiviröntgen *
+
+@RUOTSI = Skallbas, röntgen *
+
+@END = 
+
+@KOODI = AA3AA 
+
+@NCSP = AADA3A
+
+@SUOMI = Kasvonluiden natiiviröntgen *
+
+@RUOTSI = Ansiktsskelett, röntgen *
+
+@END = 
+
+@KOODI = AA4AA 
+
+@NCSP = AADA4A
+
+@SUOMI = Sellan natiiviröntgen *
+
+@RUOTSI = Sella turcica, röntgen *
+
+@END = 
+
+@KOODI = AA6AA 
+
+@NCSP = AADA6A
+
+@SUOMI = Kallon saumojen natiiviröntgen *
+
+@RUOTSI = Skallens suturer, röntgen *
+
+@END = 
+
+@KOODI = AA7AA 
+
+@NCSP = AADA7A
+
+@SUOMI = Aivonesteyhdystien ja laitteiston natiiviröntgen (sunttiröntgen)
+
+@RUOTSI = Likvorshunt, röntgen
+
+@END = 
+
+@KOODI = AA7EB 
+
+@NCSP = AADB7E
+
+@SUOMI = Aivokammiosuntin varjoainetutkimus (suntin valvulografia)
+
+@RUOTSI = Valvulografi (shuntundersökning)
+
+@END = 
+
+@KOODI = PA2AC 
+
+@NCSP = AADC2A
+
+@SUOMI = Aivovaltimoiden varjoainetutkimus
+
+@RUOTSI = Cerebral angiografi
+
+@END = 
+
+@KOODI = PA2BC 
+
+@NCSP = AADC2A
+
+@SUOMI = Aivovaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Cerebral angiografi, omfattande
+
+@END = 
+
+@KOODI = PA2CC 
+
+@NCSP = AADC2A
+
+@SUOMI = Aivovaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Cerebral angiografi, mycket omfattande
+
+@END = 
+
+@KOODI = PA3AC 
+
+@NCSP = AADC3A
+
+@SUOMI = Carotis-valtimoiden selektiivinen varjoainetutkimus *
+
+@RUOTSI = Selektiv karotisangiografi *
+
+@END = 
+
+@KOODI = PA4AC 
+
+@NCSP = AADC4A
+
+@SUOMI = Vertebraalivaltimoiden varjoainetutkimus *
+
+@RUOTSI = Vertebralisangiografi (selektiv) *
+
+@END = 
+
+@KOODI = PA5AC 
+
+@NCSP = AADC5A
+
+@SUOMI = Kasvojen valtimoiden varjoainetutkimus
+
+@RUOTSI = Angiografi av ansiktets artärer
+
+@END = 
+
+@KOODI = PA7AC 
+
+@NCSP = AADC7A
+
+@SUOMI = Kaula- ja aivovaltimoiden varjoainetutkimus
+
+@RUOTSI = Cervikalangiografi
+
+@NOTE_F = Varjoaineen ruiskutus aortan kaaren alueelle
+
+@NOTE_S = Kontrast injektion i aortabågen
+
+@END = 
+
+@KOODI = PA7BC 
+
+@NCSP = AADC7A
+
+@SUOMI = Kaula- ja aivovaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Cervikalangiografi, omfattande
+
+@END = 
+
+@KOODI = PA7CC 
+
+@NCSP = AADC7A
+
+@SUOMI = Kaula- ja aivovaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Cervikalangiografi, mycket omfattande
+
+@END = 
+
+@KOODI = PA3DC 
+
+@NCSP = AADC9A
+
+@SUOMI = Kaulan ja pään valtimon suora pisto ja varjoainetutkimus
+
+@RUOTSI = Direkt punktion och angiographi av artär i huvud- och halsregionen
+
+@END = 
+
+@KOODI = AA1AD 
+
+@NCSP = AADD1A
+
+@SUOMI = Pään TT
+
+@RUOTSI = Skalle och hjärna, DT
+
+@END = 
+
+@KOODI = AA1BD 
+
+@NCSP = AADD1A
+
+@SUOMI = Pään laaja TT
+
+@RUOTSI = Skalle och hjärna, omfattande DT
+
+@END = 
+
+@KOODI = AA1CD 
+
+@NCSP = AADD1A
+
+@SUOMI = Pään erittäin laaja TT
+
+@RUOTSI = Skalle och hjärna, mycket omfattande DT
+
+@END = 
+
+@KOODI = AA4AD 
+
+@NCSP = AADD4A
+
+@SUOMI = Sellan TT
+
+@RUOTSI = Sella, DT
+
+@END = 
+
+@KOODI = AA4BD 
+
+@NCSP = AADD4A
+
+@SUOMI = Sellan laaja TT
+
+@RUOTSI = Sella, omfattande DT
+
+@END = 
+
+@KOODI = AA4CD 
+
+@NCSP = AADD4A
+
+@SUOMI = Sellan erittäin laaja TT
+
+@RUOTSI = Sella, mycket omfattande DT
+
+@END = 
+
+@KOODI = AA6AD 
+
+@NCSP = AADD6A
+
+@SUOMI = Kallon luiden TT
+
+@RUOTSI = Skallben, DT
+
+@END = 
+
+@KOODI = AA6BD 
+
+@NCSP = AADD6A
+
+@SUOMI = Kallon luiden laaja TT
+
+@RUOTSI = Skallben, omfattande DT
+
+@END = 
+
+@KOODI = AA6CD 
+
+@NCSP = AADD6A
+
+@SUOMI = Kallon luiden erittäin laaja TT
+
+@RUOTSI = Skallben, mycket omfattande DT
+
+@END = 
+
+@KOODI = AA5PD 
+
+@NCSP = AADD7A
+
+@SUOMI = Aivojen perfuusio TT
+
+@RUOTSI = Hjärnperfusionsundersökning med DT
+
+@END = 
+
+@KOODI = PA2AD 
+
+@NCSP = AADD7A
+
+@SUOMI = Aivojen TT-angio
+
+@RUOTSI = Hjärnans DT angiografi
+
+@END = 
+
+@KOODI = PA2BD 
+
+@NCSP = AADD7A
+
+@SUOMI = Aivojen laaja TT-angio
+
+@RUOTSI = Hjärnans omfattande DT angiografi
+
+@END = 
+
+@KOODI = AA5AE 
+
+@NCSP = AADE5A
+
+@SUOMI = Intrakraniaalitilan UÄ
+
+@RUOTSI = Inrakraniellt UL
+
+@END = 
+
+@KOODI = AA5HE 
+
+@NCSP = AADE5H
+
+@SUOMI = Lapsen aivojen UÄ
+
+@RUOTSI = Barnets hjärn-UL
+
+@END = 
+
+@KOODI = AA9XE 
+
+@NCSP = AADE9X
+
+@SUOMI = Keskushermoston muu UÄ
+
+@RUOTSI = Centrala nervsystemet, annan UL
+
+@END = 
+
+@KOODI = AA1AF 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Skalle och hjärna, begränsad MR med mellanfältsmagnet
+
+@NOTE_F = Esim. sunttilaitteen kontrollitutkimus
+
+@NOTE_S = T.ex. eftergranskning av shunt
+
+@END = 
+
+@KOODI = AA1AG 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Skalle och hjärna, begränsad MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1BF 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Skalle och hjärna, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA1BG 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Skalle och hjärna, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1CF 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Skalle och hjärna, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA1CG 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Skalle och hjärna, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA1DF 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Skalle och hjärna, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA1DG 
+
+@NCSP = AADG1A
+
+@SUOMI = Pään erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Skalle och hjärna, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA4BF 
+
+@NCSP = AADG4B
+
+@SUOMI = Sellan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Sella, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA4BG 
+
+@NCSP = AADG4B
+
+@SUOMI = Sellan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Sella, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA4CF 
+
+@NCSP = AADG4B
+
+@SUOMI = Sellan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Sella, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA4CG 
+
+@NCSP = AADG4B
+
+@SUOMI = Sellan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Sella, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA4DF 
+
+@NCSP = AADG4B
+
+@SUOMI = Sellan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Sella, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA4DG 
+
+@NCSP = AADG4B
+
+@SUOMI = Sellan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Sella, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA5FF 
+
+@NCSP = AADG5F
+
+@SUOMI = Aivojen toiminnallinen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärna, funktionell MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA5FG 
+
+@NCSP = AADG5F
+
+@SUOMI = Aivojen toiminnallinen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärna, funktionell MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA5GF 
+
+@NCSP = AADG5F
+
+@SUOMI = Aivojen laaja toiminnallinen keskikenttä-MT
+
+@RUOTSI = Hjärna, omfattande funktionell MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA5GG 
+
+@NCSP = AADG5F
+
+@SUOMI = Aivojen laaja toiminnallinen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärna, omfattande funktionell MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA5HF 
+
+@NCSP = AADG5F
+
+@SUOMI = Aivojen erittäin laaja toiminnallinen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärna, mycket omfattande funktionell MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = AA5HG 
+
+@NCSP = AADG5F
+
+@SUOMI = Aivojen erittäin laaja toiminnallinen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärna, mycket omfattande funktionell MR med högfältsmagnet
+
+@END = 
+
+@KOODI = AA5AK 
+
+@NCSP = AADK5A
+
+@SUOMI = Aivojen spektroskopia
+
+@RUOTSI = Spektroskopi av hjärnan
+
+@END = 
+
+@KOODI = AA5BK 
+
+@NCSP = AADK5A
+
+@SUOMI = Aivojen laaja spektroskopia
+
+@RUOTSI = Spektroskopi av hjärnan, omfattande
+
+@END = 
+
+@KOODI = AA5AL 
+
+@NCSP = AADL5A
+
+@SUOMI = Aivojen magneettikenttämittaus (magnetoenkefalografia, MEG)
+
+@RUOTSI = Magnetencefalografi MEG
+
+@END = 
+
+@KOODI_A = AA_
+
+@NCSP_A = AAF
+
+@SUOMI_A = Muut pään ja aivojen diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra undersökningar av hjärna och skalle
+
+@ENGL_A = Other diagnostic procedures of brain and skull
+
+@END = 
+
+@KOODI = XA100 
+
+@NCSP = AAF100
+
+@SUOMI = Tensilontesti
+
+@RUOTSI = Tensilon-test
+
+@END = 
+
+@KOODI = XA400 
+
+@NCSP = AAF400
+
+@SUOMI = EEG
+
+@RUOTSI = EEG
+
+@END = 
+
+@KOODI = XA402 
+
+@NCSP = AAF402
+
+@SUOMI = ENMG
+
+@RUOTSI = ENMG
+
+@END = 
+
+@KOODI = XA404 
+
+@NCSP = AAF404
+
+@SUOMI = SEP
+
+@RUOTSI = SEP
+
+@END = 
+
+@KOODI = XA410 
+
+@NCSP = AAF410
+
+@SUOMI = BAEP
+
+@RUOTSI = BAEP
+
+@END = 
+
+@KOODI = XA412 
+
+@NCSP = AAF412
+
+@SUOMI = VEP
+
+@RUOTSI = VEP
+
+@END = 
+
+@KOODI = XCD10 
+
+@NCSP = AAF414
+
+@SUOMI = Neurofysiologinen silmätutkimus
+
+@RUOTSI = Elektrofysiologisk ögonundersökning
+
+@NOTE_F = Sisältää ERG ja silmälihasten EMG
+
+@NOTE_S = Inkl ERG och EMG av ögonmusklar
+
+@END = 
+
+@KOODI = XA420 
+
+@NCSP = AAF420
+
+@SUOMI = Laaja unitutkimus
+
+@RUOTSI = Lång sömnundersökning
+
+@NOTE_F = Ns. unipatjatutkimus
+
+@END = 
+
+@KOODI = XA800 
+
+@NCSP = AAF800
+
+@SUOMI = Neuropsykologinen tutkimus
+
+@RUOTSI = Neuropsykologisk undersökning
+
+@END = 
+
+@KOODI_A = AA0
+
+@NCSP_A = AAO0
+
+@SUOMI_A = Aivojen ja pikkuaivojen sädehoito
+
+@RUOTSI_A = Strålbehandling av hjärnan
+
+@ENGL_A = Radiotherapy of brain
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = AA002 
+
+@NCSP = AAO002
+
+@SUOMI = Radikaali aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i hjärnan eller dess delar
+
+@END = 
+
+@KOODI = AA003 
+
+@NCSP = AAO003
+
+@SUOMI = Sädehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i hjärnan eller dess delar
+
+@END = 
+
+@KOODI = AA004 
+
+@NCSP = AAO004
+
+@SUOMI = Sädehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i hjärnan eller dess delar
+
+@END = 
+
+@KOODI = AA029 
+
+@NCSP = AAO029
+
+@SUOMI = Aivojen ja pikkuaivojen tai niiden osien paikallisesti uusineen kasvaimen sädehoito
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i hjärnan eller dess delar
+
+@END = 
+
+@KOODI = AA049 
+
+@NCSP = AAO049
+
+@SUOMI = Aivoissa, pikkuaivoissa tai niiden osissa ilmenneen etäpesäkkeen sädehoito
+
+@RUOTSI = Strålbehandling av metastas i hjärnan eller dess delar
+
+@END = 
+
+@KOODI = AA090 
+
+@NCSP = AAO090
+
+@SUOMI = Aivojen ja  pikkuaivojen tai niiden osien profylaktinen sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av  hjärnan och dess delar
+
+@END = 
+
+@KOODI = AA099 
+
+@NCSP = AAO099
+
+@SUOMI = Muu aivojen ja  pikkuaivojen tai niiden osien sädehoito
+
+@RUOTSI = Annan strålbehandling av  hjärnan och dess delar
+
+@END = 
+
+@KOODI_A = NV0
+
+@NCSP_A = AAO1
+
+@SUOMI_A = Kallon ja kasvojen luiden sädehoito
+
+@RUOTSI_A = Strålbehandling av skall och ansikte
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = AA001 
+
+@NCSP = AAO101
+
+@SUOMI = Sädehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i hjärnan eller dess delar
+
+@END = 
+
+@KOODI = NV001 
+
+@NCSP = AAO101
+
+@SUOMI = Sädehoito kallon ja kasvojen luiden primaarikasvaimen preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i skall eller ansikte
+
+@END = 
+
+@KOODI = NV002 
+
+@NCSP = AAO102
+
+@SUOMI = Radikaali kallon ja kasvojen luiden primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i skall eller ansikte
+
+@END = 
+
+@KOODI = NV003 
+
+@NCSP = AAO103
+
+@SUOMI = Sädehoito kallon ja kasvojen luiden primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i skall eller ansikte
+
+@END = 
+
+@KOODI = NV004 
+
+@NCSP = AAO104
+
+@SUOMI = Kallon ja kasvojen luiden primaarikasvaimen palliatiivinen sädehoito
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i skall eller ansikte
+
+@END = 
+
+@KOODI = NV029 
+
+@NCSP = AAO129
+
+@SUOMI = Kallon ja kasvojen luiden paikallisesti uusineen kasvaimen sädehoito
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i skall eller ansikte
+
+@END = 
+
+@KOODI = NV049 
+
+@NCSP = AAO149
+
+@SUOMI = Kallossa ja kasvojen luissa ilmenneen etäpesäkkeen sädehoito
+
+@RUOTSI = Strålbehandling av metastas i skall eller ansikte
+
+@END = 
+
+@KOODI = NV090 
+
+@NCSP = AAO190
+
+@SUOMI = Kallon ja kasvojen luiden profylaktimem sädehoito
+
+@RUOTSI = Profylaktisk strålbehandling av skall och ansikte
+
+@END = 
+
+@KOODI = NV099 
+
+@NCSP = AAO199
+
+@SUOMI = Muu kallon ja kasvojen sädehoito
+
+@RUOTSI = Annan strålbehandling av skall och ansikte
+
+@END = 
+
+@KOODI_A = AAA
+
+@NCSP_A = AASA
+
+@SUOMI_A = Aivojen tutkimusleikkaukset
+
+@RUOTSI_A = Diagnostiska intrakraniala ingrepp
+
+@ENGL_A = Diagnostic intracranial procedures
+
+@NOTE_RF = Stereotaktiset leikkaukset kohdassa AAG
+
+@NOTE_RF =
+Kallon sisäisiä ärsykkeitä antavan tai injektiolaitteen asennus, katso AAW
+
+@NOTE_RF =
+Kallon sisäisiä ärsykkeitä antavan laitteen poisto, katso AEA
+
+@NOTE_RS = Stereotaktiska åtgärder, se AAG
+
+@NOTE_RS =
+Terapeutisk implantation av stimulationsapparater och injektionsapparater, se AAW
+
+@NOTE_RS =
+Uttabning av intrakraniell stimulationsapparat, se AEA
+
+@END = 
+
+@KOODI = AAA00 
+
+@NCSP = AASA00
+
+@SUOMI = Kallon aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Explorativ kraniotomi
+
+@END = 
+
+@KOODI = AAA10 
+
+@NCSP = AASA10
+
+@SUOMI = Koepalan otto poranreiän kautta aivoista
+
+@RUOTSI = Biopsi via borrhål
+
+@NOTE_F = Stereotaktinen koepalan otto aivoista AAG 00
+
+@NOTE_S = Stereotaktisk hjärnbiopsi, se AAG00
+
+@END = 
+
+@KOODI = AAA20 
+
+@NCSP = AASA20
+
+@SUOMI = Aivokammion paineanturin asettaminen
+
+@RUOTSI = Applikation av tryckgivare i ventrikel
+
+@NOTE_F = Sisältää intraparenkyymianturin
+
+@NOTE_S = Inkluderar intraparenkymal tryckgivare
+
+@END = 
+
+@KOODI = AAA25 
+
+@NCSP = AASA25
+
+@SUOMI = Epiduraalitilan paineanturin asettaminen
+
+@RUOTSI = Applikation av epidural tryckgivare
+
+@END = 
+
+@KOODI = AAA27 
+
+@NCSP = AASA27
+
+@SUOMI = Aivokudoksen paineanturin asettaminen
+
+@RUOTSI = Applikation av intracerebral tryckgivare
+
+@END = 
+
+@KOODI = AAA30 
+
+@NCSP = AASA30
+
+@SUOMI = Elektrodien asettaminen epiduraalisesti
+
+@RUOTSI = Inläggande av epidurala elektroder
+
+@END = 
+
+@KOODI = AAA35 
+
+@NCSP = AASA35
+
+@SUOMI = Elektrodien asettaminen subduraalisesti
+
+@RUOTSI = Inläggande av subdurala elektroder
+
+@END = 
+
+@KOODI = AAA40 
+
+@NCSP = AASA40
+
+@SUOMI = Elektrodien asettaminen aivojen sisälle
+
+@RUOTSI = Inläggande av intracerebrala elektroder
+
+@END = 
+
+@KOODI = AAA99 
+
+@NCSP = AASA99
+
+@SUOMI = Muu aivojen tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk intrakranial operation
+
+@END = 
+
+@KOODI_A = AAB
+
+@NCSP_A = AASB
+
+@SUOMI_A = Aivokasvaimien ja aivomuutosten poistot
+
+@RUOTSI_A = Exstirpation eller destruktion av intrakranial förändring
+
+@ENGL_A = Excision and destruction of intracranial lesion
+
+@NOTE_RF = Stereotaktiset leikkaukset kohdassa AAG
+
+@NOTE_RF =
+Kallonpohjan kautta tehtävät leikkaukset kohdassa AAE
+
+@NOTE_RS = Stereotaktiska åtgärder, se AAG
+
+@NOTE_RS =
+Åtgärder genom kranial basis, se AAE
+
+@END = 
+
+@KOODI = AAB00 
+
+@NCSP = AASB00
+
+@SUOMI = Aivokasvaimen tai aivomuutoksen poisto
+
+@RUOTSI = Total exstirpation av intrakranial tumör eller lokal lesion
+
+@NOTE_F = Sisältää vierasesineiden poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = AAB10 
+
+@NCSP = AASB10
+
+@SUOMI = Aivokasvaimen tai aivomuutoksen poisto osittain
+
+@RUOTSI = Delresektion av intrakranial tumör/förändring
+
+@END = 
+
+@KOODI = AAB20 
+
+@NCSP = AASB20
+
+@SUOMI = Aivokasvaimen tai aivomuutoksen tuhoaminen
+
+@RUOTSI = Destruktion av intrakranial tumör/lesion
+
+@END = 
+
+@KOODI = AAB30 
+
+@NCSP = AASB30
+
+@SUOMI = Aivotilan spontaanin verihyytymän poisto
+
+@RUOTSI = Utrymning av icke-traumatiskt intrakranialt hematom
+
+@END = 
+
+@KOODI = AAB99 
+
+@NCSP = AASB99
+
+@SUOMI = Muu aivokasvaimen tai aivomuutoksen poisto
+
+@RUOTSI = Annan exstirpation av intrakranial tumör/förändring
+
+@END = 
+
+@KOODI_A = AAC
+
+@NCSP_A = AASC
+
+@SUOMI_A = Aivoverisuonien toimenpiteet
+
+@RUOTSI_A = Intrakraniala kärlåtgärder
+
+@ENGL_A = Operations for intracranial aneurysm and other vascular lesions
+
+@NOTE_RF = Suonensisäiset toimenpiteet kohdassa AAL
+
+@NOTE_RS = Intravaskulära åtgärder, se AAL
+
+@END = 
+
+@KOODI = AAC00 
+
+@NCSP = AASC00
+
+@SUOMI = Aivovaltimopullistuman  kaulan sulkeminen
+
+@RUOTSI = Stjälkligatur av intrakranialt aneurysm
+
+@END = 
+
+@KOODI = AAC05 
+
+@NCSP = AASC05
+
+@SUOMI = Aivovaltimopullistuman syöttävän valtimon sulkeminen
+
+@RUOTSI = Kärlligatur proximalt om intrakranialt aneurysm
+
+@END = 
+
+@KOODI = AAC10 
+
+@NCSP = AASC10
+
+@SUOMI = Aivovaltimopullistuman seinämän vahvistaminen
+
+@RUOTSI = Väggförstärkning av intrakranialt aneurysm
+
+@END = 
+
+@KOODI = AAC15 
+
+@NCSP = AASC15
+
+@SUOMI = Aivovaltimopullistuman menevän ja tulevan valtimon sulkeminen
+
+@RUOTSI = Ligatur proximalt och distalt om intrakranialt aneurysm, trapping
+
+@END = 
+
+@KOODI = AAC20 
+
+@NCSP = AASC20
+
+@SUOMI = Aivoverisuonen liittäminen
+
+@RUOTSI = Intrakranial kärlanastomos
+
+@END = 
+
+@KOODI = AAC30 
+
+@NCSP = AASC30
+
+@SUOMI = Aivoverisuonien välisen avanteen  tukkiminen
+
+@RUOTSI = Ocklusion av intrakranial kärlfistel
+
+@END = 
+
+@KOODI = AAC40 
+
+@NCSP = AASC40
+
+@SUOMI = Aivoverisuoniepämuodostuman poisto
+
+@RUOTSI = Exstirpation av intrakranial arteriovenös missbildning
+
+@END = 
+
+@KOODI = AAC99 
+
+@NCSP = AASC99
+
+@SUOMI = Muu aivoverisuonileikkaus
+
+@RUOTSI = Annan intrakranial kärloperation
+
+@END = 
+
+@KOODI_A = AAD
+
+@NCSP_A = AASD
+
+@SUOMI_A = Aivo- ja kallovammojen leikkaukset
+
+@RUOTSI_A = Operationer p.g.a. skalltrauma
+
+@ENGL_A = Operations for head injuries
+
+@END = 
+
+@KOODI = AAD00 
+
+@NCSP = AASD00
+
+@SUOMI = Verihyytymän poisto kovan aivokalvon päältä, epiduraalitilasta
+
+@RUOTSI = Utrymning av epiduralt hematom
+
+@END = 
+
+@KOODI = AAD05 
+
+@NCSP = AASD05
+
+@SUOMI = Verihyytymän poisto kovan aivokalvon alta, akuutti subduraali
+
+@RUOTSI = Utrymning av akut subduralt hematom
+
+@END = 
+
+@KOODI = AAD10 
+
+@NCSP = AASD10
+
+@SUOMI = Verihyytymän poisto kovan aivokalvon alta, krooninen subduraali
+
+@RUOTSI = Utrymning av kroniskt subduralt hematom
+
+@END = 
+
+@KOODI = AAD12 
+
+@NCSP = AASD12
+
+@SUOMI = Kovan aivokalvon alaisen nesteen kanavointi keuhkopussiin tai vatsaonteloon
+
+@RUOTSI = Dränering av subdural vätska till pleura eller abdomen
+
+@END = 
+
+@KOODI = AAD15 
+
+@NCSP = AASD15
+
+@SUOMI = Aivokudoksen verihyytymän tai ruhjeen poisto
+
+@RUOTSI = Utrymning av hematom eller kontusionshärd i hjärnan
+
+@END = 
+
+@KOODI = AAD16 
+
+@NCSP = AASD16
+
+@SUOMI = Kovan aivokalvon alaisen laskuputken poisto
+
+@RUOTSI = Avlägsnande av subdural drän
+
+@END = 
+
+@KOODI = AAD30 
+
+@NCSP = AASD30
+
+@SUOMI = Kallon lävistävän vamman tarkistamisleikkaus
+
+@RUOTSI = Revision av penetrerande/perforerande skallskada
+
+@NOTE_F = Sisältää mahdollisen vierasesineen poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = AAD40 
+
+@NCSP = AASD40
+
+@SUOMI = Kallon painumismurtuman nosto
+
+@RUOTSI = Elevation av impressionsfraktur
+
+@NOTE_F = Sisältää ohimoluun sisäänpainuman korjauksen.
+
+@NOTE_F =
+Mahdolliset aivohermojen (AAH) ja kuuloluiden (DD) korjaukset ilmaistaan lisäkoodeilla
+
+@NOTE_S = Inkl elevation av temporal inpression
+
+@NOTE_S =
+Eventuella ingrepp för skador i kranialnerver (AAH) och hörselsbenskedjan (DD) anges med tilläggskod
+
+@END = 
+
+@KOODI = AAD42 
+
+@NCSP = AASD42
+
+@SUOMI = Frontobasaalisen murtuman hoito
+
+@RUOTSI = Ingrepp för frontobasal fraktur
+
+@END = 
+
+@KOODI = AAD99 
+
+@NCSP = AASD99
+
+@SUOMI = Muu aivo- tai kallovamman leikkaus
+
+@RUOTSI = Annat ingrepp för skallskada
+
+@END = 
+
+@KOODI_A = AAE
+
+@NCSP_A = AASE
+
+@SUOMI_A = Kallonpohjan kautta tehtävät leikkaukset
+
+@RUOTSI_A = Ingrepp via skallbasen
+
+@ENGL_A = Operations by cranial base approach
+
+@NOTE_RF = Sisältää aivolisäkeleikkaukset
+
+@NOTE_RS = Inkluderar åtgärder på hypofysen och tallkottkörteln
+
+@END = 
+
+@KOODI = AAE00 
+
+@NCSP = AASE00
+
+@SUOMI = Tutkimusleikkaus transsphenoidaalisesti
+
+@RUOTSI = Transsfenoidal exploration
+
+@END = 
+
+@KOODI = AAE10 
+
+@NCSP = AASE10
+
+@SUOMI = Kudoksen poistaminen transsfenoidaalisesti
+
+@RUOTSI = Transsfenoidal exstirpation eller resektion
+
+@END = 
+
+@KOODI = AAE20 
+
+@NCSP = AASE20
+
+@SUOMI = Kudoksen poistaminen transklivaalisesti, suun kautta
+
+@RUOTSI = Transoral/transclival exstirpation eller resektion
+
+@END = 
+
+@KOODI = AAE25 
+
+@NCSP = AASE25
+
+@SUOMI = Kudoksen poistaminen kallon sisältä transkervikaalisesti, kaulan kautta
+
+@RUOTSI = Transcervical exstirpation eller resektion
+
+@END = 
+
+@KOODI = AAE30 
+
+@NCSP = AASE30
+
+@SUOMI = Kudoksen poistaminen translabyrintaarisesti
+
+@RUOTSI = Translabyrintär exstirpation eller resektion
+
+@END = 
+
+@KOODI = AAE32 
+
+@NCSP = AASE32
+
+@SUOMI = Akustikusneurinooman poisto translabyrintaarisesti
+
+@RUOTSI = Translabyrintär exstirpation av acusticusneurinom
+
+@END = 
+
+@KOODI = AAE34 
+
+@NCSP = AASE34
+
+@SUOMI = Kuulo- tai tasapainohermoon kohdistuva muu leikkaus
+
+@RUOTSI = Annan operation på nervus acusticus (vestibulocochlearis)
+
+@END = 
+
+@KOODI = AAE40 
+
+@NCSP = AASE40
+
+@SUOMI = Kudoksen poistaminen transtemporaalisesti
+
+@RUOTSI = Transtemporal exstipation eller resektion
+
+@END = 
+
+@KOODI = AAE50 
+
+@NCSP = AASE50
+
+@SUOMI = Kudoksen poistaminen poskikaaren ja ohimoluun läpi
+
+@RUOTSI = Zygomaticotemporal exstirpation eller resektion
+
+@END = 
+
+@KOODI = AAE99 
+
+@NCSP = AASE99
+
+@SUOMI = Muu kallonpohjan kautta tehtävä leikkaus
+
+@RUOTSI = Annan operation via skallbasen
+
+@END = 
+
+@KOODI_A = AAF
+
+@NCSP_A = AASF
+
+@SUOMI_A = Aivonestekierron säätelytoimenpiteet
+
+@RUOTSI_A = Shuntoperationer på hjärnventriklar eller intracerebral cystor
+
+@ENGL_A = Shunt operations on ventricles of brain or intracerebral cysts
+
+@END = 
+
+@KOODI = AAF00 
+
+@NCSP = AASF00
+
+@SUOMI = Aivokammioavanteen teko
+
+@RUOTSI = Ventrikulostomi
+
+@END = 
+
+@KOODI = AAF05 
+
+@NCSP = AASF05
+
+@SUOMI = Aivokammion kanavointi vatsaonteloon
+
+@RUOTSI = Ventrikuloperitoneal shunt
+
+@END = 
+
+@KOODI = AAF10 
+
+@NCSP = AASF10
+
+@SUOMI = Selkäydinkanavan kanavointi vatsaonteloon
+
+@RUOTSI = Lumboperitoneal liquorshunt
+
+@END = 
+
+@KOODI = AAF15 
+
+@NCSP = AASF15
+
+@SUOMI = Aivokammion kanavointi sydämen eteiseen
+
+@RUOTSI = Ventrikuloatrial shunt
+
+@END = 
+
+@KOODI = AAF20 
+
+@NCSP = AASF20
+
+@SUOMI = Aivonesteyhdystien korjaaminen
+
+@RUOTSI = Revision av liquorshunt
+
+@END = 
+
+@KOODI = AAF25 
+
+@NCSP = AASF25
+
+@SUOMI = Aivonesteyhdystien poisto
+
+@RUOTSI = Borttagande av liquorshunt
+
+@END = 
+
+@KOODI = AAF30 
+
+@NCSP = AASF30
+
+@SUOMI = Injektiolaitteen asettaminen aivokammioon
+
+@RUOTSI = Applikation av intraventrikulär injektionsport
+
+@END = 
+
+@KOODI = AAF35 
+
+@NCSP = AASF35
+
+@SUOMI = Aivokammioiden sisäisen lääkehoidon toteuttamiseen tarkoitetun ihonalaisen säiliön asettaminen
+
+@RUOTSI = Implantation av reservoir för intraventrikulär terapi
+
+@END = 
+
+@KOODI = AAF40 
+
+@NCSP = AASF40
+
+@SUOMI = Kallonsisäisen kystan kanavointi vatsaonteloon
+
+@RUOTSI = Dränage av intravetrikulär cysta till bukhålan
+
+@END = 
+
+@KOODI = AAF45 
+
+@NCSP = AASF45
+
+@SUOMI = Aivokystan avanteen teko
+
+@RUOTSI = Fenestrering av intrakranial cysta
+
+@END = 
+
+@KOODI = AAF99 
+
+@NCSP = AASF99
+
+@SUOMI = Muu aivonestekierron säätelytoimenpide
+
+@RUOTSI = Annat ingrepp för reglering av liquorflödet
+
+@END = 
+
+@KOODI_A = AAG
+
+@NCSP_A = AASG
+
+@SUOMI_A = Stereotaktiset aivotilan toimenpiteet
+
+@RUOTSI_A = Stereotaktiska intrakraniala operationer
+
+@ENGL_A = Stereotactic intracranial operations
+
+@END = 
+
+@KOODI = AAG00 
+
+@NCSP = AASG00
+
+@SUOMI = Koepalan otto stereotaktisen laitteen avulla
+
+@RUOTSI = Stereotaktisk biopsi
+
+@END = 
+
+@KOODI = AAG10 
+
+@NCSP = AASG10
+
+@SUOMI = Sterotaktinen tumakkeen tai hermoradan tuhoaminen
+
+@RUOTSI = Stereotaktisk destruktion av nukleus eller nervbana
+
+@END = 
+
+@KOODI = AAG20 
+
+@NCSP = AASG20
+
+@SUOMI = Stereotaktinen aivoelektrodien asettaminen
+
+@RUOTSI = Stereotaktiskt inläggande av elektroder i hjärnan
+
+@NOTE_F = Sisältää isoaivoärsykkeitä antavien ja aivojen syviin osiin ärsykkeitä antavien laitteiden asentamisen
+
+@NOTE_F =
+Hermoärsykkeitä antavan laitteen impulssigeneraattorin vaihto ja poisto kohdassa AEA
+
+@NOTE_S = Innefattar intracerebral nervsystem stimulerande apparat (deep brain stimulator)
+
+@NOTE_S =
+Utbyte och uttagning av impulse generator, se AEA
+
+@END = 
+
+@KOODI = AAG30 
+
+@NCSP = AASG30
+
+@SUOMI = Stereotaktinen säteilylähteen asettaminen aivoihin
+
+@RUOTSI = Stereotaktisk implantation av strålkälla i hjärnan
+
+@END = 
+
+@KOODI = AAG40 
+
+@NCSP = AASG40
+
+@SUOMI = Stereotaktinen sikiön hermosolujen/kudoksen asettaminen aivoihin
+
+@RUOTSI = Stereotaktisk implantation av fosternervceller/vävnad i hjärnan
+
+@END = 
+
+@KOODI = AAG50 
+
+@NCSP = AASG50
+
+@SUOMI = Stereotaktinen sädehoito aivoihin
+
+@RUOTSI = Stereotaktisk strålbehandling
+
+@END = 
+
+@KOODI = AAG99 
+
+@NCSP = AASG99
+
+@SUOMI = Muu stereotaktinen aivojen toimenpide
+
+@RUOTSI = Annan stereotaktisk operation på centrala nervsystemet
+
+@END = 
+
+@KOODI_A = AAH
+
+@NCSP_A = AASH
+
+@SUOMI_A = Aivohermojen leikkaukset
+
+@RUOTSI_A = Operationer på kranialnerver
+
+@ENGL_A = Operations on cranial nerves
+
+@NOTE_RF = Kasvohermonhalvauksen takia tehtävät plastiikkakirurgiset toimenpiteet, katso QAE40
+
+@NOTE_RS = Plastikkirurgisk rekonstruktiv operation vid facialispares, se QAE40
+
+@END = 
+
+@KOODI = AAH10 
+
+@NCSP = AASH10
+
+@SUOMI = Aivohermon katkaisu
+
+@RUOTSI = Neurotomi av kranialnerv
+
+@END = 
+
+@KOODI = AAH20 
+
+@NCSP = AASH20
+
+@SUOMI = Aivohermon vapautus
+
+@RUOTSI = Deliberation/dekompression av kranialnerv
+
+@END = 
+
+@KOODI = AAH30 
+
+@NCSP = AASH30
+
+@SUOMI = Aivohermon polttaminen tai jäädyttäminen
+
+@RUOTSI = Termodestruktion av kranialnerv
+
+@END = 
+
+@KOODI = AAH40 
+
+@NCSP = AASH40
+
+@SUOMI = Aivohermoon injektiohoito
+
+@RUOTSI = Injektion i kranialnerv
+
+@END = 
+
+@KOODI = AAH50 
+
+@NCSP = AASH50
+
+@SUOMI = Aivohermon liittäminen tai siirre
+
+@RUOTSI = Neurorafi av kranialnerv, eller reparation medels nervtransplantat
+
+@NOTE_F = Esim. kasvohermon korjaus ns. cross-over hermon siirrolla
+
+@NOTE_S = T.ex rekonstruktion av facialnerv med cross-over nervtransplantat
+
+@END = 
+
+@KOODI = AAH60 
+
+@NCSP = AASH60
+
+@SUOMI = Aivohermon mikrovaskulaarinen vapautus
+
+@RUOTSI = Mikrovaskulär dekompression av kranialnerv
+
+@NOTE_F = Kuulo- ja tasapainohermon leikkaukset ja akustikusneurinooman leikkaukset koodataan kohtaan AAE
+
+@NOTE_S = Operationer på nervus acusticus och vestibulocochlearis, se AAE
+
+@END = 
+
+@KOODI = AAH80 
+
+@NCSP = AASH80
+
+@SUOMI = Mikrovaskulaarinen lihaksensiirto aivohermojen alueella
+
+@RUOTSI = Mikrovaskulär muskelförflyttning vid facialispares
+
+@END = 
+
+@KOODI = AAH99 
+
+@NCSP = AASH99
+
+@SUOMI = Muu aivohermojen leikkaus
+
+@RUOTSI = Annan operation på kranialnerver
+
+@END = 
+
+@KOODI_A = AAJ
+
+@NCSP_A = AASJ
+
+@SUOMI_A = Epilepsialeikkaukset
+
+@RUOTSI_A = Operationer p.g.a.epilepsi
+
+@ENGL_A = Operations for epilepsy
+
+@NOTE_RF = Kiertäjähermoon (vagus) ärsykkeitä antava  laite, katso ADB00
+
+@NOTE_RS = Vagusstimulerande apparat, se ADB00
+
+@END = 
+
+@KOODI = AAJ00 
+
+@NCSP = AASJ00
+
+@SUOMI = Aivopuoliskon poisto
+
+@RUOTSI = Hemisfärektomi vid epilepsi
+
+@END = 
+
+@KOODI = AAJ10 
+
+@NCSP = AASJ10
+
+@SUOMI = Aivolohkon poisto epilepsian vuoksi
+
+@RUOTSI = Lobektomi vid epilepsi
+
+@END = 
+
+@KOODI = AAJ15 
+
+@NCSP = AASJ15
+
+@SUOMI = Hippokampuksen, aivoturson, poisto
+
+@RUOTSI = Hippokampektomi vid epilepsi
+
+@END = 
+
+@KOODI = AAJ20 
+
+@NCSP = AASJ20
+
+@SUOMI = Epileptisen pesäkkeen poisto
+
+@RUOTSI = Resektion av epileptiskt fokus
+
+@END = 
+
+@KOODI = AAJ25 
+
+@NCSP = AASJ25
+
+@SUOMI = Hermoratojen katkaisu epilepsian vuoksi
+
+@RUOTSI = Avskärning av nervbanor vid epilepsi
+
+@END = 
+
+@KOODI = AAJ30 
+
+@NCSP = AASJ30
+
+@SUOMI = Kallosotomia, aivokurjen halkaisu, epilepsian vuoksi
+
+@RUOTSI = Callosotomi vid epilepsi
+
+@END = 
+
+@KOODI = AAJ35 
+
+@NCSP = AASJ35
+
+@SUOMI = Aivopuoliskon kuorikerroksen poisto epilepsian vuoksi
+
+@RUOTSI = Hemidekortikation vid epilepsi
+
+@END = 
+
+@KOODI = AAJ99 
+
+@NCSP = AASJ99
+
+@SUOMI = Muu aivoleikkaus epilepsian vuoksi
+
+@RUOTSI = Annan hjärnoperation vid epilepsi
+
+@END = 
+
+@KOODI_A = AAK
+
+@NCSP_A = AASK
+
+@SUOMI_A = Kallon ja kovakalvon leikkaukset
+
+@RUOTSI_A = Operationer på kranium och dura
+
+@ENGL_A = Operations on skull and dura
+
+@END = 
+
+@KOODI = AAK00 
+
+@NCSP = AASK00
+
+@SUOMI = Kallon korjaaminen
+
+@RUOTSI = Kranioplastik
+
+@END = 
+
+@KOODI = AAK10 
+
+@NCSP = AASK10
+
+@SUOMI = Kovan aivokalvon korjaaminen
+
+@RUOTSI = Duraplastik
+
+@END = 
+
+@KOODI = AAK20 
+
+@NCSP = AASK20
+
+@SUOMI = Kallonsaumojen ennenaikaisen luutumisen vuoksi tehtävä leikkaus
+
+@RUOTSI = Operation p.g.a.kraniosynostos
+
+@END = 
+
+@KOODI = AAK30 
+
+@NCSP = AASK30
+
+@SUOMI = Kallon ja kasvoluiden epämuodostuman korjaaminen
+
+@RUOTSI = Kraniofacial rekonstruktion vid missbildning
+
+@END = 
+
+@KOODI = AAK40 
+
+@NCSP = AASK40
+
+@SUOMI = Aivonesteavanteen tukkiminen
+
+@RUOTSI = Ocklusion av likvorfistel
+
+@END = 
+
+@KOODI = AAP00 
+
+@NCSP = AASK70
+
+@SUOMI = Koepalan otto kallosta
+
+@RUOTSI = Biopsi av skallben
+
+@END = 
+
+@KOODI = AAP10 
+
+@NCSP = AASK75
+
+@SUOMI = Kallon luukasvaimen poisto
+
+@RUOTSI = Resektion av bentumör i skallen
+
+@END = 
+
+@KOODI = AAK99 
+
+@NCSP = AASK99
+
+@SUOMI = Muu kallon ja kovakalvon leikkaus
+
+@RUOTSI = Annan operation på kranium och dura
+
+@NOTE_F = Ei sisällä kallovammoihin liittyviä leikkauksia  (AAD)
+
+@NOTE_S = Exkl åtgärder för skalltrauma (AAD)
+
+@END = 
+
+@KOODI_A = AAM
+
+@NCSP_A = AASM
+
+@SUOMI_A = Aivotilan infektioiden leikkaukset
+
+@RUOTSI_A = Ingrepp p.g.a. intrakraniala infektioner
+
+@ENGL_A = Operations for intracranial infection
+
+@NOTE_RF = Aivonestekierron ja kallonsisäisiin kystiin liittyvät leikkaukset, katso AAF
+
+@NOTE_RS = Dränage och reservoir åtgärder i hjärnvetriklar eller för intrakraniella cystor, se AAF
+
+@END = 
+
+@KOODI = AAM00 
+
+@NCSP = AASM00
+
+@SUOMI = Aivojen märkäpesäkkeen pisto ja tyhjennys
+
+@RUOTSI = Punktion och tömning av intrakranial abscess
+
+@END = 
+
+@KOODI = AAM10 
+
+@NCSP = AASM10
+
+@SUOMI = Aivojen märkäpesäkkeen poisto
+
+@RUOTSI = Exstirpation av intrakranial abscess
+
+@END = 
+
+@KOODI = AAM30 
+
+@NCSP = AASM30
+
+@SUOMI = Epi- tai subduraalisen märkäpesäkkeen tyhjennys
+
+@RUOTSI = Utrymning av epiduralt eller subduralt empyem
+
+@END = 
+
+@KOODI = AAM99 
+
+@NCSP = AASM99
+
+@SUOMI = Muu aivotilan infektion leikkaus
+
+@RUOTSI = Annan operation p.g.a.intrakranial infektion
+
+@END = 
+
+@KOODI_A = AAN
+
+@NCSP_A = AASN
+
+@SUOMI_A = Synnynnäisten keskushermoston epämuodostumien korjaukset
+
+@RUOTSI_A = Operationer vid intrakraniala kongenitala missbildningar
+
+@ENGL_A = Operations for intracranial congenital malformations
+
+@END = 
+
+@KOODI = AAN00 
+
+@NCSP = AASN00
+
+@SUOMI = Enkefaloseelen korjausleikkaus
+
+@RUOTSI = Exstirpation och plastik av enkefalocele
+
+@END = 
+
+@KOODI = AAN99 
+
+@NCSP = AASN99
+
+@SUOMI = Muu synnynnäisen keskushermoston epämuodostuman korjaus
+
+@RUOTSI = Annan operation vid intrakraniala kongenitala missbildningar
+
+@END = 
+
+@KOODI_A = AAU
+
+@NCSP_A = AASU
+
+@SUOMI_A = Istutteiden ja kiinnityslaitteiden poisto kallosta
+
+@RUOTSI_A = Uttagning av implanter och external fixations apparater från skallet
+
+@ENGL_A = Removal of implants and external fixation devices from skull
+
+@END = 
+
+@KOODI = AAU00 
+
+@NCSP = AASU00
+
+@SUOMI = Istutteen tai kiinnityslaitteen poistaminen kallosta
+
+@RUOTSI = Uttagning av implant eller fixations apparat från skalle
+
+@END = 
+
+@KOODI_A = AAW
+
+@NCSP_A = AASW
+
+@SUOMI_A = Muut kallonsisäiset leikkaukset
+
+@RUOTSI_A = Andra intrakraniala operationer
+
+@ENGL_A = Other intracranial operations
+
+@END = 
+
+@KOODI = AAW01 
+
+@NCSP = AASW01
+
+@SUOMI = Kallonsisäisen hermostoärsykkeitä antavan laitteen asettaminen
+
+@RUOTSI = Implantation av intrakraniell nervsystem stimulerande apparat
+
+@END = 
+
+@KOODI = AAW02 
+
+@NCSP = AASW02
+
+@SUOMI = Kallonsisäisen injektiolaitteen asettaminen
+
+@RUOTSI = Implantation av intrakraniell injektioktions apparat
+
+@END = 
+
+@KOODI = AAW99 
+
+@NCSP = AASW99
+
+@SUOMI = Muu kallonsisäinen toimenpide
+
+@RUOTSI = Annan intrakranial operation
+
+@END = 
+
+@KOODI_A = AAL
+
+@NCSP_A = AAXC
+
+@SUOMI_A = Kallonsisäiset suonensisäiset toimenpiteet
+
+@RUOTSI_A = Endovaskulära intrakraniala ingrepp
+
+@ENGL_A = Intracranial endovascular procedures
+
+@NOTE_RF = Avoleikkaukset kohdassa AAC
+
+@NOTE_RF =
+Radiologisessa ohjauksessa tehtävät toimenpiteet, katso PA
+
+@NOTE_RS = Öppna kärloperationer på hjärnan, se AAC
+
+@NOTE_RS =
+Radiologiskt utstyrda åtgärder, se PA
+
+@END = 
+
+@KOODI = PA2AT 
+
+@NCSP = AAXC00
+
+@SUOMI = Aivovaltimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Hjärnartär perkutan angioplastik (PTA)
+
+@NOTE_F = Sisältää a. carotis internan ja a. vertebraliksen haaroineen
+
+@NOTE_S = Innefattar a. carotis interna och a vertebralis med deras grenar
+
+@END = 
+
+@KOODI = PA2BT 
+
+@NCSP = AAXC00
+
+@SUOMI = Aivovaltimon suonensisäinen laajennushoito, laaja (PTA)
+
+@RUOTSI = Hjärnartär perkutan angioplastik (PTA), omfattande
+
+@NOTE_F = Sisältää a. carotis internan ja a. vertebraliksen haaroineen
+
+@NOTE_S = Innefattar a. carotis interna och a vertebralis med deras grenar
+
+@END = 
+
+@KOODI = PA2CT 
+
+@NCSP = AAXC00
+
+@SUOMI = Aivovaltimon suonensisäinen laajennushoito (PTA), erittäin laaja
+
+@RUOTSI = Hjärnartär perkutan angioplastik (PTA), mycket omfattande
+
+@NOTE_F = Sisältää a. carotis internan ja a. vertebraliksen haaroineen
+
+@NOTE_S = Innefattar a. carotis interna och a vertebralis med deras grenar
+
+@END = 
+
+@KOODI = PA7KT 
+
+@NCSP = AAXC04
+
+@SUOMI = Aivovaltimon suonensisäinen koetukkiminen
+
+@RUOTSI = Hjärnartär, Intravaskulär temporär ocklusion
+
+@END = 
+
+@KOODI = PA2PT 
+
+@NCSP = AAXC06
+
+@SUOMI = Aivovaltimon pysyvä suonensisäinen tukkiminen
+
+@RUOTSI = Hjärnartär, permanent intravaskulär ocklusion
+
+@END = 
+
+@KOODI = AAL10 
+
+@NCSP = AAXC10
+
+@SUOMI = Aivovaltimotulpan suonensisäinen liuotus
+
+@RUOTSI = Intrakranial endovaskulär trombolys
+
+@END = 
+
+@KOODI = PA2ST 
+
+@NCSP = AAXC10
+
+@SUOMI = Aivovaltimon ja/tai silmän alueen tulpan selektiiivinen liuotus
+
+@RUOTSI = Hjärn- och ögonregionens artär, selektiv trombolys
+
+@END = 
+
+@KOODI = PA2VT 
+
+@NCSP = AAXC12
+
+@SUOMI = Aivovaltimotulpan suonensisäinen mekaaninen poisto
+
+@RUOTSI = Hjärnartärocklusion, intravaskulär mekanisk evakuering
+
+@END = 
+
+@KOODI = AAL00 
+
+@NCSP = AAXC20
+
+@SUOMI = Aivovaltimopullistuman suonensisäinen tukkiminen
+
+@RUOTSI = Endovaskulär ocklusion p.g.a.intrakranialt aneurysm
+
+@NOTE_F = Radiologisessa ohjauksessa kohdassa PA2KT tai PA2LT
+
+@NOTE_S = Radiologiskt utstyrd, se PA2KT eller PA2LT
+
+@END = 
+
+@KOODI = PA2KT 
+
+@NCSP = AAXC20
+
+@SUOMI = Aivovaltimoaneurysman suonensisäinen tukkiminen
+
+@RUOTSI = Hjärnaneurysm, embolisering
+
+@END = 
+
+@KOODI = PA2LT 
+
+@NCSP = AAXC20
+
+@SUOMI = Aivovaltimoaneurysman suonensisäinen tukkiminen, laaja
+
+@RUOTSI = Hjärnaneurysm, omfattande embolisering
+
+@END = 
+
+@KOODI = PA2MT 
+
+@NCSP = AAXC20
+
+@SUOMI = Aivovaltimoaneurysman suonensisäinen tukkiminen, erittäin laaja
+
+@RUOTSI = Hjärnaneurysm, mycket omfattande intravaskulär ocklusion
+
+@END = 
+
+@KOODI = AAL20 
+
+@NCSP = AAXC22
+
+@SUOMI = Aivoverisuoniepämuodostuman suonensisäinen tukkiminen
+
+@RUOTSI = Endovaskulär ocklusion p.g.a.intrakranial A-V missbildning
+
+@NOTE_F = Radiologisesti ohjatut toimenpiteet kohdissa PA2GT, PA2HT eller PA2JT
+
+@NOTE_S = Radiologiskt utstyrd, se PA2GT, PA2HT eller PA2JT
+
+@END = 
+
+@KOODI = PA2GT 
+
+@NCSP = AAXC22
+
+@SUOMI = Aivojen av-malformation embolisaatio
+
+@RUOTSI = Hjärnans av-malformation, embolisering
+
+@END = 
+
+@KOODI = PA2HT 
+
+@NCSP = AAXC22
+
+@SUOMI = Aivojen av-malformation embolisaatio, laaja
+
+@RUOTSI = Hjärnans av-malformation, omfattande embolisering
+
+@END = 
+
+@KOODI = PA2JT 
+
+@NCSP = AAXC22
+
+@SUOMI = Aivojen av-malformation embolisaatio, erittäin laaja
+
+@RUOTSI = Hjärnans av-malformation, mycket omfattande embolisering
+
+@END = 
+
+@KOODI = AAL30 
+
+@NCSP = AAXC24
+
+@SUOMI = Aivovaltimo-laskimoavanteen suonensisäinen tukkiminen
+
+@RUOTSI = Endovaskulär ocklusion av intrakranial arteriovenös fistel
+
+@END = 
+
+@KOODI = AAL40 
+
+@NCSP = AAXC30
+
+@SUOMI = Aivokasvaimen verisuonien suonensisäinen tukkiminen
+
+@RUOTSI = Endovaskulär ocklusion p.g.a.intrakranial tumör
+
+@NOTE_F = Radiologisesti ohjatut toimenpiteet kohdissa  PA2DT eller PA2ET
+
+@NOTE_S = Radiologiskt utstyrd, se  PA2DT eller PA2ET
+
+@END = 
+
+@KOODI = PA2DT 
+
+@NCSP = AAXC30
+
+@SUOMI = Aivokasvaimen embolisaatio
+
+@RUOTSI = Hjärntumörembolisering
+
+@END = 
+
+@KOODI = PA2ET 
+
+@NCSP = AAXC30
+
+@SUOMI = Aivokasvaimen embolisaatio, laaja
+
+@RUOTSI = Hjärntumörembolisering, omfattande
+
+@END = 
+
+@KOODI = PA2FT 
+
+@NCSP = AAXC30
+
+@SUOMI = Aivokasvaimen embolisaatio, erittäin laaja
+
+@RUOTSI = Hjärntumörembolisering, mycket omfattande
+
+@END = 
+
+@KOODI = PH4ST 
+
+@NCSP = AAXC80
+
+@SUOMI = Aivo- tai orbitan alueen laskimotulpan selektiivinen liuotushoito
+
+@RUOTSI = Hjärn- och ögonregionens ven, selektiv trombolys
+
+@END = 
+
+@KOODI = PH4UT 
+
+@NCSP = AAXC82
+
+@SUOMI = Aivolaskimotulpan mekaaninen poisto
+
+@RUOTSI = Hjärnventrombos, mekanisk avlägsnande
+
+@END = 
+
+@KOODI = PH4YT 
+
+@NCSP = AAXC84
+
+@SUOMI = Aivojen tai pään alueen laskimon laajennus stentillä
+
+@RUOTSI = Huvud- och halsregionens ven, perkutan dilatation med stent
+
+@END = 
+
+@KOODI = PH4ZT 
+
+@NCSP = AAXC86
+
+@SUOMI = Vierasesineen poisto pään tai kaula-alueen laskimosta
+
+@RUOTSI = Avlägsnande av främmande föremål  från ven i huvud- och halsregionen
+
+@END = 
+
+@KOODI = AAL99 
+
+@NCSP = AAXC99
+
+@SUOMI = Muu aivoverisuonien suonensisäinen toimenpide
+
+@RUOTSI = Annan endovaskulär intrakranial operation
+
+@NOTE_F = Aivoverisuonien laajennushoito iholta kaäsin, katso PA2AT tai PA2BT
+
+@NOTE_S = PTA i hjärartärer, se PA2AT eller PA2BT
+
+@END = 
+
+@KOODI_A = AA_
+
+@NCSP_A = AAXX
+
+@SUOMI_A = Muut kallonsisäiset pientoimenpiteet
+
+@RUOTSI_A = Andra mindre intrakraniala åtgärder
+
+@ENGL_A = Other minor intracranial procedures
+
+@NOTE_RF = Paikallisen muutoksen embolisaatio kohdassa PAX
+
+@NOTE_RS = Embolisation av lokal förändring, se PAX
+
+@END = 
+
+@KOODI = AA4WT 
+
+@NCSP = AAXX02
+
+@SUOMI = Selektiivinen verinäytteen otto sinus petrosus inferiorista
+
+@RUOTSI = Selektivt blodprov från sinus petrosus
+
+@END = 
+
+@KOODI_R = AB
+
+@SUOMI_R = Selkäydin ja hermojuuret
+
+@RUOTSI_R = Ryggmärg och nervrötter
+
+@ENGL_R = Spinal cord and nerve roots
+
+@END = 
+
+@KOODI_A = AB_
+
+@NCSP_A = ABD
+
+@SUOMI_A = Selkäytimen ja hermojuurten diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av ryggmärg och nervrötter
+
+@ENGL_A = Diagnostic radiology of spinal cord and nerve roots
+
+@NOTE_RF = Selkärangan ja selkäytimen magneettitutkimus kohdassa NAD
+
+@NOTE_RS = MR av ryggraden och ryggmärgen, se NAD
+
+@END = 
+
+@KOODI = AB1CB 
+
+@NCSP = ABDB1C
+
+@SUOMI = Kaularangan selkäydinkanavan varjoainetutkimus (myelografia)
+
+@RUOTSI = Halsrygg, myelografi
+
+@END = 
+
+@KOODI = AB2CB 
+
+@NCSP = ABDB2C
+
+@SUOMI = Rintarangan selkäydinkanavan varjoainetutkimus (myelografia)
+
+@RUOTSI = Bröstrygg, myelografi
+
+@END = 
+
+@KOODI = AB3CB 
+
+@NCSP = ABDB3C
+
+@SUOMI = Lannerangan selkäydinkanavan varjoainetutkimus (myelografia)
+
+@RUOTSI = Ländrygg, myelografi
+
+@END = 
+
+@KOODI = AB4LB 
+
+@NCSP = ABDB4L
+
+@SUOMI = Selkäydinkanavan tai epiduraalitilan katetrin paikan tarkastus
+
+@RUOTSI = Kontroll av spinal- eller epiduralkateters position
+
+@END = 
+
+@KOODI = AB4CB 
+
+@NCSP = ABDB4X
+
+@SUOMI = Selkäydinkanavan usean alueen varjoainetutkimus (myelografia)
+
+@RUOTSI = Myelografi av flera ryggradssegment
+
+@END = 
+
+@KOODI = AB4XB 
+
+@NCSP = ABDB4X
+
+@SUOMI = Selkäydinkanavan muu varjoainetutkimus
+
+@RUOTSI = Övrig kontrastunderökning av spinalkanalen
+
+@END = 
+
+@KOODI = AB4AE 
+
+@NCSP = ABDE4A
+
+@SUOMI = Selkäydinkanavan UÄ
+
+@RUOTSI = Spinalkanal, UL
+
+@END = 
+
+@KOODI_A = AB0
+
+@NCSP_A = ABO
+
+@SUOMI_A = Ydinjatkoksen ja selkäydinkanavan sädehoito
+
+@RUOTSI_A = Strålbehandling av medulla oblongata och ryggmärgskanalen
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = AB001 
+
+@NCSP = ABO001
+
+@SUOMI = Sädehoito ydinjatkoksen ja selkäydinkanavan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB002 
+
+@NCSP = ABO002
+
+@SUOMI = Radikaali ydinjatkoksen ja selkäydinkanavan primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB003 
+
+@NCSP = ABO003
+
+@SUOMI = Sädehoito ydinjatkoksen ja selkäydinkanavan primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB004 
+
+@NCSP = ABO004
+
+@SUOMI = Sädehoito ydinjatkoksen ja selkäydinkanavan primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB029 
+
+@NCSP = ABO029
+
+@SUOMI = Sädehoito ydinjatkoksen ja selkäydinkanavan paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i medulla oblongata eller i ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB049 
+
+@NCSP = ABO049
+
+@SUOMI = Sädehoito ydinjatkoksessa ja selkäydinkanavassa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i medulla oblongata eller i ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB090 
+
+@NCSP = ABO090
+
+@SUOMI = Sädehoito ydinjatkoksen ja selkäydinkanavan profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av medulla oblongata och  ryggmärgskanalen
+
+@END = 
+
+@KOODI = AB099 
+
+@NCSP = ABO099
+
+@SUOMI = Muu ydinjatkoksen ja selkäydinkanavan sädehoito
+
+@RUOTSI = Annan strålbehandling av medulla oblongata och  ryggmärgskanalen
+
+@END = 
+
+@KOODI_A = ABA
+
+@NCSP_A = ABSA
+
+@SUOMI_A = Selkäytimen ja hermojuurikanavien tutkimusleikkaukset
+
+@RUOTSI_A = Diagnostiska ingrepp på ryggmärg och nervrötter
+
+@ENGL_A = Diagnostic operations on spinal cord and nerve roots
+
+@END = 
+
+@KOODI = ABA00 
+
+@NCSP = ABSA00
+
+@SUOMI = Selkäydinkanavan tutkimusleikkaus
+
+@RUOTSI = Explorativ laminotomi/laminektomi
+
+@END = 
+
+@KOODI = ABA10 
+
+@NCSP = ABSA10
+
+@SUOMI = Koepalan otto selkäydinkanavan kudoksesta
+
+@RUOTSI = Biopsi av patologisk förändring i spinalkanal
+
+@END = 
+
+@KOODI = ABA99 
+
+@NCSP = ABSA99
+
+@SUOMI = Muu selkäytimen tai hermojuurien tutkimusleikkaus
+
+@RUOTSI = Annan diagnostiskt ingrepp på ryggmärg och nervrötter
+
+@END = 
+
+@KOODI_A = ABB
+
+@NCSP_A = ABSB
+
+@SUOMI_A = Selkäytimen ja hermojuurien paikallisten muutosten leikkaukset
+
+@RUOTSI_A = Operationer för patologisk förändring i ryggmärg och nervrötter
+
+@ENGL_A = Operations for lesions of spinal cord and nerve roots
+
+@NOTE_RF = Sisältää mm. kasvaimet, verisuoniepämuodostumat ja vammat
+
+@NOTE_RS = Inkl. bland annat tumörer, kärlmissbildningar och skador
+
+@END = 
+
+@KOODI = ABB00 
+
+@NCSP = ABSB00
+
+@SUOMI = Selkäytimen ja hermojuurten paikallisen muutoksen poisto selkäydinkanavasta
+
+@RUOTSI = Exstirpation av tumör/kärlförändring i spinalkanalen
+
+@END = 
+
+@KOODI = ABB10 
+
+@NCSP = ABSB10
+
+@SUOMI = Selkäytimen ja hermojuurten paikallisen muutoksen osapoisto selkäydinkanavasta
+
+@RUOTSI = Delresektion av lesion i spinalkanalen
+
+@END = 
+
+@KOODI = ABB20 
+
+@NCSP = ABSB20
+
+@SUOMI = Kystan kanavointi selkäydinkanavasta
+
+@RUOTSI = Dränage av cysta i spinalkanalen
+
+@END = 
+
+@KOODI = ABB30 
+
+@NCSP = ABSB30
+
+@SUOMI = Selkäytimen ja hermojuurten paikallisen muutoksen tuhoaminen selkäydinkanavasta
+
+@RUOTSI = Destruktion av tumör/förändring i spinalkanalen
+
+@END = 
+
+@KOODI = ABB40 
+
+@NCSP = ABSB40
+
+@SUOMI = Selkäydinkanavan spontaanin verihyytymän poisto
+
+@RUOTSI = Utrymning av icke-traumatiskt hematom i spinalkanalen
+
+@END = 
+
+@KOODI = ABB99 
+
+@NCSP = ABSB99
+
+@SUOMI = Muu selkäytimen tai hermojuuren paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation för patologisk förändring i ryggmärg och nervrötter
+
+@END = 
+
+@KOODI_A = ABC
+
+@NCSP_A = ABSC
+
+@SUOMI_A = Selkäytimen ja hermojuurten vapautus
+
+@RUOTSI_A = Dekompression av ryggmärg och nervrötter
+
+@ENGL_A = Decompression of spinal cord and nerve roots
+
+@END = 
+
+@KOODI = ABC01 
+
+@NCSP = ABSC01
+
+@SUOMI = Välilevytyrän poisto tähystysteitse kaularangasta
+
+@RUOTSI = Perkutan endoskopisk cervikal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC04 
+
+@NCSP = ABSC04
+
+@SUOMI = Välilevytyrän poisto tähystysteitse  rintarangasta
+
+@RUOTSI = Perkutan endoskopisk torakal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC07 
+
+@NCSP = ABSC07
+
+@SUOMI = Välilevytyrän poisto tähystysteitse lannerangasta
+
+@RUOTSI = Perkutan endoskopisk lumbal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC10 
+
+@NCSP = ABSC10
+
+@SUOMI = Mikrokirurginen välilevytyrän poisto kaularangasta
+
+@RUOTSI = Mikrokirurgisk cervikal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC13 
+
+@NCSP = ABSC13
+
+@SUOMI = Mikrokirurginen välilevyn poisto rintarangasta
+
+@RUOTSI = Mikrokirurgisk torakal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC16 
+
+@NCSP = ABSC16
+
+@SUOMI = Mikrokirurginen välilevytyrän poisto lannerangasta
+
+@RUOTSI = Mikrokirurgisk lumbal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC20 
+
+@NCSP = ABSC20
+
+@SUOMI = Nikamavälilevytyrän avoin poisto kaularangasta
+
+@RUOTSI = Öppen cervikal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC23 
+
+@NCSP = ABSC20
+
+@SUOMI = Nikamavälilevytyrän avoin poisto rintarangasta
+
+@RUOTSI = Öppen thorakal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC26 
+
+@NCSP = ABSC26
+
+@SUOMI = Nikamavälilevytyrän avoin poisto lannerangasta
+
+@RUOTSI = Öppen lumbal diskbråcksoperation
+
+@END = 
+
+@KOODI = ABC30 
+
+@NCSP = ABSC30
+
+@SUOMI = Hermojuuridekompressio kaularangan alueella
+
+@RUOTSI = Dekompression av nervrötter i halsryggen
+
+@END = 
+
+@KOODI = ABC33 
+
+@NCSP = ABSC33
+
+@SUOMI = Hermojuuridekompressio rintarangan alueella
+
+@RUOTSI = Dekompression av nervrötter i thorakala regionen av ryggen
+
+@END = 
+
+@KOODI = ABC36 
+
+@NCSP = ABSC36
+
+@SUOMI = Hermojuuridekompressio lannerangan alueella
+
+@RUOTSI = Dekompression av nervrötter i ländryggen
+
+@END = 
+
+@KOODI = ABC40 
+
+@NCSP = ABSC40
+
+@SUOMI = Hermojuuridekompressio ristiluun alueella
+
+@RUOTSI = Dekompression av nervrötter i cauda equina
+
+@END = 
+
+@KOODI = ABC50 
+
+@NCSP = ABSC50
+
+@SUOMI = Selkäydintilan ja hermojuurikanavien avarrus kaularangan alueella
+
+@RUOTSI = Dekompression av cervikal ryggmärg och nervrötter i halsryggen
+
+@END = 
+
+@KOODI = ABC53 
+
+@NCSP = ABSC53
+
+@SUOMI = Selkäydintilan ja hermojuurikanavien avarrus rintarangan alueella
+
+@RUOTSI = Dekompression av thorakal ryggmärg och nervrötter i thorakalryggen
+
+@END = 
+
+@KOODI = ABC56 
+
+@NCSP = ABSC56
+
+@SUOMI = Keskikanavan  ja hermojuurikanavien avarrus lannerangan alueella
+
+@RUOTSI = Dekompression av lumbar ryggmärg p.g.a. degenerativa förändringar
+
+@END = 
+
+@KOODI = ABC60 
+
+@NCSP = ABSC60
+
+@SUOMI = Selkäydintilan avarrus kaularangan alueella
+
+@RUOTSI = Dekompression av cervikal ryggmärg
+
+@END = 
+
+@KOODI = ABC63 
+
+@NCSP = ABSC63
+
+@SUOMI = Selkäydintilan avarrus rintarangan alueella
+
+@RUOTSI = Dekompression av thorakal ryggmärg
+
+@END = 
+
+@KOODI = ABC66 
+
+@NCSP = ABSC63
+
+@SUOMI = Selkäydintilan avarrus lannerangan alueella
+
+@RUOTSI = Dekompression av lumbal ryggmärgskanal
+
+@END = 
+
+@KOODI = ABC99 
+
+@NCSP = ABSC99
+
+@SUOMI = Muu selkäydintilan tai hermojuurikanavien avarrus
+
+@RUOTSI = Annan dekompression av ryggmärg och nervrötter
+
+@END = 
+
+@KOODI_A = ABD
+
+@NCSP_A = ABSD
+
+@SUOMI_A = Selkäydin- ja hermojuurtoimenpiteet kivun ja toiminnallisten häiriöiden vuoksi
+
+@RUOTSI_A = Operationer på ryggmärg och nervrötter p.g.a.smärta och funktionella störningar
+
+@ENGL_A = Operations on spinal cord and nerve roots for pain or impaired function
+
+@END = 
+
+@KOODI = ABD10 
+
+@NCSP = ABSD10
+
+@SUOMI = Selkäydinradan katkaisu
+
+@RUOTSI = Kordotomi
+
+@END = 
+
+@KOODI = ABD20 
+
+@NCSP = ABSD20
+
+@SUOMI = Selkäytimen halkaisu
+
+@RUOTSI = Myelotomi
+
+@END = 
+
+@KOODI = ABD30 
+
+@NCSP = ABSD30
+
+@SUOMI = Selkäytimen sähköärsytyslaitteen asettaminen
+
+@RUOTSI = Intraspinal applikation av elektrostimulator
+
+@END = 
+
+@KOODI = ABD40 
+
+@NCSP = ABSD40
+
+@SUOMI = Injektiolaitteen asettaminen selkäydinkanavaan
+
+@RUOTSI = Inläggande injektionsport i spinalkanalen
+
+@END = 
+
+@KOODI = ABD50 
+
+@NCSP = ABSD50
+
+@SUOMI = Spinaalijuuren katkaisu kivun tai toiminnallisen häiriön vuoksi
+
+@RUOTSI = Rizotomi av spinal nervrot p.g.a. smärta eller funktionell störning
+
+@END = 
+
+@KOODI = ABD99 
+
+@NCSP = ABSD99
+
+@SUOMI = Muu selkäydin- tai hermojuurileikkaus, kipu tai toiminnallinen häiriö
+
+@RUOTSI = Annan operation på ryggmärg och nervrötter p.g.a. smärta och funktionella störningar
+
+@END = 
+
+@KOODI_A = ABE
+
+@NCSP_A = ABSE
+
+@SUOMI_A = Selkärangan ja selkäytimen epämuodostumien leikkaukset
+
+@RUOTSI_A = Operationer p.g.a.spinala missbildningar
+
+@ENGL_A = Operations for congenital malformations of spine
+
+@END = 
+
+@KOODI = ABE10 
+
+@NCSP = ABSE10
+
+@SUOMI = Selkäydintyrän korjaus
+
+@RUOTSI = Exstirpation och plastik av myelo- eller meningocele
+
+@END = 
+
+@KOODI = ABE20 
+
+@NCSP = ABSE20
+
+@SUOMI = Diastematomyelian vapautus
+
+@RUOTSI = Deliberation av fjättrad ryggmärg (diastematomyeli)
+
+@END = 
+
+@KOODI = ABE30 
+
+@NCSP = ABSE30
+
+@SUOMI = Dermaalisinuksen poisto
+
+@RUOTSI = Exstirpation av dermal sinus
+
+@END = 
+
+@KOODI = ABE40 
+
+@NCSP = ABSE40
+
+@SUOMI = Hydromyelian vuoksi tehtävä leikkaus
+
+@RUOTSI = Operation för hydromyeli
+
+@END = 
+
+@KOODI = ABE50 
+
+@NCSP = ABSE50
+
+@SUOMI = Niska-aukon alueen vapautus
+
+@RUOTSI = Occipitocervikal dekompression
+
+@END = 
+
+@KOODI = ABE99 
+
+@NCSP = ABSE99
+
+@SUOMI = Muu selkärangan ja selkäytimen epämuodostumien korjausleikkaus
+
+@RUOTSI = Annan operation p.g.a.spinala missbildningar
+
+@END = 
+
+@KOODI_A = ABW
+
+@NCSP_A = ABSW
+
+@SUOMI_A = Muut selkäytimeen ja hermojuuriin kohdistuvat leikkaukset
+
+@RUOTSI_A = Andra operationer på ryggmärg och nervrötter
+
+@ENGL_A = Other operations on spinal cord and nerve roots
+
+@END = 
+
+@KOODI = ABW99 
+
+@NCSP = ABSW99
+
+@SUOMI = Muu selkäytimeen tai hermojuuriin kohdistuvat leikkaus
+
+@RUOTSI = Annan operation på ryggmärg och nervrötter
+
+@END = 
+
+@KOODI_A = AB_
+
+@NCSP_A = ABX
+
+@SUOMI_A = Muut selkäytimeen ja hermojuuriin kohdistuvat toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på ryggmärg och nervrötter
+
+@ENGL_A = Other procedures on spinal cord and nerve roots
+
+@END = 
+
+@KOODI = TAB00 
+
+@NCSP = ABX000
+
+@SUOMI = Lannepisto (lumbaalipunktio)
+
+@RUOTSI = Lumbalpunktion
+
+@END = 
+
+@KOODI = TAB10 
+
+@NCSP = ABX002
+
+@SUOMI = Niskapisto
+
+@RUOTSI = Nackstick (suboccipitalpunktion)
+
+@END = 
+
+@KOODI = AB4AT 
+
+@NCSP = ABX006
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi UÄ-ohjauksessa
+
+@RUOTSI = UL-styrt dränage av spinalvätska
+
+@END = 
+
+@KOODI = AB4BT 
+
+@NCSP = ABX006
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrt dränage av spinalvätska
+
+@END = 
+
+@KOODI = AB4CT 
+
+@NCSP = ABX006
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi TT-ohjauksessa
+
+@RUOTSI = Spinalvätska, DT-styrt dränage
+
+@END = 
+
+@KOODI = AB4DT 
+
+@NCSP = ABX006
+
+@SUOMI = Aivo-selkäydinnesteen kanavointi magneettiohjauksessa
+
+@RUOTSI = Spinalvätska, MR-styrt dränage
+
+@END = 
+
+@KOODI = TAA40 
+
+@NCSP = ABX006
+
+@SUOMI = Aivo-selkäydinesteen kanavointi iholle
+
+@RUOTSI = Kanalisering av cerebro-spinalvätska genom huden
+
+@NOTE_F = Kanavointi radiologista menetelmää hyödyntäen, katso AB4AT, AB4BT, AB4CT tai AB4DT (radiologian luokitus)
+
+@NOTE_S = Kanalisering med hjälp av radiologisk metod, se  AB4AT, AB4BT, AB4CT eller AB4DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAB20 
+
+@NCSP = ABX010
+
+@SUOMI = Epiduraalipisto
+
+@RUOTSI = Epiduralpunktion
+
+@END = 
+
+@KOODI = TAB22 
+
+@NCSP = ABX012
+
+@SUOMI = Epiduraalinen veripaikka
+
+@RUOTSI = Tiltätning av epidural läckage med blod
+
+@END = 
+
+@KOODI = TAB24 
+
+@NCSP = ABX014
+
+@SUOMI = Epiduraaliportin asennus
+
+@RUOTSI = Ingläggning av epiduralport
+
+@END = 
+
+@KOODI = AB4FT 
+
+@NCSP = ABX026
+
+@SUOMI = Aivo-selkäydinnestekatetrin vaihto
+
+@RUOTSI = Spinalkateter utbyte
+
+@END = 
+
+@KOODI = AB5BT 
+
+@NCSP = ABX100
+
+@SUOMI = Hermojuuren salpaus läpivalaisuohjauksessa
+
+@RUOTSI = Nervrötter, genomlysningsstyrd blockad
+
+@END = 
+
+@KOODI = AB5DT 
+
+@NCSP = ABX100
+
+@SUOMI = Hermojuuren salpaus magneettiohjauksessa
+
+@RUOTSI = Nervrötter, MR-styrd blockad
+
+@END = 
+
+@KOODI_R = AC
+
+@SUOMI_R = Ääreishermot
+
+@RUOTSI_R = Perifera nerver
+
+@ENGL_R = Peripheral nerves
+
+@NOTE_RF = Ääreishermon salpaus, blokadi TAC 00
+
+@NOTE_RS = Blockad av perifer nerv, se TAC00
+
+@END = 
+
+@KOODI_A = AC0
+
+@NCSP_A = ACO
+
+@SUOMI_A = Ääreishermojen sädehoito
+
+@RUOTSI_A = Strålbehandling av perifera nerver
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = AC001 
+
+@NCSP = ACO001
+
+@SUOMI = Sädehoito ääreishermojen primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i perifera nerver
+
+@END = 
+
+@KOODI = AC002 
+
+@NCSP = ACO002
+
+@SUOMI = Radikaali ääreishermojen primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i perifera nerver
+
+@END = 
+
+@KOODI = AC003 
+
+@NCSP = ACO003
+
+@SUOMI = Sädehoito ääreishermojen primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i perifera nerver
+
+@END = 
+
+@KOODI = AC004 
+
+@NCSP = ACO004
+
+@SUOMI = Sädehoito ääreishermojen primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliaativ strålbehandling av primärtumör i perifera nerver
+
+@END = 
+
+@KOODI = AC029 
+
+@NCSP = ACO029
+
+@SUOMI = Sädehoito ääreishermojen paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i perifera nerver
+
+@END = 
+
+@KOODI = AC049 
+
+@NCSP = ACO049
+
+@SUOMI = Sädehoito ääreishermoissa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i perifera nerver
+
+@END = 
+
+@KOODI = AC090 
+
+@NCSP = ACO090
+
+@SUOMI = Sädehoito ääreishermojen profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av perifera nerver
+
+@END = 
+
+@KOODI = AC099 
+
+@NCSP = ACO099
+
+@SUOMI = Muu ääreishermojen sädehoito
+
+@RUOTSI = Annan strålbehandling av perifera nerver
+
+@END = 
+
+@KOODI_A = ACA
+
+@NCSP_A = ACSA
+
+@SUOMI_A = Ääreishermojen tutkimusleikkaukset
+
+@RUOTSI_A = Diagnostiska ingrepp på perifera nerver
+
+@ENGL_A = Diagnostic operations on peripheral nerves
+
+@END = 
+
+@KOODI = ACA11 
+
+@NCSP = ACSA11
+
+@SUOMI = Keskihermon tutkimusleikkaus
+
+@RUOTSI = Exploration av n. medianus
+
+@END = 
+
+@KOODI = ACA12 
+
+@NCSP = ACSA12
+
+@SUOMI = Värttinähermon tutkimusleikkaus
+
+@RUOTSI = Exploration av n. radialis
+
+@END = 
+
+@KOODI = ACA13 
+
+@NCSP = ACSA13
+
+@SUOMI = Kyynärhermon tutkimusleikkaus
+
+@RUOTSI = Exploration av n. ulnaris
+
+@END = 
+
+@KOODI = ACA14 
+
+@NCSP = ACSA14
+
+@SUOMI = Pohjehermon tutkimusleikkaus
+
+@RUOTSI = Exploration av n. peroneus
+
+@END = 
+
+@KOODI = ACA15 
+
+@NCSP = ACSA15
+
+@SUOMI = Säärihermon tutkimusleikkaus
+
+@RUOTSI = Exploration av n. tibialis
+
+@END = 
+
+@KOODI = ACA16 
+
+@NCSP = ACSA16
+
+@SUOMI = Iskiashermon tutkimusleikkaus
+
+@RUOTSI = Exploration av n ischiadicus
+
+@END = 
+
+@KOODI = ACA17 
+
+@NCSP = ACSA17
+
+@SUOMI = Lantiohermopunoksen tutkimusleikkaus
+
+@RUOTSI = Exploration av plexus lumbalis
+
+@END = 
+
+@KOODI = ACA18 
+
+@NCSP = ACSA18
+
+@SUOMI = Hartiahermopunoksen tutkimusleikkaus
+
+@RUOTSI = Exploration av plexus brachialis
+
+@END = 
+
+@KOODI = ACA19 
+
+@NCSP = ACSA19
+
+@SUOMI = Ääreishermon tutkimusleikkaus, muu tai määrittämätön
+
+@RUOTSI = Exploration av perifer nerv, annan eller ospecificerad
+
+@END = 
+
+@KOODI = ACA21 
+
+@NCSP = ACSA21
+
+@SUOMI = Koepalan otto keskihermosta
+
+@RUOTSI = Biopsi av n. medianus
+
+@END = 
+
+@KOODI = ACA22 
+
+@NCSP = ACSA22
+
+@SUOMI = Koepalan otto värttinähermosta
+
+@RUOTSI = Biopsi av n. radialis
+
+@END = 
+
+@KOODI = ACA23 
+
+@NCSP = ACSA23
+
+@SUOMI = Koepalan otto kyynärhermosta
+
+@RUOTSI = Biopsi av n. ulnaris
+
+@END = 
+
+@KOODI = ACA24 
+
+@NCSP = ACSA24
+
+@SUOMI = Koepalan otto pohjehermosta
+
+@RUOTSI = Biopsi av n. peroneus
+
+@END = 
+
+@KOODI = ACA25 
+
+@NCSP = ACSA25
+
+@SUOMI = Koepalan otto säärihermosta
+
+@RUOTSI = Biopsi av n. tibialis
+
+@END = 
+
+@KOODI = ACA26 
+
+@NCSP = ACSA26
+
+@SUOMI = Koepalan otto iskiashermosta
+
+@RUOTSI = Biopsi av n ischiadicus
+
+@END = 
+
+@KOODI = ACA27 
+
+@NCSP = ACSA27
+
+@SUOMI = Koepalan otto lantiohermopunoksesta
+
+@RUOTSI = Biopsi av plexus lumbalis
+
+@END = 
+
+@KOODI = ACA28 
+
+@NCSP = ACSA28
+
+@SUOMI = Koepalan otto hartiahermopunoksesta
+
+@RUOTSI = Biopsi av plexus brachialis
+
+@END = 
+
+@KOODI = ACA29 
+
+@NCSP = ACSA29
+
+@SUOMI = Koepalan otto ääreishermosta, muu hermo tai määrittämätön
+
+@RUOTSI = Biopsi av annan eller ospecificerad nerv
+
+@END = 
+
+@KOODI = ACA91 
+
+@NCSP = ACSA91
+
+@SUOMI = Muu keskihermon tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på n. medianus
+
+@END = 
+
+@KOODI = ACA92 
+
+@NCSP = ACSA92
+
+@SUOMI = Muu värttinähermon tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på n. radialis
+
+@END = 
+
+@KOODI = ACA93 
+
+@NCSP = ACSA93
+
+@SUOMI = Muu kyynärhermon tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på n. ulnaris
+
+@END = 
+
+@KOODI = ACA94 
+
+@NCSP = ACSA94
+
+@SUOMI = Muu pohjehermon tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på n. peroneus
+
+@END = 
+
+@KOODI = ACA95 
+
+@NCSP = ACSA95
+
+@SUOMI = Muu säärihermon tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på n. tibialis
+
+@END = 
+
+@KOODI = ACA96 
+
+@NCSP = ACSA96
+
+@SUOMI = Muu iskiashermon tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på n ischiadicus
+
+@END = 
+
+@KOODI = ACA97 
+
+@NCSP = ACSA97
+
+@SUOMI = Muu lantiohermopunoksen tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på plexus lumbalis
+
+@END = 
+
+@KOODI = ACA98 
+
+@NCSP = ACSA98
+
+@SUOMI = Muu hartiahermopunoksen tutkimusleikkaus
+
+@RUOTSI = Annan diagnostisk operation på plexus brachialis
+
+@END = 
+
+@KOODI = ACA99 
+
+@NCSP = ACSA99
+
+@SUOMI = Muu ääreishermojen tutkimusleikkaus
+
+@RUOTSI = Annat diagnostiskt ingrepp på perifer nerv
+
+@END = 
+
+@KOODI_A = ACB
+
+@NCSP_A = ACSB
+
+@SUOMI_A = Ääreishermojen paikallisten muutosten leikkaukset
+
+@RUOTSI_A = Operationer p.g.a.patologisk förändring eller skada på perifera nerver
+
+@ENGL_A = Operations for lesion of peripheral nerves
+
+@END = 
+
+@KOODI = ACB11 
+
+@NCSP = ACSB11
+
+@SUOMI = Keskihermon paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från n. medianus
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB12 
+
+@NCSP = ACSB12
+
+@SUOMI = Värttinähermon paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från n. radialis
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB13 
+
+@NCSP = ACSB13
+
+@SUOMI = Kyynärhermon paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från n. ulnaris
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB14 
+
+@NCSP = ACSB14
+
+@SUOMI = Pohjehermon paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från n. peroneus
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB15 
+
+@NCSP = ACSB15
+
+@SUOMI = Säärihermon paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från n. tibialis
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB16 
+
+@NCSP = ACSB16
+
+@SUOMI = Iskiashermon paikallisen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från n ischiadicus
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB17 
+
+@NCSP = ACSB17
+
+@SUOMI = Lantiohermopunoksen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från plexus lumbalis
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB18 
+
+@NCSP = ACSB18
+
+@SUOMI = Hartiahermopunoksen muutoksen poisto
+
+@RUOTSI = Exstirpation av patologisk förändring från plexus brachialis
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB19 
+
+@NCSP = ACSB19
+
+@SUOMI = Ääreishermon paikallisen muutoksen poisto, muu tai määrittämätön hermo
+
+@RUOTSI = Exstirpation av patologisk förändring från annan eller ospecificerad nerv
+
+@NOTE_F = Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+
+@NOTE_S = Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = ACB21 
+
+@NCSP = ACSB21
+
+@SUOMI = Keskihermon ompelu
+
+@RUOTSI = Sutur av n. medianus
+
+@END = 
+
+@KOODI = ACB22 
+
+@NCSP = ACSB22
+
+@SUOMI = Värttinähermon ompelu
+
+@RUOTSI = Sutur av n. radialis
+
+@END = 
+
+@KOODI = ACB23 
+
+@NCSP = ACSB23
+
+@SUOMI = Kyynärhermon ompelu
+
+@RUOTSI = Sutur av n. ulnaris
+
+@END = 
+
+@KOODI = ACB24 
+
+@NCSP = ACSB24
+
+@SUOMI = Pohjehermon ompelu
+
+@RUOTSI = Sutur av n. peroneus
+
+@END = 
+
+@KOODI = ACB25 
+
+@NCSP = ACSB25
+
+@SUOMI = Säärihermon ompelu
+
+@RUOTSI = Sutur av n. tibialis
+
+@END = 
+
+@KOODI = ACB26 
+
+@NCSP = ACSB26
+
+@SUOMI = Iskiashermon ompelu
+
+@RUOTSI = Sutur av perifer n ischiadicus
+
+@END = 
+
+@KOODI = ACB27 
+
+@NCSP = ACSB27
+
+@SUOMI = Lantiohermopunoksen ompelu
+
+@RUOTSI = Sutur av plexus lumbalis
+
+@END = 
+
+@KOODI = ACB28 
+
+@NCSP = ACSB28
+
+@SUOMI = Hartiahermopunoksen ompelu
+
+@RUOTSI = Sutur av plexus brachialis
+
+@END = 
+
+@KOODI = ACB29 
+
+@NCSP = ACSB29
+
+@SUOMI = Ääreishermon ompelu, muu tai määrittämätön hermo
+
+@RUOTSI = Sutur av annan eller ospecificerad nerv
+
+@END = 
+
+@KOODI = ACB91 
+
+@NCSP = ACSB91
+
+@SUOMI = Muu keskihermon paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på n. medianus
+
+@END = 
+
+@KOODI = ACB92 
+
+@NCSP = ACSB92
+
+@SUOMI = Muu värttinähermon paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på n. radialis
+
+@END = 
+
+@KOODI = ACB93 
+
+@NCSP = ACSB93
+
+@SUOMI = Muu kyynärhermon paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på n. ulnaris
+
+@END = 
+
+@KOODI = ACB94 
+
+@NCSP = ACSB94
+
+@SUOMI = Muu pohjehermon paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på n. peroneus
+
+@END = 
+
+@KOODI = ACB95 
+
+@NCSP = ACSB95
+
+@SUOMI = Muu säärihermon paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på n. tibialis
+
+@END = 
+
+@KOODI = ACB96 
+
+@NCSP = ACSB96
+
+@SUOMI = Muu iskiashermon paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på n ischiadicus
+
+@END = 
+
+@KOODI = ACB97 
+
+@NCSP = ACSB97
+
+@SUOMI = Muu lantiohermopunoksen paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på plexus lumbalis
+
+@END = 
+
+@KOODI = ACB98 
+
+@NCSP = ACSB98
+
+@SUOMI = Muu hartiahermopunoksen paikallisen muutoksen leikkaus
+
+@RUOTSI = Annan operation p g a patologisk förändring eller skada på plexus brachialis
+
+@END = 
+
+@KOODI = ACB99 
+
+@NCSP = ACSB99
+
+@SUOMI = Muu ääreishermon leikkaus paikallisen muutoksen takia
+
+@RUOTSI = Annan operation p.g.a.patologisk förändring eller skada på perifer nerv
+
+@END = 
+
+@KOODI_A = ACC
+
+@NCSP_A = ACSC
+
+@SUOMI_A = Ääreishermojen toimintahäiriöiden korjaukset
+
+@RUOTSI_A = Operationer på perifera nerver p.g.a.funktionella rubbningar
+
+@ENGL_A = Operations for impaired function of peripheral nerves
+
+@END = 
+
+@KOODI = ACC11 
+
+@NCSP = ACSC11
+
+@SUOMI = Keskihermon katkaisu
+
+@RUOTSI = Avskärning av n. medianus
+
+@END = 
+
+@KOODI = ACC12 
+
+@NCSP = ACSC12
+
+@SUOMI = Värttinähermon katkaisu
+
+@RUOTSI = Transcision av n. radialis
+
+@END = 
+
+@KOODI = ACC13 
+
+@NCSP = ACSC13
+
+@SUOMI = Kyynärhermon katkaisu
+
+@RUOTSI = Avskärning av n. ulnaris
+
+@END = 
+
+@KOODI = ACC14 
+
+@NCSP = ACSC14
+
+@SUOMI = Pohjehermon katkaisu
+
+@RUOTSI = Avskärning av n. peroneus
+
+@END = 
+
+@KOODI = ACC15 
+
+@NCSP = ACSC15
+
+@SUOMI = Säärihermon katkaisu
+
+@RUOTSI = Avskärning av n. tibialis
+
+@END = 
+
+@KOODI = ACC16 
+
+@NCSP = ACSC16
+
+@SUOMI = Iskiashermon katkaisu
+
+@RUOTSI = Avskärning av n ischiadicus
+
+@END = 
+
+@KOODI = ACC17 
+
+@NCSP = ACSC17
+
+@SUOMI = Lantiohermopunoksen katkaisu
+
+@RUOTSI = Avskärning av plexus lumbalis
+
+@END = 
+
+@KOODI = ACC18 
+
+@NCSP = ACSC18
+
+@SUOMI = Hartiahermopunoksen katkaisu
+
+@RUOTSI = Avskärning av plexus brachialis
+
+@END = 
+
+@KOODI = ACC19 
+
+@NCSP = ACSC19
+
+@SUOMI = Ääreishermon katkaisu, muu tai määrittämätön hermo
+
+@RUOTSI = Avskärning av perifer annan eller ospecificerad nerv
+
+@NOTE_F = Esim. toimintahäiriön takia
+
+@NOTE_S = exempelvis vid funktionsrubbning
+
+@END = 
+
+@KOODI = ACC21 
+
+@NCSP = ACSC21
+
+@SUOMI = Keskihermon korjaaminen
+
+@RUOTSI = Rekonstruktion av n. medianus
+
+@END = 
+
+@KOODI = ACC22 
+
+@NCSP = ACSC22
+
+@SUOMI = Värttinähermon korjaaminen
+
+@RUOTSI = Rekonstruktion av n. radialis
+
+@END = 
+
+@KOODI = ACC23 
+
+@NCSP = ACSC23
+
+@SUOMI = Kyynärhermon korjaaminen
+
+@RUOTSI = Rekonstruktion av n. ulnaris
+
+@END = 
+
+@KOODI = ACC24 
+
+@NCSP = ACSC24
+
+@SUOMI = Pohjehermon korjaaminen
+
+@RUOTSI = Rekonstruktion av n. peroneus
+
+@END = 
+
+@KOODI = ACC25 
+
+@NCSP = ACSC25
+
+@SUOMI = Säärihermon korjaaminen
+
+@RUOTSI = Rekonstruktion av n. tibialis
+
+@END = 
+
+@KOODI = ACC26 
+
+@NCSP = ACSC26
+
+@SUOMI = Iskiashermon korjaaminen
+
+@RUOTSI = Rekonstruktion av n ischiadicus
+
+@END = 
+
+@KOODI = ACC27 
+
+@NCSP = ACSC27
+
+@SUOMI = Lantiohermopunoksen korjaaminen
+
+@RUOTSI = Rekonstruktion av plexus lumbalis
+
+@END = 
+
+@KOODI = ACC28 
+
+@NCSP = ACSC28
+
+@SUOMI = Hartiahermopunoksen korjaaminen
+
+@RUOTSI = Rekonstruktion av plexus brachialis
+
+@END = 
+
+@KOODI = ACC29 
+
+@NCSP = ACSC29
+
+@SUOMI = Ääreishermon korjaaminen, muu tai määrittämätön hermo
+
+@RUOTSI = Rekonstruktion av annan eller ospecificerad nerv
+
+@NOTE_F = Esim. siirrettä käyttäen
+
+@NOTE_F =
+Yksinkertainen ompelu, katso ACB29
+
+@NOTE_S = T.ex. medels nervtransplantat
+
+@NOTE_S =
+Enkel neurorafi, se ACB29
+
+@END = 
+
+@KOODI = ACC41 
+
+@NCSP = ACSC41
+
+@SUOMI = Keskihermon siirto uuteen tehtävään
+
+@RUOTSI = Transposition av n. medianus
+
+@END = 
+
+@KOODI = ACC42 
+
+@NCSP = ACSC42
+
+@SUOMI = Värttinähermon siirto uuteen tehtävään
+
+@RUOTSI = Transposition av n. radialis
+
+@END = 
+
+@KOODI = ACC43 
+
+@NCSP = ACSC43
+
+@SUOMI = Kyynärhermon siirto uuteen tehtävään
+
+@RUOTSI = Transposition av n. ulnaris
+
+@END = 
+
+@KOODI = ACC44 
+
+@NCSP = ACSC44
+
+@SUOMI = Pohjehermon siirto uuteen tehtävään
+
+@RUOTSI = Transposition av n. peroneus
+
+@END = 
+
+@KOODI = ACC45 
+
+@NCSP = ACSC45
+
+@SUOMI = Säärihermon siirto uuteen tehtävään
+
+@RUOTSI = Transposition av n. tibialis
+
+@END = 
+
+@KOODI = ACC46 
+
+@NCSP = ACSC46
+
+@SUOMI = Iskiashermon siirto uuteen tehtävään
+
+@RUOTSI = Transposition av n ischiadicus
+
+@END = 
+
+@KOODI = ACC47 
+
+@NCSP = ACSC47
+
+@SUOMI = Lantiohermopunoksen siirto uuteen tehtävään
+
+@RUOTSI = Transposition av plexus lumbalis
+
+@END = 
+
+@KOODI = ACC48 
+
+@NCSP = ACSC48
+
+@SUOMI = Hartiahermopunoksen siirto uuteen tehtävään
+
+@RUOTSI = Transposition av plexus brachialis
+
+@END = 
+
+@KOODI = ACC49 
+
+@NCSP = ACSC49
+
+@SUOMI = Ääreishermon siirto uuteen tehtävään, muu tai määrittämätön hermo
+
+@RUOTSI = Transposition av annan eller ospecificerad nerv
+
+@END = 
+
+@KOODI = ACC51 
+
+@NCSP = ACSC51
+
+@SUOMI = Keskihermon vapautus
+
+@RUOTSI = Dekompression av n. medianus
+
+@END = 
+
+@KOODI = ACC52 
+
+@NCSP = ACSC52
+
+@SUOMI = Värttinähermon vapautus
+
+@RUOTSI = Dekompression av n. radialis
+
+@END = 
+
+@KOODI = ACC53 
+
+@NCSP = ACSC53
+
+@SUOMI = Kyynärhermon vapautus
+
+@RUOTSI = Dekompression av n. ulnaris
+
+@END = 
+
+@KOODI = ACC54 
+
+@NCSP = ACSC54
+
+@SUOMI = Pohjehermon vapautus
+
+@RUOTSI = Dekompression av n. peroneus
+
+@END = 
+
+@KOODI = ACC55 
+
+@NCSP = ACSC55
+
+@SUOMI = Säärihermon vapautus
+
+@RUOTSI = Dekompression av n. tibialis
+
+@END = 
+
+@KOODI = ACC56 
+
+@NCSP = ACSC56
+
+@SUOMI = Iskiashermon vapautus
+
+@RUOTSI = Dekompression av n ischiadicus
+
+@END = 
+
+@KOODI = ACC57 
+
+@NCSP = ACSC57
+
+@SUOMI = Lantiohermopunoksen vapautus
+
+@RUOTSI = Dekompression av plexus lumbalis
+
+@END = 
+
+@KOODI = ACC58 
+
+@NCSP = ACSC58
+
+@SUOMI = Hartiahermopunoksen vapautus
+
+@RUOTSI = Dekompression av plexus brachialis
+
+@END = 
+
+@KOODI = ACC59 
+
+@NCSP = ACSC59
+
+@SUOMI = Ääreishermon vapautus, muu tai määrittämätön hermo
+
+@RUOTSI = Dekompression av annan eller ospecificerad nerv
+
+@NOTE_F = Sisältää kiinnikkeiden irroittelun
+
+@NOTE_S = Inkl adherenslösning
+
+@END = 
+
+@KOODI = ACC91 
+
+@NCSP = ACSC91
+
+@SUOMI = Muu keskihermon vaurion leikkaus
+
+@RUOTSI = Annan operation på n. medianus p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC92 
+
+@NCSP = ACSC92
+
+@SUOMI = Muu värttinähermon vaurion leikkaus
+
+@RUOTSI = Annan operation på n. radialis p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC93 
+
+@NCSP = ACSC93
+
+@SUOMI = Muu kyynärhermon vaurion leikkaus
+
+@RUOTSI = Annan operation på n. ulnaris p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC94 
+
+@NCSP = ACSC94
+
+@SUOMI = Muu pohjehermon vaurion leikkaus
+
+@RUOTSI = Annan operation på n. peroneus p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC95 
+
+@NCSP = ACSC95
+
+@SUOMI = Muu säärihermon vaurion leikkaus
+
+@RUOTSI = Annan operation på n. tibialis p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC96 
+
+@NCSP = ACSC96
+
+@SUOMI = Muu iskiashermon vaurion leikkaus
+
+@RUOTSI = Annan operation på n ischiadicus p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC97 
+
+@NCSP = ACSC97
+
+@SUOMI = Muu lantiohermopunoksen vaurion leikkaus
+
+@RUOTSI = Annan operation på plexus lumbalis p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC98 
+
+@NCSP = ACSC98
+
+@SUOMI = Muu hartiahermopunoksen vaurion leikkaus
+
+@RUOTSI = Annan operation på plexus brachialis p g a funktionella rubbningar
+
+@END = 
+
+@KOODI = ACC99 
+
+@NCSP = ACSC99
+
+@SUOMI = Muu ääreishermon  vaurion leikkaus, muu tai määrittämätön hermo
+
+@RUOTSI = Annan operation på annan eller ospecificerad nerv p g a funktionella rubbningar
+
+@END = 
+
+@KOODI_A = ACW
+
+@NCSP_A = ACSW
+
+@SUOMI_A = Muut ääreishermojen leikkaukset
+
+@RUOTSI_A = Andra operationer på perifera nerver
+
+@ENGL_A = Other operations on peripheral nerves
+
+@END = 
+
+@KOODI = ACW99 
+
+@NCSP = ACSW99
+
+@SUOMI = Muu ääreishermon leikkaus
+
+@RUOTSI = Annan operation på perifer nerv
+
+@END = 
+
+@KOODI_A = AC_
+
+@NCSP_A = ACX
+
+@SUOMI_A = Muut ääreishermoston toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på perifera nerver
+
+@ENGL_A = Other peripheral nerve procedures
+
+@END = 
+
+@KOODI = AC1AT 
+
+@NCSP = ACX000
+
+@SUOMI = Hermon salpaus UÄ-ohjauksessa
+
+@RUOTSI = Nervblockad, UL-styrd
+
+@END = 
+
+@KOODI = AC1BT 
+
+@NCSP = ACX000
+
+@SUOMI = Hermon salpaus läpivalaisuohjauksessa
+
+@RUOTSI = Nervblockad, genomlysningsstyrd
+
+@END = 
+
+@KOODI = AC1CT 
+
+@NCSP = ACX000
+
+@SUOMI = Hermon salpaus TT-ohjauksessa
+
+@RUOTSI = Nervblockad, DT-styrd
+
+@END = 
+
+@KOODI = AC1DT 
+
+@NCSP = ACX000
+
+@SUOMI = Hermon salpaus magneettiohjauksessa
+
+@RUOTSI = Nervblockad, MR-styrd
+
+@END = 
+
+@KOODI = TAC00 
+
+@NCSP = ACX000
+
+@SUOMI = Kivun hoito ääreishermon salpauksella
+
+@RUOTSI = Blockad av perifer nerv i kronisk smärta
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se  AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAC02 
+
+@NCSP = ACX000
+
+@SUOMI = Kivun hoito kylkiluunvälihermojen salpauksella
+
+@RUOTSI = Interkostalblockad i kronisk smärta
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAC99 
+
+@NCSP = ACX009
+
+@SUOMI = Muu puudutustoimenpide kroonisen kivun hoidossa
+
+@RUOTSI = Annan bedövning för kronisk smärta
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI_R = AD
+
+@SUOMI_R = Autonominen hermosto
+
+@RUOTSI_R = Autonomt nervsystem
+
+@ENGL_R = Autonomic nervous system
+
+@NOTE_RF = Kemialliset sympatektomiat kohdassa TAD
+
+@NOTE_RS = Kemisk sympatektomi, se TAD
+
+@END = 
+
+@KOODI_A = AD_
+
+@NCSP_A = ADF
+
+@SUOMI_A = Autonomisen hermoston diagnostiset toimenpiteet
+
+@RUOTSI_A = Undersökningar i autonom nervsystem
+
+@ENGL_A = Diagnostic procedures of autonomous nervous system
+
+@END = 
+
+@KOODI = XAD00 
+
+@NCSP = ADFD00
+
+@SUOMI = Autonomisen hermoston testi
+
+@RUOTSI = Autonoma nervsystemets funktionstest
+
+@END = 
+
+@KOODI_A = ADA
+
+@NCSP_A = ADSA
+
+@SUOMI_A = Sympaattisten hermojen leikkaukset
+
+@RUOTSI_A = Operationer på sympatiska nerver
+
+@ENGL_A = Operations on sympathetic nerves
+
+@END = 
+
+@KOODI = ADA10 
+
+@NCSP = ADSA10
+
+@SUOMI = Kaulatason sympatektomia
+
+@RUOTSI = Cervikal sympatektomi
+
+@END = 
+
+@KOODI = ADA20 
+
+@NCSP = ADSA20
+
+@SUOMI = Rintatason sympatektomia
+
+@RUOTSI = Torakal sympatektomi
+
+@END = 
+
+@KOODI = ADA30 
+
+@NCSP = ADSA30
+
+@SUOMI = Lannetason sympatektomia
+
+@RUOTSI = Lumbal sympatektomi
+
+@END = 
+
+@KOODI = ADA99 
+
+@NCSP = ADSA99
+
+@SUOMI = Muu sympaattisten hermojen leikkaus
+
+@RUOTSI = Annan operation på sympatiska nervsystemet
+
+@END = 
+
+@KOODI_A = ADB
+
+@NCSP_A = ADSB
+
+@SUOMI_A = Kiertäjähermon  (vagushermon) toimenpiteet
+
+@RUOTSI_A = Operationer på nervi vagi
+
+@ENGL_A = Operations on vagus nerve
+
+@END = 
+
+@KOODI = ADB00 
+
+@NCSP = ADSB00
+
+@SUOMI = Vagushermoa stimuloivan laitteen asentaminen
+
+@RUOTSI = Implantation av vagus nerve stimulerande apparat
+
+@NOTE_F = Impulssigeneraattorin vaihto tai laitteen poisto, katso AEA
+
+@NOTE_S = Utbyte av impulssigenerattor eller uttagning av aparatet, se AEA
+
+@END = 
+
+@KOODI_A = ADW
+
+@NCSP_A = ADSW
+
+@SUOMI_A = Muut autonomisen hermoston leikkaukset
+
+@RUOTSI_A = Andra operationer på autonoma nervsystemet
+
+@ENGL_A = Other operations on autonomic nervous system
+
+@NOTE_RF = Vagushermon katkaisu (vagotomia) kohdassa JDG
+
+@NOTE_RS = Vagotomi, se JDG
+
+@END = 
+
+@KOODI = ADW99 
+
+@NCSP = ADSW99
+
+@SUOMI = Muu autonomisen hermoston leikkaus
+
+@RUOTSI = Annan operation på autonoma nervsystemet
+
+@END = 
+
+@KOODI_A = AD_
+
+@NCSP_A = ADX
+
+@SUOMI_A = Muut autonomisen hermoston toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på autonoma nervsystemet
+
+@ENGL_A = Other procedures on autonomic nervous system
+
+@END = 
+
+@KOODI = TAD02 
+
+@NCSP = ADXX02
+
+@SUOMI = Sympaattisen hermoston salpaus tähtipunoksessa
+
+@RUOTSI = Sympathicus-blockad i ganglion stellatum
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAD04 
+
+@NCSP = ADXX04
+
+@SUOMI = Sympaattisen hermoston salpaus keliakuspunoksessa
+
+@RUOTSI = Sympathicus-blockad i ganglion coeliacum
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se  AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAD06 
+
+@NCSP = ADXX06
+
+@SUOMI = Sympaattisen hermoston salpaus lannerangan tasolla
+
+@RUOTSI = Sympathicus-blockad i lumbal nivå
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAD08 
+
+@NCSP = ADXX08
+
+@SUOMI = Sympaattisen hermoston salpaus ristiluun tasolla
+
+@RUOTSI = Sympathicus-blockad i sakral nivå
+
+@NOTE_F = Salpaus radiologista menetelmää hyödyntäen, katso AC1AT, AC1BT, AC1CT tai AC1DT (radiologian luokitus)
+
+@NOTE_S = Blockad med hjälp av radiologisk metod, se AC1AT, AC1BT, AC1CT eller AC1DT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = TAD10 
+
+@NCSP = ADXX10
+
+@SUOMI = Sympaattisen hermoston yleinen salpaus
+
+@RUOTSI = Allmän sympathicus-blockad
+
+@NOTE_F = Käyttäen suonensisäistä lääkeainetta
+
+@NOTE_F =
+Esim. guanetidiini-salpaus
+
+@NOTE_S = Med intravenöst läkemedel
+
+@NOTE_S =
+T.ex. guanetidin-blockad
+
+@END = 
+
+@KOODI_R = AE
+
+@SUOMI_R = Muut hermojärjestelmän toimenpiteet
+
+@RUOTSI_R = Andra åtgärder på nervsystemet
+
+@ENGL_R = Miscellaneous operations on the nervous system
+
+@END = 
+
+@KOODI_A = AEA
+
+@NCSP_A = AESA
+
+@SUOMI_A = Hermostoon ärsykkeitä ja injektioita antaviin laitteisiin kohdistuvat toimenpiteet
+
+@RUOTSI_A = Operationer på nervstimulerande och injektionsapparater
+
+@ENGL_A = Operations on stimulation and injection devices in the nervous system
+
+@NOTE_RF = Sisältää ärsykkeitä ja injektioita antavat laitteet kohdista AAA, AAG, AAW, ABD ja ADB
+
+@NOTE_RS = Innefattar apparater från grupperna AAA, AAG, AAW, ABD och ADB
+
+@END = 
+
+@KOODI = AEA00 
+
+@NCSP = AESA00
+
+@SUOMI = Hermostoärsykkeitä antavan laitteen impulssigeneraattorin vaihto
+
+@RUOTSI = Utbyte av impulsgenerator för nervsystem stimulerande apparat
+
+@END = 
+
+@KOODI = AEA20 
+
+@NCSP = AESA20
+
+@SUOMI = Hermostoäsykkeitä antavan laitteen impulssigeneraattorin poisto
+
+@RUOTSI = Uttagning av impulsgenererator för nervsystem stimulerade apparat
+
+@END = 
+
+@KOODI = AEA23 
+
+@NCSP = AESA23
+
+@SUOMI = Kallonsisäisen elektrodin poisto
+
+@RUOTSI = Uttagning av intrakraniel elektrod
+
+@END = 
+
+@KOODI = AEA24 
+
+@NCSP = AESA24
+
+@SUOMI = Selkäydintä stimuloivan elektrodin poisto
+
+@RUOTSI = Uttagning av spinal stimulerande elektrod
+
+@END = 
+
+@KOODI = AEA25 
+
+@NCSP = AESA29
+
+@SUOMI = Vagushermoärsytystä antavan elektrodin poisto
+
+@RUOTSI = Uttagning av vagus nerve stimulerande elektrod
+
+@END = 
+
+@KOODI = AEA30 
+
+@NCSP = AESA30
+
+@SUOMI = Kudoksen sisään asennetun keskushermoston injektiolaitteen pumpun vaihto
+
+@RUOTSI = Utbyte av implanterad pump av injektionsapparat i nervsystemet
+
+@END = 
+
+@KOODI = AEA40 
+
+@NCSP = AESA40
+
+@SUOMI = Kudoksen sisään asennetun keskushermoston injektiolaitteen pumpun poisto
+
+@RUOTSI = Uttagning av implanterad pump av injektionsapparat i nervsystemet
+
+@END = 
+
+@KOODI = AEA43 
+
+@NCSP = AESA43
+
+@SUOMI = Kallonsisäisen hermoston injektiolaitteen katetrin poisto
+
+@RUOTSI = Uttagning av intrakraniel kateter av injektionsapparat i nervsystemet
+
+@END = 
+
+@KOODI = AEA44 
+
+@NCSP = AESA44
+
+@SUOMI = Selkäytimen injektiolaitteen katetrin poisto
+
+@RUOTSI = Uttagning av kateter av spinal injektionsapparat
+
+@END = 
+
+@KOODI_A = AE_
+
+@NCSP_A = AEX
+
+@SUOMI_A = Sähköstimulaatio ja sähköshokki
+
+@RUOTSI_A = Elektrisk stimulation och shock
+
+@END = 
+
+@KOODI = TA100 
+
+@NCSP = AEX100
+
+@SUOMI = Transkutaaninen sähköinen hermostimulaatio
+
+@RUOTSI = Transkutan elektrisk nervstimulation
+
+@END = 
+
+@KOODI = AA400 
+
+@NCSP = AEX400
+
+@SUOMI = Sähköshokki psyykisen sairauden hoitona
+
+@RUOTSI = Elektrokonvulsiv terapi (ECT)
+
+@END = 
+
+@KOODI_R = AW
+
+@SUOMI_R = Hermoston leikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer för sårkomplikationer av neurokirurgi
+
+@ENGL_R = Reoperations for postoperative complications in neurosurgery
+
+@END = 
+
+@KOODI = AWB00 
+
+@NCSP = AWSB00
+
+@SUOMI = Auenneen tai tulehtuneen hermoston leikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av dehiscens eller infektion i operationssår (neuro-operation)
+
+@END = 
+
+@KOODI = AWC00 
+
+@NCSP = AWSC00
+
+@SUOMI = Hermostoleikkauksen uusintaleikkaus hermoston syvän haavainfektion vuoksi
+
+@RUOTSI = Reoperation för djup infektion efter neuro-operation
+
+@END = 
+
+@KOODI = AWE00 
+
+@NCSP = AWSE00
+
+@SUOMI = Hermostoleikkauksen uusintaleikkaus haavaontelon vuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter neuro-operation
+
+@END = 
+
+@KOODI = AWW99 
+
+@NCSP = AWSW99
+
+@SUOMI = Muu hermostoleikkauksen haavakomplikaatioleikkaus
+
+@RUOTSI = Annat ingrepp för sårkomplikation efter neuro-operation
+
+@END = 
+
+@KOODI_R = AX
+
+@SUOMI_R = Tarkemmin paikantamattomat hermoston toimenpiteet
+
+@RUOTSI_R = Åtgärder i nervsystemet utan närmare lokalisation
+
+@ENGL_R = Other neurological procedures
+
+@END = 
+
+@KOODI_A = ___
+
+@NCSP_A = AXD
+
+@SUOMI_A = Pään ja kaulan alueen sädehoidon annossuunnittelukuvaus
+
+@RUOTSI_A = Huvud- och halsregionens dosplanering med radiologisk avbildning
+
+@ENGL_A = Head and neck radiologal examination for dose design of radiotherapy
+
+@END = 
+
+@KOODI = YA1AD 
+
+@NCSP = AXDD1V
+
+@SUOMI = Pään ja kaulan annossuunnittelu-TT
+
+@RUOTSI = Huvud- och halsregionens DT för dosplanering
+
+@END = 
+
+@KOODI = YA1BD 
+
+@NCSP = AXDD1V
+
+@SUOMI = Pään ja kaulan laaja annossuunnittelu-TT
+
+@RUOTSI = Huvud- och halsregionens omfattande DT för dosplanerings
+
+@END = 
+
+@KOODI = YA1VF 
+
+@NCSP = AXDG1V
+
+@SUOMI = Pään ja kaulan sädehoidon annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = Huvud- och halsregion, MR för dosplanering, mellanfältsmagnet
+
+@END = 
+
+@KOODI = YA1VG 
+
+@NCSP = AXDG1V
+
+@SUOMI = Pään ja kaulan sädehoidon annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = Huvud- och halsregion, MR för dosplanering, högfältsmagnet
+
+@END = 
+
+@KOODI_A = AX0
+
+@NCSP_A = AXO
+
+@SUOMI_A = Hermoston laaja-alainen sädehoito
+
+@RUOTSI_A = Utvigd strålbehandling av nervsystemet
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = AX099 
+
+@NCSP = AXO099
+
+@SUOMI = Koko keskushermoston sädehoito
+
+@RUOTSI = Strålbehandling av hela centrala nervsystemet
+
+@END = 
+
+@KOODI_A = AXX
+
+@NCSP_A = AXX
+
+@SUOMI_A = Muut hermoston pientoimenpiteet
+
+@RUOTSI_A = Andra mindre åtgärder i nervsystemet
+
+@ENGL_A = Other minor neurological procedures
+
+@END = 
+
+@KOODI = AXX90 
+
+@NCSP = AXXX90
+
+@SUOMI = Suonensisäinen  kipulääketesti
+
+@RUOTSI = Intravaskulär testning av smärtelindrande läkemedel
+
+@NOTE_F = Osana kipupotilaan hoitoa
+
+@NOTE_S = Hos patient med kronisk smärta
+
+@END = 
+
+@KOODI = TAW99 
+
+@NCSP = AXXX99
+
+@SUOMI = Muu hermoston pientoimenpide
+
+@RUOTSI = Annan mindre åtgärd i nervsystemet
+
+@END = 

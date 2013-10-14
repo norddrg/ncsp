@@ -1,0 +1,5937 @@
+
+###
+#KOODI_L    R
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutuspalvelut
+#RUOTSI     Rehabilitations service
+#ENGL       Rehabilitation services
+###
+#KOODI_R    R1
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutustarpeen ja -mahdollisuuksien arviointi
+#RUOTSI     Uppskattning av rehabilitationsbehov och -potential
+#ENGL       Evaluation of the need and prospects for rehabilitation
+###
+#KOODI      R1100 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisarvio kuntoutustarpeesta
+#RUOTSI     Allmän bedömning av rehabiliteringsbehovet
+#LYHENNE    Yleisarvio kuntoutustarpeesta
+#OHJE_S  
+Kuntoutustyötä tekevän orientoiva kartoitus ja yleisarvio kuntoutustarpeesta kuntoutuksen vireillepanoksi, kuntoutuksen käynnistämiseksi, alustavan kuntoutussuunnitelman laatimiseksi tai tilanteen tarkistamiseksi.
+Sisältää alustavan kuntoutusta koskevan lausunnon.
+Ei sisällä  (laajempaa) kuntoutussuunnitelmaa (R1400), jossa tehdään kokonaisvaltainen pitkäntähtäimen kuntoutussuunnitelma.
+#OHJE_R 
+En orienterande kartläggning och allmän bedömning av rehabiliteringsbehovet, gjord av en person som arbetar med rehabilitering. Utgående från denna kartläggning och bedömning kan en preliminär rehabiliteringsplan uppgöras eller en granskning av
+situationen utföras.
+Underklassen innehåller också ett preliminärt utlåtande om rehabiliteringsbehovet.
+När en övergripande rehabiliteringsplan för en längre period uppgörs tillämpas klass R1400
+###
+#KOODI      R1210 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lääketieteellinen arvio kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     Medicinsk bedömning av behov och möjligheter till rehabilitering
+#LYHENNE    Lääketieteellinen arvio
+#OHJE_S  
+Lääketieteelliseen tutkimukseen perustuva arvio, jossa selvitetään, miten sairaus tai vamma vaikuttaa ja tulee todennäköisesti vaikuttamaan tutkittavan toiminta-, oppimis- ja työkykyyn sekä kuntoutumismahdollisuuksiin.
+#OHJE_R 
+Bedömning som grundar sig på en medicinsk undersökning. Vid undersökningen utreds, hur en sjukdom eller ett handikapp inverkar och sannolikt kommer att inverka  på rehabilitandens funktions-, inlärnings- och arbetsförmåga samt på
+rehabiliteringsmöjligheterna.
+###
+#KOODI      R1220 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     Psykologisk bedömning av behov och möjligheter till rehabilitering
+#LYHENNE    Psykologinen arvio
+#OHJE_S  
+Psykologiseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan psyykkiset rajoitukset, edellytykset sekä motivaatio työntekoon, koulutukseen ja kuntoutukseen, sekä arviot tarvittavista oman elämän hallintaa tukevista kuntoutustoimenpiteistä.
+#OHJE_R 
+En bedömning som grundar sig på en psykologisk undersökning. Vid undersökningen utreds rehabilitandens psykiska begränsningar, förutsättningar och motivation att arbeta, utbilda sig och rehabiliteras samt rehabiliteringsåtgärder som behövs för att stöda
+rehabilitandens möjligheter att leva ett självständigt liv.
+###
+#KOODI      R1230 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuropsykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     Neuropsykologisk bedömning av behov och möjligheter till rehabilitering
+#LYHENNE    Neuropsykologinen arvio
+#OHJE_S  
+Neuropsykologiseen tutkimukseen perustuva arvio, jossa selvitetään aivosairauteen ja -vaurioon liittyvien henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden merkitys tutkittavan työ- ja toimintakykyyn ja kuntoutumismahdollisuuksiin.
+#OHJE_R 
+En bedömning som grundar sig på en neuropsykologisk undersökning. Vid undersökningen utreds betydelsen av allmänna och speciella störningar som uppstår i de andliga funktionerna i anslutning till hjärnsjukdomar och -skador för rehabilitandens
+rehabiliteringsmöjligheter.
+###
+#KOODI      R1240 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalinen arvio kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     Social bedömning av behov och möjligheter till rehabilitering
+#LYHENNE    Sosiaalinen arvio
+#OHJE_S  
+Sosiaaliseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan sosiaalinen tausta ja nykytilanne sekä arvioidaan kuntoutumisen edellyttämät sosiaaliturvaratkaisut ja muiden elämänhallintaa tukevien toimenpiteiden tarve.
+#OHJE_R 
+En bedömning som grundar sig på en social undersökning. Vid undersökningen utreds rehabilitandens sociala bakgrund och sociala situation samt utvärderas de socialskyddslösningar som rehabiliteringen förutsätter samt behov av andra åtgärder som befrämjar
+och stödjer den sociala funktionsförmågan.
+###
+#KOODI      R1250 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakyvyn arviointi
+#RUOTSI     Utvärdering av funktionsförmågan
+#LYHENNE    Toimintakyvyn arvio
+#OHJE_S  
+Fysio- ja toimintaterapeuttiseen tutkimukseen perustuva tai muu asiantuntija-arvio, jossa selvitetään tutkittavan toimintakyvyn vahvuudet ja rajoitukset sekä toiminnalliset valmiudet. Sisältää tarpeen mukaan fyysisen suorituskyvyn ja liikkumisen
+arvioinnin sekä päivittäisissä toimissa, työssä ja asuin- sekä elinympäristössä selviytymisen arvioinnin.
+#OHJE_R 
+En på fysio- eller ergoterapeutisk undersökning baserad undersökning eller annan expertbedömning, i vilken rehabilitandens starka sidor och begränsningar samt funktionella färdigheter utreds. Underklassen innehåller vid behov en utvärdering av den fysiska 
+prestations- och rörelseförmågan samt en utvärdering av hur rehabilitanden klarar av dagliga sysslor, klarar sig i arbetet eller i boende- och levnadsmiljön.
+###
+#KOODI      R1260 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatiokyvyn arviointi
+#RUOTSI     Utvärdering av kommunikationsförmågan
+#LYHENNE    Kommunikaatiokyvyn arvio
+#OHJE_S  
+Asiantuntijoiden tutkimukseen perustuva arvio, jossa selvitetään tutkittavan vuorovaikutustaitoihin ja sosiaaliseen kommunikointiin vaikuttavat kielen, puheen, äänen, kuulon ja näön rajoitukset ja häiriöt. Tutkimusten pohjalta selvitetään kuntoutuksen
+edellytykset ja mahdollisuudet.
+#OHJE_R 
+En på experters undersökningar baserad bedömning, i vilken utreds, hur rehabilitandens begränsningar i kommunikation och i social interaktion påverkas av språk-, tal-, röst-, hörsel- och synbegränsningar och -störningar. Utgående från undersökningarna
+utreds förutsättningarna för och möjligheterna till rehabilitering.
+###
+#KOODI      R1270 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatuksellisen kuntoutuksen tarpeen arviointi
+#RUOTSI     Utvärdering av behovet av fostrande rehabilitering
+#LYHENNE    Kasvatuksellinen kuntoutustarpeen arvio
+#OHJE_S  
+Opetuksen ja kasvatuksen asiantuntijoiden arvio tutkittavan oppimisen edellytyksistä ja erityisopetuksen tarpeesta.
+#OHJE_R 
+Undervisnings- och uppfostringsexperters bedömning av rehabilitandens förutsättningar för inlärning och behov av specialundervisning.
+###
+#KOODI      R1280 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammatillisen kuntoutuksen tarpeen arviointi
+#RUOTSI     Utvärdering av behovet av yrkesinriktad rehabilitering
+#LYHENNE    Ammatillisen kuntoutuksen tarpeen arvio
+#OHJE_S  
+Asiantuntijan arvio tutkittavan mahdollisuuksista ja tarvittavista toimenpiteistä työllistyä, selviytyä nykyisessä työssään tai siirtyä uusiin tehtäviin. Arvioijina muun muassa erityistyövoimaneuvojat, kuntoutusohjaajat tai työklinikat.
+#OHJE_R 
+En experts bedömning av rehabilitandens möjligheter att börja arbeta eller av nödvändiga åtgärder för att personen skall klara av det nuvarande arbetet eller övergå till nya uppgifter. Bedömningen ges bl. a. av specialarbetskraftsrådgivarna,
+rehabiliteringshandledarna eller arbetsklinikerna.
+###
+#KOODI      R1310 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Päivähoitokokeilu
+#RUOTSI     Dagvårdsförsök
+#LYHENNE    Päivähoitokokeilu
+#OHJE_S  
+Kuntoutusta tarvitsevan lapsen päivähoidon järjestämiseen liittyvä kokeilu sisältäen myös henkilöstön ja vanhempien ohjauksen.
+#OHJE_R 
+Ett försök i anslutning till organisering av dagvård för barnet i behov av rehabilitering. Innefattar även handledningen av personal och föräldrar.
+###
+#KOODI      R1320 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutuskokeilu
+#RUOTSI     Utbildningsförsök
+#LYHENNE    Koulutuskokeilu
+#OHJE_S  
+Kuntoutusta tarvitsevan henkilön koulunkäynnin, ammatillisen tai muun opiskelun järjestämiseen liittyvä kokeilu, jossa selvitetään hänen mahdollisuutensa suorittaa opintoja sekä selviytyä niistä. Sisältää myös henkilöstön ja vanhempien ohjauksen.
+#OHJE_R 
+Försök att arrangera skolgång, yrkesutbildning eller andra studier med utredning om rehabilitandens förmåga att framgångsrikt genomföra studier. Innefattar handledning av personal och föräldrar.
+###
+#KOODI      R1330 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkokeilu työklinikalla
+#RUOTSI     Arbetsförsök på arbetsklinik
+#LYHENNE    Työkokeilu työklinikalla
+#OHJE_S  
+Kokeilu, jossa selvitetään kuntoutujan edellytyksiä ja mahdollisuuksia suoriutua työelämässä.Työkokeilussa kokeillaan työtehtävistä suoritutumista joko työklinikalla tai työklinikan ohjauksessa normaalissa työpaikassa.
+#OHJE_R 
+Försök att utreda rehabilitandens förutsättningar och möjligheter att klara sig i arbetslivet. Vid arbetsförsöket testas arbetsupgifter antingen på arbetskliniken eller under handledning av arbetskliniken på en normal arbetsplats.
+###
+#KOODI      R1340 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkokeilu työpaikalla
+#RUOTSI     Arbetsförsök på arbetsplats
+#LYHENNE    Työkokeilu työpaikalla
+#OHJE_S  
+Kokeilu, jossa selvitetään kuntoutujan mahdollisuudet suoriutua työtehtävistä ja sopeutua työympäristöön ja sen asettamiin ehtoihin normaaleissa työolosuhteissa.
+Toteutetaan yleensä yhteistyössä työvoimatoimiston kanssa.
+#OHJE_R 
+Försök att utreda rehabilitandens möjligheter att klara av arbetsupgifter och anpassa sig i omgivningen och krav i normala arbetsförhållanden.
+Försöket genomförs i allmänhet i samarbete med arbetskraftsbyrån.
+###
+#KOODI      R1350 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asumiskokeilu
+#RUOTSI     Boendeförsök
+#LYHENNE    Asumiskokeilu
+#OHJE_S  
+Kokeilu, jossa selvitetään kuntoutujan edellytykset itsenäiseen asumiseen ja siihen tarvittavat tukitoimenpiteet. Kokeilu voidaan toteuttaa sairaalan tai kuntoutuslaitoksen yhteydessä olevissa asumiskokeiluun varatuissa tiloissa, palvelutaloissa,
+ryhmäkodissa tai itsenäisessä asumisessa.
+#OHJE_R 
+Försök att utreda rehabilitandens förutsättningar till självständig boende  och de stödåtgärder som möjligen behövs. Försöket kan genomföras i utrymmen reserverade för boendeförsök på sjukhus eller rehabiliteringsinrättning, servicehemm, grupphemm eller i 
+självständigt boende.
+###
+#KOODI      R1410 
+#MUUT_PVM   2003/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutussuunnitelman laatiminen
+#RUOTSI     Utarbetandet av rehabiliteringsplanen
+#LYHENNE    Kuntoutussuunnitelman laatiminen
+#OHJE_S  
+Kuntoutussuunnitelma perustuu yleensä moniammatilliseen arvioon kuntoutustarpeesta ja - mahdollisuuksista, kuntoutuksen tavoitteista, tarvittavista kuntoutustoimenpiteistä sekä kuntoutuksen järjestämisestä ja seurannasta. Kuntoutussuunnitelma on samalla
+kuntoutujan kanssa tehty sopimus kuntoutuksen tavoitteista ja menetelmistä.
+Kuntoutussuunnitelma on ainoa luokka, jota voidaan käyttää yksittäisen käynnin yhteydessä muiden luokkien rinnalla.
+#OHJE_R 
+Rehabiliteringsplanen grundar sig i allmänhet på en  bedömning av rehabiliteringsbehov och  möjligheter, målsättningar, nödvändiga rehabiliteringsåtgärder, organiseringen och uppföljningen av rehabiliteringen, som är gjord med mångsidig expertis.
+Rehabiliteringsplanen är samtidigt ett avtal som ingåtts med rehabilitanden om rehabiliteringens mål och metoder.
+Rehabiliteringsplaneringsklassen är den enda underklassen som kan användas vid sidan av en annan klass, till exempel när  innehållet i besök registreras samtidigt som rehabiliteringsplanen utarbetas.
+###
+#KOODI_R    R2
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista tukeva ohjaus
+#RUOTSI     Handledning som stöd för rehabilitatering
+#ENGL       Guidance supporting rehabilitation
+###
+#KOODI      R2110 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ensitiedon antaminen
+#RUOTSI     Avgivande av första information
+#LYHENNE    Ensi tiedon antaminen
+#OHJE_S  
+Alkuvaiheen neuvontaa ja ohjausta, jossa vasta vammautuneelle tai pitkäaikaiseen sairauteen sairastuneelle sekä hänen perheelleen ja lähiyhteisölleen annetaan tietoa ja tukea. Tavoitteena on luoda edellytyksiä kuntoutumiselle sekä rohkaista omaisia
+sairastuneen tukemiseen.
+#OHJE_R 
+Rådgivning och handledning i begynnelseskedet för rehabilitanden som nyligen blivit handikappad eller insjuknat i en långvarig sjukdom. Innefattar också information och stöd för familj och närmaste krets. Syftet är att skapa förutsättningar för
+rehabilitering samt uppmuntra de anhöriga att stödja den insjuknade.
+###
+#KOODI      R2120 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutuspalveluita ja toimeentulon turvaamista koskeva neuvonta ja ohjaus
+#RUOTSI     Information och handledning angående rehabiliteringstjänster och social skydd
+#LYHENNE    Kunt.palv ja toim. turv neuv. & ohj
+#OHJE_S  
+Vammautuneelle tai pitkäaikaissairaalle annetaan tietoa kuntoutumismahdollisuuksista sekä kuntoutuspalveluista ja niihin hakeutumisesta. Neuvonta voi koskea myös sosiaaliturvaa ja muuta taloudellista tukea. Voi sisältää myös konkreettisen ohjauksen
+palvelujen piiriin ja avustamisen esimerkiksi lomakkeiden täyttämisessä tai viranomaisten kanssa asioitaessa.
+#OHJE_R 
+Den handikappade eller långtidssjuka ges information om rehabiliteringsmöjligheter samt rehabiliteringstjänster och hur man söker dem. Rådgivningen kan också gälla socialskydd och annat ekonomiskt stöd. Kan också innehålla konkret handledning i att
+använda sig av tjänster och assistens exempelvis i att fylla i blanketter eller uträtta ärenden hos myndigheter.
+###
+#KOODI      R2130 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Itsenäistä selviytymistä edistävä neuvonta ja ohjaus
+#RUOTSI     Rådgivning och handledning om självständig levande
+#LYHENNE    Itsenäistä selviytymistä edistävä neuvon
+#OHJE_S  
+Elinympäristössä selviytymiseen, itsestä huolehtimiseen, ravintoon, liikkumiseen ja elintapoihin liittyvä neuvonta. Voi sisältää myös asumiseen, asioimiseen, palvelujen käyttöön, apuvälineiden käyttöön, kommunikaatiotaitojen hallintaan sekä muihin
+elämänhallintaa ja sosiaalista toimintakykyä edistäviin tekijöihin sekä omien voimavarojen hyödyntämiseen liittyvän neuvonnan ja ohjauksen. Sisältää myös päiväkotien, koulujen, oppilaitosten ja työpaikkojen henkilöstön neuvonnan ja ohjauksen silloin kun
+se koskee yhtä kuntoutujaa.
+#OHJE_R 
+Att hjälpa rehabilitanden att klara sig i sin levnadsmiljö, ta hand om sig själv, ge råd om föda, motion eller levnadssätt. Kan också innehålla rådgivning och handledning angående boende, uträttande av ärenden, användning av tjänster, användning av
+hjälpmedel,  kommunikationsförmågan samt övriga faktorer med avsikt att förbättra rehabilitandens kontroll över sitt liv och den sociala funktionsförmågan samt att hjälpa rehabilitanden att utnyttja sina egna resurser. Innehåller även rådgivning och
+handledning  av personalen i daghem, skolor, läroinrättningar och på arbetsplatser,  då det gäller verksamhet p.g.a. en rehabilitand.
+###
+#KOODI      R2210 
+#MUUT_PVM   2003/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatukselliseen kuntoutukseen ohjaus
+#RUOTSI     Handledning i fostrande rehabilitering
+#LYHENNE    Kasvatukselliseen kuntoutukseen ohjaus
+#OHJE_S  
+Kuntoutettavan oppimisen edellytysten vahvistamista ja erilaisten koulutukseen liittyvien vaihtoehtojen selvittämistä ja ohjausta koulutusvaihtoehtojen valintaan.
+#OHJE_R 
+Att stärka en handikappad eller långtidssjuk rehabilitands förutsättningar för inlärning i skol  eller närmiljö samt förklaring av olika möjligheter i anslutning till utbildningen.
+###
+#KOODI      R2310 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammatinvalinnanohjaus
+#RUOTSI     Yrkesvägledning
+#LYHENNE    Ammatinvalinnanohjaus
+#OHJE_S  
+Kuntoutujan auttamista selvittämään eri työaloja koskevaa soveltuvuuttaan ja henkilökohtaisia edellytyksiään.
+#OHJE_R 
+Att hjälpa rehabilitanden att reda ut sin lämplighet och personliga förutsättningar för olika arbetsförhållanden.
+###
+#KOODI      R2320 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työvoimaneuvonta
+#RUOTSI     Arbetshandledning
+#LYHENNE    Työvoimaneuvonta
+#OHJE_S  
+Kuntoutujan työssä selviytymistä, elinkeinon harjoittamista sekä työllistymistä koskeva neuvonta.
+#OHJE_R 
+Rådgivning i hur rehabilitanden skall klara av att arbeta, utöva näring eller träda in i arbetslivet.
+###
+#KOODI_R    R3
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista tukeva valmennus
+#RUOTSI     Träning som stöd för rehabilitatering
+#ENGL       Training that supports rehabilitation
+###
+#KOODI      R3110 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykososiaalinen valmennus
+#RUOTSI     Psykosocial träning
+#LYHENNE    Psykososiaalinen valmennus
+#OHJE_S  
+Kuntoutujan henkisten ja sosiaalisten edellytysten vahvistamista, jotta hän pystyisi elämään mahdollisimman täysipainoista elämää.
+Sisältää tarpeen mukaan myös kuntoutujan valmentamisen toimimaan vuorovaikutuksessa perhe-, työ- ja muissa arkielämän yhteisöissä sekä ohjauksen vammaan ja haittaan liittyvissä seksuaaliongelmissa.
+#OHJE_R 
+Förstärkning av rehabilitandens psykiska och sociala förutsättningar för att denna med sitt handikapp skall förmå leva ett så fullvärdigt liv som möjligt. Innehåller vid behov också träning av rehabilitanden att fungera i växelverkan i familjegemenskapen
+samt i arbets  och övriga gemenskaper i det vardagliga livet. Underklassen innefattar också handledning vid sexuella problem till följd av sjukdom eller skada.
+###
+#KOODI      R3120 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liikkumistaitojen valmennus
+#RUOTSI     Träning i rörelseförmåga
+#LYHENNE    Liikkumistaitojen valmennus
+#OHJE_S  
+Kuntoutujan opettamista ja valmentamista liikkumaan pyörätuolilla tai muun erityistä harjoittelua vaativan liikkumisvälineen (esimerkiksi auto) avulla.
+Sisältää myös esimerkiksi alaraajaproteesin käyttöön valmentamisen, halvauspotilaan liikkumisen harjoittamisen sekä näkövammaisen liikkumistaidon ohjauksen.
+#OHJE_R 
+Inlärning och träning av rehabilitanden att röra sig med hjälp av rullstol eller annan rörelseutrustning (t.ex. bil) som kräver särskild övning. Innehåller också exempelvis träning i att använda protes på nedre extremiteterna, förlamningspatienters övning 
+i att röra sig samt mobility training för synskadade.
+###
+#KOODI      R3130 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Päivittäisissä toimissa tarvittavien taitojen valmennus
+#RUOTSI     Träning i vardagsaktiviteter
+#LYHENNE    Päivittäisissä toimissa tarvittavien tai
+#OHJE_S  
+Kuntoutujan valmentamista arkipäivän elämässä tarvittavien taitojen, kuten pukeutumisen, peseytymisen, syömisen ja kodinhoidon hallintaan joko apuvälinein tai ilman.
+Sisältää myös esimerkiksi yläraajaproteesin käyttöön valmentamisen ja kehityksessä viivästyneiden lasten motoriikan harjoittamista.
+#OHJE_R 
+Träning av rehabilitanden i att behärska färdigheter som behövs i vardagslivet, som att klä på sig, tvätta sig, äta och sköta hemmet antingen med eller utan hjälpmedel. Underklassen innehåller också till exempel träning i att använda protes för övre
+extremiteterna och träning av motoriken hos barn med fördröjd utveckling.
+###
+#KOODI      R3140 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatiotaitojen valmennus
+#RUOTSI     Träning av kommunikationsfärdigheterna
+#LYHENNE    Kommunikaatiotaitojen valmennus
+#OHJE_S  
+Kuntoutujan tarvitsemien kommunikaatiotaitojen, kuten puheen, huulioluvun, pistekirjoituksen ja viittomakielen opetuksen ja harjoittelun sekä korvaavien kommunikaatiotaitojen (esimerkiksi symbolikielet, atk-apuvälineet) valmennuksen.
+Sisältää myös näkövammaisten näönkäytön opetuksen ja laajasti vuorovaikutustaitojen ohjauksen.
+#OHJE_R 
+Övning och träning i de kommunikationsfärdigheter rehabilitanden behöver eller kommunikationsfärdigheter som ersätter eller stöder talet eller undervisning i läppavläsning eller teckenspråk. Talersättande kommunikationsmedel är exempelvis användning av
+symbolspråk samt adb hjälpmedel. Genom träning stöds också synskadades kommunikationsfärdigheter, bl.a. användningen av adb eller punktskrift. Underklassen innehåller också annan stöd för kommunikationsfärdigheter.
+###
+#KOODI      R3150 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristön hallintaan valmentaminen
+#RUOTSI     Träning i att  bemästra levnadsmiljön
+#LYHENNE    Elinympäristön hallintaan valmentaminen
+#OHJE_S  
+Elinympäristön hallintaan ja siinä tarvittavien laitteiden käyttöön liittyvä valmennus.
+#OHJE_R 
+Träning i att kunna bemästra levnadsmiljön och den utrustning som behövs för ändamålet.
+###
+#KOODI      R3160 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus- ja oppimistaitojen valmennus
+#RUOTSI     Träning av utbildnings  och inlärningsfärdigheter
+#LYHENNE    Koulutus- ja oppimistaitojen valmennus
+#OHJE_S  
+Koulunkäyntiin ja opiskeluun liittyvien taitojen valmennusta ja ohjausta.
+Sisältää mm. atk-välineiden käytön harjoitusta opiskelun apuvälineeksi.
+#OHJE_R 
+Träning av och handledning i färdigheter angående skolgång och studier. Innehåller bl.a. övning i att använda adb utrustning som hjälpmedel i studierna.
+###
+#KOODI      R3210 
+#MUUT_PVM   2003/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteisövalmennus
+#RUOTSI     Träning i att leva i gemenskap
+#LYHENNE    Yhteisövalmennus
+#OHJE_S  
+Hoito- tai asuinyhteisössä tapahtuvaa, esimerkiksi mielenterveys- ja päihdehuollon potilaiden sekä kehitysvammaisten kokonaisvaltaista valmentamista.
+Sisältää myös perheen ja lähiyhteisön ohjauksen.
+Yhteisövalmennus perustuu kuntoutussuunnitelmaan.
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+#OHJE_R 
+Helhetsbetonad träning av personen i avsikt att lära denna att klara sig i samhället.  Gäller exempelvis mentalvårds  och missbrukspatienter och utvecklingsstörda. Innehåller även handledning av familj och närastående personer. Träningen grundar sig på
+rehabiliteringsplanen.
+Vid tillämpning av underklassen i registreringen används antal träningsdagar, inte gånger för att beskriva mängden.
+###
+#KOODI      R3310 
+#MUUT_PVM   2003/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asumisvalmennus
+#RUOTSI     Boendeträning
+#LYHENNE    Asumisvalmennus
+#OHJE_S  
+Yksilöllisesti tai ryhmässä tapahtuvaa valmennusta itsenäiseen asumiseen. Valmennus koskee selviytymistä kotona, kun yhteisövalmennus (R3200) koskee laajemmin selviytymistä myös sosiaalisen ympäristön kanssa.
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+#OHJE_R 
+Individuell träning eller träning i grupp för självständigt boende. Träningen går ut på att klara sig hemma, medan samhällsträningen (R3210) går ut på att rehabilitanden bättre ska klara sig i den sociala miljön. Vid tillämpning av underklassen i
+registreringen används antal träningsdagar, inte gånger för att beskriva mängden.
+###
+#KOODI      R3410 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Erityisopetus peruskoulussa, lukiossa tai kansanopistossa
+#RUOTSI     Undervisning i specialklass i grundskola eller gymnasium
+#LYHENNE    Erityisopetus
+###
+#KOODI      R3420 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus yleisissä ammatillisissa oppilaitoksissa
+#RUOTSI     Utbildning vid allmänna yrkesläroanstalter
+#LYHENNE    Koulutus yleisissä amm. oppilaitoksissa
+###
+#KOODI      R3430 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus ammattikorkea- ja korkeakouluissa sekä yliopistoissa
+#RUOTSI     Utbildning vid yrkeshögskolor och högskolor samt universitet
+#LYHENNE    Koulutus ammattikorkea- ja yliopistossa
+###
+#KOODI      R3440 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus aikuiskoulutuskeskuksissa tai ammattikursseilla
+#RUOTSI     Utbildning vid vuxenutbildningscentraler eller yrkeskurser
+#LYHENNE    Koulutus aikuiskoul.kesk tai amm.kurs
+###
+#KOODI      R3450 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus ammatillisissa erityisoppilaitoksissa
+#RUOTSI     Utbildning vid yrkesinriktade specialläroanstalter
+#LYHENNE    Koulutus ammatillisissa erityisoppilaito
+###
+#KOODI      R3460 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oppisopimuskoulutus
+#RUOTSI     Läroavtalsutbildning
+#LYHENNE    Oppisopimuskoulutus
+###
+#KOODI      R3470 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu koulutus
+#RUOTSI     Annan utbildning
+#LYHENNE    Muu koulutus
+#OHJE_S  
+Sisältää myös yksityiset oppilaitokset
+#OHJE_R 
+Innesluter även privata läroinrättningar.
+###
+#KOODI      R3510 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työhön valmennus
+#RUOTSI     Träning för arbete
+#LYHENNE    Työhön valmennus
+#OHJE_S  
+Työssä tarvittavien valmiuksien hankkimista työpaikalla toteutettavan yksilöllisen ohjelman puitteissa.
+#OHJE_R 
+Träning på arbetsplatsen av färdigheterna för arbetet enligt ett individuellt program
+###
+#KOODI      R3520 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkykyä ylläpitävä ja parantava valmennus
+#RUOTSI     Träning i avsikt att upprätthålla och förbättra arbetsförmågan
+#LYHENNE    Työkykyä ylläpitävä ja parantava valmenn
+#OHJE_S  
+Toimintaa, jonka avulla työnantaja ja työntekijä sekä työpaikan yhteistoimintaorganisaatiot yhteistyössä pyrkivät edistämään ja tukemaan työelämässä olevan työ- ja toimintakykyä hänen työuransa kaikissa vaiheissa.
+#OHJE_R 
+Verksamhet, genom vilken arbetsgivaren och arbetstagaren samt samarbetsorganisationer på arbetsplatsen i samarbete försöker befrämja rehabilitandens arbets  och funktionsförmåga i dennas arbete.
+###
+#KOODI      R3530 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammatillisesti syventävä lääkinnällinen kuntoutus
+#RUOTSI     Medicinsk rehabilitering i avsikt att fördjupa yrkeskunskaperna
+#LYHENNE    Ammat. lääkinnällinen kuntoutus
+#OHJE_S  
+Toimintaa, jonka avulla tuetaan ammattiryhmäkohtaisesti vajaakuntoisen työntekijän fyysisiä ja henkisiä voimavaroja työssä selviytymiseksi.
+#OHJE_R 
+Verksamhet planerad för olika yrkesgrupper genom vilken man stöder en handikappad arbetares fysiska och psykiska resurser för att klara sig i arbetet.
+###
+#KOODI      R3540 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntouttava työtoiminta
+#RUOTSI     Rehabiliterande arbetsverksamhet
+#LYHENNE    Kuntouttava työtoiminta
+#OHJE_S  
+Työkeskuksissa ja vastaavissa toteutettavaa työtoimintaa, jonka tavoitteena on sosiaalisen toimintakyvyn ylläpitäminen ja elämänsisällön hankkiminen ilman ansiotulon hankkimistarkoitusta.
+#OHJE_R 
+Arbetsverksamhet i arbetscentraler eller andra liknande inrättningar för att upprätthålla rehabilitandens sociala funktionsförmåga och ge rehabilitanden innehåll i livet utan att syftet är förvärvsinkomst.
+###
+#KOODI      R3610 
+#MUUT_PVM   2003/12/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Harrastus- ja vapaa-aikatoiminnan ohjaus
+#RUOTSI     Träning i hobby  och fritidsverksamhet
+#LYHENNE    Harrastus- ja vapaa-aikatoiminnan ohjaus
+#OHJE_S  
+Kuntoutussuunnitelmaan sisältyvää ohjattua harrastus- ja vapaa-ajan toiminnan harjoittelua, jonka tavoitteena on lisätä kuntoutujan elämän sisältöä sekä elämänlaatua.
+#OHJE_R 
+Rådgivning och träning med syfte att öka rehabilitandens livsinnehåll och livskvalitet med hjälp av hobby- och fritidsverksamhet. Träningen skall ingå i rehabiliteringsplanen.
+###
+#KOODI      R3700 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Seksuaaliohjaus
+#RUOTSI     Sexuell rådgivning
+#LYHENNE    Seksuaaliohjaus
+###
+#KOODI_R    R4
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista edistävät terapiat
+#RUOTSI     Terapier för befrämjande av rehabilitering
+#ENGL       Therapies enhancing rehabilitation
+#OHJE_S  
+Ei sisällä aiempiin ryhmiin (R1-R3) sisältyviä toimintoja. Esimerkiksi fysioterapian käyttö sopeutumisvalmennuksen osana tulee koodata ryhmään R3120.
+#OHJE_R 
+Innefattar ej funktioner i föregående grupper (R1-R3). T.ex. fysioterapi för träning av anpassningsförmåga bör anges med kod R3120.
+###
+#KOODI      R4110 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapia
+#RUOTSI     Fysioterapi
+#LYHENNE    Fysioterapia
+#OHJE_S  
+Kuntoutujan liikkumis- ja toimintakyvyn edistämistä sekä ylläpitämistä.
+#OHJE_R 
+Befrämjande och upprätthållande av rehabilitandens rörelse  och funktionsförmåga med hjälp av terapi.
+###
+#KOODI      R4120 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintaterapia
+#RUOTSI     Ergoterapi
+#LYHENNE    Toimintaterapia
+#OHJE_S  
+Kuntoutujan toimintakyvyn edistämistä ja ylläpitämistä.
+#OHJE_R 
+Befrämjande och upprätthållande av rehabilitandens funktionsförmåga med hjälp av terapi.
+###
+#KOODI      R4130 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapia
+#RUOTSI     Talterapy
+#LYHENNE    Puheterapia
+#OHJE_S  
+Kuntoutujan puhe-, ääni- ja kommunikaatio-ongelmien parantamista tai helpottamista. Puheterapiassa pyritään vaikuttamaan niihin perusvalmiuksiin, jotka ovat puheen ymmärtämisen ja tuottamisen edellytyksiä.
+
+#OHJE_R 
+Eliminering och underlättande av rehabilitandens språk , tal , röst  och kommunikationsstörningar. I talterapin försöker man påverka de färdigheter som är förutsättningar för den verbala och icke-verbala kommunikationsförmågan.
+###
+#KOODI      R4140 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykoterapia
+#RUOTSI     Psykoterapi
+#LYHENNE    Psykoterapia
+#OHJE_S  
+Kuntoutujan psyykkisen toimintakyvyn vahvistamista ja lisäämistä. Kuntoutus kohdistuu ihmisen ajatteluun, tunteisiin ja toimintaan sekä näiden välisiin yhteyksiin.
+#OHJE_R 
+Stärkande och förbättring av rehabilitandens psykiska funktionsförmåga. Psykoterapi är en förhand planerad serie av diskussioner individuellt eller i grupp tillsammans med en expert.
+###
+#KOODI      R4150 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuropsykologinen kuntoutus
+#RUOTSI     Neuropsykologisk rehabilitering
+#LYHENNE    Neuropsykologinen kuntoutus
+#OHJE_S  
+Aivosairauksien ja -vaurioiden jälkeisten henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden lieventämistä, henkisen toimintakykyisyyden parantamista sekä sairauteen tai vammaan sopeutumisen edistämistä.
+#OHJE_R 
+Rehabiliteringen går ut på att lindra allmänna störningar och specialstörningar i psykiska funktioner till följd av hjärnsjukdomar och hjärnskador, förbättra den psykiska funktionsförmågan samt hjälpa rehabilitanden att anpassa sig till sjukdomen eller
+handikappet.
+###
+#KOODI      R4160 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kuntoutumista edistävä terapia
+#RUOTSI     Övrig rehabiliteringsfrämjande terapi
+#LYHENNE    Muu kuntoutumista edistävä terapia
+#OHJE_S  
+Kuntoutumisen toteuttamisessa voidaan käyttää myös muita kuin lääkinnällisen kuntoutuksen asetuksessa (1991/1015) mainittuja terapiamuotoja, jotka edistävät kuntoutujan toimintakykyä ja lisäävät hänen elämänlaatuaan sekä -hallintaansa. Tällaisia
+terapiamuotoja ovat asiantuntijan ohjauksessa toteutettuina mm. kuvataideterapia, musiikkiterapia sekä ratsastusterapia. Näiden terapiamuotojen käyttö kuntoutuksessa edellyttää, että ne on sisällytetty kuntoutussuunnitelmaan ja niiden tuloksia seurataan
+ja arvioidaan.
+#OHJE_R 
+Vid rehabiliteringen kan också tillämpas andra än i förordningen för medicinsk rehabilitering nämnda terapiformer och -funktioner, som främjar rehabilitandens funktionsförmåga och ökar livskvaliteten och livskontrollen. Terapiformer av detta slag, (bl.a.
+bildkonstterapi, musikterapi och ridterapi) är, genomförda under handledning av en sakkunnig. I underklassen ingår även arbetsterapin, som har för avsikt att befrämja den sociala funktionsförmågan. En förutsättning för att de här terapiformerna ska kunna
+tillämpas vid rehabiliteringen är att de inneslutits i rehabiliteringsplanen och att resultaten av dem följs upp och utvärderas.
+###
+#KOODI      R4170 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatuksellisen kuntoutuksen terapiamuodot
+#RUOTSI     Terapiformer i  fostrande rehabilitering
+#LYHENNE    Kasvatuksellisen kuntoutus
+#OHJE_S  
+Yksilön kasvun, kehittymisen ja oppimisen tueksi annettavaa terapiaa.
+#OHJE_R 
+Handledning som ges vid uppfostrings  och familjerådgivning för att stöda individens uppväxt, utveckling och inlärning.
+###
+#KOODI_R    R5
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kuntoutuspalvelut
+#RUOTSI     Övriga rehabiliteringstjänster
+#ENGL       Other rehabilitation services
+###
+#KOODI      R5110 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälinetarpeen arviointi, apuvälineen valinta, kokeilu ja sovitus sekä käytön opetus ja luovutus
+#RUOTSI     Bedömning av behov av hjälpmedel, utprovning, försök med och val av hjälpmedel samt skolning i användning av hjälpmedel och överlåtelse av detsamma
+#LYHENNE    Apuvälineen toimittaminen
+###
+#KOODI      R5120 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen valmistus
+#RUOTSI     Tillverkning av hjälpmedel
+#LYHENNE    Apuvälineen valmistus
+###
+#KOODI      R5130 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen korjaus ja huolto
+#RUOTSI     Reparation och service av hjälpmedel
+#LYHENNE    Apuvälineen korjaus ja huolto
+###
+#KOODI      R5140 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen käytön seuranta
+#RUOTSI     Uppföljning av hjälpmedlets användning
+#LYHENNE    Apuvälineen käytön seuranta
+###
+#KOODI      R5210 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio elinympäristössä tarvittavista muutostöistä
+#RUOTSI     Bedömning av nödvändiga ändringsarbeten i livsmiljön
+#LYHENNE    Arvio elinympäristössä tarvittavista muu
+#OHJE_S  
+Arvio ja suositus asuin- ja elinympäristössä tarvittavista muutostöistä.
+#OHJE_R 
+Bedömning och rekommendation av nödvändiga ändringsarbeten i boende- och levnadsmiljön.
+###
+#KOODI      R5220 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristön muutostyöt
+#RUOTSI     Ändringsarbeten i levnadsmiljön
+#LYHENNE    Elinympäristön muutostyöt
+#OHJE_S  
+Asunnon- ja asuinympäristön muutostyöt sekä työpaikan muutostyöt.
+#OHJE_R 
+Ändringsarbeten i bostaden, levnadsmiljön och på arbetsplatsen.
+###
+#KOODI      R5230 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ympäristön hallintaa tukevat muut muutostyöt
+#RUOTSI     Övriga ändringsarbeten med avsikt att förbättra kontrollen över levnadsmiljön
+#LYHENNE    Ympäristön hallintaa tukevat muut muutos
+#OHJE_S  
+Ympäristönhallintalaitteiden sekä liikkumisvälineiden (esimerkiksi auto) käyttöön sekä hankintaan liittyvät muutostyöt.
+#OHJE_R 
+Ändringsarbeten i anslutning till användning och anskaffning av apparater för kontroll av miljön eller fortskaffningsmedel för rörelsehindrade (exempelvis bil).
+###
+#KOODI      R5310 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työhönsijoitus ilman taloudellisia tukitoimia
+#RUOTSI     Utplacering i arbete utan ekonomiska stödåtgärder
+#LYHENNE    Työhönsijoitus ilman taloudellisia tukit
+#OHJE_S  
+Kuntoutujan työllistyminen työnvälityspalvelun avulla ilman taloudellisia tukitoimia.
+#OHJE_R 
+Sysselsättning av rehabilitanden med hjälp av arbetsförmedlingstjänsten utan ekonomiska stödåtgärder.
+###
+#KOODI      R5320 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työhönsijoitus taloudellisten tukitoimien avulla
+#RUOTSI     Utplacering i arbete med hjälp av ekonomiska stödåtgärder
+#LYHENNE    Työhönsijoitus taloud tukitoimien avulla
+#OHJE_S  
+Kuntoutujan työhönsijoitus työnantajalle maksettavan työolosuhteiden järjestelytuen perusteella. Työhönsijoitus voi tapahtua työkokeilun, työharjoittelun tai laajemman palvelukokonaisuuden tuella.
+#OHJE_R 
+Utplacering av rehabilitanden på basis av organisationsstöd som betalas till arbetsgivaren. Utplaceringen kan ske med stöd av arbetsförsök, arbetspraktik eller en mera omfattande servicehelhet.
+###
+#KOODI      R5330 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oman elinkeinon harjoittamisen tukeminen
+#RUOTSI     Stöd för utövande av egen näring
+#LYHENNE    Oman elinkeinon harjoittamisen tukeminen
+###
+#KOODI      R5340 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työelämässä pysymisen tukitoimet
+#RUOTSI     Stödåtgärder för att hålla kvar rehabilitanden i arbetslivet
+#LYHENNE    Työelämässä pysymisen tukitoimet
+###
+#KOODI      R5350 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suojatyö
+#RUOTSI     Skyddsarbete
+#LYHENNE    Suojatyö
+###
+#KOODI      R5410 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuljetus- ja saattajapalvelut
+#RUOTSI     Färd  och färdledartjänster
+#LYHENNE    Kuljetus- ja saattajapalvelut
+#OHJE_S  
+Vammaisen henkilön liikkumisessa tarvittavia, jatkuvaluonteisia kuljetus- ja saattajapalveluja, jotka järjestetään vammaispalvelulain (380/1987) mukaisena toimintana.
+#OHJE_R 
+Nödvändiga, fortlöpande transport  och färdledartjänster för att en handikappad person skall kunna förflytta sig, och som arrangeras i enlighet med lagen om handikapptjänster.
+###
+#KOODI      R5420 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opaskoirapalvelut
+#RUOTSI     Ledarhundtjänster
+#LYHENNE    Opaskoirapalvelut
+#OHJE_S  
+Lääkinnällisenä kuntoutuksena tai vastaavin järjestelyin toteutetut opas- ja avustajakoirapalvelut sekä niihin liittyvä taloudellinen tuki.
+#OHJE_R 
+Ledarhund  och assistenthundtjänster samt ekonomiskt stöd i anslutning till dessa som genomförts i form av medicinsk rehabilitering eller motsvarande arrangemang.
+###
+#KOODI      R5430 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tulkkipalvelut
+#RUOTSI     Tolktjänster
+#LYHENNE    Tulkkipalvelut
+#OHJE_S  
+Kuulovammaisten, kuurosokeiden ja puhevammaisten tulkkipalvelut.
+#OHJE_R 
+Tolktjänster för döva, dövblinda och personer med talsvårigheter.
+###
+#KOODI      R5440 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulunkäynti- ja opiskeluavustajan palvelut
+#RUOTSI     Skolgångsbiträde  och studiebiträdetjänster
+#LYHENNE    Koulunkäynti- ja opiskeluavustajan palve
+#OHJE_S  
+Koulunkäynnissä ja opiskelussa tarvittavat avustajan palvelut.
+#OHJE_R 
+Tjänster givna av biträde  som behövs vid skolgång och studier.
+###
+#KOODI      R5450 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilökohtaisen avustajan palvelut
+#RUOTSI     Personlig assistent
+#LYHENNE    Henkilökohtaisen avustajan palvelut
+#OHJE_S  
+Vammaispalvelulain (380/1987) mukaiset, jatkuvaluonteiset palvelut.
+#OHJE_R 
+Tjänster av fortgående karaktär, i enlighet med lagen om handikappservice (380/1987).
+###
+#KOODI      R5460 
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palveluasumiseen liittyvät tukitoimet
+#RUOTSI     Stödåtgärder i anslutning till serviceboende
+#LYHENNE    Palveluasumiseen liittyvät tukitoimet
+#OHJE_S  
+Vaikeavammaisen palveluasuminen omassa kodissa, palveluasuntoryhmässä tai vaikeavammaisten palvelutalossa asumiseen liittyvine tukitoimineen, joiden kustannuksista kunta vastaa täysimääräisesti vammaispalvelulain mukaisena toimintana.
+#OHJE_R 
+Serviceboende för svårt handikappade i det egna hemmet, i servicebostadsgrupp eller servicehus jämte däri ingående stödåtgärder, för vars kostnader kommunen svarar till fullt belopp som verksamhet avsedd i lagen om handikappservice (1987/380).
+
+###
+#KOODI      R5599 
+#MUUT_PVM   1997/03/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kuntoutuspalvelu
+#RUOTSI     Annan rehabiliteringstjänst
+#LYHENNE    Muu kuntoutuspalvelu
+#OHJE_S  
+Tätä luokkaa voi käyttää vain tilanteissa, jossa annettu palvelu ei sovi mihinkään muuhun luokkaan.
+#OHJE_R 
+Klassen tillämpas bara i speciella situationer, om den givna rehabiliteringsservicen inte passar in i någon annan klass.
+###
+#KOODI_R    RD
+#MUUT_PVM   2006/01/10
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Ravitsemusterapia
+#RUOTSI     Nutritionsterapi
+#ENGL       Nutritiontherapy
+###
+#KOODI      RD110 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapiaan liittyvä anamneesi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD111 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemuksellinen yleisanamneesi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD112 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravintoanamneesi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD120 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravinnonsaannin määrittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD123 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asennon ja liikkeen hallinnan arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD130 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemustilan arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD131 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suppea ravitsemustilan arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD132 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja ravitsemustilan arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD140 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapeutin tekemä kokonaisarvio
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD150 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapiasuunnitelman laatiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD160 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemushoidon seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD190 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ravitsemusterapiaan liittyvä arviointi, suunnittelu ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD210 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD211 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilökohtainen ravitsemusohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD212 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moniammatillinen ravitsemusohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD213 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lähihenkilöiden ravitsemusohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD220 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ateriasuunnitelman laatiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD230 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruoanvalmistuksen opetus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD240 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elintarvikevalintojen ohjaaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD250 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opetusaterian ohjaaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD290 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ravitsemusterapia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD310 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapeuttisen asiakastapaamisen valmistelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD311 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapeuttisen palvelutarpeen arviointi ja ajanvaraus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD312 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan sairauteen ja ravitsemushoitoon liittyvä tiedonhankinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD313 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapeuttisen asiakastapaamisen valmistelu- ja järjestelytehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD320 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moniammatillinen neuvottelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD330 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjaaminen potilasasiakirjoihin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD340 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemuksellisen lausunnon laatiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD350 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konsultaatio asiakkaan ravitsemusasioissa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD390 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ravitsemusterapiaa tukeva työ
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD410 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD411 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilöstön kouluttaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD412 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisöluentojen pitäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD413 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisötapahtumiin osallistuminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD420 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opiskelijoiden ohjaus ja opetus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD421 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusterapiaharjoittelijan ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD422 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muiden opiskelijoiden ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD423 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opetustehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD430 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perehdytystehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD490 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut koulutustehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD510 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana moniammatillisessa työryhmässä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD520 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana moniammatillisessa kehittämistyössä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD521 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hoidon ja ohjauksen kehittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD522 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sairaala- ja muun joukkoruokailun kehittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD523 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kliinisten ravintovalmisteiden arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD530 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusohjausaineistoon liittyvät tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD531 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusohjausaineiston kehittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD532 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ravitsemusohjausaineiston arviointi ja valinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD540 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konsultaatio yleisissä ravitsemusasioissa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD550 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tiedotustehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD560 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimustyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD590 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut asiantuntijatehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD910 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hallinnolliset tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD920 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijuuden ylläpito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD930 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus- ja kehittämistyö työyhteisössä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD940 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laadunhallinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD950 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Markkinointi ja tiedottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD960 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työvälineiden kehittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD970 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Järjestelytehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RD990 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu työn kehittäminen ja hallinto
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    RF
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Fysioterapia
+#RUOTSI     Fysioterapi
+#ENGL       Physiotherapy
+###
+#KOODI      RF110 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapeuttinen orientoiva arvio
+#RUOTSI     Initial fysioterapeutisk kort evaluering
+#LYHENNE    Fysioterapeuttinen orientoiva arvio
+#OHJE_S  
+Nopea tilannearvio tai yleisarvio kuntoutuksen tai fysioterapian tarpeesta palvelun vireille panemiseksi, käynnistämiseksi, asiakkaan tilannetta seurattaessa ja tarkistettaessa tai jatkosuunnittelua sekä jatkotoimia varten.
+#OHJE_R 
+---
+###
+#KOODI      RF120 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapeuttinen tutkiminen
+#RUOTSI     Fysioterapeutisk undersökning
+#LYHENNE    Fysioterapeuttinen tutkiminen
+#OHJE_S  
+Selvitetään asiakkaan liikkumis- ja toimintakyvyn taso, luonne ja ongelmat sekä arvioidaan fysioterapian tarve ja mahdollisuudet. Otetaan huomioon asiakkaan oma näkemys ja toiveet. Asiakkaan asento ja liikkeet, tasapainon hallinta, fyysinen suorituskyky,
+toimintakyky ja näiden edellytykset sekä elämisen laatu voivat olla tutkimisen ja arvioinnin kohteena. Yleisimpiä arviointimenetelmiä ovat havainnointi, haastattelu, palpointi tai muu manuaalinen tutkiminen, lomakekyselyt sekä erilaiset testaukset ja
+mittaukset. Saatua tietoa käytetään johtopäätösten teossa ja fysioterapian suunnittelussa sekä terapian vaikutusten arvioinnissa, muutosten seuraamisessa ja tietojen välittämisessä. Tutkiminen eri muodoissaan voi liittyä terapiajaksoon,
+fysioterapeuttiseen seurantaan tai konsultaatioon. Kohtaa F120 voidaan käyttää omana toimenpideluokkanaan silloin, kun tutkimisen kohteita (F121 - F125) ei haluta tarkemmin täsmentää.
+#OHJE_R 
+---
+###
+#KOODI      RF121 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toiminta- ja työkyvyn arviointi
+#RUOTSI     Evaluering av arbets- och funktionsförmåga
+#LYHENNE    Toiminta- ja työkyvyn arviointi
+#OHJE_S  
+Asiakkaan fyysisten ja psyykkisten sekä sosiaalisten edellytysten arviointia suhteessa selviytymiseen kotona, työssä tai muussa elinympäristössä. Oman kehon tunnistaminen ja hahmottaminen, henkilökohtaiset voimavarat, liikkuminen ja omista perustarpeista
+huolehtiminen, selviytyminen erilaissa koti- ja työrooleissa sekä toimiminen yhteisön jäsenenä voivat olla arvioinnin kohteena.
+#OHJE_R 
+---
+###
+#KOODI      RF122 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fyysisen suorituskyvyn arviointi
+#RUOTSI     Evaluering av fysisk förmåga
+#LYHENNE    Fyysisen suorituskyvyn arviointi
+#OHJE_S  
+Aerobisen kestävyyden, hengitystoiminnan, lihasten toiminnan ja niiden ominaisuuksien sekä niveltoiminnan mittaamista ja arviointia. Mittaustulosten perusteella tehdään johtopäätökset asiakkaan fyysisen suorituskyvyn tasosta ja riittävyydestä
+arkiaskareisiin ja työtehtäviin. Samalla arvioidaan asiakkaan kokeman ongelman yhteys ja vaikutus laajempaan kokonaisuuteen; ihmisen toimintakykyyn
+#OHJE_R 
+---
+###
+#KOODI      RF123 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asennon- ja liikkeen hallinnan arviointi
+#RUOTSI     Evaluering av förmåga att kontrollera ställning och rörelse
+#LYHENNE    Asennon- ja liikkeen hallinnan arviointi
+#OHJE_S  
+Toimintakykyyn liittyvä osa-alue, jossa arvioidaan motorisia ja sensorisia toimintoja, taitoja ja valmiuksia tutkittaessa asennon ja liikkeen hallintaa, tasapainoa, siirtymistä asennosta toiseen sekä liikkumista.
+#OHJE_R 
+---
+###
+#KOODI      RF124 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivun tutkiminen ja arviointi
+#RUOTSI     Undersökning och evaluering av smärta
+#LYHENNE    Kivun tutkiminen ja arviointi
+#OHJE_S  
+Asiakkaan kokeman kivun ja kiputuntemusten tunnistamista sekä arviointia toimintakykyyn ja elämänlaatuun vaikuttavana tekijänä. Kivun paikka, esiintymistiheys ja -tilanne, kivun kesto, voimakkuus, ilmenemisajankohta, kivun luonne ja kivun kokeminen voivat 
+olla arvioinnin kohteena.
+#OHJE_R 
+---
+###
+#KOODI      RF130 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapiasuunnitelman laatiminen
+#RUOTSI     Bearbetning av plan för sysioterapi
+#LYHENNE    Fysioterapiasuunnitelman laatiminen
+#OHJE_S  
+Fysioterapian suunnittelu perustuu kohdassa F120 kuvattuun fysioterapeuttiseen tutkimiseen. Yhteistyössä asiakkaan tai asiakasryhmän kanssa laaditaan kirjallinen fysioterapiasuunnitelma, joka on pohja fysioterapian toteuttamiselle, seurannalle ja
+onnistumisen arvioinnille.
+#OHJE_R 
+---
+###
+#KOODI      RF190 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu fysioterapeuttinen tutkiminen ja arviointi
+#RUOTSI     Annan fysioterapeutisk undersökning och evaluering
+#LYHENNE    Muu fysioterapeuttinen tutkiminen ja arv
+#OHJE_S  
+Huom! Elin- ja työympäristöön sekä apuvälineisiin liittyvä fysioterapeuttinen arviointi kuvataan pääryhmässä F3.
+#OHJE_R 
+---
+###
+#KOODI      RF210 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapeuttinen ohjaus ja neuvonta
+#RUOTSI     Fysioterapeutisk rådgivning
+#LYHENNE    Fysioterapeuttinen ohjaus ja neuvonta
+#OHJE_S  
+Asiakasta tuetaan harjoittelemaan itsenäisesti, ymmärtämään harjoittelun tarkoitus ja ottamaan omat voimavarat käyttöön yhdessä asetettujen fysioterapian tavoitteiden saavuttamiseksi. Yhdessä asiakkaan kanssa etsitään vaihtoehtoisia ratkaisuja, kun
+tavoitteena ovat muutokset esimerkiksi liikuntatottumuksissa sekä työ- ja toimintatavoissa. Asiakkaan ja/tai omaisen ohjaus voi olla verbaalista, manuaalista tai visuaalista, esimerkiksi videoinnin avulla tapahtuvaa. Ohjausta ja neuvontaa voidaan antaa
+myös puhelimitse tai tietotekniikkaa hyödyntäen. Ohjaus voidaan toteuttaa yksilöllisesti tai eri suuruisissa ryhmissä ja sitä voidaan tehostaa kirjallisin harjoittelu- tai muin ohjein. Kohtaa F210 voidaan käyttää omana toimenpideluokkanaan silloin, kun
+kohteita (F211 - F214) ei haluta tarkemmin täsmentää.
+#OHJE_R 
+---
+###
+#KOODI      RF211 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terveyttä edistävä neuvonta
+#RUOTSI     Hälso främjande rådgivning
+#LYHENNE    Terveyttä edistävä neuvonta
+#OHJE_S  
+Asiakas saa terveyttä ja sairautta koskevaa tietoa, ohjausta liikunnallisiin ja muihin terveyttä edistäviin elämäntapoihin sekä terveys- ja liikuntapalvelujen käyttöön. Häntä aktivoidaan ottamaan itse vastuuta omasta terveydestään ja sen edistämisestä
+sekä neuvotaan, miten terveysriskejä voisi välttää tai miten terveydelle haitallisia elämäntilanteita voisi käsitellä.
+#OHJE_R 
+---
+###
+#KOODI      RF212 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakykyä edistävä ohjaus ja neuvonta
+#RUOTSI     Rådgivning till förbättringa av funktionsförmåga
+#LYHENNE    Toimintakykyä edistävä ohjaus ja neuvont
+#OHJE_S  
+Asiakas saa ohjausta ja neuvoja, jotta hän pystyisi paremmin tunnistamaan ja käyttämään omia voimavarojaan sekä hallitsemaan oireitaan. Tavoitteena on myös, että asiakas oppisi tulemaan toimeen sairautensa, vammansa tai heikentyneen toimintakykynsä
+kanssa. Sisältää myös pre- ja postoperatiivisen ohjauksen ja neuvonnan.
+#OHJE_R 
+---
+###
+#KOODI      RF213 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkykyä edistävä ohjaus ja neuvonta
+#RUOTSI     Rådgivning till förbättring av arbetsförmåga
+#LYHENNE    Työkykyä edistävä ohjaus ja neuvonta
+#OHJE_S  
+Työntekijään ja työhön liittyvää neuvontaa. Sisältää muun muassa kuormitusta vähentävien työasentojen ja työliikkeiden neuvonnan, työpaikkaliikuntaan ohjauksen, elpymisneuvonnan sekä työoloja koskevan ergonomiaohjauksen.
+#OHJE_R 
+---
+###
+#KOODI      RF214 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllisen fysioterapiaohjelman laatiminen
+#RUOTSI     Bearbetning av individuel fysioterapiprogram
+#LYHENNE    Yksilöllisen fysioterapiaohjelman laatim
+#OHJE_S  
+Asiakkaan tarpeisiin perustuen ja yhteistyössä hänen kanssaan laaditaan yksilöllinen harjoitus-, omahoito-ohjelma tai muu yksilöllinen kirjallinen/visuaalinen ohje. Sisältää myös ohjauksen ja ohjeet saliharjoittelua tai kuntoliikuntaa varten.
+#OHJE_R 
+---
+###
+#KOODI      RF220 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terapeuttinen harjoittelu
+#RUOTSI     Terapeutisk träning
+#LYHENNE    Terapeuttinen harjoittelu
+#OHJE_S  
+Fysioterapiassa terapeuttinen harjoittelu tarkoittaa aktiivisten ja toiminnallisten menetelmien käyttöä, joiden avulla pyritään vaikuttamaan asiakkaan fyysisiin ominaisuuksiin ja aktivoimaan hänen tietoisia toimintojaan. Voidaan harjoittaa asiakkaan
+hengitys- ja verenkiertoelimistön suorituskykyä, lihasvoimaa, lihaskestävyyttä, nivelten liikkuvuutta ja/tai motorisia taitoja, kuten kävelyä tai tasapainon hallintaa. Harjoittelun avulla voidaan lievittää kipua sekä lisätä kehon hallintaa ja
+itsetuntemusta. Fysioterapeutti ohjaa harjoittelua yksilöllisesti tai ryhmissä verbaalisesti, manuaalisesti tai visuaalisesti. Harjoittelussa voidaan käyttää apuna erilaisia laitteita (esim. hengitystä tehostavat välineet ja laitteet, kuntosalilaitteet,
+lääkinnällinen harjoitusterapia). Kohtaa F220 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F221 - F223) ei haluta tarkemmin täsmentää.
+#OHJE_R 
+---
+###
+#KOODI      RF221 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakyvyn ja liikkumisen harjoittaminen
+#RUOTSI     Träning av funktions- och rörelseförmåga
+#LYHENNE    Toimintakyvyn ja liikkumisen harjoittami
+#OHJE_S  
+Asiakkaan fyysisen ja/tai psykofyysisen toimintakyvyn kokonaisvaltaista ja laaja-alaista harjoittamista tavoitteena mahdollisimman itsenäinen selviytyminen elinympäristössä mukaan lukien sosiaalinen kanssakäyminen. Sisältää rentousterapian sekä kehon
+(ruumiin) hallintaa ja itsetuntemusta edistävät harjoitukset sekä liikuntaharjoittelun.
+#OHJE_R 
+---
+###
+#KOODI      RF222 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fyysisen suorituskyvyn harjoittaminen
+#RUOTSI     Träning av fysisk prestationsförmåga
+#LYHENNE    Fyysisen suorituskyvyn harjoittaminen
+#OHJE_S  
+Asiakkaan hengitys- ja verenkiertoelimistön suorituskyvyn sekä tuki- ja liikuntaelimistön toiminnan harjoittamista.
+#OHJE_R 
+---
+###
+#KOODI      RF223 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asennon ja liikkeen hallinnan harjoittaminen
+#RUOTSI     Träning av förmåga att kontrollera ställning och rörelse
+#LYHENNE    Asennon ja liikkeen hallinnan harjoittam
+#OHJE_S  
+Asiakkaan motoristen ja sensoristen toimintojen, taitojen ja valmiuksien harjoittamista tavoitteena asennon, tasapainon ja liikkeen tai liikesarjan parempi hallinta.
+#OHJE_R 
+---
+###
+#KOODI      RF230 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuaalinen terapia
+#RUOTSI     Manual terapi
+#LYHENNE    Manuaalinen terapia
+#OHJE_S  
+Manuaalisessa terapiassa on pääpaino on asiakkaan hermo-, lihas- ja niveltoimintojen tutkimisessa, niiden vaurioiden ja toimintahäiriöiden korjaamisessa sekä ennaltaehkäisyssä. Tutkimus- ja terapiamenetelminä käytetään pehmytkudoksen ja nivelen
+mobilisointia, nivelen manipulointia ja hermo- eli neuraalikudoksen mobilisointia. Terapian tavoitteena on vaikuttaa nivelten toimintaan, lievittää kipua ja normalisoida neuraalikudoksen ja lihaksen toimintaa. Manuaaliseen terapiaan yhdistetään usein
+asiakkaan oma harjoittelu. Kohtaa F230 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F231 - F235) ei haluta tarkemmin täsmentää.
+#OHJE_R 
+---
+###
+#KOODI      RF231 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pehmytosakäsittely
+#RUOTSI     Massage
+#LYHENNE    Pehmytosakäsittely
+#OHJE_S  
+Lihaksen ja siihen liittyvien rakenteiden käsittelyä. Sisältää neuraalikudoksen mobilisoinnin, klassisen hieronnan sekä erityiskäsittelyjä, kuten nestekiertoa edistävän käsittelyn.
+#OHJE_R 
+---
+###
+#KOODI      RF232 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nivelen mobilisointi ja stabilointi
+#RUOTSI     Mobilisering och stabilisering av led
+#LYHENNE    Nivelen mobilisointi ja stabilointi
+#OHJE_S  
+Mobilisoinnissa pyritään liikelaajuuksien lisäämiseen rauhallisin liikkein koko liikeradalla tai sen osalla. Liike tapahtuu kivun sallimissa rajoissa. Stabiloinnin tavoitteena on palauttaa esimerkiksi yliliikkuvan nivelen ja sitä ympäröivien kudosten
+optimaalinen toiminta.
+#OHJE_R 
+---
+###
+#KOODI      RF233 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nivelen manipulointi
+#RUOTSI     Manipulering av led
+#LYHENNE    Nivelen manipulointi
+#OHJE_S  
+Niveleen kohdistuvaa käsittelyä, jossa niveltä nopeasti liikutetaan lyhyellä liikeradalla tavoitteena saattaa nivelen liike normaaliksi ja lievittää kipua.
+#OHJE_R 
+---
+###
+#KOODI      RF240 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysikaalinen terapia
+#RUOTSI     Fysikalisk behandling
+#LYHENNE    Fysikaalinen terapia
+#OHJE_S  
+Mekaniikan, lämmön, valon, sähkön ym. fysikaalisten vaikutusten hyväksikäyttöä terapiassa kivun lievittämiseksi, aineenvaihdunnan parantamiseksi sekä pehmytkudoksen venyvyyden ja rentouden lisäämiseksi ja ylläpitämiseksi. Voi sisältää myös muita kuin
+kohdissa F241 - F242 nimettyjä fysikaalisen terapian muotoja, kuten veto-, inhalaatio- ja painepussihoitoja, erilaisia valo- ja vesihoitoja sekä fysioterapeutin antaman akupunktiohoidon. Kohtaa F240 voidaan käyttää omana toimenpideluokkanaan silloin, kun
+kohteita (F241 - F242) ei haluta tarkemmin määrittää.
+#OHJE_R 
+---
+###
+#KOODI      RF241 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Termiset hoidot
+#RUOTSI     Termisk behandling
+#LYHENNE    Termiset hoidot
+#OHJE_S  
+Sisältää pintalämpöhoidot (esim. lämpölamput ja -pakkaukset), syvälämpöhoidot (esim. UKW- tai ultraäänihoidot) sekä kylmähoidot (esim. kylmäpakkaukset).
+#OHJE_R 
+---
+###
+#KOODI      RF242 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sähköhoidot
+#RUOTSI     Ellbehandling
+#LYHENNE    Sähköhoidot
+#OHJE_S  
+Sisältää muun muassa kivun lievitykseen sekä lihashermo- tai muiden kudosten aktivointiin tarkoitetut sähköhoidot.
+#OHJE_R 
+---
+###
+#KOODI      RF290 
+#MUUT_PVM   2005/05/23
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu fysioterapian ohjaus- ja terapiakäytäntö
+#RUOTSI     Annan fysioterapeutiks rådgivning eller behandling
+#LYHENNE    Muu fysioterapian ohjaus- ja terapiakäyt
+###
+#KOODI      RF310 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liikkumis- ja toimintakykyä tukevat apuvälinepalvelut
+#RUOTSI     Hälpmedelservice för att tödja rörelse- och funktionsförmåga
+#LYHENNE    Liikkumis- ja toimintakykyä tukevat apuv
+#OHJE_S  
+Asiakkaan tukemista mahdollisimman itsenäiseen liikkumiseen ja selviytymiseen apuvälineiden avulla. Fysioterapiassa käytettyjä apuvälineitä ovat liikkumiskyvyn heikentymisen tai toimintakyvyn muiden puutteiden lieventämiseen tai korvaamiseen tarkoitetut
+välineet ja laitteet, kuten yksilöllisesti valmistetut tuet, kävelyn apuvälineet, pyörätuolit ym. Sisältää arviointia, neuvontaa, käytön ohjausta ja harjoittelua. Voi sisältää myös muita kuin kohdissa F311 - F314 määriteltyjä apuvälinepalveluja, kuten
+apuvälineen muutostöitä. Kohtaa F310 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F311 - F314) ei haluta tarkemmin määrittää.
+#OHJE_R 
+---
+###
+#KOODI      RF311 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälinetarpeen arviointi, suunnittelu, seuranta
+#RUOTSI     Värdering, planering och uppfölnng av hjälpmedel
+#LYHENNE    Apuvälinetarpeen arviointi, suunnittelu,
+#OHJE_S  
+Sisältää apuvälinetarpeen arvioinnin, johtopäätökset sekä suunnitelman tai suosituksen siitä, millaista apuvälinettä asiakas tarvitsee ja mihin tarkoitukseen. Sisältää myös seurannan siitä, miten suunnitelmat ovat toteutuneet ja vastasiko apuväline
+asiakkaan tarvetta.
+#OHJE_R 
+---
+###
+#KOODI      RF312 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen valinta ja hankinta
+#RUOTSI     Utval och anskaffning av teknisk hälpmedel
+#LYHENNE    Apuvälineen valinta ja hankinta
+#OHJE_S  
+Sisältää apuvälineen valinta- ja hankintaprosessiin liittyvät tehtävät, mahdollisen sovituksen ja kokeilun sekä kokeilun perusteella tehdyn suosituksen. Sisältää myös lastojen, tukien ja muiden apuvälineiden valmistamisen ja siihen liittyvän sovituksen
+tarvittaessa yhteistyössä muiden asiantuntijoiden kanssa.
+#OHJE_R 
+---
+###
+#KOODI      RF313 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen lainaus, käytön ohjaus ja harjoittaminen
+#RUOTSI     Utlämning, anvisning och träning av teknisk hjälpmedel
+#LYHENNE    Apuvälineen lainaus, käytön ohjaus ja ha
+#OHJE_S  
+Sisältää apuvälineen luovuttamisen lyhyt- tai pitkäaikaiseen käyttöön sekä luovutukseen liittyvän rekisteröinnin ja tarvittavan käytön opastuksen tai käytön harjoittamisen.
+#OHJE_R 
+---
+###
+#KOODI      RF314 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen korjaus- ja huoltotehtävät
+#RUOTSI     Reparering och service av teknisk hjälpmedel
+#LYHENNE    Apuvälineen korjaus- ja huoltotehtävät
+#OHJE_S  
+Sisältää pienet korjaus-, säätö- ja huoltotehtävät erityistilanteissa.
+#OHJE_R 
+---
+###
+#KOODI      RF320 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asumista ja elinympäristössä selviytymistä tukevat palvelut
+#RUOTSI     Service för att stödja boende och försörjning i livsmiljön
+#LYHENNE    Asumista ja elinymp selv tuk palvelu
+#OHJE_S  
+Asiakkaan tai kuntoutujan asunnossa, koulussa ja muussa elinympäristössä selviytymisen arviointia yhteistyössä asiakkaan sekä tarvittaessa omaisten ja lähiyhteisön kanssa. Arviointi voidaan tehdä yhdessä muiden alojen asiantuntijoiden kanssa. Kohtaa F320
+voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F321 - F323) ei haluta tarkemmin määrittää
+#OHJE_R 
+---
+###
+#KOODI      RF321 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio elinympäristössä selviytymisestä
+#RUOTSI     Utvärdering av möjligheter att klara sig i livsmiljön
+#LYHENNE    Arvio elinympäristössä selviytymisestä
+#OHJE_S  
+Sisältää arvion ja mahdollisen suosituksen asuin- ja elinympäristössä tarvittavista muutostöistä. Yhteistyötä tehdään tarpeen mukaan muiden asiantuntijoiden kanssa. Arvion pohjana on usein asiakkaan toimintakyvyn edellytysten arviointi (F121).
+#OHJE_R 
+---
+###
+#KOODI      RF322 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristön muutostyöt
+#RUOTSI     Förändring av livsmiljön
+#LYHENNE    Elinympäristön muutostyöt
+#OHJE_S  
+Sisältää tarvittavien yksinkertaisten muutostöiden tekemisen ja seurannan sekä osallistumisen asiantuntijana laajempien muutostöiden toteutukseen ja tuloksen arviointiin.
+#OHJE_R 
+---
+###
+#KOODI      RF323 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ympäristön hallintaa tukevat palvelut
+#RUOTSI     Service stödjande kontroll av omgivningen
+#LYHENNE    Ympäristön hallintaa tukevat palvelut
+#OHJE_S  
+Sisältää ympäristönhallintalaitteiden ja muiden vaativan teknologian laitteiden hankintaan ja käyttöön liittyvää asiantuntijatyötä.
+#OHJE_R 
+---
+###
+#KOODI      RF330 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työssä selviytymistä tukevat fysioterapiapalvelut
+#RUOTSI     Service stödjande arbetslivet
+#LYHENNE    Työssä selviytymistä tuk fysioterapiapal
+#OHJE_S  
+Työtekijään ja työhön liittyvien, työkykyä edistävien ja ylläpitävien tekijöiden arviointia sekä niihin vaikuttamista muun muassa työntekijän omia voimavaroja vahvistavien ja jaksamista lisäävien toimien ja/tai työoloja sekä työympäristöä korjaavien
+toimien avulla. Kohtaa F330 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F331 - F333) ei haluta tarkemmin määrittää
+#OHJE_R 
+---
+###
+#KOODI      RF331 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio työssä selviytymisestä
+#RUOTSI     Utvärdering om möjligheterna att klara sig i arbetet
+#LYHENNE    Arvio työssä selviytymisestä
+#OHJE_S  
+Työntekijän työssä selviytymisen arviointia fysioterapeuttisen tutkimisen ja arvioinnin avulla (F120) sekä työolosuhteiden arviointia (esim. työpaikkakartoitus, ergonomiaselvitys) yhteistyössä muiden asiantuntijoiden kanssa.
+#OHJE_R 
+---
+###
+#KOODI      RF332 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ennaltaehkäisevät ja korjaavat toimenpiteet
+#RUOTSI     Preventiva och korrigerande åtgärder
+#LYHENNE    Ennaltaehkäisevät ja korjaavat toimenpit
+#OHJE_S  
+Työntekijän työssä selviytymistä ja työkykyä edistävää sekä työkyvyn alenemista ehkäisevää toimintaa mukaan lukien myös työpaikalla tapahtuvan korjaavan toiminnan yhteis-työssä muiden asiantuntijoiden kanssa.
+#OHJE_R 
+---
+###
+#KOODI      RF390 
+#MUUT_PVM   2005/05/23
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut elinympäristössä ja työssä selviytymistä tukevat fysioterapiapalvelut
+#RUOTSI     Annan stödjande fysioterapi för att klara sig i livsmljö och i arbete
+#LYHENNE    Muut elinympäristössä ja työssä selviyty
+###
+#KOODI      RF410 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tiedonhankinta
+#RUOTSI     Data insamling
+#LYHENNE    Tiedonhankinta
+#OHJE_S  
+Asiakkaan asiakirjoihin perehtymistä, fysioterapian ja kuntoutuksen toteutuksen kannalta tarpeelliseen kirjallisuuteen tutustumista sekä yhteydenpitoa lähettävään lääkäriin, terveydenhoitajaan, fysioterapeuttiin tai muihin asiakkaan palveluverkoston
+jäseniin. Tiedonhankinta tapahtuu asiakkaan fysioterapian ja kuntoutuksen suunnittelua sekä arviointia varten.
+#OHJE_R 
+---
+###
+#KOODI      RF420 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dokumentointi
+#RUOTSI     Dokumentäring
+#LYHENNE    Dokumentointi
+#OHJE_S  
+Fysioterapiatietojen kirjaamista ja tallentamista erilaisiin asiakirjoihin tai muuta asiakasdokumenttien laatimista. Sisältää myös fysioterapian toteutuksen tai tutkimisen dokumentoinnin käyttäen hyväksi videointia, valokuvaamista tai muunlaista
+tietotekniikkaa. Tavoitteena on tallentaa tietoa asiakkaan tilanteesta fysioterapian suunnittelua, arviointia ja kehittämistä varten. Kohtaa F420 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F421 - F322) ei haluta tarkemmin määrittää.
+#OHJE_R 
+---
+###
+#KOODI      RF421 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjaaminen potilas/asiakasasiakirjoihin
+#RUOTSI     Dokumentäring i patient berättelse
+#LYHENNE    Kirjaaminen potilas/asiakasasiakirjoihin
+#OHJE_S  
+Asiakkaan tilan ja tilanteen sekä fysioterapian tavoitteiden ja toteutumisen päivittäistä, viikoittaista tai vastaavan tyyppistä kirjaamista ja tallentamista asiakkaan asiakirjoihin (sairaus- ja terveyskertomus, potilaskortti ym.).
+#OHJE_R 
+---
+###
+#KOODI      RF422 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapiapalautteen tai lausunnon laatiminen
+#RUOTSI     Fysiterapiutlåtande
+#LYHENNE    Fysioterapiapalautteen tai lausunnon laa
+#OHJE_S  
+Erillisen palautteen tai lausunnon kirjoittaminen fysioterapian toteutumisesta lähettävälle taholle tai muun erillisen selvityksen laatiminen fysioterapian kulusta ja tuloksista. Voidaan myös laatia, usein pyynnöstä, erillinen lausunto, joka voi koskea
+asiakkaan toimintakykyä, selviytymistä elinympäristössä tai muuta yksittäistä ongelmaa.
+#OHJE_R 
+---
+###
+#KOODI      RF430 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moniammatillinen yhteistyö
+#RUOTSI     Multiprofessional samarbete
+#LYHENNE    Moniammatillinen yhteistyö
+#OHJE_S  
+Eri alojen asiantuntijoiden sekä asiantuntijatahojen kanssa tehtävää yhteistyötä tavoitteena toteuttaa asiakkaan kannalta paras mahdollinen hoito, hoiva, kuntoutus tai muu palvelu. Yhteistyötä tehdään tiimeissä ja työryhmissä, palveluverkostoissa,
+palveluketjuissa sekä erilaisissa projekteissa. Sisältää myös videoneuvottelut ja muut tietotekniikkaa hyödyntävät yhteistyötavat. Eri asiantuntijoiden osaaminen voidaan yhdistää palveluja suunniteltaessa, niitä arvioitaessa ja niitä toteutettaessa.
+Kohtaa F430 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F431 - F324) ei haluta tarkemmin määrittää
+#OHJE_R 
+---
+###
+#KOODI      RF431 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteistyö asiakkaan hoidossa
+#RUOTSI     Samarbete i patient behandling
+#LYHENNE    Yhteistyö asiakkaan hoidossa
+#OHJE_S  
+Osallistuminen yhteisen asiakkaan hoidon, hoivan tai muun palvelun suunnitteluun (esim. hoito- ja / tai palvelusuunnitelmaneuvottelut), arviointiin ja muuhun yhteistyöhön.
+#OHJE_R 
+---
+###
+#KOODI      RF432 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutuksen suunnitteluun osallistuminen
+#RUOTSI     Samarbete för planering av rehabilitation
+#LYHENNE    Kuntoutuksen suunnitteluun osallistumine
+#OHJE_S  
+Osallistuminen yhteisen asiakkaan asioita käsittelevän kuntoutustyöryhmän tai asiakasyhteistyöryhmän työskentelyyn sekä kuntoutussuunnitelman laatimiseen ja suunnitelman toteutumisen seurantaan.
+#OHJE_R 
+---
+###
+#KOODI      RF433 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jatkofysioterapian järjestäminen
+#RUOTSI     Annordning av fortsatt fysioterapi
+#LYHENNE    Jatkofysioterapian järjestäminen
+#OHJE_S  
+Yhteydenotot jatkohoidon toteuttavaan yksikköön, kollegaan tai muuhun tarvittavaan tahoon muun muassa saumattoman palveluketjun varmistamiseksi asiakkaalle.
+#OHJE_R 
+---
+###
+#KOODI      RF434 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapia osana moniammatillista ohjausta tai terapiaa
+#RUOTSI     Fysioterapi som en del av multiprofesional handledning eller terapi
+#LYHENNE    Fysioterapia osana moniammatillista ohja
+#OHJE_S  
+Terapiajakso, ohjaus tai muu palvelu, joka toteutetaan yhdessä toista ammattialaa edustavan terapeutin tai yhdessä muiden ammattihenkilöiden kanssa. Fysioterapeutti voi myös suunnitella ja/tai vetää yhdessä toista alaa edustavan asiantuntijan kanssa
+tietyn kurssin tai ryhmän (esimerkiksi sopeutumisvalmennuskurssi).
+#OHJE_R 
+---
+###
+#KOODI      RF440 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapeutin konsultaatio
+#RUOTSI     Fysioterapist konsultation
+#LYHENNE    Fysioterapeutin konsultaatio
+#OHJE_S  
+Fysioterapeutin antamaa asiantuntija-apua kollegalle tai toisen ammattialan edustajalle tietyn, yksittäisen asiakkaan fysioterapiaan ja kuntoutukseen liittyvissä kysymyksissä.
+#OHJE_R 
+---
+###
+#KOODI      RF490 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu asiakastyöhön liittyvä fysioterapia
+#RUOTSI     Annan patientrelaterad fysioterapi
+#LYHENNE    Muu asiakastyöhön liittyvä fysioterapia
+###
+#KOODI      RF510 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen
+#RUOTSI     Expert aktivitet
+#LYHENNE    Asiantuntijana toimiminen
+#OHJE_S  
+Oman alan asiantuntijana toimimista omassa organisaatiossa ja yhteistyöverkostossa. Sisältää myös fysioterapeutin konsultaation, joka ei koske yksittäistä asiakasta, sosiaali- ja terveyspoliittiseen keskusteluun osallistumisen fysioterapian ja
+kuntoutuksen näkökulmasta sekä vaikuttamisen epäkohtien korjaamiseksi. Sisältää niinikään asiantuntijana toimimisen oman organisaation hankkeissa sekä fysioterapian tai muiden alojen valtakunnallisissa projekteissa sekä kehittämisohjelmissa.
+#OHJE_R 
+---
+###
+#KOODI      RF520 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutustehtävät
+#RUOTSI     Utbildningsuppgift
+#LYHENNE    Koulutustehtävät
+#OHJE_S  
+Kouluttajana ja työhön opastajana toimimista sekä muun henkilökunnan ohjaajana toimimista. Kohtaa F520 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F521 - F523) ei haluta tarkemmin määrittää
+#OHJE_R 
+---
+###
+#KOODI      RF521 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajana toimiminen
+#RUOTSI     Undervisning
+#LYHENNE    Kouluttajana toimiminen
+#OHJE_S  
+Kertaluontoisten luentojen, koulutuspäivien tai muun koulutuksen suunnittelua, toteutusta ja arviointia. Koulutus voi kohdentua sosiaali- ja terveydenhuollon henkilöstölle, eri alojen opiskelijoille, järjestöille tai muille yhteistyökumppaneille.
+#OHJE_R 
+---
+###
+#KOODI      RF522 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työn ohjaus ja opastus sekä perehdytystehtävät
+#RUOTSI     Inledning i arbetsuppgifter
+#LYHENNE    Työn ohjaus ja opastus sekä perehdytyste
+#OHJE_S  
+Uusien työntekijöiden tai työhön palaavien työhön opastusta ja perehdyttämistä. Voi sisältää myös toimimisen ohjaajana kokemattomammille kollegoille tai kollegaryhmälle tavoitteena ammattitiedon ja -taidon syventäminen. Sisältää myös vierailuryhmien ym.
+opastuksen (katso myös F950).
+#OHJE_R 
+---
+###
+#KOODI      RF523 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muun henkilökunnan ohjaus
+#RUOTSI     Utbildning av annan personal
+#LYHENNE    Muun henkilökunnan ohjaus
+#OHJE_S  
+Muulle henkilökunnalle annettavaa ohjausta asiakkaan liikkumisen avustamisessa, asentohoidossa sekä kuntoutumista edistävän työtavan omaksumisessa (katso myös F213).
+#OHJE_R 
+---
+###
+#KOODI      RF530 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opiskelijoiden ohjaus
+#RUOTSI     Utbildning av studerande
+#LYHENNE    Opiskelijoiden ohjaus
+#OHJE_S  
+Sosiaali- ja terveydenhuollon sekä muiden alojen opiskelijoiden tai harjoittelijoiden ohjaamista ja opettamista. Kohtaa F530 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F531 - F532) ei haluta tarkemmin määrittää.
+#OHJE_R 
+---
+###
+#KOODI      RF531 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapiaopiskelijoiden ohjaus
+#RUOTSI     Utbildning av fysioterapistudenter
+#LYHENNE    Fysioterapiaopiskelijoiden ohjaus
+#OHJE_S  
+Sisältää fysioterapiaopiskelijoiden käytännön harjoittelun suunnittelun ja järjestämisen sekä opiskelijoiden ohjauksen ja arvioinnin.
+#OHJE_R 
+---
+###
+#KOODI      RF532 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muiden opiskelijoiden ohjaus ja opastus
+#RUOTSI     Utbildning av andra studenter
+#LYHENNE    Muiden opiskelijoiden ohjaus ja opastus
+#OHJE_S  
+Sisältää muiden sosiaali- ja terveydenhuollon opiskelijoiden, harjoittelijoiden ja koululaisten opastuksen ja ohjauksen.
+#OHJE_R 
+---
+###
+#KOODI      RF540 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjallisen aineiston tuottaminen
+#RUOTSI     Skapande av skriftlig material
+#LYHENNE    Kirjallisen aineiston tuottaminen
+#OHJE_S  
+Fysioterapian asiantuntijuuteen perustuvaa toimintaa, joka sisältää eri tyyppistä kirjoitustyötä ja kirjallisen ja visuaalisen aineiston tuottamista. Kohtaa F540 voidaan käyttää omana toimenpideluokkanaan silloin, kun kohteita (F541 - F542) ei haluta
+tarkemmin määrittää
+#OHJE_R 
+---
+###
+#KOODI      RF541 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapia-aineiston tuottaminen
+#RUOTSI     Skapande av material om fysiterapii
+#LYHENNE    Fysioterapia-aineiston tuottaminen
+#OHJE_S  
+Sisältää terveyttä edistävän, eri asiakasryhmille tai väestölle tarkoitetun fysioterapia-aineiston tuottamisen. Voidaan tuottaa myös yleisiä harjoittelu- tai muita ohjeita eri potilasryhmille tai muuta sellaista materiaalia, jota ei ole laadittu
+yksilöllisesti yksittäisen asiakkaan tarpeisiin (vrt F214).
+#OHJE_R 
+---
+###
+#KOODI      RF542 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Julkaisujen, artikkelien ja raporttien kirjoittaminen
+#RUOTSI     Skrivande av publikaktioner, artiklar och raportetr
+#LYHENNE    Julkaisujen, artikkelien ja raporttien k
+#OHJE_S  
+Sisältää ammattilehtiin, julkaisuihin tai muuhun tarkoitukseen laadittavan kirjallisen aineiston tuottamisen. Sisältää myös tutkimusten ja selvitysten raportoinnin sekä muun julkistamisen, kuten posteriesityksen laatimisen.
+#OHJE_R 
+---
+###
+#KOODI      RF590 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut asiantuntija- ja koulutustehtävät
+#RUOTSI     Annan expert- och utbildningsuppgift
+#LYHENNE    Muut asiantuntija- ja koulutustehtävät
+###
+#KOODI      RF910 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hallinnolliset tehtävät
+#RUOTSI     Administration
+#LYHENNE    Hallinnolliset tehtävät
+#OHJE_S  
+Fysioterapiayksikön toiminnan ja talouden suunnitteluun, organisointiin ja seurantaan sekä henkilöstöhallintoon liittyviä tehtäviä. Sisältää muun muassa henkilöstön työ- ja koulutussuunnitelmien, toimintasuunnitelman ja toimintakertomuksen laatimisen sekä 
+tilastoinnin. Hallinnollisiin tehtäviin kuuluu myös esimerkiksi hankintoihin osallistuminen ja tarjouspyyntöjen laatiminen.
+#OHJE_R 
+---
+###
+#KOODI      RF920 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttautuminen
+#RUOTSI     Personlig deltagande i utbilldning
+#LYHENNE    Kouluttautuminen
+#OHJE_S  
+Osallistumista työpaikalla ja sen ulkopuolella tapahtuvaan täydennys- ja jatkokoulutukseen sekä työssä ja ammatissa kehittymiseen tähtäävään muuhun toimintaan.
+#OHJE_R 
+---
+###
+#KOODI      RF930 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus- ja kehittämistyö
+#RUOTSI     Forskning och utväckling
+#LYHENNE    Tutkimus- ja kehittämistyö
+#OHJE_S  
+Osallistumista fysioterapiayksikön omiin sisäisiin tutkimus- ja/tai kehittämishankkeisiin tai muihin selvitystöihin tai niiden vetämiseen. Sisältää työyhteisön kehittämiseen liittyvän toiminnan. Myös oman tutkimustyön tai kehittämishankkeen toteuttaminen. 
+(vrt. F510).
+#OHJE_R 
+---
+###
+#KOODI      RF940 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laadunhallinta
+#RUOTSI     Kvalitätskontroll
+#LYHENNE    Laadunhallinta
+#OHJE_S  
+Fysioterapiayksikön laadun jatkuvaa ja systemaattista parantamista sekä varmistamista. Sisältää muun muassa asiakaspalautteen hankkimisen ja hyödyntämisen, fysioterapian keskeisten palveluprosessien kuvaamisen ja arvioinnin sekä tarvittavien parannusten
+toteuttamisen, laatukriteerien laatimisen, itsearvioinnin, vertaisarvioinnin, sisäisen ja ulkoisen arvioinnin sekä niihin valmistautumisen ja fysioterapian toimintajärjestelmän dokumentoinnin / laatujärjestelmän luomisen.
+#OHJE_R 
+---
+###
+#KOODI      RF950 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Markkinointi ja tiedottaminen
+#RUOTSI     Marknadsförning och information
+#LYHENNE    Markkinointi ja tiedottaminen
+#OHJE_S  
+Fysioterapian palveluvalikoiman ja palveluiden määrittämistä, kustannusten arviointia ja palvelujen hinnoittelua tavoitteena tarjolla olevien palvelujen markkinointi ja palveluista tiedottaminen. Sisältää muun muassa kirjallisten, audiovisuaalisten tai
+www -sivuille tarkoitettujen fysioterapiaesitteiden laatimisen, asiakas- ja sidosryhmäselvitysten tekemisen, palvelujen tuotteistamisen sekä yksikön palvelujen esittelemisen muulla tavoin (avoimet ovet, muut PR -tilaisuudet).
+#OHJE_R 
+---
+###
+#KOODI      RF990 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hallinto ja kehittäminen
+#RUOTSI     Annan administration och utveckling
+#LYHENNE    Muu hallinto ja kehittäminen
+###
+#KOODI      RFA00 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liikeanalyysi
+#RUOTSI     Analys av rörelseförmåga
+#LYHENNE    Liikeanalyysi
+###
+#KOODI_R    RJ
+#MUUT_PVM   2006/01/10
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Jalkahoito
+#RUOTSI     Fotvård
+#ENGL       Foot care
+###
+#KOODI      RJ110 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapiatarpeen orientoiva selvittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ120 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapiatarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ121 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan selviytymisen arviointi jalkojen omahoidossa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ122 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen terveydentilan arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ123 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kenkien ja sukkien sopivuuden arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ124 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineiden ja erityisjalkineiden tarpeen ja toimivuuden arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ125 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pystyasennon ja kävelyn arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ126 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkapohjien kuormittumisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ127 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen rakenteen ja toimintojen tutkiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ128 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen kivun arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ129 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bakteriologinen ja mykologinen näytteenotto jaloista
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ130 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapieuttisen ongelman määrittäminen ja jalkaterapiasuunnitelman laatiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ190 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tutkiminen ja arviointi jalkaterapiassa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ210 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen omahoidon opetus ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ211 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen terveyteen ja sairauksiin liittyvä opetus ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ212 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kenkiin ja sukkiin liittyvä opetus ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ213 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen terveyteen ja  sairauksiin liittyvä terveyspalvelujen  ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ214 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllisen jalkaterapiaohjelman laatiminen, ohjaus ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ290 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu terveyttä edistävä opetus ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ310 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toiminnallinen jalkaterapeuttinen harjoittelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ311 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen toimintojen harjoittaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ312 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pystyasennon ja kävelyn harjoittaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ313 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen lihastasapainon ja nivelten liikkuvuuden harjoittaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ320 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manuaalinen jalkaterapia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ321 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen pehmytkudoskäsittely
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ322 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterän nivelten mobilisointi ja stabilointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ330 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysikaalinen jalkaterapeuttinen hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ390 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu alaraajojen toimintoja tukeva terapia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ410 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen ihon hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ411 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen liikasarveistumien hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ412 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalan syylän tai känsän hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ413 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen kemiallinen haudehoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ414 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkojen haavan hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ420 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Varpaankynsien hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ421 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Varpaankynnen lyhentäminen ja ohentaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ422 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paksun ja torakynnen hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ423 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalan sienikynsien hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ424 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kemiallinen varpaankynnen poisto ja kasvun seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ425 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sisäänkasvaneen varpaankynnen hoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ426 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kynsien oikaisuhoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ490 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kliiniseen jalkaterapiaan kuuluva toiminta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ510 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterän apuvälineterapia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ511 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkateriin liimattavien ja puettavien suojien valinta ja valmistus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ512 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Varvasortoosien valmistus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ513 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pikapohjallisten valmistus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ514 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elementti- ja lämpömuovattavien tukipohjallisten valmistus, sovitus ja luovutus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ515 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kipsijäljennöksen avulla valmistettujen tukipohjallisten valmistus, sovitus ja luovutus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ516 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterän apuvälineterapiapalvelun tilaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ520 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liikkumista, pukemista ja jalkojen omahoitoa tukevat apuvälinepalvelut
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ521 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen valinta ja hankinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ522 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen lainaus, käytön ohjaus ja harjoittaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ523 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen korjaus ja huoltotehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ530 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineiden toimivuuden seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ590 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu apuvälinepalvelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ610 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tiedonhankinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ620 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dokumentointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ621 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjaaminen potilas/asiakasasiakirjoihin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ622 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapiapalautteen tai lausunnon laatiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ630 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moniammatillinen yhteistyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ631 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteistyö asiakkaan, läheisten ja tukiverkoston kanssa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ633 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hoito- ja palveluketjun varmistaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ634 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapia osana moniammatillista ohjausta tai terapiaa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ640 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapeuttinen konsultaatio
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ650 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapian tilojen ja välineiden huolto
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ651 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapian välinehuolto
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ652 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terapiatilan ja laitteiden huoltaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ653 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Materiaalien, välineiden ja laitteiden tilaus ja huolto
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ690 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu jalkaterapian asiakastyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ710 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ711 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana moniammatillisessa työryhmässä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ712 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana moniammalittisessa kehittämistyössä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ720 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutustehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ721 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilöstön kouluttaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ722 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisöluentojen pitäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ723 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisötapahtumiin osallistuminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ730 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opiskelijoiden ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ731 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapeuttiopiskelijoiden ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ732 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muiden opiskelijoiden ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ740 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perehdytystehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ750 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjallisen aineiston tuottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ751 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jalkaterapia-aineiston tuottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ752 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Julkaisutoiminta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ790 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut asiantuntija- ja koulutustehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ910 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hallinnolliset tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ911 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toiminnan ja talouden suunnittelu ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ912 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilöstöhallintoon liittyvät tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ920 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijuuden ja ammattitaidon ylläpitäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ930 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus- ja kehittämistyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ940 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laadunhallinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ950 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Markkinointi ja tiedottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ960 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimisto- ja järjestelytyöt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RJ990 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hallinto ja kehittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    RK
+#MUUT_PVM   2006/01/10
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutus
+#RUOTSI     Rehabilitation
+#ENGL       Rehabilitation
+###
+#KOODI      RK110 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan tilanteen selvittäminen ja arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK111 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutuksen kokonaistilanteen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK112 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakyvyn ja selviytymisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK113 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutumismahdollisuuksien ja kuntoutus- sekä palvelutarpeiden arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK120 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan kuntoutumisen ja kuntoutusohjauksen suunnittelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK121 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan kuntoutus- ja muiden suunnitelmien laatimiseen osallistuminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK122 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjausprosessin suunnittelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK123 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutumisprosessin seuranta ja arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK124 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjausprosessin päättymiseen liittyvät tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK190 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu arviointi ja suunnittelu kuntoutusohjauksessa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK210 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sairastumiseen ja vammautumiseen liittyvä tuki ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK220 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palveluihin ja tukitoimiin liittyvä ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK221 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terveyspalveluihin liittyvä ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK222 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vammaispalveluihin liittyvä ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK223 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muihin sosiaalipalveluihin liittyvä neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK224 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteisöjen ja järjestöjen toimintaan liittyvä ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK225 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Harrastustoimintaan liittyvä ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK230 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatusta ja koulunkäyntiä tukeva ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK240 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammattiin ja työelämään liittyvä ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK250 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ensitiedon antaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK260 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sopeutumisvalmennus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK290 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kuntoutumista tukeva ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK310 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristössä selviytymistä tukeva toiminta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK311 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristössä selviytymisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK312 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristössä selviytymistä tukeva ohjaus ja neuvonta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK313 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristössä selviytymista tukevat toimenpiteet ja palvelut
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK320 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälinepalvelut
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK321 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälinetilanteen tarkistaminen ja tarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK322 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen hankinta, lainaus ja luovutus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK323 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen käytön ohjaus ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK324 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen huoltoon ja varastointiin liittyvät tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK390 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu elinympäristössä selviytymisen tukeminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK410 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutus- ja yhteistyöryhmissä toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK411 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moniammatillisen yhteistyön organisointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK412 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Moniammatilliseen yhteistyöhön osallistuminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK420 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan kuntoutumisen koordinointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK421 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusta tukevien palveluiden yhteensovittaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK422 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eri alojen välinen yhteistyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK430 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjaajan konsultointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK490 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut koordinointi- ja yhteistyötehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK510 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjauksen taustatyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK511 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taustatietojen hankinta ja aineiston tuottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK512 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakastapaamisen valmistelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK513 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ryhmätapaamisen valmistelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK520 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjauksen kirjaaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK530 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjaajan laatimat lausunnot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK590 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kuntoutusohjauksen asiakastyö
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK610 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK620 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutustehtävät ja opiskelijoiden ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK621 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK622 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perehdytystehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK623 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opiskelijoiden ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK641 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusohjausaineiston tuottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK642 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Julkaisujen, artikkelien ja raporttien kirjoittaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK649 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjallisen aineiston tuottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK690 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut asiantuntija- ja koulutustehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK910 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hallinnolliset tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK911 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toiminnan ja talouden suunnittelu ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK912 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilöstöhallintoon liittyvät tehtävät
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK920 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijuuden ja ammattitaidon ylläpitäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK930 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus- ja kehittämistyö työyhteisössä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK940 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laadunhallinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK950 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Markkinointi ja tiedottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK960 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimisto- ja järjestelytyöt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RK990 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hallinto ja kehittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    RL
+#MUUT_PVM   2005/05/23
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Puheterapia
+#RUOTSI     Logoterapi
+#ENGL       Logotherapy
+###
+#KOODI      RL110 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttinen orientoiva kartoitus
+#RUOTSI     Initial kort logopedisk undersökning
+#LYHENNE    Puheterapeuttinen orientoiva kartoitus
+#OHJE_S  
+Lyhyt, orientoiva kartoitus puhe- tai kommunikaatiotilanteesta laajempaa tutkimussuunnitelmaa varten. Selvitetään, tarvitaanko tarkempi laaja-alainen puheterapeuttinen tutkimus vai riittääkö ohjaus ja neuvonta tai tilanteen seuranta.
+#OHJE_R 
+---
+###
+#KOODI      RL120 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutustarpeen ja mahdollisuuksien puheterapeuttinen arviointi
+#RUOTSI     Evalluering av behov och möjligheter till logopedisk rehabilitering
+#LYHENNE    Kunt.tarp ja mahd puheterap arv
+#OHJE_S  
+Arvioinnissa kartoitetaan asiakkaan kokonaistilanne. Selvitetään tarvitseeko asiakas puheterapiaa ja mitkä ovat puheterapiamahdollisuudet, huomioidaan myös asiakkaan resurssit ja puheterapian saatavuus. Arvioinnin perusteella laaditaan
+kuntoutussuunnitelma joko puheterapian osalta tai laajasti yhdessä moniammatillisen kuntoutustyöryhmän kanssa.
+#OHJE_R 
+---
+###
+#KOODI      RL130 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttinen diagnostinen tutkimus
+#RUOTSI     Diagnostisk logopedisk undersökning
+#LYHENNE    Puheterapeuttinen diagnostinen tutkimus
+#OHJE_S  
+Laaja-alainen puheterapeuttinen tutkimus puheen, kielen, äänen, kommunikaation ja nielemisen häiriöistä sekä häiriöiden vaikeusasteesta. Tutkimus liittyy usein laajempaan lääketieteelliseen selvitykseen sisältäen myös erotusdiagnostiikan, esim. onko
+kyseessä afasia/dysartria/dementia/kuulovamma tai kielihäiriö/viivästynyt kielenkehitys/kehitysvamma. Laaja-alainen puheterapeuttinen tutkimus toimii myös puheterapeuttisen kuntoutuksen suunnittelun pohjana.
+#OHJE_R 
+---
+###
+#KOODI      RL140 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttinen seurantatutkimus
+#RUOTSI     Logopedisk uppföljnings undersökning
+#LYHENNE    Puheterapeuttinen seurantatutkimus
+#OHJE_S  
+Seurantatutkimuksella arvioidaan puheterapian tuloksellisuutta ja oikein kohdentamista sekä tarkennetaan kuntoutussuunnitelmaa terapian kuluessa. Seurantatutkimuksilla myös arvioidaan puheterapeutin seurannassa olevien asiakkaiden puhe- ja
+kommunikaatiotilannetta.
+#OHJE_R 
+---
+###
+#KOODI      RL150 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatioympäristön puheterapeuttinen arvio
+#RUOTSI     Logopedisk utvärdering av kommunikationsmiljö
+#LYHENNE    Kommunikaatioympäristön puheterapeuttine
+#OHJE_S  
+Puheterapeutin suorittama arvio siitä, miten asuin-, hoito- tai työskentely-ympäristö tukee asiakkaan kommunikointia. Arviossa huomioidaan fyysinen ympäristö ja keskustelukumppaneiden osuus.
+#OHJE_R 
+---
+###
+#KOODI      RL190 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tai tarkemmin määrittämätön puheterapeuttinen tutkimus
+#RUOTSI     Annan logopedisk undersökning
+#LYHENNE    Muu puheterapeuttinen tutkimus
+###
+#KOODI      RL210 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen puheterapia
+#RUOTSI     Individuell logoterapi
+#LYHENNE    Yksilöllinen puheterapia
+#OHJE_S  
+Terapian sisältö määräytyy puheterapeuttisen tutkimuksen perusteella ja se liitetään asiakkaan terapia- ja kuntoutussuunnitelmaan. Terapian sisältöön vaikuttavat asiakkaan puheterapeuttinen diagnoosi, häiriön vaikeusaste, meneillään olevan kuntoutuksen
+vaihe, valitut terapiamenetelmät ja asiakkaan ikä. Puheterapeutti käyttää työssään tunnettuja ja yleisesti hyväksyttyjä menetelmiä. Puheterapia on esimerkiksi lapsen kielenkehityksen ja vuorovaikutustaitojen tukemista, änkytysterapiaa, ääniterapiaa,
+syömis- ja nielemisvaikeuksien kuntoutusta, afasiaterapiaa jne. (Ks. tarkemmin kohta puheterapeuttiset diagnoosiluokitukset.)
+#OHJE_R 
+---
+###
+#KOODI      RL220 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöllinen puheterapia moniammatillisessa yhteistyössä
+#RUOTSI     Individuell logoterapi med multiprofessional samarbete
+#LYHENNE    Yksil puheter moniammat yht
+#OHJE_S  
+Puheterapia toteutetaan yhdessä toisen ammattihenkilön kanssa (esim. toimintaterapeutti, fysioterapeutti, psykologi tai sairaanhoitaja). Tätä terapiamuotoa voidaan käyttää esimerkiksi monivammaisten asiakkaiden kuntoutuksessa.
+#OHJE_R 
+---
+###
+#KOODI      RL230 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ryhmämuotoinen puheterapia
+#RUOTSI     Logoterapi i grupp
+#LYHENNE    Ryhmämuotoinen puheterapia
+#OHJE_S  
+Kommunikointi- ja vuorovaikutustaitojen kehittämistä ja tukemista ryhmässä. Ryhmäterapia tukee kommunikoinnin sosiaalista aspektia ja terapiaan on mahdollista soveltaa useita terapeuttisia ja ryhmätyöhön liittyviä teorioita. Ryhmäterapia voidaan myös
+toteuttaa tietokoneavusteisena ryhmäkuntoutuksena.
+#OHJE_R 
+---
+###
+#KOODI      RL240 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ryhmämuotoinen puheterapia moniammatillisessa yhteistyössä
+#RUOTSI     Logoterapi i grupp med multiprofessional samarbete
+#LYHENNE    Ryhmämuotoinen puheterapia moniammatilli
+#OHJE_S  
+Terapiaryhmää vetää puheterapeutti yhdessä esimerkiksi fysioterapeutin, toimintaterapeutin, erityislastentarhanopettajan, neuropsykologin tai vastaavanlaisen ammattihenkilön kanssa. Terapiassa huomioidaan samanaikaisesti kommunikatiiviset, fyysiset,
+toiminnalliset, kasvatukselliset ym. näkökulmat ja näin ryhmäterapian hyöty kasvaa.
+#OHJE_R 
+---
+###
+#KOODI      RL250 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan luona tapahtuva puheterapia
+#RUOTSI     Logoterapi i patientens egen omgivning
+#LYHENNE    Asiakkaan luona tapahtuva puheterapia
+#OHJE_S  
+Asiakkaan luona kotona, päiväkodissa tai muualla tapahtuva terapia, jossa korostuvat yksilöterapian lisäksi asiakkaan kommunikaation harjaannuttaminen sosiaalisissa tilanteissa ja kohta 32 Perheen, omaisten, yhteisön, henkilökunnan ohjaus/neuvonta, kohta
+4 Apuvälinepalvelut ja kohta 62 Asiantuntijana toimiminen kuntoutuksen suunnittelussa.
+#OHJE_R 
+---
+###
+#KOODI      RL290 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tai tarkemmin määrittämätön puheterapia
+#RUOTSI     Annan logoterapi
+#LYHENNE    Muu puheterapia
+###
+#KOODI      RL310 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan puheterapeuttinen ohjaus ja neuvonta
+#RUOTSI     Logoterapeutisk handledning och rådgivning
+#LYHENNE    Asiakkaan puheterapeuttinen ohjaus ja ne
+#OHJE_S  
+Asiakkaan ohjaus, neuvonta tai tukeminen liittyen asiakkaan kommunikaatiohäiriöön. Ohjaus koskee kommunikointiin liittyviä asioita, esim. tuetaan asiakkaan toimivien tai terapiassa omaksuttujen taitojen siirtymistä jokapäiväiseen käyttöön. Ohjaus voi myös 
+liittyä kuntoutuksen jatkotoimenpiteisiin.
+#OHJE_R 
+---
+###
+#KOODI      RL320 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perheen, omaisten, yhteisön, henkilökunnan puheterapeuttinen ohjaus/neuvonta
+#RUOTSI     Logopedisk rådgivning/handledning av familjen, anhöriga, samhället eller personalen
+#LYHENNE    Logopedinen neuvota ympäröiville ihmisel
+#OHJE_S  
+Ohjaus/neuvontatilanteessa kerrotaan asiakkaan kommunikaatiohäiriön luonteesta ja sen seurauksista asiakkaan kommunikointiin. Ohjataan toimivien kommunikointimenetelmien käyttöä. Läheisiä ja toimintaympäristössä työskenteleviä henkilöitä ohjataan
+tarvittaessa ja mahdollisuuksien mukaan osallistumaan kuntoutukseen.
+#OHJE_R 
+---
+###
+#KOODI      RL330 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puhelimessa annettu, hoitoon liittyvä puheterapeuttinen ohjaus/neuvonta
+#RUOTSI     Logopedisk rådgivning eller handledning per telefon
+#LYHENNE    Puh neuv hoitoon liittyvä puheter puhev
+#OHJE_S  
+Sisältö kuten kohdissa 31-32.
+#OHJE_R 
+---
+###
+#KOODI      RL390 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tai tarkemmin määrittämätön puheterapeuttinen ohjaus/neuvonta
+#RUOTSI     Annan logopeisk rådvihning eller handledning
+#LYHENNE    Muu tai tarkemmin määrittämätön puhetera
+###
+#KOODI      RL410 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatioapuvälinetarpeen arviointi
+#RUOTSI     Utvärdering av behov av tekniska hjälpmedel för kommunikation
+#LYHENNE    Kommunikaatioapuvälinetarpeen arviointi
+#OHJE_S  
+Puhetta tukevan tai korvaavan (ei esim. kuulolaite) kommunikaatiovälineen tarpeen arviointi, sovitus, kokeilu ja valinta.
+#OHJE_R 
+---
+###
+#KOODI      RL420 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatioapuvälineen suunnittelu/valmistaminen/hankinta
+#RUOTSI     Planering, produktion ellen anskaffning av teknisk hjälpmedel för kommunikation
+#LYHENNE    Komm.välineen suunni/valm/han
+#OHJE_S  
+Koskee puhetta tukevaa tai korvaavaa kommunikaatioapuvälinettä.
+#OHJE_R 
+---
+###
+#KOODI      RL430 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatioapuvälineen käytön ohjaus ja seuranta
+#RUOTSI     Handledning och uppföljning av användning av teknisk hjälpmedel för kommunikation
+#LYHENNE    Komm.puvälineen käytön ohjaus & seur
+#OHJE_S  
+Puhetta tukevan tai korvaavan kommunikaatioapuvälineen käytön ohjaus niissä tapauksissa, joissa se ei suoraan liity terapiaan. Kommunikaatioapuvälineen käytön harjoittelu liittyy usein yksilöterapiaan, jossa rakennetaan puhetta tukeva tai korvaava
+kommunikointimenetelmä ja menetelmän käyttöön tarvitaan apuväline/apuvälineitä.
+#OHJE_R 
+---
+###
+#KOODI      RL490 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut tai tarkemmin määrittämättömät puheterapian apuvälinepalvelut
+#RUOTSI     Annan service för hjälpmedel i logopedi
+#LYHENNE    Muu puheterapian apuvälinepalvelu
+###
+#KOODI      RL510 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttisen tutkimuksen suunnittelu ja valmistelutyöt
+#RUOTSI     Planering och förberedelserna för logopedisk undersökning
+#LYHENNE    Puheterap tutk suunn & valmist
+#OHJE_S  
+Esitietojen hankkiminen, tutkimusmenetelmän, testien ym. materiaalin sekä tilojen valinta.
+#OHJE_R 
+---
+###
+#KOODI      RL520 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapian suunnittelu ja seuranta
+#RUOTSI     Planering och uppföljning av logoterapi
+#LYHENNE    Puheterapian suunnittelu ja seuranta
+#OHJE_S  
+Terapian ja toimenpiteiden suunnittelu, valmistelu ja seuranta valitun teorian ja meneillään olevan kuntoutusvaiheen mukaisesti.
+#OHJE_R 
+---
+###
+#KOODI      RL530 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusmateriaalin suunnittelu ja valmistaminen
+#RUOTSI     Planering och producering av material för rehabilitation
+#LYHENNE    Kuntoutusmateriaalin suunnittelu ja valm
+#OHJE_S  
+Terapiamateriaalin valmistaminen.
+#OHJE_R 
+---
+###
+#KOODI      RL540 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttisen tutkimuksen ja puheterapian dokumentointi
+#RUOTSI     Dokumentering av logoterapi
+#LYHENNE    Puheterapian dokumentointi
+#OHJE_S  
+Tutkimuksen sekä terapian sisällön, toimenpiteiden, edistymisen jne. dokumentointi seurantaa varten.
+#OHJE_R 
+---
+###
+#KOODI      RL550 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lausunnot ja palautteet
+#RUOTSI     Utlåtande eller feedback
+#LYHENNE    Lausunnot ja palautteet
+#OHJE_S  
+Puheterapeutin lausunnot tutkimustuloksista, terapiapalautteet ja muut lausunnot esim. liitteeksi kuntoutussuunnitelmaan, päiväkotihakemukseen, sopeutumisvalmennuskurssille jne.
+#OHJE_R 
+---
+###
+#KOODI      RL560 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jatkokuntoutuksen suunnittelu ja järjestelyt
+#RUOTSI     Planering och arrangering av vidare rehabilitation
+#LYHENNE    Jatkokuntoutuksen suunnittelu ja järjest
+#OHJE_S  
+Jatkokuntoutuksen järjestäminen.
+#OHJE_R 
+---
+###
+#KOODI      RL590 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tai tarkemmin määrittämätön asiakkaaseen liittyvä puheterapeutin työ
+#RUOTSI     Annan patient relaterad logopedisk arbete
+#LYHENNE    Muu asiakkaaseen liittyvä puheter. työ
+###
+#KOODI      RL610 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttinen konsultaatio asiakkaan kommunikaatiohäiriöön liittyvässä asiassa
+#RUOTSI     Konsultation av logoterapist för patientens kommunikationsstörning
+#LYHENNE    Puheterapeuttinen konsultaatio
+#OHJE_S  
+Esimerkiksi päiväkodin henkilöstön, hoitohenkilökunnan tai kommunikaatioympäristössä työskentelevien ihmisten pyytämä konsultaatio.
+#OHJE_R 
+---
+###
+#KOODI      RL620 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen kuntoutuksen suunnittelussa
+#RUOTSI     Logopisk expertarbete för planering av rehabilitation
+#LYHENNE    Asiantuntijana toimiminen kuntoutuksen s
+#OHJE_S  
+Päiväkodissa, koulussa, työryhmässä jne. toimiminen ja kuntoutuksen suunnitteluun osallistuminen.
+#OHJE_R 
+---
+###
+#KOODI      RL630 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeuttinen konsultaatio puhevammaisten tulkkipalveluasioissa
+#RUOTSI     Logopedisk konsultation för tolkservice för talstörda
+#LYHENNE    Puheter kons puhevamm tulkkipalv
+###
+#KOODI      RL690 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tai tarkemmin määrittämätön puheterapeuttinen konsultaatio
+#RUOTSI     Annan logopedisk konsultation
+#LYHENNE    Muu puheterapeuttinen konsultaatio
+###
+#KOODI      RL710 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeutin osuus kuntoutussuunnitelman laatimisessa tai kuntoutuspalaverissa
+#RUOTSI     Utarbetande av logopedisk del av rehabilitation plan
+#LYHENNE    Puhet osuus kuntoutussuunn / kunt. palav
+#OHJE_S  
+Kuntoutustyöryhmän työhön osallistuminen.
+#OHJE_R 
+---
+###
+#KOODI      RL720 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeutin osuus yhteistyökokouksissa
+#RUOTSI     Logopedisk expertise i samarbetsmöten
+#LYHENNE    Puheterapeutin osuus yhteistyökokouksiss
+###
+#KOODI      RL730 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puhelinneuvottelut
+#RUOTSI     Telefonmöte
+#LYHENNE    Puhelinneuvottelut
+#OHJE_S  
+Yhteydenotot eri asiantuntijoihin ja yhteistyötahoihin asiakkaan tutkimuksista ja/tai kuntoutuksesta.
+#OHJE_R 
+---
+###
+#KOODI      RL790 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu tai tarkemmin määrittämätön moniammatillinen yhteistyö
+#RUOTSI     Annan multiprofessional samarbete
+#LYHENNE    Muu moniammatillinen yhteistyö
+###
+#KOODI      RL810 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapeutin kouluttajatehtävät
+#RUOTSI     Undervisning om logopedi
+#LYHENNE    Puheterapeutin kouluttajatehtävät
+#OHJE_S  
+Muun ammattihenkilökunnan kouluttaminen ja työnohjaus, opiskelijoiden ohjaus (logopedian ja muiden alojen opiskelijat)
+#OHJE_R 
+---
+###
+#KOODI      RL820 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapian ennaltaehkäisevä tehtävä
+#RUOTSI     Förebyggand uppgifter i logopedi
+#LYHENNE    Puheterapian ennaltaehkäisevä tehtävä
+#OHJE_S  
+Tiedottamista, koulutusta ja perehdyttämistä sekä tiedotusmateriaalin tuottamista (esim. alueen päättäjät, terveydenhuollon henkilöstö). Toiminta tähtää puheterapeuttisten ongelmien ehkäisyyn.
+#OHJE_R 
+---
+###
+#KOODI      RL890 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut tai tarkemmin määrittämättömät puheterapeutin asiantuntijatehtävät
+#RUOTSI     Annan logopedisk expert uppgift
+#LYHENNE    Muu puheterapeutin asiantuntijatehtävä
+###
+#KOODI      RL910 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hallinnolliset tehtävät
+#RUOTSI     Addministration
+#LYHENNE    Hallinnolliset tehtävät
+#OHJE_S  
+Henkilöstöhallinto, toiminnan ja talouden suunnittelu sekä toiminnan koordinointi ja kehittäminen. Asiakaskäyntien, käyntityyppien, asiakastyön jne. tilastointi toimialakohtaisesti.
+#OHJE_R 
+---
+###
+#KOODI      RL920 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jatkuva ammatillinen kouluttautuminen
+#RUOTSI     Personlig deltagande i utbilldning
+#LYHENNE    Jatkuva ammatillinen kouluttautuminen
+#OHJE_S  
+Koulutus, työnohjaus, muu ammatillinen tiedonhankinta.
+#OHJE_R 
+---
+###
+#KOODI      RL930 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus- ja kehittämistyö
+#RUOTSI     Undersökning och utväckling
+#LYHENNE    Tutkimus- ja kehittämistyö
+#OHJE_S  
+Kehittämisprojektit, tutkimustyö jne.
+#OHJE_R 
+---
+###
+#KOODI      RL940 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laadunhallinta
+#RUOTSI     Kvalitetskontroll
+#LYHENNE    Laadunhallinta
+#OHJE_S  
+Puheterapeuttiseen toimintaan, työyhteisöön ja organisaatioon liittyvä laatutyöskentely.
+#OHJE_R 
+---
+###
+#KOODI      RL950 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Markkinointi
+#RUOTSI     Marknadsförning
+#LYHENNE    Markkinointi
+#OHJE_S  
+Puheterapiaan liittyvä markkinoinnin suunnittelu, toteutus ja seuranta.
+#OHJE_R 
+---
+###
+#KOODI      RL990 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hallinto ja kehittäminen
+#RUOTSI     Annan administration och utväckling
+#LYHENNE    Muu hallinto ja kehittäminen
+###
+#KOODI_R    RS
+#MUUT_PVM   2005/10/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Sosiaalityö
+#RUOTSI     Sosialarbete
+#ENGL       Social work
+###
+#KOODI      RS110 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisen tilanteen yleisarviointi
+#RUOTSI     Socialsituation allmän evaluering
+#LYHENNE    Sosiaalisen tilanteen yleisarviointi
+###
+#KOODI      RS120 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisen tilanteen yksilöllinen selvittäminen
+#RUOTSI     Socialsituation detaljerad evaluering
+#LYHENNE    Sosiaalisen tilanteen yksilöllinen selvi
+###
+#KOODI      RS130 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalinen tutkimus
+#RUOTSI     Social utredning
+#LYHENNE    Sosiaalinen tutkimus
+###
+#KOODI      RS131 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio sosiaalisen kuntoutuksen tarpeesta
+#RUOTSI     Utredning av behove för social rehabilitering
+#LYHENNE    Arvio sosiaalisen kuntoutuksen tarpeesta
+###
+#KOODI      RS132 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio työkyvystä ja kuntoutuksen tarpeesta
+#RUOTSI     Utredning om arbetsförmåga och behov för rehabilitering
+#LYHENNE    Arvio työkyvystä ja kuntoutuksen tarpees
+###
+#KOODI      RS140 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalityöntekijän lausunto
+#RUOTSI     Socialterapeutens utlåtande
+#LYHENNE    Sosiaalityöntekijän lausunto
+###
+#KOODI      RS190 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sosiaalinen arvio
+#RUOTSI     Annan social evaluering
+#LYHENNE    Muu sosiaalinen arvio
+###
+#KOODI      RS210 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykososiaalinen työ
+#RUOTSI     Psykosocial arbete
+#LYHENNE    Psykososiaalinen työ
+###
+#KOODI      RS211 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalityöntekijän keskustelu
+#RUOTSI     Diskussion med socialterapeut
+#LYHENNE    Sosiaalityöntekijän keskustelu
+###
+#KOODI      RS212 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykoterapia
+#RUOTSI     Psykoterapi
+#LYHENNE    Psykoterapia
+###
+#KOODI      RS213 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykososiaalinen valmennus
+#RUOTSI     Psykosocial träning
+#LYHENNE    Psykososiaalinen valmennus
+###
+#KOODI      RS219 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu psykososiaalinen työ
+#RUOTSI     Annat pyskosocialt arbete
+#LYHENNE    Muu psykososiaalinen työ
+###
+#KOODI      RS220 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalista toimintakykyä tukeva ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning för social funktionsförmåga
+#LYHENNE    Sosiaalista toimintakykyä tukeva ohjaus
+###
+#KOODI      RS221 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisneuvonta
+#RUOTSI     Allmän rådgivning
+#LYHENNE    Yleisneuvonta
+###
+#KOODI      RS222 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaaliturvaneuvonta
+#RUOTSI     Rådgivning om socialtrygghet
+#LYHENNE    Sosiaaliturvaneuvonta
+###
+#KOODI      RS223 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalipalvelujen ohjaus ja neuvonta
+#RUOTSI     Rådgivning och stöd för sociala tjänster
+#LYHENNE    Sosiaalipalvelujen ohjaus ja neuvonta
+###
+#KOODI      RS224 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutumista tukeva ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning för rehabilitering
+#LYHENNE    Kuntoutumista tukeva ohjaus ja neuvonta
+###
+#KOODI      RS225 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oikeusturvaneuvonta
+#RUOTSI     Juridisk rådgivning
+#LYHENNE    Oikeusturvaneuvonta
+###
+#KOODI      RS226 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vammaisten palveluihin liittyvä ohjaus ja neuvonta
+#RUOTSI     Handikap tjänst stöd och rådgivning
+#LYHENNE    Vammaisten palveluihin liittyvä ohjaus j
+###
+#KOODI      RS227 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Potilas- ja vapaaehtoisjärjestöjen toiminnasta tiedottaminen
+#RUOTSI     Information om frivilliga patientorganisationer
+#LYHENNE    Potilas- ja vapaaehtoisjärjestöjen toimi
+###
+#KOODI      RS228 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksityisten sosiaali- ja terveyspalvelujen ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning om privata social- och hälsotjänster
+#LYHENNE    Yksityisten sosiaali- ja terveyspalveluj
+###
+#KOODI      RS229 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sosiaalista toimintakykyä tukeva ohjaus ja neuvonta
+#RUOTSI     Annan stöd och rådgivning för social funktionsförmåga
+#LYHENNE    Muu sosiaalista toimintakykyä tukeva ohj
+###
+#KOODI      RS230 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avustaminen
+#RUOTSI     Assistering
+#LYHENNE    Avustaminen
+###
+#KOODI      RS231 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hakemukset, valitukset
+#RUOTSI     Ansökan och klagomål
+#LYHENNE    Hakemukset, valitukset
+###
+#KOODI      RS239 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu avustaminen
+#RUOTSI     Annan assistering
+#LYHENNE    Muu avustaminen
+###
+#KOODI      RS240 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palvelujen koordinointi ja moniammatillinen yhteistyö
+#RUOTSI     Kordination och multiprofessionell samarbete för service
+#LYHENNE    Palvelujen koordinointi ja moniammatilli
+###
+#KOODI      RS241 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jatkohoidon ja sijoitusten koordinointi
+#RUOTSI     Koordination av fortsatt vård och placering
+#LYHENNE    Jatkohoidon ja sijoitusten koordinointi
+###
+#KOODI      RS242 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutukseen liittyvä yhteistyö
+#RUOTSI     Samarbete om rehabilitering
+#LYHENNE    Kuntoutukseen liittyvä yhteistyö
+###
+#KOODI      RS249 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ammatillinen yhteistyö
+#RUOTSI     Annan professionell samarbete
+#LYHENNE    Muu ammatillinen yhteistyö
+###
+#KOODI      RS250 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Potilaan oikeuksiin liittyvä tiedon antaminen, neuvonta ja yhteistyö
+#RUOTSI     Information, rådgiving och samarbete om patienträttigheter
+#LYHENNE    Potilaan oikeuksiin liittyvä tiedon anta
+###
+#KOODI      RS290 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sosiaalisen toimintakyvyn tukeminen
+#RUOTSI     Annan stöd för social funktionsförmåga
+#LYHENNE    Muu sosiaalisen toimintakyvyn tukeminen
+###
+#KOODI      RS310 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimeentuloon liittyvä ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning om försörjing
+#LYHENNE    Toimeentuloon liittyvä ohjaus ja neuvont
+###
+#KOODI      RS311 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalivakuutukseen ja -avustukseen liittyvä ohjaus ja neuvonta osana sosiaaliturvaa
+#RUOTSI     Stöd och rådginving om socialförsäkring och -bidrag som delav socialtrygghet
+#LYHENNE    Sosiaalivakuutukseen ja -avustukseen lii
+###
+#KOODI      RS312 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalihuoltoon ja -palveluihin liittyvä ohjaus ja neuvonta osana sosiaaliturvaa
+#RUOTSI     Stöd och rådgivning om socialvård och -service som del av socialtrygghet
+#LYHENNE    Sosiaalihuoltoon ja -palveluihin liittyv
+###
+#KOODI      RS313 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työsuhdeturvaan ja työttömyyteen liittyvä ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning om anställningsskydd och arbetslöshet
+#LYHENNE    Työsuhdeturvaan ja työttömyyteen liittyv
+###
+#KOODI      RS314 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutuksen rahoitukseen liittyvä ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning om financiering av rehabilitation
+#LYHENNE    Kuntoutuksen rahoitukseen liittyvä ohjau
+###
+#KOODI      RS315 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Potilas- ja lääkevakuutukseen liittyvä ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning om patient- och läkemedelsförsäkring
+#LYHENNE    Potilas- ja lääkevakuutukseen liittyvä o
+###
+#KOODI      RS316 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vakuutusturvaan liittyvä ohjaus ja neuvonta
+#RUOTSI     Stöd och rådgivning om försäkringsskydd
+#LYHENNE    Vakuutusturvaan liittyvä ohjaus ja neuvo
+###
+#KOODI      RS319 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimeentuloon liittyvä ohjaus ja neuvonta
+#RUOTSI     Annan stöd och rådgivning om försörjing
+#LYHENNE    Muu toimeentuloon liittyvä ohjaus ja neu
+###
+#KOODI      RS320 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimeentulon turvaamiseen liittyvä yhteistyö
+#RUOTSI     Samarbete om försäkning av försöjing
+#LYHENNE    Toimeentulon turvaamiseen liittyvä yhtei
+###
+#KOODI      RS321 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Viranomaisyhteistyö sosiaalietuuden saamiseksi
+#RUOTSI     Myndighetssamarbete för att bevilja social förmån
+#LYHENNE    Viranomaisyhteistyö sosiaalietuuden saam
+###
+#KOODI      RS322 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakasmaksuharkinta, asiakasmaksupäätös
+#RUOTSI     Beaktande om kundavgift, kundavgiftsbeslut
+#LYHENNE    Asiakasmaksuharkinta, asiakasmaksupäätös
+###
+#KOODI      RS390 
+#MUUT_PVM   2005/05/13
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimeentulon turvaaminen
+#RUOTSI     Annan förskäkring av försörjing
+#LYHENNE    Muu toimeentulon turvaaminen
+###
+#KOODI      RS410 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijatehtävät
+#RUOTSI     Expert arbete
+#LYHENNE    Asiantuntijatehtävät
+###
+#KOODI      RS411 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntija omassa organisaatiossa
+#RUOTSI     Expert i egen organisation
+#LYHENNE    Asiantuntija omassa organisaatiossa
+#OHJE_S  
+Asiantuntijana toimiminen omassa työyhteisössä. Konsultaatioiden antaminen kertaluonteisesti tai toistuvasti esimerkiksi tiimeissä tai työryhmissä. Epäsuoraa asiakastyötä, jota sosiaalityöntekijä tekee organisaation työryhmissä. Esimerkiksi:
+TYKY-työryhmät, työsuojelu. Ei koske potilaita, joista sosiaalityöntekijä tekee sosiaalisen arvion (S1).
+#OHJE_R 
+---
+###
+#KOODI      RS412 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntija yhteistyöverkostoissa
+#RUOTSI     Expert i multiprofesional samarbete
+#LYHENNE    Asiantuntija yhteistyöverkostoissa
+#OHJE_S  
+Asiantuntijana toimiminen sosiaali- ja/tai terveydenhuollon työryhmissä ja asiakasyhteistyöryhmissä, joissa käsitellään yleisiä asioita, periaatteita tai asiakaspalvelua koskevia asioita. Jos asiakasyhteistyössä käsitellään sosiaalityöntekijän omia
+potilastapauksia, ne koodataan potilaskohtaisena yhteistyöneuvotteluna. Vrt. S24, S242.
+#OHJE_R 
+---
+###
+#KOODI      RS413 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tiedotustoiminta
+#RUOTSI     Information
+#LYHENNE    Tiedotustoiminta
+#OHJE_S  
+Organisaation sisäistä tiedottamista potilasryhmille ja henkilökunnalle sosiaaliturvasta, kuntoutusetuuksista, sosiaalipalvelujärjestelmistä sekä niiden muutoksista. Tiedotteiden ja esitteiden laatimista potilasryhmille. Vrt. S43 ulkoinen vaikuttaminen.
+#OHJE_R 
+---
+###
+#KOODI      RS414 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksilöimättömät asiakasryhmät
+#RUOTSI     Oidentifierade patientgrupp
+#LYHENNE    Yksilöimätön asiakasryhmä
+#OHJE_S  
+Asiakas/potilasryhmä, johon voi tulla ilmoittautumatta, jossa asiakkaita ei yksilöidä ja jossa sosiaalityöntekijä toimii alansa asiantuntijana yksin tai yhtenä työryhmän edustajana. Esimerkiksi: pahoinpideltyjen naisten ryhmät, alkoholiongelmaisten ryhmät.
+#OHJE_R 
+---
+###
+#KOODI      RS419 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut asiantuntijatehtävät
+#RUOTSI     Annan expertarbete
+#LYHENNE    Muut asiantuntijatehtävät
+###
+#KOODI      RS420 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajatehtävät
+#RUOTSI     Undervisning
+#LYHENNE    Kouluttajatehtävät
+###
+#KOODI      RS421 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajana toimiminen
+#RUOTSI     Undervisning
+#LYHENNE    Kouluttajana toimiminen
+#OHJE_S  
+Henkilöstöryhmien ja uusien työntekijöiden kouluttaminen ja perehdyttäminen omassa organisaatiossa tai asiantuntijana muissa organisaatioissa.
+#OHJE_R 
+---
+###
+#KOODI      RS422 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työnohjaajana toimiminen
+#RUOTSI     Inledning i arbetsuppgifter
+#LYHENNE    Työnohjaajana toimiminen
+#OHJE_S  
+Yksilö-, ryhmä- tai hallinnollinen työnohjaus.
+#OHJE_R 
+---
+###
+#KOODI      RS423 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opiskelijoiden ohjaus
+#RUOTSI     Undervisning av studenter
+#LYHENNE    Opiskelijoiden ohjaus
+#OHJE_S  
+Sosiaalityön opiskelijoiden työharjoittelun ohjaus tai käytännön opetus sekä muiden alojen opiskelijoiden tutustuttaminen sosiaalityön tehtäväalueeseen terveydenhuollossa.
+#OHJE_R 
+---
+###
+#KOODI      RS429 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut kouluttajatehtävät
+#RUOTSI     Annan undervisning
+#LYHENNE    Muut kouluttajatehtävät
+###
+#KOODI      RS430 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteiskunnallinen vaikuttaminen
+#RUOTSI     Social inflytande
+#LYHENNE    Yhteiskunnallinen vaikuttaminen
+#OHJE_S  
+Paikallisella ja valtakunnallisella tasolla neuvotteleminen ja muu yhteistyö palautteen antamiseksi työssä kertyvän tiedon perustella sosiaaliturva- ja palvelujärjestelmien epäkohdista ja väliinputoamisista sekä aloitteiden teko tilanteiden korjaamiseksi.
+#OHJE_R 
+---
+###
+#KOODI      RS490 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muut asiantuntija- ja koulutustehtävät
+#RUOTSI     Annan expert- och undervisningsupgift
+#LYHENNE    Muut asiantuntija- ja koulutustehtävät
+###
+#KOODI      RS910 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimialahallinto
+#RUOTSI     Administraion av brancsh
+#LYHENNE    Toimialahallinto
+#OHJE_S  
+Hallinnolliset tehtävät.
+#OHJE_R 
+---
+###
+#KOODI      RS911 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilöstöhallinto
+#RUOTSI     Personal administration
+#LYHENNE    Henkilöstöhallinto
+#OHJE_S  
+Henkilöstöresurssien suunnittelu ja kehittäminen.
+#OHJE_R 
+---
+###
+#KOODI      RS912 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toiminnan ja talouden suunnittelu ja seuranta
+#RUOTSI     Planring och uppföljning av aktivitet och ekonomi
+#LYHENNE    Toiminnan ja talouden suunnittelu ja seu
+#OHJE_S  
+Toimintasuunnitelmat ja -kertomukset, talousarvion vaatimat neuvottelut, sisäisten palvelujen osto/myyntineuvottelut, palvelujen tuotteistus, kustannuslaskenta ja hinnoittelu.
+#OHJE_R 
+---
+###
+#KOODI      RS913 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tiedottaminen
+#RUOTSI     Information
+#LYHENNE    Tiedottaminen
+#OHJE_S  
+Organisaation sisäinen hallinnollinen tiedottaminen henkilöstöhallintoon tai työnteon puitteisiin liittyvien lakien, säädösten ja palvelukäytäntöjen muutoksista, joilla on vaikutusta sosiaalityön tekemiseen.
+#OHJE_R 
+---
+###
+#KOODI      RS919 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimialahallinto
+#RUOTSI     Annan administration
+#LYHENNE    Muu toimialahallinto
+###
+#KOODI      RS920 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jatkuva ammatillinen kouluttautuminen
+#RUOTSI     Personlig deltagande i utbilldning
+#LYHENNE    Jatkuva ammatillinen kouluttautuminen
+#OHJE_S  
+Jatkuvan ammatillisen tiedon ja taidon sekä muun työssä tarvittavan tiedon ja osaamisen ylläpitäminen ja kehittäminen.
+#OHJE_R 
+---
+###
+#KOODI      RS921 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus
+#RUOTSI     Personlig deltagande i utbilldning
+#LYHENNE    Koulutus
+#OHJE_S  
+Osallistuminen organisaation sisäiseen ja /tai ulkopuoliseen täydennyskoulutukseen kattaen teoreettiset, tiedolliset ja taidolliset koulutukset tai osallistuminen ammatillisiin ja tieteellisiin jatkokoulutuksiin.
+#OHJE_R 
+---
+###
+#KOODI      RS922 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työnohjaus
+#RUOTSI     Deltagande i Inledning i arbetsuppgifter
+#LYHENNE    Työnohjaus
+#OHJE_S  
+Osallistuminen sosiaalityön, työyhteisön tai psykoterapian yksilö- tai ryhmätyönohjaukseen.
+#OHJE_R 
+---
+###
+#KOODI      RS929 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ammatillinen kouluttautuminen
+#RUOTSI     Deltagande i annan professionell egen utbildning
+#LYHENNE    Muu ammatillinen kouluttautuminen
+#OHJE_S  
+Muiden toimintatapoihin tutustuminen, vierailut, opintokäynnit, neuvottelut, konferenssit jne.
+#OHJE_R 
+---
+###
+#KOODI      RS930 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus, kehittäminen ja laadunhallinta
+#RUOTSI     Undersökning, utvecklande och kvalitetskontroll
+#LYHENNE    Tutkimus, kehittäminen ja laadunhallinta
+#OHJE_S  
+Osallistuminen tutkimus- ja kehittämishankkeisiin, tietotuotantoon ja laatutyöhön.
+#OHJE_R 
+---
+###
+#KOODI      RS931 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laadunhallinta
+#RUOTSI     Kvalitetskontroll
+#LYHENNE    Laadunhallinta
+#OHJE_S  
+Osallistuminen moniammatillisten hoito-, palvelu- ja verkostoketjujen laadunhallintaprojekteihin. Sosiaalityön palvelujen laadun suunnittelu, varmistaminen ja jatkuva parantaminen. Osallistuminen organisaation laadunhallintamenetelmien kehittämiseen.
+#OHJE_R 
+---
+###
+#KOODI      RS932 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus- ja kehittämisprojektit
+#RUOTSI     Undersökning och utveckling
+#LYHENNE    Tutkimus- ja kehittämisprojektit
+#OHJE_S  
+Osallistuminen sosiaalityön tutkimus- ja kehittämishankkeisiin sekä terveydenhuollon muihin tutkimushankkeisiin.
+#OHJE_R 
+---
+###
+#KOODI      RS990 
+#MUUT_PVM   2005/05/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hallinto ja kehittäminen
+#RUOTSI     Annan addministration och utveckling
+#LYHENNE    Muu hallinto ja kehittäminen
+###
+#KOODI_R    RT
+#MUUT_PVM   2006/01/10
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Toimintaterapia
+#RUOTSI     Arbetsterapi
+#ENGL       Occupational therapy
+###
+#KOODI      RT110 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alustava toimintaterapian tarpeen selvittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT120 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan elämäntilanteen selvittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT121 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan elämään vaikuttavien yksilöllisten tekijöiden selvittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT122 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiakkaan toimintaympäristöön vaikuttavien tekijöiden selvittäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT130 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakokonaisuuksien hallinnan arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT131 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Itsestä huolehtimisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT132 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asioimiseen ja kotielämään liittyvien toimintojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT133 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulunkäynnin ja opiskelun arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT134 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkyvyn ja työssä selviytymisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT135 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteiskunnallisen osallistumisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT136 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vapaa-ajan viettämisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT137 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leikkimisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT138 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Levon arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT140 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ympäristössä selviytymisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT141 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palvelutarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT142 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristössä toimimisen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT143 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asunnon ja lähiympäristön muutostyötarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT150 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taitojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT151 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motoristen taitojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT152 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prosessitaitojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT153 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psyykkisten taitojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT154 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisten taitojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT155 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eettisten taitojen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT160 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintavalmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT161 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sensoristen valmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT162 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motoristen valmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT163 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kognitiivisten valmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT164 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psyykkisten valmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT165 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisten valmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT166 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eettisten valmiuksien arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT170 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muiden toimintaa mahdollistavien tekijöiden arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT171 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortoositarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT172 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälinetarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT180 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteenveto ja arvio asiakkaan toimintamahdollisuuksien edistämiseksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT190 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimintaterapeutin tekemä arviointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT210 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suunnitelma toimintamahdollisuuksien edistämiseksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT220 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksittäisen terapiatilanteen valmistelu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT230 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakokonaisuuksien hallinnan edistämiseksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT231 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Itsestä huolehtimisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT232 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asioimiseen ja kotielämään liittyvien toimintojen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT233 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulunkäynnin ja opiskelun edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT234 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkyvyn ja työssä selviytymisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT235 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteiskunnallisen osallistumisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT236 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vapaa-ajan viettämisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT237 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leikkimisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT238 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Levon edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT240 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ympäristössä selviytymisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT241 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palveluiden suunnittelu ja järjestäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT242 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristössä toimimisen edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT244 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asunnon ja lähiympäristön muutostöiden suunnittelu ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT250 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taitojen vahvistaminen toiminnassa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT251 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motoristen taitojen vahvistaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT252 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prosessitaitojen vahvistaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT253 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psyykkisten taitojen vahvistaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT254 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisten taitojen vahvistaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT255 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eettisten taitojen vahvistaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT260 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintavalmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT261 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sensoristen valmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT262 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motoristen valmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT263 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kognitiivisten valmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT264 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psyykkisten valmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT265 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisten valmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT266 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eettisten valmiuksien parantaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT270 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muiden toimintaa mahdollistavien tekijöiden edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT271 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortoosin valmistus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT272 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortoosin sovitus, luovutus, käytön opetus ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT273 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen valmistus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT274 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen sovitus, luovutus, käytön opetus ja seuranta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT280 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteenveto asiakkaan toimintamahdollisuuksien edistämisestä
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT290 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimintamahdollisuuksien edistäminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT310 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakokonaisuuksien hallintaa edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT320 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taitojen vahvistamista edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT330 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintavalmiuksien parantamista edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT340 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ympäristössä selviytymistä edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT350 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortoosin käyttöä edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT360 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineiden käyttöä edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT370 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutuspalveluiden käyttöä edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT390 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu asiakkaan toimintamahdollisuuksia edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT410 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tiedon hankinta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT411 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuvotteluihin osallistuminen ja tiedottaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT420 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteistyö asiakkaan, hänen omaistensa ja tukiverkostonsa kanssa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT422 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutusyhteistyöhön osallistuminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT430 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konsultaatio
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT440 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dokumentointi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT441 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kirjaaminen potilas/asiakasasiakirjoihin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT442 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Videointi, valokuvaus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT443 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lausunnon laatiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT490 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimintaterapeuttinen asiakastyö
+#RUOTSI     Annan arbetsterapeutisk patientarbete
+#LYHENNE    Muu toimintaterapeuttinen asiakastyö
+###
+#KOODI      RT510 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT511 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen paikallisesti ja alueellisesti
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT512 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntijana toimiminen kansallisissa ja kansainvälisissä yhteistyö-verkostoissa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT513 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asiantuntija-avun antaminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT520 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajana ja ohjaajana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT521 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kouluttajana toimiminen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      RT522 
+#MUUT_PVM   2006/01/01
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintaterapeuttiopiskelijoiden ohjaus ja opettaminen
+#RUOTSI     ---
+#LYHENNE    

@@ -1,0 +1,7436 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU A
+
+@LUVUT_S = KAPITEL A
+
+@SUOMI_L = Hermoston toimenpiteet
+
+@RUOTSI_L = tg„rder p† nervsystemet
+
+@ENGL_L = Nervous system
+
+@END_L = 
+
+@KOODI_R = XA
+
+@SUOMI_R = Neurologiset tutkimukset
+
+@RUOTSI_R = Neurologiska examinationer
+
+@ENGL_R = Neurological examinations
+
+@END = 
+
+@KOODI = XA100 
+
+@SUOMI = Tensilontesti
+
+@RUOTSI = Tensilon-test
+
+@END = 
+
+@KOODI = XA400 
+
+@SUOMI = EEG
+
+@RUOTSI = EEG
+
+@END = 
+
+@KOODI = XA402 
+
+@SUOMI = ENMG
+
+@RUOTSI = ENMG
+
+@END = 
+
+@KOODI = XA404 
+
+@SUOMI = SEP
+
+@RUOTSI = SEP
+
+@END = 
+
+@KOODI = XA410 
+
+@SUOMI = BAEP
+
+@RUOTSI = BAEP
+
+@END = 
+
+@KOODI = XA412 
+
+@SUOMI = VEP
+
+@RUOTSI = VEP
+
+@END = 
+
+@KOODI = XA420 
+
+@SUOMI = Laaja unitutkimus
+
+@RUOTSI = 
+
+@NOTE_F = Ns. unipatjatutkimus
+
+@END = 
+
+@KOODI = XA800 
+
+@SUOMI = Neuropsykologinen tutkimus
+
+@RUOTSI = Neuropsykologisk unders”kning
+
+@END = 
+
+@KOODI_R = AA
+
+@SUOMI_R = Kallonsis„isten elinten toimenpiteet
+
+@RUOTSI_R = tg„rder p† intrakraniella strukturer
+
+@ENGL_R = Skull and intracranial structures
+
+@END = 
+
+@KOODI_A = AA4
+
+@SUOMI_A = S„hk”shokki
+
+@RUOTSI_A = Elektrisk shock
+
+@ENGL_A = Electrical shock
+
+@END = 
+
+@KOODI = AA400 
+
+@SUOMI = S„hk”shokki psyykisen sairauden hoitona
+
+@RUOTSI = Elektrisk shock i psykiatrisk behandling
+
+@END = 
+
+@KOODI_A = ABD
+
+@SUOMI_A = Selk„ydin- ja hermojuurtoimenpiteet kivun ja toiminnallisten h„iri”iden vuoksi
+
+@RUOTSI_A = Operationer p† ryggm„rg och nervr”tter p.g.a.sm„rta och funktionella st”rningar
+
+@ENGL_A = Operations on spinal cord and nerve roots for pain or impaired function
+
+@END = 
+
+@KOODI = ABD30 
+
+@SUOMI = Selk„ytimen s„hk”„rsytyslaitteen asettaminen
+
+@RUOTSI = Intraspinal applikation av elektrostimulator
+
+@END = 
+
+@KOODI = ABD40 
+
+@SUOMI = Injektiolaitteen asettaminen selk„ydinkanavaan
+
+@RUOTSI = Inl„ggande injektionsport i spinalkanalen
+
+@END = 
+
+@KOODI = TAB00 
+
+@SUOMI = Lannepisto, lumbaalipunktio
+
+@RUOTSI = Lumbalpunktion
+
+@END = 
+
+@KOODI = TAB10 
+
+@SUOMI = Niskapisto
+
+@RUOTSI = Nackstick (suboccipitalpunktion)
+
+@END = 
+
+@KOODI = TAB20 
+
+@SUOMI = Epiduraalipisto
+
+@RUOTSI = Epiduralpunktion
+
+@END = 
+
+@KOODI = TAB22 
+
+@SUOMI = Epiduraalinen veripaikka
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = AC
+
+@SUOMI_R = „reishermojen toimenpiteet
+
+@RUOTSI_R = tg„rder p† perifera nerver
+
+@ENGL_R = Peripheral nerves
+
+@NOTE_RF = „reishermon salpaus, blokadi TAC 00
+
+@NOTE_RS = Blockad av perifer nerv, se TAC00
+
+@END = 
+
+@KOODI = ACA29 
+
+@SUOMI = Koepalan otto „„reishermosta
+
+@RUOTSI = Biopsi av perifer nerv
+
+@END = 
+
+@KOODI = ACB29 
+
+@SUOMI = „reishermon ompelu
+
+@RUOTSI = Neurorafi av perifer nerv
+
+@END = 
+
+@KOODI = TAC00 
+
+@SUOMI = Kivun hoito „„reishermon salpauksella
+
+@RUOTSI = Blockad av perifer nerv i kronisk sm„rta
+
+@END = 
+
+@KOODI = TAC02 
+
+@SUOMI = Kivun hoito kylkiluunv„lihermojen salpauksella
+
+@RUOTSI = Interkostalblockad i kronisk sm„rta
+
+@END = 
+
+@KOODI = TAC99 
+
+@SUOMI = Muu puudutustoimenpide kroonisen kivun hoidossa
+
+@RUOTSI = Anna bed”vning f”r kronisk sm„rta
+
+@END = 
+
+@KOODI_R = AD
+
+@SUOMI_R = Autonomisen hermoston toimenpiteet
+
+@RUOTSI_R = tg„rder p† autonoma nervsystemet
+
+@ENGL_R = Autonomic nervous system
+
+@NOTE_RF = Kemialliset sympatektomiat kohdassa TAD
+
+@NOTE_RS = Kemisk sympatektomi, se TAD
+
+@END = 
+
+@KOODI = TAD02 
+
+@SUOMI = Sympaattisen hermoston salpaus t„htipunoksessa
+
+@RUOTSI = Sympathicus-blockad i ganglion stellatum
+
+@END = 
+
+@KOODI = TAD04 
+
+@SUOMI = Sympaattisen hermoston salpaus keliakuspunoksessa
+
+@RUOTSI = Sympathicus-blockad i ganglion coeliacum
+
+@END = 
+
+@KOODI = TAD06 
+
+@SUOMI = Sympaattisen hermoston salpaus lannerangan tasolla
+
+@RUOTSI = Sympathicus-blockad i lumbal niv†
+
+@END = 
+
+@KOODI = TAD08 
+
+@SUOMI = Sympaattisen hermoston salpaus ristiluun tasolla
+
+@RUOTSI = Sympathicus-blockad i sakral niv†
+
+@END = 
+
+@KOODI_R = AW
+
+@SUOMI_R = Hermoston leikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer f”r s†rkomplikationer av neurokirurgi
+
+@ENGL_R = Reoperations for postoperative complications in neurosurgery
+
+@END = 
+
+@KOODI = AWB00 
+
+@SUOMI = Auenneen tai tulehtuneen hermoston leikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av dehiscens eller infektion i operationss†r (neuro-operation)
+
+@END = 
+
+@KOODI = TAW99 
+
+@SUOMI = Muu hermoston pientoimenpiteet
+
+@RUOTSI = Annan mindre neurokirurgisk operation
+
+@END = 
+
+@LUVUT = LUKU B
+
+@LUVUT_S = KAPITEL B
+
+@SUOMI_L = Umpierityselimien toimenpiteet
+
+@RUOTSI_L = tg„rder p† endokrina organ
+
+@ENGL_L = Endocrine system
+
+@END_L = 
+
+@KOODI = TBA00 
+
+@SUOMI = Kilpirauhaspisto
+
+@RUOTSI = Punktion av sk”ldk”rteln
+
+@NOTE_F = Sis„lt„„ mahdollisen U ohjauksen
+
+@NOTE_S = Inkl ultraljudsutstryrd
+
+@END = 
+
+@KOODI = TBA10 
+
+@SUOMI = Neulakudosn„ytteen otto kilpirauhasesta
+
+@RUOTSI = Punktionsbiopsi av sk”ldk”rteln
+
+@NOTE_F = Sis„lt„„ mahdollisen U ohjauksen
+
+@NOTE_S = Inkl ultraljudsutstryrd
+
+@END = 
+
+@KOODI = TBA20 
+
+@SUOMI = Imuneulan„ytteen otto kilpirauhasesta
+
+@RUOTSI = Finn†lsbiopsi (aspirationscytologi) av sk”ldk”rteln
+
+@NOTE_F = Sis„lt„„ mahdollisen U ohjauksen
+
+@NOTE_S = Inkl ultraljudsutstryrd
+
+@END = 
+
+@KOODI = TBC00 
+
+@SUOMI = Neulakudosn„ytteen otto lis„munuaisesta
+
+@RUOTSI = Punktionsbiopsi av binjure
+
+@END = 
+
+@KOODI = TBC10 
+
+@SUOMI = Ohutneulan„ytteen otto lis„munuaisesta
+
+@RUOTSI = Finn†lsbiopsi (aspirationscytologi) av binjure
+
+@END = 
+
+@KOODI = BWA00 
+
+@SUOMI = Auenneen tai tulehtuneen umpierityselinleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av dehiscens eller s†rinfektion efter operation p† de endokrina organen
+
+@END = 
+
+@KOODI = TBW99 
+
+@SUOMI = Muut umpierityselimien pientoimenpiteet
+
+@RUOTSI = Annan mindre operation p† endokrina organ
+
+@END = 
+
+@LUVUT = LUKU C
+
+@LUVUT_S = KAPITEL C
+
+@SUOMI_L = Silm„n alueen toimenpiteet ja erikoistutkimukset
+
+@RUOTSI_L = tg„rder och speciella unders”kningar i ”gonregionen
+
+@ENGL_L = Eye and adjacent structures
+
+@END_L = 
+
+@KOODI = TCB10 
+
+@SUOMI = Silm„ripsien poistaminen nyppim„ll„
+
+@RUOTSI = Epilering av cilier vid trichiasis
+
+@NOTE_F = Poisto s„hk”ll„ kohdassa CBG00
+
+@NOTE_S = Elektrolysepilering av cilier, se CBG00
+
+@END = 
+
+@KOODI = TCB30 
+
+@SUOMI = Ptoosin takia asetetun ompeleen poistaminen
+
+@RUOTSI = Avl„gsnande av ptos-sutur
+
+@NOTE_F = esim. luomikouristuksessa
+
+@NOTE_S = T.ex. vid blefarospasm (”gonlockskramp)
+
+@END = 
+
+@KOODI = TCB40 
+
+@SUOMI = Chalazionin poisto
+
+@RUOTSI = Extirpation av chalazion
+
+@END = 
+
+@KOODI = TCC00 
+
+@SUOMI = Neulakudosn„ytteen otto kyynelrauhasesta
+
+@RUOTSI = Punktionsbiopsi av t†rk”rtel
+
+@END = 
+
+@KOODI = TCG00 
+
+@SUOMI = Sarveis- ja kovakalvon suojaus kontaktilinssill„
+
+@RUOTSI = Behandling av s†r i hornhinna eller sklera med bandagelins
+
+@END = 
+
+@KOODI = TCW99 
+
+@SUOMI = Muut silm„n alueen pientoimenpiteet
+
+@RUOTSI = Annan mindre operation i ”gonregionen
+
+@END = 
+
+@LUVUT = LUKU D
+
+@LUVUT_S = KAPITEL D
+
+@SUOMI_L = Korvan, nen„n ja kurkunp„„n toimenpiteet
+
+@RUOTSI_L = tg„rder p† ”ron, n„sa, hals och struphuvud
+
+@ENGL_L = Ear, nose and larynx
+
+@END_L = 
+
+@KOODI_R = DA
+
+@SUOMI_R = Ulkokorvan toimenpiteet
+
+@RUOTSI_R = tg„rder p† ytter”rat
+
+@ENGL_R = Auricle
+
+@NOTE_RF = Koepalat p„„n ihosta luvussa Q
+
+@NOTE_RS = Biopsi av huvudets hud, se Q
+
+@END = 
+
+@KOODI = TDA00 
+
+@SUOMI = Neulakudosn„ytteen otto ulkokorvasta tai korvak„yt„v„st„
+
+@RUOTSI = Punktionsbiopsi av aurikel eller yttre h”rselg†ng
+
+@END = 
+
+@KOODI = TDA10 
+
+@SUOMI = Koepalan otto ulkokorvasta tai korvak„yt„v„st„
+
+@RUOTSI = Biopsi av aurikel eller yttre h”rselg†ng
+
+@END = 
+
+@KOODI = TDA90 
+
+@SUOMI = Vahanpoisto korvak„yt„v„st„
+
+@RUOTSI = Avl'gsnane av vax fr†n h”rselg†ng
+
+@END = 
+
+@KOODI_R = DB
+
+@SUOMI_R = Korvak„yt„v„n toimenpiteet
+
+@RUOTSI_R = tg„rder p† h”rselg†ngen
+
+@ENGL_R = External auditory canal
+
+@END = 
+
+@KOODI = TDB00 
+
+@SUOMI = Korvak„yt„v„n vierasesineen poisto
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp fr†n h”rselg†ng
+
+@END = 
+
+@KOODI_R = DC
+
+@SUOMI_R = T„rykalvon ja v„likorvan toimenpiteet
+
+@RUOTSI_R = Operationer p† trumhinnan och mellan”rat
+
+@ENGL_R = Eardrum and middle ear
+
+@NOTE_RF = T„hystykset (mm. otomikroskopia) luvussa U
+
+@NOTE_RS = Skopier inkl otomikroskopi, se U
+
+@END = 
+
+@KOODI = DCA10 
+
+@SUOMI = T„rykalvopisto
+
+@RUOTSI = Paracentes av trumhinnan
+
+@END = 
+
+@KOODI = TDC00 
+
+@SUOMI = Neulakudosn„ytteen otto t„rykalvosta
+
+@RUOTSI = Punktionsbiopsi av trumhinna
+
+@END = 
+
+@KOODI = UDC00 
+
+@SUOMI = Otomikroskopia
+
+@RUOTSI = Otomikroskopi
+
+@END = 
+
+@KOODI = UDC10 
+
+@SUOMI = Tympanoskopia
+
+@RUOTSI = Tympanoskopi
+
+@END = 
+
+@KOODI = TDC10 
+
+@SUOMI = Ilmastointiputken poisto t„rykalvosta
+
+@RUOTSI = Avl„gsnande av mellan”redr„nage
+
+@END = 
+
+@KOODI_R = DH
+
+@SUOMI_R = Nen„n toimenpiteet
+
+@RUOTSI_R = Operationer p† n„san (exkl septum)
+
+@ENGL_R = Nose
+
+@NOTE_RF = Nen„n t„hystykset luvussa U
+
+@NOTE_RS = Skopier, se U
+
+@END = 
+
+@KOODI = DHA00 
+
+@SUOMI = Ulkonen„n paikallisen muutoksen aukaisu
+
+@RUOTSI = Incision av lokal f”r„ndring i n„san
+
+@END = 
+
+@KOODI = DHA10 
+
+@SUOMI = Koepalan otto nen„ontelosta
+
+@RUOTSI = Biopsi ur n„sh†lan
+
+@END = 
+
+@KOODI = DHB00 
+
+@SUOMI = Paikallisen muutoksen poisto ulkonen„st„
+
+@RUOTSI = Exstirpation (av t.ex. tum”r) fr†n n„san
+
+@END = 
+
+@KOODI = DHB10 
+
+@SUOMI = Paikallisen muutoksen poisto nen„ontelosta
+
+@RUOTSI = Exstirpation av endonasal tum”r
+
+@END = 
+
+@KOODI = DHB20 
+
+@SUOMI = Polyypin poisto nen„ontelosta
+
+@RUOTSI = Polypevulsion
+
+@END = 
+
+@KOODI = DHC00 
+
+@SUOMI = Vierasesineen poisto nen„st„
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp fr†n n„sh†lan
+
+@END = 
+
+@KOODI = DHD10 
+
+@SUOMI = Nen„n murtuman korjaaminen suljetusti
+
+@RUOTSI = Sluten reposition av n„sfraktur
+
+@END = 
+
+@KOODI = TDH00 
+
+@SUOMI = Neulakudosn„ytteen otto ulkonen„st„
+
+@RUOTSI = Punktionsbiopsi av n„san
+
+@END = 
+
+@KOODI = UDH02 
+
+@SUOMI = Nen„n ja nen„nielun t„hystys
+
+@RUOTSI = Rinofaryngoskopi
+
+@END = 
+
+@KOODI = TDH50 
+
+@SUOMI = Nen„nv„lisein„n sivuun luiskahduksen korjaaminen vastasyntyneell„
+
+@RUOTSI = Neonatal korrektion av deviation av nasal septum
+
+@END = 
+
+@KOODI = TDH60 
+
+@SUOMI = Vierasesineen poisto nen„st„
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp fr†n n„san
+
+@END = 
+
+@KOODI_R = DJ
+
+@SUOMI_R = Nen„n v„lisein„n toimenpiteet
+
+@RUOTSI_R = Operationer p† n„sseptum
+
+@ENGL_R = Septum of nose
+
+@END = 
+
+@KOODI = DJA00 
+
+@SUOMI = Nen„n v„lisein„n aukaisu
+
+@RUOTSI = Incision av n„sseptum
+
+@END = 
+
+@KOODI = DJA10 
+
+@SUOMI = Koepalan otto nen„n v„lisein„st„
+
+@RUOTSI = Biopsi av n„sseptum
+
+@END = 
+
+@KOODI = DKW00 
+
+@SUOMI = Nen„n limakalvovuodon hyydytys
+
+@RUOTSI = Koagulering av blodk„rl vid n„sblod
+
+@END = 
+
+@KOODI = DKW10 
+
+@SUOMI = Nen„n etutamponaatio
+
+@RUOTSI = Fr„mre n„stamponad
+
+@END = 
+
+@KOODI = DKW20 
+
+@SUOMI = Nen„n takatamponaatio
+
+@RUOTSI = Bakre n„stamponad
+
+@END = 
+
+@KOODI = DKW30 
+
+@SUOMI = Nen„valtimoiden polttaminen,
+
+@RUOTSI = Elektrokoagulation vid n„sblod
+
+@END = 
+
+@KOODI_R = DM
+
+@SUOMI_R = Poskionteloiden ja yl„leuan toimenpiteet
+
+@RUOTSI_R = tg„rder p† sinus maxillaris och ”verk„ken
+
+@ENGL_R = Maxillary antrum and maxilla
+
+@END = 
+
+@KOODI = TDM00 
+
+@SUOMI = Neulakudosn„ytteen otto poskiontelosta
+
+@RUOTSI = Punktionsbiopsi av k„kh†la
+
+@END = 
+
+@KOODI = TDM10 
+
+@SUOMI = Poskiontelon punktio
+
+@RUOTSI = Punktion av k„kh†la
+
+@NOTE_F = Sis. poskiontelon huuhtelun
+
+@NOTE_S = Inkl spolning
+
+@END = 
+
+@KOODI_R = DN
+
+@SUOMI_R = Seulalokeroiden ja seulaluun toimenpiteet
+
+@RUOTSI_R = tg„rder p† sinus ethmoidalis och os ethmoidale
+
+@ENGL_R = Ethmoidal sinus and bone
+
+@END = 
+
+@KOODI = TDN00 
+
+@SUOMI = Neulakudosn„ytteen otto seulalokeroista ja seulaluusta
+
+@RUOTSI = Punktionsbiopsi av sinus ethmoidalis eller os ethmoidale
+
+@END = 
+
+@KOODI_R = DP
+
+@SUOMI_R = Otsaontelon ja kitaontelon toimenpiteet
+
+@RUOTSI_R = tg„rder p† frontal- och sphenoidalsinus
+
+@ENGL_R = Frontal and sphenoidal sinuses
+
+@END = 
+
+@KOODI = TDP00 
+
+@SUOMI = Neulakudosn„ytteen otto otsaontelosta
+
+@RUOTSI = Punktionsbiopsi av sinus frontalis
+
+@END = 
+
+@KOODI = TDP05 
+
+@SUOMI = Otsaontelon punktio
+
+@RUOTSI = Punktion av sinus frontalis
+
+@END = 
+
+@KOODI = TDP10 
+
+@SUOMI = Neulakudosn„ytteen otto kitaontelosta
+
+@RUOTSI = Punktionsbiopsi av sinus sphenoidalis
+
+@END = 
+
+@KOODI_R = DQ
+
+@SUOMI_R = Kurkunp„„n toimenpiteet
+
+@RUOTSI_R = Operationer p† larynx
+
+@ENGL_R = Larynx
+
+@END = 
+
+@KOODI = DQC00 
+
+@SUOMI = Vierasesineen poisto kurkunp„„st„
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp ur struphuvudet
+
+@END = 
+
+@KOODI = DQC10 
+
+@SUOMI = Vierasesineen poisto kurkunp„„st„ t„hystyksess„
+
+@RUOTSI = Endoskopiskt avl„gsnande av fr„mmande kropp ur struphuvudet
+
+@END = 
+
+@KOODI = TDQ00 
+
+@SUOMI = Neulakudosn„ytteen otto kurkunp„„st„
+
+@RUOTSI = Punktionsbiopsi av larynx
+
+@END = 
+
+@KOODI = UDQ02 
+
+@SUOMI = Suora kurkunp„„n t„hystys
+
+@RUOTSI = Direkt laryngoskopi
+
+@END = 
+
+@KOODI = UDQ12 
+
+@SUOMI = Nen„n ja kurkunp„„n t„hystys
+
+@RUOTSI = Rinoskopi med laryngoskopi
+
+@END = 
+
+@KOODI = UDQ22 
+
+@SUOMI = Kurkunp„„n tutkimus mikroskoopilla
+
+@RUOTSI = Laryngomikroskopi
+
+@END = 
+
+@KOODI_R = DW
+
+@SUOMI_R = Korva-, nen„-, kaula- ja kurkunp„„leikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer f”r s†rkomplikationer av ”gon-, n„s- och halskirurgi
+
+@ENGL_R = Reoperations in surgery of ear, nose and larynx
+
+@END = 
+
+@KOODI = TDW99 
+
+@SUOMI = Muut korvan, nen„n ja kurkunp„„n pientoimenpiteet
+
+@RUOTSI = Andra mindre ingrepp p† ”ron, n„sa, svalg och larynx
+
+@END = 
+
+@LUVUT = LUKU E
+
+@LUVUT_S = KAPITEL E
+
+@SUOMI_L = Hampaiden, leuan, suun ja nielun toimenpiteet
+
+@RUOTSI_L = tg„rder p† l„ppar, t„nder, k„kar, mun och svalg
+
+@ENGL_L = Teeth, jaws, mouth and pharynx
+
+@END_L = 
+
+@KOODI_R = EA
+
+@SUOMI_R = Huulien toimenpiteet
+
+@RUOTSI_R = Operationer p† l„pparna
+
+@ENGL_R = Lips
+
+@END = 
+
+@KOODI_A = EAA
+
+@SUOMI_A = Huulen poistotoimenpiteet
+
+@RUOTSI_A = Resektion, excision av l„pp
+
+@ENGL_A = Incision and excision of lip
+
+@END = 
+
+@KOODI = EAA00 
+
+@SUOMI = Huulen aukaisu, insisio
+
+@RUOTSI = Incision av l„pp
+
+@NOTE_F = Sis„lt„„ mahdollisen dreenin asetuksen
+
+@NOTE_F =
+Koepalan otto huulesta TEA
+
+@NOTE_S = Inkl ev dr„nage
+
+@NOTE_S = Biopsi av l„pp, se TEA
+
+@END = 
+
+@KOODI = EAA10 
+
+@SUOMI = Huulimuutoksen poisto, eksisio
+
+@RUOTSI = Exstirpation av lokal f”r„ndring p† l„pp
+
+@END = 
+
+@KOODI_A = EAB
+
+@SUOMI_A = Huulien korjaamistoimenpiteet
+
+@RUOTSI_A = Rekonstruktiva ingrepp p† l„pparna
+
+@ENGL_A = Reconstructive operations on lip
+
+@END = 
+
+@KOODI = EAB00 
+
+@SUOMI = Huulen ompelu
+
+@RUOTSI = Sutur av l„pp
+
+@NOTE_F = Sis„lt„„ haavan puhdistamisen
+
+@NOTE_S = Inkl revision, debridering
+
+@END = 
+
+@KOODI = EAB10 
+
+@SUOMI = Huulij„nteen poisto tai muovaus
+
+@RUOTSI = Excision eller plastik av l„ppfrenulum
+
+@END = 
+
+@KOODI = TEA00 
+
+@SUOMI = Koepalan otto huulesta
+
+@RUOTSI = Biopsi av l„pp
+
+@END = 
+
+@KOODI = TEA10 
+
+@SUOMI = Neulakudosn„ytteen otto huulesta
+
+@RUOTSI = Punktionsbiopsi av l„pp
+
+@END = 
+
+@KOODI_R = EB
+
+@SUOMI_R = Hampaiston toimenpiteet
+
+@RUOTSI_R = Operationer p† t„nderna
+
+@ENGL_R = Teeth
+
+@NOTE_RF = Konservatiiviset toimenpiteet kohdassa TE
+
+@NOTE_RS = Konservativ tandbehandling, se TE
+
+@END = 
+
+@KOODI_A = EBA
+
+@SUOMI_A = Hampaiden poistot
+
+@RUOTSI_A = Avl„gsnande av tand eller del av tand
+
+@ENGL_A = Extraction and partial excision of tooth
+
+@END = 
+
+@KOODI = EBA00 
+
+@SUOMI = Hampaan poisto
+
+@RUOTSI = Tandextraktion
+
+@END = 
+
+@KOODI_A = EBB
+
+@SUOMI_A = Hampaiden korjaaminen tai siirto
+
+@RUOTSI_A = Rekonstruktiva ingrepp p† t„nderna
+
+@ENGL_A = Reconstructive operations on teeth
+
+@END = 
+
+@KOODI = EBB05 
+
+@SUOMI = Hammasmurtuman hoito
+
+@RUOTSI = Behandling av tandfraktur
+
+@END = 
+
+@KOODI = TEB00 
+
+@SUOMI = Hampaan kruunuttaminen
+
+@RUOTSI = Applikationav tandkrona
+
+@END = 
+
+@KOODI = TEB10 
+
+@SUOMI = Hampaant„ytt” suoralla menetelm„ll„
+
+@RUOTSI = Tandfyllning med plastiskt material
+
+@END = 
+
+@KOODI = TEB20 
+
+@SUOMI = Hampaant„ytt” ep„suoralla menetelm„ll„
+
+@RUOTSI = Tandfyllning med fast material
+
+@END = 
+
+@KOODI = TEB30 
+
+@SUOMI = Hampaan juurihoito
+
+@RUOTSI = Rotbehandling av tand
+
+@END = 
+
+@KOODI = TEB40 
+
+@SUOMI = M„rkiv„n hampaan avaus
+
+@RUOTSI = Dr„nage av odontogen abscess
+
+@END = 
+
+@KOODI_R = EC
+
+@SUOMI_R = Ikenien ja hammasharjanteen toimenpiteet
+
+@RUOTSI_R = Operationer p† gingiva och alveolarutskott
+
+@ENGL_R = Gingiva and alveoli
+
+@NOTE_RF = Punktiot ja neulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI = ECA00 
+
+@SUOMI = Hampaan paljastus
+
+@RUOTSI = Fril„ggning av tand
+
+@END = 
+
+@KOODI = ECA10 
+
+@SUOMI = Ikenen aukaisu
+
+@RUOTSI = Incision och dr„nering genom gingivan
+
+@END = 
+
+@KOODI = ECA20 
+
+@SUOMI = Koepalan otto ikenest„
+
+@RUOTSI = Biopsi av gingivan
+
+@NOTE_F = Neulan„ytteen otto ikenest„ TEC00
+
+@NOTE_S = N†lbiopsi av gingivan, se TCE00
+
+@END = 
+
+@KOODI = ECA40 
+
+@SUOMI = Hammasvieruskudoksen ajoksen leikkaus
+
+@RUOTSI = Behandling av parodontal abscess
+
+@END = 
+
+@KOODI = ECA60 
+
+@SUOMI = Vierasesineen poisto ikenest„ taihammasharjanteesta
+
+@RUOTSI = Exstirpation av fr„mmande f”rem†l i gingiva eller alveolarutskott
+
+@END = 
+
+@KOODI = ECB00 
+
+@SUOMI = Ikenen ompelu
+
+@RUOTSI = Sutur av gingiva (inkl ev revision)
+
+@END = 
+
+@KOODI = TEC00 
+
+@SUOMI = Neulan„ytteenotto ikenest„
+
+@RUOTSI = Punktionsbiopsi av gingiva
+
+@END = 
+
+@KOODI_R = ED
+
+@SUOMI_R = Alaleuan toimenpiteet
+
+@RUOTSI_R = Operationer p† underk„ken
+
+@ENGL_R = Mandible
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI = TED00 
+
+@SUOMI = Leukanivelsijoiltaanmenon paikoilleen asettaminen
+
+@RUOTSI = Reposition av luxerad underk„ke
+
+@END = 
+
+@KOODI = TED10 
+
+@SUOMI = Neulakudosn„ytteen otto alaleuasta
+
+@RUOTSI = Punktionsbiopsi av underk„ken
+
+@END = 
+
+@KOODI_R = EE
+
+@SUOMI_R = Yl„leuan toimenpiteet
+
+@RUOTSI_R = Operationer p† ”verk„ken
+
+@ENGL_R = Maxilla
+
+@NOTE_RF = Poskiontelon leikkaukset kohdassa DM
+
+@NOTE_RF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Operationer p† sinus maxillaris, se DM
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI = TEE00 
+
+@SUOMI = Neulakudosn„ytteen otto yl„leuasta
+
+@RUOTSI = Punktionsbiopsi av ”verk„ken
+
+@END = 
+
+@KOODI_R = EG
+
+@SUOMI_R = Leukanivelien toimenpiteet
+
+@RUOTSI_R = Operationer p† k„klederna
+
+@ENGL_R = Mandibular joint
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI = TEG00 
+
+@SUOMI = Neulakudosn„ytteen otto leukanivelest„
+
+@RUOTSI = Punktionsbiopsi av k„kled
+
+@END = 
+
+@KOODI_R = EH
+
+@SUOMI_R = Suulaen toimenpiteet
+
+@RUOTSI_R = Operationer p† gommen
+
+@ENGL_R = Palate
+
+@NOTE_RF = Punktiot ja neulabiopsiat, katso TE
+
+@NOTE_RF =
+Siirteiden materiaali ilmoitetaan lis„koodilla luvusta Z
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@NOTE_RS =
+Material av transplantat anges med till„ggskod, se Z
+
+@END = 
+
+@KOODI = EHA00 
+
+@SUOMI = Suulaen aukaisu
+
+@RUOTSI = Incision av gommen
+
+@END = 
+
+@KOODI = EHA10 
+
+@SUOMI = Koepalan otto suulaesta
+
+@RUOTSI = Biopsi av gommen
+
+@END = 
+
+@KOODI = TEH00 
+
+@SUOMI = Neulakudosn„ytteen otto suulaesta
+
+@RUOTSI = Punktionsbiopsi av gommen
+
+@END = 
+
+@KOODI_R = EJ
+
+@SUOMI_R = Kielen ja suunpohjan toimenpiteet
+
+@RUOTSI_R = Operationer p† tunga och munbotten
+
+@ENGL_R = Tongue and floor of mouth
+
+@NOTE_RF = Siirteet luvussa Z
+
+@NOTE_RF =
+Kaulan (imusolmukkeiden) toimenpiteet ryhm„ss„ PJ
+
+@NOTE_RS = Material av transplantat anges med till„ggskod, se Z
+
+@NOTE_RS =
+Ingrepp p† halsens lymfknutor, se PJ
+
+@END = 
+
+@KOODI_A = EJA
+
+@SUOMI_A = Kielen ja suunpohjan koepalan otto tai aukaisu
+
+@RUOTSI_A = Incision, biopsi av tunga och munbotten
+
+@ENGL_A = Incision, biopsy and removal of foreign body of tongue and floor of mouth
+
+@END = 
+
+@KOODI = EJA00 
+
+@SUOMI = Kielen tai suunpohjan m„rk„pes„kkeen aukaisu ja kanavointi
+
+@RUOTSI = Incision av abscess i tunga eller munbotten
+
+@NOTE_F = Sis„lt„„ dreenin asetuksen
+
+@NOTE_S = Inkl ev. dr„nage
+
+@END = 
+
+@KOODI = EJA10 
+
+@SUOMI = Koepalan otto kielest„ tai suunpohjasta
+
+@RUOTSI = Biopsi av tunga eller munbotten
+
+@END = 
+
+@KOODI = EJA20 
+
+@SUOMI = Vierasesineen poisto kielest„ tai suunpohjasta
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp fr†n tunga eller munbotten
+
+@END = 
+
+@KOODI = EJB00 
+
+@SUOMI = Ranulan poisto
+
+@RUOTSI = Exstirpation av ranula
+
+@END = 
+
+@KOODI = TEJ00 
+
+@SUOMI = Neulakudosn„ytteen otto suunpohjasta
+
+@RUOTSI = Punktionsbiopsi av munbottnen
+
+@END = 
+
+@KOODI_R = EK
+
+@SUOMI_R = Posken toimenpiteet
+
+@RUOTSI_R = Operationer p† kinden
+
+@ENGL_R = Cheek
+
+@END = 
+
+@KOODI = EKA00 
+
+@SUOMI = Posken aukaisu
+
+@RUOTSI = Incision av kind
+
+@NOTE_F = Sis„ltaa„ dreenin asetuksen
+
+@NOTE_S = Inkl ev dr„nage
+
+@END = 
+
+@KOODI = EKA10 
+
+@SUOMI = Koepalan otto poskesta
+
+@RUOTSI = Biopsi av kind
+
+@END = 
+
+@KOODI = EKC00 
+
+@SUOMI = Posken ompelu
+
+@RUOTSI = Sutur av kind
+
+@NOTE_F = Sis„lt„„ dreenin asetuksen
+
+@NOTE_S = Inkl ev revision
+
+@END = 
+
+@KOODI = EKC10 
+
+@SUOMI = Posken vierasesineen poisto
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp fr†n kind
+
+@END = 
+
+@KOODI_R = EL
+
+@SUOMI_R = Sylkirauhasten toimenpiteet
+
+@RUOTSI_R = Operationer p† spottk”rtlarna
+
+@ENGL_R = Salivary glands
+
+@END = 
+
+@KOODI = TEL00 
+
+@SUOMI = Neulakudosn„ytteen otto sylkirauhasesta
+
+@RUOTSI = Punktionsbiopsi av spottk”rtel
+
+@END = 
+
+@KOODI = TEL40 
+
+@SUOMI = Sylkirauhastiehyen sondeeraus
+
+@RUOTSI = Sondering av spottk”rtelg†ng
+
+@END = 
+
+@KOODI_R = EM
+
+@SUOMI_R = Nielurisojen ja kitarisan toimenpiteet
+
+@RUOTSI_R = Operationer p† tonsiller och adenoider
+
+@ENGL_R = Tonsils and adenoids
+
+@END = 
+
+@KOODI = EMC10 
+
+@SUOMI = Vierasesineen poisto nielurisakudoksesta
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp fr†n tonsill eller adenoid
+
+@END = 
+
+@KOODI = TEM00 
+
+@SUOMI = Neulakudosn„ytteen otto nielu- tai kitarisasta
+
+@RUOTSI = Punktionsbiopsi av tonsiller och adenoid
+
+@END = 
+
+@KOODI_R = EN
+
+@SUOMI_R = Nielun ja ymp„r”ivien pehmytkudoksien toimenpiteet
+
+@RUOTSI_R = Operationer p† farynx och n„rliggande mjukdelar
+
+@ENGL_R = Pharynx and adjacent structures
+
+@END = 
+
+@KOODI = TEN00 
+
+@SUOMI = Neulakudosn„ytteen otto nielusta
+
+@RUOTSI = Punktionsbiopsi av farynx
+
+@END = 
+
+@KOODI_R = EW
+
+@SUOMI_R = Leuka-, hammas-, suu- ja nieluleikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Reoperationer f”r s†rkomplikationer av operationer p† l„ppar, t„nder, k„kar, mun och svalg
+
+@ENGL_R = Reoperations for complications in surgery of teeth, jaws, mouth and pharynx
+
+@END = 
+
+@KOODI = EWA00 
+
+@SUOMI = Auenneen tai tulehtuneen leuka-, suu- tai nieluleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av s†rruptur/s†rinfektion efter k„k-, mun- eller svalgoperation
+
+@END = 
+
+@KOODI = TEW99 
+
+@SUOMI = Muu hampaiden, ikenien, suun ja nielun pientoimenpide
+
+@RUOTSI = Annan mindre operation p† l„ppar, t„nder, k„kar, mun och svalg
+
+@END = 
+
+@LUVUT = LUKU F
+
+@LUVUT_S = KAPITEL F
+
+@SUOMI_L = Syd„men ja rintaontelon suonien toimenpiteet
+
+@RUOTSI_L = tg„rder p† hj„rtat och de stora intratorakala k„rlen
+
+@ENGL_L = Heart and major thoracic vessels
+
+@NOTE_LF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TF
+
+@NOTE_LS = Punktion och punktionsbiopsi, se TF
+
+@END_L = 
+
+@KOODI_R = XF
+
+@SUOMI_R = Syd„men tutkimukset
+
+@RUOTSI_R = Diagnostiska †tg„rder p† hj„rtat och de stora intratorakala k„rlen
+
+@ENGL_R = Investigative procedures on heart
+
+@NOTE_RF = Syd„men ultra„„nitutkimus ruokatorven kautta, ks XGW01
+
+@NOTE_RS = Transesofageal ultraljudsdiagnostik, se XGW01
+
+@END = 
+
+@KOODI_A = XF4
+
+@SUOMI_A = EKG
+
+@RUOTSI_A = EKG
+
+@END = 
+
+@KOODI = XF400 
+
+@SUOMI = 12-kytkent„inen EKG
+
+@RUOTSI = EKG med 12 led
+
+@END = 
+
+@KOODI = XF402 
+
+@SUOMI = Rasitus EKG
+
+@RUOTSI = Belastnings EKG
+
+@END = 
+
+@KOODI = XF404 
+
+@SUOMI = EKG:n pitk„aikaisrekister”inti
+
+@RUOTSI = Holter EKG
+
+@NOTE_F = Sis„lt„„ tulkinnan
+
+@NOTE_S = Inkl tolkning
+
+@END = 
+
+@KOODI = XF406 
+
+@SUOMI = Herkkyys EKG
+
+@RUOTSI = Storresolution EKG
+
+@NOTE_F = Suurresoluutio EKG
+
+@END = 
+
+@KOODI = XF408 
+
+@SUOMI = Ruokatorvi EKG
+
+@RUOTSI = Esophageal EKG
+
+@END = 
+
+@KOODI = XF409 
+
+@SUOMI = Muu erityisrekister”inti EKG
+
+@RUOTSI = Annan speciell EKG
+
+@END = 
+
+@KOODI_A = XF6
+
+@SUOMI_A = Muu syd„men tutkimus
+
+@RUOTSI_A = Andra diagnostiska †tg„rder p† hj„rtat
+
+@END = 
+
+@KOODI = XF600 
+
+@SUOMI = Verenpaineen mittaus
+
+@RUOTSI = Blodtrycksm„tning
+
+@END = 
+
+@KOODI = XF601 
+
+@SUOMI = Verenpaineen mittaus Doppler-ultra„„nilaitteen avulla
+
+@RUOTSI = Blodtrycksm„tning med Doppler-ultraljuds metod
+
+@END = 
+
+@KOODI = XF602 
+
+@SUOMI = Verenpaineen pitk„aikaisseuranta
+
+@RUOTSI = Monitorering av blodtrycket
+
+@END = 
+
+@KOODI = XF604 
+
+@SUOMI = Barorefleksin herkkyyden mittaus
+
+@RUOTSI = Baroreflex sensitivt„tsbest„mning
+
+@END = 
+
+@KOODI = XF606 
+
+@SUOMI = Ortostaattinen koe
+
+@RUOTSI = Ostosatisk test
+
+@END = 
+
+@KOODI = XF610 
+
+@SUOMI = Sykevaihtelun mittaaminen
+
+@RUOTSI = M„tning av pulsvarians
+
+@END = 
+
+@KOODI = XF619 
+
+@SUOMI = Muu fysikaalinen syd„ntutkimus
+
+@RUOTSI = Annan fysikalisk unders”kning av hj„rtat
+
+@NOTE_F = Kinotokardiografia
+
+@NOTE_F =
+Apex-kardiografia
+
+@NOTE_F =
+Kaulalaskimon pulssik„yr„t
+
+@NOTE_F =
+A. carotiksen pulssik„yr„
+
+@NOTE_S = Kinotokardiografi
+
+@NOTE_S =
+Apex-kardiografi
+
+@NOTE_S =
+Pulsm„tning av halsvener
+
+@NOTE_S =
+Pulsm„tning av a. carotis
+
+@END = 
+
+@KOODI = XF620 
+
+@SUOMI = Verenkierron v„rilaimennos tutkimus
+
+@RUOTSI = Unders”kning av cirkulation med f„rg
+
+@END = 
+
+@KOODI = XF622 
+
+@SUOMI = Syd„men minuuttivoluumin mittaus
+
+@RUOTSI = Unders”kning av hj„rtats minutvolym
+
+@NOTE_F = Fick'in mentelem„
+
+@NOTE_F =
+Termodiluutio
+
+@NOTE_S = Fick's metod
+
+@NOTE_S =
+Termodilution
+
+@END = 
+
+@KOODI = XF640 
+
+@SUOMI = Syd„men ultra„„nitutkimus
+
+@RUOTSI = Ultraljudsunders”kning av hj„rtat
+
+@END = 
+
+@KOODI = XF650 
+
+@SUOMI = Syd„men supistustoiminnan isotooppitutkimus ilman rasitusta
+
+@RUOTSI = Funktionell isotopunders”kning av hj„rtat utan belastning
+
+@NOTE_F = MUGA
+
+@END = 
+
+@KOODI = XF651 
+
+@SUOMI = Syd„men supistustoiminnan isotooppitutkimus rasituksessa
+
+@RUOTSI = Funktionell isotopunders”kning av hj„rtat med belastning
+
+@END = 
+
+@KOODI = XF654 
+
+@SUOMI = Syd„nlihaksen verenvirtauksen isotooppitutkimus ilman rasitusta
+
+@RUOTSI = Unders”kning av hj„rtmuskelns perfusion med isotopteknik utan belastning
+
+@END = 
+
+@KOODI = XF655 
+
+@SUOMI = Syd„nlihaksen verenvirtauksen isotooppitutkimus rasituksessa
+
+@RUOTSI = Unders”kning av hj„rtmuskelns perfusion med isotopteknik och belastning
+
+@END = 
+
+@KOODI = XF659 
+
+@SUOMI = Syd„nlihaksen muu isotooppitutkimus
+
+@RUOTSI = Annan isotopunders”kning av h„rtat
+
+@END = 
+
+@KOODI = XF660 
+
+@SUOMI = Syd„men oikovirtauksen isotooppitutkimus
+
+@RUOTSI = Isotopunders”kning av intrakardiell shunt
+
+@END = 
+
+@KOODI = XFA00 
+
+@SUOMI = Onttolaskimon varjoainekuvaus
+
+@RUOTSI = Kineangiografi av intratorakala vena cava
+
+@END = 
+
+@KOODI_R = FB
+
+@SUOMI_R = Keuhkovaltimoiden toimenpiteet
+
+@RUOTSI_R = tg„rder p† arteria pulmonalis och dess grenar
+
+@ENGL_R = Pulmonary artery with branches
+
+@END = 
+
+@KOODI = TFB00 
+
+@SUOMI = Keuhkovaltimokatetrin asennus
+
+@RUOTSI = Katetrisering av lunart„ren
+
+@END = 
+
+@KOODI = XFB00 
+
+@SUOMI = Keuhkovaltimon varjoainekuvaus
+
+@RUOTSI = Kineangiografi av lungart„ren
+
+@END = 
+
+@KOODI_R = FC
+
+@SUOMI_R = Aortan toimenpiteet rintaontelossa
+
+@RUOTSI_R = tg„rder p† torakala och torakoabdominala aorta
+
+@ENGL_R = Thoracic and thoracoabdominal aorta, excluding malformations
+
+@END = 
+
+@KOODI = TFC00 
+
+@SUOMI = Syd„men oikean eteisen ja/tai kammion katetrointi
+
+@RUOTSI = Katetrisering av h”gerhj„rtat
+
+@END = 
+
+@KOODI = XFC00 
+
+@SUOMI = Aortan varjoainekuvaus
+
+@RUOTSI = Kineangiografi av aorta
+
+@END = 
+
+@KOODI = TFC10 
+
+@SUOMI = Syd„men vasemman eteisen ja/tai kammion  katetrointi
+
+@RUOTSI = Katetrisering av v„nsterhj„rtat
+
+@END = 
+
+@KOODI = TFC20 
+
+@SUOMI = Katetrointi syd„men molemmille puolille
+
+@RUOTSI = Katetrisering av b†de h”ger- och v„nsterhj„rtat
+
+@NOTE_F = Eteis- tai kammiov„lisein„n aukon l„pi
+
+@NOTE_S = Genom ”ppning i f”rmaks- eller kammaseptum
+
+@END = 
+
+@KOODI = TFC30 
+
+@SUOMI = Aortan koarktaation pallolaajennus
+
+@RUOTSI = Ballongutvidgning av koarktation av aortta
+
+@END = 
+
+@KOODI = TFC40 
+
+@SUOMI = Avoimen valtimotiehyen sulkeminen sateenvarjolaitteella
+
+@RUOTSI = St„ngning av ”ppen ductus arteriosus med paraply apparat
+
+@END = 
+
+@KOODI = TFC99 
+
+@SUOMI = Syd„men katetrointi ja muu toimenpide
+
+@RUOTSI = Katetrisering av hj„rtat med annan †tg„rd
+
+@END = 
+
+@KOODI_R = FE
+
+@SUOMI_R = Syd„npussin toimenpiteet
+
+@RUOTSI_R = tg„rder p† perikardiet
+
+@ENGL_R = Pericardium
+
+@END = 
+
+@KOODI = TFE00 
+
+@SUOMI = Pisto syd„npussiin
+
+@RUOTSI = Perikardiocentes
+
+@NOTE_F = Sis„lt„„ katerin asettamisen syd„npussiin
+
+@NOTE_S = Inkluderar ins„ttelse av kateter i perikardiet
+
+@END = 
+
+@KOODI_R = FF
+
+@SUOMI_R = Syd„men eteisen, eteisv„lisein„n ja keuhkolaskimoiden toimenpiteet
+
+@RUOTSI_R = tg„rder p† f”rmak, f”rmaksseptum och lungvener
+
+@ENGL_R = Atrium, atrial septum and pulmonary veins
+
+@END = 
+
+@KOODI = TFF30 
+
+@SUOMI = Eteisv„lisein„n  aukon pallolaajennus
+
+@RUOTSI = Katetrisering av hj„rtat med ballongutvidgning av ”ppning i f”rmaksseptum
+
+@END = 
+
+@KOODI = TFF40 
+
+@SUOMI = Eteisv„lisein„aukon sulkeminen sateenvarjolaitteella
+
+@RUOTSI = St„ngning av  ASD med paraply apparat
+
+@END = 
+
+@KOODI = TFJ00 
+
+@SUOMI = Syd„men pisto
+
+@RUOTSI = Punktion av hj„rtat
+
+@END = 
+
+@KOODI = XFJ00 
+
+@SUOMI = Syd„men oikean puolen kinekuvaus
+
+@RUOTSI = Kineangiografi av h”gra sidan av hj„rtat
+
+@END = 
+
+@KOODI = TFJ02 
+
+@SUOMI = Syd„nlihasbiopsia
+
+@RUOTSI = Hj„rtmuskelbiopsi
+
+@END = 
+
+@KOODI = TFJ20 
+
+@SUOMI = Syd„men sis„osien ultra„„nitutkimus katetrin kautta
+
+@RUOTSI = Ultraljudsunders”kning av hj„rtans inre delar genom kateter
+
+@END = 
+
+@KOODI = TFJ30 
+
+@SUOMI = Syd„men l„pp„aukon pallolaajennus
+
+@RUOTSI = Katetrisering av hj„rtat med ballongutvidgning av klaff”ppning
+
+@END = 
+
+@KOODI_R = FL
+
+@SUOMI_R = Vasemman kammion toimenpiteet
+
+@RUOTSI_R = tg„rder p† v„nster kammare
+
+@ENGL_R = Left ventricle
+
+@END = 
+
+@KOODI = XFL00 
+
+@SUOMI = Syd„men vasemman puolen kinekuvaus
+
+@RUOTSI = Kineangiografia av v„nstra sidan av hj„rtat
+
+@END = 
+
+@KOODI = XFL20 
+
+@SUOMI = Syd„men molempien puolien kinekuvaus
+
+@RUOTSI = Kineangiografi av b†da sidor av hj„rtat
+
+@END = 
+
+@KOODI_R = FN
+
+@SUOMI_R = Sepelvaltimoiden toimenpiteet
+
+@RUOTSI_R = tg„rder p† koronarart„rer
+
+@ENGL_R = Coronary arteries
+
+@END = 
+
+@KOODI = XFN00 
+
+@SUOMI = Sepelvaltimoiden kuvaus
+
+@RUOTSI = Fotografering av koronarart„ren
+
+@END = 
+
+@KOODI = XFN04 
+
+@SUOMI = Sepelvaltimoiden tutkiminen ultra„„nell„ katetrin kautta
+
+@RUOTSI = Ultraljudsunders”kning av koron„rart„r genom katetrisering
+
+@END = 
+
+@KOODI = TFN04 
+
+@SUOMI = Sepelvaltimoiden varjoainekuvaus
+
+@RUOTSI = Kineangiografi av kransk„rlen
+
+@END = 
+
+@KOODI = TFN10 
+
+@SUOMI = Sepelvaltimoiden paikallinen trombolyysi
+
+@RUOTSI = Katetrisering av hj„rtat med lokal trombolys av koron„rart„r
+
+@END = 
+
+@KOODI = TFN40 
+
+@SUOMI = Sepelvaltimoiden pallolaajennus
+
+@RUOTSI = Katetrisering av hj„rtat med ballongutvidgning av koron„rart„r
+
+@END = 
+
+@KOODI = TFN50 
+
+@SUOMI = Stentin asentaminen sepelvaltimoon katetrin kautta
+
+@RUOTSI = Katetrisering med aplikation av stent till koron„rart„r
+
+@END = 
+
+@KOODI = XFN96 
+
+@SUOMI = Muu leikkauksen aikainen syd„men  t„hystystutkimus
+
+@RUOTSI = Annan intraoperativ angioskopisk unders”kning
+
+@END = 
+
+@KOODI = TFN99 
+
+@SUOMI = Muu sepelvaltimon toimenpide katerin kautta
+
+@RUOTSI = Katetrisering av hj„rtat med anna koronar†tg„rd
+
+@END = 
+
+@KOODI_R = FP
+
+@SUOMI_R = Syd„men rytmi- ja johtumish„iri”iden toimenpiteet
+
+@RUOTSI_R = Operationer vid hj„rtarytmi och ”verledningsrubbningar
+
+@ENGL_R = Arhythmias and disturbances of impulse propagation
+
+@NOTE_RF = WPW = Wolff-Parkinson-White
+
+@END = 
+
+@KOODI = TFP00 
+
+@SUOMI = Tilap„isen laskimonsis„isen tai epikardiaalinen tahdistimen asettaminen
+
+@RUOTSI = Tempor„r anv„ndning av transven”s eller epikardiell pacemaker
+
+@END = 
+
+@KOODI = XFP00 
+
+@SUOMI = Ektooppisten lis„ly”ntien l„hteen tai ektooppisen johtoradan kartoitus
+
+@RUOTSI = Intraoperativ kartl„ggning av ektopiskt fokus/ektopisk retledningsbana
+
+@END = 
+
+@KOODI = TFP04 
+
+@SUOMI = Kallistuskoe tahdistinlaitteen toimintah„iri”n tutkimiseksi
+
+@RUOTSI = Lutningstest f”r pacemaker dysfunktion i hj„rtat
+
+@END = 
+
+@KOODI = XFP20 
+
+@SUOMI = Syd„men tahdistinlaitteen kontrolli
+
+@RUOTSI = Kontrol eller avl„gsnande av pacemaker i hj„rtat
+
+@END = 
+
+@KOODI = TFP20 
+
+@SUOMI = Syd„men rytminsiirto
+
+@RUOTSI = Cardioversion av hj„rtat
+
+@NOTE_F = Pysyv„n defibrillaattorin asennus kohdassa FPG
+
+@NOTE_S = Inl„ggande av permanent defibrillatro, se FPG
+
+@END = 
+
+@KOODI = TFP30 
+
+@SUOMI = Syd„men rytmih„iri”n katetritutkimus
+
+@RUOTSI = Kateterunders”kning av arytmier i hj„rtat
+
+@END = 
+
+@KOODI = TFP32 
+
+@SUOMI = Syd„men rytmih„iri”n katetrihoito
+
+@RUOTSI = Kateter behandling av arytmeir i hj„rtat
+
+@END = 
+
+@KOODI_R = FW
+
+@SUOMI_R = Syd„men ja rintaontelosuonien haavakomplikaatio- ja uusintatoimenpiteet
+
+@RUOTSI_R = Reoperationer f”r s†rkomplikationer av operationer p† hj„rtat och de stora intratorakala k„rlen
+
+@ENGL_R = Reoperations on heart and major thoracic vessels
+
+@END = 
+
+@KOODI = TFW99 
+
+@SUOMI = Muu syd„men ja suurten verisuonien pientoimenpide
+
+@RUOTSI = Annat mindre ingrepp p† hj„rtat eller de stora k„rlen
+
+@END = 
+
+@KOODI_R = FX
+
+@SUOMI_R = Kehonulkoisen tai avustetun verenkierron toimenpiteet
+
+@RUOTSI_R = tg„rder i samband med extrakorporeal eller assisterad cirkulation
+
+@ENGL_R = Procedures relating to extracorporeal or assisted circulation
+
+@NOTE_RF = ECHLA = Extra corporeal heart-lung assist - avustava syd„nkeuhkokone
+
+@NOTE_RF =
+ECMO = Extra corporeal membrane oxygenation - verta hapettava laite
+
+@NOTE_RF =
+IABP = Intra aortic balloon pump - aorttaan asetettu pumppu
+
+@NOTE_RF =
+PABP = Pulmonary artery balloon pump - keuhkovaltimoon asetettu pumppu
+
+@NOTE_RF =
+TAH = Total artificial heart - keinosyd„n
+
+@NOTE_RF =
+VAD = Ventricular assist device - kammiota avustava laite
+
+@END = 
+
+@KOODI = FXD00 
+
+@SUOMI = Syd„nkeuhkokoneen  k„ytt” kaasujen vaihdon ja verenkierron tukemiseen ilman kirurgista toimenpidett„
+
+@RUOTSI = Bruk av hj„rt-lungmaskin f”r att underl„tta gasutbyte och cirkulation utan samtidig hj„rt/lungkirurgi
+
+@NOTE_F = ECMO-hoito
+
+@NOTE_F =
+Veri johdetaan koneeseen suuresta laskimosta ja palautetaan aorttaan
+
+@NOTE_S = ECMO-behandling
+
+@NOTE_S =
+Blood utf”rs till maskinet fr†n en central ven och pumpas till aortta.
+
+@END = 
+
+@KOODI = FXE00 
+
+@SUOMI = Syd„nkeuhkokoneen  k„ytt” kaasujen vaihdon tukemiseen ilman kirurgista toimenpidett„
+
+@RUOTSI = Bruk av hj„rt-lungmaskin f”r att underl„tta gasutbyte utan samtidig hj„rt/lungkirurgi
+
+@NOTE_F = Veri johdetaan koneeseen tavallisesti laskimosta ja palautetaan toiseen laskimoon (esim. reisilaskimot)
+
+@NOTE_S = Blod utf”rs vanligen fr†n en ven och pumpas tillbaka till en annan (t.ex. femoralvener)
+
+@END = 
+
+@KOODI = FXF00 
+
+@SUOMI = Kanyylin poisto syd„nkeuhkokoneen k„yt”n j„lkeen
+
+@RUOTSI = Avl„gnande av kanyl(er) efter hj„rt-lungmaskin
+
+@NOTE_F = Esim. ECMO-hoidon j„lkeen
+
+@NOTE_S = T. ex. efter ECMO-behandling
+
+@END = 
+
+@LUVUT = LUKU G
+
+@LUVUT_S = KAPITEL G
+
+@SUOMI_L = Rintaontelon sein„m„n, keuhkopussin, pallean, henkitorven, keuhkoputkien, keuhkojen ja v„likarsinan toimenpiteet
+
+@RUOTSI_L = tg„rder p† br”stv„gg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+
+@ENGL_L = Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung
+
+@END_L = 
+
+@KOODI_R = XG
+
+@SUOMI_R = Rintaontelon ultra„„nitutkimukset leikkauksen tai t„hystyksen aikana
+
+@RUOTSI_R = Intraoperativ eller torakoskopisk ultraljudsunders”kning i br”stkorgen
+
+@ENGL_R = Intraoperative and endoscopic thoracic ultrasonography
+
+@END = 
+
+@KOODI_A = XG4
+
+@SUOMI_A = Hengitysteiden fysikaaliset tutkimukset
+
+@RUOTSI_A = Fysikaliska undrs”kningar av andningsapparaten
+
+@END = 
+
+@KOODI = XG400 
+
+@SUOMI = Hengitys„„nianalyysi
+
+@RUOTSI = Andningsljud analys
+
+@END = 
+
+@KOODI = XG410 
+
+@SUOMI = Virtaus-tilavuus spirometria
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG412 
+
+@SUOMI = Virtaus-tilavuusspirometria ja bronkodilataatiokoe
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG416 
+
+@SUOMI = Maksimaalisten hengitystiepaineiden mittaus
+
+@RUOTSI = M„tning av maksimala luftv„gstrycken
+
+@END = 
+
+@KOODI = XG420 
+
+@SUOMI = Aika-tilavuus spirometria
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG422 
+
+@SUOMI = Aika-tilavuus spirometria ja bronkodilataatiokoe
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG424 
+
+@SUOMI = Tahdonalaisen maksimiventilaation mittaus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG430 
+
+@SUOMI = Spiroergometria
+
+@RUOTSI = Spiroergometri
+
+@END = 
+
+@KOODI = XG432 
+
+@SUOMI = Kylm„ilma-altistus ja spiroergometria
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG434 
+
+@SUOMI = Spiroergometria ja verikaasuarvojen seuranta
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG440 
+
+@SUOMI = Koko vartalon pletysmografia
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG442 
+
+@SUOMI = Koko vartalon pletysmografia ja bronkodilataatiokoe
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG460 
+
+@SUOMI = Lyhytaikainen oksimetria
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG462 
+
+@SUOMI = Keuhkoperfuusion moni-ilmaisin tutkimus
+
+@RUOTSI = 
+
+@NOTE_F = Oikovirtausmittaus happihengityksess„
+
+@END = 
+
+@KOODI = XG464 
+
+@SUOMI = Keuhkoventilaation moni-ilmaisin tutkimus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG466 
+
+@SUOMI = Unioksimetria
+
+@RUOTSI = S”mnoksimetri
+
+@END = 
+
+@KOODI = XG470 
+
+@SUOMI = Diffuusiokapasiteetti
+
+@RUOTSI = Diffusions kapasit„t
+
+@END = 
+
+@KOODI = XG472 
+
+@SUOMI = Yhden henk„yksen nitrografia
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG474 
+
+@SUOMI = Uloshengityksen typpioksidianalyysi
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG476 
+
+@SUOMI = Hengityksen s„„tely ja CO2 stimulaatio
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XG480 
+
+@SUOMI = Histamiinialtistuskoe
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = GA
+
+@SUOMI_R = Rintaontelon sein„m„n, keuhkopussin ja pallean toimenpiteet
+
+@RUOTSI_R = Operationer p† br”stv„gg, pleura och diafragma
+
+@ENGL_R = Chest wall, pleura and diaphragm
+
+@END = 
+
+@KOODI = GAA10 
+
+@SUOMI = Keuhkopussin kanavointi kylkiluiden v„list„
+
+@RUOTSI = Anl„ggande av interkostalt pleuradr„nage
+
+@END = 
+
+@KOODI = GAB00 
+
+@SUOMI = Rintaontelon h„t„aukaisu
+
+@RUOTSI = N”dtorakotomi
+
+@END = 
+
+@KOODI = TGA00 
+
+@SUOMI = Neulakudosn„ytteen otto rinnan sein„m„st„
+
+@RUOTSI = Punktionsbiopsi av br”stv„gg
+
+@END = 
+
+@KOODI = TGA10 
+
+@SUOMI = Neulakudosn„ytteen otto keuhkopussista
+
+@RUOTSI = Punktionsbiopsi av pleura
+
+@END = 
+
+@KOODI = TGA30 
+
+@SUOMI = Rintaontelopisto, torakosenteesi
+
+@RUOTSI = Torakocentes
+
+@END = 
+
+@KOODI_R = GB
+
+@SUOMI_R = Henkitorven toimenpiteet
+
+@RUOTSI_R = Operationer p† trakea
+
+@ENGL_R = Trachea
+
+@END = 
+
+@KOODI = GBA00 
+
+@SUOMI = Henkitorven aukaisu
+
+@RUOTSI = Trakeotomi
+
+@NOTE_F = Sis„lt„„ mahdollisen koepalan oton
+
+@NOTE_F =
+Krikotyreotomia, DQA00
+
+@NOTE_F =
+Koepalan otto t„hystyksess„, katso UGB05
+
+@NOTE_S = Inkl ev biopsi
+
+@NOTE_S = Krikotyreotomi, se DQA00
+
+@NOTE_S = Endoskopisk biopsi, se UGB05
+
+@END = 
+
+@KOODI = GBA10 
+
+@SUOMI = Henkitorven aukaisu ja vierasesineen poisto
+
+@RUOTSI = Trakeotomi med avl„gsnande av fr„mmande kropp
+
+@END = 
+
+@KOODI = GBA12 
+
+@SUOMI = Vierasesineen poisto henkitorvesta t„hystyksess„
+
+@RUOTSI = Endoskopisk extraktion av fr„mmande kropp ur trakea
+
+@END = 
+
+@KOODI = GBW98 
+
+@SUOMI = Muu henkitorvitoimenpide  t„hystyksess„
+
+@RUOTSI = Annan endoskopisk operation p† trakea
+
+@END = 
+
+@KOODI_R = GC
+
+@SUOMI_R = Keuhkoputkien toimenpiteet
+
+@RUOTSI_R = Operationer p† bronker
+
+@ENGL_R = Bronchus
+
+@NOTE_RF = Bronkoskopia kohdassa UGC
+
+@NOTE_RS = Bronkoskopi, se UGC
+
+@END = 
+
+@KOODI = GCA02 
+
+@SUOMI = Keuhkoputkien kudosmuutoksen poltto t„hystyksess„
+
+@RUOTSI = Endobronkial elektrokoagulation av lokala f”r„ndringar i bronker
+
+@END = 
+
+@KOODI = GCA08 
+
+@SUOMI = Keuhkoputken kudosmuutoksen poisto t„hystyksess„
+
+@RUOTSI = Endobronkial exstirpation av lokal f”r„ndring i bronker
+
+@NOTE_F = Koepalan otto t„hystyksess„ kohdassa UGC
+
+@NOTE_F =
+Kun koko kudoskappale k„ytet„„n koepalana, tulee k„ytt„„ ryhm„n UGC koodeja. Suuremman muutoksen poisto ilmaistaan t„ll„ koodilla
+
+@NOTE_S = Biopsi vid bronkoskopi, se UGC
+
+@NOTE_S =
+N„r hela v„vnadsbiten anv„nds som prov, b”r man anv„nda kod fr†n grupp UGC. St”rre exstirpationer anges med detta kod.
+
+@END = 
+
+@KOODI = GCA12 
+
+@SUOMI = Vierasesineen poisto keuhkoputkesta t„hystyksess„
+
+@RUOTSI = Endobronkial extraktion av fr„mmande kropp
+
+@END = 
+
+@KOODI = GCA18 
+
+@SUOMI = Keuhkoputken laajennus t„hystyksess„
+
+@RUOTSI = Endoskopisk dilatation av bronker
+
+@END = 
+
+@KOODI = GCA98 
+
+@SUOMI = Muu keuhkoputkien toimenpide t„hystyksess„
+
+@RUOTSI = Annan endoskopisk operation p† bronker
+
+@END = 
+
+@KOODI_R = GD
+
+@SUOMI_R = Keuhkojen toimenpiteet
+
+@RUOTSI_R = Operationer p† lungor
+
+@ENGL_R = Lung
+
+@END = 
+
+@KOODI = TGD00 
+
+@SUOMI = Neulakudosn„ytteen otto keuhkosta
+
+@RUOTSI = Punktionsbiopsi av lunga
+
+@END = 
+
+@KOODI = TGD04 
+
+@SUOMI = Kudosn„ytteen otto keuhkosta keuhkoputkent„hystyksess„
+
+@RUOTSI = Punktionsbiopsi av lunga genom bronkoskopi
+
+@END = 
+
+@KOODI_A = GEA
+
+@SUOMI_A = V„likarsinan t„hystykset
+
+@RUOTSI_A = Mediastinoskopier
+
+@ENGL_A = Mediastinoscopy
+
+@NOTE_RF = Kateenkorvan t„hystystoimenpiteet, katso GEC
+
+@NOTE_RS = Mediastinoskopiska operationer p† tymus, se GEC
+
+@END = 
+
+@KOODI = GEA00 
+
+@SUOMI = V„likarsinan t„hystys
+
+@RUOTSI = Mediastinoskopi (inkl dr„nage)
+
+@END = 
+
+@KOODI = GEA10 
+
+@SUOMI = V„likarsinan t„hystys ja vierasesineen poisto
+
+@RUOTSI = Mediastinoskopi med avl„gsnande av fr„mmande kropp
+
+@END = 
+
+@KOODI = GEA20 
+
+@SUOMI = V„likarsinan t„hystys ja kasvaimen tai kudosmuutoksen poisto
+
+@RUOTSI = Mediastinoskopi med exstirpation av lokal v„vnadsf”r„ndring (inkl biopsi)
+
+@END = 
+
+@KOODI = GEA96 
+
+@SUOMI = Muu v„likarsinan t„hystystoimenpide
+
+@RUOTSI = Annan mediastinoskopisk operation
+
+@END = 
+
+@KOODI_A = GEC
+
+@SUOMI_A = Kateenkorvan toimenpiteet
+
+@RUOTSI_A = tg„rder p† tymus
+
+@ENGL_A = Operations on thymus
+
+@END = 
+
+@KOODI = GEC03 
+
+@SUOMI = Koepalan otto kateenkorvasta v„likarsinan t„hystyksess„
+
+@RUOTSI = Endoskopisk biopsi av tymus
+
+@END = 
+
+@KOODI = TGE00 
+
+@SUOMI = Neulakudosn„ytteen otto v„likarsinasta
+
+@RUOTSI = Punktionsbiopsi av mediastinum
+
+@END = 
+
+@KOODI_R = GW
+
+@SUOMI_R = Leikkauskomplikaatioiden vuoksi tehdyt thoraxkirurgiset uusintaleikkaukset
+
+@RUOTSI_R = Reoperationer f”r s†rkomplikationer av thoraxkirurgi
+
+@ENGL_R = Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+
+@END = 
+
+@KOODI = GWA00 
+
+@SUOMI = Auenneen tai tulehtuneen rintaontelo-, v„likarsina- tai keuhkoleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av s†rruptur/-infektion efter op. p† pleura, mediastinum eller lungor
+
+@END = 
+
+@KOODI = TGW99 
+
+@SUOMI = Muut rintakeh„n alueen pientoimenpiteet
+
+@RUOTSI = Annan mindre †tg„rd i thorakal regionen
+
+@END = 
+
+@LUVUT = LUKU H
+
+@LUVUT_S = KAPITEL H
+
+@SUOMI_L = Rintarauhasen toimenpiteet
+
+@RUOTSI_L = tg„rder p† br”st
+
+@ENGL_L = Mammary gland
+
+@END_L = 
+
+@KOODI = THA00 
+
+@SUOMI = Neulakudosn„ytteen otto rintarauhasesta
+
+@RUOTSI = Punktionsbiopsi av br”stk”rtel
+
+@END = 
+
+@KOODI = THA10 
+
+@SUOMI = Neulakudosn„ytteen otto n„nnist„
+
+@RUOTSI = Punktionsbiopsi av mamill
+
+@END = 
+
+@KOODI = THW99 
+
+@SUOMI = Muu rintarauhasen pientoimenpide
+
+@RUOTSI = Annan mindre †tg„rd p† br”stk”rteln
+
+@END = 
+
+@LUVUT = LUKU J
+
+@LUVUT_S = KAPITEL J
+
+@SUOMI_L = Ruuansulatuskanavan ja sen oheiselinten toimenpiteet
+
+@RUOTSI_L = Operationer p† gastrointestinalkanalen och d„rtill h”rande organ
+
+@ENGL_L = Digestive system and spleen
+
+@END_L = 
+
+@KOODI_R = TJ
+
+@SUOMI_R = Ruoansulatuskanavan ja sen oheiselimien pientoimenpiteet
+
+@RUOTSI_R = Mindre †tg„rder p† gastrointestinalkanalen och d„rtill h”rande organ
+
+@ENGL_R = Minor procedures in gastroenterological surgery
+
+@END = 
+
+@KOODI = TJ100 
+
+@SUOMI = Sekretiinitesti
+
+@RUOTSI = Sekretintest
+
+@END = 
+
+@KOODI_R = JA
+
+@SUOMI_R = Vatsanpeitteiden, vatsakalvon ja vatsapaidan toimenpiteet
+
+@RUOTSI_R = Operationer p† bukv„gg, mesenterium, peritoneum och oment
+
+@ENGL_R = Abdominall wall, mesenetry, peritoneum and greater omentum
+
+@END = 
+
+@KOODI = TJA00 
+
+@SUOMI = Vatsakalvopisto
+
+@RUOTSI = Punktionsbiopsi av peritoneum
+
+@NOTE_F = Esimerkiksi neulan„yte
+
+@END = 
+
+@KOODI = TJA10 
+
+@SUOMI = Vatsaontelopisto, laparosenteesi
+
+@RUOTSI = Laparocentes
+
+@END = 
+
+@KOODI = TJA20 
+
+@SUOMI = Vatsaontelon huuhtelu iholta k„sin
+
+@RUOTSI = Perkutant peritoneallavage
+
+@END = 
+
+@KOODI = TJA30 
+
+@SUOMI = Vatsaontelodialyysi
+
+@RUOTSI = Peritoneal dialys
+
+@END = 
+
+@KOODI = TJA40 
+
+@SUOMI = Vatsaontelon m„rk„pes„kkeen kanavointi iholta k„sin
+
+@RUOTSI = Perkutant dr„nage av intraperitoneal abscess
+
+@END = 
+
+@KOODI_R = JC
+
+@SUOMI_R = Ruokatorven toimenpiteet
+
+@RUOTSI_R = tg„rder p† esofagus
+
+@ENGL_R = Oesophagus
+
+@END = 
+
+@KOODI = TJC00 
+
+@SUOMI = Ruokatorven laskimolaajentumavuodon hoito pallokatetrilla
+
+@RUOTSI = Komprimerande sond vid bl”dande esofagusvaricer
+
+@NOTE_F = esim. Sengstaken
+
+@NOTE_S = T.ex. Sengstaken
+
+@END = 
+
+@KOODI = UJC01 
+
+@SUOMI = Alanielun t„hystys
+
+@RUOTSI = Endoskopi av hypofarynx
+
+@END = 
+
+@KOODI = UJC02 
+
+@SUOMI = Ruokatorven t„hystys j„yk„ll„ t„hystimell„
+
+@RUOTSI = Esofagoskopi med rigida instrument
+
+@END = 
+
+@KOODI = UJC12 
+
+@SUOMI = Ruokatorven t„hystys taipuisalla t„hystimell„
+
+@RUOTSI = Esofagoskopi med flexibla instrument
+
+@END = 
+
+@KOODI_R = JD
+
+@SUOMI_R = Mahalaukun ja pohjukaissuolen toimenpiteet
+
+@RUOTSI_R = tg„rder p† ventrikeln och duodenum
+
+@ENGL_R = Stomach and duodenal bulb
+
+@NOTE_RF = Sis„lt„„ mahansuun
+
+@END = 
+
+@KOODI = TJD00 
+
+@SUOMI = Nen„maha- tai nen„-maha-pohjukaissuoliletkun asettaminen
+
+@RUOTSI = Inf”rande av nasogastrisk eller nasogastroduodenal sond
+
+@NOTE_F = Sis„lt„„ mahdollisen mahalaukun tyhjennyksen ja huuhtelun
+
+@NOTE_S = Inkl t”mning och sk„ljning av mags„cken
+
+@END = 
+
+@KOODI = UJD02 
+
+@SUOMI = Mahalaukun t„hystys, gastroskopia
+
+@RUOTSI = Gastroskopi
+
+@NOTE_F = Polyypin poisto JDA05.
+
+@NOTE_S = Polypektomi, se JDA05
+
+@END = 
+
+@KOODI = TJD10 
+
+@SUOMI = Muun putken asettaminen mahalaukkuun tai pohjukaissuoleen
+
+@RUOTSI = Inf”rande av annan sond i ventrikel eller duodenum
+
+@NOTE_F = Ruokatorven painemittausta tai jatkuvaa pH-mittaus, katso XJC
+
+@NOTE_S = Manometri och pH-m„tning i matstrupen, se XJC
+
+@END = 
+
+@KOODI = UJD10 
+
+@SUOMI = Ruokatorven, mahalaukun ja duodenumin t„hystys
+
+@RUOTSI = Esofago- + gastro- + duodenoskopi
+
+@END = 
+
+@KOODI = TJD20 
+
+@SUOMI = Mahalaukkuavanneletkun vaihto
+
+@RUOTSI = Byte av gastrostomikateter
+
+@END = 
+
+@KOODI = TJD30 
+
+@SUOMI = Muu gastoenterologinen pientoimenpide
+
+@RUOTSI = Annan gastroenterologisk mindre †trg„rd
+
+@END = 
+
+@KOODI_R = JF
+
+@SUOMI_R = Ohut- ja paksusuolen toimenpiteet
+
+@RUOTSI_R = tg„rder p† tunntarm och kolon
+
+@ENGL_R = Intestine
+
+@END = 
+
+@KOODI = JFA58 
+
+@SUOMI = Paksunsuolen laajentaminen venytt„m„ll„ t„hystyksess„
+
+@RUOTSI = Endoskopisk dilatation av kolon
+
+@END = 
+
+@KOODI = TJF00 
+
+@SUOMI = Jejunumletkun asettaminen
+
+@RUOTSI = Inf”rande av jejunumsond
+
+@NOTE_F = esim Miller-Abbott, Hodges tai vastaava
+
+@NOTE_S = T.ex. Miller-Abbott, Hodges eller motsvarande
+
+@END = 
+
+@KOODI = UJF02 
+
+@SUOMI = Ohutsuolen t„hystys nielun kautta
+
+@RUOTSI = Peroral jejunoskopi/ileoskopi
+
+@NOTE_F = Ohutsuolen t„hystys gatroskopian yhteydess„ (UJD10) ja kolonskopian yhteydess„ (UJF32)
+
+@NOTE_S = Endoskopi av angr„nsande tunntarm vid gastroskopi UJD10 eller vid kolonoskopi UJF32
+
+@END = 
+
+@KOODI = TJF10 
+
+@SUOMI = Jejunumletkun asettaminen mahalaukkuavanteen kautta
+
+@RUOTSI = Inf”rande av jejunumsond via gastrostomi
+
+@END = 
+
+@KOODI = UJF12 
+
+@SUOMI = Ohutsuolen t„hystys suoliavanteen kautta
+
+@RUOTSI = Jejunoskopi/ileoskopi via enterostomi
+
+@NOTE_F = Sis. avannes„il”n tutkimuksen
+
+@NOTE_F =
+Suolesta muodostetun urostomian ja virtsas„ili”n t„hystys UKB12
+
+@NOTE_S = Inkl unders”kning av reservoar i matsm„ltningskanalen
+
+@NOTE_S = Endoskopi av urostomi inkl urinreservoar konstruerad av tarm UKB12
+
+@END = 
+
+@KOODI = TJF20 
+
+@SUOMI = Ohutsuolin„ytteen otto suun kautta sondilla
+
+@RUOTSI = Peroral tunntarmsbiopsi
+
+@END = 
+
+@KOODI = TJF30 
+
+@SUOMI = Suolentuppeuman oikaisu l„pivalaisussa varjoaineella
+
+@RUOTSI = Hydrostatisk desinvagination av tarminvagination under r”ntgenkontroll
+
+@END = 
+
+@KOODI = UJF32 
+
+@SUOMI = Paksusuolen t„hystys, kolonoskopia
+
+@RUOTSI = Kolonoskopi
+
+@NOTE_F = Sis. sigma- ja per„suolen t„hystyksen samassa yhteydess„
+
+@NOTE_S = Inkl endoskopi av rektum, kolon och angr„nsande tunntarm i samma seans
+
+@END = 
+
+@KOODI = UJF45 
+
+@SUOMI = Sigmasuolen t„hystys, sigmoideoskopia
+
+@RUOTSI = Sigmoideoskopi med flexibla instrument
+
+@NOTE_F = Sis. per„suolen t„hystyksen samassa yhteydess„, taipuisa t„hystin
+
+@NOTE_S = Inkl rektoskopi i samma seans
+
+@END = 
+
+@KOODI_R = JG
+
+@SUOMI_R = Per„suolen toimenpiteet
+
+@RUOTSI_R = tg„rder p† rektum
+
+@ENGL_R = Rectum
+
+@END = 
+
+@KOODI = TJG00 
+
+@SUOMI = Ulostekovettuman poisto k„sin
+
+@RUOTSI = Manuell uth„mtning av fekalom
+
+@END = 
+
+@KOODI = UJG02 
+
+@SUOMI = Per„suolen t„hystys
+
+@RUOTSI = Rektoskopi med rigida instrument
+
+@NOTE_F = Ulottuu sigmasuolen alaosaan, j„ykk„ t„hystin
+
+@NOTE_S = Inkl endoskopi i samma seans av de delar av tjocktarmen, som kan n†s med rigida instrument
+
+@END = 
+
+@KOODI_R = JH
+
+@SUOMI_R = Per„aukon ja sen ymp„ryksen toimenpiteet
+
+@RUOTSI_R = tg„rder p† anus och perianal v„vnad
+
+@ENGL_R = Anus and perianal tissue
+
+@END = 
+
+@KOODI = UJH02 
+
+@SUOMI = Per„aukon t„hystys
+
+@RUOTSI = Anoskopi
+
+@END = 
+
+@KOODI_R = JJ
+
+@SUOMI_R = Maksan ja sappiteiden toimenpiteet
+
+@RUOTSI_R = tg„rder p† levern  och gallv„garna
+
+@ENGL_R = Liver
+
+@END = 
+
+@KOODI = TJJ00 
+
+@SUOMI = Neulakudosn„ytteen otto maksasta
+
+@RUOTSI = Punktionsbiopsi av levern
+
+@END = 
+
+@KOODI = TJJ10 
+
+@SUOMI = Maksamuutoksen poisto iholta k„sin
+
+@RUOTSI = Perkutan destruktion av f”r„ndring i levern
+
+@NOTE_F = esim. l„„keruiskeella
+
+@NOTE_S = Inkl injektionsbehandling
+
+@END = 
+
+@KOODI_R = TJ
+
+@SUOMI_R = Ruoansulatuskanavan ja sen oheiselimien pientoimenpiteet
+
+@RUOTSI_R = Mindre †tg„rder p† gastrointestinalkanalen och d„rtill h”rande organ
+
+@ENGL_R = Minor procedures in gastroenterological surgery
+
+@END = 
+
+@KOODI = TJK01 
+
+@SUOMI = Sappiteiden kuvaus vatsaontelon t„hystyksess„
+
+@RUOTSI = Laparoskopisk kolangiografi
+
+@END = 
+
+@KOODI = UJK02 
+
+@SUOMI = Sappi- ja haimatiehyen katetrointi ja varjoainekuvaus (ERCP) pohjukaissuolen kautta
+
+@RUOTSI = ERCP (Endoskopisk Retrograd Cholangio-Pancreatikografi)
+
+@NOTE_F = ERCP=endoskooppinen retrograadinen cholangiopancreatikografia
+
+@NOTE_F =
+Sis. sappiteiden (ERC) ja haimatiehyen (ERP) erillisen katetroinnin tai  kuvauksen
+
+@NOTE_S = Inkl „ven selektiv katerisering/r”ntgenunders”kning av gallg†ngar (ERC) eller pancreasg†ngar  (ERP)
+
+@END = 
+
+@KOODI = UJK12 
+
+@SUOMI = Sappitiet„hystys nielun kautta
+
+@RUOTSI = Peroral cholangioskopi
+
+@NOTE_F = Sappitiet„hystys leikkauksessa JKB 20
+
+@NOTE_S = Cholangioskopi vid laparotomi (JKB20), vid laparoskopi (JKB21)
+
+@END = 
+
+@KOODI = UJK22 
+
+@SUOMI = Sappitiet„hystys sappitieavanteen kautta
+
+@RUOTSI = Cholangioskopi via gallfistel
+
+@END = 
+
+@KOODI = UJK32 
+
+@SUOMI = Sappirakon t„hystys sappiavanteen kautta
+
+@RUOTSI = Cholecystoskopi via gallfistel
+
+@END = 
+
+@KOODI = UJK42 
+
+@SUOMI = Haiman t„hystys mahasuolikanavan kautta
+
+@RUOTSI = Peroral pankreatikoskopi
+
+@END = 
+
+@KOODI_R = JL
+
+@SUOMI_R = Haiman toimenpiteet
+
+@RUOTSI_R = tg„rder p† pankreas
+
+@ENGL_R = Pancreas
+
+@END = 
+
+@KOODI = TJL10 
+
+@SUOMI = Haiman neulakudosn„yte suljetusti iholta k„sin
+
+@RUOTSI = Perkutan punktionsbiopsi av pankreas
+
+@END = 
+
+@KOODI_R = JW
+
+@SUOMI_R = Ruuansulatuselinleikkausten komplikaatiotoimenpiteet
+
+@RUOTSI_R = Operationer f”r komplikationer av gastrointestinal kirurgi
+
+@ENGL_R = Reoperations in gastroenterological surgery
+
+@END = 
+
+@KOODI = JWA00 
+
+@SUOMI = Ruuansulatuselinleikkauksen auenneen leikkaushaavan tarkistaminen
+
+@RUOTSI = Revision/sutur av s†rruptur efter operationer p† matsm„ltningsorganen
+
+@END = 
+
+@LUVUT = LUKU L
+
+@LUVUT_S = KAPITEL L
+
+@SUOMI_L = Naisen sukupuolielinten toimenpiteet
+
+@RUOTSI_L = tg„rder p† kvinnliga genitalier
+
+@ENGL_L = Female genital organs
+
+@END_L = 
+
+@KOODI = TK800 
+
+@SUOMI = Hemodialyysi
+
+@RUOTSI = Hemodialys
+
+@NOTE_F = Sis„lt„„ potilaan ohjauksen
+
+@NOTE_S = Inkl patient r†dgivning
+
+@END = 
+
+@KOODI_R = KA
+
+@SUOMI_R = Munuaisten ja munuaisaltaiden toimenpiteet
+
+@RUOTSI_R = Operationer p† njure inklusive njurb„cken
+
+@ENGL_R = Kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KAT00 
+
+@SUOMI = Munuaiskivien kehonulkoinen murskaus, ESWL
+
+@RUOTSI = Extrakorporeal st”tv†gslitotripsi av njurkonkrement, ESWL
+
+@END = 
+
+@KOODI = TKA00 
+
+@SUOMI = Neulakudosn„ytteen otto munuaisesta
+
+@RUOTSI = Punktionsbiopsi av njure
+
+@END = 
+
+@KOODI = UKA02 
+
+@SUOMI = Virtsanjohtimen ja munuaisaltaan t„hystys virtsateiden kautta
+
+@RUOTSI = Transluminal pyeloskopi
+
+@END = 
+
+@KOODI = TKA02 
+
+@SUOMI = Neulakudosn„ytteen otto siirretyst„ munuaisesta
+
+@RUOTSI = Punktionsbiopsi av transplanterad njure
+
+@END = 
+
+@KOODI_R = KB
+
+@SUOMI_R = Virtsanjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer p† uret„rerna
+
+@ENGL_R = Ureter
+
+@END = 
+
+@KOODI = UKB02 
+
+@SUOMI = Virtsanjohtimen t„hystys
+
+@RUOTSI = Transluminal ureteroskopi
+
+@END = 
+
+@KOODI = UKB12 
+
+@SUOMI = Virtsatieavanteen tai tekovirtsarakon t„hystys
+
+@RUOTSI = Endoskopi av urostomi/conduit/urinreservoar
+
+@END = 
+
+@KOODI_R = KC
+
+@SUOMI_R = Virtsarakon toimenpiteet
+
+@RUOTSI_R = Operationer p† urinbl†san
+
+@ENGL_R = Bladder
+
+@END = 
+
+@KOODI = UKC02 
+
+@SUOMI = Virtsarakon t„hystys
+
+@RUOTSI = Cystoskopi (inkl uretroskopi)
+
+@END = 
+
+@KOODI = TKC10 
+
+@SUOMI = Virtsarakkopisto
+
+@RUOTSI = Perkutan punktion/dr„nage av urinbl†san
+
+@NOTE_F = Sis. kanavoinnin
+
+@NOTE_S = Inkl ev dr„nage
+
+@END = 
+
+@KOODI = TKC20 
+
+@SUOMI = Virtsarakkokatetrin asettaminen
+
+@RUOTSI = Katetrisering av urinbl†san
+
+@END = 
+
+@KOODI_R = KD
+
+@SUOMI_R = Virtsaputken toimenpiteet
+
+@RUOTSI_R = Operationer p† uretra
+
+@ENGL_R = Urethra
+
+@NOTE_RF = Virtsaputken t„hystys UKD02
+
+@NOTE_RF =
+Koepalat virtsaputkesta UKC02, UKD02
+
+@NOTE_RS = Uretroskopi, se UKD02
+
+@NOTE_RS =
+Biopsi, se UKC02 / UKD02
+
+@END = 
+
+@KOODI = KDE12 
+
+@SUOMI = Kiven poisto virtsaputkesta virtsatiet„hystyksess„
+
+@RUOTSI = Uretroskopiskt avl„gsnande av uretrakonkrement
+
+@END = 
+
+@KOODI = KDE22 
+
+@SUOMI = Vierasesineen poisto virtsaputkesta virtsatiet„hystyksess„
+
+@RUOTSI = Uretroskopiskt avl„gsnande av fr„mmande kropp fr†n uretra
+
+@END = 
+
+@KOODI = TKD00 
+
+@SUOMI = Virtsaputken laajentaminen
+
+@RUOTSI = Dilatation av uretra
+
+@NOTE_F = Esim. pallokatetrilla
+
+@NOTE_S = T.ex med ballongkateter
+
+@END = 
+
+@KOODI = UKD02 
+
+@SUOMI = Virtsaputken t„hystys
+
+@RUOTSI = Uretroskopi (utan cystoskopi)
+
+@END = 
+
+@KOODI_R = KE
+
+@SUOMI_R = Eturauhasen ja rakkularauhasten toimenpiteet
+
+@RUOTSI_R = Operationer p† prostata och s„desbl†sor
+
+@ENGL_R = Prostate and seminal vesicles
+
+@END = 
+
+@KOODI = TKE00 
+
+@SUOMI = Neulakudosn„ytteen otto eturauhasesta
+
+@RUOTSI = Punktionsbiopsi av prostata
+
+@END = 
+
+@KOODI = TKE05 
+
+@SUOMI = Imuneulan„ytteen ottaminen eturauhasesta
+
+@RUOTSI = Finn†lsbiopsi (aspirationscytologi) av prostata
+
+@END = 
+
+@KOODI = TKE10 
+
+@SUOMI = Eturauhaspisto
+
+@RUOTSI = Punktion/dr„nage av prostata
+
+@NOTE_F = sis. kanavoinnin
+
+@END = 
+
+@KOODI_R = KF
+
+@SUOMI_R = Kivesten ja siemenjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer p† skrotum och skrotalinneh†llet
+
+@ENGL_R = Scrotum and scrotal organs
+
+@END = 
+
+@KOODI = TKF00 
+
+@SUOMI = Neulakudosn„ytteen otto kiveksest„
+
+@RUOTSI = Punktionsbiopsi av testis
+
+@END = 
+
+@KOODI = TKF05 
+
+@SUOMI = Imuneulan„ytteen ottaminen kiveksest„
+
+@RUOTSI = Finn†lsbiopsi (aspirationscytologi) av testikel
+
+@END = 
+
+@KOODI = TKF10 
+
+@SUOMI = Kivespisto
+
+@RUOTSI = Perkutan punktion/dr„nage av testikel
+
+@NOTE_F = sis. kanavoinnin
+
+@NOTE_S = Inkl ev dr„nage
+
+@END = 
+
+@KOODI = TKF20 
+
+@SUOMI = Neulakudosn„ytteen otto lis„kiveksest„
+
+@RUOTSI = Punktionsbiopsi av epididymidis
+
+@END = 
+
+@KOODI = TKF25 
+
+@SUOMI = Imuneulan„ytteen ottaminen lis„kiveksest„
+
+@RUOTSI = Finn†lsbiopsi (aspirationscytologi) av epididymis
+
+@END = 
+
+@KOODI = TKF30 
+
+@SUOMI = Lis„kivespisto
+
+@RUOTSI = Perkutan punktion/dr„nage av epididymis
+
+@NOTE_F = sis. kanavoinnin
+
+@NOTE_S = Inkl ev dr„nage
+
+@END = 
+
+@KOODI = TKF60 
+
+@SUOMI = Kivespussin pisto
+
+@RUOTSI = Punktion av skrotum
+
+@END = 
+
+@KOODI_R = KG
+
+@SUOMI_R = Siittimen toimenpiteet
+
+@RUOTSI_R = tg„rder p† penis
+
+@ENGL_R = Penis
+
+@END = 
+
+@KOODI_A = KGH
+
+@SUOMI_A = Siittimen korjaavat toimenpiteet ja muovausleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp p† penis
+
+@ENGL_A = Reconstructive operations on penis
+
+@END = 
+
+@KOODI = KGH00 
+
+@SUOMI = Siittimen ompelu
+
+@RUOTSI = Sutur av penis
+
+@END = 
+
+@KOODI = KGV00 
+
+@SUOMI = Terskan kurouman palauttaminen
+
+@RUOTSI = Operation/manipulation vid parafimosis
+
+@NOTE_F = Fimoosin reponoiminen
+
+@END = 
+
+@KOODI_R = KW
+
+@SUOMI_R = Leikkauskomplikaatioiden vuoksi tehdyt urologiset uusintatoimenpiteet
+
+@RUOTSI_R = Operationer f”r postoperativa komplikationer av urologisk kirurgi
+
+@ENGL_R = Reoperations in urological surgery
+
+@END = 
+
+@KOODI = TKW99 
+
+@SUOMI = Muut virsateiden ja miehen sukupuolielinten pientoimenpiteet
+
+@RUOTSI = Annan mindre operation p† urinv„gar och manliga genitalia
+
+@END = 
+
+@LUVUT = LUKU L
+
+@LUVUT_S = KAPITEL L
+
+@SUOMI_L = Naisen sukupuolielinten toimenpiteet
+
+@RUOTSI_L = tg„rder p† kvinnliga genitalier
+
+@ENGL_L = Female genital organs
+
+@END_L = 
+
+@KOODI_R = LA
+
+@SUOMI_R = Munasarjojen toimenpiteet
+
+@RUOTSI_R = Operationer p† ovarier
+
+@ENGL_R = Ovary
+
+@END = 
+
+@KOODI = TLA00 
+
+@SUOMI = Munasarjapunktio
+
+@RUOTSI = Punktionsbiopsi av ovarium
+
+@NOTE_F = Ovariopunktio
+
+@NOTE_F =
+Sis„lt„„ kudosn„ytteen oton
+
+@END = 
+
+@KOODI = XLA00 
+
+@SUOMI = Gynekologinen ultra„„nitutkimus
+
+@RUOTSI = Gynekologisk ultraljudsunders”kning
+
+@END = 
+
+@KOODI = ULA02 
+
+@SUOMI = Em„ttimen t„hystys
+
+@RUOTSI = Kolposkopi
+
+@END = 
+
+@KOODI_R = LB
+
+@SUOMI_R = Munanjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer p† „ggledare
+
+@ENGL_R = Fallopian tube
+
+@NOTE_RF = Sterilisaatiot kohdassa LG
+
+@NOTE_RS = Sterilisationsoperationer, se LG
+
+@END = 
+
+@KOODI = TLB00 
+
+@SUOMI = Munajohtimen punktio
+
+@RUOTSI = Punktionsbiopsi av tuba
+
+@NOTE_F = Sis„lt„„ kudosn„yteen oton
+
+@END = 
+
+@KOODI = ULB02 
+
+@SUOMI = Munanjohtimen t„hystys kohdun kautta
+
+@RUOTSI = Falloposkopi
+
+@NOTE_F = Salpingoskopia vatsaontelon kautta LBA 07
+
+@NOTE_S = Endoskopi av „ggledare
+
+@NOTE_S =
+Salpingoskopi (genom bukh†lan), se LBA
+
+@END = 
+
+@KOODI_R = LC
+
+@SUOMI_R = Kohdun ja sen kannatinsiteidentoimenpiteet
+
+@RUOTSI_R = tg„rder p† uterus och dess upph„ngningsapparat
+
+@ENGL_R = Uterus and uterine ligaments
+
+@END = 
+
+@KOODI = LCA17 
+
+@SUOMI = Kohdun limakalvon l„mp”hoito
+
+@RUOTSI = V„rmebehandling av endometrium
+
+@END = 
+
+@KOODI = LCH11 
+
+@SUOMI = Raskauden keskeytys amnionontelon ulkopuolelle annostellulla l„„kkell„
+
+@RUOTSI = Extra-amniotic instillation av abortframkallande „mne
+
+@NOTE_F = Esim. prostasykliinill„.
+
+@NOTE_F =
+Ei sis„ll„ yhdynn„nj„lkeist„ ehk„isy„ estrogeenilla
+
+@NOTE_S = T.ex. prostasyklin
+
+@NOTE_S =
+Utesluter postkoital estrogenbehandling
+
+@END = 
+
+@KOODI = TLC00 
+
+@SUOMI = Kohdunsis„isen ehk„isimen asettaminen
+
+@RUOTSI = Inl„ggning av IUD
+
+@END = 
+
+@KOODI = ULC02 
+
+@SUOMI = Kohdun t„hystys
+
+@RUOTSI = Hysteroskopi
+
+@END = 
+
+@KOODI = TLC02 
+
+@SUOMI = Kohdunsis„isen ehk„isimen tavanomainen poistaminen
+
+@RUOTSI = Enkel extraktion av IUD
+
+@NOTE_F = Vatsaonteloon joutuneen ehk„isimen poisto kohdassa JAL10-11
+
+@NOTE_F =
+Mik„li ehk„isint„ ei voida poistaa kohdusta valmistajan suunnitelemalla tavalla katso LCA20-2
+
+@NOTE_F =
+Kierukan poisto raskauden aikana kohdassa MAA22
+
+@NOTE_S = Extraktion av IUD fr†n buk†lan, se JAL10-11
+
+@NOTE_S =
+Om IUD ej kan extraheras fr†n livmodern enligt de anvisningar som producenten har angivit se LCA20-2
+
+@NOTE_S =
+Extraktion av IUD under graviditet, se MAA22
+
+@END = 
+
+@KOODI = ULC05 
+
+@SUOMI = Koepalan otto suonikalvon nukkalis„kkeest„ kohdunt„hystyksess„
+
+@RUOTSI = Biopsi av chorionvillus vid hysteroskopi
+
+@END = 
+
+@KOODI = ULC12 
+
+@SUOMI = Kohdun t„hystys mikroskoopin avulla
+
+@RUOTSI = Hysteromikroskopi
+
+@END = 
+
+@KOODI_R = LD
+
+@SUOMI_R = Kohdun kaulaosan toimenpiteet
+
+@RUOTSI_R = Operationer p† cervix uteri
+
+@ENGL_R = Cervix uteri
+
+@END = 
+
+@KOODI = LDA10 
+
+@SUOMI = Kohdun kaulan kaavinta
+
+@RUOTSI = Abrasio av cervix uteri
+
+@NOTE_F = Koepalan otto kohdunt„hystyksess„ kohdassa ULC
+
+@NOTE_S = Hysteroskopisk biopsi, se ULC
+
+@END = 
+
+@KOODI = LDA20 
+
+@SUOMI = Koepalan otto kohdun napukasta
+
+@RUOTSI = Biopsi av portio
+
+@END = 
+
+@KOODI = LDA96 
+
+@SUOMI = Muu kohdun napukan tai kohdun kaulan kudosn„ytteen otto
+
+@RUOTSI = Annan biopsi av portio eller cervix uteri
+
+@END = 
+
+@KOODI = LDB00 
+
+@SUOMI = Paikallisen muutoksen poisto kohdun kaulasta
+
+@RUOTSI = Exstirpation av f”r„ndring i portio eller cervix uteri
+
+@NOTE_F = esim. polyypin poisto
+
+@NOTE_S = T.ex. av polyp
+
+@END = 
+
+@KOODI = LDB10 
+
+@SUOMI = Kohdun kaulan j„„dytyshoito
+
+@RUOTSI = Kryoterapi av portio eller cervix uteri
+
+@END = 
+
+@KOODI = LDB20 
+
+@SUOMI = Kohdun kaulan laserhoito tai poltto
+
+@RUOTSI = Elektrokoagulation eller laservaporation av portio eller cervix uteri
+
+@END = 
+
+@KOODI = XLD00 
+
+@SUOMI = Irtosolun„ytteen ottaminen kohdunkaulasta
+
+@RUOTSI = Cellprovtakning fr†n cervix uteri
+
+@END = 
+
+@KOODI_A = LEB
+
+@SUOMI_A = Koepalan otot em„ttimest„ ja paikallisten muutosten poistot
+
+@RUOTSI_A = Biopsi, exstirpation eller destruktion av f”r„ndring i vagina
+
+@ENGL_A = Biopsy, excision or destruction of lesion of vagina
+
+@END = 
+
+@KOODI = LEB00 
+
+@SUOMI = Koepalan otto em„ttimest„
+
+@RUOTSI = Biopsi av vagina
+
+@END = 
+
+@KOODI = TLE00 
+
+@SUOMI = Em„ttimen laajennus
+
+@RUOTSI = Dilatation av vagina
+
+@END = 
+
+@KOODI = TLE10 
+
+@SUOMI = Vierasesineen poisto em„ttimest„ lapsella
+
+@RUOTSI = Avl„gsnande av fr„mmande kropp ur vagina hos barn
+
+@END = 
+
+@KOODI = TLE20 
+
+@SUOMI = Pisto em„ttimen kautta vatsaonteloon
+
+@RUOTSI = Transvaginal punktion av fossa Douglasi
+
+@END = 
+
+@KOODI = TLE30 
+
+@SUOMI = Em„ttimen tamponointi
+
+@RUOTSI = Tamponad av vagina
+
+@END = 
+
+@KOODI_A = LFB
+
+@SUOMI_A = Koepalan otot ulkosynnyttimist„ tai v„lilihasta
+
+@RUOTSI_A = Biopsi, excision eller destruktion av f”r„ndring i vulva och perineum
+
+@ENGL_A = Biopsy, excision or destruction of lesion of vulva and perineum
+
+@END = 
+
+@KOODI = LFB00 
+
+@SUOMI = Koepalan otto ulkosynnyttimist„ tai v„lilihasta
+
+@RUOTSI = Biopsi av vulva eller perineum
+
+@END = 
+
+@KOODI_R = LW
+
+@SUOMI_R = Naisen sukupuolielinleikkauksten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Operationer f”r komplikationer av gynekologisk kirurgi
+
+@ENGL_R = Reoperations on female genital organs
+
+@END = 
+
+@KOODI = LWA00 
+
+@SUOMI = Auenneen tai tulehtuneen naisen sukupuolielinleikkausken haavan tarkistaminen
+
+@RUOTSI = Revision av s†rruptur/infektion efter operation p† kvinnliga genitalia
+
+@END = 
+
+@KOODI = TLW00 
+
+@SUOMI = Inseminaatio
+
+@RUOTSI = Insemination
+
+@NOTE_F = Sis„lt„„ siemennesteen k„sittelyn
+
+@NOTE_S = Inkl arbetet med semen
+
+@END = 
+
+@KOODI = TLW10 
+
+@SUOMI = Alkionsiiirto
+
+@RUOTSI = Implatation av embryo
+
+@END = 
+
+@KOODI = TLW99 
+
+@SUOMI = Muut naisen sukupuolielinten pientoimenpiteet
+
+@RUOTSI = Annan mindre operation p† kvinnliga genitalia
+
+@END = 
+
+@LUVUT = LUKU M
+
+@LUVUT_S = KAPITEL M
+
+@SUOMI_L = Raskauteen ja synnytykseen liittyv„t toimenpiteet
+
+@RUOTSI_L = Obstetriska ingrepp
+
+@ENGL_L = Obstetric procedures
+
+@END_L = 
+
+@KOODI_R = MA
+
+@SUOMI_R = Raskauden ja synnytyksen aikana teht„v„t toimenpiteet
+
+@RUOTSI_R = Ingrepp under graviditet eller i samband med f”rlossning
+
+@ENGL_R = Procedures in pregnancy and at delivery
+
+@NOTE_RF = Raskauden keskeytys kohdassa LCH
+
+@NOTE_RS = Avbrytande av graviditet, se LCH
+
+@END = 
+
+@KOODI_A = MAA
+
+@SUOMI_A = Kohdun sis„iset tai siki”toimenpiteet raskauden aikana
+
+@RUOTSI_A = Intrauterina operationer p† gravid uterus och foster
+
+@ENGL_A = Intrauterine operations on pregnant uterus and fetus
+
+@END = 
+
+@KOODI = MAA00 
+
+@SUOMI = Lapsivesipisto
+
+@RUOTSI = Amniocentes
+
+@END = 
+
+@KOODI = MAA22 
+
+@SUOMI = Ehk„isimen poisto raskaana olevasta kohdusta kohdunt„hystyksess„
+
+@RUOTSI = Hysteroskopi med avl„gsnande av IUD fr†n gravid uterus
+
+@END = 
+
+@KOODI = MAA30 
+
+@SUOMI = Napanuorapisto
+
+@RUOTSI = Chordocentes
+
+@END = 
+
+@KOODI = MAA32 
+
+@SUOMI = Siki”n napasuonen katerointi
+
+@RUOTSI = Katetrisering av fostrets navelstr„ngs k„rl
+
+@NOTE_F = Sis„lt„„ ultra„„niohjauksen
+
+@NOTE_S = Inkl ultraljudsutstyrd
+
+@END = 
+
+@KOODI_A = MAB
+
+@SUOMI_A = Kohtuun ulkoap„in kohdistuvat toimenpiteet raskauden aikana
+
+@RUOTSI_A = Diverse ingrepp p† gravid uterus eller foster
+
+@ENGL_A = Various procedures on pregnant uterus and fetus
+
+@END = 
+
+@KOODI = MAB10 
+
+@SUOMI = Siki”n ulkok„„nn”s
+
+@RUOTSI = Yttre v„ndning av foster
+
+@END = 
+
+@KOODI = MAB20 
+
+@SUOMI = Ep„onnistunut siki”n ulkok„„nt”
+
+@RUOTSI = V„ndningsf”rs”k (icke framg†ngsrikt) av foster
+
+@END = 
+
+@KOODI_A = MAC
+
+@SUOMI_A = Synnytyst„ k„ynnist„v„t toimenpiteet
+
+@RUOTSI_A = Ingrepp f”r inledande av f”rlossning
+
+@ENGL_A = Surgical induction of labour
+
+@END = 
+
+@KOODI = MAC00 
+
+@SUOMI = Vesikalvon puhkaisu synnytyksess„
+
+@RUOTSI = Amniotomi f”r inledande av f”rlossning
+
+@END = 
+
+@KOODI = MAC10 
+
+@SUOMI = Kohdun kaulakanavan laajennus synnytyksess„
+
+@RUOTSI = Cervixdilatation f”r inledande av f”rlossning
+
+@END = 
+
+@KOODI = MAC96 
+
+@SUOMI = Muut synnytyst„ edist„v„t toimenpiteet
+
+@RUOTSI = Annat ingrepp f”r inledande av f”rlossning
+
+@END = 
+
+@KOODI_A = MAE
+
+@SUOMI_A = Imukuppiulosauttamiset
+
+@RUOTSI_A = F”rlossning med sugklocka
+
+@ENGL_A = Vacuum delivery
+
+@END = 
+
+@KOODI = MAE00 
+
+@SUOMI = Imukuppiulosautto
+
+@RUOTSI = Vacuumextraktion av foster
+
+@END = 
+
+@KOODI = MAE20 
+
+@SUOMI = Ep„onnistunut imukuppiulosautto
+
+@RUOTSI = F”rs”k (misslyckat) till extraktion av foster med sugklocka
+
+@END = 
+
+@KOODI_A = MAG
+
+@SUOMI_A = Synnytyksen poikkeavan tarjonnan toimenpiteet
+
+@RUOTSI_A = Ingrepp vid fot- eller s„tesbjudning
+
+@ENGL_A = Breech delivery
+
+@END = 
+
+@KOODI = MAG00 
+
+@SUOMI = Per„tilan ulosautto k„sin
+
+@RUOTSI = S„tesf”rlossning, manuell
+
+@END = 
+
+@KOODI_A = MAH
+
+@SUOMI_A = Muut synnytystoimenpiteet
+
+@RUOTSI_A = Diverse ingrepp i samband med f”rlossning
+
+@ENGL_A = Various procedures relating to delivery
+
+@NOTE_RF = Ulosautto imukupilla, katso MAE
+
+@END = 
+
+@KOODI = MAH10 
+
+@SUOMI = Napanuoran takaisin laittaminen
+
+@RUOTSI = Reposition av navelstr„ngsframfall i samband med f”rlossning
+
+@END = 
+
+@KOODI = TMA00 
+
+@SUOMI = V„lilihanleikkaus, episiotomia
+
+@RUOTSI = Perineotomi under f”rlossning
+
+@END = 
+
+@KOODI = XMA00 
+
+@SUOMI = Siki”n ultra„„nitutkimus
+
+@RUOTSI = Ultraljudsunders”kning av foster
+
+@END = 
+
+@KOODI = XMA02 
+
+@SUOMI = Siki”n syd„men ultra„„nitutkimus
+
+@RUOTSI = ultraljudsunders”kning av fosterhj„rta
+
+@END = 
+
+@KOODI = XMA20 
+
+@SUOMI = Varhaisraskauden tutkimus
+
+@RUOTSI = Unders”kning av tidig gravidit„t
+
+@END = 
+
+@KOODI = XMA22 
+
+@SUOMI = Raskauden yleistutkimus
+
+@RUOTSI = Generel unders”kning av gravidit„t
+
+@END = 
+
+@KOODI_R = MB
+
+@SUOMI_R = Synnytyksen tai raskaudenkeskeytymisen j„lkeen teht„v„t toimenpiteet
+
+@RUOTSI_R = Ingrepp efter f”rlossning eller abort
+
+@ENGL_R = Procedures after delivery or abortion
+
+@NOTE_RF = Raskauden keskeytys, katso LCH
+
+@NOTE_RS = Provocerad abort, se LCH
+
+@END = 
+
+@KOODI_A = MBA
+
+@SUOMI_A = Synnytyksen tai keskenmenon j„lkeen teht„v„t toimenpiteet
+
+@RUOTSI_A = Avl„gsnande av i livmodern retinerade strukturer (moderkaka, hinnor, etc.)
+
+@ENGL_A = Removal of retained products of conception after delivery or abortion
+
+@END = 
+
+@KOODI = MBA00 
+
+@SUOMI = Kohduntyhjennys imulla synnytyksen j„lkeen
+
+@RUOTSI = Exeres med vakuumaspiration vid missfall eller efter f”rlossning
+
+@NOTE_F = Sis„lt„„ mahdollisen kohdunkaulan laajennuksen
+
+@NOTE_S = Inkl ev cervixdilatation
+
+@END = 
+
+@KOODI = MBA03 
+
+@SUOMI = Kohduntyhjennys kaapimalla synnytyksen j„lkeen
+
+@RUOTSI = Exeres med curettage vid missfall eller efter f”rlossning
+
+@NOTE_F = Sis„lt„„ kohdunkaulan laajennuksen
+
+@NOTE_F =
+Kohdun kaavinta ilman raskautta LCA10, LCA13 tai LDA10
+
+@NOTE_S = Inkl ev cervixdilatation
+
+@NOTE_S =
+Abrasio utan graviditet, se LCA10, LCA13 eller LDA10
+
+@END = 
+
+@KOODI = MBA10 
+
+@SUOMI = Kohdun ontelon tunnustelu k„dell„
+
+@RUOTSI = Manuell unders”kning av uteruskaviteten
+
+@END = 
+
+@KOODI = MBA20 
+
+@SUOMI = Istukan ulospuristaminen Creden ottein
+
+@RUOTSI = Exprimering av moderkaka (Cred‚)
+
+@END = 
+
+@KOODI = MBA30 
+
+@SUOMI = Istukan ja siki”kalvojen k„sinirroitus
+
+@RUOTSI = Manuell l”sning och uttagande av fosterhinnor, moderkaka eller rest d„rav
+
+@END = 
+
+@KOODI = MBA96 
+
+@SUOMI = Muu kohtuun j„„neiden hedelm”itystuotteiden poisto synnytyksen tai keskenmenon j„lkeen
+
+@RUOTSI = Annan utskaffning av retinerade feto-placentala strukturer efter f”rlossning/abort
+
+@END = 
+
+@KOODI_A = MBB
+
+@SUOMI_A = Muut k„sin suoritetut toimenpiteen synnytyksen j„lkeen
+
+@RUOTSI_A = Andra manuella ingrepp p† uterus efter f”rlossning
+
+@ENGL_A = Other manual procedures on delivered uterus
+
+@END = 
+
+@KOODI = MBB00 
+
+@SUOMI = Nurink„„ntyneen kohdun sis„„nty”nt”
+
+@RUOTSI = Manuell reposition av inverterad uterus
+
+@END = 
+
+@KOODI = MBB10 
+
+@SUOMI = Kohtuontelon vuodon tukkiminen liinalla
+
+@RUOTSI = Stillning av postpartal bl”dning i livmoderh†lan genom tamponad
+
+@END = 
+
+@KOODI = MBB96 
+
+@SUOMI = Muu k„sin suoritettu toimenpide synnytyksen j„lkeen
+
+@RUOTSI = Annat manuellt ingrepp p† uterus efter f”rlossning
+
+@END = 
+
+@KOODI_A = MBC
+
+@SUOMI_A = Synnytysvaurioiden korjaus
+
+@RUOTSI_A = Revision av f”rlossningsskador
+
+@ENGL_A = Repair of obstetric lacerations
+
+@END = 
+
+@KOODI = MBC30 
+
+@SUOMI = V„lilihan osittaisen repe„m„n korjaus
+
+@RUOTSI = Sutur av perinealbristning grad 1 och 2
+
+@END = 
+
+@KOODI = TMW99 
+
+@SUOMI = Muut raskauteen ja synnytykseen liittyv„t pientoimenpiteet
+
+@RUOTSI = Annan mindre obstetrisk operation
+
+@END = 
+
+@LUVUT = LUKU N
+
+@LUVUT_S = KAPITEL N
+
+@SUOMI_L = Tuki- ja liikuntaelimien toimenpiteet
+
+@RUOTSI_L = tg„rder p† muskuloskeletala systemet
+
+@ENGL_L = Musculoskeletal system
+
+@END_L = 
+
+@KOODI_R = NA
+
+@SUOMI_R = Sel„n ja kaulan toimenpiteet
+
+@RUOTSI_R = Operationer p† ryggen och halsen
+
+@ENGL_R = Spine and neck
+
+@NOTE_RF = Sis„lt„„ kaulan lihakset
+
+@NOTE_RF =
+Sel„n v„lilevyleikkaukset kohdassa ABC
+
+@NOTE_RF =
+Nielun ja sit„ ymp„r”iv„n pehmytkudoksen toimenpiteet kohdassa EN
+
+@NOTE_RS = Inkluderar musklerna i halsen
+
+@NOTE_RS =
+Operationer p† intervertebrala "diskar", se ABC
+
+@NOTE_RS =
+Operationer p† farynx och n„rliggande organ, se EN
+
+@END = 
+
+@KOODI = NAH10 
+
+@SUOMI = Selk„rangan sijoiltaanmenon suljettu paikalleenasetus
+
+@RUOTSI = Sluten reposition av luxation i ryggraden
+
+@END = 
+
+@KOODI = NAT60 
+
+@SUOMI = Sel„n manipulaatio
+
+@RUOTSI = Rygg manipulation
+
+@END = 
+
+@KOODI_R = NB
+
+@SUOMI_R = Lapaluun, solisluun, olkanivelen ja olkavarren toimenpiteet
+
+@RUOTSI_R = Operationer p† skulderbladet, nyckelbenet, skulderleden och ”verarmen
+
+@ENGL_R = Shoulder and upper arm
+
+@END = 
+
+@KOODI = NBT60 
+
+@SUOMI = Olkanivelen manipulointi
+
+@RUOTSI = Manipulation av skulderleden
+
+@END = 
+
+@KOODI_R = NC
+
+@SUOMI_R = Kyyn„rnivelen ja kyyn„rvarren toimenpiteet
+
+@RUOTSI_R = Ortopediska operationer p† armb†gen och underarmen
+
+@ENGL_R = Elbow and forearm
+
+@END = 
+
+@KOODI = NCH10 
+
+@SUOMI = Kyyn„rnivelen sijoiltaanmenon suljettu paikalleenasetus
+
+@RUOTSI = Sluten reposition av luxerad armb†gsled
+
+@END = 
+
+@KOODI = NCJ40 
+
+@SUOMI = V„rttin„luun  tyypillisen  murtuman paikalleenasetus ja sidos
+
+@RUOTSI = Reduktion och bandage vid fractura radii typica
+
+@END = 
+
+@KOODI = NCJ44 
+
+@SUOMI = Kyyn„rvarren murtuman paikalleenasetus ja sidos
+
+@RUOTSI = Reduktion och bandage vid antebrachiumfraktur
+
+@END = 
+
+@KOODI = NCT60 
+
+@SUOMI = Kyyn„rnivelen manipulointi
+
+@RUOTSI = Manipulation av armb†gsleden
+
+@END = 
+
+@KOODI_R = ND
+
+@SUOMI_R = Ranteen ja k„den toimenpiteet
+
+@RUOTSI_R = Operationer p† handleden eller handen
+
+@ENGL_R = Wrist and hand
+
+@END = 
+
+@KOODI = NDH10 
+
+@SUOMI = Ranteen sijoiltaanmenon suljettu paikalleenasetus
+
+@RUOTSI = Sluten reposition av karpalluxation
+
+@END = 
+
+@KOODI = NDH60 
+
+@SUOMI = Sormen sijoiltaanmenon paikalleenasetus
+
+@RUOTSI = Sluten reposition av fingerluxation
+
+@END = 
+
+@KOODI_R = NG
+
+@SUOMI_R = Polven ja s„„ren toimenpiteet
+
+@RUOTSI_R = Operationer p† kn„ och underben
+
+@ENGL_R = Knee joint and lower leg
+
+@END = 
+
+@KOODI = NGH10 
+
+@SUOMI = Polvinivelen tai lumpion sijoiltaanmenon suljettu paikalleenasetus
+
+@RUOTSI = Sluten reposition av luxerad patella
+
+@END = 
+
+@KOODI = NGJ40 
+
+@SUOMI = Polvilumpion tai s„„ren murtuman suljettu paikalleenasetus ja sidos
+
+@RUOTSI = Sluten reduktion av crus-fraktur/fotledsfraktur + bandage
+
+@END = 
+
+@KOODI = NGT60 
+
+@SUOMI = Polvinivelen manipulaatio
+
+@RUOTSI = Manipulation av kn„led
+
+@END = 
+
+@KOODI_R = NH
+
+@SUOMI_R = Nilkan ja jalkater„n toimenpiteet
+
+@RUOTSI_R = Operationer p† vristen och foten
+
+@ENGL_R = Ankle and foot
+
+@NOTE_RF = Nilkka = ylempi nilkkanivel; nivelpinnat, -kapseli ja -siteet
+
+@NOTE_RF =
+Sis„lt„„ akillesj„nteen
+
+@NOTE_RS = Vrist = ”vre vristled, ledytorna, ledkapsel och ledbanden
+
+@NOTE_RS =
+Inkl akillessenan
+
+@END = 
+
+@KOODI = NHA10 
+
+@SUOMI = Neulakudosn„ytteen otto jalkater„st„ tai nilkasta
+
+@RUOTSI = N†lbiopsi fr†n fotleden och foten
+
+@END = 
+
+@KOODI = NHH10 
+
+@SUOMI = Nilkkanivelen tai tarsaalinivelen sijoiltaanmenon paikalleenasetus
+
+@RUOTSI = Reposition av luxation i talocruralled eller tarsalled
+
+@END = 
+
+@KOODI = NHH80 
+
+@SUOMI = Varpaan nivelen tai nivelten sijoiltaanmenon paikalleenasetus
+
+@RUOTSI = Reposition av luxation i en eller flera t†leder
+
+@END = 
+
+@KOODI = NHJ08 
+
+@SUOMI = Nilkkamurtuman suljettu paikalleenasettaminen ja sidos
+
+@RUOTSI = Sluten reduktion av fotledsfraktur med bandage
+
+@END = 
+
+@KOODI = NHJ40 
+
+@SUOMI = Jalkater„n tai varpaan luunmurtuman paikalleenasetus ja sidos
+
+@RUOTSI = Sluten reduktion och bandagering av fraktur i mellanfoten eller t†rna
+
+@END = 
+
+@KOODI = TNH35 
+
+@SUOMI = Kampuran sitominen
+
+@RUOTSI = Bandage av klumpfot
+
+@NOTE_F = Kampuraleikkaus NHT62
+
+@NOTE_S = Reparation av klumpfot se NHT62
+
+@END = 
+
+@KOODI = TNH36 
+
+@SUOMI = Kampuran kipsaus
+
+@RUOTSI = Gipsning av klumpfot
+
+@NOTE_F = Kampuraleikkaus NHT62
+
+@NOTE_S = Reparation av klumpfot se NHT62
+
+@END = 
+
+@KOODI_A = TNX
+
+@SUOMI_A = Tuki- ja liikuntaelinten pientoimenpiteet
+
+@RUOTSI_A = Mindre ortopediska †tg„rder
+
+@ENGL_A = Unspecified region
+
+@END = 
+
+@KOODI = TNX00 
+
+@SUOMI = Tuki- ja liikuntaelinten pehmytkudospisto, punktio
+
+@RUOTSI = Punktion av mjuka delar i ortopedin
+
+@END = 
+
+@KOODI = TNX05 
+
+@SUOMI = Tuki- ja liikuntaelinten pehmytkudosaukaisu, incisio
+
+@RUOTSI = Incision av mjuka delar i ortopedin
+
+@END = 
+
+@KOODI = TNX10 
+
+@SUOMI = Nivelpisto
+
+@RUOTSI = Ledpunktion
+
+@END = 
+
+@KOODI = TNX30 
+
+@SUOMI = Pehme„ sidos
+
+@RUOTSI = Anl„ggande av mjukt bandage
+
+@NOTE_F = esim. mitella, kainalotyyny
+
+@NOTE_S = T.ex. mitella, axillardyna
+
+@END = 
+
+@KOODI = TNX31 
+
+@SUOMI = Kova, esivalmistettu sidos
+
+@RUOTSI = Anl„ggande av ortos
+
+@NOTE_F = Esim CDH tyyny
+
+@NOTE_S =  T.ex. CDH dyna
+
+@END = 
+
+@KOODI = TNX32 
+
+@SUOMI = Muovailtava lasta
+
+@RUOTSI = Anl„ggande av formbart spj„lning
+
+@NOTE_F = esim. kipsist„
+
+@NOTE_S =  T. ex. gips
+
+@END = 
+
+@KOODI = TNX33 
+
+@SUOMI = Muovailtava sidos
+
+@RUOTSI = Anl„ggande bandage av formbart material
+
+@NOTE_F = esim kipsisaapas
+
+@NOTE_S =  T.ex. gips
+
+@END = 
+
+@KOODI = TNX34 
+
+@SUOMI = Laaja muovailtava sidos
+
+@RUOTSI = Anl„ggande av st”rre formbart bandage
+
+@NOTE_F = esim kipsikorsetti
+
+@NOTE_S =  T.ex. gipskorsett
+
+@END = 
+
+@KOODI = TNX39 
+
+@SUOMI = Muu ortopedinen sidos
+
+@RUOTSI = Annat ortopediskt bandage
+
+@END = 
+
+@LUVUT = LUKU P
+
+@LUVUT_S = KAPITEL P
+
+@SUOMI_L = Verisuonien ja imusuonij„rjestelm„n toimenpiteet
+
+@RUOTSI_L = tg„rder p† perifera k„rl och lymfsystemet
+
+@ENGL_L = Peripheral vessels and lymphatic system
+
+@NOTE_LF = Rintaontelon suurten verisuonien toimenpiteet luvussa F.
+
+@NOTE_LF =
+Aivoverisuonien toimenpiteet luvussa A.
+
+@NOTE_LS = Ingrepp p† intrakraniala k„rl, se A
+
+@NOTE_LS =
+Ingrepp p† de stora intratorakala k„rlen, se F
+
+@END_L = 
+
+@KOODI_R = XP
+
+@SUOMI_R = Verisuonten tutkimustoimenpiteet
+
+@RUOTSI_R = Diagnostiska †tg„rder p† perifera k„rl
+
+@ENGL_R = Diagnostic vascular procedures
+
+@END = 
+
+@KOODI = XP000 
+
+@SUOMI = Valtimon varjoainekuvaus
+
+@RUOTSI = Kineangiografi av art„r
+
+@NOTE_F = Ei sis„ll„ rintakeh„n sis„isen aortan (XFC00) tai koronaarisuonten (XFN00) varjoainetutkimusta
+
+@NOTE_S = Exkluderar angiografi av aorta (XFC00) och kransk„rlen (XFN00)
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer p† vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI = TPH05 
+
+@SUOMI = Laskimon esiin otto ja kanylointi
+
+@RUOTSI = Fril„ggning och kanylering av perifer ven
+
+@END = 
+
+@KOODI = TPH15 
+
+@SUOMI = Keskuslaskimokatetrin asettaminen kaulalaskimon kautta
+
+@RUOTSI = Inl„ggande av CVK via vena jugularis (externa eller interna)
+
+@NOTE_F = Sis„lt„„ ihonalaisen tai muun kiinte„n infuusioportin asennuksen.
+
+@NOTE_S = Inkl inl„ggande av permanent kateterport
+
+@END = 
+
+@KOODI = TPH20 
+
+@SUOMI = Keskuslaskimokatetrin asettaminen solislaskimon tai vena brachiocephalikuksen kautta
+
+@RUOTSI = Inl„ggande av CVK via vena subclavia eller brachiocephalica
+
+@NOTE_F = Sis„lt„„ ihonalaisen tai muun kiinte„n infuusioportin asennuksen.
+
+@END = 
+
+@KOODI = TPH30 
+
+@SUOMI = Keskuslaskimokatetrin asettaminen „„reislaskimon kautta
+
+@RUOTSI = Inl„ggande av CVK via perifert ven
+
+@END = 
+
+@KOODI = TPH90 
+
+@SUOMI = Kiinte„n suonikanyylin poisto
+
+@RUOTSI = Avl„gsnande av permanent k„rlkateter
+
+@END = 
+
+@KOODI_R = PJ
+
+@SUOMI_R = Imusuonij„rjestelm„n toimenpiteet
+
+@RUOTSI_R = Operationer p† det lymfatiska systemet
+
+@ENGL_R = Operations on lymphatic system
+
+@END = 
+
+@KOODI = TPJ00 
+
+@SUOMI = Koepalan otto imurauhasesta
+
+@RUOTSI = Biopsi av ytlig lymfk”rtel
+
+@END = 
+
+@KOODI = TPJ05 
+
+@SUOMI = Neulan„ytteen otto imusolmukkeesta
+
+@RUOTSI = Punktionsbiopsi av lymfk”rtel
+
+@END = 
+
+@KOODI_R = PW
+
+@SUOMI_R = Verisuonien ja imusuonij„rjestelm„n leikkausten komplikaatiotoimenpiteet
+
+@RUOTSI_R = Operationer f”r komplikationer av k„rlkirugin
+
+@ENGL_R = Reoperations on peripheral vessels and lymphatic system
+
+@END = 
+
+@KOODI = TPW99 
+
+@SUOMI = Muut verisuoniin ja imuteihin kohdistuvat pientoimenpiteet
+
+@RUOTSI = Annan mindre operation p† perifera k„rl och lymfatiska systemet
+
+@END = 
+
+@KOODI_R = PX
+
+@SUOMI_R = Eri alueiden verisuonitoimenpiteet
+
+@RUOTSI_R = Vaskul„r„ †tg„rder p† odefinierad omr†de
+
+@END = 
+
+@KOODI = TPX00 
+
+@SUOMI = Koepalan otto pinnallisesta valtimosta tai laskimosta
+
+@RUOTSI = Biopsi av ytlig art„r eller ven
+
+@NOTE_F = Koepalan otto ohimovaltimosta PAW37.
+
+@NOTE_S = Biopsi av temporalart„r, se PAW37
+
+@END = 
+
+@KOODI = XPX16 
+
+@SUOMI = Perifeerisen verisuonen ultra„„nitutkimus
+
+@RUOTSI = Ultraljudsunders”kning av perifert k„rl
+
+@NOTE_F = Sis„lt„„ Doppler tekniikan
+
+@END = 
+
+@KOODI = TPX20 
+
+@SUOMI = Valtimonahtauma pallolaajennus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = XPX99 
+
+@SUOMI = Muu verisuonen tutkimustoimenpide
+
+@RUOTSI = Annan diagnostisk †tg„rd p† perifert k„rl
+
+@END = 
+
+@LUVUT = LUKU Q
+
+@LUVUT_S = KAPITEL Q
+
+@SUOMI_L = Ihon ja ihonalaiskudoksen toimenpiteet
+
+@RUOTSI_L = tg„rder p† hud och subkutana v„vnader
+
+@ENGL_L = Skin
+
+@NOTE_LF = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_LS = Transplantat och lamb†er, se ZZ
+
+@END_L = 
+
+@KOODI = XQ800 
+
+@SUOMI = Prick-testi
+
+@RUOTSI = Prick-test
+
+@END = 
+
+@KOODI = XQ802 
+
+@SUOMI = Epikutaanitesti
+
+@RUOTSI = Epikutantest
+
+@END = 
+
+@KOODI = XQ810 
+
+@SUOMI = Fysikaaliset urtikariatestit
+
+@RUOTSI = Fysikaliska tester f”r urtikaria
+
+@END = 
+
+@KOODI_R = QA
+
+@SUOMI_R = P„„n ja kaulan ihon toimenpiteet
+
+@RUOTSI_R = Operationer p† hud och subkutana v„vnader i huvud-halsregionen
+
+@ENGL_R = Head and neck
+
+@NOTE_RF = Sis. kasvojen ihon toimenpiteet
+
+@NOTE_RF =
+Hoidetun ihoalueen laajuus ilmaistaan lis„koodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lis„koodilla, ks. ZQZ00
+
+@NOTE_RS = Inkl ansiktet
+
+@NOTE_RS =
+Storlek av behandlade hudarealen anges med till„ggskod, se ZQX
+
+@NOTE_RS =
+N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†det som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med till„gskod, se ZQZ00.
+
+@END = 
+
+@KOODI = QAA00 
+
+@SUOMI = P„„n tai kaulan ihon pisto
+
+@RUOTSI = Punktion i huvud-halsregionen
+
+@NOTE_F = esim. verenpurkauman, haavanesteen tms
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QAA05 
+
+@SUOMI = Koepalan otto p„„n tai kaulan ihosta tai subkutiksesta
+
+@RUOTSI = Biopsi av hud/subkutan v„vnad i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA10 
+
+@SUOMI = P„„n tai kaulan ihon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dr„nage i huvud-halsregionen
+
+@NOTE_S = Inkl dr„nage
+
+@END = 
+
+@KOODI = QAA30 
+
+@SUOMI = P„„n tai kaulan ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Koagulation av hudf”r„ndring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA40 
+
+@SUOMI = P„„n tai kaulan ihomuutoksen laserk„sittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudf”r„ndring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA50 
+
+@SUOMI = P„„n tai kaulan ihomuutoksen j„„dytyshoito
+
+@RUOTSI = Kryoterapi av hudf”r„ndring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAA99 
+
+@SUOMI = Muu p„„n tai kaulan ihon koepalan otto, aukaisu tai paikallinen k„sittely
+
+@RUOTSI = Annan punktion, incision, biopsi eller destruktion vid hudf”r„ndring i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAB00 
+
+@SUOMI = P„„n tai kaulan ihohaavan ompelu
+
+@RUOTSI = Hudsutur i huvud-halsregionen
+
+@NOTE_F = Laajuus ilmaistaan tarvittaessa lis„koodilla, katso ZQX
+
+@END = 
+
+@KOODI = QAB10 
+
+@SUOMI = P„„n tai kaulan ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/f”rbandsbyte f”r s†r i huvud-halsregionen
+
+@NOTE_F = Palovamma kohdassa QAD
+
+@NOTE_S = Br„nnskador, se QAD
+
+@END = 
+
+@KOODI = QAB99 
+
+@SUOMI = Muu p„„n tai kaulan ihohaavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan s†rbehandling i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAC00 
+
+@SUOMI = Vierasesineen poisto p„„n tai kaulan ihosta tai ihonalaiskudoksesta
+
+@RUOTSI = Avl„gsnande av kutan/subkutan fr„mmande kropp i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAD00 
+
+@SUOMI = P„„n tai kaulan palovamman siteiden vaihto
+
+@RUOTSI = Oml„ggning vid br„nnskada i huvud-halsregionen
+
+@END = 
+
+@KOODI = QAE10 
+
+@SUOMI = P„„n tai kaulan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto
+
+@RUOTSI = Excision av kutan/subkutan f”r„ndring i huvud-halsregionen
+
+@END = 
+
+@KOODI_R = QB
+
+@SUOMI_R = Vartalon ihon toimenpiteet
+
+@RUOTSI_R = Operationer p† hud och subkutan v„vnad p† b†len
+
+@ENGL_R = Trunk
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lis„koodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lis„koodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med till„ggskod, se ZQX.
+
+@NOTE_RS =
+N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†det som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med till„gskod, se ZQZ00.
+
+@END = 
+
+@KOODI = QBA00 
+
+@SUOMI = Vartalon ihon pisto
+
+@RUOTSI = Punktion p† b†len
+
+@NOTE_F = esim, verenpurkauma, haavaneste jne
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QBA10 
+
+@SUOMI = Vartalon ihon aukaisu, insisio, ja kanavointi
+
+@RUOTSI = Incision/dr„nage p† b†len
+
+@END = 
+
+@KOODI = QBA30 
+
+@SUOMI = Vartalon ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hudf”r„ndring p† b†len
+
+@END = 
+
+@KOODI = QBA40 
+
+@SUOMI = Vartalon ihomuutoksen laserk„sittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudf”r„ndring p† b†len
+
+@END = 
+
+@KOODI = QBA50 
+
+@SUOMI = Vartalon ihomuutoksen j„„dytyshoito
+
+@RUOTSI = Kryoterapi av hudf”r„ndring p† b†len
+
+@END = 
+
+@KOODI = QBA99 
+
+@SUOMI = Muu vartalon ihon aukaisu tai koepalan otto
+
+@RUOTSI = Annan punktion, incision, biopsi eller destruktion  vid hudf”r„ndring p† b†len
+
+@END = 
+
+@KOODI = QBB00 
+
+@SUOMI = Vartalon ihohaavan ompelu
+
+@RUOTSI = Hudsutur p† b†len
+
+@END = 
+
+@KOODI = QBB10 
+
+@SUOMI = Vartalon ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/f”rbandsbyte vid s†r p† b†len
+
+@NOTE_F = Palovamma kohdassa QCD
+
+@NOTE_S = Br„nnskador, se QBD
+
+@END = 
+
+@KOODI = QBB99 
+
+@SUOMI = Muu vartalon ihohaavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan s†rbehandling p† b†len
+
+@END = 
+
+@KOODI = QBC00 
+
+@SUOMI = Vartalon ihon vierasesineen poisto
+
+@RUOTSI = Avl„gsnande av kutan/subkutan fr„mmande kropp fr†n b†len
+
+@END = 
+
+@KOODI = QBD00 
+
+@SUOMI = Vartalon palovamman siteiden vaihto
+
+@RUOTSI = F”rbandsbyte vid br„nnskada p† b†len
+
+@END = 
+
+@KOODI_R = QC
+
+@SUOMI_R = Yl„raajojen ihon toimenpiteet
+
+@RUOTSI_R = Operationer p† hud och subkutan v„vnad, ”vre extremiteten
+
+@ENGL_R = Upper limb
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lis„koodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lis„koodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med till„ggskod, se ZQX.
+
+@NOTE_RS =
+N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†det som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med till„gskod, se ZQZ00.
+
+@END = 
+
+@KOODI = QCA00 
+
+@SUOMI = Yl„raajan ihon pisto
+
+@RUOTSI = Punktion, ”vre extremiteten
+
+@NOTE_F = esim, verenpurkauma, haavaneste jne
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QCA10 
+
+@SUOMI = Yl„raajan ihon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dr„nage, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCA30 
+
+@SUOMI = Yl„raajan ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hudf”r„ndring, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCA40 
+
+@SUOMI = Yl„raajan ihomuutoksen laserk„sittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudf”r„ndring, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCA50 
+
+@SUOMI = Yl„raajan ihomuutoksen j„„dytyshoito
+
+@RUOTSI = Kryoterapi av hudf”r„ndring, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCA99 
+
+@SUOMI = Muu yl„raajan ihon aukaisu tai koepalan otto
+
+@RUOTSI = Annan punktion, incision eller biopsi vid hudf”r„ndring, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCB00 
+
+@SUOMI = Yl„raajan ihohaavan ompelu
+
+@RUOTSI = Hudsutur, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCB10 
+
+@SUOMI = Yl„raajan ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/f”rbandsbyte vid s†r p† ”vre extremiteten
+
+@NOTE_F = Palovamma kohdassa QCD
+
+@NOTE_S = Br„nnskador, se QCD
+
+@END = 
+
+@KOODI = QCB99 
+
+@SUOMI = Muu yl„raajan ihon haavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan s†rbehandling, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCC00 
+
+@SUOMI = Yl„raajan ihon vierasesineen poisto
+
+@RUOTSI = Avl„gsnande av kutan/subkutan fr„mmande kropp, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCD00 
+
+@SUOMI = Yl„raajan palovamman siteiden vaihto
+
+@RUOTSI = F”rbandsbyte vid br„nnskada, ”vre extremiteten
+
+@END = 
+
+@KOODI = QCH00 
+
+@SUOMI = Sormen kynnen poisto
+
+@RUOTSI = Avl„gsnande av fingernagel
+
+@END = 
+
+@KOODI_R = QD
+
+@SUOMI_R = Alaraajojen ihon toimenpiteet
+
+@RUOTSI_R = Operationer p† hud och subkutan v„vnad, nedre extremiteten
+
+@ENGL_R = Lower limb
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lis„koodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lis„koodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med till„ggskod, se ZQX.
+
+@NOTE_RS =
+N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†det som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med till„gskod, se ZQZ00.
+
+@END = 
+
+@KOODI = QDA00 
+
+@SUOMI = Alaraajan ihon pisto
+
+@RUOTSI = Punktion, nedre extremiteten
+
+@NOTE_F = esim, verenpurkauma, haavaneste jne
+
+@NOTE_S = Inkl evakuering av hematom, serom etc
+
+@END = 
+
+@KOODI = QDA10 
+
+@SUOMI = Alaraajan ihon aukaisu ja kanavointi
+
+@RUOTSI = Incision/dr„nage, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA30 
+
+@SUOMI = Alaraajan ihomuutoksen elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hudf”r„ndring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA40 
+
+@SUOMI = Alaraajan ihomuutoksen laserk„sittely tai fotokoagulaatio
+
+@RUOTSI = Laserbehandling eller fotokoagulation av hudf”r„ndring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA50 
+
+@SUOMI = Alaraajan ihomuutoksen j„„dytyshoito
+
+@RUOTSI = Kryoterapi av hudf”r„ndring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDA99 
+
+@SUOMI = Muu alaraajan ihon aukaisu tai koepalan otto
+
+@RUOTSI = Annan punktion, incision, biopsi eller destruktion vid hudf”r„ndring, nedre extremiteten
+
+@END = 
+
+@KOODI = QDB00 
+
+@SUOMI = Alaraajan ihohaavan ompelu
+
+@RUOTSI = Hudsutur, nedre extremiteten
+
+@END = 
+
+@KOODI = QDB10 
+
+@SUOMI = Alaraajan ihohaavan tarkistus ja siteenvaihto
+
+@RUOTSI = Inspektion/f”rbandsbyte vid s†r p† nedre extremiteten
+
+@NOTE_F = Palovamma kohdassa QDD
+
+@NOTE_S = Br„nnskador, se QDD
+
+@END = 
+
+@KOODI = QDB99 
+
+@SUOMI = Muu alaraajan ihon haavan ompelu tai siteenvaihto
+
+@RUOTSI = Annan s†rbehandling, nedre extremiteten
+
+@END = 
+
+@KOODI = QDC00 
+
+@SUOMI = Alaraajan ihon vierasesineen poisto
+
+@RUOTSI = Avl„gsnande av kutan/subkutan fr„mmande kropp, nedre extremiteten
+
+@END = 
+
+@KOODI = QDD00 
+
+@SUOMI = Alaraajan palovamman siteiden vaihto
+
+@RUOTSI = Oml„ggning vid br„nnskada, nedre extremiteten
+
+@END = 
+
+@KOODI = QDH00 
+
+@SUOMI = Varpaan kynnen poisto
+
+@RUOTSI = Extraktion av t†nagel
+
+@END = 
+
+@KOODI_R = QW
+
+@SUOMI_R = Ihon ja ihonalaiskudoksen leikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Operationer f”r komplikationer av plastikkirurgi
+
+@ENGL_R = Reoperations on skin
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lis„koodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lis„koodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med till„ggskod, se ZQX.
+
+@NOTE_RS =
+N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†det som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med till„gskod, se ZQZ00.
+
+@END = 
+
+@KOODI = TQW00 
+
+@SUOMI = Ontelosyyl„npoisto
+
+@RUOTSI = Avl„gsnande av mollusc
+
+@END = 
+
+@KOODI = TQW02 
+
+@SUOMI = Muun syyl„npoisto
+
+@RUOTSI = Avl„gsnande av wart??
+
+@END = 
+
+@KOODI = TQW10 
+
+@SUOMI = Palovammasiteen vaihto
+
+@RUOTSI = Byte av brandbandage
+
+@END = 
+
+@KOODI = TQW20 
+
+@SUOMI = Tatuointi
+
+@RUOTSI = Tatuering
+
+@END = 
+
+@KOODI = TQW30 
+
+@SUOMI = Akupunktio
+
+@RUOTSI = Akupunktion
+
+@END = 
+
+@KOODI = TQW40 
+
+@SUOMI = Ompeleen tai ompleiden poisto ihosta
+
+@RUOTSI = Avl„gsnande av stygn i hud
+
+@END = 
+
+@KOODI = TQW99 
+
+@SUOMI = Muut ihon pientoimenpiteet
+
+@RUOTSI = Annan mindre operation p† hud eller subkutan v„vnad
+
+@END = 
+
+@KOODI_R = TQ
+
+@SUOMI_R = Ihon ja ihonalaiskudoksen pientoimenpiteet
+
+@RUOTSI_R = Mindre †tg„rder p† hud och subkutan v„vnad
+
+@ENGL_R = Minor surgical procedures on skin
+
+@END = 
+
+@KOODI = TQX00 
+
+@SUOMI = Neulakudosn„ytteen otto ihosta
+
+@RUOTSI = Punktionsbiopsi av hud
+
+@END = 
+
+@KOODI = TQX10 
+
+@SUOMI = Ihon ja ihonalaiskudoksen koepalan otto
+
+@RUOTSI = Biopsi av hud
+
+@END = 
+
+@KOODI = TQX20 
+
+@SUOMI = Ihonalaisen l„„keainekapselin asettaminen
+
+@RUOTSI = Inl„ggning av subkutant l„kemedelsimplantat
+
+@END = 
+
+@KOODI = TQX22 
+
+@SUOMI = Ihonalaisen l„„keainekapselin poisto
+
+@RUOTSI = Uttagning av subkutant l„kemedelsimplantat
+
+@END = 
+
+@LUVUT = LUKU R
+
+@LUVUT_S = KAPITEL R
+
+@SUOMI_L = Kuntoutuspalvelut
+
+@RUOTSI_L = Rehabilitations service
+
+@END_L = 
+
+@KOODI_R = R1
+
+@SUOMI_R = Kuntoutustarpeen ja -mahdollisuuksien arviointi
+
+@RUOTSI_R = Uppskattning av rehabilitationsbehov och -potential
+
+@END = 
+
+@KOODI_A = R11
+
+@SUOMI_A = Kuntoutuksen yleisarvio
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R1100 
+
+@SUOMI = Yleisarvio kuntoutustarpeesta
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutusty”t„ tekev„n orientoiva kartoitus ja yleisarvio kuntoutustarpeesta kuntoutuksen vireillepanoksi, kuntoutuksen k„ynnist„miseksi, alustavan kuntoutussuunnitelman laatimiseksi tai tilanteen tarkistamiseksi.
+
+@NOTE_F =
+Sis„lt„„ alustavan kuntoutusta koskevan lausunnon.
+
+@NOTE_F =
+Ei sis„ll„  (laajempaa) kuntoutussuunnitelmaa (R1400), jossa tehd„„n kokonaisvaltainen pitk„nt„ht„imen kuntoutussuunnitelma.
+
+@END = 
+
+@KOODI_A = R12
+
+@SUOMI_A = Kuntoutustutkimus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutustutkimus on laaja eri alojen asiantuntijoiden suorittamaan tutkimukseen perustuva arviointi tutkittavan toimintakyvyst„, voimavaroista sek„ kuntoutusedellytyksist„. Kuntoutustutkimukseen kuuluu tutkittavan tarpeiden mukaisesti eri
+asiantuntijoiden suorittamia arvioita (R1210 - 1280). Kuntoutustutkimuksen tuloksena laaditaan yksil”llinen ja perusteltu kuntoutussuunnitelma (R1400).
+
+@END = 
+
+@KOODI = R1210 
+
+@SUOMI = L„„ketieteellinen arvio
+
+@RUOTSI = 
+
+@NOTE_F = L„„ketieteelliseen tutkimukseen perustuva arvio, jossa selvitet„„n, miten sairaus tai vamma vaikuttaa ja tulee todenn„k”isesti vaikuttamaan tutkittavan toiminta-, oppimis- ja ty”kykyyn sek„ kuntoutumismahdollisuuksiin.
+
+@END = 
+
+@KOODI = R1220 
+
+@SUOMI = Psykologinen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Psykologiseen tutkimukseen perustuva arvio, jossa selvitet„„n tutkittavan psyykkiset rajoitukset, edellytykset sek„ motivaatio ty”ntekoon, koulutukseen ja kuntoutukseen, sek„ arviot tarvittavista oman el„m„n hallintaa tukevista
+kuntoutustoimenpiteist„.
+
+@END = 
+
+@KOODI = R1230 
+
+@SUOMI = Neuropsykologinen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Neuropsykologiseen tutkimukseen perustuva arvio, jossa selvitet„„n aivosairauteen ja -vaurioon liittyvien henkisiss„ toiminnoissa ilmenevien yleis- ja erityish„iri”iden merkitys tutkittavan ty”- ja toimintakykyyn ja kuntoutumismahdollisuuksiin.
+
+@END = 
+
+@KOODI = R1240 
+
+@SUOMI = Sosiaalinen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Sosiaaliseen tutkimukseen perustuva arvio, jossa selvitet„„n tutkittavan sosiaalinen tausta ja nykytilanne sek„ arvioidaan kuntoutumisen edellytt„m„t sosiaaliturvaratkaisut ja muiden el„m„nhallintaa tukevien toimenpiteiden tarve.
+
+@END = 
+
+@KOODI = R1250 
+
+@SUOMI = Toimintakyvyn arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan suorittamaan tutkimukseen perustuva arvio, jossa selvitet„„n tutkittavan toimintakyvyn vahvuudet ja rajoitukset sek„ toiminnalliset valmiudet. Se voi sis„lt„„ p„ivitt„isiss„ toimissa, koulussa, ty”ss„ ja asuin- sek„
+elinymp„rist”ss„ selviytymisen arvioinnin. Tarpeen mukaan arviointi sis„lt„„ my”s fyysisen suorituskyvyn, liikkumisen, havaintomotoristen/kognitiivisten tai psykososiaalisten valmiuksien arvioinnin.
+
+@END = 
+
+@KOODI = R1260 
+
+@SUOMI = Kommunikaatiokyvyn arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan suorittamaan tutkimukseen perustuva arvio tutkittavan puhe-, n„k”-, kuulo-tai vuorovaikutustaitoihin ja sosiaaliseen kommunikointiin liittyvist„ rajoituksista, ongelmista ja edellytyksist„ sek„ niihin vaikuttavista tekij”ist„ ja
+kuntoutumismahdollisuuksista.
+
+@END = 
+
+@KOODI = R1270 
+
+@SUOMI = Kasvatuksellinen kuntoutustarpeen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan arvio tutkittavan oppimisen edellytyksist„ ja erityisopetuksen tarpeesta.
+
+@NOTE_F =
+Suoritetaan yleens„ koulun puitteissa tai opetuksen ja kasvatuksen asiantuntijoiden toimesta.
+
+@END = 
+
+@KOODI = R1280 
+
+@SUOMI = Ammatillisen kuntoutuksen tarpeen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan arvio tutkittavan mahdollisuuksista ja tarvittavista toimenpiteist„ ty”llisty„, selviyty„ nykyisess„ ty”ss„„n tai siirty„ uusiin teht„viin.
+
+@NOTE_F =
+Suoritetaan yleens„ erityisty”voimaneuvojien, kuntoutusohjaajien tai ty”klinikoiden toimesta.
+
+@END = 
+
+@KOODI_A = R13
+
+@SUOMI_A = Kokeilut
+
+@RUOTSI_A = 
+
+@NOTE_RF = K„yt„nn”n tilanteissa tai vastaavissa toimintaymp„rist”iss„ suoritetut, ajallisesti rajatut kokeilut sek„ niihin liittyv„t tutkimukset ja arvioinnit henkil”n kuntoutumismahdollisuuksista.
+
+@NOTE_RF =
+Kokeiluissa m„„r„ ilmoitetaan kokeilup„ivin„ eik„ kertoina.
+
+@END = 
+
+@KOODI = R1310 
+
+@SUOMI = P„iv„hoitokokeilut
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutusta tarvitsevan lapsen p„iv„hoidon j„rjest„miseen liittyv„ kokeilu sis„lt„en my”s henkil”st”n ja vanhempien ohjauksen.
+
+@END = 
+
+@KOODI = R1320 
+
+@SUOMI = Koulutuskokeilut
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutusta tarvitsevan henkil”n koulunk„ynnin, ammatillisen tai muun opiskelun j„rjest„miseen liittyv„ kokeilu, jossa selvitet„„n h„nen mahdollisuutensa suorittaa opintoja sek„ selviyty„ niist„. Sis„lt„„ my”s henkil”st”n ja vanhempien ohjauksen.
+
+@END = 
+
+@KOODI = R1330 
+
+@SUOMI = Ty”kokeilu ty”klinikalla
+
+@RUOTSI = 
+
+@NOTE_F = Kokeilu, jossa selvitet„„n kuntoutujan edellytyksi„ ja mahdollisuuksia suoriutua ty”el„m„ss„.Ty”kokeilussa kokeillaan ty”teht„vist„ suoritutumista joko ty”klinikalla tai ty”klinikan ohjauksessa normaalissa ty”paikassa.
+
+@END = 
+
+@KOODI = R1340 
+
+@SUOMI = Ty”kokeilu ty”paikalla
+
+@RUOTSI = 
+
+@NOTE_F = Kokeilu, jossa selvitet„„n kuntoutujan mahdollisuudet suoriutua ty”teht„vist„ ja sopeutua ty”ymp„rist””n ja sen asettamiin ehtoihin normaaleissa ty”olosuhteissa.
+
+@NOTE_F =
+Toteutetaan yleens„ yhteisty”ss„ ty”voimatoimiston kanssa.
+
+@END = 
+
+@KOODI = R1350 
+
+@SUOMI = Asumiskokeilu
+
+@RUOTSI = 
+
+@NOTE_F = Kokeilu, jossa selvitet„„n kuntoutujan edellytykset itsen„iseen asumiseen ja siihen tarvittavat tukitoimenpiteet. Kokeilu voidaan toteuttaa sairaalan tai kuntoutuslaitoksen yhteydess„ olevissa asumiskokeiluun varatuissa tiloissa,
+palvelutaloissa, ryhm„kodissa tai itsen„isess„ asumisessa.
+
+@END = 
+
+@KOODI_A = R14
+
+@SUOMI_A = Kuntoutussuunnitelma
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R1400 
+
+@SUOMI = Kuntoutussuunnitelman laatiminen
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutussuunnitelma perustuu yleens„ moniammatilliseen arvioon kuntoutustarpeesta ja - mahdollisuuksista, kuntoutuksen tavoitteista, tarvittavista kuntoutustoimenpiteist„ sek„ kuntoutuksen j„rjest„misest„ ja seurannasta. Kuntoutussuunnitelma on 
+samalla kuntoutujan kanssa tehty sopimus kuntoutuksen tavoitteista ja menetelmist„.
+
+@NOTE_F =
+Kuntoutussuunnitelma on ainoa luokka, jota voidaan k„ytt„„ yksitt„isen k„ynnin yhteydess„ muiden luokkien rinnalla.
+
+@END = 
+
+@KOODI_R = R2
+
+@SUOMI_R = Kuntoutumista tukeva ohjaus
+
+@RUOTSI_R = Ledvisning f”r att st”dja rehabilitation
+
+@END = 
+
+@KOODI_A = R21
+
+@SUOMI_A = Neuvonta ja kuntoutusohjaus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutujan, h„nen perheens„ ja l„hiyhteis”ns„ tukemista, jonka tavoitteena on neuvonnan ja ohjauksen keinoin turvata kuntoutusprosessin tarkoituksenmukainen eteneminen ja lis„t„ vajaakuntoisen henkil”n toimintamahdollisuuksia ja mahdollisimman 
+itsen„ist„ el„m„n hallintaa.
+
+@END = 
+
+@KOODI = R2110 
+
+@SUOMI = Ensi tiedon antaminen
+
+@RUOTSI = 
+
+@NOTE_F = Alkuvaiheen neuvonta ja ohjausta, jossa vasta vammautuneelle tai pitk„aikaiseen sairauteen sairastuneelle sek„ h„nen perheelleen ja l„hiyhteis”lleen annetaan tietoa ja tukea. Tavoitteena on luoda edellytyksi„ kuntoutumiselle sek„ rohkaista
+omaisia sairastuneen tukemiseen.
+
+@END = 
+
+@KOODI = R2120 
+
+@SUOMI = Kuntoutuspalveluita ja sosiaaliturvaa koskeva neuvonta ja ohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Vammautuneelle tai pitk„aikaissairaalle annetaan tietoa kuntoutumismahdollisuuksista sek„ kuntoutuspalveluista ja niihin hakeutumisesta. Neuvonta voi koskea my”s sosiaaliturvaa ja muuta taloudellista tukea.
+
+@NOTE_F =
+Sis„lt„„ my”s mahdollisen konkreettisen ohjauksen palvelujen piiriin osallistumalla toimintaan tai avustamiseen esim. lomakkeiden t„ytt„misess„ tai viranomaisten kanssa asioimisessa.
+
+@END = 
+
+@KOODI = R2130 
+
+@SUOMI = Itsen„ist„ selvitytymist„ edist„v„ neuvonta ja ohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Elinymp„rist”ss„ selviytymiseen, itsens„ huolehtimiseen, ravintoon, liikkumiseen ja elinta- poihin liittyv„ neuvonta. Voi sis„lt„„ my”s asumiseen, asioimiseen, palvelujen k„ytt””n, apuv„lineen k„ytt””n, kommunikaatiotaitojen hallintaan sek„
+muihin el„m„nhallintaa edist„viin tekij”ihin ja omien voimavarojen hy”dynt„miseen liittyv„n neuvonnan ja ohjauksen.
+
+@NOTE_F =
+Sis„lt„„ my”s p„iv„kotien, koulujen, oppilaitosten ja ty”paikkojen henkil”st”n neuvonnan ja ohjauksen silloin kun se koskee yht„ kuntoutujaa.
+
+@END = 
+
+@KOODI_A = R22
+
+@SUOMI_A = Kasvatukselliseen kuntoukseen ohjaus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R2200 
+
+@SUOMI = Kasvatukselliseen kuntoutukseen ohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Vammaisen tai pitk„aikaissairaan oppimisen edellytysten vahvistamista ja erilaisten koulutukseen liittyvien vaihtoehtojen selvitt„mist„ ja ohjausta koulutusvaihtoehtojen valintaan.
+
+@END = 
+
+@KOODI_A = R23
+
+@SUOMI_A = Ammattiin ja ty”el„m„„n ohjaus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R2310 
+
+@SUOMI = Ammatinvalinnanohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan auttamista selvitt„m„„n eri ty”aloja koskevaa soveltuvuuttaan ja henkil”kohtaisia edellytyksi„„n.
+
+@END = 
+
+@KOODI = R2320 
+
+@SUOMI = Ty”voimaneuvonta
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan ty”ss„ selviytymist„, elinkeinon harjoittamista sek„ ty”llistymist„ koskeva neuvonta.
+
+@END = 
+
+@KOODI_R = R3
+
+@SUOMI_R = Kuntoutumista tukeva valmennus
+
+@RUOTSI_R = Rehabilitation st”djande tr„ning
+
+@END = 
+
+@KOODI_A = R31
+
+@SUOMI_A = Sopeutumisvalmennus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutujan, h„nen perheens„ ja l„hiyhteis”ns„ valmentamista selvi„m„„n sairastumisen ja vammautumisen aiheuttamassa el„m„ntilanteessa. Tavoitteena on fyysisen, psyykkisen ja sosiaalisen toimintakyvyn edist„minen. Sopeutumisvalmennukseen kuuluu 
+psykososiaalisen valmennuksen lis„ksi my”s muuta valmennusta (R3120 - 3160) kuntoutujan tarpeiden mukaisesti.
+
+@END = 
+
+@KOODI = R3110 
+
+@SUOMI = Psykososiaalinen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan henkisten ja sosiaalisten edellytysten vahvistamista, jotta h„n pystyisi el„m„„n vammansa kanssa mahdollisimman t„ysipainoista el„m„„.
+
+@NOTE_F =
+Sis„lt„„ tarpeen mukaan my”s kuntoutujan valmentamisen toimimaan vuorovaikutuksessa perhe-, ty”- ja muissa arkiel„m„n yhteis”iss„ sek„ ohjauksen vammaan ja haittaan liittyviss„ seksuaaliongelmissa.
+
+@END = 
+
+@KOODI = R3120 
+
+@SUOMI = Liikkumistaitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan opettamista ja valmentamista liikkumaan py”r„tuolilla tai muun erityist„ harjoittelua vaativan liikkumisv„lineen (esimerkiksi auto) avulla.
+
+@NOTE_F =
+Sis„lt„„ my”s esimerkiksi alaraajaproteesin k„ytt””n valmentamisen, halvauspotilaan liikkumisen harjoittamisen sek„ n„k”vammaisen liikkumistaidon ohjauksen.
+
+@END = 
+
+@KOODI = R3130 
+
+@SUOMI = P„ivitt„isiss„ toimissa tarvittavien taitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan valmentamista arkip„iv„n el„m„ss„ tarvittavien taitojen, kuten pukeutumisen, peseytymisen, sy”misen ja kodinhoidon hallintaan joko apuv„linein tai ilman.
+
+@NOTE_F =
+Sis„lt„„ my”s esimerkiksi yl„raajaproteesin k„ytt””n valmentamisen ja kehityksess„ viiv„styneiden lasten motoriikan harjoittamista.
+
+@END = 
+
+@KOODI = R3140 
+
+@SUOMI = Kommunikaatiotaitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan tarvitsemien kommunikaatiotaitojen, kuten puheen, huulioluvun, pistekirjoituksen ja viittomakielen opetuksen ja harjoittelun sek„ korvaavien kommunikaatiotaitojen (esimerkiksi symbolikielet, atk-apuv„lineet) valmennuksen.
+
+@NOTE_F =
+Sis„lt„„ my”s n„k”vammaisten n„”nk„yt”n opetuksen ja laajasti vuorovaikutustaitojen ohjauksen.
+
+@END = 
+
+@KOODI = R3150 
+
+@SUOMI = Elinymp„rist”n hallintaan valmentaminen
+
+@RUOTSI = 
+
+@NOTE_F = Elinymp„rist”n hallintaan ja siin„ tarvittavien laitteiden k„ytt””n liittyv„ valmennus.
+
+@END = 
+
+@KOODI = R3160 
+
+@SUOMI = Koulutus- ja oppimistaitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Koulunk„yntiin ja opiskeluun liittyvien taitojen valmennusta ja ohjausta.
+
+@NOTE_F =
+Sis„lt„„ mm. atk-v„lineiden k„yt”n harjoitusta opiskelun apuv„lineeksi.
+
+@END = 
+
+@KOODI_A = R32
+
+@SUOMI_A = Yhteis”valmennus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R3200 
+
+@SUOMI = Yhteis”valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Hoito- tai asuinyhteis”ss„ tapahtuvaa, esimerkiksi mielenterveys- ja p„ihdehuollon potilaiden sek„ kehitysvammaisten kokonaisvaltaista valmentamista.
+
+@NOTE_F =
+Sis„lt„„ my”s perheen ja l„hiyhteis”n ohjauksen. Yhteis”valmennus perustuu kuntoutussuunnitelmaan.
+
+@NOTE_F =
+T„ss„ luokassa m„„r„ ilmoitetaan valmennusp„ivien lukum„„r„„n„ eik„ kertoina.
+
+@END = 
+
+@KOODI_A = R33
+
+@SUOMI_A = Asumisvalmennus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R3300 
+
+@SUOMI = Asumisvalmennus
+
+@RUOTSI = 
+
+@NOTE_F = Yksil”llisesti tai ryhm„ss„ tapahtuvaa valmennusta itsen„iseen asumiseen. Valmennus koskee selviytymist„ kotona, kun yhteis”valmennus (R3200) koskee laajemmin selviytymist„ my”s sosiaalisen ymp„rist”n kanssa.
+
+@NOTE_F =
+T„ss„ luokassa m„„r„ ilmoitetaan valmennusp„ivien lukum„„r„„n„ eik„ kertoina.
+
+@END = 
+
+@KOODI_A = R34
+
+@SUOMI_A = Kuntoutumista tukeva koulutus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutuksena tuettava koulutus voi olla joko ammatillista peruskoulutusta tai jatkokoulutusta.
+
+@END = 
+
+@KOODI = R3410 
+
+@SUOMI = Erityisopetus peruskoulussa, lukiossa tai kansanopistossa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3420 
+
+@SUOMI = Koulutus yleisiss„ ammatillisissa oppilaitoksissa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3430 
+
+@SUOMI = Koulutus ammattikorkea- ja korkeakouluissa sek„ yliopistoissa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3440 
+
+@SUOMI = Koulutus aikuiskoulutuskeskuksissa tai ammattikursseilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3450 
+
+@SUOMI = Koulutus ammatillisissa erityisoppilaitoksissa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3460 
+
+@SUOMI = Oppisopimuskoulutus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3470 
+
+@SUOMI = Muu koulutus
+
+@RUOTSI = 
+
+@NOTE_F = Sis„lt„„ my”s yksityiset oppilaitokset
+
+@END = 
+
+@KOODI_A = R35
+
+@SUOMI_A = Ammatillista kuntoutumista tukeva valmennus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutujan valmentamista ja h„nen fyysisten, psyykkisten ja sosiaalisten edellytystens„ vahvistamista nykyisiss„ tai uusissa ty”teht„viss„ selviytymiseen.
+
+@END = 
+
+@KOODI = R3510 
+
+@SUOMI = Ty”h”n valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Ty”ss„ tarvittavien valmiuksien hankkimista ty”paikalla toteutettavan yksil”llisen ohjelman puitteissa.
+
+@END = 
+
+@KOODI = R3520 
+
+@SUOMI = Ty”kyky„ yll„pit„v„ ja parantava valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Toimintaa, jonka avulla ty”nantaja ja ty”ntekij„ sek„ ty”paikan yhteistoimintaorganisaatiot yhteisty”ss„ pyrkiv„t edist„m„„n ja tukemaan ty”el„m„ss„ olevan ty”- ja toimintakyky„ h„nen ty”uransa kaikissa vaiheissa.
+
+@END = 
+
+@KOODI = R3530 
+
+@SUOMI = Ammatillisesti syvent„v„ l„„kinn„llinen kuntoutus
+
+@RUOTSI = 
+
+@NOTE_F = Toimintaa, jonka avulla tuetaan ammattiryhm„kohtaisesti vajaakuntoisen ty”ntekij„n fyysisi„ ja henkisi„ voimavaroja ty”ss„ selviytymiseksi.
+
+@END = 
+
+@KOODI = R3540 
+
+@SUOMI = Kuntouttava ty”toiminta
+
+@RUOTSI = 
+
+@NOTE_F = Ty”keskuksissa ja vastaavissa toteutettavaa ty”toimintaa, jonka tavoitteena on sosiaalisen toimintakyvyn yll„pit„minen ja el„m„nsis„ll”n hankkiminen ilman ansiotulon hankkimistarkoitusta.
+
+@END = 
+
+@KOODI_A = R36
+
+@SUOMI_A = Harrastus- ja vapaa-aikatoiminnan tukeminen
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R3600 
+
+@SUOMI = Kuntoutussuunnitelmaan sis„ltyv„„ ohjattua harrastus- ja vapaa-ajan toimintaa, jonka tavoitteena on
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = R4
+
+@SUOMI_R = Kuntoutumista edist„v„t terapiat
+
+@RUOTSI_R = Rehabilitation fr„mjande terapier
+
+@END = 
+
+@KOODI_A = R41
+
+@SUOMI_A = Terapiat
+
+@RUOTSI_A = 
+
+@NOTE_RF = Terapioiden tulee perustua kuntoutussuunnitelmaan ja vastata sis„ll”lt„„n kyseisen ammatil- lisen koulutuksen saaneen henkil”n toteuttamaa terapiaa.
+
+@END = 
+
+@KOODI = R4110 
+
+@SUOMI = Fysioterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan liikkumis- ja toimintakyvyn edist„mist„ sek„ yll„pit„mist„.
+
+@NOTE_F =
+Fysioterapian tarkempi sis„lt” on kuvattu Fysioterapianimikkeist”ss„.
+
+@END = 
+
+@KOODI = R4120 
+
+@SUOMI = Toimintaterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan toimintakyvyn edist„mist„ ja yll„pit„mist„.
+
+@NOTE_F =
+Toimintaterapian tarkempi sis„lt” on kuvattu Toimintaterapianimikkeist”ss„.
+
+@END = 
+
+@KOODI = R4130 
+
+@SUOMI = Puheterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan puhe-, „„ni- ja kommunikaatio-ongelmien parantamista tai helpottamista.
+
+@NOTE_F =
+Puheterapiassa pyrit„„n vaikuttamaan niihin perusvalmiuksiin, jotka ovat puheen ymm„rt„misen ja tuottamisen edellytyksi„.
+
+@END = 
+
+@KOODI = R4140 
+
+@SUOMI = Psykoterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan psyykkisen toimintakyvyn vahvistamista ja lis„„mist„. Kuntoutus kohdistuu ihmisen ajatteluun, tunteisiin ja toimintaan sek„ n„iden v„lisiin yhteyksiin.
+
+@END = 
+
+@KOODI = R4150 
+
+@SUOMI = Neuropsykologinen kuntoutus
+
+@RUOTSI = 
+
+@NOTE_F = Aivosairauksien ja -vaurioiden j„lkeisten henkisiss„ toiminnoissa ilmenevien yleis- ja erityish„iri”iden lievent„mist„, henkisen toimintakykyisyyden parantamista sek„ sairauteen tai vammaan sopeutumisen edist„mist„.
+
+@END = 
+
+@KOODI = R4160 
+
+@SUOMI = Muut kuntoutumista edist„v„t terapiat
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutumisen toteuttamisessa voidaan k„ytt„„ my”s muita kuin l„„kinn„llisen kuntoutuksen asetuksessa mainittuja terapiamuotoja, jotka edist„v„t kuntoutujan toimintakyky„ ja lis„„v„t h„nen el„m„nlaatuaan sek„ -hallintaansa. T„llaisia
+terapiamuotoja ovat asiantuntijan ohjauksessa toteutettuina mm. kuvataideterapia, musiikkiterapia sek„ ratsastusterapia. N„iden terapiamuotojen k„ytt” kuntoutuksessa edellytt„„, ett„ ne on sis„llytetty kuntoutussuunnitelmaan ja niiden tuloksia seurataan
+ja arvioidaan.
+
+@END = 
+
+@KOODI = R4170 
+
+@SUOMI = Kasvatuksellisen kuntoutuksen terapiamuodot
+
+@RUOTSI = 
+
+@NOTE_F = Yksil”n kasvun, kehittymisen ja oppimisen tueksi annettavaa terapiaa.
+
+@END = 
+
+@KOODI_R = R5
+
+@SUOMI_R = Muut kuntoutuspalvelut
+
+@RUOTSI_R = Annan rehabilitations service
+
+@END = 
+
+@KOODI_A = R51
+
+@SUOMI_A = Apuv„linepalvelut
+
+@RUOTSI_A = 
+
+@NOTE_RF = Apuv„lineill„ tarkoitetaan toimintavajavuuden korvaamiseen tai lievent„miseen tarkoitettu ja v„lineit„, laitteita tai vastaavia, joita vajaakuntoinen tai vammainen tarvitsee selviyty„k- seen p„ivitt„isess„ el„m„ss„„n. Apuv„lineisiin luetaan
+my”s kuntoutuksessa tarvittavat hoito- ja harjoitusv„lineet, vammaisen auttamisessa tarvittavat v„lineet sek„ vammaispal- velulain mukaiset v„lineet.
+
+@END = 
+
+@KOODI = R5110 
+
+@SUOMI = Apuv„linetarpeen arviointi, apuv„lineen sovitus, kokeilu ja valinta sek„ k„yt”n opetus ja luovutus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5120 
+
+@SUOMI = Apuv„lineen valmistus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5130 
+
+@SUOMI = Apuv„lineen korjaus ja huolto
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5140 
+
+@SUOMI =  Apuv„lineen k„yt”n seuranta
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = R52
+
+@SUOMI_A = Asumiseen ja elinymp„rist”n hallintaan liittyv„t muutosty”t
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R5210 
+
+@SUOMI = Arvio elinymp„rist”ss„ tarvittavista muutost”ist„
+
+@RUOTSI = 
+
+@NOTE_F = Arvio ja suositus asuin- ja elinymp„rist”ss„ tarvittavista muutost”ist„.
+
+@END = 
+
+@KOODI = R5220 
+
+@SUOMI = Elinymp„rist”n muutosty”t
+
+@RUOTSI = 
+
+@NOTE_F = Asunnon- ja asuinymp„rist”n muutosty”t sek„ ty”paikan muutosty”t.
+
+@END = 
+
+@KOODI = R5230 
+
+@SUOMI = Ymp„rist”n hallintaa tukevat muut muutosty”t
+
+@RUOTSI = 
+
+@NOTE_F = Ymp„rist”nhallintalaitteiden sek„ liikkumisv„lineiden (esimerkiksi auto) k„ytt””n sek„ hankintaan liittyv„t muutosty”t.
+
+@END = 
+
+@KOODI_A = R53
+
+@SUOMI_A = Ty”llistymisen tukeminen
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R5310 
+
+@SUOMI = Ty”h”nsijoitus ilman taloudellisia tukitoimia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan ty”llistyminen ty”nv„lityspalvelun avulla ilman taloudellisia tukitoimia.
+
+@END = 
+
+@KOODI = R5320 
+
+@SUOMI = Ty”h”nsijoitus taloudellisten tukitoimien avulla
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan ty”h”nsijoitus ty”nantajalle maksettavan ty”olosuhteiden j„rjestelytuen perusteella. Ty”h”nsijoitus voi tapahtua ty”kokeilun, ty”harjoittelun tai laajemman palvelukokonaisuuden tuella.
+
+@END = 
+
+@KOODI = R5330 
+
+@SUOMI = Oman elinkeinon harjoittamisen tukeminen
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5340 
+
+@SUOMI = Ty”el„m„ss„ pysymisen tukitoimet
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5350 
+
+@SUOMI = Suojaty”
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = R54
+
+@SUOMI_A = Henkil”kohtaiset palvelut ja tukitoimet
+
+@RUOTSI_A = 
+
+@NOTE_RF = Henkil”kohtaiset palvelut ja tukitoimet ovat jatkuvaluonteisia palveluita, joita my”nnet„„n vammaiselle henkil”lle selviytymisen edist„miseksi ja tukemiseksi.
+
+@END = 
+
+@KOODI = R5410 
+
+@SUOMI = Kuljetus- ja saattajapalvelut
+
+@RUOTSI = 
+
+@NOTE_F = Vammaisen henkil”n liikkumisessa tarvittavia, jatkuvaluonteisia kuljetus- ja saattajapalveluja, jotka j„rjestet„„n vammaispalvelulain mukaisena toimintana.
+
+@END = 
+
+@KOODI = R5420 
+
+@SUOMI = Opaskoirapalvelut
+
+@RUOTSI = 
+
+@NOTE_F = L„„kinn„llisen„ kuntoutuksena tai vastaavin j„rjestelyin toteutetut opas- ja avustajakoirapalvelut sek„ niihin liittyv„ taloudellinen tuki.
+
+@END = 
+
+@KOODI = R5430 
+
+@SUOMI = Tulkkipalvelut
+
+@RUOTSI = 
+
+@NOTE_F = Kuulovammaisten,- kuurosokeiden ja puhevammaisten tulkkipalvelut.
+
+@END = 
+
+@KOODI = R5440 
+
+@SUOMI = Koulunk„ynti- ja opiskeluavustajan palvelut
+
+@RUOTSI = 
+
+@NOTE_F = Koulunk„ynniss„ ja opiskelussa tarvittavat avustajan palvelut.
+
+@END = 
+
+@KOODI = R5450 
+
+@SUOMI = Henkil”kohtaisen avustajan palvelut
+
+@RUOTSI = 
+
+@NOTE_F = Vammaispalvelulain mukaiset, jatkuvaluonteiset palvelut.
+
+@END = 
+
+@KOODI = R5460 
+
+@SUOMI = Palveluasumiseen liittyv„t tukitoimet
+
+@RUOTSI = 
+
+@NOTE_F = Vaikeavammaisen palveluasuminen omassa kodissa, palveluasuntoryhm„ss„ tai vaikeavammaisten palvelutalossa asumiseen liittyvine tukitoimineen, joiden kustannuksista kunta vastaa t„ysim„„r„isesti vammaispalvelulain mukaisena toimintana.
+
+@END = 
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinj„rjestelmiin vaikuttavat toimenpiteet
+
+@RUOTSI_L = Systemiska †tg„rder
+
+@ENGL_L = Procedures affecting several organsystems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinj„rjestelmiin tai koko elimist””n.
+
+@NOTE_LS = tg„rder som siktar sig p† flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI_R = W0
+
+@SUOMI_R = Psykososiaaliset toimenpiteet
+
+@RUOTSI_R = Psykososiala †tg„rder
+
+@ENGL_R = Psycosocial procedures
+
+@END = 
+
+@KOODI = W0A00 
+
+@SUOMI = Sosiaalisen toimintakyvyn arviointi lausuntoineen
+
+@RUOTSI = 
+
+@NOTE_F = Esim. vanhuksen laitossijoitusta arvioitassa tai tilanteissa, joissa p„„dyt„„n C-lausunnon kirjoittamiseen
+
+@END = 
+
+@KOODI = W0A10 
+
+@SUOMI = Psykososiaalisen tilanteen laaja kartoitus
+
+@RUOTSI = 
+
+@NOTE_F = Esim. harkittaessa MT1 lausunnon antamista
+
+@END = 
+
+@KOODI = W0A12 
+
+@SUOMI = Psykiatrisen tilan suunnitellut terapiak„ynnit
+
+@RUOTSI = 
+
+@NOTE_F = Esim. perheterapia
+
+@NOTE_F =
+K„yntej„, jotka on etuk„teen sovittu potilaan kanssa koskemaan tietty„ tavotteellista hoitoa tai hoidon suunnittelua
+
+@END = 
+
+@KOODI = W0X00 
+
+@SUOMI = Arvio jatkuvan l„„kityksen tarpeesta lausuntoineen
+
+@RUOTSI = 
+
+@NOTE_F = Esim. kirjoittettaessa lausuntoa kokonaan tai osittain korvattavia l„„kkeit„
+
+@END = 
+
+@KOODI_R = WW
+
+@SUOMI_R = Muut toimenpiteet
+
+@RUOTSI_R = Andra †tg„rder
+
+@ENGL_R = Other procedures
+
+@END = 
+
+@KOODI = WW200 
+
+@SUOMI = Rokotus
+
+@RUOTSI = Vaccination
+
+@END = 
+
+@KOODI = WW300 
+
+@SUOMI = Luuydinsiirto
+
+@RUOTSI = Benm„rgstransplantation
+
+@END = 
+
+@KOODI = WW310 
+
+@SUOMI = Kantasolusiirto
+
+@RUOTSI = Transplantation av stammceller
+
+@END = 
+
+@KOODI = WW800 
+
+@SUOMI = Siirto toiseen sairaalaan, 1 saattaja
+
+@RUOTSI = Remittering till annat sjukhus, 1 f”ljeslagare
+
+@END = 
+
+@KOODI = WW802 
+
+@SUOMI = Siirto toiseen sairaalaan, 2 tai useampia saattajia
+
+@RUOTSI = Remittering till annat sjukhus, 2 eller flera f”ljeslagare
+
+@END = 
+
+@KOODI_R = WX
+
+@SUOMI_R = Anestesia, hengityksen tuki ja elvytys
+
+@RUOTSI_R = Anestesi †tg„rder
+
+@ENGL_R = Methods of anesthesy
+
+@NOTE_RF = Ei sis„ll„ „„reishermojen salpausta (TAC00)
+
+@NOTE_RS = Exkluderar blockad av perifer nerv (TAC00)
+
+@END = 
+
+@KOODI_A = WX0
+
+@SUOMI_A = Ei anestesiaa
+
+@RUOTSI_A = Ingen anesesi
+
+@ENGL_A = Without anesthesy
+
+@END = 
+
+@KOODI = WX000 
+
+@SUOMI = Ilman anestesiaa
+
+@RUOTSI = Utan anestesi
+
+@END = 
+
+@KOODI = WX002 
+
+@SUOMI = Pelkk„ sedaatio tai kivunlievitys ilman anestesiaa
+
+@RUOTSI = Sedering eller analgesi utan annan anestesi
+
+@END = 
+
+@KOODI_A = WX1
+
+@SUOMI_A = Paikallispuudutus
+
+@RUOTSI_A = Lokal bed”vning
+
+@ENGL_A = Local anesthesy
+
+@END = 
+
+@KOODI = WX110 
+
+@SUOMI = Paikallispuudutus
+
+@RUOTSI = Infiltrationsanestesi
+
+@NOTE_F = Infiltraatioanestesia iholle tai limakalvolle
+
+@END = 
+
+@KOODI = WX120 
+
+@SUOMI = Yl„raajan laskimonsis„inen paikallispuudutus
+
+@RUOTSI = Intraven”s regionalanestesi ”vre extremitet
+
+@END = 
+
+@KOODI = WX124 
+
+@SUOMI = Alaraajan laskimonsis„inen paikallispuudutus
+
+@RUOTSI = Intraven”s regionalanestesi nedre extremitet
+
+@END = 
+
+@KOODI_A = WX2
+
+@SUOMI_A = Johtopuudutus
+
+@RUOTSI_A = Plexusblockad
+
+@ENGL_A = Plexus aneshtesy
+
+@END = 
+
+@KOODI = WX200 
+
+@SUOMI = Interskalen„„rinen johtopuudutus
+
+@RUOTSI = Interskalen„r plexusblockad
+
+@END = 
+
+@KOODI = WX202 
+
+@SUOMI = Supraklavikulaarinen johtopuudutus
+
+@RUOTSI = Subraklaviikul„r plexusblockad
+
+@END = 
+
+@KOODI = WX204 
+
+@SUOMI = Axillaarinen johtopuudutus
+
+@RUOTSI = Axill„r plexusblockad
+
+@END = 
+
+@KOODI = WX210 
+
+@SUOMI = Iskiashermon johtopuudutus
+
+@RUOTSI = Ishiadikusblockad
+
+@END = 
+
+@KOODI = WX212 
+
+@SUOMI = Femoraalinen johtopuudutus
+
+@RUOTSI = Femoralisblockad
+
+@END = 
+
+@KOODI = WX214 
+
+@SUOMI = Nilkan johtopuudutus
+
+@RUOTSI = Ankelblockad
+
+@END = 
+
+@KOODI = WX220 
+
+@SUOMI = Ilioinguinaalinen johtopuudutus
+
+@RUOTSI = Ilioinguinalisblockad
+
+@END = 
+
+@KOODI = WX230 
+
+@SUOMI = Pudendushermon johtopuudutus
+
+@RUOTSI = Pudendusblockad
+
+@END = 
+
+@KOODI = WX234 
+
+@SUOMI = Kohdunkaulanvieruskudosten puudutus
+
+@RUOTSI = Paracervikalblockad
+
+@END = 
+
+@KOODI = WX240 
+
+@SUOMI = Peniksen johtopuudutus
+
+@RUOTSI = Penisblockad
+
+@END = 
+
+@KOODI_A = WX3
+
+@SUOMI_A = Epiduraali- ja spinaalianestesia
+
+@RUOTSI_A = Epidural- och spinalanesesi
+
+@ENGL_A = Epidrural and spinal anesthesy
+
+@END = 
+
+@KOODI = WX300 
+
+@SUOMI = Epiduraalianestesia kaularangan tasolla
+
+@RUOTSI = Cervical epiduralanestesi
+
+@END = 
+
+@KOODI = WX302 
+
+@SUOMI = Epiduraalianestesia rintarangan tasolla
+
+@RUOTSI = Thorakal epiduralanestesi
+
+@END = 
+
+@KOODI = WX306 
+
+@SUOMI = Epiduraalianestesia lannerangan tasolla
+
+@RUOTSI = Lumbal epiduralanestesi
+
+@END = 
+
+@KOODI = WX308 
+
+@SUOMI = Sakraalianestesia
+
+@RUOTSI = Sakralanesesi
+
+@END = 
+
+@KOODI = WX320 
+
+@SUOMI = Spinaalianestesia
+
+@RUOTSI = Spinalanestesi
+
+@END = 
+
+@KOODI_A = WX6
+
+@SUOMI_A = Katetrin k„ytt” puudutuksessa
+
+@RUOTSI_A = Anv„ndning av kateter i plexusblockad och epidural- och spinalanestesier
+
+@ENGL_A = Use catheter in plexus, epidural and spinal anesthesy
+
+@END = 
+
+@KOODI = WX600 
+
+@SUOMI = Kertapuudutus katetrilla
+
+@RUOTSI = Anestesi genom kateter, en injetkion
+
+@END = 
+
+@KOODI = WX602 
+
+@SUOMI = Uusittu puudutus katetrilla
+
+@RUOTSI = Anestesi genom kateter, flera injektioner
+
+@NOTE_F = Sis„lt„„ katetrin j„tt„misen seuraavaa annosta odottamaan
+
+@NOTE_S = Inkl kvarl„mnandet av katetern f”r eventuel n„sta dos
+
+@END = 
+
+@KOODI_A = WX7
+
+@SUOMI_A = Hengityksen tukeminen
+
+@RUOTSI_A = St”dning av andning
+
+@ENGL_A = Ventilation support
+
+@END = 
+
+@KOODI = WX702 
+
+@SUOMI = Laryngeaalimaski tai nasaaliputket
+
+@RUOTSI = Laryngealmask eller nasaltuber
+
+@END = 
+
+@KOODI = WX704 
+
+@SUOMI = Intubaatio
+
+@RUOTSI = Intubation
+
+@END = 
+
+@KOODI = WX720 
+
+@SUOMI = Oma hengitys
+
+@RUOTSI = Spontan andning
+
+@END = 
+
+@KOODI = WX722 
+
+@SUOMI = Ylipainehengitys
+
+@RUOTSI = Behandling med ”vertryck
+
+@NOTE_F = Erillisisen„ toimenpiteen„ esim. y”llinen CPAP hoito WX722+WX702
+
+@END = 
+
+@KOODI = WX730 
+
+@SUOMI = Hengityskonehoito
+
+@RUOTSI = Respiratorbehandling
+
+@END = 
+
+@KOODI = WX732 
+
+@SUOMI = Korkeataajuinen hengityskonehoito
+
+@RUOTSI = H”frekvens respiratorbehandling
+
+@END = 
+
+@KOODI_A = WX9
+
+@SUOMI_A = Resuskitaatio
+
+@RUOTSI_A = Resuskitation
+
+@ENGL_A = Resuscitation
+
+@END = 
+
+@KOODI = WX900 
+
+@SUOMI = Elvytys
+
+@RUOTSI = Resuskitering
+
+@END = 
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ f”r transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@END_L = 
+
+@KOODI_A = YNB
+
+@SUOMI_A = Luuytimen tai kantasolujen keruu siirtoa varten
+
+@RUOTSI_A = Uttagningar av benm„rg f”r transplantation
+
+@ENGL_A = Excision of bone marrow for transplantation
+
+@END = 
+
+@KOODI = YNB00 
+
+@SUOMI = Luuytimen keruu siirtoa varten
+
+@RUOTSI = Uttagning av benm„rg f”r transplantation
+
+@END = 
+
+@KOODI = YNB10 
+
+@SUOMI = Kantasolujen keruu siirtoa varten
+
+@RUOTSI = Insamling av stammceller f”r transplantation
+
+@END = 
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = Lis„koodit
+
+@RUOTSI_L = Till„ggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = Lis„koodeja voi k„ytt„„ ainoastaan muun toimenpidekoodin lis„n„ ilmaisemassa  tarkentavaa lis„tietoa
+
+@NOTE_LS = Till„ggskoder anv„nds „ndast tillsammans med egentliga koder
+
+@END_L = 
+
+@KOODI_R = ZQ
+
+@SUOMI_R = Lis„koodit ihon toimenpiteille
+
+@RUOTSI_R = Till„ggskoder f”r †tg„rder p† hud
+
+@ENGL_R = Addtional codes for skin procedures
+
+@END = 
+
+@KOODI_A = ZQX
+
+@SUOMI_A = Hoidetun ihoalueen laajuus
+
+@RUOTSI_A = Storlek av behandlad hudareal
+
+@ENGL_A = Areal of skin therapy
+
+@END = 
+
+@KOODI = ZQX00 
+
+@SUOMI = 0-4% ihon pinta-alasta
+
+@RUOTSI = 0-4% av hudarealen
+
+@END = 
+
+@KOODI = ZQX02 
+
+@SUOMI = 5-9% ihon pinta-alasta
+
+@RUOTSI = 5-9% av hudarealen
+
+@END = 
+
+@KOODI = ZQX04 
+
+@SUOMI = 10-19% ihon pinta-alasta
+
+@RUOTSI = 10-19% av hudarealen
+
+@END = 
+
+@KOODI = ZQX06 
+
+@SUOMI = 20-49% ihon pinta-alasta
+
+@RUOTSI = 20-49% av hudarealen
+
+@END = 
+
+@KOODI = ZQX08 
+
+@SUOMI = V„hint„„n 50% ihon pinta-alasta
+
+@RUOTSI = 50% eller mera av hudarealen
+
+@END = 
+
+@KOODI = ZQZ00 
+
+@SUOMI = Usean ihoalueen hoito
+
+@RUOTSI = tg„rd p† flera hudregioner
+
+@NOTE_F = Hoidettaessa useaa ihoaluetta tulee koodata toimenpide t„rkeimm„n ihoalueen mukaan. Se, ett„ sama toimenpide on suoritettu useilla alueilla voidaan ilmaista t„ll„ koodilla.
+
+@NOTE_S = N„r man behandlar samtidigt flera hudregioner, b”r man ange kod f”r det omr†d som drappats mest. Det att man har gjort samma †tg”rd p† flera regioner kan d† anges med denna till„gskod.
+
+@END = 
+
+@KOODI_R = ZX
+
+@SUOMI_R = Eriytyiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+
+@RUOTSI_R = Diverse omst„ndigheter/incidenter i samband med †tg„rden
+
+@ENGL_R = Various circumstances and events in surgery
+
+@END = 
+
+@KOODI_A = ZX1
+
+@SUOMI_A = L„„kehoidon reitti
+
+@RUOTSI_A = Rot av medication
+
+@ENGL_A = Route
+
+@END = 
+
+@KOODI = ZX100 
+
+@SUOMI = Suun kautta
+
+@RUOTSI = Peroral
+
+@END = 
+
+@KOODI = ZX110 
+
+@SUOMI = Ihonsis„inen
+
+@RUOTSI = Intracutan
+
+@END = 
+
+@KOODI = ZX112 
+
+@SUOMI = Ihon alle
+
+@RUOTSI = Subcutan
+
+@END = 
+
+@KOODI = ZX120 
+
+@SUOMI = Laskimonsis„inen
+
+@RUOTSI = Intraven”s
+
+@END = 
+
+@KOODI = ZX122 
+
+@SUOMI = Valtimonsis„inen
+
+@RUOTSI = Arteriell
+
+@END = 
+
+@KOODI = ZX124 
+
+@SUOMI = Elimen tai kohteen perfuusio
+
+@RUOTSI = Perfusion av ett organ
+
+@END = 
+
+@KOODI = ZX130 
+
+@SUOMI = Selk„ydinkanavaan
+
+@RUOTSI = Intrathekal
+
+@END = 
+
+@KOODI = ZX199 
+
+@SUOMI = Muu reitti
+
+@RUOTSI = Annan rot
+
+@END = 
+
+@KOODI_A = ZXA
+
+@SUOMI_A = Kehon puoli: oikea-vasen
+
+@RUOTSI_A = Kroppshalva (h”ger/v„nster/bilateral)
+
+@ENGL_A = Side of body
+
+@END = 
+
+@KOODI = ZXA00 
+
+@SUOMI = Oikea puoli
+
+@RUOTSI = H”ger sida
+
+@END = 
+
+@KOODI = ZXA05 
+
+@SUOMI = Vasen puoli
+
+@RUOTSI = V„nster sida
+
+@END = 
+
+@KOODI = ZXA10 
+
+@SUOMI = Molemminpuolinen
+
+@RUOTSI = Bilateral
+
+@END = 
+
+@KOODI_A = ZXB
+
+@SUOMI_A = Sijainti: lateraliteetti
+
+@RUOTSI_A = Lateral/medial lokalisation
+
+@ENGL_A = Lateral or medial
+
+@END = 
+
+@KOODI = ZXB00 
+
+@SUOMI = Sivun puoleinen, lateraalinen
+
+@RUOTSI = Lateralt
+
+@END = 
+
+@KOODI = ZXB10 
+
+@SUOMI = Keskiviivan puoleinen, mediaalinen
+
+@RUOTSI = Medialt
+
+@END = 
+
+@KOODI = ZXB20 
+
+@SUOMI = Sek„ sivun ett„ keskiviivan puoleinen
+
+@RUOTSI = Lateralt och medialt
+
+@END = 
+
+@KOODI = ZXC00 
+
+@SUOMI = Diatermia
+
+@RUOTSI = Anv„ndande av diatermi
+
+@END = 
+
+@KOODI = ZXC10 
+
+@SUOMI = Laser
+
+@RUOTSI = Anv„ndande av laser
+
+@END = 
+
+@KOODI = ZXC20 
+
+@SUOMI = Kemiallinen aine
+
+@RUOTSI = Anv„ndande av farmaka/kemikalier
+
+@END = 
+
+@KOODI = ZXC30 
+
+@SUOMI = Mikroaaltolaite
+
+@RUOTSI = Anv„ndande av mikrov†gor
+
+@END = 
+
+@KOODI = ZXC40 
+
+@SUOMI = Ultra„„nilaite
+
+@RUOTSI = Anv„ndande av ultraljud
+
+@END = 
+
+@KOODI = ZXC50 
+
+@SUOMI = J„„dytys, kryokoagulaatio
+
+@RUOTSI = Anv„ndande av kryoterapi
+
+@END = 
+
+@KOODI = ZXC60 
+
+@SUOMI = Kuumentaminen
+
+@RUOTSI = Anv„ndande av v„rme
+
+@END = 
+
+@KOODI = ZXC70 
+
+@SUOMI = Vesisuihku
+
+@RUOTSI = Anv„ndande av vattenstr†le
+
+@END = 
+
+@KOODI = ZXC80 
+
+@SUOMI = Magneetin k„ytt”
+
+@RUOTSI = Anv„ndande av magnet
+
+@END = 
+
+@KOODI = ZXD00 
+
+@SUOMI = H„t„toimenpide
+
+@RUOTSI = N”doperation
+
+@NOTE_F = V„litt”m„n hengenvaaran vuoksi suoritettu toimenpide
+
+@NOTE_S = F”r avv„rjande av omedelbar livsfara
+
+@END = 
+
+@KOODI = ZXD05 
+
+@SUOMI = Kiireellinen toimenpide
+
+@RUOTSI = Akut operation
+
+@NOTE_F = Kiireellinen toimenpide, normaalit valmistelut ehdit„„n suorittaa
+
+@NOTE_S = Tid f”r sedvanliga f”rberedelser
+
+@END = 
+
+@KOODI = ZXD10 
+
+@SUOMI = Suunniteltu toimenpide
+
+@RUOTSI = Elektiv operation
+
+@NOTE_F = Suunniteltu toimenpide tavallisimmin virka-aikana
+
+@NOTE_S = F”rlagd till normal tj„nstetid
+
+@END = 
+
+@KOODI_A = ZXE
+
+@SUOMI_A = Toimenpiteen kesto
+
+@RUOTSI_A = Tids†tg†ng f”r operationen
+
+@ENGL_A = Duration of operation
+
+@END = 
+
+@KOODI = ZXE00 
+
+@SUOMI = Toimenpiteen kesto enint„„n 1 tunti
+
+@RUOTSI = Tids†tg†ng maximalt 1 timme
+
+@END = 
+
+@KOODI = ZXE10 
+
+@SUOMI = Toimenpiteen kesto 1-3 tuntia
+
+@RUOTSI = Tids†tg†ng 1 - 3 timmar
+
+@END = 
+
+@KOODI = ZXE20 
+
+@SUOMI = Toimenpiteen kesto 3-5 tuntia
+
+@RUOTSI = Tids†tg†ng 3 - 5 timmar
+
+@END = 
+
+@KOODI = ZXE30 
+
+@SUOMI = Toimenpiteen kesto 5-7 tuntia
+
+@RUOTSI = Tids†tg†ng 5 - 7 timmar
+
+@END = 
+
+@KOODI = ZXE40 
+
+@SUOMI = Toimenpiteen kesto 7-9 tuntia
+
+@RUOTSI = Tids†tg†ng 7 - 9 timmar
+
+@END = 
+
+@KOODI = ZXE50 
+
+@SUOMI = Toimenpiteen kesto 9-12 tuntia
+
+@RUOTSI = Tids†tg†ng 9 -12  timmar
+
+@END = 
+
+@KOODI = ZXE60 
+
+@SUOMI = Toimenpiteen kesto 12-15 tuntia
+
+@RUOTSI = Tids†tg†ng 12 - 15 timmar
+
+@END = 
+
+@KOODI = ZXE70 
+
+@SUOMI = Toimenpiteen kesto 15-18 tuntia
+
+@RUOTSI = Tids†tg†ng 15 -18  timmar
+
+@END = 
+
+@KOODI = ZXE80 
+
+@SUOMI = Toimenpiteen kesto yli 18 tuntia
+
+@RUOTSI = Tids†tg†ng ”ver 18 timmar
+
+@END = 
+
+@KOODI = ZXF00 
+
+@SUOMI = Toimenpiteen keskeytt„minen potilaan tilan heikkenemisen vuoksi
+
+@RUOTSI = F”rs„mring av patientens peroperativa tillst†nd
+
+@END = 
+
+@KOODI = ZXF10 
+
+@SUOMI = Toimenpiteen keskeytt„minen v„lineiden teknisen pett„misen vuoksi
+
+@RUOTSI = Tekniska problem med utrustning
+
+@END = 
+
+@KOODI = ZXF99 
+
+@SUOMI = Muu syy keskeytt„„ toimenpide
+
+@RUOTSI = Annan orsak f”r att avbryta operation
+
+@END = 
+
+@KOODI_A = ZXG
+
+@SUOMI_A = Toimenpiteen aikaisen syd„men h„t„tilanteen hoito
+
+@RUOTSI_A = Behandling av peroperativ kardiell kris (t.ex. hj„rtstillest†nd)
+
+@ENGL_A = Treatment of intraoperative cardiac emergency
+
+@END = 
+
+@KOODI = ZXG05 
+
+@SUOMI = Suljettu syd„nhieronta toimenpiteen aikana
+
+@RUOTSI = Sluten hj„rtmassage under operation
+
+@END = 
+
+@KOODI = ZXG40 
+
+@SUOMI = Tilap„isen syd„mentahdistimen k„ytt” laskimoteitse
+
+@RUOTSI = Inl„ggande av tempor„r transven”s pacemaker
+
+@END = 
+
+@KOODI = ZXG50 
+
+@SUOMI = Tilap„isen epikardiaalisen syd„mentahdistimen k„ytt”
+
+@RUOTSI = Inl„ggande av tempor„r epikardiell pacemaker
+
+@END = 

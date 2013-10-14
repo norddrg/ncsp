@@ -1,0 +1,2700 @@
+
+###
+#KOODI_L    G
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+#RUOTSI     ---
+#ENGL       Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung  procedures
+###
+#KOODI_R    GA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på bröstvägg, pleura och diafragma
+#RUOTSI     ---
+#ENGL       Chest wall, pleura and diaphragm
+###
+#KOODI      GA001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Analpluggsutprovning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extra tillsyn (extravak)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Observation av patienten i syfte att vid behov kunna ingripa om fara för patientens eller annans liv eller hälsa uppstår
+#OHJE_R 
+---
+###
+#KOODI      GA003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inkoppling kokleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utlämnande av hörapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning av hörapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning av hörselhjälpmedel vid tinnitus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+En eller flera av följande: ljudstimulerande hjälpmedel, hörselskydd, kuddhögtalare, lågtonsmasker m. m
+#OHJE_R 
+---
+###
+#KOODI      GA007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och anpassning av annan specificerad protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och anpassning av bröstprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och anpassning av extremitetsprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och anpassning av protes UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av annan specificerad konstgjord öppning i mag-tarmkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA012 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av cystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA013 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av datorhjälpmedel för synskadade
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser för synskadade särskilt anpassade
+datortillbehör/programvaror alternativt datorstyrda hjälpmedel vid synskada
+#OHJE_R 
+---
+###
+#KOODI      GA014 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av gastrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA015 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA016 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av kolostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA017 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av ortopedtekniska hjälpmedel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GA018 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av slutet, förstorande TV-system
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser specialkamera och bildskärm för stark förstoring av främst text
+#OHJE_R 
+---
+###
+#KOODI      GA019 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av synkorrigerande hjälpmedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utprovning och underhåll av kontaktlinser, se GA020. Utprovning och underhåll av andra synkorrigerande hjälpmedel, se GA021
+#OHJE_R 
+---
+###
+#KOODI      GA020 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tillpassning och kontroll av kontaktlins
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utprovning och underhåll av standardglasögon, se GA019. Utprovning och underhåll av andra synkorrigerande hjälpmedel, se GA021
+#OHJE_R 
+---
+###
+#KOODI      GA021 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och underhåll av synkorrigerande hjälpmedel, (avser ej utprovning av standardglasögon)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser optiska produkter  för synskadade förutom standardglasögon
+#OHJE_R 
+---
+###
+#KOODI      GA022 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och utlämnande av hörseltekniska hjälpmedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Till exempel optiska och akustiska signalhjälpmedel. Exklusive hörapparat. (Utprovning av hörapparat GA005, utlämnande av hörapparat GA004)
+#OHJE_R 
+---
+###
+#KOODI      GA023 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och förskrivning av rullstol
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning och utbildning av förflyttning med rullstol. Förskrivning, utprovning, information, specialanpassning och uppföljning
+#OHJE_R 
+---
+###
+#KOODI      GA024 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och förskrivning av utrustning som ej ingår i hjälpmedelsförteckningen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex AKK (Alternativ och Kompletterande Kommunikation) eller oralmotoriska hjälpmedel, inkl gomplatta
+#OHJE_R 
+---
+###
+#KOODI      GA025 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och förskrivning av övriga hjälpmedel (exklusive rullstol)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, utprovning, förskrivning, specialanpassning, träning och uppföljning av hjälpmedel som ingår i hjälpmedelsförteckningen, (exklusive rullstol)
+#OHJE_R 
+---
+###
+#KOODI      GA026 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och kontroll av ögonprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Punktion och dränage av pleurahålan inkl torakoskopi
+#RUOTSI     ---
+#ENGL       Drainage and endoscopy of pleura
+###
+#KOODI      GAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av toraxdränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av toraxdränage med kostaresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat öppet eller perkutant dränageingrepp i pleurahåla
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAA
+#OHJE_R 
+---
+###
+#KOODI      GAA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat torakoskopiskt dränageingrepp i pleurahåla
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAA
+#OHJE_R 
+---
+###
+#KOODI_A    GAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Torakotomi
+#RUOTSI     ---
+#ENGL       Thoracotomy
+###
+#KOODI      GAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nödtorakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakotomi, antero- eller posterolateral
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakotomi, transaxillär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakotomi, median sternotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB30 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parasternal minitorakotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAB
+#OHJE_R 
+---
+###
+#KOODI_A    GAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på pleura
+#RUOTSI     ---
+#ENGL       Operations on pleura
+###
+#KOODI      GAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk biopsi av pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i pleurahåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt avlägsnande av främmande kropp i pleurahåla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation eller destruktion av lokal förändring i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk exstirpation eller destruktion av lokal förändring i pleura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av terapeutisk pneumotorax
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurodes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC34 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk pleurodes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC36 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kemisk pleurodes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC37 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk kemisk pleurodes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleurodes med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk pleurodes med pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC44 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk total pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC47 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk partiell pleurektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på pleura
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAC
+#OHJE_R 
+---
+###
+#KOODI      GAC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation på pleura
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAC
+#OHJE_R 
+---
+###
+#KOODI      GAC98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på pleura via pleurokutant fönster
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAC
+#OHJE_R 
+---
+###
+#KOODI_A    GAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Torakoplastiker
+#RUOTSI     ---
+#ENGL       Thoracoplasty and related procedures
+###
+#KOODI      GAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoplastik utan plombering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoplastik med plombering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av intratorakal plombering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoplastikoperation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAD
+#OHJE_R 
+---
+###
+#KOODI_A    GAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, biopsi, resektion och rekonstruktion av bröstvägg
+#RUOTSI     ---
+#ENGL       Incision, biopsy, resection and repair of chest wall
+###
+#KOODI      GAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av pleurostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bröstväggen och rekonstruktion med muskel- eller hudplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bröstväggen och rekonstruktion med implantat eller protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stabilisering av bröstväggen vid skada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för kombinerad skada på bröstväggen och diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för thoracic outlet syndrome
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE50 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE53 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan incision i, biopsi, resektion eller rekonstruktion av bröstväggen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAE
+#OHJE_R 
+---
+###
+#KOODI_A    GAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer vid anomalier och defekter i bröstväggen
+#RUOTSI     ---
+#ENGL       Plastic repair of malformations of chest wall
+###
+#KOODI      GAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av pectus carinatum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av pectus excavatum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av implantat i bröstväggen efter operation för anomali eller defekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktiv operation vid bröstväggsanomalier eller -defekter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAF
+#OHJE_R 
+---
+###
+#KOODI_A    GAG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transtorakala och torakoskopiska operationer på diafragma
+#RUOTSI     ---
+#ENGL       Transthoracic and thoracoscopic operations on diaphragm
+###
+#KOODI      GAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk biopsi av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal exstirpation eller destruktion av lokal förändring i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk exstirpation eller destruktion av lokal förändring i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakalt avlägsnande av främmande kropp i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopiskt avlägsnande av främmande kropp i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal operation av diafragmaruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG31 
+#MUUT_PVM   2003/09/03
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk operation av diafragmaruptur
+#RUOTSI     ---
+#LYHENNE    Torakoskopisk operation av diafragmarupt
+###
+#KOODI      GAG33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal resektion av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG36 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal resektion och rekonstruktion av diafragma med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal slutning av torakoabdominell fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal rekonstruktion av diafragmadefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GAG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transtorakal operation på diafragma
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAG
+#OHJE_R 
+---
+###
+#KOODI      GAG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk operation på diafragma
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAG
+#OHJE_R 
+---
+###
+#KOODI_A    GAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på bröstvägg, pleura och diafragma
+#RUOTSI     ---
+#ENGL       Other operations on chest wall, pleura and diaphragm
+###
+#KOODI      GAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transtorakal operation på bröstväggen, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk operation på bröstväggen, pleura eller diafragma
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    GB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på trakea
+#RUOTSI     ---
+#ENGL       Trachea
+###
+#KOODI      GB001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anhörigsamtal i anslutning till tilltänkt transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GB002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information och undervisning UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information till och utbildning av patienten och/eller närstående av väsentligt större omfattning än vad som förekommer vid ordinära kontakter, t.ex. smärtskola, astmaskola, KOL-skola, ryggskola eller strukturerade närståendeutbildningar av olika slag
+#OHJE_R 
+---
+###
+#KOODI      GB003 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelspumpbehandling, information och undervisning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Undervisning om läkemedelspumpbehandling t ex insulin-, cytostatika- eller morfinpumpar. Åtgärdskoden användes vid besök under första månaden efter start
+#OHJE_R 
+---
+###
+#KOODI      GB004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Patientrelaterad extern information och utbildning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser dels överrapportering av patient till annan enhet och dels information och/eller utbildning avseende en viss patients behov till externa enheter (=utanför den egna kliniken)
+#OHJE_R 
+---
+###
+#KOODI      GB005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Självkateteriseringsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Undervisning om självkateterisering (RIK) och självdilatation (RID)
+#OHJE_R 
+---
+###
+#KOODI      GB006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stomiinformation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Pre- och postoperativ stomiinformation
+#OHJE_R 
+---
+###
+#KOODI      GB007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Teckenspråksundervisning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GB008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diabetesläger
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läger för barn med diabetes. Information/undervisning om kost och motion. Praktiska övningar i blodsockerhantering/insulingivning
+#OHJE_R 
+---
+###
+#KOODI      GB009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information och undervisning riktad till patient
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information till och utbildning av patient av väsentligt större omfattning än vad som förekommer vid ordinära kontakter, t ex smärtskola, astmaskola, KOL-skola, ryggskola eller strukturerade patientutbildningar av olika slag
+#OHJE_R 
+---
+###
+#KOODI      GB010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information och undervisning riktad till närstående
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information till och utbildning av närstående av väsentligt större omfattning än vad som förekommer vid ordinära kontakter, t ex smärtskola, astmaskola, KOL-skola, ryggskola eller strukturerade närståendeutbildningar av olika slag
+#OHJE_R 
+---
+###
+#KOODI_A    GBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trakeotomi och operationer för skador och lokala förändringar
+#RUOTSI     ---
+#ENGL       Tracheotomy and operations on trachea for injury or lesion
+###
+#KOODI      GBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeotomi med avlägsnande av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk extraktion av främmande kropp i trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk exstirpation av lokal förändring i trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk elektrokoagulation av lokal förändring i trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA28 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserbehandling av lokal förändring i trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA35 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation på trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av trakea utan protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA53 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av trakea med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för skada eller lokal förändring i trakea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GBA
+#OHJE_R 
+---
+###
+#KOODI      GBA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation för skada eller lokal förändring i trakea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GBA
+#OHJE_R 
+---
+###
+#KOODI_A    GBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trakeostomi och härtill hörande operationer
+#RUOTSI     ---
+#ENGL       Tracheostomy and related operations
+###
+#KOODI      GBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trakeostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB03 
+#MUUT_PVM   2001/09/11
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan trakeostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av trakeostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB18 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av trakeostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan trakeostomioperation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GBB
+#OHJE_R 
+---
+###
+#KOODI_A    GBC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektion och rekonstruktion av trakea
+#RUOTSI     ---
+#ENGL       Resection and reconstruction of trachea
+###
+#KOODI      GBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och sutur av trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av trakea med reanastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av trakea med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av carina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av carina med implantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GBC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion eller rekonstruktion av trakea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GBC
+#OHJE_R 
+---
+###
+#KOODI_A    GBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på trakea
+#RUOTSI     ---
+#ENGL       Other operations on trachea
+###
+#KOODI      GBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på trakea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GBW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation på trakea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    GC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på bronker
+#RUOTSI     ---
+#ENGL       Bronchus
+###
+#KOODI_A    GCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på bronker
+#RUOTSI     ---
+#ENGL       Operations on bronchus
+###
+#KOODI      GCA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endobronkial elektrokoagulation av lokal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endobronkial laserbehandling av lokal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i bronk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA08 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endobronkial exstirpation av lokal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i bronk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endobronkial extraktion av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA18 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av bronk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur eller rekonstruktion av bronk vid skada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoplastik med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA32 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i bronk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av bronkopleural fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk slutning av bronkopleural fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan slutning av bronkopleural fistel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GCA
+#OHJE_R 
+---
+###
+#KOODI      GCA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bronk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bronk med anastomos ända till ända
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av bronk med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på bronk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GCA
+#OHJE_R 
+---
+###
+#KOODI      GCA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation på bronk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på lungor
+#RUOTSI     ---
+#ENGL       Lung
+###
+#KOODI      GD001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anmälan enligt lag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Anmälan som regleras i lag. T ex anmälan enligt smittskyddslagen, socialtjänstlagen etc. Innefattar utfärdande av dödsbevis och utfärdande av dödsorsaksintyg
+#OHJE_R 
+---
+###
+#KOODI      GD002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intyg, enklare
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Till exempel sjukintyg, friskintyg, körkortsintyg, handikappersättning, intyg till skolor etc
+#OHJE_R 
+---
+###
+#KOODI      GD003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intyg, omfattande
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T.ex. LUH, rättsintyg, intyg för bostadsanpassning eller annat intyg av motsvarande omfattning
+#OHJE_R 
+---
+###
+#KOODI      GD004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övriga anmälningar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Anmälan som ej regleras i lag, till exempel anmälan till Läkemedelsverket
+#OHJE_R 
+---
+###
+#KOODI      GD005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vårdintyg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser undersökning och utfärdande av vårdintyg. Övriga intyg se GD002 och GD003
+#OHJE_R 
+---
+###
+#KOODI      GD006 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konstaterande av dödsfall
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Konstaterande av dödsfall genom undersökning eller i enlighet med 15§ i begravningsförordningen
+#OHJE_R 
+---
+###
+#KOODI_A    GDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, lokal exstirpation och sutur av lunga
+#RUOTSI     ---
+#ENGL       Incision, excision of lesion and repair of lung
+#OHJE_S  
+Inkl vid främmande kropp eller skada
+Bronkoskopisk lungbiopsi, se UGC
+#OHJE_R 
+---
+###
+#KOODI      GDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk incision i lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungbiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk lungbiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA12 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bronkoskopisk lungbiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk exstirpation av lokal förändring i lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungincision och extraktion av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk lungincision och extraktion av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA40 
+#MUUT_PVM   1995/11/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision och sutur av lungskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA41 
+#MUUT_PVM   1995/11/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk revision och sutur av lungskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan incision i, lokal exstirpation eller sutur av lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDA
+#OHJE_R 
+---
+###
+#KOODI      GDA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk incision i, lokal exstirpation eller sutur av lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDA
+#OHJE_R 
+---
+###
+#KOODI      GDA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bronkoskopisk incision i, lokal exstirpation eller sutur av lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDA
+#OHJE_R 
+---
+###
+#KOODI_A    GDB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lungresektioner
+#RUOTSI     ---
+#ENGL       Minor resections of lung
+###
+#KOODI      GDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk resektion av bullae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk lungresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Segmentresektion av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk segmentresektion av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan lungresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDB
+#OHJE_R 
+---
+###
+#KOODI      GDB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk lungresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDB
+#OHJE_R 
+---
+###
+#KOODI_A    GDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lobektomioperationer på lungor
+#RUOTSI     ---
+#ENGL       Lobectomy of lung
+###
+#KOODI      GDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk lobektomi av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilobektomi av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk bilobektomi av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC13 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad lobektomi eller bilobektomi av lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi av lunga med sleeveresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi av lunga med segmentresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDC26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi av lunga med annan resektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDC
+#OHJE_R 
+---
+###
+#KOODI      GDC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan lobektomioperation på lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDC
+#OHJE_R 
+---
+###
+#KOODI      GDC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk lobektomioperation på lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDC
+#OHJE_R 
+---
+###
+#KOODI_A    GDD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pneumektomi
+#RUOTSI     ---
+#ENGL       Pneumonectomy
+###
+#KOODI      GDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pulmektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk pulmektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pleuropulmektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk pleuropulmektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad pulmektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pulmektomi och resektion av karina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pulmektomi och resektion av bronk eller trakea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan pulmektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDD
+#OHJE_R 
+---
+###
+#KOODI      GDD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk pulmektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDD
+#OHJE_R 
+---
+###
+#KOODI_A    GDG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lungtransplantationer
+#RUOTSI     ---
+#ENGL       Transplantation of lung
+###
+#KOODI      GDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral lungtransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral lungtransplantation med revaskularisering av bronkialartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral lungtransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungtransplantation en bloc med revaskularisering av bronkialartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lungtransplantation med levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GDG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan lungtransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDG
+#OHJE_R 
+---
+###
+#KOODI_A    GDW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på lungorna
+#RUOTSI     ---
+#ENGL       Other operations on lung
+###
+#KOODI      GDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GDW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk operation på lunga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GDW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bronkoskopisk operation på lunga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    GE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer i mediastinum (inkl tymus)
+#RUOTSI     ---
+#ENGL       Mediastinum
+###
+#KOODI_A    GEA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mediastinoskopier
+#RUOTSI     ---
+#ENGL       Mediastinoscopy
+###
+#KOODI      GEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopi med avlägsnande av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinoskopi med exstirpation av lokal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan mediastinoskopisk operation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    GEB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mediastinotomi
+#RUOTSI     ---
+#ENGL       Mediastinotomy
+###
+#KOODI      GEB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi med exstirpation av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi med exstirpation av lokal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mediastinotomi och utvidgad exstirpation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation via mediastinotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GEB
+#OHJE_R 
+---
+###
+#KOODI_A    GEC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på tymus
+#RUOTSI     ---
+#ENGL       Operations on thymus
+###
+#KOODI      GEC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av tymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk biopsi av tymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal resektion av tymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsternal resektion av tymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC14 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk resektion av tymus
+#RUOTSI     ---
+#LYHENNE    Torakoskopisk resektion av tymus
+###
+#KOODI      GEC16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk resektion av tymus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal tymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsternal tymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC24 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk tymektomi
+#RUOTSI     ---
+#LYHENNE    Torakoskopisk tymektomi
+###
+#KOODI      GEC26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk tymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GEC93 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation på tymus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GEC
+#OHJE_R 
+---
+###
+#KOODI      GEC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på tymus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GEC
+#OHJE_R 
+---
+###
+#KOODI      GEC97 
+#MUUT_PVM   2003/09/03
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk operation på tymus
+#RUOTSI     ---
+#LYHENNE    Annan torakoskopisk operation på tymus
+###
+#KOODI_A    GEW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer i mediastinum
+#RUOTSI     ---
+#ENGL       Other operations on mediastinum
+###
+#KOODI      GEW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i mediastinum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GEX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GEW97 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annan torakoskopisk operation på tymus
+#RUOTSI     ---
+#LYHENNE    Annan torakoskopisk operation på tymus
+###
+#KOODI_R    GW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer för sårkomplikationer av thoraxkirurgi
+#RUOTSI     ---
+#ENGL       Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+###
+#KOODI      GWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWC01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWE01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWF01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      GWW96 
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker eller lungor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GWW97 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk reoperation på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker eller lungor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      GWW98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk reoperation på bröstvägg, pleura, mediastinum, diafragma, trakea, bronker eller lungor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga GWX (X avser annan bokstav)
+#OHJE_R 
+---

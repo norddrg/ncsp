@@ -1,0 +1,5309 @@
+
+###
+#KOODI_L    K
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsatiet, miehen sukupuolielimet ja vatsaontelon takaiset kudokset
+#RUOTSI     Urinvägar, manliga genitalier och retroperitoneal vävnad
+#ENGL       Urinary system, male genital organs and retroperitoneal space
+#OHJE_S  
+Urologiset toimenpiteet
+"Tähystys iholta" tarkoittaa sekä nefroskopiaa tai muuta vastaavaa peritoneaaliontelon ulkopuolista että  vatsaontelon kautta tehtyä tähystystoimenpidettä.
+#OHJE_R 
+Urologiska åtgärder
+Uttryckket "perkutan"  betyder i detta kapitel både åtgärder, som har gjorts utan att öppna peritonealsäcken, och laparoskopiska åtgärder.
+###
+#KOODI_R    KA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Munuaiset ja munuaisaltaat
+#RUOTSI     Njurar och njurbäcken
+#ENGL       Kidney and pelvis of kidney
+###
+#KOODI      KA001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i njure eller njurbäcken
+#LYHENNE    Sädeh ylemp virtsat prim.kasv preop hoit
+###
+#KOODI      KA002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i njure eller njurbäcken
+#LYHENNE    Radik ylemp virtsat prim.kasv sädehoito
+###
+#KOODI      KA003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i njure eller njurbäcken
+#LYHENNE    Sädeh ylemp virtsat prim.kasv liit.hoit
+###
+#KOODI      KA004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i njure eller njurbäcken
+#LYHENNE    Sädeh ylemp virtsat prim.kasv palliat ho
+###
+#KOODI      KA029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i njure eller njurbäcken
+#LYHENNE    Sädeh ylemp virtsat paik uus kasv hoiton
+###
+#KOODI      KA049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito  munuaisissa, munuaisaltaissa tai virtsajohtimissa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i njure eller njurbäcken
+#LYHENNE    Sädeh ylemp virtsat metastaasin hoitona
+###
+#KOODI      KA090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av njure och njurbäcken
+#LYHENNE    Sädeh ylemp virtsat prim.kasv profyl hoi
+###
+#KOODI      KA099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu munuaisten ja munuaisaltaiden sädehoito
+#RUOTSI     Annan strålbehandling av njure och njurbäcken
+#LYHENNE    Muu ylemp virtsat sädehoito
+###
+#KOODI      KA1AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5601      
+#SUOMI      Munuaisten natiiviröntgen
+#RUOTSI     Njuröversikt, röntgen
+#LYHENNE    Munuaisten rtg
+###
+#KOODI      KA1AD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA      5930      
+#SUOMI      Munuaisten TT
+#RUOTSI     Njurar, DT
+#LYHENNE    Munuaisten TT
+###
+#KOODI      KA1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6131      
+#SUOMI      Munuaisten UÄ *
+#RUOTSI     Njurar, UL *
+#LYHENNE    Munuaisten UÄ
+###
+#KOODI      KA1AK 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8400      
+#SUOMI      Munuaisten spektroskopia
+#RUOTSI     Spektroskopi av njurar
+#LYHENNE    Munuaiset,spektrosk.
+###
+#KOODI      KA1AN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaiskudoksen gammakuvaus
+#RUOTSI     Njurvävnad gammaskintigrafi
+#LYHENNE    Munuaiskudoksen gammakuvaus
+###
+#KOODI      KA1BD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA      5931      
+#SUOMI      Munuaisten laaja TT
+#RUOTSI     Njurar, omfattande DT
+#LYHENNE    Munuaisten laaja TT
+###
+#KOODI      KA1CD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA      5932      
+#SUOMI      Munuaisten erittäin laaja TT
+#RUOTSI     Njurar, mycket omfattande DT
+#LYHENNE    Munuaisten erittäin laaja TT
+###
+#KOODI      KA1FN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaistoiminnan gammakuvaus
+#RUOTSI     Isotop renografi
+#LYHENNE    Munuaistoiminnan gammakuvaus
+###
+#KOODI      KA1MN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Glomerulusten suodatusnopeuden mittaus (GFR) isotooppitekniikalla
+#RUOTSI     Glomerulär filtrations hastighet isotopmätning
+#LYHENNE    Isotooppi GFR
+###
+#KOODI      KA1PD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Munuaisten perfuusio TT
+#RUOTSI     Nurperfusionsundersökning med DT
+#LYHENNE    Munuaisten perfuusio TT
+###
+#KOODI      KA1SN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisrakenteen SPET-tutkimus
+#RUOTSI     Njurstruktur SPECT
+#LYHENNE    Munuaisrakenteen SPET-tutkimus
+###
+#KOODI      KA1XD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2002/11/11
+#POISTETTU
+#VANHA      5933      
+#SUOMI      Munuaisten muu TT
+#RUOTSI     DT av njurar (övrig)
+#LYHENNE    Munuaisten muu TT
+###
+#KOODI      KA2AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6141      
+#SUOMI      Munuaissiirrännäisen UÄ
+#RUOTSI     Njurtransplantat, UL
+#LYHENNE    Munuaissiirränn. UÄ
+###
+#KOODI      KA2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9034      
+#SUOMI      Munuaissiirrännäisen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Njurtransplantat, UL-styrd vävnadsbiopsi
+#LYHENNE    Munuaiss,kudosn,UÄ-o
+###
+#KOODI      KA2FN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaistoiminnan gammakuvaus kaptopriilitehosteisena
+#RUOTSI     Isotop renografi med kaptopril stimulering
+#LYHENNE    Munuaistoiminnan gammakuvaus kaptopriili
+###
+#KOODI      KA2LD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Munuaissiirrännäisen TT
+#RUOTSI     Njurtransplantat, DT
+#LYHENNE    Munuaissiirrännäisen TT
+###
+#KOODI      KA2MD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Munuaissiirrännäisen laaja TT
+#RUOTSI     Njurtransplantat, omfattande DT
+#LYHENNE    Munuaissiirrännäisen laaja TT
+###
+#KOODI      KA2ND 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Munuaissiirrännäisen erittäin laaja TT
+#RUOTSI     Njurtransplantat, mycket omfattande DT
+#LYHENNE    Munuaissiirrännäisen erittäin laaja TT
+###
+#KOODI      KA3AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Munuaisen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Njure, UL-styrd vävnadsbiopsi
+#LYHENNE    Munuaiskudosn,UÄ-ohj
+###
+#KOODI      KA3CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Njure, DT-styrd vävnadsbiopsi
+#LYHENNE    Munuaiskudosn,TT-ohj
+###
+#KOODI      KA3DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen kudosnäytteen otto magneettiohjauksessa
+#RUOTSI     Njure, MR-styrd vävnadsbiopsi
+#LYHENNE    Munuaiskudosn,MK-ohj
+###
+#KOODI      KA3EB 
+#MUUT_PVM   2006/10/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5623      
+#SUOMI      Ylävirtsateiden varjoainetutkimus iholta käsin (antegradinen pyelografia)
+#RUOTSI     Antegrad pyelografi
+#LYHENNE    Antegr. pyelografia
+###
+#KOODI      KA3GB 
+#MUUT_PVM   2006/10/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5621      
+#SUOMI      Ylävirtsateiden varjoainetutkimus alavirtsateiden kautta (retrogradinen pyelografia)
+#RUOTSI     Retrograd pyelografi
+#LYHENNE    Retrogr.pyelogr
+###
+#KOODI      KA3LT 
+#MUUT_PVM   2006/10/08
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Nujure,  värmekoagulation med radiologisk styrning
+#LYHENNE    Munuaisen lämpökoagulaatio rad ohj
+###
+#KOODI      KA4AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Munuaisen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Njure, UL-styrd finnålsbiopsi
+#LYHENNE    Munuaissolun,UÄ-ohj
+###
+#KOODI      KA4CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen solunäytteen otto TT-ohjauksessa
+#RUOTSI     Njure, DT-styrd finnålsbiopsi
+#LYHENNE    Munuaissolun,TT-ohj
+###
+#KOODI      KA4DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen solunäytteen otto magneettiohjauksessa
+#RUOTSI     Njure, MR-styrd finnålsbiopsi
+#LYHENNE    Munuaissolun,MK-ohj
+###
+#KOODI      KA5AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Munuaiskystan punktio UÄ-ohjauksessa
+#RUOTSI     Nnjurcysta, UL-styrd punktion
+#LYHENNE    Munuaisk.punkt,UÄ-oh
+#OHJE_S  
+Munuaisaltaan punktio, katso KH1AT
+#OHJE_R 
+---
+###
+#KOODI      KA5BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9022      
+#SUOMI      Munuaiskystan punktio läpivalaisuohjauksessa
+#RUOTSI     Nnjurcysta, genomlysningsstyrd punktion
+#LYHENNE    Munuaisk.punkt,lpv-o
+#OHJE_S  
+Munuaisaltaan punktio, katso KH1BT
+#OHJE_R 
+---
+###
+#KOODI      KA5CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9023      
+#SUOMI      Munuaiskystan punktio TT-ohjauksessa
+#RUOTSI     Nnjurcysta, DT-styrd punktion
+#LYHENNE    Munuaisk.punkt,TT-oh
+#OHJE_S  
+Munuaisaltaan punktio, katso KH1CT
+#OHJE_R 
+---
+###
+#KOODI      KA6KT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9051      
+#SUOMI      Munuaiskystan skleroterapia
+#RUOTSI     Nnjurcysta skleroterapi
+#LYHENNE    Munuaiskysta,sklerot
+###
+#KOODI      KA6WT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9530      
+#SUOMI      Munuaisen selektiivinen laskimoverinäytteen otto radiologisessa ohjauksessa
+#RUOTSI     Selektivt njurvensblodprov, radilogiskt styrt
+#LYHENNE    Reniininäytteet
+###
+#KOODI      KAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7102      
+#SUOMI      Munuaisen tutkimusleikkaus
+#RUOTSI     Öppen exploration av njure
+#LYHENNE    Munuaisen tutkimusleikkaus
+###
+#KOODI      KAA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Munuaisen tutkiminen tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk undersökning av njure
+#LYHENNE    Nefroskopia
+###
+#KOODI      KAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7102      
+#SUOMI      Munuaisen aukaisu tutkimustarkoituksessa
+#RUOTSI     Explorativ nefrotomi
+#LYHENNE    Munuaisen aukaisu tutkimustarkoituksessa
+###
+#KOODI      KAA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Munuaisen aukaisu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk explorativ nefrotomi
+#LYHENNE    Munuaisen aukaisu tähystyksessä iholta
+###
+#KOODI      KAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7102      
+#SUOMI      Munuaisaltaan aukaisu
+#RUOTSI     Öppen explorativ pyelotomi
+#LYHENNE    Munuaisaltaan aukaisu
+###
+#KOODI      KAA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1460      
+#SUOMI      Munuaisaltaan tähystys iholta
+#RUOTSI     Perkutan pyeloskopi
+#LYHENNE    Munuaisaltaan tähystys iholta
+###
+#KOODI      KAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7119      
+#SUOMI      Muu munuaisen tutkimusleikkaus
+#RUOTSI     Annan öppen exploration av njure eller njurbäcken
+#LYHENNE    Muu munuaisen tutkimusleikkaus
+###
+#KOODI      KAA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Muu munuaisen tutkimusleikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk exploration av njure eller njurbäcken
+#LYHENNE    Muu munuaisen tutkimusleikkaus LAP
+###
+#KOODI      KAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7102      
+#SUOMI      Koepalan ottaminen munuaisesta tai munuaisaltaasta
+#RUOTSI     Biopsi av njure eller njurbäcken
+#LYHENNE    Koepalan ottaminen munuaisesta
+###
+#KOODI      KAB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Koepalan ottaminen munuaisesta tai munuaisaltaasta tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk biopsi av njure eller njurbäcken
+#LYHENNE    Koepalan ottaminen munuaisesta LAP
+###
+#KOODI      KAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7124      
+#SUOMI      Munuaisen poisto
+#RUOTSI     Öppen nefrektomi
+#LYHENNE    Munuaisen poisto
+###
+#KOODI      KAC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk nefrektomi
+#LYHENNE    Munuaisen poisto tähystyksessä iholta
+###
+#KOODI      KAC10 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7125      
+#SUOMI      Munuaisenpoisto kapseleineen
+#RUOTSI     Resektion av njure med kapsel
+#LYHENNE    Munuaisenpoisto kapseleineen
+###
+#KOODI      KAC11 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen poisto kapseleinen tähystyksessä iholta
+#RUOTSI     Perkutan resektion av njure med kapsel
+#LYHENNE    Munuaisen poisto kapseleinen tähystykses
+###
+#KOODI      KAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7126      
+#SUOMI      Munuaisen ja virtsanjohtimen poisto
+#RUOTSI     Nefroureterektomi
+#LYHENNE    Munuaisen ja virtsanjohtimen poisto
+###
+#KOODI      KAC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen ja virtsanjohtimen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk nefroureterektomi
+#LYHENNE    Munuaisen/virtsanjohtimen poisto LAP
+###
+#KOODI      KAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7129      
+#SUOMI      Muu munuaisen poisto
+#RUOTSI     Annan öppen nefrektomi
+#LYHENNE    Muu munuaisen poisto
+###
+#KOODI      KAC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munuaisen poisto tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk nefrektomi
+#LYHENNE    Muu munuaisen poisto  LAP
+###
+#KOODI_A    KA_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Munuaisen ja munuaisaltaan diagnostinen radiologia
+#RUOTSI     Diangostisk radiologi av njure och njurbäcken
+#ENGL       Diagnostic radiology kidney and pelvis of kidney
+#OHJE_S  
+Munaistutkimukset, jotka tehdään osana alavatsan tutkimusta (TT, MR), katso JX
+#OHJE_R 
+Njurundersökningar, som utförst som en del av adominal undersökningar (CT, MR), se JX
+###
+#KOODI      KAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7121      
+#SUOMI      Munuaisen osan poisto
+#RUOTSI     Öppen delresektion av njure
+#LYHENNE    Munuaisen osan poisto
+#OHJE_S  
+Sisältää munaiskystan "deroofingin"
+#OHJE_R 
+Inkl "deroofing" av njurcysta
+###
+#KOODI      KAD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen osan poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk resektion av njure
+#LYHENNE    Munuaisen osan poisto LAP
+###
+#KOODI      KAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7123      
+#SUOMI      Munuaisen poisto puoliksi
+#RUOTSI     Öppen heminefrektomi
+#LYHENNE    Munuaisen poisto puoliksi
+###
+#KOODI      KAD11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen poisto puoliksi tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk heminefrektomi
+#LYHENNE    Heminefrektomia  LAP
+###
+#KOODI      KAD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7122      
+#SUOMI      Munuaisaltaan osittainen poisto
+#RUOTSI     Öppen delresektion av njurbäcken
+#LYHENNE    Munuaisaltaan osittainen poisto
+###
+#KOODI      KAD41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Munuaisaltaan osittainen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk delresektion av njurbäcken
+#LYHENNE    Munuaisaltaan osittainen poisto LAP
+###
+#KOODI      KAD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7149      
+#SUOMI      Munuaisaltaan kasvaimen tuhoaminen
+#RUOTSI     Öppen destruktion av njurbäckentumör
+#LYHENNE    Munuaisaltaan kasvaimen tuhoaminen
+###
+#KOODI      KAD51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Munuaisaltaan kasvaimen tuhoaminen tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk destruktion av njurbäckentumör
+#LYHENNE    Munuaisaltaan kasvaimen tuhoaminen  LAP
+###
+#KOODI      KAD52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Munuaisaltaan kasvaimen tuhoaminen virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk destruktion av njurbäckentumör
+#LYHENNE    Munuaisallaskasvaimen tuhoaminen endosko
+###
+#KOODI      KAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7129      
+#SUOMI      Muu munuaisen osan poisto
+#RUOTSI     Annan öppen resektion av njure eller njurbäcken
+#LYHENNE    Muu munuaisen osan poisto
+###
+#KOODI      KAD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munuaisen osan poisto tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk resektion av njure eller njurbäcken
+#LYHENNE    Muu munuaisen osan poisto LAP
+###
+#KOODI      KAD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu munuaisen osan poisto virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk resektion av njure eller njurbäcken
+#LYHENNE    Muu munuaisresektio intralum endoskopia
+###
+#KOODI_A    KA_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Munuaisten ja munuaisaltaan tähystykset
+#RUOTSI     Endoskopier av njurar och njurbäcken
+#ENGL       Endoscopy of  kidney and pelvis of kidney
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      KAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7105      
+#SUOMI      Munuaiskiven poisto
+#RUOTSI     Öppen nefrolitotomi
+#LYHENNE    Munuaiskiven poisto
+###
+#KOODI      KAE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaiskiven poisto tähystyksessä iholta
+#RUOTSI     Perkutan nefroskopisk nefrolitotomi
+#LYHENNE    Munuaiskiven poisto tähystyksessä iholta
+###
+#KOODI      KAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7105      
+#SUOMI      Munuaisaltaan kiven poisto
+#RUOTSI     Öppen pyelolitotomi
+#LYHENNE    Munuaisaltaan kiven poisto
+###
+#KOODI      KAE11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1461      
+#SUOMI      Munuaisaltaan kiven poisto tähystyksessä iholta
+#RUOTSI     Perkutan nefroskopisk pyelolitotomi
+#LYHENNE    Munuaisaltaan kiven poisto LAP
+#OHJE_S  
+Sisältää kivien murskaamisen
+#OHJE_R 
+Inkl litotripsi
+###
+#KOODI      KAE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Munuaisaltaan kiven poisto/murskaus virtsatietähystyksessä
+#RUOTSI     Transluminal litotripsi i njurbäckenet
+#LYHENNE    Pyelolitotomia/tripsia,virtsatietähystys
+###
+#KOODI      KAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7119      
+#SUOMI      Muu munuaiskiven poisto
+#RUOTSI     Annan öppen extraktion av konkrement i njure eller njurbäcken
+#LYHENNE    Muu munuaiskiven poisto
+###
+#KOODI      KAE97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munuaiskiven poisto tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk extraktion av konkrement i njure eller njurbäcken
+#LYHENNE    Muu munuaiskiven poisto LAP
+###
+#KOODI      KAE98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu munuaiskiven poisto virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk extraktion av konkrement i njure eller njurbäcken
+#LYHENNE    Muu munuaiskivipoisto,virtsatietähystys
+###
+#KOODI_A    KA_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut munuaisten ja munuaisaltaan diagnostiset toimenpiteet
+#RUOTSI     Andra fysiologiska undersökningar av njure och njurbäcken
+#ENGL       Other diagnostic procedure of  kidney and pelvis of kidney
+###
+#KOODI      KAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7129      
+#SUOMI      Vierasesineen poisto munuaisesta
+#RUOTSI     Avlägsnande av främmande kropp från njure (öppen operation)
+#LYHENNE    Vierasesineen poisto munuaisesta
+###
+#KOODI      KAF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Vierasesineen poisto munuaisesta tähystyksessä iholta
+#RUOTSI     Perkutant endoskopiskt avlägsnande av främmande kropp från njure
+#LYHENNE    Vierasesinepoisto munuaisesta LAP
+###
+#KOODI      KAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7149      
+#SUOMI      Vierasesineen poisto munuaisaltaasta
+#RUOTSI     Öppet avlägsnande av främmande kropp från njurbäcken
+#LYHENNE    Vierasesineen poisto munuaisaltaasta
+###
+#KOODI      KAF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Vierasesineen poisto munuaisaltaasta tähystyksessä iholta
+#RUOTSI     Perkutant endoskopiskt avlägsnande av främmande kropp från njurbäcken
+#LYHENNE    Vierasesinepoisto munuaisaltaasta LAP
+###
+#KOODI      KAF12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Vierasesineen poisto munuaisaltaasta virtsatietähystyksessä
+#RUOTSI     Transluminalt endoskopiskt avlägsnande av främmande kropp från njurbäcken
+#LYHENNE    Vierasesine munuaisaltaasta virtsatietäh
+###
+#KOODI      KAH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7141      
+#SUOMI      Munuaisen ompelu
+#RUOTSI     Öppen njursutur
+#LYHENNE    Munuaisen ompelu
+###
+#KOODI      KAH01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen ompelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk sutur av njure
+#LYHENNE    Munuaisen ompelu tähystyksessä iholta
+###
+#KOODI      KAH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7141      
+#SUOMI      Munuaisaltaan ompelu
+#RUOTSI     Öppen sutur av njurbäcken
+#LYHENNE    Munuaisaltaan ompelu
+###
+#KOODI      KAH11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Munuaisaltaan ompelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk sutur av njurbäcken
+#LYHENNE    Munuaisaltaan ompelu LAP
+###
+#KOODI      KAH12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Munuaisaltaan ompelu virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk sutur av njurbäcken
+#LYHENNE    Munuaisaltaan ompelu,virtsatietähystys
+###
+#KOODI      KAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7143      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen muovaus katkaisematta
+#RUOTSI     Pyeloureteroplastik utan delning av njurbäcken-uretärövergång
+#LYHENNE    Pyeloureteroplastia katkaisematta
+###
+#KOODI      KAH31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen muovaus katkaisematta tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk pyeloureteroplastik utan delning av njurbäcken- uretärövergång
+#LYHENNE    Pyeloureteroplastia katkaisematta LAP
+###
+#KOODI      KAH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7143      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen muovaus katkaisten
+#RUOTSI     Öppen pyeloureterostomi med delning av njurbäcken-uretärövergång
+#LYHENNE    Pyeloureterostomia katkaisten
+###
+#KOODI      KAH41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen muovaus katkaisten tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk pyeloureterostomi med delning av njurbäcken- uretärövergång
+#LYHENNE    Pyeloureterostomia katkaisten LAP
+###
+#KOODI      KAH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7142      
+#SUOMI      Munuaispikarin ja virtsanjohtimen yhdistäminen
+#RUOTSI     Öppen anastomos mellan uretär och njurkalkar
+#LYHENNE    Munuaispikari-virtsanjohdinliitos
+###
+#KOODI      KAH51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaispikarin ja virtsanjohtimen yhdistäminen tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk anastomos mellan uretär och njurkalkar
+#LYHENNE    Munuaispikari-virtsanjohdinliitos LAP
+###
+#KOODI      KAH54 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaispikarin aukaisu tai laajennus tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk incision eller dilatation av calyx neck
+#LYHENNE    Mun.pikar. avaus tai laajennus täh. ihol
+###
+#KOODI      KAH55 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaispikarin aukaisu tai laajennus virtsateiden tähystyksessä
+#RUOTSI     Retrograd ureteronephroskopisk incision eller dilatation av calyx neck
+#LYHENNE    Mun.pikar. avaus tai laajennus vt-tähyst
+###
+#KOODI      KAH61 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1463      
+#SUOMI      Munuaisallas-virtsanjohdin liitoksen halkaisu, endopyelotomia, nefroskopiateitse
+#RUOTSI     Perkutan endoskopisk klyvning av njurbäcken-uretärövergång, endopyelotomi
+#LYHENNE    Endopyelotomia,nefroskopia/LAPteitse
+###
+#KOODI      KAH62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen halkaisu, endopyelotomia, virtsatietähystyksessä
+#RUOTSI     Endopyelotomi vid endoskopi
+#LYHENNE    Endopyelotomia virtsatietähystyksessä
+#OHJE_S  
+
+#OHJE_R 
+Transluminal endoskopisk klyvning av ureteropelvisk stenos
+###
+#KOODI      KAH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7149      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen kiinnikkeiden irrottelu
+#RUOTSI     Öppen lösning av adherenser vid njurbäcken-uretärövergången
+#LYHENNE    Munuaisallas-virtsanjohdinkiinnikeirrote
+###
+#KOODI      KAH71 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisallas-virtsanjohdinliitoksen kiinnikkeiden irrottelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk lösning av adherenser vid njurbäcken-uretärövergången
+#LYHENNE    Munuaisallas-ureterkiinnikkeirrott LAP
+###
+#KOODI      KAH80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7144      
+#SUOMI      Munuaisen kiinnitys
+#RUOTSI     Öppen nefropexi
+#LYHENNE    Munuaisen kiinnitys
+###
+#KOODI      KAH81 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munuaisen kiinnitys tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk nefropexi
+#LYHENNE    Munuaisen kiinnitys tähystyksessä iholta
+###
+#KOODI      KAH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7149      
+#SUOMI      Muu munuaisen tai munuaisaltaan korjaava leikkaus
+#RUOTSI     Annan öppen rekonstruktion av njure eller njurbäcken
+#LYHENNE    Muu munuaisen/munuaisaltaan korjaus
+###
+#KOODI      KAH97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413+     
+#SUOMI      Muu munuaisen tai munuaisaltaan korjaava leikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk rekonstruktion av njure eller njurbäcken
+#LYHENNE    Muu munuaisen/munuaisaltaan korjaus LAP
+###
+#KOODI      KAH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu munuaisen tai munuaisaltaan korjaava leikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk rekonstruktion av njure eller njurbäcken
+#LYHENNE    Muu munuaisen/munuaisallaskorjaus endosk
+###
+#KOODI      KAJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7104      
+#SUOMI      Munuaisavanteen teko
+#RUOTSI     Öppen nefrostomi
+#LYHENNE    Munuaisavanteen teko
+#OHJE_S  
+Munuaisavanteen sulku TKA40
+#OHJE_R 
+Tillslutning av nefrektomi TKA40
+###
+#KOODI      KAJ01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7103      
+#SUOMI      Munuaisavanteen teko tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk nefrostomi/pyelostomi
+#LYHENNE    Munuaisavanteen teko LAP
+#OHJE_S  
+Munuaisen tähystystutkimuksessa jätetty dreeni sisältyy kohtaan TKA10
+#OHJE_R 
+Dränage vid perkutan nefroskopi inkluderas i TKA10
+###
+#KOODI      KAJ02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520+     
+#SUOMI      Munuaisavanteen teko virtsatietähystyksessä
+#RUOTSI     Endoskopisk nefrostomi
+#LYHENNE    Munuaisavanteen teko,virtsatietähystys
+###
+#KOODI      KAJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7104      
+#SUOMI      Munuaisallasavanteen teko
+#RUOTSI     Pyelostomi
+#LYHENNE    Munuaisallasavanteen teko
+###
+#KOODI      KAJ11 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisallasavanteen teko tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk pyelostomi
+#LYHENNE    Munuaisallasavanteen teko tähy. iholta
+###
+#KOODI      KAJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7119      
+#SUOMI      Muu virtsan ulosjohtaminen munuaistasolta
+#RUOTSI     Annan urinavledande öppen operation på njure eller njurbäcken
+#LYHENNE    Muu virtsadiversio munuaistasolta
+###
+#KOODI      KAJ97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Muu virtsan ulosjohtaminen munuaistasolta tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk urinavledande operation på njure eller njurbäcken
+#LYHENNE    Muu virtsadiversio munuaistasolta LAP
+###
+#KOODI      KAJ98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu virtsan ulosjohtaminen munuaistasolta virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk urinavledande operation på njure eller njurbäcken
+#LYHENNE    Muu virtsadiversio munuaistasolta endosk
+###
+#KOODI_A    KA_
+#MUUT_PVM   2004/02/03
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#SUOMI      Munuaisen ja munuaisaltaan leikkaukset
+#RUOTSI     Operationer på njure och njurbäcken
+#ENGL       Surgery of  kidney and pelvis of kidney
+###
+#KOODI      KAS00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7160      
+#SUOMI      Oman munuaisen siirto
+#RUOTSI     Autolog njurtransplantation
+#LYHENNE    Oman munuaisen siirto
+###
+#KOODI      KAS10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7151+     
+#SUOMI      Munuaisen siirto kuolleelta luovuttajalta
+#RUOTSI     Homolog njurtransplantation, nekronjure
+#LYHENNE    Kadavermunuaisen siirto
+###
+#KOODI      KAS20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7151+     
+#SUOMI      Munuaisen siirto elävältä luovuttajalta
+#RUOTSI     Homolog njurtransplantation, levande donator
+#LYHENNE    Munuaisen siirto elävältä luovuttajalta
+###
+#KOODI      KAS40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7158      
+#SUOMI      Siirretyn munuaisen poisto
+#RUOTSI     Öppen exstirpation av transplanterad njure
+#LYHENNE    Siirretyn munuaisen poisto
+###
+#KOODI      KAS41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Siirretyn munuaisen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk exstirpation av transplanterad njure
+#LYHENNE    Siirretyn munuaisen poisto LAP
+###
+#KOODI      KAS50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7169+     
+#SUOMI      Siirretyn munuaisen liittäminen rakkoon
+#RUOTSI     Nefrocystostomi på transplanterad njure
+#LYHENNE    Siirretyn munuaisen liittäminen rakkoon
+###
+#KOODI      KAS60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7155+     
+#SUOMI      Siirretyn munuaisen lymfoseelen leikkaus
+#RUOTSI     Öppen operation för lymfocele i transplanterad njure
+#LYHENNE    Siirretyn munuaisen lymfoseelen leikkaus
+###
+#KOODI      KAS61 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Siirretyn munuaisen lymfoseelen leikkaus tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk operation för lymfocele i transplanterad njure
+#LYHENNE    Siirtomunuaisen lymfoseelen leikkaus LAP
+###
+#KOODI      KAS96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7169      
+#SUOMI      Muu munuaisensiirtoon liittyvä leikkaus
+#RUOTSI     Annan öppen operation i samband med njurtransplantation
+#LYHENNE    Muu munuaisensiirtoon liittyvä leikkaus
+#OHJE_S  
+HUOM! Molemminpuolinen munuaisenpoisto koodataan KAC00 + ZXA10 tai tähystyksessä KAC01 + ZXA10
+#OHJE_R 
+OBS! Bilateral nefrektomi koderas KAC00 + ZXA10 eller som endoskopisk KAC01 + ZXA10
+###
+#KOODI      KAS97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munuaisensiirtoon liittyvä leikkaus tähystäen iholta
+#RUOTSI     Annan perkutan endoskopisk operation i samband med njurtransplantation
+#LYHENNE    Muu munuaisensiirton liittyvä tmp LAP
+###
+#KOODI      KAT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7119      
+#SUOMI      Munuaiskivien kehonulkoinen murskaus, ESWL
+#RUOTSI     Extrakorporeal stötvågslitotripsi av njurkonkrement, ESWL
+#LYHENNE    Munuaiskivien murskaus,ESWL
+###
+#KOODI      KAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7119      
+#SUOMI      Muu munuaisen leikkaus
+#RUOTSI     Annan öppen operation på njure eller njurbäcken
+#LYHENNE    Muu munuaisen leikkaus
+###
+#KOODI      KAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munuaisen leikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk operation på njure eller njurbäcken
+#LYHENNE    Muu munuaisen leikkaus LAP
+###
+#KOODI      KAW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu munuaisen leikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk operation på njure
+#LYHENNE    Muu munuaisen leikkaus,virtsatietähystys
+###
+#KOODI_R    KB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsanjohtimet
+#RUOTSI     Uretärer
+#ENGL       Ureter
+###
+#KOODI      KB1AF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden suppea magneettitutkimus keskikenttälaitteella
+#RUOTSI     Urinvägar, begränsad MR med mellanfältsmagnet
+#LYHENNE    Virtsatie supp.KKMT
+#OHJE_S  
+Esim. urografiaa korvaava tutkimus
+#OHJE_R 
+T.ex. undersökning i stället för urografi
+###
+#KOODI      KB1AG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden suppea magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Urinvägar, begränsad MR med högfältsmagnet
+#LYHENNE    Virtsatie,supp.VKMT
+#OHJE_S  
+Esim. urografiaa korvaava tutkimus
+#OHJE_R 
+T.ex. undersökning i stället för urografi
+###
+#KOODI      KB1BF 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden magneettitutkimus keskikenttälaitteella
+#RUOTSI     Urinvägar, MR med mellanfältsmagnet
+#LYHENNE    Virtsateiden magneettitutkimus keskikent
+###
+#KOODI      KB1BG 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Urinvägar, MR med högfältsmagnet
+#LYHENNE    Virtsateiden magneettitutkimus vahvakent
+###
+#KOODI      KB1CF 
+#MUUT_PVM   2002/11/22
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Urinvägar, omfattande MR med mellanfältsmagnet
+#LYHENNE    Virtsateiden laaja KKMT
+###
+#KOODI      KB1CG 
+#MUUT_PVM   2002/11/22
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Urinvägar, omfattande MR med högfältsmagnet
+#LYHENNE    Virtsateiden laaja VKMT
+###
+#KOODI      KB1EE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6142      
+#SUOMI      Virtsarakon takaisinvirtauksen tutkiminen UÄ:llä
+#RUOTSI     Urinreflux undersökning med UL
+#LYHENNE    Vesikoureter.refl.UÄ
+#OHJE_S  
+Vesikoureterisen refluksin tutkimus
+#OHJE_R 
+Udersökning för vesikouretral reflux
+###
+#KOODI      KB1FN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsan refluksin gammakuvaus, radiolääke virtsakatetrin kautta
+#RUOTSI     Vesiko-ureteral reflux, gammaskintigrafi efter urinblåsekateterisering
+#LYHENNE    Virtsan refl gammakuv, virtsakat
+###
+#KOODI      KB2FN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsan refluksin gammakuvaus virtsaan erittyvällä radiolääkkeellä
+#RUOTSI     Vesiko-ureteral reflux, gammaskintigrafi med urin utsöndrad spårämne
+#LYHENNE    Virtsan refl gammakuv, virtsaan erit rad
+###
+#KOODI      KBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Virtsanjohtimen tutkimusleikkaus
+#RUOTSI     Exploration av uretär
+#LYHENNE    Virtsanjohtimen tutkimusleikkaus
+###
+#KOODI      KBA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1460      
+#SUOMI      Virtsanjohtimen tutkiminen nefroskopiateitse
+#RUOTSI     Perkutan nefroureteroskopi
+#LYHENNE    Virtsanjohdineksploratio,nefroskopia/LAP
+###
+#KOODI      KBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7172      
+#SUOMI      Virtsanjohtimen aukaisu tutkimustarkoituksessa
+#RUOTSI     Öppen explorativ ureterotomi
+#LYHENNE    Virtsanjohtimen tutkimusaukaisu
+###
+#KOODI      KBA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Virtsanjohtimen aukaisu tutkimustarkoituksessa tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk explorativ ureterotomi
+#LYHENNE    Virtsanjohtimen tutkimusaukaisu LAP
+###
+#KOODI      KBA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Muu virtsanjohtimen tutkimusleikkaus
+#RUOTSI     Annan öppen exploration eller incision av uretär
+#LYHENNE    Muu virtsanjohtimen tutkimusleikkaus
+###
+#KOODI      KBA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Muu virtsanjohtimen tutkimusleikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk eller endoskopisk exploration eller incision av uretär
+#LYHENNE    Muu virtsanjohtimen tutkimusleikkaus LAP
+###
+#KOODI      KBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Koepalan otto virtsanjohtimesta
+#RUOTSI     Öppen biopsi av uretär
+#LYHENNE    Koepalan otto virtsanjohtimesta
+###
+#KOODI      KBB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Koepalan otto virtsanjohtimesta nefroskopiateitse
+#RUOTSI     Perkutan endoskopisk biopsi av uretär
+#LYHENNE    Koepala virtsanjohtimesta nefroskopi/LAP
+###
+#KOODI      KBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7199      
+#SUOMI      Virtsanjohtimen poisto
+#RUOTSI     Öppen total ureterektomi
+#LYHENNE    Virtsanjohtimen poisto
+###
+#KOODI      KBC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohtimen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk ureterektomi
+#LYHENNE    Virtsanjohtimen poisto LAP
+###
+#KOODI_A    KB_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsajohtimien diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi på uretär
+#ENGL       Diagnostic radiology of ureter
+###
+#KOODI      KBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7182      
+#SUOMI      Virtsanjohtimen osittainen poisto
+#RUOTSI     Öppen delresektion av uretär
+#LYHENNE    Virtsanjohtimen osittainen poisto
+###
+#KOODI      KBD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohtimen osittainen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk resektion av uretär
+#LYHENNE    Virtsanjohtimen resektio LAP
+###
+#KOODI      KBD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7172      
+#SUOMI      Virtsanjohtimen kasvaimen poltto tai laser
+#RUOTSI     Destruktion av uretärtumör (termokauterisering/laser)
+#LYHENNE    Virtsanjohtimen kasvaimen poltto/laser
+###
+#KOODI      KBD21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1460      
+#SUOMI      Virtsanjohtimen kasvaimen poltto tai laser tähystyksessä iholta
+#RUOTSI     Perkutan nefroureteroskopisk destruktion av uretärtumör
+#LYHENNE    Virtsanjohtimen kasvaimen poltto nefrosk
+###
+#KOODI      KBD22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Virtsanjohtimen kasvaimen poltto tai laser virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk destruktion av uretärtumör
+#LYHENNE    Virtsanjohdinkasvainpoltto/laser endosko
+###
+#KOODI      KBD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7174      
+#SUOMI      Virtsanjohtimen tyngän poisto
+#RUOTSI     Avlägsnande av uretärstump (öppen operation)
+#LYHENNE    Virtsanjohtimen tyngän poisto
+###
+#KOODI      KBD31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohtimen tyngän poisto tähystyksessä iholta
+#RUOTSI     Perkutant endoskopiskt avlägsnande av uretärstump
+#LYHENNE    Virtsanjohtimen tyngän poisto LAP
+###
+#KOODI      KBD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7182      
+#SUOMI      Muu virtsanjohtimen osan poisto
+#RUOTSI     Annan öppen resektion av uretär
+#LYHENNE    Muu virtsanjohtimen osan poisto
+###
+#KOODI      KBD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu virtsanjohtimen osan tai muutoksen poisto tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk resektion av uretär
+#LYHENNE    Muu virtsanjohdinosa/muutospoisto LAP
+###
+#KOODI_A    KB_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsajohtimien tähystykset
+#RUOTSI     Endoskopi av uretärer
+#ENGL       Endoscopy of ureter
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      KBE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7172      
+#SUOMI      Virtsanjohdinkiven poisto
+#RUOTSI     Öppen ureterolitotomi
+#LYHENNE    Virtsanjohdinkiven poisto
+###
+#KOODI      KBE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1460      
+#SUOMI      Virtsanjohdinkiven poisto nefroskopiassa
+#RUOTSI     Perkutan endoskopisk ureterolitotomi
+#LYHENNE    Virtsanjohdinkiven poisto nefroskopiassa
+###
+#KOODI      KBE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Virtsanjohdinkiven poisto virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk extraktion av uretärkonkrement
+#LYHENNE    Virtsanjohdinkiven poisto virtsatietähys
+#OHJE_S  
+Sisältää virtsajohdinkiven murskauksen laserilla, ultraäänellä tai elektrohydraulisesti tähystyksessä
+#OHJE_R 
+Innefattar ned brytning av sten i uretärer med laser, ultraljud eller elektrohydrauliskt i endoskopi
+###
+#KOODI      KBE22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Kiilautuneen virtsajohdinkiven irroittaminen ja siirtäminen virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk mobilisering och luxering av inkilad uretärsten
+#LYHENNE    Kiilautuneen ureterkiven irrotus tähysty
+#OHJE_S  
+Sisältää virtsajohdinkiven murskauksen laserilla, ultraäänellä tai elektrohydraulisesti tähystyksessä sekä virtsajohdinkiven repostion.
+#OHJE_R 
+Inkl transluminal litotripsi med laser, ultraljud och elektrohydraulisk metod samt repostion av uretärsten.
+###
+#KOODI      KBE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Muu virtsanjohdinkiven poisto, avoimet
+#RUOTSI     Annan öppen operation för uretärsten
+#LYHENNE    Muu virtsanjohdinkiven poisto, avoimet
+###
+#KOODI      KBE97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu virtsanjohdinkiven poisto tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk operation för uretärsten
+#LYHENNE    Muu virtsanjohdinkiven poisto LAP
+###
+#KOODI      KBE98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu virtsanjohdinkiven poisto virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk operation för uretärsten
+#LYHENNE    Muu virtsanjohdinkiven poisto tähystykse
+###
+#KOODI_A    KB_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut virtsajohtimien diagnostiset toimenpiteet
+#RUOTSI     Andra diagnositska åtgärder på uretärer
+#ENGL       Muut virtsajohtimien diagnostiset toimenpiteet
+###
+#KOODI      KBF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7172      
+#SUOMI      Virtsanjohtimen vierasesineen poisto
+#RUOTSI     Avlägsnande av främmande kropp från uretär (öppen operation)
+#LYHENNE    Virtsanjohtimen vierasesineen poisto
+###
+#KOODI      KBF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1460      
+#SUOMI      Virtsanjohtimen vierasesineen poisto tähystyksessä iholta
+#RUOTSI     Perkutant endoskopiskt avlägsnande av främmande kropp från uretär
+#LYHENNE    Uretervierasesinepoisto nefroskopia/LAP
+###
+#KOODI      KBF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Virtsanjohtimen vierasesineen poisto virtsatietähystyksessä
+#RUOTSI     Transluminalt endoskopiskt avlägsnande av främmande kropp från uretär
+#LYHENNE    uretervierasesinepoisto ureteroskopiassa
+###
+#KOODI      KBH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7181      
+#SUOMI      Virtsanjohtimen ompelu
+#RUOTSI     Öppen sutur av uretär
+#LYHENNE    Virtsanjohtimen ompelu
+###
+#KOODI      KBH01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohtimen ompelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk sutur av uretär
+#LYHENNE    Virtsanjohtimen ompelu LAP
+###
+#KOODI      KBH06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7182      
+#SUOMI      Virtsanjohtimen  päiden yhdistäminen
+#RUOTSI     Uretero-ureterostomi
+#LYHENNE    Virtsanjohtimen  päiden yhdistäminen
+#OHJE_S  
+
+#OHJE_R 
+Hopfogning av strukturer i samma kroppshalva
+###
+#KOODI      KBH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7184      
+#SUOMI      Virtsanjohtimien yhdistäminen keskenään
+#RUOTSI     Uretero-uretorstomi
+#LYHENNE    Virtsanjohtimien yhdistäminen keskenään
+#OHJE_S  
+ Trans-uretero-ureterostomia
+ Virtsatiediversion purku KBH10+ZSK00 tai KBH20+ZSK00
+#OHJE_R 
+Hopfogning av båda kroppshalvornas uretärer med varandra
+Rekonstruktion efter diversion KBH10+ZSK00 eller KBH20+ZSK00
+###
+#KOODI      KBH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7188      
+#SUOMI      Virtsanjohtimen istuttaminen virtsarakkoon
+#RUOTSI     Ureteroneocystostomi
+#LYHENNE    Ureteroneokystostomia
+#OHJE_S  
+Ureteroneokystostomia
+Glenn-Anderson, Politano-Leadbetter yms.
+Sisältää rakkokiilan tai psoas kalvon käytön
+Virtsaputken kavennus ja uudelleen istuttaminen rakkoon KBH20+KBH40
+Virtsatiediversion purku KBH10+ZSK00 tai KBH20+ZSK00
+#OHJE_R 
+Öppen reimplantation av uretär i urinblåsa
+Glenn-Anderson, Politano-Leadbetter mm.
+Inkl användande av blåslambå eller psoas hitch
+Förminskning av uretär och reimplantation i  urinblåsa koderas KBH20+KBH40
+Rekonstruktion efter diversion KBH10+ZSK00 eller KBH20+ZSK00
+###
+#KOODI      KBH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohtimen istuttaminen virtsarakkoon tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk ureteroneocystostomi
+#LYHENNE    Ureteroneokystostomia LAP
+###
+#KOODI      KBH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7199      
+#SUOMI      Virtsanjohtimen korvaaminen ohutsuolen avulla
+#RUOTSI     Ureteroenteroureterostomi
+#LYHENNE    Ureteroenteroureterostomia
+###
+#KOODI      KBH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7186      
+#SUOMI      Virtsanjohtimen muovaus
+#RUOTSI     Uretärplastik
+#LYHENNE    Virtsanjohtimen muovaus
+#OHJE_S  
+Virtsaputken kavennus ja uudelleen istuttaminen rakkoon KBH20+KBH40
+#OHJE_R 
+Förminskning av uretär och reimplantation i  urinblåsa koderas KBH20+KBH40
+###
+#KOODI      KBH45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Virtsanjohtimen halkaisu sisältä virtsatietähystyksessä
+#RUOTSI     Endoureterotomi
+#LYHENNE    Endoureterotomia tähystyksessä
+###
+#KOODI      KBH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7173      
+#SUOMI      Virtsanjohtimen kiinnikkeiden irrottelu
+#RUOTSI     Ureterolys (öppen operation)
+#LYHENNE    Virtsanjohtimen kiinnikkeiden irrottelu
+#OHJE_S  
+Esim retroperitoneaalifibroosin  yhteydessä
+#OHJE_R 
+T.ex. vid retroperitoneal fibros
+###
+#KOODI      KBH51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohtimen kiinnikkeiden irrottelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk ureterolys
+#LYHENNE    Virtsanjohdinkiinnikkeiden irrottelu LAP
+###
+#KOODI      KBH62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Virtsanjohtimen laajentaminen virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk dilatation av uretär
+#LYHENNE    Virtsanjohtimen laajennus tähystyksessä
+###
+#KOODI      KBH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7199      
+#SUOMI      Muu virtsanjohtimen korjaamisleikkaus
+#RUOTSI     Annan öppen rekonstruktion av uretär
+#LYHENNE    Muu virtsanjohtimen korjaamisleikkaus
+###
+#KOODI      KBH97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu virtsanjohtimen korjaamisleikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk rekonstruktion av uretär
+#LYHENNE    Muu virtsanjohtimen korjausleikkaus LAP
+###
+#KOODI      KBH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu virtsanjohtimen korjaamisleikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk rekonstruktion av uretär
+#LYHENNE    Muu virtsanjohdinkorjausleikkaus endosko
+###
+#KOODI      KBJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7201      
+#SUOMI      Virtsanjohdinavanteen teko
+#RUOTSI     Kutan ureterostomi (öppen operation)
+#LYHENNE    Virtsanjohdinavanteen teko
+###
+#KOODI      KBJ01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohdinavanteen teko tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk ureterostomi
+#LYHENNE    Ureterokutaneostomia LAP
+###
+#KOODI      KBJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7202      
+#SUOMI      Virtsanjohtimien kanavointi iholle suolen avulla
+#RUOTSI     Kutan ureteroenterostomi
+#LYHENNE    Ureteroenterokutaneostomia
+#OHJE_S  
+Sisältää sekä koolonin että ileumin käytön johtimena
+#OHJE_R 
+Innefatta användning av både kolon och ileum som konduit
+###
+#KOODI      KBJ20 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7209      
+#SUOMI      Virtsajohtimen ihoavanne ja pidätyskykyisen virtsarakon korvikkeen teko suolesta
+#RUOTSI     Kutan ureteroileostomi med kontinent reservoar från tarm
+#LYHENNE    Pidätyskykyinen rakon korvike,ihoavanne
+###
+#KOODI      KBJ40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7204      
+#SUOMI      Virtsajohtimen yhdistäminen sigmasuoleen
+#RUOTSI     Ureterosigmoideostomi enterostomi
+#LYHENNE    Virtsajohtimen yhdistäminen sigmasuoleen
+#OHJE_S  
+Coffey
+#OHJE_R 
+---
+###
+#KOODI      KBJ60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7343      
+#SUOMI      Virtsaputken yhdistäminen virtsarakon suolikorvikkeeseen
+#RUOTSI     Ureteroenterouretrostomi (blåssubstitut av tarm)
+#LYHENNE    Ureteroenterourethrostomia
+###
+#KOODI      KBJ70 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7327+     
+#SUOMI      Kiven poisto virtsarakon korvikkeesta
+#RUOTSI     Öppen extraktion av konkrement från conduit eller reservoar
+#LYHENNE    Kiven poisto virtsarakon korvikkeesta
+###
+#KOODI      KBJ72 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7327+     
+#SUOMI      Kiven poisto virtsarakon korvikkeesta virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk extraktion av konkrement från conduit eller reservoar
+#LYHENNE    Kiven poisto rakon korvikkeesta endoskop
+###
+#KOODI      KBJ80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7229      
+#SUOMI      Virtsajohdinavanteen tai virtsarakon korvikkeen toimintaa korjaava leikkaus
+#RUOTSI     Operation för malfunktion i urinavledningssystem
+#LYHENNE    Virtsarakon korvikkeen korjaava leikkaus
+###
+#KOODI      KBJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7209      
+#SUOMI      Muu virtsan ulosjohtaminen virtsanjohtimien tasolta
+#RUOTSI     Annan urinavledning på uretärnivå (öppen operation)
+#LYHENNE    Muu virtsadiversio virtsanjohdintasolta
+###
+#KOODI      KBJ97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu virtsan ulosjohtaminen virtsanjohtimien tasolta tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk urinavledande uretäroperation
+#LYHENNE    Muu virtsadiversio virtsanjohdintaso LAP
+###
+#KOODI      KBJ98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu virtsan ulosjohtaminen virtsanjohtimien tasolta virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk urinavledande uretäroperation
+#LYHENNE    Muu virtsadiversio uretertaso,endoskopia
+###
+#KOODI      KBT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Virtsanjohdinkiven kehonulkoinen murskaus, ESWL
+#RUOTSI     Extrakorporeal stötvågslitotripsi av uretärkonkrement (ESVL)
+#LYHENNE    Virtsanjohdinkiven murskaus,ESWL
+###
+#KOODI      KBV00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Virtsanjohdinstentin asettaminen
+#RUOTSI     Inläggande av uretärstent (öppen operation)
+#LYHENNE    Virtsanjohdinstentin asettaminen
+###
+#KOODI      KBV01 
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohdinstentin asettaminen tähystyksessä iholta
+#RUOTSI     Nefroskopiskt inläggande av uretärstent
+#LYHENNE    Virtsanjohdinstentin asettaminen nefrosk
+###
+#KOODI      KBV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1530      
+#SUOMI      Virtsanjohdinstentin asettaminen virtsatietähystyksessä
+#RUOTSI     Cystoskopiskt inläggande av uretärstent
+#LYHENNE    Virtsanjohdinstentin asetus endoskopia
+###
+#KOODI      KBV04 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohdinstentin asettaminen vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk applikation av uretärstent
+#LYHENNE    Virtsanjohdinstentin asetus LAP
+###
+#KOODI      KBV10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Virtsanjohdinstentin poistaminen
+#RUOTSI     Avlägsnande av uretärstent
+#LYHENNE    Virtsanjohdinstentin poistaminen
+###
+#KOODI      KBV11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Virtsanjohdinstentin poistaminen nefroskopiateitse
+#RUOTSI     Nefroskopiskt avlägsnande av uretärstent
+#LYHENNE    Virtsanjohdinstentin poisto nefroskopias
+###
+#KOODI      KBV12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1530      
+#SUOMI      Virtsanjohdinstentin poistaminen virtsatietähystyksessä
+#RUOTSI     Transluminalt endoskopiskt avlägsnande av uretärstent
+#LYHENNE    Virtsanjohdinstentin poisto endoskopiass
+###
+#KOODI      KBV22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7212      
+#SUOMI      Virtsanjohtimen suun laajentaminen virtsatietähystyksessä
+#RUOTSI     Cystoskopisk dilatation av uretärostium
+#LYHENNE    Virtsanjohtimen suun dilataatio,endoskop
+###
+#KOODI      KBV32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7212      
+#SUOMI      Virtsanjohtimen suun aukaisu virtsatietähystyksessä
+#RUOTSI     Cystoskopisk incision av uretärostium
+#LYHENNE    Virtsanjohtimen suun insisio,endoskopia
+###
+#KOODI      KBV40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7211      
+#SUOMI      Virtsajohtimen laajentuman aukaisu tai poisto
+#RUOTSI     Incision eller excision av ureterocele (öppen operation)
+#LYHENNE    Ureteroseelen aukaisu tai poisto
+###
+#KOODI      KBV42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7211      
+#SUOMI      Virtsajohtimen laajentuman aukaisu tai poisto virtsatietähystyksessä
+#RUOTSI     Cystoskopisk incision eller excision av ureterocele
+#LYHENNE    Ureteroseelen aukaisu/poisto,endoskopia
+###
+#KOODI      KBV52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7219      
+#SUOMI      Vieraan aineen ruiskuttaminen virtsajohtimen suulle refluksin vuoksi
+#RUOTSI     Cystoskopisk injektionsterapi för versikoureteral reflux
+#LYHENNE    Vierasaineruiske ureteraukkoon,refluksi
+###
+#KOODI      KBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7179      
+#SUOMI      Muu virtsanjohtimen leikkaus
+#RUOTSI     Annan öppen operation på uretär
+#LYHENNE    Muu virtsanjohtimen leikkaus
+###
+#KOODI      KBW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu virtsanjohtimen leikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk operation på uretär
+#LYHENNE    Muu virtsanjohtimen leikkaus LAP
+###
+#KOODI      KBW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1520      
+#SUOMI      Muu virtsanjohtimen leikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk operation på uretär
+#LYHENNE    Muu virtsanjohtimen leikkaus,endoskopia
+###
+#KOODI_R    KC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsarakko
+#RUOTSI     Urinblåsa
+#ENGL       Bladder
+###
+#KOODI      KC001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito virtsarakon ja virtsaputken primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i urinblåsan
+#LYHENNE    Sädeh virtsarak prim. kasv preop hoitona
+###
+#KOODI      KC002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali virtsarakon ja virtsaputken primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i urinblåsan
+#LYHENNE    Radik virtsarak prim. kasv sädehoito
+###
+#KOODI      KC003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito virtsarakon ja virtsaputken primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i urinblåsan
+#LYHENNE    Sädeh virtsarak prim. kasv liit.hoiton
+###
+#KOODI      KC004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito virtsarakon ja virtsaputken primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i urinblåsan
+#LYHENNE    Sädeh virtsarak prim. kasv palliat hoito
+###
+#KOODI      KC029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito virtsarakon ja virtsaputken paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i urinblåsan
+#LYHENNE    Sädeh virtsarak paik uus kasv hoitona
+###
+#KOODI      KC049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito virtsarakossa tai virtsaputkessa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i urinblåsan
+#LYHENNE    Sädeh virtsarak metastaasin hoitona
+###
+#KOODI      KC090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito virtsarakon ja virtsaputken profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av urinblåsan
+#LYHENNE    Sädeh virtsarak prim. kasv profyl hoiton
+###
+#KOODI      KC099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu virtsarakon sädehoito
+#RUOTSI     Annan strålbehandling av urinblåsan
+#LYHENNE    Muu virtsarakon sädehoito
+###
+#KOODI      KC1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6136      
+#SUOMI      Virtsarakon UÄ iholta
+#RUOTSI     Urinblåsa, perkutan UL
+#LYHENNE    V-rakko UÄ,perkut
+###
+#KOODI      KC1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Virtsarakkopunktio UÄ-ohjauksessa
+#RUOTSI     Urinblåsa, UL-styrd punktion
+#LYHENNE    V-rakkopunktio UÄ-oh
+###
+#KOODI      KC1BE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6137      
+#SUOMI      Virtsarakon UÄ peräsuolen kautta
+#RUOTSI     Urinblåsa, transrektal UL
+#LYHENNE    V-rakko UÄ,transrekt
+###
+#KOODI      KC1CE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6138      
+#SUOMI      Virtsarakon UÄ virtsaputken kautta
+#RUOTSI     Urinblåsa, transuretral UL
+#LYHENNE    V-rakko UÄ,transuret
+###
+#KOODI      KC1EE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6140      
+#SUOMI      Jäännösvirtsan määritys UÄ:llä *
+#RUOTSI     Residualurinets mätning med UL *
+#LYHENNE    Jäännösvirtsan UÄ
+###
+#KOODI      KC1GB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5631      
+#SUOMI      Virtsarakon varjoainetutkimus (kystografia)
+#RUOTSI     Cystografi
+#LYHENNE    Kystografia
+###
+#KOODI      KC1JB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5633      
+#SUOMI      Virtsarakon toiminnan varjoainetutkimus (miktiokystografia)
+#RUOTSI     Miktionscystografi
+#LYHENNE    Miktiokystografia
+###
+#KOODI      KC2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Virtsarakon kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Urinblåsa, UL-styrd vävnadsbiopsi
+#LYHENNE    V-rakko,kudosn,UÄ-oh
+###
+#KOODI      KC3AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Virtsarakon solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Urinblåsa, UL-styrd finnålsbiopsi
+#LYHENNE    V-rakko,solun,UÄ-ohj
+###
+#KOODI      KCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7302      
+#SUOMI      Virtsarakon aukaisu tutkimustarkoituksessa
+#RUOTSI     Öppen explorativ cystotomi
+#LYHENNE    Virtsarakon eksploraatio
+###
+#KOODI      KCA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Virtsarakon tutkiminen tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk explorativ cystotomi
+#LYHENNE    Virtsarakon tutkiminen LAP
+###
+#KOODI      KCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7304      
+#SUOMI      Koepalan otto virtsarakosta
+#RUOTSI     Öppen biopsi av urinblåsan
+#LYHENNE    Koepalan otto virtsarakosta
+#OHJE_S  
+Koepalan otto virtsarakontähystyksessä kohdassa UKC02
+#OHJE_R 
+Cystoskopisk biopsi av urinblåsan, se UKC05
+###
+#KOODI      KCB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Koepalan otto virtsarakosta tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk biopsi av urinblåsan
+#LYHENNE    Biopsia virtsarakosta LAP
+###
+#KOODI      KCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7342+     
+#SUOMI      Virtsarakon poisto
+#RUOTSI     Cystektomi
+#LYHENNE    Virtsarakon poisto
+###
+#KOODI      KCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7349+     
+#SUOMI      Virtsarakon, eturauhasen ja rakkularauhasten poisto
+#RUOTSI     Cystoprostatovesikulektomi
+#LYHENNE    Virtsarakko/eturauhas/rakkularauhaspoist
+###
+#KOODI      KCC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7349+     
+#SUOMI      Virtsarakon, eturauhasen, rakkularauhasten ja virtsaputken poisto
+#RUOTSI     Cystoprostatovesikulouretrektomi
+#LYHENNE    Virtsarakko/eturauhas/virtsaputkipoisto
+###
+#KOODI      KCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7349+     
+#SUOMI      Virtsarakon ja sukupuolielinten poisto naiselta
+#RUOTSI     Cystouretrektomi med exstirpation av inre genitalia hos kvinna
+#LYHENNE    Virtsarakko/sukupuolielinpoisto naiselta
+###
+#KOODI      KCC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7349+     
+#SUOMI      Muu virtsarakon poisto
+#RUOTSI     Annan cystektomi
+#LYHENNE    Muu virtsarakon poisto
+###
+#KOODI_A    KC_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsarakon diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av urinblåsan
+#ENGL       Diagnostic radiology of bladder
+###
+#KOODI      KCD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7323      
+#SUOMI      Virtsarakon muutoksen poisto virtsatietähystyksessä, TURB
+#RUOTSI     Transuretral delresektion av urinblåsan, TUR-B
+#LYHENNE    Virtsarakon resektio tähystyksessä,TURB
+###
+#KOODI      KCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7307      
+#SUOMI      Virtsarakon osittainen poisto
+#RUOTSI     Resektion av urinblåsan
+#LYHENNE    Virtsarakon osittainen poisto
+###
+#KOODI      KCD11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakon osittainen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk delresektion av urinblåsan
+#LYHENNE    Virtsarakon osittainen poisto LAP
+###
+#KOODI      KCD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7311      
+#SUOMI      Virtsarakon umpipussin poisto
+#RUOTSI     Resektion av blåsdivertikel (öppen operation)
+#LYHENNE    Virtsarakon umpipussin poisto
+###
+#KOODI      KCD21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakon umpipussin poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk resektion av blåsdivertikel
+#LYHENNE    Virtsarakon divertikkelin  poisto LAP
+###
+#KOODI      KCD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7305      
+#SUOMI      Virtsarakon kasvaimen poltto tai laser
+#RUOTSI     Destruktion av tumör i urinblåsan (termokoagulation, laser) (öppen operation)
+#LYHENNE    Virtsarakon kasvaimen poltto tai laser
+###
+#KOODI      KCD32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7321      
+#SUOMI      Virtsarakon kasvaimen poltto tai laser virtsatietähystyksessä
+#RUOTSI     Cystoskopisk destruktion av tumör i urinblåsan
+#LYHENNE    Virtsaputkikasvainpoltto/laser endoskopi
+###
+#KOODI      KCD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7311      
+#SUOMI      Urachus -jäänteen poisto
+#RUOTSI     Exstirpation av urachusrest
+#LYHENNE    Urachus -jäänteen poisto
+#OHJE_S  
+Sisältää urachuskystan ja -fistelin
+#OHJE_R 
+Inkl urachuscysta och urachusfistel
+###
+#KOODI      KCD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7307      
+#SUOMI      Muu virtsarakon osan tai muutoksen poistoleikkaus
+#RUOTSI     Annan öppen resektion av urinblåsan
+#LYHENNE    Muu virtsarakon osan/muutoksen poisto
+###
+#KOODI      KCD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu virtsarakon osan tai muutoksen poisto tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk resektion av urinblåsan
+#LYHENNE    Muu virtsarakon osa-/muutospoisto LAP
+###
+#KOODI      KCD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7339      
+#SUOMI      Muu virtsarakon osan tai muutoksen poisto virtsatietähystyksessä
+#RUOTSI     Annan cystoskopisk resektion av urinblåsan
+#LYHENNE    Muu virtsarakon osa-/muutospoisto,endosk
+###
+#KOODI_A    KC_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsarakon tähystykset
+#RUOTSI     Endoskopi av urinblåsan
+#ENGL       Endoscopy of bladder
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      KCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7304      
+#SUOMI      Virtsarakkokiven poisto
+#RUOTSI     Cystolitotomi (öppen opereation)
+#LYHENNE    Virtsarakkokiven poisto
+###
+#KOODI      KCE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549+     
+#SUOMI      Virtsarakkokiven poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk extraktion av blåskonkrement
+#LYHENNE    Virtsarakkokiven poisto LAP
+###
+#KOODI      KCE02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7327      
+#SUOMI      Virtsarakkokiven poisto virtsatietähystyksessä
+#RUOTSI     Transluminal endoskopisk extraktion av blåskonkrement
+#LYHENNE    Virtsarakkokiven poisto virtsatietähysty
+###
+#KOODI_A    KC_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsarakon diagnostiset toimenpiteet
+#RUOTSI     Andra diagnostiska åtgärder på urinblåsan
+#ENGL       Physiologic diagnostic procedures of bladder
+###
+#KOODI      KCF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7304      
+#SUOMI      Virtsarakon vierasesineen poisto
+#RUOTSI     Cystotomi och avlägsnande av främmande kropp (öppen operation)
+#LYHENNE    Virtsarakon vierasesineen poisto
+###
+#KOODI      KCF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakon vierasesineen poisto tähystyksessä iholta
+#RUOTSI     Perkutant endoskopiskt avlägsnande av främmande kropp från urinblåsan
+#LYHENNE    Virtsarakon vierasesinepoisto  LAP
+###
+#KOODI      KCF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7328      
+#SUOMI      Virtsarakon vierasesineen poisto virtsatietähystyksessä
+#RUOTSI     Transluminalt endoskopiskt avlägsnande av främmande kropp från urinblåsan
+#LYHENNE    Virtsarakon vierasesinepoisto endosko
+###
+#KOODI      KCH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7303      
+#SUOMI      Virtsarakon ompelu
+#RUOTSI     Öppen sutur av urinblåsan
+#LYHENNE    Virtsarakon ompelu
+###
+#KOODI      KCH01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakon ompelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk sutur av urinblåsan
+#LYHENNE    Virtsarakon ompelu tähystyksessä iholta
+###
+#KOODI      KCH02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7229+     
+#SUOMI      Virtsarakon ompelu virtsatietähystyksessä
+#RUOTSI     Cystoskopisk sutur av urinblåsan
+#LYHENNE    Virtsarakon ompelu virtsatietähystyksess
+###
+#KOODI      KCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7354      
+#SUOMI      Virtsarakon muovaus suolen avulla
+#RUOTSI     Entero/kolocystoplastik (öppen operation)
+#LYHENNE    Virtsarakon muovaus suolen avulla
+###
+#KOODI      KCH11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakon muovaus suolen avulla tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk entero/kolocystoplastik
+#LYHENNE    Entero/kolokystoplastia LAP
+###
+#KOODI      KCH15 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsarakon muovaus suolen avulla ja pidätyskykyisen avanteen teko
+#RUOTSI     Entero/kolocystoplastik med konstruktion av kontinent öppning
+#LYHENNE    Enterokystoplastia & kontinentti avanne
+###
+#KOODI      KCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Rakon pienennys
+#RUOTSI     Öppen reduktionsplastik av urinblåsan
+#LYHENNE    Rakon pienennys
+###
+#KOODI      KCH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Rakon pienennys tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk reduktionsplastik av urinblåsan
+#LYHENNE    Rakon pienennys tähystyksessä iholta
+###
+#KOODI      KCH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7352      
+#SUOMI      Suolen ja virtsarakon välisen avanteen sulku
+#RUOTSI     Förslutning av vesikointestinal fistel
+#LYHENNE    Suoli-virtsarakkoavanteen sulku
+#OHJE_S  
+Rakon ja vaginan välisen fistelin sulku kohdassa LEE
+#OHJE_R 
+Förslutning av vesikovaginal fistel, se LEE
+###
+#KOODI      KCH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7306      
+#SUOMI      Rakon kaulan halkaisu tai poisto
+#RUOTSI     Insicion eller resektion av blåshalsen (öppen operation)
+#LYHENNE    Rakon kaulan halkaisu tai poisto
+###
+#KOODI      KCH42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7322      
+#SUOMI      Rakon kaulan halkaisu tai resektio virtsatietähystyksessä
+#RUOTSI     Transuretral incision eller resektion av blåshalsen
+#LYHENNE    Rakon kaulan halkaisu tai resektio endos
+###
+#KOODI      KCH60 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsarakon sulkeminen ja muovaus uloskääntyneen virtsarakon korjaamiseksi
+#RUOTSI     Plastisk rekonstruktion av urinblåsan vid blåsexstrofi
+#LYHENNE    Rakkoekstrofian korjaus
+#OHJE_S  
+Rakkoekstrofian korjaus
+#OHJE_R 
+Rekonstruktion för  blåsekstrofi
+###
+#KOODI      KCH62 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsarakon sulkeminen ja muovaus uloskääntyneen viemärisuoliepämuodostuman korjaamiseksi
+#RUOTSI     Plastisk rekonstruktion av urinblåsan vid cloacamissbildning
+#LYHENNE    Cloacaekstrofian korjaus
+#OHJE_S  
+Cloacaekstrofian korjaus
+#OHJE_R 
+Rekonstruktion för kloakaekstrofi
+###
+#KOODI      KCH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Muu virtsarakon korjausleikkaus
+#RUOTSI     Annan öppen rekonstruktiv operation på urinblåsan
+#LYHENNE    Muu virtsarakon korjausleikkaus
+###
+#KOODI      KCH97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Muu virtsarakon korjaava leikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk rekonstruktiv operation på urinblåsan
+#LYHENNE    Muu virtsarakon korjaava leikkaus LAP
+###
+#KOODI      KCH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7339      
+#SUOMI      Muu virtsarakon korjaava leikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk rekonstruktiv operation på urinblåsan
+#LYHENNE    Muu virtsarakon korjaava leikkaus endosk
+###
+#KOODI      KCJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7312      
+#SUOMI      Virtsarakkoavanteen teko
+#RUOTSI     Cystostomi
+#LYHENNE    Virtsarakkoavanteen teko
+#OHJE_S  
+Virtsarakkoavanteen sulku TKC40
+#OHJE_R 
+Slutning av vesikotomi, se TKC40
+###
+#KOODI      KCJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Virtsarakkoavanteen teko suolen avulla
+#RUOTSI     Cystoenterokutaneostomi
+#LYHENNE    Virtsarakkoavanteen teko suolen avulla
+###
+#KOODI      KCJ20 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsarakon ihoavanne ja pidätyskykyisen virtsarakon korvikkeen teko suolesta
+#RUOTSI     Kutan cystoileostomi med kontinent reservoar av tarm
+#LYHENNE    Virtsarak. ihoav. ja pidät. rakonkorvik
+###
+#KOODI      KCJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Muu virtsarakkoavanne
+#RUOTSI     Annan urinavledande operation på urinblåsan
+#LYHENNE    Muu virtsarakkoavanne
+###
+#KOODI      KCT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Virtsarakkokivien kehonulkoinen murskaus, ESWL
+#RUOTSI     Krossning av blåskonkrement med extrakorporeal stötvågslitotripsi (ESVL)
+#LYHENNE    Virtsarakkokivien painemurskaus,ESWL
+###
+#KOODI      KCV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7325      
+#SUOMI      Virtsarakon pallolaajennus virtsatietähystyksessä
+#RUOTSI     Cystoskopisk ballongdilatation av urinblåsan
+#LYHENNE    Virtsarakon pallolaajennus virtsatietähy
+###
+#KOODI      KCV04 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7325      
+#SUOMI      Virtsarakon venyttäminen nesteen avulla virtsatietähystyksessä
+#RUOTSI     Hydrostatisk tänjning av urinblåsan vid cystoskopi
+#LYHENNE    Virtsarakon venyttäminen nestellä tähyst
+###
+#KOODI      KCV10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Virtsarakon hermotuksen katkaiseminen
+#RUOTSI     Denervation av urinblåsan (öppen operation)
+#LYHENNE    Virtsarakon hermotuksen katkaiseminen
+###
+#KOODI      KCV11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakon hermotuksen katkaiseminen tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk denervation av urinblåsan
+#LYHENNE    Virtsarakon hermotuksen katkaisu LAP
+###
+#KOODI      KCV20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Virtsarakkokiinnityksen irrottelu
+#RUOTSI     Cystolys (efter cystopexi)
+#LYHENNE    Virtsarakkokiinnityksen irrottelu
+###
+#KOODI      KCV21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsarakkokiinnityksen irrottelu tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk cystolys
+#LYHENNE    Virtsarakkokiinnityksen irrottelu LAP
+###
+#KOODI      KCV22 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verihyytymien poistaminen virtsarakosta virtsateiden tähystyksessä
+#RUOTSI     Transluminal endoskopisk evakuation av blod från urinblåsan
+#LYHENNE    Verihyyt. poist. virtsarak. virtsat.täh.
+###
+#KOODI      KCW02 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7326      
+#SUOMI      Verihyytymän poisto virtsarakosta (lavaatio)
+#RUOTSI     Utspolning av blåskoagel
+#LYHENNE    Verihyytymän lavaatio virtsarakosta
+#OHJE_S  
+Leikkauksen jälkeisen hyytymän poisto KWD00
+#OHJE_R 
+Exkl. utspolning av blåskoagel efter operation KWD00
+###
+#KOODI      KCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7319      
+#SUOMI      Muu virtsarakon toimenpide
+#RUOTSI     Annan öppen operation på urinblåsan
+#LYHENNE    Muu virtsarakon toimenpide
+###
+#KOODI      KCW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Muu virtsarakon toimenpide tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk operation på urinblåsan
+#LYHENNE    Muu virtsarakon toimenpide LAP
+###
+#KOODI      KCW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7339      
+#SUOMI      Muu virtsarakon toimenpide virtsatietähystyksessä
+#RUOTSI     Annan transluminal cystoskopisk operation på urinblåsan
+#LYHENNE    Muu virtsarakon toimenpide virtsatietähy
+###
+#KOODI_R    KD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsaputki
+#RUOTSI     Uretra
+#ENGL       Urethra
+#OHJE_S  
+Virtsaputken tähystys UKD02
+Koepalat virtsaputkesta UKC02, UKD02
+
+#OHJE_R 
+Uretroskopi, se UKD02
+Biopsi, se UKC02 / UKD02
+###
+#KOODI      KD1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6143      
+#SUOMI      Virtsaputken UÄ (uretran UÄ)
+#RUOTSI     Uretra, UL
+#LYHENNE    Uretran UÄ
+###
+#KOODI      KD1GB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5634      
+#SUOMI      Virtsaputken ja -rakon varjoainetutkimus (uretrokystografia)
+#RUOTSI     Uretrocystografi
+#LYHENNE    Uretrokystografia
+###
+#KOODI      KDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7388      
+#SUOMI      Virtsaputken poisto
+#RUOTSI     Uretrektomi
+#LYHENNE    Virtsaputken poisto
+###
+#KOODI_A    KD_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      VIrtsaputken diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av uretra
+#ENGL       Diagnostic radiology of urethra
+###
+#KOODI      KDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7399      
+#SUOMI      Virtsaputken osittainen poisto
+#RUOTSI     Delresektion av uretra
+#LYHENNE    Virtsaputken osittainen poisto
+###
+#KOODI      KDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7387      
+#SUOMI      Virtsaputken umpipussin poisto
+#RUOTSI     Exstirpation av uretradivertikel
+#LYHENNE    Virtsaputken umpipussin poisto
+###
+#KOODI      KDD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7384      
+#SUOMI      Virtsaputken kasvaimen poltto tai laser
+#RUOTSI     Destruktion av lokal förändring i uretra (öppen operation)
+#LYHENNE    Virtsaputken kasvaimen poltto tai laser
+###
+#KOODI      KDD32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7361      
+#SUOMI      Virtsaputken kasvaimen poisto virtsatietähystyksessä
+#RUOTSI     Uretroskopisk destruktion av lokal förändring i uretra (koagulation, laser)
+#LYHENNE    Uretrakasvainpoltto/laser virtsatietähys
+#OHJE_S  
+Poltto tai laserkäsittely ilmaistaan lisäkoodilla ryhmästä ZXC
+#OHJE_R 
+Användning av diatermi eller laser anges med tilläggskod, se ZXC
+###
+#KOODI      KDD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7399      
+#SUOMI      Virtsaputken sulkijan halkaisu
+#RUOTSI     Resektion av externa uretrasfinktern (öppen operation)
+#LYHENNE    Virtsaputken sulkijan halkaisu
+###
+#KOODI      KDD42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7363      
+#SUOMI      Virtsaputken sulkijan halkaisu virtsatietähystyksessä
+#RUOTSI     Uretroskopisk resektion av externa uretrasfinktern
+#LYHENNE    Virtsaputken sulkijan resektio endoskopi
+###
+#KOODI      KDD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7384      
+#SUOMI      Virtsaputken läppien poisto
+#RUOTSI     Öppen resektion av uretravalvler
+#LYHENNE    Virtsaputken läppien poisto
+###
+#KOODI      KDD52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7366      
+#SUOMI      Virtsaputken läppien poisto virtsatietähystyksessä
+#RUOTSI     Endoskopisk resektion av uretravalvler
+#LYHENNE    Virtsaputken läppien poisto virtsatietäh
+###
+#KOODI      KDD80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7399      
+#SUOMI      Virtsaputken osan poisto, korjaus siirteellä tai kielekkeellä
+#RUOTSI     Resektion av uretra med rekonstruktion med lambå eller transplantat
+#LYHENNE    Virtsaputkiresektio,korjaus siirre/kiele
+#OHJE_S  
+Käytetty siirremateriaali ilmaistaan lisäkoodilla ryhmästä ZZ
+#OHJE_R 
+Material av transplantat eller lambå anges med tilläggskod, se ZZ
+###
+#KOODI      KDD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7399      
+#SUOMI      Muu virtsaputken osan ja/tai muutoksen poistoleikkaus
+#RUOTSI     Annan öppen resektion av uretra
+#LYHENNE    Muu virtsaputkiosan/muutoksen poistoleik
+###
+#KOODI      KDD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7379      
+#SUOMI      Muu virtsaputken poistoleikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk resektion av uretra
+#LYHENNE    Muu virtsaputken poistoleikkaus endoskop
+###
+#KOODI_A    KD_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsaputken tähystykset
+#RUOTSI     Endoskopi av uretra
+#ENGL       Endoscopy of urethra
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      KDE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7383      
+#SUOMI      Kiven poisto virtsaputkesta
+#RUOTSI     Uretrolitotomi (öppen operation)
+#LYHENNE    Kiven poisto virtsaputkesta
+###
+#KOODI      KDE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7367      
+#SUOMI      Kiven poisto virtsaputkesta virtsatietähystyksessä
+#RUOTSI     Uretroskopiskt avlägsnande av uretrakonkrement
+#LYHENNE    Kiven poisto virtsaputkesta virtsatietäh
+###
+#KOODI      KDE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7383      
+#SUOMI      Vierasesineen poisto virtsaputkesta
+#RUOTSI     Avlägsnande av främmande kropp från uretra (öppen operation)
+#LYHENNE    Vierasesineen poisto virtsaputkesta
+###
+#KOODI      KDE22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7367      
+#SUOMI      Vierasesineen poisto virtsaputkesta virtsatietähystyksessä
+#RUOTSI     Uretroskopiskt avlägsnande av främmande kropp från uretra
+#LYHENNE    Vierasesinepoisto virtsaputkesta endo
+###
+#KOODI      KDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Virtsaputken kohottaminen emättimen avulla
+#RUOTSI     Uretrovaginal suspension
+#LYHENNE    Virtsaputken kohotus,Marshall-M,Burch
+#OHJE_S  
+Marshall-Marchetti-Krantz
+#OHJE_R 
+---
+###
+#KOODI      KDG01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Virtsaputken kohottaminen emättimen avulla tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk uretrovaginal suspension
+#LYHENNE    Virtsaputken kohotus LAP (Stamey)
+#OHJE_S  
+Pereyra, Raz, Stamey
+#OHJE_R 
+---
+###
+#KOODI      KDG10 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Rakonkaulan ripustus abdominovaginaalisesti
+#RUOTSI     Abdominovaginal suspension av blåshalsen
+#LYHENNE    Rakonkaulan ripustus abdominovaginaalise
+###
+#KOODI      KDG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7434      
+#SUOMI      Emättimen ripustus vatsaontelotietä
+#RUOTSI     Abdominal kolposuspension
+#LYHENNE    Emättimen ripustus vatsaontelotietä
+#OHJE_S  
+Burch
+Emättimen ripustus aiemman kohdunpoiston jälkeen kohdassa katso LEF50
+
+#OHJE_R 
+Kolpopexi för vaginaltoppsprolaps efter tidigare hysterektomi, se LEF50
+###
+#KOODI      KDG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Emättimen ripustus tähystyksessä iholta
+#RUOTSI     Perkutan kolpopexi
+#LYHENNE    Emättimen ripustus tähystyksessä iholta
+#OHJE_S  
+Sisältää emättimen ripustuksen preperitoneaalisesti tai vatsaontelon kautta laparoskooppia käyttäen
+Laparoskooppinen emättimen ripustus aiemman kohdunpoiston jälkeen kohdassa LEF51
+#OHJE_R 
+Inkl preperitoneal och laparoskopisk kolposuspension med laparoskop
+Laparoskopisk kolpopexi för vaginaltoppsprolaps efter tidigare hysterektomi, se LEF51
+###
+#KOODI      KDG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Virtsaputken silmukkakohotus, uretrokystopeksia
+#RUOTSI     Suprapubisk uretrocystopexi med slynga
+#LYHENNE    Silmukkakohotus,uretrokystopeksia
+#OHJE_S  
+"suprapubic sling"
+ "Nilssonin slinga"
+#OHJE_R 
+Nilssons slinga
+###
+#KOODI      KDG31 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Virtsaputken silmukkakohotus, uretrokystopeksia, tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk suprapubisk uretrocystopexi med slynga
+#LYHENNE    Silmukkakohotus,uretrokystopeksia,LAP
+###
+#KOODI      KDG40 
+#MUUT_PVM   1997/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Virtsaputken muu kohottamisleikkaus
+#RUOTSI     Annan öppen suprapubisk uretrocystopexi
+#LYHENNE    Virtsaputken muu kohottamisleikkaus
+#OHJE_S  
+Sisältää ompelun, klipsit ja kudosliiman
+#OHJE_R 
+Inkluderar sutur, klips och vävnadslim
+###
+#KOODI      KDG41 
+#MUUT_PVM   1997/11/14
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaputken muu kohottaminen tähystyksessä
+#RUOTSI     Annan endoskopisk suprapubisk uretrocystopexi
+#LYHENNE    Virtsaputken muu kohottaminen tähystykse
+#OHJE_S  
+Sisältää ompelun, klipsit ja kudosliiman
+#OHJE_R 
+Inkluderar sutur, klips och vävnadslim
+###
+#KOODI      KDG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7434      
+#SUOMI      Vatsan kautta tehty lantionpohjan korjausleikkaus
+#RUOTSI     Transabdominal rekonstruktion av bäckenbotten vid urininkontinens
+#LYHENNE    Vatsan kautta tehty lantionpohjan korjau
+###
+#KOODI      KDG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Muu naisen virtsaputken korjausleikkaus pidätyskyvyn parantamiseksi
+#RUOTSI     Annan öppen operation på uretra eller blåshals vid inkontinens hos kvinna
+#LYHENNE    Muu naisen pidätyskyvyn parantamisleikka
+###
+#KOODI      KDG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Muu naisen virtsaputken korjausleikkaus pidätyskyvyn parantamiseksi tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk operation på uretra eller blåshals vid inkontinens hos kvinna
+#LYHENNE    Muu naisen pidätyskyvyn leikkaus LAP
+###
+#KOODI      KDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7402      
+#SUOMI      Virtsaputken ompelu
+#RUOTSI     Sutur av uretra
+#LYHENNE    Virtsaputken ompelu
+###
+#KOODI      KDH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7401      
+#SUOMI      Virtsaputken ulostuloaukon muovausleikkaus
+#RUOTSI     Meatusplastik
+#LYHENNE    Meatoplastia
+#OHJE_S  
+Sisältää virtsaputken limakalvon prolapsin korjausleikkauksen
+#OHJE_R 
+Innefattar plastik för slämhinnaprolaps
+###
+#KOODI      KDH14 
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaputken limakalvon prolapsin korjausleikkaus
+#RUOTSI     Rekonstruktion av slämhinneprolabs från uretra
+#LYHENNE    Virtsaputken limakalvon prolapsin korjau
+#OHJE_S  
+
+#OHJE_R 
+Inkl rekonstruktion av slämhinneprolabs från uretra
+###
+#KOODI      KDH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7404      
+#SUOMI      Virtsaputken ja ihon välisen avanteen sulku
+#RUOTSI     Förslutning av uretrokutan fistel
+#LYHENNE    Virtsaputki-ihoavanteen sulku
+#OHJE_S  
+Virtsaputken ja emättimen välisen avanteen sulku kohdassa LEE30
+#OHJE_R 
+Förslutning av uretrovaginal fistel, se LEE30
+###
+#KOODI      KDH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7406      
+#SUOMI      Virtsaputken ja suolen välisen avanteen sulku
+#RUOTSI     Förslutning av uretrointestinal fistel
+#LYHENNE    Virtsaputki-suoliavanteen sulku
+###
+#KOODI      KDH62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7379      
+#SUOMI      Muu virtsaputken ahtautuman leikkaus virtsatietähystyksessä
+#RUOTSI     Uretroskopisk åtgärd mot uretrastriktur
+#LYHENNE    Muu virtsaputkiahtautumaleikkaus endosko
+###
+#KOODI      KDH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7407      
+#SUOMI      Virtsaputken ahtauman muovausleikkaus
+#RUOTSI     Plastikoperation för uretrastriktur
+#LYHENNE    Virtsaputken ahtauman muovausleikkaus
+#OHJE_S  
+Käytetyn siirten materiaali ilmaistaan lisäkoodilla ryhmästä ZZ
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+###
+#KOODI      KDH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7419      
+#SUOMI      Muu virtsaputken korjaava leikkaus
+#RUOTSI     Annan rekonstruktiv, kontinensförbättrande operation på kvinnlig uretra
+#LYHENNE    Muu virtsaputken korjaava leikkaus
+###
+#KOODI      KDH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7379      
+#SUOMI      Muu virtsaputken korjaava leikkaus virtsatietähystyksessä
+#RUOTSI     Annan transluminal endokopisk rekonstruktiv operation på uretra
+#LYHENNE    Muu virtsaputken korjaava leikkaus endos
+###
+#KOODI      KDJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7385      
+#SUOMI      Virtsaputkiavanteen teko
+#RUOTSI     Uretrostomi (kreering av uretrafistel)
+#LYHENNE    Virtsaputkiavanteen teko
+###
+#KOODI      KDK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7438      
+#SUOMI      Virtsaputken tekosulkijan asettaminen virtsarakon kaulan ympärille
+#RUOTSI     Implantation av sfinkterprotes runt blåshals
+#LYHENNE    Virtsaputken tekosulkija-asetus kaulaan
+###
+#KOODI      KDK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7438      
+#SUOMI      Virtsaputken tekosulkijan asettaminen virtsaputken ympärille
+#RUOTSI     Implantation av sfinkterprotes runt uretra
+#LYHENNE    Virtsaputkitekosulkija-asetus uretran ym
+###
+#KOODI      KDK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7438      
+#SUOMI      Virtsaputken tekosulkijan korjausleikkaus
+#RUOTSI     Revision av sfinkterprotes
+#LYHENNE    Virtsaputken tekosulkijan korjausleikkau
+###
+#KOODI      KDK40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Virtsaputken tekosulkijan poisto
+#RUOTSI     Avlägsnande av sfinkterprotes
+#LYHENNE    Virtsaputken tekosulkijan poisto
+###
+#KOODI      KDV00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7419      
+#SUOMI      Virtsaputken sisätuen (stentin) asettaminen
+#RUOTSI     Inläggande av stent i uretra
+#LYHENNE    Virtsaputken sisätuen (stentin) asetus
+###
+#KOODI      KDV10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7364      
+#SUOMI      Virtsaputken halkaisu sisältä
+#RUOTSI     Inre uretrotomi
+#LYHENNE    Virtsaputken halkaisu sisältä
+###
+#KOODI      KDV12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7365      
+#SUOMI      Virtsaputken halkaisu sisältä virtsatietähystyksessä
+#RUOTSI     Uretroskopisk uretrotomi
+#LYHENNE    Urethrotomia interna tähystyksessä
+###
+#KOODI      KDV15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7363      
+#SUOMI      Sulkijalihaksen halkaisu sisältä virtsatietähystyksessä
+#RUOTSI     Uretroskopisk sfinkterotomi
+#LYHENNE    Sfinkterotomia virtsatietähystyksessä
+###
+#KOODI      KDV20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7379      
+#SUOMI      Vieraan aineen ruiskuttaminen virtsaputken limakalvon alle
+#RUOTSI     Submukös injektionsbehandling i uretra
+#LYHENNE    Vierasaineruiske uretralimak alle
+###
+#KOODI      KDV22 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vieraan aineen ruiskuttaminen virtsaputken limakalvon alle virtsateiden tähystyksessä
+#RUOTSI     Transluminal submukös injektionsbehandling i uretra
+#LYHENNE    Vierasaineruiske uretralimak alle vt-täh
+###
+#KOODI      KDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7419      
+#SUOMI      Muu virtsaputkeen kohdistuva toimenpide
+#RUOTSI     Annan öppen operation på uretra
+#LYHENNE    Muu virtsaputkeen kohdistuva toimenpide
+###
+#KOODI      KDW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7379      
+#SUOMI      Muu virtsaputkeen kohdistuva toimenpide virtsatietähystyksessä
+#RUOTSI     Annan transluminal endoskopisk operation på uretra
+#LYHENNE    Muu virtsaputkeen kohdistuva tmp tähysty
+###
+#KOODI_R    KE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Eturauhanen ja rakkularauhaset
+#RUOTSI     Prostata och sädesblåsor
+#ENGL       Prostate and seminal vesicles
+###
+#KOODI      KE001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito eturauhasen ja rakkularauhasten  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i prostata eller i sädesblåsor
+#LYHENNE    Sädeh eturauh prim.kasv preop hoitona
+###
+#KOODI      KE002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali eturauhasen ja rakkularauhasten  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i prostata eller i sädesblåsor
+#LYHENNE    Radik eturauh prim.kasv sädehoito
+###
+#KOODI      KE003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito eturauhasen ja rakkularauhasten  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i prostata eller i sädesblåsor
+#LYHENNE    Sädeh eturauh prim.kasv liit.hoitona
+###
+#KOODI      KE004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito eturauhasen ja rakkularauhasten  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i prostata eller i sädesblåsor
+#LYHENNE    Sädeh eturauh prim.kasv palliat hoitona
+###
+#KOODI      KE029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito eturauhasen ja rakkularauhasten  paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i prostata eller i sädesblåsor
+#LYHENNE    Sädeh eturauh paik uus kasv hoitona
+###
+#KOODI      KE049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito eturauhasessa tai rakkularauhasessa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i prostata eller i sädesblåsor
+#LYHENNE    Sädeh eturauh metastaasin hoitona
+###
+#KOODI      KE090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito eturauhasen ja rakkularauhasten  profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av prostata och i sädesblåsor
+#LYHENNE    Sädeh eturauh prim.kasv profyl hoitona
+###
+#KOODI      KE099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu eturauhasen ja rakkularauhasten sädehoito
+#RUOTSI     Annan strålbehandling av prostata och i sädesblåsor
+#LYHENNE    Muu eturauh sädehoito
+###
+#KOODI      KE1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6133      
+#SUOMI      Prostatan UÄ iholta
+#RUOTSI     Prostata, perkutan UL
+#LYHENNE    ProstataUÄ,transrekt
+###
+#KOODI      KE1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Eturauhasen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Prostata, UL-styrd vävnadsbiopsi
+#LYHENNE    Etur.kudosn,UÄ-ohj
+###
+#KOODI      KE1BE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6134      
+#SUOMI      Prostatan UÄ peräsuolen kautta
+#RUOTSI     Prostata, transrektal UL
+#LYHENNE    ProstataUÄ,transuret
+###
+#KOODI      KE1CT 
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eturauhasen kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Prostata, DT-styrd vävnadsbiopsi
+#LYHENNE    Etur.kudosn,TT-ohj
+###
+#KOODI      KE1LT 
+#MUUT_PVM   2006/10/08
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prostatan lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Prostata värmekoagulaition med radiologisk styrning
+#LYHENNE    Prostatan lämpökoagulaatio rad ohj
+###
+#KOODI      KE2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Eturauhasen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Prostata, UL-styrd finnålsbiopsi
+#LYHENNE    Etur.solun,UÄ-ohj
+###
+#KOODI      KE2CT 
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eturauhasen solunäytteen otto TT-ohjauksessa
+#RUOTSI     Prostata, DT-styrd finnålsbiopsi
+#LYHENNE    Etur.solun,TT-ohj
+###
+#KOODI      KE4CB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5635      
+#SUOMI      Siementiehyen tai -rakkuloiden varjoainetutkimus
+#RUOTSI     Vesikulografi/vasografi
+#LYHENNE    Vesikulo/vasografia
+###
+#KOODI      KEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7462      
+#SUOMI      Eturauhasen tutkimusleikkaus
+#RUOTSI     Explorativ friläggning av prostata
+#LYHENNE    Eturauhasen tutkimusleikkaus
+###
+#KOODI      KEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7463      
+#SUOMI      Eturauhasen aukaisu
+#RUOTSI     Prostatotomi
+#LYHENNE    Eturauhasen aukaisu
+###
+#KOODI      KEA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7463      
+#SUOMI      Rakkularauhasen aukaisu
+#RUOTSI     Incision av sädesblåsa
+#LYHENNE    Rakkularauhasen aukaisu
+###
+#KOODI      KEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7462      
+#SUOMI      Koepalan otto eturauhasesta
+#RUOTSI     Biopsi av prostata
+#LYHENNE    Koepalan otto eturauhasesta
+###
+#KOODI      KEC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7455      
+#SUOMI      Eturauhasen täydellinen poisto häpyluun ja rakon välistä avaten
+#RUOTSI     Retropubisk total prostatektomi
+#LYHENNE    Eturauhasen täyd. poisto suprapuubisesti
+###
+#KOODI      KEC01 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eturauhasen täydellinen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk radikal prostatektomi
+#LYHENNE    Eturauh täyd poisto tähyst iholta
+###
+#KOODI      KEC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7456      
+#SUOMI      Eturauhasen täydellinen poisto välilihan kautta
+#RUOTSI     Perineal total prostatektomi
+#LYHENNE    Eturauhasen täyd. poisto välilihan kautt
+###
+#KOODI      KEC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7456      
+#SUOMI      Eturauhasen täydellinen poisto ristiluuavauksen kautta
+#RUOTSI     Transsakral total prostatektomi
+#LYHENNE    Eturauhasen täyd. poisto,ristiluuavaus
+###
+#KOODI      KEC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Rakkularauhasen poisto
+#RUOTSI     Exstirpation av vesicula seminalis
+#LYHENNE    Rakkularauhasen poisto
+###
+#KOODI_A    KE_
+#MUUT_PVM   2002/08/24
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Prostatan ja rakkularauhasten kuvantaminen
+#RUOTSI     Diagnostisk radiologi av prostata och sädesblåsor
+#ENGL       Diagnostic radiology of prostate and seminal vesicles
+###
+#KOODI      KED00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7452      
+#SUOMI      Eturauhasen poisto rakon kautta
+#RUOTSI     Transvesikal prostatektomi
+#LYHENNE    Eturauhasen poisto rakon kautta
+###
+#KOODI      KED10 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7453      
+#SUOMI      Eturauhasen poisto rakon ja häpyluun välistä
+#RUOTSI     Retropubisk resektion av prostata
+#LYHENNE    Eturauhasen poisto rakon ja häpyluun väl
+###
+#KOODI      KED22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7451      
+#SUOMI      Eturauhasen höyläys virtsaputken kautta
+#RUOTSI     Transuretral resektion av prostata
+#LYHENNE    Eturauhasen höyläys virtsaputken kautta
+#OHJE_S  
+TURP
+#OHJE_R 
+---
+###
+#KOODI      KED33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen aukaisu virtsaputken kautta, TUIP
+#RUOTSI     Transuretral incision av prostata (TUIP)
+#LYHENNE    Eturauhasen insisio  TUIP
+#OHJE_S  
+Sisältää laserin käytön
+#OHJE_R 
+Inkl laser användning
+###
+#KOODI      KED52 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen osittainen poisto laserilla näköohjauksessa, VLAP
+#RUOTSI     Laserresektion av prostata med visuell kontroll, VLAP
+#LYHENNE    Eturauhasen poisto laserilla VLAP
+###
+#KOODI      KED58 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen poisto laserilla ultraääniohjauksessa virtsaputken kautta, TULIP
+#RUOTSI     Sonografistyrd prostatektomi med laser, TULIP
+#LYHENNE    Eturauhasen poisto laser,uä-ohj TULIP
+###
+#KOODI      KED62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen poltto, TUNA
+#RUOTSI     Transuretral nålablation av prostata, TUNA
+#LYHENNE    Eturauhasen poltto, TUNA
+#OHJE_S  
+Needle ablation
+#OHJE_R 
+---
+###
+#KOODI      KED72 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen mikroaaltohoito virtsaputken kautta, TUMT
+#RUOTSI     Transuretral mikrovågsbehandling av prostata, TUMT
+#LYHENNE    Eturauhasen mikroaaltohoito,uretra TUMT
+###
+#KOODI      KED76 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen höyrystys näköohjauksessa, TUVP
+#RUOTSI     Transuretral elektrovaporisering av prostata under ögats kontroll, TUVP
+#LYHENNE    Eturauhasen höyrystys,avoin TUVP
+###
+#KOODI      KED80 
+#MUUT_PVM   2006/01/04
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eturauhasen jäädytyshoito ihon läpi
+#RUOTSI     Perkutan kryoterapi av prostata
+#LYHENNE    Eturauhasen jäädytyshoito ihon läpi
+###
+#KOODI      KED96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Muu eturauhasen liikakasvun toimenpide
+#RUOTSI     Annan (öppen) åtgärd mot prostatahyperplasi
+#LYHENNE    Muu eturauhasen liikakasvun tmp
+###
+#KOODI      KED98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Muu eturauhasen liikakasvun toimenpide virtsaputken kautta
+#RUOTSI     Annan transuretral åtgärd mot prostatahyperplasi
+#LYHENNE    Muu eturauhasen liikakasvun tmp, TU
+###
+#KOODI      KEE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Eturauhaskivien poistoleikkaus
+#RUOTSI     Öppen prostatolitotomi
+#LYHENNE    Eturauhaskivien poistoleikkaus
+###
+#KOODI      KEE02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhaskivien poisto virtsatietähystyksessä
+#RUOTSI     Uretroskopisk prostatolitotomi
+#LYHENNE    Eturauhaskivien poisto TU tähystys
+###
+#KOODI      KEE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen vierasesineen poisto
+#RUOTSI     Avlägsnande av främmande kropp från prostata (öppen operation)
+#LYHENNE    Eturauhasen vierasesineen poisto
+###
+#KOODI      KEE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Eturauhasen vierasesineen poisto virtsatietähystyksessä
+#RUOTSI     Uretroskopiskt avlägsnande av främmande kropp från prostata
+#LYHENNE    Eturauhasen vierasesinepoisto TU tähy
+###
+#KOODI      KEV00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Eturauhasen spontaanin verenvuodon tyrehdyttäminen
+#RUOTSI     Koagulation vid spontan blödning från prostata
+#LYHENNE    Eturauhasverenvuodon tyrehdyttäminen
+###
+#KOODI      KEV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Eturauhasen spontaanin verenvuodon tyrehdyttäminen virtsatietähystyksessä
+#RUOTSI     Uretroskopisk koagulation vid spontan blödning från prostata
+#LYHENNE    Eturauhasverenvuodon tyrehdytys tähystyk
+###
+#KOODI      KEV12 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Siemenkukkulan osittainen poisto virtsatietähystyksessä
+#RUOTSI     Transuretral resektion av verumontanum
+#LYHENNE    Siemenkukkulan ositt poisto TU tähystyks
+###
+#KOODI      KEV22 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Putkiproteesin asettaminen virtsaputken eturauhasosaan virtsatietähystyksessä
+#RUOTSI     Uretroskopisk inläggning av stent i prostatiska uretra
+#LYHENNE    Eturauhasstentin asettaminen TU tähystyk
+#OHJE_S  
+Pysyvä tai väliaikainen
+#OHJE_R 
+Permanent eller temporär
+###
+#KOODI      KEW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7469      
+#SUOMI      Muu eturauhasen ja rakkularauhasten leikkaus
+#RUOTSI     Annan (öppen operation) på prostata eller sädesblåsor
+#LYHENNE    Muu eturauhas/rakkularauhasleikk TU tähy
+###
+#KOODI      KEW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7459      
+#SUOMI      Muu eturauhasen ja rakkularauhasten leikkaus tähystyksessä virtsaputken kautta
+#RUOTSI     Annan transluminal endoskopisk operation på prostata eller sädesblåsor
+#LYHENNE    Muu eturauhas/rakkularauhasleikkaus
+###
+#KOODI_R    KF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kivekset ja siemenjohtimet
+#RUOTSI     Skrotum och skrotalinnehållet
+#ENGL       Scrotum and scrotal organs
+###
+#KOODI      KF001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kivesten ja siemenjohtimien  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i testiklar eller sädesledare
+#LYHENNE    Sädeh kiv&siem.joht prim.kasv preop hoit
+###
+#KOODI      KF002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali kivesten ja siemenjohtimien  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i testiklar eller sädesledare
+#LYHENNE    Radik kiv&siem.joht prim.kasv sädehoito
+###
+#KOODI      KF003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kivesten ja siemenjohtimien  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i testiklar eller sädesledare
+#LYHENNE    Sädeh kiv&siem.joht prim.kasv lit.hoiton
+###
+#KOODI      KF004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kivesten ja siemenjohtimien  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i testiklar eller sädesledare
+#LYHENNE    Sädeh kiv&siem.joht prim.kasv palliat ho
+###
+#KOODI      KF029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kivesten ja siemenjohtimien  paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i testiklar eller sädesledare
+#LYHENNE    Sädeh kiv&siem.joht paik uus kasv hoiton
+###
+#KOODI      KF049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kiveksissä tai siemenjohtimissa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i testiklar eller sädesledare
+#LYHENNE    Sädeh kiv&siem.joht metastaasin hoitona
+###
+#KOODI      KF090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kivesten ja siemenjohtimien  profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av  testiklar och sädesledare
+#LYHENNE    Sädeh kiv&siem.joht prim.kasv profyl hoi
+###
+#KOODI      KF099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kivesten ja siemenjohtimien sädehoito
+#RUOTSI     Annan strålbehandling av  testiklar och sädesledare
+#LYHENNE    Muu kiv&siem.joht sädehoito
+###
+#KOODI      KF1AN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivesten gammakuvaus
+#RUOTSI     Testiklar, gammaskintigrafi
+#LYHENNE    Kivesten gammakuvaus
+###
+#KOODI      KF1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Kivespunktio UÄ-ohjauksessa
+#RUOTSI     Testispunktion, UL-styrd
+#LYHENNE    Kivespunktio UÄ-ohjauksessa
+###
+#KOODI      KF2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Kiveksen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Testis, UL-styrd vävnadsbiopsi
+#LYHENNE    Kiveskudosn,UÄ-ohj
+###
+#KOODI      KF3AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Kiveksen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Testis, UL-styrd finnålsbiopsi
+#LYHENNE    Kivessolun,UÄ-ohj
+###
+#KOODI      KF5AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Lisäkivespunktio UÄ-ohjauksessa
+#RUOTSI     Bitestikel, UL-styrd punktion
+#LYHENNE    Lisäkivespunkt,UÄ-oh
+###
+#KOODI      KF6AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Lisäkiveksen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Bitestikel, UL-styrd vävnadsbiopsi
+#LYHENNE    L-kiveskudosn,UÄ-ohj
+###
+#KOODI      KF7AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Lisäkiveksen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Bitestikel, UL-styrd finnålsbiopsi
+#LYHENNE    L-kivessolun,UÄ-ohj
+###
+#KOODI      KF8AE 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6135      
+#SUOMI      Kivespussin UÄ
+#RUOTSI     Skrotum, UL
+#LYHENNE    Kivespussin UÄ
+###
+#KOODI      KF8AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Kivespussin punktio UÄ-ohjauksessa
+#RUOTSI     Skrotum, UL-styrd punktion
+#LYHENNE    Kivesp.punktio UÄ-oh
+###
+#KOODI      KF8KT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9055      
+#SUOMI      Kivespussin skleroterapia
+#RUOTSI     Skrotum skleroterapi
+#LYHENNE    Kivespuss,skleroter.
+###
+#KOODI      KFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501      
+#SUOMI      Kiveksen tutkimusleikkaus
+#RUOTSI     Exploration av testis
+#LYHENNE    Kiveksen tutkimusleikkaus
+###
+#KOODI      KFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501      
+#SUOMI      Kiveksen aukaisu tutkimustarkoituksessa
+#RUOTSI     Explorativ orkidotomi
+#LYHENNE    Kiveksen aukaisu tutkimustarkoituksessa
+###
+#KOODI      KFA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7521      
+#SUOMI      Lisäkiveksen aukaisu tutkimustarkoituksessa
+#RUOTSI     Explorativ incision av epididymis
+#LYHENNE    Lisäkiveksen eksploratiivinen aukaisu
+###
+#KOODI      KFA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7525      
+#SUOMI      Siemenjohtimen aukaisu
+#RUOTSI     Incision av sädesledare
+#LYHENNE    Siemenjohtimen aukaisu
+###
+#KOODI      KFA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7502      
+#SUOMI      Kivespussin aukaisu
+#RUOTSI     Incision av skrotum
+#LYHENNE    Kivespussin aukaisu
+#OHJE_S  
+sis. kanavoinnin
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      KFA50 
+#MUUT_PVM   2002/09/26
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vierasesineen poistaminen kivespussista
+#RUOTSI     Avlägsnande av främmande kropp från skrotum
+#LYHENNE    Vierasesineen poistaminen kivespussista
+###
+#KOODI      KFA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7509      
+#SUOMI      Muu kivesten ja siemenjohtimien tutkimusleikkaus
+#RUOTSI     Annan exploration av skrotalinnehåll
+#LYHENNE    Muu kivesten/siemenjohtimien eksploraati
+###
+#KOODI      KFB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501      
+#SUOMI      Koepalan otto kiveksestä
+#RUOTSI     Biopsi av testis
+#LYHENNE    Koepalan otto kiveksestä
+###
+#KOODI      KFB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7501      
+#SUOMI      Koepalan otto lisäkiveksestä
+#RUOTSI     Biopsi av epididymis
+#LYHENNE    Koepalan otto lisäkiveksestä
+###
+#KOODI      KFB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7521      
+#SUOMI      Koepalan otto siemenjohtimesta
+#RUOTSI     Biopsi av vas deferens
+#LYHENNE    Koepalan otto siemenjohtimesta
+###
+#KOODI      KFB96 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto muusta kivespussin elinmestä
+#RUOTSI     Biopsi från annat skrotalt organ
+#LYHENNE    Koepalanotto muusta kivespussin elinmest
+###
+#KOODI      KFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7511      
+#SUOMI      Toisen kiveksen poisto
+#RUOTSI     Unilateral orkidektomi
+#LYHENNE    Toisen kiveksen poisto
+#OHJE_S  
+Sisältää samanaikaisen lisäkiveksen poiston
+#OHJE_R 
+Inkl samtidig exstirpation av bitestikel
+###
+#KOODI      KFC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7512      
+#SUOMI      Molempien kivesten poisto
+#RUOTSI     Bilateral orkidektomi
+#LYHENNE    Molempien kivesten poisto
+#OHJE_S  
+Sisältää samanaikaisen lisäkivesten poiston ja kivesten subkapsulaarisen poiston.
+#OHJE_R 
+Inkl samtidig exstirpation av bitestiklarna och bilateral subkapsulär orkiektomi
+###
+#KOODI      KFC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7522      
+#SUOMI      Lisäkiveksen poisto
+#RUOTSI     Epididymektomi
+#LYHENNE    Lisäkiveksen poisto
+###
+#KOODI      KFC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7519      
+#SUOMI      Muu täydellinen kivesten ja/tai lisäkivesten poistoleikkaus
+#RUOTSI     Annan total exstirpation av testiklar eller bitestiklar
+#LYHENNE    Muu täydellinen kives/lisäkivespoisto
+###
+#KOODI_A    KF_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Kivesten ja kivespussin diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av testiklar och skrotum
+#ENGL       Diagnostic radiology of scrotum and scrotal organs
+###
+#KOODI      KFD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7519      
+#SUOMI      Kiveksen osan poisto
+#RUOTSI     Delresektion av testis
+#LYHENNE    Kiveksen osan poisto
+###
+#KOODI      KFD16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7519      
+#SUOMI      Lisäkiveksen osan poisto
+#RUOTSI     Delresektion av epididymis
+#LYHENNE    Lisäkiveksen osan poisto
+#OHJE_S  
+Sisältää spermatoselen poiston
+#OHJE_R 
+Inkl excision av spermatocele
+###
+#KOODI      KFD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7503      
+#SUOMI      Vesikivesleikkaus
+#RUOTSI     Operation för hydrocele testis
+#LYHENNE    Vesikivesleikkaus
+###
+#KOODI      KFD26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7539      
+#SUOMI      Siemennuoran vesikohjun leikkaus
+#RUOTSI     Operation för hydrocele funiculi
+#LYHENNE    Siemennuoran vesikohjun leikkaus
+###
+#KOODI      KFD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7523      
+#SUOMI      Siemenkohjun leikkaus
+#RUOTSI     Operation för spermatocele
+#LYHENNE    Siemenkohjun leikkaus
+###
+#KOODI      KFD43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7525      
+#SUOMI      Toisen siemenjohtimen katkaisu tai poisto
+#RUOTSI     Unilateral delning/resektion av vas deferens
+#LYHENNE    Toisen siemenjohtimen katkaisu/poisto
+###
+#KOODI      KFD44 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7539      
+#SUOMI      Toisen siemenjohtimen tukkiminen sitomalla
+#RUOTSI     Unilateral obliteration av ductus deferens genom ligatur
+#LYHENNE    Toisen siemenjohtimen sitominen
+###
+#KOODI      KFD46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7524      
+#SUOMI      Molempien siemenjohtimien katkaisu tai poisto
+#RUOTSI     Bilateral delning/resektion av vas deferens
+#LYHENNE    Siemenjohtimien katkaisu/poisto
+#OHJE_S  
+esim. sterilisaatio
+#OHJE_R 
+Inkl steriliseringsoperation
+###
+#KOODI      KFD47 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7539      
+#SUOMI      Molempien siemenjohtimien tukkiminen sitomalla
+#RUOTSI     Bilateral ligatur av ductus deferens
+#LYHENNE    Molempien siemenjohtimien sitominen
+###
+#KOODI      KFD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7504      
+#SUOMI      Siemennuoran laskimon sitominen
+#RUOTSI     Ligatur av v. spermatica
+#LYHENNE    Siemennuoran laskimon sitominen
+###
+#KOODI      KFD51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Siemennuoran laskimon katkaisu tai poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk resektion/ligatur av v. spermatica
+#LYHENNE    Vena spermatican katkaisu/poisto tähysty
+#OHJE_S  
+Puoli voidaan ilmaista lisäkoodilla ryhmästä ZXA
+#OHJE_R 
+Höger/vänster/bilateral anges med tilläggskod, se ZXA
+###
+#KOODI      KFD56 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7504      
+#SUOMI      Siemennuoran suonikohjun poisto
+#RUOTSI     Exstirpation av varicocele
+#LYHENNE    Siemennuoran suonikohjun poisto
+###
+#KOODI      KFD60 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivespussiavanteen poisto
+#RUOTSI     Excision av skrotalfistel
+#LYHENNE    Kivespussiavanteen poisto
+###
+#KOODI      KFD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7519      
+#SUOMI      Muu kivesten ja/tai siemenjohtimien osan poistoleikkaus
+#RUOTSI     Annan resektion av skrotalinnehåll
+#LYHENNE    Muu kives/siemenjohdinosan poisto
+###
+#KOODI      KFH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7505      
+#SUOMI      Laskeutumattoman tai virhesijantikiveksen korjaus
+#RUOTSI     Operation för kryptorkism (retentio testis, ectopia testis)
+#LYHENNE    Laskeutumaton/virhesijantikiveskorjaus
+#OHJE_S  
+Erillinen kiveksen kiinnittäminen kohdassa KFH10
+#OHJE_R 
+Exkl enkel orkidopexi av descenderad testikel, KFH10
+###
+#KOODI      KFH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7505      
+#SUOMI      Kiveksen kiinnittäminen
+#RUOTSI     Orkidopexi
+#LYHENNE    Kiveksen kiinnittäminen
+###
+#KOODI      KFH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7539      
+#SUOMI      Siemenjohtimen kiertymän korjaus
+#RUOTSI     Operation för testistorsion
+#LYHENNE    Siemenjohtimen kiertymän korjaus
+#OHJE_S  
+sis. kiveksen kiinnityksen
+#OHJE_R 
+Inkl detorsion och pexi
+###
+#KOODI      KFH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7526      
+#SUOMI      Siemenjohtimen yhdistäminen
+#RUOTSI     Vaso-vasostomi
+#LYHENNE    Siemenjohtimen yhdistäminen
+###
+#KOODI      KFH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7527      
+#SUOMI      Siemenjohtimen ja lisäkiveksen yhdistäminen
+#RUOTSI     Vaso-epididymostomi
+#LYHENNE    Vasoepididymistomia
+###
+#KOODI      KFH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7513      
+#SUOMI      Tekokiveksen asettaminen
+#RUOTSI     Implantation av testisprotes
+#LYHENNE    Tekokiveksen asettaminen
+###
+#KOODI      KFH70 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivespussin ompelu
+#RUOTSI     Sutur av skrotum
+#LYHENNE    Kivespussin ompelu
+###
+#KOODI      KFH73 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kivespussin korjausleikkaus
+#RUOTSI     Rekonstruktion av skrotum
+#LYHENNE    Kivespussin korjausleikkaus
+###
+#KOODI      KFH96 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7519      
+#SUOMI      Muu kivespussin tai pussissa sijaitsevien elinten korjausleikkaus
+#RUOTSI     Annan rekonstruktiv operation på skrotum eller skrotalinnehåll
+#LYHENNE    Muu kivesten/siemenjohtimien korjaus
+###
+#KOODI      KFW96 
+#MUUT_PVM   2003/10/28
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7519      
+#SUOMI      Muu kivespussin tai sen sisältämien elinten leikkaus
+#RUOTSI     Annan operation på skrotum eller skrotalinnehåll
+#LYHENNE    Muu kives/siemenjohdinleikkaus
+###
+#KOODI_R    KG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Siitin
+#RUOTSI     Penis
+#ENGL       Penis
+###
+#KOODI      KG001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito siittimen  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i penis
+#LYHENNE    Sädeh siitt  prim.ikasv preop hoitona
+###
+#KOODI      KG002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali siittimen  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i penis
+#LYHENNE    Radik siitt  prim.ikasv sädehoito
+###
+#KOODI      KG003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito siittimen  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i penis
+#LYHENNE    Sädeh siitt  prim.ikasv liit.hoitona
+###
+#KOODI      KG004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito siittimen  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i penis
+#LYHENNE    Sädeh siitt  prim.ikasv palliat hoitona
+###
+#KOODI      KG029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito siittimen  paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i penis
+#LYHENNE    Sädehoito siitt  paik uus kasv hoitona
+###
+#KOODI      KG049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito siittimessä ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i penis
+#LYHENNE    Sädeh siitt  metastaasin hoitona
+###
+#KOODI      KG090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito siittimen  profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av primärtumör i penis
+#LYHENNE    Sädeh siitt  prim.ikasv profyl hoitona
+###
+#KOODI      KG099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu siittimen sädehoito
+#RUOTSI     Annan strålbehandling av primärtumör i penis
+#LYHENNE    Muu siittimen sädehoito
+###
+#KOODI      KG1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6149      
+#SUOMI      Siittimen UÄ
+#RUOTSI     Penis, UL
+#LYHENNE    Siittimen UÄ
+###
+#KOODI      KGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7559      
+#SUOMI      Siittimen aukaisu
+#RUOTSI     Incision av penis
+#LYHENNE    Siittimen aukaisu
+###
+#KOODI      KGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7541      
+#SUOMI      Esinahan aukaisu
+#RUOTSI     Incision av preputium
+#LYHENNE    Esinahan aukaisu
+###
+#KOODI      KGA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7559      
+#SUOMI      Muu siittimen tutkimusleikkaus
+#RUOTSI     Annan exploration eller incision av penis
+#LYHENNE    Muu siittimen tutkimusleikkaus
+###
+#KOODI      KGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7551      
+#SUOMI      Koepalan otto siittimestä
+#RUOTSI     Biopsi av penis
+#LYHENNE    Koepalan otto siittimestä
+###
+#KOODI      KGC00 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7554      
+#SUOMI      Siittimen katkaisu
+#RUOTSI     Partiell amputation av penis
+#LYHENNE    Siittimen katkaisu
+#OHJE_S  
+Osittainen amputaatio
+#OHJE_R 
+---
+###
+#KOODI      KGC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7555      
+#SUOMI      Siittimen poisto kokonaan
+#RUOTSI     Total exstirpation av penis
+#LYHENNE    Siittimen poisto kokonaan
+###
+#KOODI_A    KG_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Siittimen diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av penis
+#ENGL       Diagnostic radiology of penis
+###
+#KOODI      KGD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7554      
+#SUOMI      Terskan osan poisto
+#RUOTSI     Resektion av glans penis
+#LYHENNE    Terskan osan poisto
+###
+#KOODI      KGD05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7552      
+#SUOMI      Siittimen varren osittainen poisto
+#RUOTSI     Resektion av penisskaftet
+#LYHENNE    Siittimen varren osittainen poisto
+###
+#KOODI      KGD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7553      
+#SUOMI      Siittimen paikallisen muutoksen poltto tai laser
+#RUOTSI     Destruktion av lokal förändring på penis
+#LYHENNE    Siittimen paikall muutoksen poltto/laser
+###
+#KOODI      KGD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7559      
+#SUOMI      Muu siittimen osittainen poisto
+#RUOTSI     Annan delresektion av penis
+#LYHENNE    Muu siittimen osittainen poisto
+###
+#KOODI_A    KG_
+#MUUT_PVM   2002/08/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut siittimen diagostiset toimenpiteet
+#RUOTSI     Andra diagnostiska åtgärder på penis
+#ENGL       Other diagnostic procedures of penis
+###
+#KOODI      KGF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7559      
+#SUOMI      Vierasesineen poisto siittimestä
+#RUOTSI     Avlägsnande av främmande kropp från penis
+#LYHENNE    Vierasesineen poisto siittimestä
+###
+#KOODI      KGH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7559      
+#SUOMI      Siittimen ompelu
+#RUOTSI     Sutur av penis
+#LYHENNE    Siittimen ompelu
+###
+#KOODI      KGH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7542      
+#SUOMI      Esinahan ahtauden korjausleikkaus
+#RUOTSI     Operation för fimos
+#LYHENNE    Esinahan ahtauden korjausleikkaus
+###
+#KOODI      KGH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7562      
+#SUOMI      Siittimen sidekudoskovettumien tai käyristymän korjaus (Nesbit)
+#RUOTSI     Operation för induratio penis plastica eller penis arcuata (Nesbit)
+#LYHENNE    Siitinkovettuma/käyristymänkorj Nesbit
+#OHJE_S  
+Induratio plastica, penis arcuata
+#OHJE_R 
+---
+###
+#KOODI      KGH30 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Siittimen laskimon poisto tai sitominen
+#RUOTSI     Ligatur/resektion av ven från penis
+#LYHENNE    Siittimen selän laskimon poisto/sitomin
+###
+#KOODI      KGH33 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siittimen valtimoverenkierron korjaaminen
+#RUOTSI     Operation på penisartärer
+#LYHENNE    Siittimen valimoverenkierron korjaaminen
+###
+#KOODI      KGH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7564      
+#SUOMI      Priapismin vuoksi tehty leikkaus
+#RUOTSI     Operation för priapism
+#LYHENNE    Priapismin vuoksi tehty leikkaus
+###
+#KOODI      KGH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Paisuvaiskudoksen avanteen sulku
+#RUOTSI     Tillslutning av spongio-kavernös fistel
+#LYHENNE    Paisuvaiskudoksen avanteen sulku
+###
+#KOODI      KGH61 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7423      
+#SUOMI      Siittimen kärkiosan alahalkion korjaus
+#RUOTSI     Rekonstruktion vid distal hypospadi (hypospadia glandis)
+#LYHENNE    Siittimen kärkiosan alahalkion korjaus
+###
+#KOODI      KGH62 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7423      
+#SUOMI      Siittimen tyven alahalkion kokonaiskorjaus
+#RUOTSI     Rekonstruktion av proximal (penil, penoskrotal, perineal) hypospadi i en seans
+#LYHENNE    Proksimaalisen hypospadian totaalikorj.
+###
+#KOODI      KGH64 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7423      
+#SUOMI      Siittimen tyven alahalkion vaiheittaisen korjauksen I vaihe
+#RUOTSI     Första fasen i fler-seans-rekonstruktion av proximal hypospadi
+#LYHENNE    Proks. hypospadia, I vaiheen korj.
+###
+#KOODI      KGH65 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7423      
+#SUOMI      Siittimen tyven alahalkion vaiheittaisen korjauksen II vaihe
+#RUOTSI     Andra fasen i fler-seans-rekonstruktion av proximal hypospadi
+#LYHENNE    Proks. hypospadian korj. II vaihe
+###
+#KOODI      KGH69 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7423      
+#SUOMI      Muu siittimen alahalkioisuuden korjausleikkaus
+#RUOTSI     Annan operation för hypospadi
+#LYHENNE    Muu hypospadialeikkaus
+###
+#KOODI      KGH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7425      
+#SUOMI      Siittimen ylähalkion korjaus
+#RUOTSI     Rekonstruktion av epispadi
+#LYHENNE    Siittimen ylähalkion korjaus
+###
+#KOODI      KGH80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7559      
+#SUOMI      Siittimen ihon muovausleikkaus
+#RUOTSI     Plastisk operation på penishuden
+#LYHENNE    Siittimen ihon muovausleikkaus
+###
+#KOODI      KGH90 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Siittimen muodostaminen sukupuolivaihdoksen yhteydessä
+#RUOTSI     Konstruktion av penis vid könsbyte
+#LYHENNE    Siittimen muodostaminen,sukupuolivaihdos
+###
+#KOODI      KGH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Muu siittimen korjaava tai muovausleikkaus
+#RUOTSI     Annan rekonstruktiv/plastisk operation på penis
+#LYHENNE    Muu siittimen korjaava/muovausleikkaus
+###
+#KOODI      KGV00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7544      
+#SUOMI      Terskan kurouman palauttaminen
+#RUOTSI     Operation/manipulation vid parafimosis
+#LYHENNE    Terskan kurouman palauttaminen
+#OHJE_S  
+Fimoosin reponoiminen
+#OHJE_R 
+Reponering av fimos
+###
+#KOODI      KGV10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7544      
+#SUOMI      Esinahan kiinnikkeiden irrottelu
+#RUOTSI     Lösning av preputiala adherenser
+#LYHENNE    Esinahan kiinnikkeiden irrottelu
+###
+#KOODI      KGV20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7542      
+#SUOMI      Ympärileikkaus uskonnollisista syistä
+#RUOTSI     Rituell cirkumcision
+#LYHENNE    Ympärileikkaus uskonnollisista syistä
+###
+#KOODI      KGV30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7563      
+#SUOMI      Erektioproteesin asettaminen
+#RUOTSI     Implantation av erektionsprotes
+#LYHENNE    Erektioproteesin asettaminen
+###
+#KOODI      KGV40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Erektioproteesin korjausleikkaus
+#RUOTSI     Revision av erektionsprotes
+#LYHENNE    Erektioproteesin korjausleikkaus
+###
+#KOODI      KGV50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Erektioproteesin poisto
+#RUOTSI     Avlägsnande av erektionsprotes
+#LYHENNE    Erektioproteesin poisto
+###
+#KOODI      KGW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7569      
+#SUOMI      Muu siittimen leikkaus
+#RUOTSI     Annan operation på penis
+#LYHENNE    Muu siittimen leikkaus
+###
+#KOODI_R    KH
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Virtsateiden toimenpiteet ilman tarkemin määritettyä sijaintia
+#RUOTSI     Åtgärder på urinvägar utan närmareangiven lokalisation
+#ENGL       Procedures of urinary tract without specified location
+###
+#KOODI      KH1AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5602      
+#SUOMI      Virtsateiden natiiviröntgen
+#RUOTSI     Översikt av urinvägarna, röntgen
+#LYHENNE    Virtsateiden rtg
+###
+#KOODI      KH1AD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaelinten TT
+#RUOTSI     Urinorganen, DT
+#LYHENNE    Virtsaelinten TT
+###
+#KOODI      KH1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6142      
+#SUOMI      Virtsaelinten UÄ
+#RUOTSI     Njurar och urinvägar, UL
+#LYHENNE    Virtsaelinten UÄ
+###
+#KOODI      KH1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9121      
+#SUOMI      Virtsateiden kanavointi UÄ-ohjauksessa
+#RUOTSI     Urinvägsdränage, UL-styrt
+#LYHENNE    Virtsatiedren,UÄ-ohj
+#OHJE_S  
+Sisältää munuaisaltaan punktion
+#OHJE_R 
+Innefattar punktion av njurbäggen
+###
+#KOODI      KH1BD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaelinten laaja TT
+#RUOTSI     Urinorganen, omfattande DT
+#LYHENNE    Virtsaelinten laaja TT
+###
+#KOODI      KH1BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9122      
+#SUOMI      Virtsateiden kanavointi läpivalaisuohjauksessa
+#RUOTSI     Urinvägsdränage, genomlysningsstyrt
+#LYHENNE    Virtsatiedren,lpv-oh
+#OHJE_S  
+Sisältää munuaisaltaan punktion
+#OHJE_R 
+Innefattar punktion av njurbäggen
+###
+#KOODI      KH1CB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5611      
+#SUOMI      Virtsateiden varjoainetutkimus (urografia)
+#RUOTSI     Urografi
+#LYHENNE    Urografia
+###
+#KOODI      KH1CD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaelinten erittäin laaja TT
+#RUOTSI     Urinorganen, mycket omfattande DT
+#LYHENNE    Virtsaelinten erittäin laaja TT
+###
+#KOODI      KH1CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9123      
+#SUOMI      Virtsateiden kanavointi TT-ohjauksessa
+#RUOTSI     Urinvägsdränage, DT-styrt
+#LYHENNE    Virtsatiedren,TT-ohj
+#OHJE_S  
+Sisältää munuaisaltaan punktion
+#OHJE_R 
+Innefattar punktion av njurbäggen
+###
+#KOODI      KH1DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsateiden kanavointi magneettiohjauksessa
+#RUOTSI     Urinvägsdränage, MR-styrt
+#LYHENNE    Virtsatiedren,MK-ohj
+#OHJE_S  
+Sisältää munuaisaltaan punktion
+#OHJE_R 
+Innefattar punktion av njurbäggen
+###
+#KOODI      KH1EE 
+#MUUT_PVM   2006/10/04
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urologinen UÄ
+#RUOTSI     Urologisk UL
+#LYHENNE    Urologinen UÄ
+#OHJE_S  
+Sisältää virtsaelimet ja jäännösvirtsan mittauksen
+#OHJE_R 
+undersökning av urinorgan och mätning av urinresidualen
+###
+#KOODI      KH1FT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9125      
+#SUOMI      Virtsatiekatetrin vaihto radiologisessa ohjauksessa
+#RUOTSI     Radiologiskt styrt kateterbyte
+#LYHENNE    Kat.vaihto,virtsatie
+###
+#KOODI      KH1JB 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5612      
+#SUOMI      Virtsateiden akuutti varjoainetutkimus (akuutti urografia)
+#RUOTSI     Urografi, akut
+#LYHENNE    Akuutti urografia
+###
+#KOODI      KH1LA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5669      
+#SUOMI      Virtsateiden läpivalaisu ja natiiviröntgen
+#RUOTSI     Genomlysning och bild av urinvägarna utan kontrastmedel
+#LYHENNE    Virtsateiden lpv+rtg
+###
+#KOODI      KH1RT 
+#MUUT_PVM   2004/12/20
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9270      
+#SUOMI      Virtsateiden laajennus radiologisessa ohjauksessa
+#RUOTSI     Urinvägsdilatation, radiologiskt styrd
+#LYHENNE    Virtsatiedilataatio
+###
+#KOODI      KH1XB 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5699      
+#SUOMI      Virtsa- ja sukupuolielinten muu varjoainetutkimus
+#RUOTSI     Urogenitalorgan, annan kontrastundersökning
+#LYHENNE    Virtsaelin,muu graf.
+###
+#KOODI      KH1YT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9632      
+#SUOMI      Virtsateiden endoproteesin laitto iholta radiologisessa ohjauksessa
+#RUOTSI     Urinvägsendoprotes, radiologiskt styrd perkutan insättning
+#LYHENNE    End.prot.lait,vi-tie
+###
+#KOODI      KH1ZT 
+#MUUT_PVM   2004/12/20
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9410      
+#SUOMI      Virtsateiden kivien ja vierasesineiden poisto radiologisessa ohjauksessa
+#RUOTSI     Urinvägar, radiologiskt styrd avlägsnande av konkrement eller främmade föremål
+#LYHENNE    Kiv.poisto,virtsatie
+###
+#KOODI_R    KK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vatsaontelon takainen tila
+#RUOTSI     Retroperitoneal vävnad
+#ENGL       Retroperitoneal space
+###
+#KOODI      KK001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vatsaontelon takaisen tilan  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i retroperitoneal vävnad
+#LYHENNE    Sädeh retroperit prim.kasv preop hoitona
+###
+#KOODI      KK002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali vatsaontelon takaisen tilan  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i retroperitoneal vävnad
+#LYHENNE    Radik retroperit prim.kasv sädehoito
+###
+#KOODI      KK003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vatsaontelon takaisen tilan  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i retroperitoneal vävnad
+#LYHENNE    Sädeh retroperit prim.kasv liit.hoitona
+###
+#KOODI      KK004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vatsaontelon takaisen tilan  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i retroperitoneal vävnad
+#LYHENNE    Sädeh retroperit prim.kasv palliat hoito
+###
+#KOODI      KK029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vatsaontelon takaisen tilan  paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i retroperitoneal vävnad
+#LYHENNE    Sädeh retroperit paik uus kasv hoitona
+###
+#KOODI      KK049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vatsaontelon takaisessa tilassa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i retroperitoneal vävnad
+#LYHENNE    Sädeh retroperit metastaasin hoitona
+###
+#KOODI      KK090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vatsaontelon takaisen tilan  profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av retroperitoneal vävnad
+#LYHENNE    Sädeh retroperit prim.kasv profyl hoiton
+###
+#KOODI      KK099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu vatsaontelon takaisen tilan sädehoito
+#RUOTSI     Annan strålbehandling av retroperitoneal vävnad
+#LYHENNE    Muu etroperit  sädehoito
+###
+#KOODI      KK1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA      6132      
+#SUOMI      Retroperitoneumin UÄ
+#RUOTSI     Retroperitoneal UL
+#LYHENNE    Retroperitoneumin UÄ
+###
+#KOODI      KK1LT 
+#MUUT_PVM   2006/10/08
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retroperitoneumin lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Retroperitoneal värmekoagulation med radiologisk styrning
+#LYHENNE    Retroperiton lämpökoagulaatio rad o
+###
+#KOODI      KK1XE 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6149      
+#SUOMI      Retroperitoneumin, virtsateiden tai sukuelinten muu UÄ
+#RUOTSI     Annan UL av retroperitoneum och urogenitala organ
+#LYHENNE    Virtsaelinten muu UÄ
+#OHJE_S  
+Gynekologiset ja obstetriset ultraäänitutkimukset
+#OHJE_R 
+Gynekologiska och obstetriska UL undersökningar
+###
+#KOODI      KKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6802      
+#SUOMI      Vatsaontelon takaisen tilan tutkimusleikkaus
+#RUOTSI     Exploration av retroperitoneala rummet
+#LYHENNE    Retroperitoneaalitilan eksploraatio
+###
+#KOODI      KKA01 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retroperitoneaalitilan transkutaaninen tutkimus
+#RUOTSI     Transkutan undersökning av retroperitoneala rummet
+#LYHENNE    Retroperitoneaalitilan transkutaainen tu
+###
+#KOODI      KKA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6802      
+#SUOMI      Koepalan otto vatsaontelon takaisista kudoksista
+#RUOTSI     Öppen biopsi av retroperitoneal vävnad
+#LYHENNE    Biopsia vatsaontelon takaisista kudokses
+###
+#KOODI      KKA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Koepalan otto vatsaontelon takaisista kudoksista tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk biopsi av retroperitoneal vävnad
+#LYHENNE    Biopsia vatsaontelon takakudoksesta HAP
+###
+#KOODI      KKA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6801      
+#SUOMI      Vatsaontelon takaisen tilan aukaisu
+#RUOTSI     Incision av retroperitoneala rummet
+#LYHENNE    Vatsaontelon takaisen tilan aukaisu
+#OHJE_S  
+Sisältää kanavoinnin
+#OHJE_R 
+Inkl ev dränage
+###
+#KOODI      KKA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Vatsaontelon takaisen tilan kanavointi tähystyksessä iholta
+#RUOTSI     Perkutant endoskopisk inläggande av dränage i retroperitoneala rummet
+#LYHENNE    Retroperitoneaalitilan kanavointi LAP
+###
+#KOODI      KKB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6803      
+#SUOMI      Vatsaontelon takaseinän kasvaimen poisto
+#RUOTSI     Öppen excision av retroperitoneal förändring/tumör
+#LYHENNE    Vatsaontelon takaseinän kasvaimen poisto
+###
+#KOODI      KKB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Vatsaontelon takaseinän kasvaimen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk excision av retroperitoneal förändring
+#LYHENNE    Retroperitoneaalikasvaimen poisto LAP
+###
+#KOODI      KKB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6809      
+#SUOMI      Vatsaontelon takaisesta tilasta tulevan avanteen poisto
+#RUOTSI     Öppen excision av retroperitoneal fistel
+#LYHENNE    Retroperitoneaalifistelin eksisio
+###
+#KOODI      KKB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Vatsaontelon takaisesta tilasta tulevan avanteen poisto tähystyksessä iholta
+#RUOTSI     Perkutan endoskopisk excision av retroperitoneal fistel
+#LYHENNE    Retroperitoneaalifistelin eksisio LAP
+###
+#KOODI      KKF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6802      
+#SUOMI      Vierasesineen poisto vatsaontelon takaisista kudoksista
+#RUOTSI     Avlägsnande av främmande kropp från retroperitoneum (öppen operation)
+#LYHENNE    Vierasesinepoisto retroperitoneaalitilas
+###
+#KOODI      KKF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      6802      
+#SUOMI      Vierasesineen poisto vatsaontelon takaisista kudoksista tähystyksessä iholta
+#RUOTSI     Perkutant endoskopiskt avlägsnande av främmande kropp från retroperitoneum
+#LYHENNE    Vierasesinepoisto retroperit tilasta LAP
+###
+#KOODI      KKW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7126      
+#SUOMI      Muu vatsaontelon takaisten kudosten leikkaus
+#RUOTSI     Annan öppen operation på retroperitoneal vävnad
+#LYHENNE    Muu retroperitoneaalikudosten leikkaus
+###
+#KOODI      KKW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu vatsaontelon takaisten kudosten leikkaus tähystyksessä iholta
+#RUOTSI     Annan perkutan endoskopisk operation på retroperitoneal vävnad
+#LYHENNE    Muu retroperitoneaalikudosleikkaus LAP
+###
+#KOODI_R    KW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leikkauskomplikaatioiden vuoksi tehdyt urologiset uusintatoimenpiteet
+#RUOTSI     Operationer för postoperativa komplikationer av urologisk kirurgi
+#ENGL       Reoperations in urological surgery
+###
+#KOODI      KWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7471      
+#SUOMI      Auenneen tai tulehtuneen urologisen leikkaushaavan tarkistaminen
+#RUOTSI     Revision av sårruptur/sårinfektion efter urogenital operation
+#LYHENNE    Virtsatie/sukup leikk haavarev,auenn/inf
+#OHJE_S  
+Ei sisällä leikkaushaavan syvän infektion(KWC00), verenvuodon (KWD00) tai virtsakertymän (KWE00)  takia tehtyjä toimenpiteitä
+#OHJE_R 
+Exkl ingrepp för djup infektion KWC00, blödning KWD00 eller urinom KWE00
+###
+#KOODI      KWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7473+     
+#SUOMI      Urologisen leikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+#RUOTSI     Revision /dränage av infekterad sårhåla efter urogenital operation
+#LYHENNE    Virtsatie/sukup leikk revisio,syvä inf
+###
+#KOODI      KWD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7472      
+#SUOMI      Uusintaleikkaus urologisen leikkauksen jälkeisen verenvuodon vuoksi
+#RUOTSI     Reoperation för blödning efter urogenital operation
+#LYHENNE    Virtsatie/sukup leikk revisio,vuoto
+###
+#KOODI      KWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7473+     
+#SUOMI      Urologisen leikkauksen jälkeisen kudosten virtsakeräymän poisto
+#RUOTSI     Reoperation för urinom efter urogenital operation
+#LYHENNE    Virtsatie/sukup heikk revisio,urinooma
+###
+#KOODI      KWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7473+     
+#SUOMI      Urologisen leikkauksen liitosompeleiden tarkistaminen
+#RUOTSI     Reoperation för kontroll/revision av urologiska anastomoser
+#LYHENNE    Virtsatie/sukup leikk revisio,ompeleet
+###
+#KOODI      KWW96 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      7473+     
+#SUOMI      Muu urologisen leikkauksen komplikaatioleikkaus
+#RUOTSI     Annan reoperation för komplikation efter urogenital operation
+#LYHENNE    Muu virtsatie/sukup heikk revisiotmp

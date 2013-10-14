@@ -1,0 +1,5353 @@
+
+###
+#KOODI_L    A
+#MUUT_PVM   2011/01/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nervous system
+#RUOTSI     ---
+#ENGL       Nervous system
+#OHJE_S  
+weg
+
+
+#OHJE_R 
+---
+###
+#KOODI      A0093  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM   2013/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hjemmebasert peritonealdialyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      A0099  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM   2013/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Grupperettet pasientopplæring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    AA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Skull and intracranial structures
+#RUOTSI     ---
+#ENGL       Skull and intracranial structures
+#OHJE_S  
+Includes: Pituitary gland and pineal gland
+#OHJE_R 
+---
+###
+#KOODI      AA027  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av intracerebral trykkmåler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AA125  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervikal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostic intracranial procedures
+#RUOTSI     ---
+#ENGL       Diagnostic intracranial procedures
+#OHJE_S  
+Stereotactic procedures, see: AAG
+#OHJE_R 
+---
+###
+#KOODI      AAA00  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ kraniotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi via kraniotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av intraventrikulær trykkmåler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av epidural trykkmåler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA27  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av intracerebral trykkmåler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av epidural elektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av subdural elektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av intracerebral elektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA50  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakraniell endoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet diagnostisk intrakranielt inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      EEG overvåking med ekstrakranielle elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG overvåking med ekstrakranielle elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      EEG overvåking med intrakranielle elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG overvåking med intrakranielle elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Corticografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Corticografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Peroperativ overvåking med fremkalte responser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAAA20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroperativ overvåking med fremkalte responser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision and destruction of intracranial lesion
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Stereotactic procedures, see: AAG
+#OHJE_R 
+---
+###
+#KOODI      AAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av spontant intrakranielt hematom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksisjon eller destruksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for intracranial aneurysm and other vascular lesions
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Endovascular procedures, see: AAL
+#OHJE_R 
+---
+###
+#KOODI      AAC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av intrakranielt aneurisme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proksimal ligatur av intrakranielt aneurisme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Forsterkning av intrakraniell aneurismevegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trapping av intrakranielt aneurisme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakraniell karanastomose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakraniell okklusjon av karfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av intrakraniell arteriovenøs malformasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for intrakraniell vaskulær lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for head injuries
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av epiduralt hematom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAD05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av akutt subduralt hematom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av kronisk subduralt hematom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAD15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av intracerebral traumatisk lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av penetrerende kranieskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av kraniefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAD99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for hodeskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AADE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cerebral ultralyd avbildning, ev. dupleks, uten kontrast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AADE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cerebral ultralyd avbildning, ev. dupleks, uten kontrast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AADE02 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cerebral ultralyd avbildning, ev. dupleks, med kontrast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AADE02 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cerebral ultralyd avbildning, ev. dupleks, med kontrast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations by cranial base approach
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Operations on pituitary gland
+#OHJE_R 
+---
+###
+#KOODI      AAE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transsphenoidal eksplorasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transsfenoidal eksplorasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsfenoidal eksplorasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transsphenoidal ekstirp eller reseksjon av intrakran lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transsfenoidal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE10  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsfenoidal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transoral ekstirp eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transoral ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transoral ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE25  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervikal ekstirp eller reseksjon av intrakran lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervikal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE25  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translabyrintær ekstirp eller reseksjon av intrakran lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translabyrintær ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Translabyrintær ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtemporal ekstirp eller reseksjon av intrakran lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtemporal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtemporal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Zygomaticotemporal ekstirp el reseksjon av intrakran lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Zygomaticotemporal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE50  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Zygomaticotemporal ekstirpasjon eller reseksjon av intrakraniell lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på skallebasis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Shunt operations on ventricles of brain or intracerebral cysts
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikulostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstern drenasje av hjerneventrikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikuloperitoneal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lumboperitoneal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikuloatrial shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av shunt fra hjerneventrikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av shunt fra hjerneventrikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av intraventrikulært injeksjonsutstyr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av reservoar for intraventrikulær behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Shunt av intrakraniell cyste til peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF45  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrasjon av intrakraniell cyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen shuntoperasjon på hjerneventrikkel el intrakran cyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen shuntoperasjon på hjerneventrikkel eller intrakraniell cyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAF99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen shuntoperasjon på hjerneventrikkel eller intrakraniell cyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Standard elektroencefalografi (EEG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Standard elektroencefalografi (EEG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Søvndeprivert EEG
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Søvndeprivert EEG
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      EEG langtidsregistrering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG langtidsregistrering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      EEG med sfenoidal- eller epifarynkselektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG med sfenoidal- eller epifarynkselektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      EEG med reaksjonstidsmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG med reaksjonstidsmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE22 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      EEG med amylaltest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE22 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      EEG med amylaltest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kvantitativ EEG analyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kvantitativ EEG analyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cerebral funksjonsmonitorering ved EEG
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE30 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cerebral funksjonsmonitorering ved EEG
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE60 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Peroperativ målsøking ved dyp hjernestimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE60 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroperativ målsøking ved dyp hjernestimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE80 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Visuelt fremkalt potensial (VEP)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE80 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Visuelt fremkalt potensial (VEP)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE82 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektroretinografi (ERG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE82 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektroretinografi (ERG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE85 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrisk respons audiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE85 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrisk respons audiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE87 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtympanal hjernestammeaudiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE87 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtympanal hjernestammeaudiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE89 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sensorisk fremkalt potensial (SEP) IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFE89 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sensorisk fremkalt potensial (SEP) IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFF00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transkraniell Doppler (TCD), enkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFF00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkraniell Doppler (TCD), enkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFF05 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transkraniell Doppler  (TCD), fullstendig
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFF05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkraniell Doppler (TCD), fullstendig
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFF10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      TCD med intravenøs kontrast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFF10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      TCD med intravenøs kontrast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontinuerlig måling av intracerebralt trykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinuerlig måling av intracerebralt trykk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Polygrafisk monitorering av respiratoriske parametre (polygrafi)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polygrafisk monitorering av respiratoriske parametre (polygrafi)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Polysomnografi (PSG) uten respiratoriske parametre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polysomnografi (PSG) uten respiratoriske parametre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX10 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Polysomnografi (PSG) med respiratoriske parametre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polysomnografi (PSG) med respiratoriske parametre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Multippel søvnlatenstest med minst åtte parametere under søvn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAFX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Multippel søvnlatenstest med minst åtte parametre under søvn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Stereotactic intracranial operations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell biopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stereotaktisk intrakran destruksjon av kjerne el nervebane
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell destruksjon av kjerne eller nervebane
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG10  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell destruksjon av kjerne eller nervebane
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell implantasjon av elektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stereotaktisk intrakran implantasjon av radioaktiv substans
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell implantasjon av radioaktiv substans
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell implantasjon av radioaktiv substans
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell implantasjon av fostervev
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktisk intrakraniell strålebehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAG99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet stereotaktisk intrakranielt inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGB00 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transkraniell magnetisk stimulering (TMS)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGB00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkraniell magnetisk stimulering (TMS)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGB10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Funksjonell stimulering med intrakranielle EEG elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGB10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Funksjonell stimulering med intrakranielle EEG elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGB50 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2012/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokonvulsiv terapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innstilling av elektrisk stimulator med intracerebrale elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innstilling av elektrisk stimulator med intracerebrale elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGT05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innstilling av elektrisk stimulator for dyp hjernestimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGT05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innstilling av elektrisk stimulator for dyp hjernestimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGT10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innstilling av hydrocefalusshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAGT10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innstilling av hydrocefalusshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on cranial nerves
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rhizotomi av hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAH30  
+#MUUT_PVM   2008/10/20
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av hjernenerve
+#RUOTSI     ---
+#LYHENNE    Destruksjon av hjernenerve
+###
+#KOODI      AAH40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injeksjon i hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAH50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomose av hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAH60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrovaskulær dekompresjon av hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAH80  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAH99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på hjernenerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for epilepsy
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemisfærektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hippocampektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av epileptisk fokus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervebane for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Callosotomi for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hemidecortikasjon for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hemidekortikasjon for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ35  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemidekortikasjon for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAJ99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for epilepsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAK
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on skull and dura
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      AAK00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kranieplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Duraplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for kraniosynostose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kraniofacial rekonstruksjon ved medfødt misdannelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av cerebrospinal likvorfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Benbiopsi av kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK70  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Beinbiopsi av kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK70  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Beinbiopsi av kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK75  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon eller reseksjon av bentumor i kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK75  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon eller reseksjon av beintumor i kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK75  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon eller reseksjon av beintumor i kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK80  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell eksisjon av skalletak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK85  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Replantasjon av tidligere eksidert skalletak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAK99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på kranium eller dura
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAL
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Intracranial endovascular procedures
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Open operations for intracrandial aneurysms and vascular malformations, see: AAC
+#OHJE_R 
+---
+###
+#KOODI      AAL00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endovaskulær okklusjon av intrakranielt aneurisme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intrakraniell endovaskulær thrombolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intrakraniell endovaskulær trombolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakraniell endovaskulær trombolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endovaskulær okkl av intrakran arteriovenøs malformasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endovaskulær okklusjon av intrakraniell arteriovenøs malformasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endovaskulær okklusjon av intrakraniell arteriovenøs malformasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endovaskulær okklusjon av intrakraniell fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endovaskulær okklusjon av arterie til intrakraniell tumor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAL99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet intrakranielt endovaskulært inngrep
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAM
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for intracranial infection
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAM00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punksjon og evakuering av intracerebral abscess
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAM10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av intracerebral abscess
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAM30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av epiduralt eller subduralt empyem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAM99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for intrakraniell infeksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAN
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for intracranial congenital malformations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAN00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon og rekonstruksjon av encefalocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAN99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for intrakraniell medfødt misdannelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAP00  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lokal muskeltransposisjon for facialisparese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAP10  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontralateral nervetransposisjon for facialisparese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAP20  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrovaskulær muskeltransposisjon for facialisparese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAP99  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruktivt inngrep for facialisparese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAU00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat/eksternt fiksasjonsutstyr fra kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAU00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAU00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat eller eksternt fiksasjonsutstyr fra kranium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AAW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other intracranial operations
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AAW01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av intrakraniell stimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAW02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av intrakranielt injeksjonsutstyr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AAW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på kranium eller intrakraniell struktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    AB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Spinal cord and nerve roots
+#RUOTSI     ---
+#ENGL       Spinal cord and nerve roots
+###
+#KOODI_A    ABA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostic operations on spinal cord and nerve roots
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ABA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ laminektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av lesjon i spinalkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABA20  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrathekal endoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABA30  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på ryggmarg eller nerverot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ABB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for lesions of spinal cord and nerve roots
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ABB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i spinalkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABB02  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i nerverot
+#RUOTSI     ---
+#LYHENNE    Ekstirpasjon av lesjon i nerverot
+###
+#KOODI      ABB04  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i nerverot
+#RUOTSI     ---
+#LYHENNE    Destruksjon av lesjon i nerverot
+###
+#KOODI      ABB06  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/10/10
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan destruksjon av lesjon i nerverot
+#RUOTSI     ---
+#LYHENNE    Perkutan destruksjon av lesjon i nervero
+###
+#KOODI      ABB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av lesjon i spinalkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Drenasje av cyste i ryggmarg eller spinalkanal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i spinalkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering av spontant hematom i spinalkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon i spinalkanalen for lesjon i ryggmarg eller nerverot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i spinalkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ABC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Decompression of spinal cord and nerve roots for degenerative conditions of spine
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ABC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk diskektomi for cervikalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC04  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk diskektomi for thorakalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC04  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk diskektomi for torakalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC04  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk diskektomi for torakalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC07  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk diskektomi for lumbalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrokirurgisk ekstirpasjon av cervikalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mikrokirurgisk ekstirpasjon av thorakalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC13  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mikrokirurgisk ekstirpasjon av torakalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC13  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrokirurgisk ekstirpasjon av torakalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC16  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrokirurgisk ekstirpasjon av lumbalt skiveprolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diskektomi i cervikalcolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diskektomi i cervikalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diskektomi i cervikalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC21  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fremre dekompresjon i cervikalkolumna med diskektomi og interkorporalt fiksasjonsimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diskektomi i thorakalcolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC23  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diskektomi i torakalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC23  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diskektomi i torakalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC26  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diskektomi i lumbalcolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC26  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diskektomi i lumbalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC26  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diskektomi i lumbalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC28  
+#MUUT_PVM   2005/10/04
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innsetting av ekspanderende interspinøst implantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av nerverøtter i cervikalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC33  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av nerverøtter i torakalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC36  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av nerverøtter i lumbalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av cauda equina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av cauda equina i sacrum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av cauda equina i sacrum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC50  
+#MUUT_PVM   1999/04/28
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av cervikal spinalkanal og nerverøtter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av spinalkanal og nerverøtter i cervikalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av spinalkanal og nerverøtter i cervikalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC53  
+#MUUT_PVM   1999/04/28
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av torakal spinalkanal og nerverøtter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC53  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av spinalkanal og nerverøtter itorakalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC53  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av spinalkanal og nerverøtter i torakalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC56  
+#MUUT_PVM   1999/04/28
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av lumbal spinalkanal og nerverøtter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC56  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon av spinalkanal og nerverøtter i lumbalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC56  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av spinalkanal og nerverøtter i lumbalkolumna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av cervikalmarg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC63  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av torakalmarg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC66  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon av lumbalmarg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen dekompresjon av ryggmarg eller nerverot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ABD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on spinal cord and nerve roots for pain or impaired function
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ABD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cordotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Chordotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD10  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen chordotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD15  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan chordotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Myelotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av spinal stimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Implantasjon av spinal injeksjonsutstyr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Implantasjon av spinalt injeksjonsutstyr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av spinalt injeksjonsutstyr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rhizotomi av spinalnerve for smerte eller funksjonsforst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rhizotomi av spinalnerve for smerte eller funksjonsforstyrrelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rhizotomi av spinalnerve for smerte eller funksjonsforstyrrelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD60  
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av spinal nerveelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD65  
+#MUUT_PVM   2012/01/12
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av spinal stimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen op på ryggmarg el nerverot for smerte el funksj forst
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på ryggmarg eller nerverot for smerte eller funksjonsforstyrrelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABD99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på ryggmarg eller nerverot for smerte eller funksjonsforstyrrelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ABE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for congenital malformations of spine
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ABE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for myelo- eller meningocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Løsning av tethered cord eller diastematomyeli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av dermalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for hydromyeli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Occipitocervikal dekompresjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Oksipitocervikal dekompresjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oksipitocervikal dekompresjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for medfødt spinal misdannelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABEX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Endoskopisk intraspinal undersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABEX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk intraspinal undersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transtympanal hjernestamme audiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lumbalpunksjon med infusjonstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lumbalpunksjon med infusjonstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Spinal tappetest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spinal tappetest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bulbocavernøs reflekstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bulbocavernøs reflekstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGB00 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Magnetisk stimulering av nerverøtter eller pleksus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGB00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Magnetisk stimulering av nerverøtter eller pleksus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGC10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av epiduralkateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGC10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av epiduralkateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGC11 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av epiduralkateter med subkutan injeksjonsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGC11 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av epiduralkateter med subkutan injeksjonsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGC12 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av spinalkateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGC13 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av spinalkateter med subkutan injeksjonsport
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innstilling/kontroll av elektrisk stimulator, ryggmarg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innstilling/kontroll av elektrisk stimulator, ryggmarg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGT05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontroll/omlegging ved epidural eller intradural smertebehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGT05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll/omlegging ved epidural eller intradural smertebehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGX00 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Epidural blodlapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ABGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epidural blodlapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ABW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on spinal cord and nerve roots
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ABW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på spinalkanal, ryggmarg eller nerverot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    AC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Peripheral nerves
+#RUOTSI     ---
+#ENGL       Peripheral nerves
+#OHJE_S  
+Peripheral nerve block, see: TAC 00
+#OHJE_R 
+---
+###
+#KOODI_A    ACA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostic operations on peripheral nerves
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ACA11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA14  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA16  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA17  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA18  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA19  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA24  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA26  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA27  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA28  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA29  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA91  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA92  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA93  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA94  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA95  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA96  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA97  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA98  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen diagnostisk operasjon på annen el uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ACB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for lesion of peripheral nerves
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ACB11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB14  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB16  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB17  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB18  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB19  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i annen eller uspesifisert perifer nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB24  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB26  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB27  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB28  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB29  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB91  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB92  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB93  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB94  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB95  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB96  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB97  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB98  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lesjon i annen perifer nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ACC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for impaired function of peripheral nerves
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ACC11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC14  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Overskjæring av nervus  tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC15  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Overskjæring av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC15  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Overskjæring av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC15  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Overskjæring av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC15  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC16  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC17  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring i plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC18  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC19  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overskjæring av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC24  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC26  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC27  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC28  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC29  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av nervepleksus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC42  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC43  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC44  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC45  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC46  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC47  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon i plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC48  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC49  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposisjon av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC52  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC53  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC54  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC55  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC56  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC57  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning i plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC58  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC59  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompr og adheranseløsning av annen el uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC59  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC59  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompresjon og adheranseløsning av annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC91  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus medianus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC92  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC93  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC94  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus peroneus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC95  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus tibialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC96  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen op for funksjonsforstyrrelse i nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC96  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i nervus ischiadicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC97  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i plexus lumbalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC98  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i plex brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i plexus brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen op for funksjonsforst i annen el uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACC99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for funksjonsforstyrrelse i annen eller uspesifisert nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sensorisk nevrografi med nålelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sensorisk nevrografi med nålelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sensorisk nevrografi med overflateelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sensorisk nevrografi med overflateelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Motorisk nevrografi med nålelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motorisk nevrografi med nålelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Motorisk nevrografi med overflateelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motorisk nevrografi med overflateelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Motorisk inchingundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motorisk inchingundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nevrografi med repetitiv nervestimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nevrografi med repetitiv nervestimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Blinkrefleks nevrografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE30 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blinkrefleks nevrografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE39 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Motorisk og sensorisk elektronevrografi IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE39 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Motorisk og sensorisk elektronevrografi IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrofysiologisk registrerte reflekser IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFE99 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrofysiologisk registrerte reflekser IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Termotest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Termotest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      H-refleks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      H-refleks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vibrametri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vibrametri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACFX99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kvantitativ sensorisk test IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGB59 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transkutan nervestimulering INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGB59 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transkutan nervestimulering INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGB69 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Direkte nervestimulering INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGB69 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Direkte nervestimulering INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGB89 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intrakutan nervestimulering INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGB89 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakutan nervestimulering INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGX90 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nevrolyse ved injeksjon av nevrotoksisk substans
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGX90 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lokal injeksjon av nevrotoksisk substans
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGX99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nevrolyse IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ACGX99 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nevrolyse IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ACW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on peripheral nerves
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      ACW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på perifer nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    AD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Autonomic nervous system
+#RUOTSI     ---
+#ENGL       Autonomic nervous system
+###
+#KOODI_A    ADA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on sympathetic nerves
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Sympathetic block, see: TAD 00
+#OHJE_R 
+---
+###
+#KOODI      ADA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cervikal sympatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Thorakal sympatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Torakal sympatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakal sympatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lumbal sympatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på sympatisk nerve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADB00  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av vagusstimulator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      P300 eller tilsvarende kognitive responser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      P300 eller tilsvarende kognitive responser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sympatisk hudresponstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sympatisk hudresponstest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Parasympatisk R-R respons
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parasympatisk R-R respons
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Posturaltest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Posturaltest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Valsalvatest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valsalvatest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADFX99 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Autonom test IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADGB00 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stimulering av vagusnerven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADGB00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stimulering av vagusnerven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innstilling av elektrisk stimulator for vagusstimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADGT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innstilling av elektrisk stimulator for vagusstimulering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      ADPE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2013/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal renal sympatisk denervasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    ADW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on autonomic nervous system
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Vagotomy, see: JDG
+#OHJE_R 
+---
+###
+#KOODI      ADW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på det autonome nervesystem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA00  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskift av impulsgen til stimulator i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskifting av impulsgenerator til stimulator i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskifting av impulsgenerator til stimulator i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA20  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av impulsgen til stimulator i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av impulsgenerator til stimulator i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av impulsgenerator til stimulator i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA23  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av intrakraniell elektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA24  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av intraspinal elektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA25  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av vagusstimulatorelektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA27  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskifting av spinal stimulasjonselektrode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA30  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskifting impl pumpe til injkateter i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskifting av implantert pumpe til injeksjonskateter i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskifting av implantert pumpe til injeksjonskateter i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA40  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av impl pumpe til injkateter i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av implantert pumpe til injeksjonskateter i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantert pumpe til injeksjonskateter i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA43  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av intrakranielt injeksjonskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AEA44  
+#MUUT_PVM   2001/10/16
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av intraspinalt injeksjonskateter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    AW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations for postoperative complications in neurosurgery
+#RUOTSI     ---
+#ENGL       Reoperations for postoperative complications in neurosurgery
+#OHJE_S  
+Puncture, needle biopsy and other minor procedures, see: TA
+#OHJE_R 
+---
+###
+#KOODI_A    AWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in surgery of the nervous system
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AWA00  
+#MUUT_PVM   2008/10/20
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    Reoperasjon for sårruptur etter inngrep
+###
+#KOODI_A    AWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in surgery of the nervous system
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound infection
+#OHJE_R 
+---
+###
+#KOODI      AWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfladisk infeksjon etter inngr på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AWB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AWB00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in surgery of the nervous system
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For infection at the site of target organs or structures
+#OHJE_R 
+---
+###
+#KOODI      AWC00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in surgery of the nervous system
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      AWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfladisk blødning etter inngr på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AWD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning i nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AWD00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in surgery of the nervous system
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For haemorrhage or haematoma at the site of target organs or structures
+#OHJE_R 
+---
+###
+#KOODI      AWE00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    AWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperation in surgery of the nervous system
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      AWW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AWW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reoperasjon på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AWW99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på nervesystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXAA00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroperativ overvåking med elektromyografi (EMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXDP00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Videofrenzelundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXDP00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Videofrenzelundersøkelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektromyografi (EMG), visuell vurdering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografi (EMG), visuell vurdering
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE02 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektromyografi  (EMG), kvantitativ
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE02 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografi  (EMG), kvantitativ
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE05 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Single fibre elektromyografi  (SFEMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Single fibre elektromyografi  (SFEMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE10 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Makro elektromyografi (EMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Makro elektromyografi (EMG)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE15 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektromyografiledet injeksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografiveiledet injeksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektronystagmografi med eller uten kalorisk prøve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektronystagmografi med eller uten kalorisk prøve
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFE29 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektromyografi IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Diagnostisk legemiddeltest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisk legemiddeltest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFX02 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2013/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kvalitativ test av luktesans etter standardisert skjema
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFX09 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kvantitative sensoriske tester IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXFX09 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kvantitative sensoriske tester IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXOB35 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi i sentralnervesystemet
+#RUOTSI     ---
+#LYHENNE    

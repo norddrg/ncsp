@@ -1,0 +1,6599 @@
+
+###
+#KOODI_L    F
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på hjärtat och de stora intratorakala kärlen
+#RUOTSI     ---
+#ENGL       Heart and major thoracic vessels procedures
+###
+#KOODI_R    FA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på stora intratorakala vener
+#RUOTSI     ---
+#ENGL       Major thoracic veins
+###
+#KOODI_A    FAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sutur eller rekonstruktion av intratorakala vena cava
+#RUOTSI     ---
+#ENGL       Suture or repair of thoracic vena cava
+###
+#KOODI      FAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur eller rekonstruktion av intratorakala vena cava med implantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sutur eller rekonstruktion av intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAA
+#OHJE_R 
+---
+###
+#KOODI_A    FAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision och excision av vena cava
+#RUOTSI     ---
+#ENGL       Incision and excision of thoracic vena cava
+###
+#KOODI      FAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAB22 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transluminalt avlägsnande av främmande kropp från intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av patologisk förändring i intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan incision i eller excision av intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAB
+#OHJE_R 
+---
+###
+#KOODI_A    FAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektion, rekonstruktion och ligatur av intratorakala vena cava
+#RUOTSI     ---
+#ENGL       Resection, reconstruction or ligature of thoracic vena cava
+###
+#KOODI      FAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion eller ligatur av intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av intratorakala vena cava med autologt ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av intratorakala vena cava med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAC22 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik av intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAC25 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik av intratorakala vena cava med inläggande av stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion, rekonstruktion eller ligatur av intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAC
+#OHJE_R 
+---
+###
+#KOODI_A    FAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass-operationer på intratorakala vena cava
+#RUOTSI     ---
+#ENGL       Bypass operations on thoracic vena cava
+###
+#KOODI      FAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass-operation på intratorakala vena cava med autologt ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass-operation på intratorakala vena cava med rörprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bypass-operation på intratorakala vena cava
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAD
+#OHJE_R 
+---
+###
+#KOODI_A    FAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anastomoser mellan arteria pulmonalis och vena cava
+#RUOTSI     ---
+#ENGL       Connection to pulmonary artery from superior vena cava
+###
+#KOODI      FAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos mellan vena cava superior och arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bidirektionell shunt mellan vena cava superior och arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total cavopulmonal förbindelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total cavopulmonal förbindelse med fenestrerad patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAE40 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total cavopulmonal extrakardiell förbindelse
+#RUOTSI     ---
+#LYHENNE    Total cavo-pulmonell extrakardiell förbi
+###
+#KOODI      FAE50 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total extrakardiell cavopulmonal förbindelse med shunt till atrium
+#RUOTSI     ---
+#LYHENNE    Tot extrakardl cavopulml förb med shunt
+###
+#KOODI      FAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan cavopulmonal anastomosoperation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAE
+#OHJE_R 
+---
+###
+#KOODI_A    FAF
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#SUOMI      Slutning av anastomoser mellan arteria pulmonalis och vena cava
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      FAF00 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrering av total cavopulmonal förbindelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAF10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av fenestrering vid cavopulmonal förbindelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAF12 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av fenestrering vid cavopulmonal förbindelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAF20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av cavopulmonal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FAF96 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation efter anläggande av cavopulmonal förbindelse
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAF
+#OHJE_R 
+---
+###
+#KOODI_A    FAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på intratorakala vener
+#RUOTSI     ---
+#ENGL       Other operations on major thoracic veins
+###
+#KOODI      FAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på intratorakal ven
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på arteria pulmonalis och dess grenar
+#RUOTSI     ---
+#ENGL       Pulmonary artery with branches
+###
+#KOODI_A    FBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sutur och rekonstruktion av arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Suture or repair of pulmonary artery
+###
+#KOODI      FBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av arteria pulmonalis med implantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sutur eller rekonstruktion av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBA
+#OHJE_R 
+---
+###
+#KOODI_A    FBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision/utrymning av arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Incision of pulmonary artery
+###
+#KOODI      FBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transarteriell extraktion av lungemboli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i arteria pulmonalis vid kronisk obstruktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från arteria pulmonalis eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBB52 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transluminalt avlägsnande av främmande kropp från arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan incision i arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBB
+#OHJE_R 
+---
+###
+#KOODI_A    FBC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Banding-operationer på arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Banding operations on pulmonary artery
+###
+#KOODI      FBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bandning av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bandning av arteria pulmonalis tillsammans med annat ingrepp för medfött hjärtfel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bandnings-operation på arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBC
+#OHJE_R 
+---
+###
+#KOODI_A    FBD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Debanding-operationer på arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Debanding operations on pulmonary artery
+###
+#KOODI      FBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av band från arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av band från och dilatation av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBD12 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal bandsprängning och dilatation av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    Perk transl bandspr och dilat a pulmnol
+###
+#KOODI      FBD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av band från och rekonstruktion av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation med avlägsnande av band från arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBD
+#OHJE_R 
+---
+###
+#KOODI_A    FBE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vidgning eller rekonstruktion av arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Expansion and reconstruction of pulmonary artery
+###
+#KOODI      FBE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning eller rekonstruktion av arteria pulmonalis (ev med implantat)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av arteria pulmonalis med rörformad protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBE32 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBE35 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik av arteria pulmonalis med inläggande av stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBE42 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal rekanalisering av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan vidgning eller rekonstruktion av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBE
+#OHJE_R 
+---
+###
+#KOODI_A    FBF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reduktion av arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Reduction of pulmonary artery
+###
+#KOODI      FBF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av arteria pulmonalis med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av arteria pulmonalis med rekonstruktion av luftvägar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reduktion av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBF
+#OHJE_R 
+---
+###
+#KOODI_A    FBG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Unifokalisering av parallela grenar av arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Unifocalisation in MAPCA with implantation in
+###
+#KOODI      FBG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos till arteria pulmonalis från MAPCA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos till protes från MAPCA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan unifokalisering vid MAPCA
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBG
+#OHJE_R 
+---
+###
+#KOODI_A    FBH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid pulmonell kärlslynga
+#RUOTSI     ---
+#ENGL       Repair of pulmonary artery sling
+###
+#KOODI      FBH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transponering av pulmonal kärlslynga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transponering med delning av luftväg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion vid pulmonal kärlslynga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBH
+#OHJE_R 
+---
+###
+#KOODI_A    FBJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Subklavio-pulmonella shuntoperationer
+#RUOTSI     ---
+#ENGL       Connection to pulmonary artery from subclavian artery
+###
+#KOODI      FBJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subklaviopulmonal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subklaviopulmonal shunt med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan subklaviopulmonal shuntoperation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBJ
+#OHJE_R 
+---
+###
+#KOODI_A    FBK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av subklavio-pulmonell anastomos
+#RUOTSI     ---
+#ENGL       Closure of subclavio-pulmonary connection
+###
+#KOODI      FBK03 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av subklaviopulmonal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBK13 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av subklaviopulmonal anastomos med rekonstruktion av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBK96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för slutning av subklaviopulmonal shunt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBK
+#OHJE_R 
+---
+###
+#KOODI_A    FBL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aorto-pulmonella anastomoser och shuntar
+#RUOTSI     ---
+#ENGL       Connection to pulmonary artery from aorta
+###
+#KOODI      FBL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos mellan aorta ascendens och arteria pulmonalis huvudstam
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortopulmonal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBL20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Distal aortopulmonal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBL30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortopulmonal shunt med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBL40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortopulmonal anastomos eller shunt vid univentrikulära hjärtmissbildningar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBL50 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortopulmonal anastomos med delning av arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    Aortopulmonell anast med delning av a pu
+###
+#KOODI      FBL96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan aortopulmonal anastomos eller shunt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBL
+#OHJE_R 
+---
+###
+#KOODI_A    FBM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning eller delning av anlagda aorto-pulmonella anastomoser och shuntar
+#RUOTSI     ---
+#ENGL       Closure of artificial aorto-pulmonary connection
+###
+#KOODI      FBM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av central aortopulmonal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBM10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av aortopulmonal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBM20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av distal aortopulmonal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBM30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av aortopulmonal protesshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBM96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan slutning eller delning av anlagd aortopulmonal anastomos eller shunt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBM
+#OHJE_R 
+---
+###
+#KOODI_A    FBN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för fistel från arteria pulmonalis
+#RUOTSI     ---
+#ENGL       Closure of fistula of pulmonary artery
+###
+#KOODI      FBN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av fistel från arteria pulmonalis till förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBN10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av arteriovenös fistel från arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FBN96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för fistel från arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBN
+#OHJE_R 
+---
+###
+#KOODI_A    FBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Övriga operationer på arteria pulmonalis och dess grenar
+#RUOTSI     ---
+#ENGL       Other operations on pulmonary artery and branches
+###
+#KOODI      FBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på arteria pulmonalis eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på torakala och torakoabdominala aorta
+#RUOTSI     ---
+#ENGL       Thoracic and thoracoabdominal aorta, excluding malformations
+###
+#KOODI_A    FCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av aorta ascendens
+#RUOTSI     ---
+#ENGL       Repair of ascending aorta
+###
+#KOODI      FCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta ascendens med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta ascendens med delning och sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yttre förstärkning av aorta ascendens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell resektion och sutur av aorta ascendens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta ascendens med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA45 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant inläggande av stent i aorta ascendens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av aorta ascendens med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av aortaroten och aorta ascendens med reimplantation av koronarartärer och användande av klaffbärande kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av aortaroten och aorta ascendens med reimplantation av koronarartärer och användande av biologisk klaff och kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA80 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av aortaroten och aorta ascendens med reimplantation av koronarartärer och med bibehållande av patientens egen aortaklaff
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCA83 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från aorta ascendens
+#RUOTSI     ---
+#LYHENNE    Avlägs av främm kropp fr aort asc
+###
+#KOODI      FCA84 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant avlägsnande av främmande kropp från aorta ascendens
+#RUOTSI     ---
+#LYHENNE    Perk avlägs av främm kropp fr aort asc
+###
+#KOODI      FCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av aorta ascendens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FCA
+#OHJE_R 
+---
+###
+#KOODI_A    FCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av aortabågen
+#RUOTSI     ---
+#ENGL       Repair of aortic arch
+###
+#KOODI      FCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aortabågen med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aortabågen med delning och sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell resektion och sutur av aortabågen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aortabågen med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB35 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant inläggande av stent till aortabågen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av aortabågen med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av aortabågen och reimplantation av grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCB80 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA      FCSA50    
+#SUOMI      Avlägsnande av främmande kropp från aortabågen
+#RUOTSI     ---
+#LYHENNE    Avlägs av främm kropp fr aortabåg
+###
+#KOODI      FCB82 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant avlägsnande av främmande kropp från aortabågen
+#RUOTSI     ---
+#LYHENNE    Perk avlägs av främm kropp fr aortabåg
+###
+#KOODI      FCB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av aortabågen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FCB
+#OHJE_R 
+---
+###
+#KOODI_A    FCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av aorta descendens
+#RUOTSI     ---
+#ENGL       Repair of descending aorta
+###
+#KOODI      FCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta descendens med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta descendens med delning och sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC20 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yttre förstärkning av aorta descendens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell resektion och sutur av aorta descendens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta descendens med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC45 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant inläggande av stent i aorta descendens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av aorta descendens med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av aorta descendens med reimplantation av grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC70 
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass av aorta descendens med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC76 
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass av torakoabdominala aorta med protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCC80 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från aorta descendens
+#RUOTSI     ---
+#LYHENNE    Avlägs av främm kropp fr aort desc
+###
+#KOODI      FCC82 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant avlägsnande av främmande kropp från aorta descendens
+#RUOTSI     ---
+#LYHENNE    Perk avlägs av främm kropp fr aort desc
+###
+#KOODI      FCC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av aorta descendens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FCC
+#OHJE_R 
+---
+###
+#KOODI_A    FCD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av torakoabdominala aorta
+#RUOTSI     ---
+#ENGL       Repair of thoracoabdominal aorta
+###
+#KOODI      FCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förstärkning av torakoabdominala aorta med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av torakoabdominala aorta med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD35 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant inläggande av stent i torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell resektion och sutur av torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av torakoabdominala aorta med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion av torakoabdominala aorta med reimplantation av grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass av torakoabdominala aorta med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCD80 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    Avlägs av främm kropp fr tor.abd aorta
+###
+#KOODI      FCD82 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant avlägsnande av främmande kropp från torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    Perk avlägs av främm kropp fr tor.abd ao
+###
+#KOODI      FCD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FCD
+#OHJE_R 
+---
+###
+#KOODI_A    FCE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av förvärvad fistel från aorta
+#RUOTSI     ---
+#ENGL       Closure of acquired fistula from aorta
+###
+#KOODI      FCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av rupturerat sinus Valsalva-aneurysm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCE10 
+#MUUT_PVM   2001/09/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av förvärvad aortovenös fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av förvärvad aortopulmonal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCE30 
+#MUUT_PVM   2001/09/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av förvärvad aortobronkial fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av förvärvad aortoenterisk fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FCE96 
+#MUUT_PVM   2002/09/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av annan förvärvad fistel från aorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FCW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på torakala och torakoabdominala aorta
+#RUOTSI     ---
+#ENGL       Other operations on thoracic or thoracoabdominal aorta
+###
+#KOODI      FCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på torakala eller torakoabdominala aorta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för anomalier och defekter med relation till bröstaorta
+#RUOTSI     ---
+#ENGL       Malformations relating to thoracic aorta
+###
+#KOODI_A    FDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för HLHS
+#RUOTSI     ---
+#ENGL       Operations for hypoplastic left heart syndrome
+###
+#KOODI      FDA00 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortaplastik och aortopulmonal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDA10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortaplastik och ventrikulopulmonal shunt för HLHS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för HLHS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDA
+#OHJE_R 
+---
+###
+#KOODI_A    FDB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för TGA
+#RUOTSI     ---
+#ENGL       Operations for transposition of the great arteries
+###
+#KOODI      FDB03 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Artärswitch för TGA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operation för komplicerad TGA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Switchoperation för annan medfödd hjärtmissbildning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för TGA
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDB
+#OHJE_R 
+---
+###
+#KOODI_A    FDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för truncus arteriosus communis
+#RUOTSI     ---
+#ENGL       Repair of persistent truncus arteriosus
+###
+#KOODI      FDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av truncus arteriosus communis med protes utan klaff från höger kammare till a pulmonalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av truncus arteriosus communis med klaffbärande protes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDC20 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av truncus arteriosus communis med anastomos från höger kammare till arteria pulmonalis
+#RUOTSI     ---
+#LYHENNE    Rep tr art pers anast hög kam till a pul
+###
+#KOODI      FDC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reparation av truncus arteriosus communis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDC
+#OHJE_R 
+---
+###
+#KOODI_A    FDD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av kongenital fistel från aorta
+#RUOTSI     ---
+#ENGL       Closure of congenital fistula from aorta
+###
+#KOODI      FDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av aortopulmonal tunnel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av aortopulmonalt fönster
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDD13 
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av aortopulmonalt fönster med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av aortopulmonalt fönster med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för kongenital fistel från aorta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDD
+#OHJE_R 
+---
+###
+#KOODI_A    FDE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av ductus arteriosus
+#RUOTSI     ---
+#ENGL       Closure of patent ductus arteriosus
+###
+#KOODI      FDE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDE31 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk slutning av öppen ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    Torakoskopisk slutning av öppen ductus a
+###
+#KOODI      FDE32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDE
+#OHJE_R 
+---
+###
+#KOODI_A    FDF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av aorto-pulmonella kollateraler
+#RUOTSI     ---
+#ENGL       Closure of aorto-pulmonary collaterals
+###
+#KOODI      FDF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av aortopulmonala kollateraler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDF05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av aortopulmonala kollateraler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FDG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation vid supravalvulär aortastenos
+#RUOTSI     ---
+#ENGL       Operations for supravalvular aortic stenosis
+###
+#KOODI      FDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta ascendens vid supravalvulär aortastenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aorta ascendens med patch vid supravalvulär aortastenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid supravalvulär aortastenos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDG
+#OHJE_R 
+---
+###
+#KOODI_A    FDH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid hypoplasi eller atresi av aortabågen
+#RUOTSI     ---
+#ENGL       Operations for interrupted or hypoplastic aortic arch
+###
+#KOODI      FDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      End-to-end-rekonstruktion av aortabågen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aortabågen med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aortabågen med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av aortabågen med bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion vid hypoplasi eller atresi av aortabågen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDH
+#OHJE_R 
+---
+###
+#KOODI_A    FDJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid aortakoarktation
+#RUOTSI     ---
+#ENGL       Operations for coarctation of aorta
+###
+#KOODI      FDJ00 
+#MUUT_PVM   1995/12/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      End-to-end-rekonstruktion vid aortakoarktation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortaplastik med arteria subclavia eller arteria carotis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDJ20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortaplastik med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDJ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion vid aortakoarktation med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDJ42 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik vid aortakoarktation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDJ96 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion vid aortakoarktation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDJ
+#OHJE_R 
+---
+###
+#KOODI_A    FDM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation vid kärlring
+#RUOTSI     ---
+#ENGL       Operation for vascular ring anomalies of aortic arch
+###
+#KOODI      FDM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av dubbel aortabåge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDM10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av annan kärlringsanomali vid aortabågen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDM11 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk delning av annan kärlringsanomali vid aortabågen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDM20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av artärslynga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FDM96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för kärlringsanomali vid aortabågen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FDN
+#MUUT_PVM   2000/10/11
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer av ductus arteriosus att uppehålla d.a. öppen
+#RUOTSI     ---
+#ENGL       Operations on ductus arteriosus to maintain patency
+###
+#KOODI      FDN02 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal inläggning av stent i ductus arteriosus
+#RUOTSI     ---
+#LYHENNE    Perk transl inläggning av stent i duct a
+###
+#KOODI_A    FDW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer för anomalier och defekter med relation till bröstaorta
+#RUOTSI     ---
+#ENGL       Other operations for malformations of thoracic or thoracoabdominal aorta
+###
+#KOODI      FDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för anomali eller defekt med relation till bröstaorta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på perikardiet
+#RUOTSI     ---
+#ENGL       Pericardium
+###
+#KOODI_A    FEA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutant dränage av perikardiet
+#RUOTSI     ---
+#ENGL       Closed external drainage of pericardium
+###
+#KOODI      FEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutet externt dränage av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FEB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perikardiotomi
+#RUOTSI     ---
+#ENGL       Pericardiotomy
+###
+#KOODI      FEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekompression och dränage av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEB51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk perikardiotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perikardiotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FEC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Intern perikardiostomi
+#RUOTSI     ---
+#ENGL       Internal pericardiostomy
+###
+#KOODI      FEC00 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perikardio-pleurostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEC01 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk perikardio-pleurostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEC10 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perikardio-peritoneostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEC96 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intern perikardiostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FEC
+#OHJE_R 
+---
+###
+#KOODI_A    FED
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på perikardiet
+#RUOTSI     ---
+#ENGL       Repair of injury
+###
+#KOODI      FED00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FED03 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av perikardiet med patch
+#RUOTSI     ---
+#LYHENNE    Rekonstruktion av perikardiet med patch
+###
+#KOODI      FED10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av perikardiet och diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FED96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reparation av perikardiet
+#RUOTSI     ---
+#LYHENNE    Annan reparation av perikardiet
+#OHJE_S  
+Se övriga FED
+#OHJE_R 
+---
+###
+#KOODI_A    FEE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi eller excision av patologisk förändring i perikardiet
+#RUOTSI     ---
+#ENGL       Biopsy or excision of lesion of pericardium
+###
+#KOODI      FEE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk biopsi av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEE10 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av patologisk förändring i perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEE96 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan biopsi eller excision av patologisk förändring i perikardiet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FEE
+#OHJE_R 
+---
+###
+#KOODI_A    FEF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektion och exstirpation av perikardiet
+#RUOTSI     ---
+#ENGL       Resection or extirpation of pericardium
+###
+#KOODI      FEF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perikardektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subtotal perikardektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perikardektomi med dekortikation av hjärtytan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEF31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk perikardektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FEF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion eller exstirpation av perikardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FEW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på perikardiet
+#RUOTSI     ---
+#ENGL       Other operations on pericardium
+###
+#KOODI      FEW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på perikardiet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FEX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på förmak, förmaksseptum och lungvener
+#RUOTSI     ---
+#ENGL       Atrium, atrial septum and pulmonary veins
+###
+#KOODI_A    FFA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi eller excision av patologisk förändring i förmak
+#RUOTSI     ---
+#ENGL       Biopsy or excision of lesion of atrium
+###
+#KOODI      FFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFA02 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal biopsi av förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av patologisk förändring i förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av tromber i förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFA32 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transluminalt avlägsnande av främmande kropp från förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan biopsi eller excision av patologisk förändring i förmak
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFA
+#OHJE_R 
+---
+###
+#KOODI_A    FFB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reparation av skada på förmak
+#RUOTSI     ---
+#ENGL       Operations on atrium for injury
+###
+#KOODI      FFB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av förmak vid skada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reparation av skada på förmak
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFB
+#OHJE_R 
+---
+###
+#KOODI_A    FFC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av isolerad förmaksseptumdefekt
+#RUOTSI     ---
+#ENGL       Closure of isolated atrial septal defect
+###
+#KOODI      FFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av ASD, sekundumtyp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av ASD, sinus venosustyp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFC22 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av ASD, sekundumtyp
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl användning av paraplyprotes
+#OHJE_R 
+---
+###
+#KOODI      FFC32 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av ASD, sinus venosustyp
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl användning av paraplyprotes
+#OHJE_R 
+---
+###
+#KOODI      FFC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av ASD med patch, sekundumtyp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av ASD med patch, sinus venosustyp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid isolerad förmaksseptumdefekt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFC
+#OHJE_R 
+---
+###
+#KOODI_A    FFD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation vid ostium atrioventriculare commune (ASD primum)
+#RUOTSI     ---
+#ENGL       Operations for partial atrio-ventricular septal defect
+###
+#KOODI      FFD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av inkomplett atrioventrikulär septumdefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av inkomplett atrioventrikulär septumdefekt med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid inkomplett atrioventrikulär septumdefekt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFD
+#OHJE_R 
+---
+###
+#KOODI_A    FFE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anläggande eller förstoring av förmaksseptumdefekt
+#RUOTSI     ---
+#ENGL       Creation or expansion of atrial septal defect
+###
+#KOODI      FFE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av ASD, slutet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFE02 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av ASD, perkutant transluminalt
+#RUOTSI     ---
+#LYHENNE    Anläggande av ASD, perkutant translumina
+#OHJE_S  
+Inkl användning av ballongkateter
+Rashkind
+
+#OHJE_R 
+---
+###
+#KOODI      FFE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande eller förstoring av ASD, öppet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för atrioseptostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFE
+#OHJE_R 
+---
+###
+#KOODI_A    FFF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transposition av partiellt anomalt mynnande lungvener
+#RUOTSI     ---
+#ENGL       Operations for partially anomalous pulmonary veins
+###
+#KOODI      FFF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transponering med intraatrial patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande eller förstoring av ASD inkl transponering med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos till vänster förmak
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid partiellt anomalt mynnande lungvener
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFF
+#OHJE_R 
+---
+###
+#KOODI_A    FFG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transposition av totalt anomalt mynnande lungvener
+#RUOTSI     ---
+#ENGL       Correction of total anomalous pulmonary vein drainage
+###
+#KOODI      FFG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation vid suprakardiell TAPVD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation vid kardiell TAPVD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation vid infrakardiell TAPVD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation vid blandad TAPVD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid totalt anomalt mynnande lungvener
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFG
+#OHJE_R 
+---
+###
+#KOODI_A    FFH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för lungvensstenos
+#RUOTSI     ---
+#ENGL       Operations for stenosis of pulmonary vein
+###
+#KOODI      FFH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation vid primär lungvensstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation vid lungvensstenos efter tidigare korrigerad TAPVD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFH22 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik av lungven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFH25 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal angioplastik av lungven med inläggande av stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för lungvensstenos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFH
+#OHJE_R 
+---
+###
+#KOODI_A    FFJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transpositionsoperationer på förmaksnivå
+#RUOTSI     ---
+#ENGL       Interatrial transposition of venous return
+###
+#KOODI      FFJ00 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraatrial korrektion utan patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFJ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraatrial korrektion med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFJ96 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intraatrial korrektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFJ
+#OHJE_R 
+---
+###
+#KOODI_A    FFK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Atrial anastomosoperation (Fontan inkl modifikationer)
+#RUOTSI     ---
+#ENGL       Atrial anastomosis operations
+###
+#KOODI      FFK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Atrioventrikulär anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Atriopulmonell anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFK96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan atrial anastomosoperation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFK
+#OHJE_R 
+---
+###
+#KOODI_A    FFL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid cor triatriatum
+#RUOTSI     ---
+#ENGL       Reconstruction of atrium in cor triatriatum
+###
+#KOODI      FFL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av intraatrialt membran
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av membran och slutning av ASD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FFL96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion vid cor triatriatum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFL
+#OHJE_R 
+---
+###
+#KOODI_A    FFW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på förmak
+#RUOTSI     ---
+#ENGL       Other operations on atria
+###
+#KOODI      FFW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på förmak
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FFX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på trikuspidalklaffen
+#RUOTSI     ---
+#ENGL       Tricuspid valve
+###
+#KOODI_A    FGA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av trikuspidalklaffen vid stenos
+#RUOTSI     ---
+#ENGL       Repair of tricuspid valve for stenosis
+###
+#KOODI      FGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommissurotomi vid kongenital stenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommissurotomi vid förvärvad stenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGA32 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal vidgning av trikuspidalstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av trikuspidalklaffen vid stenos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FGA
+#OHJE_R 
+---
+###
+#KOODI_A    FGB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid Ebsteins anomali
+#RUOTSI     ---
+#ENGL       Repair of Ebstein's anomaly
+###
+#KOODI      FGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion med atrioventrikulär plikatur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion med mobilisering och ventrikulär plikatur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion vid Ebsteins anomali
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FGB
+#OHJE_R 
+---
+###
+#KOODI_A    FGC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anuloplastik vid trikuspidalinsufficiens
+#RUOTSI     ---
+#ENGL       Annuloplasty of tricuspid valve for insufficiency
+###
+#KOODI      FGC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anuloplastik med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anuloplastik med ring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan anuloplastik vid trikuspidalinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FGC
+#OHJE_R 
+---
+###
+#KOODI_A    FGD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid trikuspidalinsufficiens
+#RUOTSI     ---
+#ENGL       Repair of tricuspid valve for insufficiency
+###
+#KOODI      FGD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av trikuspidalklaff med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGD03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av defekt i trikuspidalklaffen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av trikuspidalklaff med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion med sutur av papillarmuskel eller kordor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion med artificiella kordor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion vid trikuspidalinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FGD
+#OHJE_R 
+---
+###
+#KOODI_A    FGE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Implantation av trikuspidalklaffprotes
+#RUOTSI     ---
+#ENGL       Prosthetic replacement of tricuspid valve
+###
+#KOODI      FGE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av mekanisk trikuspidalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av biologisk trikuspidalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av trikuspidalklaff, homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FGE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan implantation av trikuspidalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FGE
+#OHJE_R 
+---
+###
+#KOODI_A    FGW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Övriga operationer på trikuspidalklaffen
+#RUOTSI     ---
+#ENGL       Other operations on tricuspid valve
+###
+#KOODI      FGW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på trikuspidalklaffen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FGX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på ventrikelseptum
+#RUOTSI     ---
+#ENGL       Ventricular septum
+###
+#KOODI_A    FHA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av förvärvad ventrikelseptumdefekt
+#RUOTSI     ---
+#ENGL       Closure of acquired ventricular septal defect
+###
+#KOODI      FHA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av VSD efter skada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av VSD efter anteroseptal infarkt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av VSD efter posteroseptal infarkt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan slutning av förvärvad ventrikelseptumdefekt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHA
+#OHJE_R 
+---
+###
+#KOODI_A    FHB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av isolerad kongenital ventrikelseptumdefekt
+#RUOTSI     ---
+#ENGL       Closure of isolated congenital ventricular septal defect
+###
+#KOODI      FHB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transatrial direktsutur av VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transventrikulär direktsutur av VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transpulmonal direktsutur av VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transaortal direktsutur av VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB40 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ transluminal slutning av ventrikelseptumdefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB42 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av ventrikelseptumdefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transatrial slutning av VSD med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transventrikulär slutning av VSD med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transpulmonal slutning av VSD med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transaortal slutning av VSD med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHB96 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan slutning av medfödd ventrikelseptumdefekt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHB
+#OHJE_R 
+---
+###
+#KOODI_A    FHC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av multipla ventrikelseptumdefekter
+#RUOTSI     ---
+#ENGL       Closure of multiple congenital ventricular septal defects
+###
+#KOODI      FHC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transatrial slutning av multipla VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av multipla VSD genom högersidig ventrikulotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av multipla VSD genom vänstersidig ventrikulotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av multipla VSD med kombinerad atriotomi och ventrikulotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan slutning av multipla ventrikelseptumdefekter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHC
+#OHJE_R 
+---
+###
+#KOODI_A    FHD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korrektion vid komplett ostium A-V commune
+#RUOTSI     ---
+#ENGL       Repair of complete atrio-ventricular septal defect
+###
+#KOODI      FHD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av total atrioventrikulär septumdefekt med atrioventrikulär patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHD03 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av komplett atrioventrikulär septumdefekt med förmaksseptumpatch och sutur av ventrikelseptumdefekt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av total atrioventrikulär septumdefekt med två-patch teknik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av total atrioventrikulär septumdefekt med samtidig resektion av pulmonalisstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reparation av total atrioventrikulär septumdefekt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHD
+#OHJE_R 
+---
+###
+#KOODI_A    FHE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korrektion av Fallots tetrad
+#RUOTSI     ---
+#ENGL       Repair of tetralogy of Fallot
+###
+#KOODI      FHE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transatrial korrektion av Fallots tetrad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transventrikulär korrektion av Fallots tetrad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transventrikulär korrektion av Fallots tetrad med utflödespatch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av Fallots tetrad med transanulär patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av Fallots tetrad med ventrikulopulmonal protes eller homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan korrektion av Fallots tetrad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHE
+#OHJE_R 
+---
+###
+#KOODI_A    FHF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korrektion av pulmonalisatresi
+#RUOTSI     ---
+#ENGL       Repair of pulmonary atresia
+###
+#KOODI      FHF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av pulmonalisatresi med transanulär patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av pulmonalisatresi med ventrikulopulmonal protes eller homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av pulmonalisatresi med transanulär patch och slutning av VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av pulmonalisatresi med ventrikulopulmonal protes och slutning av VSD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan korrektion av pulmonalisatresi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHF
+#OHJE_R 
+---
+###
+#KOODI_A    FHG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av VSD med intraventrikulär transposition (double outlet ventricle)
+#RUOTSI     ---
+#ENGL       Closure of VSD with concurrent intraventricular transposition for double outlet ventricle
+###
+#KOODI      FHG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av DOLV
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av DORV
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHG20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraventrikulär switch med extraventrikulär conduit
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid dubbelt utflöde från hjärtkammare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FHH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anläggande eller vidgning av VSD
+#RUOTSI     ---
+#ENGL       Creation or expansion of VSD
+###
+#KOODI      FHH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning av VSD vid enkammarhjärta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning av VSD vid dubbelt utflöde från hjärtkammare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrering av anlagd patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat anläggande eller utvidgning av VSD
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHH
+#OHJE_R 
+---
+###
+#KOODI_A    FHJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av septum vid "common ventricle"
+#RUOTSI     ---
+#ENGL       Construction of septum in common ventricle
+###
+#KOODI      FHJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av septum med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av septum med fenestrerad patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FHJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid enkammarhjärta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHJ
+#OHJE_R 
+---
+###
+#KOODI_A    FHW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på ventrikelseptum
+#RUOTSI     ---
+#ENGL       Other operations on ventriclular septum
+###
+#KOODI      FHW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på ventrikelseptum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FHX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på höger kammare och pulmonalisklaffen
+#RUOTSI     ---
+#ENGL       Right ventricle and pulmonary valve
+###
+#KOODI_A    FJA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av höger kammare
+#RUOTSI     ---
+#ENGL       Biopsy of right ventricle
+###
+#KOODI      FJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJA12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal biopsi av högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan biopsi av högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FJB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reparation av skada på höger kammare (inkl främmande kropp)
+#RUOTSI     ---
+#ENGL       Repair of right ventricle for injury
+###
+#KOODI      FJB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av högra kammaren vid skada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av högra kammaren vid skada med implantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reparation av skada på högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FJB
+#OHJE_R 
+---
+###
+#KOODI_A    FJC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exstirpation av patologisk förändring eller främmande kropp i höger kammare
+#RUOTSI     ---
+#ENGL       Excision of lesion of right ventricle
+###
+#KOODI      FJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av patologisk vävnad i högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJC12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transluminalt avlägsnande av främmande kropp från högra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FJD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Op. på höger kammares utflödesregion vid medfödd eller förvärvad obstruktion
+#RUOTSI     ---
+#ENGL       Operations on right ventricle outlet for congenital or acquired obstruction
+###
+#KOODI      FJD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av fibromuskulär, infundibulär pulmonalisstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning av högra kammaren med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass av arteria pulmonalis med protes eller homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på högra kammarens utflödesregion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FJD och FJC
+#OHJE_R 
+---
+###
+#KOODI_A    FJE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation av isolerad pulmonalisstenos
+#RUOTSI     ---
+#ENGL       Operations on pulmonary valve for isolated stenosis
+###
+#KOODI      FJE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation av pulmonalstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valvulotomi vid pulmonalstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av pulmonalklaffen och vidgning av anulus med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transanulär patch med monocusp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJE42 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av pulmonalstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för isolerad pulmonalstenos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FJE
+#OHJE_R 
+---
+###
+#KOODI_A    FJF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Implantation av pulmonalisklaffprotes
+#RUOTSI     ---
+#ENGL       Prosthetic replacement of pulmonary valve
+###
+#KOODI      FJF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av mekanisk pulmonalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av biologisk pulmonalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJF12 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal implantation av biologisk pulmonalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av pulmonalklaffprotes, homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FJF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan implantation av pulmonalklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FJW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på höger kammare och pulmonalisklaffen
+#RUOTSI     ---
+#ENGL       Other operations on right ventricle and pulmonary valve
+###
+#KOODI      FJW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på högra kammaren och pulmonalklaffen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FJX (X avsser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på mitralisklaffen
+#RUOTSI     ---
+#ENGL       Mitral valve
+###
+#KOODI_A    FKA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer vid mitralisstenos
+#RUOTSI     ---
+#ENGL       Repair of mitral valve for stenosis
+###
+#KOODI      FKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommissurotomi vid mitralstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommissurotomi med dekalcifiering vid mitralstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommissurotomi och separering av chordae tendinae vid mitralstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKA32 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av mitralstenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid mitralstenos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FKA
+#OHJE_R 
+---
+###
+#KOODI_A    FKB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anuloplastik vid mitralisinsufficiens
+#RUOTSI     ---
+#ENGL       Annuloplasty of mitral valve for insufficiency
+###
+#KOODI      FKB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anuloplastik med sutur vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anuloplastik med ring vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan anuloplastik vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FKB
+#OHJE_R 
+---
+###
+#KOODI_A    FKC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Klaffrekonstruktion vid mitralisinsufficiens
+#RUOTSI     ---
+#ENGL       Repair of mitral valve for insufficiency
+###
+#KOODI      FKC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av mitralinsufficiens med sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av kluven mitralklaff
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Klaffsegelplastik vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förkortning eller förlängning av chordae vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av chordae eller papillarmuskel vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av mitralklaff med artificiella chordae
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av mitralklaffsegel med rekonstruktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan klaffrekonstruktion vid mitralinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FKC
+#OHJE_R 
+---
+###
+#KOODI_A    FKD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Implantation av mitralisklaffprotes
+#RUOTSI     ---
+#ENGL       Prosthetic replacement of mitral valve
+###
+#KOODI      FKD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av mekanisk mitralklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av biologisk mitralklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av mitralklaffprotes, homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FKD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan implantation av mitralklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FKD
+#OHJE_R 
+---
+###
+#KOODI_A    FKW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på mitralisklaffen
+#RUOTSI     ---
+#ENGL       Other operations on mitral valve
+###
+#KOODI      FKW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på mitralklaffen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FKX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på vänster kammare
+#RUOTSI     ---
+#ENGL       Left ventricle
+###
+#KOODI_A    FLA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av vänster kammare
+#RUOTSI     ---
+#ENGL       Biopsy of left ventricle
+###
+#KOODI      FLA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transvenös eller transarteriell biopsi av vänster kammare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLA12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal biopsi av vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan biopsi av vänster kammare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FLB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exstirpation av patologisk förändring/främmande kropp ur vänster kammare
+#RUOTSI     ---
+#ENGL       Excision of lesion of left ventricle
+###
+#KOODI      FLB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av patologisk vävnad i vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp i vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLB12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transluminalt avlägsnande av främmande kropp från vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FLC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av vänster kammare (t.ex. vid trauma eller infarkt)
+#RUOTSI     ---
+#ENGL       Repair of left ventricle
+###
+#KOODI      FLC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av vänstra kammarens vägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av vänstra kammarens vägg med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FLC
+#OHJE_R 
+---
+###
+#KOODI_A    FLD
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Utvidgande eller reduktion av vänsterkammare
+#RUOTSI     ---
+#ENGL       Expansion and reduction of left ventricle
+###
+#KOODI      FLD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plikatur vid vänsterkammaraneurysm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion vid vänsterkammaraneurysm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och rekonstruktion med patch vid vänsterkammaraneurysm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLD30 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell excision av vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLD50 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning av vänstra kammaren med plastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operativ reduktion eller dilatation av vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FLD
+#OHJE_R 
+---
+###
+#KOODI_A    FLE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid utflödesobstruktion i vänster kammare
+#RUOTSI     ---
+#ENGL       Repair of outlet obstruction of left ventricle
+###
+#KOODI      FLE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av subvalvulär membran i vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Myotomi eller myektomi vid obstruktiv kardiomyopati eller subvalvulär stenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLE20 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Myotomi eller myektomi samt vidgning med patch i kammarseptum vid utflödesobstruktion i vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Konno (modifierad)
+
+#OHJE_R 
+---
+###
+#KOODI      FLE32 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transkoronar destruktion av myokardiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid utflödesobstruktion i vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FLE
+#OHJE_R 
+---
+###
+#KOODI_A    FLF
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#SUOMI      Revaskularisation av hjärta genom väbben av vänster kammare med laser
+#RUOTSI     ---
+#ENGL       Transmyocardial laser revascularisation from left ventricle
+###
+#KOODI      FLF00 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transmyokardiell laserrevaskularisering av vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FLF12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transmyokardiell laserrevaskularisering från vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FLW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på vänster kammare
+#RUOTSI     ---
+#ENGL       Other operations on left ventricle
+###
+#KOODI      FLW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på vänstra kammaren
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FLX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på aortaklaffen
+#RUOTSI     ---
+#ENGL       Aortic valve
+###
+#KOODI_A    FMA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på aortaklaffen för stenos
+#RUOTSI     ---
+#ENGL       Repair of aortic valve for stenosis
+###
+#KOODI      FMA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation av aortastenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommissurotomi på aortaklaffen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valvuloplastik på aortaklaffen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMA32 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal dilatation av aortastenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för valvulär aortastenos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FMA
+#OHJE_R 
+---
+###
+#KOODI_A    FMB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vidgning av aortaostiet
+#RUOTSI     ---
+#ENGL       Expansion of aortic ostium
+###
+#KOODI      FMB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Supravalvulär vidgning av aorta med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transanulär vidgning av aortaostiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortoseptal vidgning av aortaostiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan vidgning av aortaostiet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FMB
+#OHJE_R 
+---
+###
+#KOODI_A    FMC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Klaffplastiker för aortaklaffinsufficiens
+#RUOTSI     ---
+#ENGL       Repair of aortic valve for insufficiency
+###
+#KOODI      FMC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anuloplastik på aortaklaffen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduktion av aortaklaffcusp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av aortaklaffcusp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för aortaklaffinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FMC
+#OHJE_R 
+---
+###
+#KOODI_A    FMD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Implantationer av aortaklaffprotes
+#RUOTSI     ---
+#ENGL       Replacement of aortic valve
+###
+#KOODI      FMD00 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av mekanisk aortaklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av biologisk aortaklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD12 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal implantation av biologisk aortaklaff
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD13 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transapikal implantation av biologisk aortaklaff
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av aortaklaff, homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av aortaklaff, homograft med koronar reimplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD33 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av aortarotsheterograft med koronar reimplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Autotransplantation av pulmonalklaffen, ev. reimplantation av koronarartärer, implantation av homograft i pulmonalisostiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FMD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan implantation av aortaklaffprotes
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FMD
+#OHJE_R 
+---
+###
+#KOODI_A    FMW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på aortaklaffen
+#RUOTSI     ---
+#ENGL       Other operations on aortic valve
+###
+#KOODI      FMW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på aortaklaffen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FMX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på koronarartärer
+#RUOTSI     ---
+#ENGL       Coronary arteries
+###
+#KOODI_A    FNA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anastomos mellan arteria mammaria interna och koronarartärer
+#RUOTSI     ---
+#ENGL       Connection to coronary artery from internal mammary artery
+###
+#KOODI      FNA00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos mellan arteria thoracica interna och koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekventiella anastomoser mellan arteria thoracica interna och koronarartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomoser mellan bägge arteria thoracica interna och koronarartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan anastomosoperation mellan arteria thoracica interna och koronarartärer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNA
+#OHJE_R 
+---
+###
+#KOODI_A    FNB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anastomos mellan arteria gastroepiploica och koronarartärer
+#RUOTSI     ---
+#ENGL       Connection to coronary artery from gastroepiploic artery
+###
+#KOODI      FNB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos mellan arteria gastroepiploica och koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekventiella anastomoser mellan arteria gastroepiploica och koronarartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan anastomosoperation mellan arteria gastroepiploica och koronarartärer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNB
+#OHJE_R 
+---
+###
+#KOODI_A    FNC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aorto-koronara by-pass-operationer med ventransplantat
+#RUOTSI     ---
+#ENGL       Aorto-coronary venous bypass
+###
+#KOODI      FNC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med enkelt ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med två ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med tre ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med fyra ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med fem ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNC60 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med sex ventransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan aortokoronar venbypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FND
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aorto-koronar by-pass-operation med kärlprotes
+#RUOTSI     ---
+#ENGL       Aorto-coronary bypass using prosthetic graft
+###
+#KOODI      FND10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med ett graft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FND20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortokoronar bypass med två graft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FND96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan aortokoronar bypass med kärlprotes
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FND
+#OHJE_R 
+---
+###
+#KOODI_A    FNE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Koronar by-pass med fritt artärtransplantat
+#RUOTSI     ---
+#ENGL       Coronary bypass using free arterial graft
+###
+#KOODI      FNE00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koronar bypass med fritt artärtransplantat med arteria thoracica interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koronar bypass med fritt artärtransplantat med arteria gastroepiploica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNE20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koronar bypass med fritt artärtransplantat med arteria radialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koronar bypass med annat fritt artärtransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FNF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Koronar trombendartärektomi
+#RUOTSI     ---
+#ENGL       Coronary thrombendarterectomy
+###
+#KOODI      FNF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi på höger koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi på ramus descendens anterior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi på ramus cirkumflexus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi på vänster koronarartärs huvudstam
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan koronar trombendartärektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNF
+#OHJE_R 
+---
+###
+#KOODI_A    FNG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekanalisering och utvidning av koronarartärer
+#RUOTSI     ---
+#ENGL       Recanalisation of coronary artery
+###
+#KOODI      FNG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation av koronarartär(er)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNG02 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal koronarangioplastik (PTCA)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ballongdilatation av förträngd koronarartär. Ofta användes förkortningen PCI som dock är ett vidare begrepp
+#OHJE_R 
+---
+###
+#KOODI      FNG05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal koronarangioplastik (PTCA) med inläggande av stent
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ballongdilatation av förträngd koronarartär med inläggande av stent. Om mer än en stent inläggs anges denna kod ytterligare en gång. Ofta användes förkortningen PCI som dock är ett vidare begrepp
+#OHJE_R 
+---
+###
+#KOODI      FNG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolektomi från koronarartär(er)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNG22 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transluminalt borttagande av främmande kropp från koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vidgning av koronarartär med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekanalisering av koronarartär(er)
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNG
+#OHJE_R 
+---
+###
+#KOODI_A    FNH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av koronarartär
+#RUOTSI     ---
+#ENGL       Repair of coronary artery
+###
+#KOODI      FNH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av koronarartär med patch
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av koronarartär med bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av koronarartär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNH
+#OHJE_R 
+---
+###
+#KOODI_A    FNJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tillslutning av koronarfistel
+#RUOTSI     ---
+#ENGL       Closure of coronary fistula
+###
+#KOODI      FNJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av anomal koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNJ02 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av anomal koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliteration av koronarfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNJ12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan transluminal slutning av koronarfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid koronarfistel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNJ
+#OHJE_R 
+---
+###
+#KOODI_A    FNK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion vid anomal koronarartäravgång
+#RUOTSI     ---
+#ENGL       Repair of anomalous origin of coronary artery
+###
+#KOODI      FNK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transponering av koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pulmonalisartärplastik med anastomos till aorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur och bypass-rekonstruktion vid anomal koronarartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNK96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid anomal koronarartär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNK
+#OHJE_R 
+---
+###
+#KOODI_A    FNW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på koronartärerna
+#RUOTSI     ---
+#ENGL       Other operations on coronary arteries
+###
+#KOODI      FNW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på koronarartär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      FNW97 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annan angioskopisk operation på koronarärterna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FNW98 
+#MUUT_PVM   2001/09/11
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan transluminal operation på koronarartär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FNX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer vid hjärtarytmi och överledningsrubbningar
+#RUOTSI     ---
+#ENGL       Arhythmias and disturbances of impulse propagation
+###
+#KOODI_A    FPA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för supraventrikulär arytmi
+#RUOTSI     ---
+#ENGL       Operations for supraventricular arythmia
+###
+#KOODI      FPA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av anteroseptal ledningsskänkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av posteroseptal ledningsskänkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av högersidig ledningsskänkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av vänstersidig ledningsskänkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av multipla ledningsskänklar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för supraventrikulär arytmi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPA
+#OHJE_R 
+---
+###
+#KOODI_A    FPB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision eller ablation av aberrant hjärtfokus
+#RUOTSI     ---
+#ENGL       Excision or ablation of aberrant pathway or focus of heart
+###
+#KOODI      FPB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ektopiskt hjärtfokus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kryoablation av ektopiskt hjärtfokus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radiofrekvensablation av aberrant hjärtfokus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Invasiv elektrofysiologisk undersökning inklusive kateterablation
+#OHJE_R 
+---
+###
+#KOODI      FPB22 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvenös radiofrekvensablation av aberrant retledningsbana eller arytmifokus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Invasiv elektrofysiologisk undersökning inklusive kateterablation
+#OHJE_R 
+---
+###
+#KOODI      FPB32 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvenös radiofrekvensablation av vena pulmonalisfokus eller -bana
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan excision eller ablation av aberrant hjärtfokus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPB
+#OHJE_R 
+---
+###
+#KOODI_A    FPC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Endokardiell myotomi för ventrikulära arytmier
+#RUOTSI     ---
+#ENGL       Endocardial myotomy for ventricular arythmia
+###
+#KOODI      FPC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Begränsad endokardiell resektion för ventrikulära arytmier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omfattande endokardiell resektion för ventrikulära arytmier
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endokardiell resektion för ventrikulära arytmier
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPC
+#OHJE_R 
+---
+###
+#KOODI_A    FPD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för förmaksflimmer
+#RUOTSI     ---
+#ENGL       Operations for atrial fibrillation
+###
+#KOODI      FPD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Labyrintoperation för förmaksflimmer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för förmaksflimmer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPD
+#OHJE_R 
+---
+###
+#KOODI_A    FPE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande eller byte av permanent pacemaker och transvenös elektrod
+#RUOTSI     ---
+#ENGL       Implantation or replacement of permanent transvenous cardiac pacemaker
+###
+#KOODI      FPE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös pacemaker med ventrikelelektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös pacemaker med förmakselektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös pacemaker med förmaks- och ventrikelelektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPE26 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös pacemaker med biventrikulära elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av pulsgenerator vid permanent transvenös pacemaker
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av elektrod vid permanent transvenös pacemaker
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat inläggande eller byte av transvenös pacemaker
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPE
+#OHJE_R 
+---
+###
+#KOODI_A    FPF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande eller byte av permanent epikardiell pacemaker
+#RUOTSI     ---
+#ENGL       Implantation or replacement of permanent epicardial pacemaker
+###
+#KOODI      FPF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av epikardiell pacemaker med ventrikelelektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av epikardiell pacemaker med förmakselektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av epikardiell pacemaker med förmaks- och ventrikelelektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av pulsgenerator vid epikardiell pacemaker
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPF40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av elektrod vid epikardiell pacemaker
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat inläggande eller byte av permanent epikardiell pacemaker
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPF
+#OHJE_R 
+---
+###
+#KOODI_A    FPG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av permanent intern cardioverter-defibrillator
+#RUOTSI     ---
+#ENGL       Implantation of permanent cardioverter-defibrillator
+###
+#KOODI      FPG00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Inläggande av transvenös cardioverter-defibrillator med generator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG10 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppet inläggande av epikardiell kardiovertor-defibrillator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG20 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av epikardiell kardiovertor-defibrillator vid samtidig hjärtkirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG30 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös kardioverter-defibrillator och kammarelektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG33 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös kardioverter-defibrillator samt förmaks- och kammarelektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG36 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av transvenös kardioverter-defibrillator med biventrikulära elektroder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG40 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av pulsgenerator i transvenöst kardioverter-defibrillatorsystem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG43 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av elektrod i transvenöst kardioverter-defibrillatorsystem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat inläggande av permanent kardiovertor-defibrillator
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPG
+#OHJE_R 
+---
+###
+#KOODI_A    FPH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av pacemaker, defibrillator eller pulsgenerator
+#RUOTSI     ---
+#ENGL       Removal of permanent cardiac pacemaker or cardioverter-defibrillator
+###
+#KOODI      FPH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvenös extraktion av transvenöst system
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppet avlägsnande av transvenöst system
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppet avlägsnande av epikardiellt system
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för avlägsnande av pacemaker, defibrillator eller pulsgenerator
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPH
+#OHJE_R 
+---
+###
+#KOODI_A    FPJ
+#MUUT_PVM   1997/11/10
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#SUOMI      Revision av pacemaker pulsgenerator eller electrod
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      FPJ00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av pacemaker eller elektrod
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FPK00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av elektrokardiograf med loop recorder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    FPW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer för arytmi och överledningsrubbningar
+#RUOTSI     ---
+#ENGL       Other operations for arhythmias and disturbances of impulse propagation
+###
+#KOODI      FPW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för arytmi eller överledningssrubbningar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FPX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hjärt- eller hjärtlungtransplantationer
+#RUOTSI     ---
+#ENGL       Transplantation of heart or heart and lung
+###
+#KOODI_A    FQA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transplantation av hjärta
+#RUOTSI     ---
+#ENGL       Transplantation of heart
+###
+#KOODI      FQA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortotop hjärttransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortotop hjärttransplantation med bikaval anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortotop hjärttransplantation med rekonstruktion av mottagarens förmak eller systemvenösa förbindelser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heterotop hjärttransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärttransplantation med levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan hjärttransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FQA
+#OHJE_R 
+---
+###
+#KOODI_A    FQB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transplantation av hjärta och lungor
+#RUOTSI     ---
+#ENGL       Transplantation of heart and lung
+###
+#KOODI      FQB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärt-lungtransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärt-lungtransplantation med bikaval anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärt-lungtransplantation med rekonstruktion av mottagarens förmak eller systemvenösa förbindelser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärt-lungtransplantation med revaskularisering av bronkialartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FQB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan hjärt-lungtransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FQB
+#OHJE_R 
+---
+###
+#KOODI_A    FQW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer vid hjärt- eller hjärtlungtransplantation
+#RUOTSI     ---
+#ENGL       Other procedures in transplantation of heart and lung
+###
+#KOODI      FQW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation vid hjärt- eller hjärt-lungtransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FQX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    FW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer för sårkomplikationer av operationer på hjärtat och de stora intratorakala kärlen
+#RUOTSI     ---
+#ENGL       Reoperations on heart and major thoracic vessels
+###
+#KOODI      FWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWE00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för trombos eller emboli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWG02 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angioskopisk reoperation för trombos eller emboli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FWW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på hjärtat eller stora intratorakala kärl
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      FWW98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan angioskopisk reoperation på hjärtat eller stora intratorakala kärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    FX
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder i samband med extrakorporeal eller assisterad cirkulation
+#RUOTSI     ---
+#ENGL       Procedures relating to extracorporeal or assisted circulation
+###
+#KOODI_A    FXA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Intraoperativ total kardiopulmonell förbiledning (by-pass)
+#RUOTSI     ---
+#ENGL       Intraoperative total cardiopulmonary bypass
+###
+#KOODI      FXA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total kardiopulmonal bypass i normotermi eller moderat hypotermi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total kardiopulmonal bypass i djup hypotermi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXA13 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total kardiopulmonal bypass i djup hypotermi och endast cerebral perfusion vid samtidig kirurgisk åtgärd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total kardiopulmonal bypass i djup hypotermi och hjärtstillestånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intraoperativ total kardiopulmonal bypass
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga FXA
+#OHJE_R 
+---
+###
+#KOODI      FXB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ partiell kardiopulmonal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell kardiopulmonal bypass utan användande av oxygenator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Användande av ECHLA utan samtidig kirurgisk åtgärd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXE00 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Användande av ECMO (ECLA) i samband med kirurgisk åtgärd
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ECMO (Extra Corporal Membrane Oxygenization) är detsamma som ECLA (Extra Corporal Lung Assist)
+#OHJE_R 
+---
+###
+#KOODI      FXF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dekanylering efter ECHLA eller ECLA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Användande av IABP
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av IABP
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av PABP
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXK00 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av PABP
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande och användande av extra-, para- eller intrakorporeal VAD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av extra-, para- eller intrakorporeal VAD
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av konstgjort hjärta (TAH)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      FXP00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemofiltration eller hemodialys under kardiopulmonal bypass
+#RUOTSI     ---
+#LYHENNE    

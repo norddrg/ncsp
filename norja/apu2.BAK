@@ -1,0 +1,24 @@
+Procedure apu2
+select ncmp
+goto top
+do while not eof()
+  if kva=' '
+    skip
+    loop
+  endif
+  select ncsp_koo
+  seek ncmp.kva
+  if found()
+    if ncsp=' '
+      select ncsp_en
+      seek ncmp.kode
+      if found()
+        select ncsp_koo
+        replace ncsp with ncsp_en.ncsp
+      endif
+    endif
+  endif
+  select ncmp
+  skip
+enddo
+return

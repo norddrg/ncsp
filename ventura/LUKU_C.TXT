@@ -1,0 +1,5230 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU C
+
+@LUVUT_S = KAPITEL C
+
+@SUOMI_L = Silmän alue
+
+@RUOTSI_L = Ögonregion
+
+@ENGL_L = Eye and adjacent structures
+
+@END_L = 
+
+@KOODI_R = CA
+
+@SUOMI_R = Silmäkuoppa
+
+@RUOTSI_R = Orbita
+
+@ENGL_R = Orbit
+
+@END = 
+
+@KOODI_A = CA_
+
+@NCSP_A = CAD
+
+@SUOMI_A = Silmäkuopan diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av orbita
+
+@ENGL_A = Orbit diagnostic radiology
+
+@END = 
+
+@KOODI = CA1AA 
+
+@NCSP = CADA1A
+
+@SUOMI = Silmäkuopan ja näköhermon luukanavan natiiviröntgen
+
+@RUOTSI = Orbita och optikuskanal, röntgen
+
+@END = 
+
+@KOODI = CA1EA 
+
+@NCSP = CADA1E
+
+@SUOMI = Silmän vierasesineen paikannus röntgenillä
+
+@RUOTSI = Lokalisation av främmande kropp i orbita, röntgen
+
+@END = 
+
+@KOODI = CA1AD 
+
+@NCSP = CADD1A
+
+@SUOMI = Silmäkuopan TT
+
+@RUOTSI = Orbita, DT
+
+@END = 
+
+@KOODI = CA1BD 
+
+@NCSP = CADD1A
+
+@SUOMI = Silmäkuopan laaja TT
+
+@RUOTSI = Orbita, omfattande DT
+
+@END = 
+
+@KOODI = CA1CD 
+
+@NCSP = CADD1A
+
+@SUOMI = Silmäkuopan erittäin laaja TT
+
+@RUOTSI = Orbita, mycket omfattande DT
+
+@END = 
+
+@KOODI = CA1AE 
+
+@NCSP = CADE1A
+
+@SUOMI = Silmän ja silmäkuopan UÄ
+
+@RUOTSI = Orbita, UL
+
+@END = 
+
+@KOODI = CA1ME 
+
+@NCSP = CADE1M
+
+@SUOMI = Silmän mittaus UÄ:llä (oculometria)
+
+@RUOTSI = Ögon, UL (okulometri)
+
+@END = 
+
+@KOODI = CA1BF 
+
+@NCSP = CADG1B
+
+@SUOMI = Silmän ja silmäkuopan magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Ögonen och orbita, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = CA1BG 
+
+@NCSP = CADG1B
+
+@SUOMI = Silmän ja silmäkuopan magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Ögonen och orbita, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = CA1CF 
+
+@NCSP = CADG1B
+
+@SUOMI = Silmän ja silmäkuopan laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Ögonen och orbita, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = CA1CG 
+
+@NCSP = CADG1B
+
+@SUOMI = Silmän ja silmäkuopan laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Ögonen och orbita, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = CA1DF 
+
+@NCSP = CADG1B
+
+@SUOMI = Silmän ja silmäkuopan erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Ögonen och orbita, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = CA1DG 
+
+@NCSP = CADG1B
+
+@SUOMI = Silmän ja silmäkuopan erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Ögonen och orbita, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = CAA
+
+@NCSP_A = CASA
+
+@SUOMI_A = Silmäkuopan aukaisut, pistot ja koepalan otot
+
+@RUOTSI_A = Punktion, incision och biopsi av/ur orbita
+
+@ENGL_A = Puncture, incision and biopsy of orbit
+
+@END = 
+
+@KOODI = CAA00 
+
+@NCSP = CASA00
+
+@SUOMI = Silmäkuopan märkäpesäkkeen tyhjennys
+
+@RUOTSI = Utrymning av orbita-abscess
+
+@END = 
+
+@KOODI = CAA10 
+
+@NCSP = CASA10
+
+@SUOMI = Silmäkuopan aukaisu tutkimustarkoituksessa etukautta
+
+@RUOTSI = Explorativ anterior orbitotomi
+
+@END = 
+
+@KOODI = CAA20 
+
+@NCSP = CASA20
+
+@SUOMI = Silmäkuopan aukaisu tutkimustarkoituksessa sivulta
+
+@RUOTSI = Explorativ lateral orbitotomi
+
+@END = 
+
+@KOODI = CAA30 
+
+@NCSP = CASA30
+
+@SUOMI = Koepalan otto silmäkuopan alueelta
+
+@RUOTSI = Biopsi ur orbita
+
+@NOTE_F = Neulabiopsia ks TCA
+
+@NOTE_S = Nålbiopsi, se TCA
+
+@END = 
+
+@KOODI_A = CAB
+
+@NCSP_A = CASB
+
+@SUOMI_A = Silmäkuopan kudoksen ja vierasesineiden poistoleikkaukset
+
+@RUOTSI_A = Exstirpation av patologisk förändring från orbita
+
+@ENGL_A = Excision of lesion of orbit
+
+@END = 
+
+@KOODI = CAB00 
+
+@NCSP = CASB00
+
+@SUOMI = Kudoksen poisto silmäkuopasta etukautta
+
+@RUOTSI = Vävnadsexstirpation via anterior orbitotomi
+
+@END = 
+
+@KOODI = CAB10 
+
+@NCSP = CASB10
+
+@SUOMI = Kudoksen poisto silmäkuopasta sivulta käsin
+
+@RUOTSI = Vävnadsexstirpation via lateral orbitotomi
+
+@END = 
+
+@KOODI = CAB40 
+
+@NCSP = CASB40
+
+@SUOMI = Kudoksen poisto silmäkuopan katon kautta
+
+@RUOTSI = Vävnadsexstirpation via orbitataket
+
+@END = 
+
+@KOODI = CAB50 
+
+@NCSP = CASB50
+
+@SUOMI = Silmäkuopan aukaisu ja vierasesineen poisto
+
+@RUOTSI = Orbitotomi med avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI_A = CAC
+
+@NCSP_A = CASC
+
+@SUOMI_A = Silmäkuopan seinämien leikkaukset
+
+@RUOTSI_A = Operationer på orbitaväggen
+
+@ENGL_A = Operations on orbital walls
+
+@END = 
+
+@KOODI = CAC00 
+
+@NCSP = CASC00
+
+@SUOMI = Silmäkuopan seinämän korjaaminen ilman siirrettä
+
+@RUOTSI = Rekonstruktion av orbitaväggen utan transplantat
+
+@END = 
+
+@KOODI = CAC10 
+
+@NCSP = CASC10
+
+@SUOMI = Silmäkuopan seinämän korjaaminen luusiirrettä tai levyä käyttäen
+
+@RUOTSI = Rekonstruktion av orbitaväggen med ben- eller hudtransplantat
+
+@NOTE_F = Esim. blow-out murtuman korjaus
+
+@NOTE_S = T.ex.  operation för blow-out fraktur
+
+@END = 
+
+@KOODI = CAC20 
+
+@NCSP = CASC20
+
+@SUOMI = Silmäkuopan seinämän aukaisu temporaalisesti paineen alentamiseksi
+
+@RUOTSI = Dekompressiv lateral orbitotomi
+
+@END = 
+
+@KOODI = CAC30 
+
+@NCSP = CASC30
+
+@SUOMI = Silmäkuopan aukaisu paineen alentamiseksi poskiontelon suuntaan
+
+@RUOTSI = Dekompressiv orbitotomi till sinus maxillaris
+
+@END = 
+
+@KOODI = CAC40 
+
+@NCSP = CASC40
+
+@SUOMI = Silmäkuopan katon tai silmähermonkanavan aukaisu kallonsisältä paineen alentamiseksi
+
+@RUOTSI = Tränskranial öppning av orbita eller optisk kanal för underlätta trycket
+
+@END = 
+
+@KOODI = CAC42 
+
+@NCSP = CASC42
+
+@SUOMI = Silmäkuopan avaaminen sivulta paineen alentamiseksi
+
+@RUOTSI = Coronal öppning av orbita eller optisk kanal för underlätta trycket
+
+@END = 
+
+@KOODI = CAC44 
+
+@NCSP = CASC44
+
+@SUOMI = Silmäkuopan paineen alentaminen eri tekniikoita yhdistäen
+
+@RUOTSI = Öppning av orbita med diversa metoder för att underlätta trycket
+
+@END = 
+
+@KOODI = CAC50 
+
+@NCSP = CASC50
+
+@SUOMI = Silmäkuopan seinämän synnynnäisen epämuodostuman korjaaminen
+
+@RUOTSI = Korrektion av medfödd missbildning av orbitaväggen
+
+@END = 
+
+@KOODI_A = CAD
+
+@NCSP_A = CASD
+
+@SUOMI_A = Silmäkuopan tyhjennys
+
+@RUOTSI_A = Utrymning, exenteration av orbita
+
+@ENGL_A = Exenteration of orbit
+
+@END = 
+
+@KOODI = CAD00 
+
+@NCSP = CASD00
+
+@SUOMI = Silmäkuopan tyhjennys, eksenteraatio, korjaaminen siirteellä tai kielekkeellä
+
+@RUOTSI = Exenteration av orbita, täckning med transplantat eller lambå
+
+@NOTE_F = Käytetyt siirteet tai kielekkeet ilmaistaan lisäkoodilla kohdasta ZZ
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+
+@END = 
+
+@KOODI_A = CAE
+
+@NCSP_A = CASE
+
+@SUOMI_A = Silmän poiston jälkeen tehtävät leikkaukset
+
+@RUOTSI_A = Operationer efter enukleation eller evisceration av ögat
+
+@ENGL_A = Operations for anophthalmia after enucleation or evisceration of eye
+
+@END = 
+
+@KOODI = CAE00 
+
+@NCSP = CASE00
+
+@SUOMI = Orbitaistutteen poisto
+
+@RUOTSI = Avlägsnande av implantat ur orbita
+
+@END = 
+
+@KOODI = CAE10 
+
+@NCSP = CASE10
+
+@SUOMI = Silmäkuopan tarkistaminen ja orbitaistutteen myöhäisasettaminen
+
+@RUOTSI = Revision och sekundärt inläggande av implantat i orbita
+
+@END = 
+
+@KOODI = CAE20 
+
+@NCSP = CASE20
+
+@SUOMI = Silmäkuopan sidekalvopussin korjaaminen siirteellä
+
+@RUOTSI = Revision av konjunktivalsäcken med transplantat
+
+@END = 
+
+@KOODI_A = CAW
+
+@NCSP_A = CASW
+
+@SUOMI_A = Muut silmäkuopan leikkaukset
+
+@RUOTSI_A = Andra operationer på orbita
+
+@ENGL_A = Other operations on orbit
+
+@END = 
+
+@KOODI = CAW99 
+
+@NCSP = CASW99
+
+@SUOMI = Muu silmäkuopan leikkaus
+
+@RUOTSI = Annan operation på orbita
+
+@END = 
+
+@KOODI_A = CA_
+
+@NCSP_A = CAX
+
+@SUOMI_A = Muut silmäkuopan toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på orbita
+
+@ENGL_A = Other procedures on orbit
+
+@END = 
+
+@KOODI = TCA00 
+
+@NCSP = CAXX00
+
+@SUOMI = Neulakudosnäytteen otto silmäkuopasta
+
+@RUOTSI = Punktionsbiopsi av orbita
+
+@END = 
+
+@KOODI = TCA10 
+
+@NCSP = CAXX10
+
+@SUOMI = Ohutneulanäytteen otto silmäkuopasta
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av orbita
+
+@END = 
+
+@KOODI = TCA15 
+
+@NCSP = CAXX15
+
+@SUOMI = Lääkkeen ruiskuttaminen silmän taakse
+
+@RUOTSI = Retrobulbär injektion av läkemedel i orbita
+
+@END = 
+
+@KOODI = TCA20 
+
+@NCSP = CAXX20
+
+@SUOMI = Lääkkeen ruiskuttaminen silmän ympärille
+
+@RUOTSI = Peribulbär injektion av läkemedel i orbita
+
+@END = 
+
+@KOODI_R = CB
+
+@SUOMI_R = Silmäluomet
+
+@RUOTSI_R = Ögonlocken
+
+@ENGL_R = Eyelid
+
+@NOTE_RF = Molempien silmien leikkaus ilmaistaan lisäkoodilla ZXA10
+
+@NOTE_RS = Operationer på båda ögonen anges med tilläggskoden ZXA10
+
+@END = 
+
+@KOODI_A = CBA
+
+@NCSP_A = CBSA
+
+@SUOMI_A = Silmäluomien muutosten aukaisut ja koepalan otot
+
+@RUOTSI_A = Incision och biopsi av ögonlock
+
+@ENGL_A = Incision and biopsy of eyelid
+
+@END = 
+
+@KOODI = CBA00 
+
+@NCSP = CBSA00
+
+@SUOMI = Silmäluomen paikallinen aukaisu
+
+@RUOTSI = Incision av ögonlock
+
+@END = 
+
+@KOODI = CBA10 
+
+@NCSP = CBSA10
+
+@SUOMI = Koepalan otto silmäluomesta
+
+@RUOTSI = Biopsi av ögonlock
+
+@END = 
+
+@KOODI_A = CBB
+
+@NCSP_A = CBSB
+
+@SUOMI_A = Silmäluomien paikallisten muutosten poistot
+
+@RUOTSI_A = Excision eller destruktion av lokal förändring i ögonlock
+
+@ENGL_A = Excision or destruction of lesion of eyelid
+
+@NOTE_RF = Korjausleikkaukset kohdassa CCD
+
+@NOTE_RS = Rekonstruktiva operationer, se CCD
+
+@END = 
+
+@KOODI = CBB00 
+
+@NCSP = CBSB00
+
+@SUOMI = Luomirakkulan poisto tai tyhjennys
+
+@RUOTSI = Excision eller exkokleation av chalazion
+
+@END = 
+
+@KOODI = CBB10 
+
+@NCSP = CBSB10
+
+@SUOMI = Silmäluomen löyhän ihon  poisto
+
+@RUOTSI = Excision av ögonlockshud, operation för dermatochalasis
+
+@END = 
+
+@KOODI = CBB15 
+
+@NCSP = CBSB15
+
+@SUOMI = Silmäluomen rasvatyrän poisto
+
+@RUOTSI = Resektion av fettprolaps i ögonlock
+
+@END = 
+
+@KOODI = CBB20 
+
+@NCSP = CBSB20
+
+@SUOMI = Silmäluomen löyhän ihon ja rasvatyrän, hernian, poisto
+
+@RUOTSI = Resektion av hud och fettprolaps
+
+@END = 
+
+@KOODI = CBB30 
+
+@NCSP = CBSB30
+
+@SUOMI = Silmäluomen kystan, arven tai kasvaimen poisto
+
+@RUOTSI = Exstirpation av tumör eller lokal förändring i ögonlock
+
+@NOTE_F = Luomirakkulan leikkaus kohdassa CBB00
+
+@NOTE_S = Exkl chalazion, se CBB00
+
+@END = 
+
+@KOODI = CBB35 
+
+@NCSP = CBSB35
+
+@SUOMI = Silmäluomen kasvaimen jäädytys
+
+@RUOTSI = Kryoterapi av tumör eller lokal förändring i ögonlock
+
+@END = 
+
+@KOODI = CBB40 
+
+@NCSP = CBSB40
+
+@SUOMI = Silmäluomen kasvaimen poltto
+
+@RUOTSI = Elektrokoagulation av tumör eller lokal förändring i ögonlock
+
+@END = 
+
+@KOODI = CBB50 
+
+@NCSP = CBSB50
+
+@SUOMI = Silmäluomen kasvaimen poisto ja korjaaminen siirteellä tai kielekkeellä
+
+@RUOTSI = Exstirpation av tumör eller hokal förändring i ögonlock; rekonstruktion med transplantat eller lambå
+
+@NOTE_F = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+
+@END = 
+
+@KOODI = CBB99 
+
+@NCSP = CBSB99
+
+@SUOMI = Muu silmäluomen paikallisen muutoksen leikkaus
+
+@RUOTSI = Annat avlägsnande av tumör eller lokal förändring i ögonlock
+
+@END = 
+
+@KOODI_A = CBC
+
+@NCSP_A = CBSC
+
+@SUOMI_A = Silmäluomien vammojen leikkaukset
+
+@RUOTSI_A = Operationer vid skador på ögonlock
+
+@ENGL_A = Operations on eyelid for injury
+
+@END = 
+
+@KOODI = CBC00 
+
+@NCSP = CBSC00
+
+@SUOMI = Silmäluomen haavan ompelu
+
+@RUOTSI = Sutur av ögonlock
+
+@NOTE_F = Sisältää haavan puhdistuksen
+
+@NOTE_S = Inkl revision
+
+@END = 
+
+@KOODI = CBC10 
+
+@NCSP = CBSC10
+
+@SUOMI = Vierasesineen poisto silmäluomesta
+
+@RUOTSI = Avlägsnande av främmande kropp i ögonlock
+
+@END = 
+
+@KOODI = CBC99 
+
+@NCSP = CBSC99
+
+@SUOMI = Muu silmäluomen vamman leikkaus
+
+@RUOTSI = Annan operation vid skador på ögonlock
+
+@END = 
+
+@KOODI_A = CBD
+
+@NCSP_A = CBSD
+
+@SUOMI_A = Silmäluomien korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktion av ögonlock
+
+@ENGL_A = Plastic reconstruction of eyelid
+
+@END = 
+
+@KOODI = CBD00 
+
+@NCSP = CBSD00
+
+@SUOMI = Silmäluomen muovaus ompelemalla
+
+@RUOTSI = Korrektion av ögonlock med primärsutur
+
+@END = 
+
+@KOODI = CBD10 
+
+@NCSP = CBSD10
+
+@SUOMI = Silmäluomen korjaaminen kielekkeellä tai siirteellä.
+
+@RUOTSI = Rekonstruktion av ögonlock med transplantat eller lambå
+
+@NOTE_F = Siirteet tai kielekkeet, katso ZZ
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+
+@END = 
+
+@KOODI = CBD99 
+
+@NCSP = CBSD99
+
+@SUOMI = Muu silmäluomien korjaamisleikkaus
+
+@RUOTSI = Annan rekonstruktion av ögonlock
+
+@END = 
+
+@KOODI_A = CBE
+
+@NCSP_A = CBSE
+
+@SUOMI_A = Silmäluomen sisäänkääntymän, entropiumin, leikkaukset
+
+@RUOTSI_A = Operationer för entropium
+
+@ENGL_A = Operations for entropion
+
+@END = 
+
+@KOODI = CBE00 
+
+@NCSP = CBSE00
+
+@SUOMI = Ompeleiden asettaminen entropiumin korjaamiseksi
+
+@RUOTSI = Sutur för entropium
+
+@END = 
+
+@KOODI = CBE10 
+
+@NCSP = CBSE10
+
+@SUOMI = Silmäluomien sulkijalihaksen kiristäminen entropiumin korjaamiseksi
+
+@RUOTSI = Flyttning och sträckning av m. orbicularis oculi vid entropium
+
+@END = 
+
+@KOODI = CBE20 
+
+@NCSP = CBSE20
+
+@SUOMI = Silmäluomen retraktorien kiristys entropiumin korjaamiseksi
+
+@RUOTSI = Sträckning av ögonlocksretraktorer för entropium
+
+@END = 
+
+@KOODI = CBE30 
+
+@NCSP = CBSE30
+
+@SUOMI = Vaakasuora kiristys entropiumin korjaamiseksi
+
+@RUOTSI = Horisontell sträckning för entropium
+
+@END = 
+
+@KOODI = CBE40 
+
+@NCSP = CBSE40
+
+@SUOMI = Kombinoitu entropiumin korjaamisleikkaus
+
+@RUOTSI = Kombinerad korrektion av entropium
+
+@END = 
+
+@KOODI = CBE99 
+
+@NCSP = CBSE99
+
+@SUOMI = Muu silmäluomen sisäänkääntymän korjaamisleikkaus
+
+@RUOTSI = Annan operation för entropium
+
+@END = 
+
+@KOODI_A = CBF
+
+@NCSP_A = CBSF
+
+@SUOMI_A = Silmäluomen uloskääntymän, ektropiumin, leikkaukset
+
+@RUOTSI_A = Operationer för ektropium
+
+@ENGL_A = Operations for ectropion
+
+@END = 
+
+@KOODI = CBF00 
+
+@NCSP = CBSF00
+
+@SUOMI = Silmäluomen elektrokoagulaatio ektropiumin korjaamiseksi
+
+@RUOTSI = Elektrokoagulation för ektropium
+
+@END = 
+
+@KOODI = CBF10 
+
+@NCSP = CBSF10
+
+@SUOMI = Luomikulman jänteen lyhentäminen ektropiumin korjaamiseksi
+
+@RUOTSI = Uppstramning av kantusligament
+
+@END = 
+
+@KOODI = CBF20 
+
+@NCSP = CBSF20
+
+@SUOMI = Luomituen poisto ektropiumin korjaamiseksi
+
+@RUOTSI = Excision av tarsus för ektropium
+
+@END = 
+
+@KOODI = CBF30 
+
+@NCSP = CBSF30
+
+@SUOMI = Luomituen ja ihon poisto ektropiumin korjaamiseksi
+
+@RUOTSI = Excision av tarsus och hud för ektropium
+
+@END = 
+
+@KOODI = CBF40 
+
+@NCSP = CBSF40
+
+@SUOMI = Arpiektropiumin korjaamisleikkaus
+
+@RUOTSI = Rekonstruktion för ärrektropium
+
+@END = 
+
+@KOODI = CBF99 
+
+@NCSP = CBSF99
+
+@SUOMI = Muu silmäluomen uloskääntymän korjaamisleikkaus
+
+@RUOTSI = Annan operation för ektropium
+
+@END = 
+
+@KOODI_A = CBG
+
+@NCSP_A = CBSG
+
+@SUOMI_A = Hankaavien silmäripsien korjaamiset
+
+@RUOTSI_A = Operationer för trikiasis och distikiasis
+
+@ENGL_A = Operations for trichiasis
+
+@END = 
+
+@KOODI = CBG00 
+
+@NCSP = CBSG00
+
+@SUOMI = Silmäripsien elektroepilaatio
+
+@RUOTSI = Elektroepilation av cilier
+
+@NOTE_F = Yksinkertainen silmäripsien poisto kohdassa TCB10
+
+@NOTE_S = Enkel epilation, se TCB10
+
+@END = 
+
+@KOODI = CBG10 
+
+@NCSP = CBSG10
+
+@SUOMI = Silmäripsien jäädytyskäsittely
+
+@RUOTSI = Kryobehandling för trikiasis
+
+@END = 
+
+@KOODI = CBG20 
+
+@NCSP = CBSG20
+
+@SUOMI = Silmäluomen reunan korjaaminen trikiaasin vuoksi
+
+@RUOTSI = Rekonstruktion av ögonlockskanten vid trikiasis
+
+@END = 
+
+@KOODI = CBG99 
+
+@NCSP = CBSG99
+
+@SUOMI = Muu silmäripsien virheasennon korjaamisleikkaus
+
+@RUOTSI = Annan operation för trikiasis
+
+@END = 
+
+@KOODI_A = CBH
+
+@NCSP_A = CBSH
+
+@SUOMI_A = Luomikulman ja silmäluomen reunan leikkaukset
+
+@RUOTSI_A = Operationer på kantus och ögonlockskanten
+
+@ENGL_A = Operations on canthus
+
+@END = 
+
+@KOODI = CBH00 
+
+@NCSP = CBSH00
+
+@SUOMI = Luomikulman aukaisu
+
+@RUOTSI = Kantotomi
+
+@END = 
+
+@KOODI = CBH05 
+
+@NCSP = CBSH05
+
+@SUOMI = Luomikulman ripustus
+
+@RUOTSI = Kantopexi
+
+@END = 
+
+@KOODI = CBH10 
+
+@NCSP = CBSH10
+
+@SUOMI = Huomikulman korjaamisleikkaus
+
+@RUOTSI = Rekonstruktion av kantus
+
+@NOTE_F = Myös siirrettä käyttäen
+
+@NOTE_S = Inkluderar eventuell transplantation
+
+@END = 
+
+@KOODI = CBH20 
+
+@NCSP = CBSH20
+
+@SUOMI = Luomiraon ompeleminen keskeltä
+
+@RUOTSI = Central tarsorafi
+
+@END = 
+
+@KOODI = CBH30 
+
+@NCSP = CBSH30
+
+@SUOMI = Luomiraon ompeleminen nasaali- tai temporaalikulmasta
+
+@RUOTSI = Lateral eller medial tarsorafi
+
+@END = 
+
+@KOODI = CBH40 
+
+@NCSP = CBSH40
+
+@SUOMI = Kiinniommellun luomen aukaisu
+
+@RUOTSI = Uppklippning av tarsorafi
+
+@END = 
+
+@KOODI = CBH50 
+
+@NCSP = CBSH50
+
+@SUOMI = Silmäluomen poimun, epikantuksen, korjaamisleikkaus
+
+@RUOTSI = Rekonstruktiv operation för epikantus
+
+@END = 
+
+@KOODI = CBH99 
+
+@NCSP = CBSH99
+
+@SUOMI = Muu luomikulman ja silmäluomen reunan leikkaus
+
+@RUOTSI = Annan operation på kantus och ögonlockskanten
+
+@END = 
+
+@KOODI_A = CBJ
+
+@NCSP_A = CBSJ
+
+@SUOMI_A = Riippuluomen leikkaukset
+
+@RUOTSI_A = Operationer för ptos
+
+@ENGL_A = Operations for ptosis
+
+@END = 
+
+@KOODI = CBJ00 
+
+@NCSP = CBSJ00
+
+@SUOMI = Ompeleiden asettaminen riippuluomen korjaamiseksi
+
+@RUOTSI = Lyftning av ögonlock med suturslinga
+
+@END = 
+
+@KOODI = CBJ10 
+
+@NCSP = CBSJ10
+
+@SUOMI = Riippuluomen ripustus faskiaa käyttäen
+
+@RUOTSI = Lyftning av ögonlock med fasciestrimla
+
+@END = 
+
+@KOODI = CBJ20 
+
+@NCSP = CBSJ20
+
+@SUOMI = Tarsomyektomia, luomituen ja kohottajalihaksen lyhennys, ptoosin vuoksi
+
+@RUOTSI = Tarsomyektomi på ögonlock
+
+@END = 
+
+@KOODI = CBJ30 
+
+@NCSP = CBSJ30
+
+@SUOMI = Kohottajalihaksen aponeuroosin korjaaminen riippuluomen korjaamiseksi
+
+@RUOTSI = Rekonstruktion av levatormuskelns aponeuros
+
+@END = 
+
+@KOODI = CBJ40 
+
+@NCSP = CBSJ40
+
+@SUOMI = Yläluomen kohottajalihaksen lyhennys riippuluomen korjaamiseksi
+
+@RUOTSI = Resektion av levatormuskeln
+
+@END = 
+
+@KOODI = CBJ50 
+
+@NCSP = CBSJ50
+
+@SUOMI = Kulmakarvojen kohotusleikkaus
+
+@RUOTSI = Lyftning av ögonbryn
+
+@END = 
+
+@KOODI = CBJ90 
+
+@NCSP = CBSJ90
+
+@SUOMI = Riippuluomiompeleiden poisto
+
+@RUOTSI = Borttagning av ptos-suturer
+
+@END = 
+
+@KOODI = CBJ99 
+
+@NCSP = CBSJ99
+
+@SUOMI = Muu riippuluomen korjaamisleikkaus
+
+@RUOTSI = Annan operation för ptos
+
+@END = 
+
+@KOODI_A = CBK
+
+@NCSP_A = CBSK
+
+@SUOMI_A = Avoluomen ja luomen vetäytymän leikkaukset
+
+@RUOTSI_A = Operationer för lagoftalmi och ögonlocksretraktion
+
+@ENGL_A = Operations for lagophthalmus and retraction of eyelid
+
+@END = 
+
+@KOODI = CBK00 
+
+@NCSP = CBSK00
+
+@SUOMI = Luomilihaksen/luomenkohottajalihaksen katkaisu luomiretraktion vuoksi
+
+@RUOTSI = Myotomi vid ögonlocksretraktion (tarsalmuskel, levatormuskel)
+
+@END = 
+
+@KOODI = CBK10 
+
+@NCSP = CBSK10
+
+@SUOMI = Avoluomen korjaamisleikkaus
+
+@RUOTSI = Korrigering av lagoftalmi
+
+@NOTE_F = Ei sisällä implantin käyttöä (CBK11)
+
+@NOTE_S = Excluderar implant (CBK11)
+
+@END = 
+
+@KOODI = CBK11 
+
+@NCSP = CBSK11
+
+@SUOMI = Avoluomen korjaaminen implantin avulla
+
+@RUOTSI = Korrigering av lagoftalmi medels transplantat
+
+@END = 
+
+@KOODI = CBK99 
+
+@NCSP = CBSK99
+
+@SUOMI = Muu luomen vetäytymän korjaamisleikkaus
+
+@RUOTSI = Annan operation för lagoftalmi och ögonlocksretraktion
+
+@END = 
+
+@KOODI_A = CBL
+
+@NCSP_A = CBSL
+
+@SUOMI_A = Luomikouristuksen leikkaukset
+
+@RUOTSI_A = Operationer vid blefarospasm
+
+@ENGL_A = Operations for blepharospasm
+
+@END = 
+
+@KOODI = CBL00 
+
+@NCSP = CBSL00
+
+@SUOMI = Lihaksen/hermon katkaisu, (myektomia/neurotomia), blefarospasmin vuoksi
+
+@RUOTSI = Myotomi eller neurotomi vid blefarospasm
+
+@END = 
+
+@KOODI = CBL99 
+
+@NCSP = CBSL99
+
+@SUOMI = Muu luomikouristuksen leikkaus
+
+@RUOTSI = Annan operation vid blefarospasm
+
+@END = 
+
+@KOODI_A = CBW
+
+@NCSP_A = CBSW
+
+@SUOMI_A = Muut silmäluomien leikkaukset
+
+@RUOTSI_A = Andra operationer på ögonlocken
+
+@ENGL_A = Other operations on eyelid
+
+@END = 
+
+@KOODI = CBW99 
+
+@NCSP = CBSW99
+
+@SUOMI = Muu silmäluomien leikkaus
+
+@RUOTSI = Annan operation på ögonlocken
+
+@END = 
+
+@KOODI_A = CB_
+
+@NCSP_A = CBX
+
+@SUOMI_A = Muut silmäluomien toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på ögonlocken
+
+@ENGL_A = Other procedures on eyelid
+
+@END = 
+
+@KOODI = TCB00 
+
+@NCSP = CBXX00
+
+@SUOMI = Neulakudosnäytteen otto silmäluomesta
+
+@RUOTSI = Punktionsbiopsi av ögonlock
+
+@END = 
+
+@KOODI = TCB10 
+
+@NCSP = CBXX10
+
+@SUOMI = Silmäripsien poistaminen nyppimällä
+
+@RUOTSI = Epilering av cilier vid trichiasis
+
+@NOTE_F = Poisto sähköllä kohdassa CBG00
+
+@NOTE_S = Elektrolysepilering av cilier, se CBG00
+
+@END = 
+
+@KOODI = TCB30 
+
+@NCSP = CBXX30
+
+@SUOMI = Ptoosin takia asetetun ompeleen poistaminen
+
+@RUOTSI = Avlägsnande av ptos-sutur
+
+@NOTE_F = esim. luomikouristuksessa
+
+@NOTE_S = T.ex. vid blefarospasm (ögonlockskramp)
+
+@END = 
+
+@KOODI_R = CC
+
+@SUOMI_R = Kyynelrauhaset ja kyyneltiet
+
+@RUOTSI_R = Tårkörtlar och tårkanaler
+
+@ENGL_R = Lacrimal apparatus
+
+@END = 
+
+@KOODI = CC1CB 
+
+@NCSP = CCDB1C
+
+@SUOMI = Kyyneltien varjoainetutkimus (dakryokystografia)
+
+@RUOTSI = Dakryocystografi (kontrastundersökning av tårkanalen)
+
+@END = 
+
+@KOODI = CC1AE 
+
+@NCSP = CCDE1A
+
+@SUOMI = Kyynelteiden UÄ
+
+@RUOTSI = Tårkanal, UL
+
+@END = 
+
+@KOODI_A = CC_
+
+@NCSP_A = CCF
+
+@SUOMI_A = Kyynelteiden diagnostiset toimenpiteet
+
+@RUOTSI_A = Diagnostiska åtgärder på tårkanaler
+
+@ENGL_A = Other diagnostic procedures of lacrimal apparatus
+
+@END = 
+
+@KOODI = XCC00 
+
+@NCSP = CCFC00
+
+@SUOMI = Kyynelteiden huuhtelu
+
+@RUOTSI = Diagnostisk genomspolning av tårkanaler
+
+@END = 
+
+@KOODI_A = CCA
+
+@NCSP_A = CCSA
+
+@SUOMI_A = Kyynelrauhasen tai kyynelteiden aukaisut ja koepalan otot
+
+@RUOTSI_A = Incision och biopsi av tårkörtel och tårkanal
+
+@ENGL_A = Incision and biopsy of lacrimal gland and passages
+
+@NOTE_RF = Kyynelkanavien pientoimenpiteitä kohdassa TCC.
+
+@NOTE_RS = Mindre åtgärder på tårkanaler, se TCC
+
+@END = 
+
+@KOODI = CCA00 
+
+@NCSP = CCSA00
+
+@SUOMI = Kyynelrauhasen aukaisu
+
+@RUOTSI = Incision av tårkörtel
+
+@NOTE_F = Sisältää vierasesineiden poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = CCA10 
+
+@NCSP = CCSA10
+
+@SUOMI = Koepalan otto kyynelrauhasesta
+
+@RUOTSI = Biopsi av tårkörtel
+
+@END = 
+
+@KOODI = CCA20 
+
+@NCSP = CCSA20
+
+@SUOMI = Kyynelpisteen tai -tiehyeen  aukaisu
+
+@RUOTSI = Klyvning av tårpunkt eller -kanal, dakryotomi
+
+@END = 
+
+@KOODI = CCA30 
+
+@NCSP = CCSA30
+
+@SUOMI = Kyynelpussin aukaisu
+
+@RUOTSI = Öpnande av tårsäck, dakryocystotomi
+
+@NOTE_F = Sisältää vierasesineiden poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = CCA40 
+
+@NCSP = CCSA40
+
+@SUOMI = Koepalan otto kyynelteistä
+
+@RUOTSI = Biopsi av tårkanal
+
+@END = 
+
+@KOODI_A = CCB
+
+@NCSP_A = CCSB
+
+@SUOMI_A = Muut kyynelrauhasen leikkaukset
+
+@RUOTSI_A = Andra operationer på tårkörtel
+
+@ENGL_A = Other operations on lacrimal gland
+
+@NOTE_RF = Korjaavat leikkaukset kohdassa CCD
+
+@NOTE_RS = Rekonstruktioner, se CCD
+
+@END = 
+
+@KOODI = CCB00 
+
+@NCSP = CCSB00
+
+@SUOMI = Kyynelrauhasen poisto osittain
+
+@RUOTSI = Resektion av tårkörtel
+
+@END = 
+
+@KOODI = CCB10 
+
+@NCSP = CCSB10
+
+@SUOMI = Kyynelrauhasen poisto kokonaan
+
+@RUOTSI = Total exstirpation av tårkörtel
+
+@END = 
+
+@KOODI = CCB99 
+
+@NCSP = CCSB99
+
+@SUOMI = Muu kyynelrauhasen leikkaus
+
+@RUOTSI = Annan operation på tårkörtel
+
+@END = 
+
+@KOODI_A = CCC
+
+@NCSP_A = CCSC
+
+@SUOMI_A = Muut kyynelteiden leikkaukset
+
+@RUOTSI_A = Andra operationer på tårkanalerna
+
+@ENGL_A = Other operations on lacrimal passages
+
+@NOTE_RF = Korjaavat leikkaukset CCD
+
+@NOTE_RS = Rekonstruktiva operationer, se CCD
+
+@END = 
+
+@KOODI = CCC00 
+
+@NCSP = CCSC00
+
+@SUOMI = Kyyneltiehyeen sulkeminen
+
+@RUOTSI = Tillslutning av tårkanal
+
+@END = 
+
+@KOODI = CCC50 
+
+@NCSP = CCSC50
+
+@SUOMI = Kyynelpussin poisto
+
+@RUOTSI = Exstirpation av tårsäck
+
+@END = 
+
+@KOODI = CCC99 
+
+@NCSP = CCSC99
+
+@SUOMI = Muu kyynelteiden leikkaus
+
+@RUOTSI = Annan operation på tårkanalerna
+
+@END = 
+
+@KOODI_A = CCD
+
+@NCSP_A = CCSD
+
+@SUOMI_A = Kyynelrauhasten ja kyynelteiden korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på tårkörtlar/tårkanaler
+
+@ENGL_A = Reconstructive operations on lacrimal apparatus
+
+@END = 
+
+@KOODI = CCD00 
+
+@NCSP = CCSD00
+
+@SUOMI = Kyyneltieavanteen sulkeminen
+
+@RUOTSI = Exstirpation/tillslutning av tårfistel
+
+@END = 
+
+@KOODI = CCD10 
+
+@NCSP = CCSD10
+
+@SUOMI = Kyyneltiehyeen ompelu
+
+@RUOTSI = Sutur av tårkanal
+
+@END = 
+
+@KOODI = CCD20 
+
+@NCSP = CCSD20
+
+@SUOMI = Kyyneltiehyeen ompelu ja putken asettaminen
+
+@RUOTSI = Sutur av tårkanal med intubation
+
+@END = 
+
+@KOODI = CCD30 
+
+@NCSP = CCSD30
+
+@SUOMI = Kyyneltiehyeen korjaamisleikkaus
+
+@RUOTSI = Rekonstruktion av tårkanal
+
+@END = 
+
+@KOODI = CCD40 
+
+@NCSP = CCSD40
+
+@SUOMI = Kyynelpussi-nenäavanne ihon läpi
+
+@RUOTSI = Perkutan dakryocystorinostomi
+
+@END = 
+
+@KOODI = CCD50 
+
+@NCSP = CCSD50
+
+@SUOMI = Kyynelpussi-nenäavanne ja putken asettaminen
+
+@RUOTSI = Dakryocystorinostomi med intubation
+
+@END = 
+
+@KOODI = CCD60 
+
+@NCSP = CCSD60
+
+@SUOMI = Kyynelpussi-nenäavanne nenän kautta
+
+@RUOTSI = Transnasal dakryocystorinostomi
+
+@END = 
+
+@KOODI = CCD70 
+
+@NCSP = CCSD70
+
+@SUOMI = Sidekalvo-kyynelpussi-nenäavanne Jonesin putkea käyttäen
+
+@RUOTSI = Konjunktivocystorinostomi med inläggande av Jones' rör
+
+@END = 
+
+@KOODI = CCD99 
+
+@NCSP = CCSD99
+
+@SUOMI = Muu kyynelrauhasten ja kyynelteiden korjaamisleikkaus
+
+@RUOTSI = Annan rekonstruktiv operation på tårkanalerna
+
+@END = 
+
+@KOODI_A = CCW
+
+@NCSP_A = CCSW
+
+@SUOMI_A = Muut kyynelrauhasten ja kyynelteiden leikkaukset
+
+@RUOTSI_A = Andra operationer på tårkörtlar/tårkanaler
+
+@ENGL_A = Other operations on lacrimal apparatus
+
+@END = 
+
+@KOODI = CCW99 
+
+@NCSP = CCSW99
+
+@SUOMI = Muu kyynelrauhasten ja kyynelteiden leikkaus
+
+@RUOTSI = Annan operation på tårkörtlar och tårkanaler
+
+@NOTE_F = Muu kyynelrauhasen leikkaus CCB99
+
+@NOTE_F =
+Muu kyynelteiden leikkaus CCC99
+
+@NOTE_S = Annan operation på tårkörtlarna CCB99
+
+@NOTE_S = Annan operation på tårkanalerna CCC99
+
+@END = 
+
+@KOODI_A = CC_
+
+@NCSP_A = CCX
+
+@SUOMI_A = Muut kyynelrauhasten ja kyynelteiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på tårkörtlar/tårkanaler
+
+@ENGL_A = Other procedures on lacrimal apparatus
+
+@END = 
+
+@KOODI = TCC00 
+
+@NCSP = CCXX00
+
+@SUOMI = Neulakudosnäytteen otto kyynelrauhasesta
+
+@RUOTSI = Punktionsbiopsi av tårkörtel
+
+@END = 
+
+@KOODI = TCC10 
+
+@NCSP = CCXX10
+
+@SUOMI = Kyyneltiehyeen ja kyynelkanavan sondeeraus
+
+@RUOTSI = Sondering av tårpunkt och tårrör, canaliculus lacrimalis
+
+@END = 
+
+@KOODI = TCC30 
+
+@NCSP = CCXX30
+
+@SUOMI = Kyyneltiehytputken tai kyynelkanavaputken asettaminen
+
+@RUOTSI = Intubation av tårrör kanal eller nästårgång
+
+@END = 
+
+@KOODI = TCC40 
+
+@NCSP = CCXX40
+
+@SUOMI = Kyyneltietulppien asettaminen
+
+@RUOTSI = Stängning av tårrör med propp
+
+@END = 
+
+@KOODI_R = CD
+
+@SUOMI_R = Silmämuna
+
+@RUOTSI_R = Ögongloben
+
+@ENGL_R = Eyeball
+
+@NOTE_RF = Koepalat asianomaisen kudoksen kohdalla
+
+@NOTE_RS = Biopsier: se nedan under respektiva strukturer
+
+@END = 
+
+@KOODI = CD1AE 
+
+@NCSP = CDDE1A
+
+@SUOMI = Silmän muu UÄ
+
+@RUOTSI = Annan UL av ögonen
+
+@END = 
+
+@KOODI_A = CD_
+
+@NCSP_A = CDF
+
+@SUOMI_A = Silmämunan diagnostiset toimenpiteet
+
+@RUOTSI_A = Diagnostiska åtgärder i ögongloben
+
+@ENGL_A = Diagnostic procedures of eyeball
+
+@END = 
+
+@KOODI = XCD00 
+
+@NCSP = CDFD00
+
+@SUOMI = Nukutuksessa tehtävä kliininen silmätutkimus
+
+@RUOTSI = Klinisk ögonundersökning i narkos
+
+@END = 
+
+@KOODI_A = CDB
+
+@NCSP_A = CDSB
+
+@SUOMI_A = Silmämunan sisäisten vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av intrabulbär främmande kropp
+
+@ENGL_A = Removal of intraocular foreign body
+
+@END = 
+
+@KOODI = CDB00 
+
+@NCSP = CDSB00
+
+@SUOMI = Silmämunan sisäisen vierasesineen poisto ilman magneettia
+
+@RUOTSI = Avlägsnande av intrabulbär främmande kropp utan magnet
+
+@END = 
+
+@KOODI = CDB10 
+
+@NCSP = CDSB10
+
+@SUOMI = Silmämunan sisäisen vierasesineen poisto magneetin avulla
+
+@RUOTSI = Avlägsnande av intrabulbär främmande kropp med magnet
+
+@END = 
+
+@KOODI = CDB99 
+
+@NCSP = CDSB99
+
+@SUOMI = Muu leikkaus silmämunan sisäisen vierasesineen takia
+
+@RUOTSI = Annan operation vid intrabulbär främmande kropp
+
+@END = 
+
+@KOODI_A = CDC
+
+@NCSP_A = CDSC
+
+@SUOMI_A = Silmän poisto- ja tyhjennysleikkaukset
+
+@RUOTSI_A = Enukleation och evisceration av ögat
+
+@ENGL_A = Enucleation and evisceration of eye
+
+@END = 
+
+@KOODI = CDC00 
+
+@NCSP = CDSC00
+
+@SUOMI = Silmän poisto
+
+@RUOTSI = Enukleation av ögat
+
+@END = 
+
+@KOODI = CDC10 
+
+@NCSP = CDSC10
+
+@SUOMI = Silmän poisto ja istutteen asettaminen Tenonin kapseliin
+
+@RUOTSI = Enukleation av ögat med implantation av protes i Tenon´s kapsel
+
+@END = 
+
+@KOODI = CDC20 
+
+@NCSP = CDSC20
+
+@SUOMI = Silmän poisto ja rasva/ihosiirteen asettaminen Tenonin kapseliin
+
+@RUOTSI = Enukleation av ögat med vävnadsimplantat i Tenon´s kapsel
+
+@NOTE_F = Käytetty siirremateriaali lisäkoodilla ryhmästä ZZ
+
+@NOTE_S = Material av transplantat eller lambå bör anges med tilläggskod, se ZZ
+
+@END = 
+
+@KOODI = CDC30 
+
+@NCSP = CDSC30
+
+@SUOMI = Silmän tyhjennys
+
+@RUOTSI = Evisceration av ögat
+
+@END = 
+
+@KOODI = CDC40 
+
+@NCSP = CDSC40
+
+@SUOMI = Silmän tyhjennys ja istutteen asettaminen
+
+@RUOTSI = Evisceration av ögat med implantation av protes
+
+@END = 
+
+@KOODI = CDC50 
+
+@NCSP = CDSC50
+
+@SUOMI = Silmän tyhjennys ja rasva/ihosiirteen asettaminen
+
+@RUOTSI = Evisceration av ögat med vävnadsimplantat
+
+@NOTE_F = Siirteet tai kielekkeet kohdassa ZZ
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+
+@END = 
+
+@KOODI_A = CDW
+
+@NCSP_A = CDSW
+
+@SUOMI_A = Muut silmämunan leikkaukset
+
+@RUOTSI_A = Övriga operationer på ögongloben
+
+@ENGL_A = Other operations on eyeball
+
+@END = 
+
+@KOODI = CDW99 
+
+@NCSP = CDSW99
+
+@SUOMI = Muu silmämunan leikkaus
+
+@RUOTSI = Annan operation på bulben som helhet
+
+@END = 
+
+@KOODI_R = CE
+
+@SUOMI_R = Silmälihakset
+
+@RUOTSI_R = Ögonmuskler
+
+@ENGL_R = Extraocular muscles
+
+@NOTE_RF = Molempien silmien leikkaus lisäkoodilla ZXA10
+
+@NOTE_RS = Operationer på båda ögonen indikeras med tilläggskoden ZXA10
+
+@END = 
+
+@KOODI_A = CEA
+
+@NCSP_A = CESA
+
+@SUOMI_A = Silmälihasten koepalan otot
+
+@RUOTSI_A = Biopsi av ögonmuskel
+
+@ENGL_A = Biopsy of extraocular muscle
+
+@END = 
+
+@KOODI = CEA00 
+
+@NCSP = CESA00
+
+@SUOMI = Koepalan otto silmälihaksesta
+
+@RUOTSI = Biopsi av ögonmuskel
+
+@END = 
+
+@KOODI_A = CEB
+
+@NCSP_A = CESB
+
+@SUOMI_A = Silmälihasten poistot ja katkaisut
+
+@RUOTSI_A = Myektomi, myotomi, tenotomi av ögonmuskel
+
+@ENGL_A = Myectomy, myotomy, tenotomy of extraocular muscle
+
+@END = 
+
+@KOODI = CEB00 
+
+@NCSP = CESB00
+
+@SUOMI = Silmälihaksen poisto
+
+@RUOTSI = Myektomi av ögonmuskel
+
+@END = 
+
+@KOODI = CEB10 
+
+@NCSP = CESB10
+
+@SUOMI = Silmälihaksen osittainen katkaisu
+
+@RUOTSI = Partiell myotomi av ögonmuskel
+
+@END = 
+
+@KOODI = CEB20 
+
+@NCSP = CESB20
+
+@SUOMI = Silmälihaksen täydellinen katkaisu
+
+@RUOTSI = Total myotomi av ögonmuskel
+
+@END = 
+
+@KOODI = CEB30 
+
+@NCSP = CESB30
+
+@SUOMI = Silmälihaksen jänneosan katkaisu
+
+@RUOTSI = Tenotomi av ögonmuskel
+
+@END = 
+
+@KOODI_A = CEC
+
+@NCSP_A = CESC
+
+@SUOMI_A = Silmälihasten kiinnityspisteiden siirtoleikkaukset
+
+@RUOTSI_A = Transposition av ögonmuskel
+
+@ENGL_A = Transposition of extraocular muscle
+
+@END = 
+
+@KOODI = CEC00 
+
+@NCSP = CESC00
+
+@SUOMI = Silmälihaksen tai -lihasten retropositio
+
+@RUOTSI = Retroposition av ögonmuskel
+
+@END = 
+
+@KOODI = CEC10 
+
+@NCSP = CESC10
+
+@SUOMI = Silmälihaksen tai -lihasten retropositio ja resektio
+
+@RUOTSI = Retroposition och resektion av ögonmuskel
+
+@END = 
+
+@KOODI = CEC20 
+
+@NCSP = CESC20
+
+@SUOMI = Silmälihaksen tai -lihasten retropositio ja antepositio
+
+@RUOTSI = Retroposition och anteposition av ögonmuskel/-muskler
+
+@END = 
+
+@KOODI = CEC30 
+
+@NCSP = CESC30
+
+@SUOMI = Silmälihaksen tai -lihasten resektio
+
+@RUOTSI = Resektion av ögonmuskel
+
+@END = 
+
+@KOODI = CEC40 
+
+@NCSP = CESC40
+
+@SUOMI = Silmälihaksen tai -lihasten resektio ja antepositio
+
+@RUOTSI = Resektion och anteposition av ögonmuskel/-muskler
+
+@END = 
+
+@KOODI = CEC50 
+
+@NCSP = CESC50
+
+@SUOMI = Silmälihaksen tai -lihasten antepositio
+
+@RUOTSI = Anteposition av ögonmuskel/-muskler
+
+@END = 
+
+@KOODI = CEC60 
+
+@NCSP = CESC60
+
+@SUOMI = Silmälihaksen transpositio säätöompeleella
+
+@RUOTSI = Transposition av ögonmuskel med justerbar sutur
+
+@END = 
+
+@KOODI = CEC70 
+
+@NCSP = CESC70
+
+@SUOMI = Silmälihaksen tai -lihasten transpositio nystagmuksen vuoksi
+
+@RUOTSI = Transposition av ögonmuskel/-muskler p.g.a. nystagmus
+
+@END = 
+
+@KOODI = CEC80 
+
+@NCSP = CESC80
+
+@SUOMI = Silmälihaksen osittainen muu transpositio
+
+@RUOTSI = Partiell flyttning av ögonmuskel
+
+@END = 
+
+@KOODI = CEC90 
+
+@NCSP = CESC90
+
+@SUOMI = Silmälihaksen täydellinen muu transpositio
+
+@RUOTSI = Total transposition av ögonmuskel
+
+@END = 
+
+@KOODI_A = CED
+
+@NCSP_A = CESD
+
+@SUOMI_A = Silmälihasten lyhennykset poimuttamalla, plikaatiot
+
+@RUOTSI_A = Veckning av ögonmuskel, plikation
+
+@ENGL_A = Plication of extraocular muscle
+
+@END = 
+
+@KOODI = CED00 
+
+@NCSP = CESD00
+
+@SUOMI = Silmälihasten poimutus
+
+@RUOTSI = Veckning av ögonmuskel/-muskler
+
+@END = 
+
+@KOODI_A = CEE
+
+@NCSP_A = CESE
+
+@SUOMI_A = Silmälihasten kiinnitykset, fiksaatiot
+
+@RUOTSI_A = Fixering av ögonmuskel
+
+@ENGL_A = Fixation of extraocular muscle
+
+@END = 
+
+@KOODI = CEE00 
+
+@NCSP = CESE00
+
+@SUOMI = Silmälihaksen kiinnitys ompelemalla
+
+@RUOTSI = Fixationssutur i ögonmuskel
+
+@END = 
+
+@KOODI = CEE10 
+
+@NCSP = CESE10
+
+@SUOMI = Silmälihaksen ankkurointi taaemmaksi
+
+@RUOTSI = Fixering av ögonmuskel med ankarsutur
+
+@END = 
+
+@KOODI_A = CEF
+
+@NCSP_A = CESF
+
+@SUOMI_A = Silmälihasleikkaukset vamman tai kiinnikkeiden vuoksi
+
+@RUOTSI_A = Operation på ögonmuskel vid skada eller efter tidigare operation
+
+@ENGL_A = Operation on extraocular muscle for injury or after previous operation
+
+@END = 
+
+@KOODI = CEF00 
+
+@NCSP = CESF00
+
+@SUOMI = Silmälihaskiinnikkeiden irrottaminen
+
+@RUOTSI = Lösning av fastlödd ögonmuskel
+
+@END = 
+
+@KOODI = CEF10 
+
+@NCSP = CESF10
+
+@SUOMI = Silmälihaksen tai Tenonin kapselin vamman ompeleminen
+
+@RUOTSI = Sutur av skadad ögonmuskel eller Tenons kapsel
+
+@END = 
+
+@KOODI_A = CEW
+
+@NCSP_A = CESW
+
+@SUOMI_A = Muut silmälihasten leikkaukset
+
+@RUOTSI_A = Andra operationer på ögonmusklerna
+
+@ENGL_A = Other operations on extraocular muscle
+
+@END = 
+
+@KOODI = CEW99 
+
+@NCSP = CESW99
+
+@SUOMI = Muu silmälihasten leikkaus
+
+@RUOTSI = Annan operation på ögonmusklerna
+
+@END = 
+
+@KOODI_A = CE_
+
+@NCSP_A = CEX
+
+@SUOMI_A = Muut silmälihasten toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på ögonmusklerna
+
+@ENGL_A = Other procedures on extraocular muscle
+
+@END = 
+
+@KOODI = TCE00 
+
+@NCSP = CEXX00
+
+@SUOMI = Lääkkeen ruiskuttaminen silmälihaksiin
+
+@RUOTSI = Injektion av läkemedel i ögonmuskel
+
+@END = 
+
+@KOODI_R = CF
+
+@SUOMI_R = Sidekalvo
+
+@RUOTSI_R = Bindehinnan
+
+@ENGL_R = Conjunctiva
+
+@END = 
+
+@KOODI_A = CFA
+
+@NCSP_A = CFSA
+
+@SUOMI_A = Sidekalvon aukaisut ja koepalan otot
+
+@RUOTSI_A = Incision och biopsi av bindehinnan
+
+@ENGL_A = Incision and biopsy of conjunctiva
+
+@END = 
+
+@KOODI = CFA00 
+
+@NCSP = CFSA00
+
+@SUOMI = Sidekalvon aukaisu
+
+@RUOTSI = Incision av bindehinnan
+
+@END = 
+
+@KOODI = CFA10 
+
+@NCSP = CFSA10
+
+@SUOMI = Sidekalvon irroitus sarveiskalvon reunasta, peritomia
+
+@RUOTSI = Peritomi av bindehinnan
+
+@END = 
+
+@KOODI = CFA20 
+
+@NCSP = CFSA20
+
+@SUOMI = Koepalan otto sidekalvosta
+
+@RUOTSI = Biopsi av bindehinnan
+
+@END = 
+
+@KOODI_A = CFB
+
+@NCSP_A = CFSB
+
+@SUOMI_A = Sidekalvon ompelemiset ja vierasesineiden poistoleikkaukset
+
+@RUOTSI_A = Sutur och avlägsnande av främmande kropp i bindehinnan
+
+@ENGL_A = Suture and removal of foreign body of conjunctiva
+
+@END = 
+
+@KOODI = CFB00 
+
+@NCSP = CFSB00
+
+@SUOMI = Sidekalvon ompeleminen
+
+@RUOTSI = Sutur av sår i bindehinnan
+
+@END = 
+
+@KOODI = CFB10 
+
+@NCSP = CFSB10
+
+@SUOMI = Sidekalvon vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp i bindehinnan
+
+@END = 
+
+@KOODI_A = CFC
+
+@NCSP_A = CFSC
+
+@SUOMI_A = Sidekalvomuutosten poistoleikkaukset
+
+@RUOTSI_A = Avlägsnande av tumör eller lokal förändring
+
+@ENGL_A = Removal of lesion of conjunctiva
+
+@END = 
+
+@KOODI = CFC00 
+
+@NCSP = CFSC00
+
+@SUOMI = Sidekalvomuutoksen poisto
+
+@RUOTSI = Exstirpation av tumör i bindehinnan
+
+@END = 
+
+@KOODI = CFC10 
+
+@NCSP = CFSC10
+
+@SUOMI = Sidekalvomuutoksen laserkäsittely
+
+@RUOTSI = Laserterapi av förändring i bindehinnan
+
+@END = 
+
+@KOODI = CFC20 
+
+@NCSP = CFSC20
+
+@SUOMI = Sidekalvomuutoksen jäädytyshoito
+
+@RUOTSI = Kryoterapi av förändringar i bindehinnan
+
+@END = 
+
+@KOODI = CFC30 
+
+@NCSP = CFSC30
+
+@SUOMI = Trakoomakyhmyjen tai rakkuloiden poisto
+
+@RUOTSI = Exstirpation av trakomkorn/folliklar
+
+@END = 
+
+@KOODI_A = CFD
+
+@NCSP_A = CFSD
+
+@SUOMI_A = Sidekalvon korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på bindehinnan
+
+@ENGL_A = Repair of conjunctiva
+
+@END = 
+
+@KOODI = CFD00 
+
+@NCSP = CFSD00
+
+@SUOMI = Sidekalvon korjaaminen ilman siirrettä
+
+@RUOTSI = Rekonstruktion av bindehinnan utan transplantat
+
+@END = 
+
+@KOODI = CFD10 
+
+@NCSP = CFSD10
+
+@SUOMI = Sidekalvon korjaaminen siirrettä käyttäen
+
+@RUOTSI = Rekonstruktion av bindehinnan med transplantat
+
+@END = 
+
+@KOODI_A = CFW
+
+@NCSP_A = CFSW
+
+@SUOMI_A = Muut sidekalvon leikkaukset
+
+@RUOTSI_A = Andra operationer på bindehinnan
+
+@ENGL_A = Other operations on conjunctiva
+
+@END = 
+
+@KOODI = CFW99 
+
+@NCSP = CFSW99
+
+@SUOMI = Muu sidekalvon leikkaus
+
+@RUOTSI = Annan operation på bindehinnan
+
+@END = 
+
+@KOODI_A = CF_
+
+@NCSP_A = CFX
+
+@SUOMI_A = Muut sidekalvon toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på bindehinnan
+
+@ENGL_A = Other procedures on conjunctiva
+
+@END = 
+
+@KOODI = TCF00 
+
+@NCSP = CFXX00
+
+@SUOMI = Lääkkeen ruiskuttaminen sidekalvon alle
+
+@RUOTSI = Subkonjunktival injektion av läkemedel
+
+@END = 
+
+@KOODI_R = CG
+
+@SUOMI_R = Sarveiskalvo ja kovakalvo
+
+@RUOTSI_R = Hornhinna och sklera
+
+@ENGL_R = Cornea and sclera
+
+@END = 
+
+@KOODI_A = CGA
+
+@NCSP_A = CGSA
+
+@SUOMI_A = Koepalan otot sarveis- ja kovakalvosta
+
+@RUOTSI_A = Biopsi av hornhinna eller sklera
+
+@ENGL_A = Biopsy of cornea or sclera
+
+@END = 
+
+@KOODI = CGA00 
+
+@NCSP = CGSA00
+
+@SUOMI = Koepalan otto sarveiskalvosta
+
+@RUOTSI = Biopsi av hornhinna
+
+@END = 
+
+@KOODI = CGA10 
+
+@NCSP = CGSA10
+
+@SUOMI = Koepalan otto kovakalvosta
+
+@RUOTSI = Biopsi av sklera
+
+@END = 
+
+@KOODI_A = CGB
+
+@NCSP_A = CGSB
+
+@SUOMI_A = Sarveis- ja kovakalvon aukaisuleikkaukset
+
+@RUOTSI_A = Incision i hornhinna eller sklera
+
+@ENGL_A = Incision of cornea or sclera
+
+@END = 
+
+@KOODI = CGB00 
+
+@NCSP = CGSB00
+
+@SUOMI = Sarveiskalvon aukaisu
+
+@RUOTSI = Keratotomi
+
+@END = 
+
+@KOODI = CGB10 
+
+@NCSP = CGSB10
+
+@SUOMI = Kovakalvon aukaisu
+
+@RUOTSI = Sklerotomi
+
+@END = 
+
+@KOODI_A = CGC
+
+@NCSP_A = CGSC
+
+@SUOMI_A = Vierasesineiden poistot sarveis- ja kovakalvosta
+
+@RUOTSI_A = Avlägsnande av främmande kropp i hornhinna eller sklera
+
+@ENGL_A = Removal of foreign body from cornea or sclera
+
+@END = 
+
+@KOODI = CGC10 
+
+@NCSP = CGSC10
+
+@SUOMI = Vierasesineen poisto sarveiskalvosta
+
+@RUOTSI = Avlägsnande av främmande kropp i hornhinna
+
+@END = 
+
+@KOODI = CGC20 
+
+@NCSP = CGSC20
+
+@SUOMI = Vierasesineen poisto sarveiskalvosta magneettia käyttäen
+
+@RUOTSI = Avlägsnande av främmande kropp i hornhinna med magnet
+
+@END = 
+
+@KOODI = CGC30 
+
+@NCSP = CGSC30
+
+@SUOMI = Vierasesineen poisto kovakalvosta
+
+@RUOTSI = Avlägsnande av främmande kropp i sklera
+
+@END = 
+
+@KOODI = CGC40 
+
+@NCSP = CGSC40
+
+@SUOMI = Vierasesineen poisto kovakalvosta magneettia käyttäen
+
+@RUOTSI = Avlägsnande av främmande kropp i sklera med magnet
+
+@END = 
+
+@KOODI_A = CGD
+
+@NCSP_A = CGSD
+
+@SUOMI_A = Taittovirheen korjaamisleikkaukset
+
+@RUOTSI_A = Operationer för refraktionsanomali
+
+@ENGL_A = Operations for errors of refraction
+
+@END = 
+
+@KOODI = CGD00 
+
+@NCSP = CGSD00
+
+@SUOMI = Sarveiskalvoleikkaus taittovirheen korjaamiseksi
+
+@RUOTSI = Keratotomi för refraktionsanomali
+
+@END = 
+
+@KOODI = CGD10 
+
+@NCSP = CGSD10
+
+@SUOMI = Laserkäsittely taittovirheen korjaamiseksi
+
+@RUOTSI = Laserbehandling för refraktionsanomali
+
+@END = 
+
+@KOODI = CGD20 
+
+@NCSP = CGSD20
+
+@SUOMI = Keratomileusis
+
+@RUOTSI = Keratomileusis
+
+@END = 
+
+@KOODI = CGD40 
+
+@NCSP = CGSD40
+
+@SUOMI = Taittovirheen korjaus sarveiskalvon sisäisellä muovikaarella
+
+@RUOTSI = Implantation av intrakornealt inlägg
+
+@NOTE_F = Likinäköisyyden tai keratokonuksen takia
+
+@NOTE_S = Vid myopi eller keratokonus
+
+@END = 
+
+@KOODI = CGD99 
+
+@NCSP = CGSD99
+
+@SUOMI = Muu taittovirheen korjaamisleikkaus
+
+@RUOTSI = Annan operation för refraktionsanomali
+
+@END = 
+
+@KOODI_A = CGE
+
+@NCSP_A = CGSE
+
+@SUOMI_A = Sarveis- ja kovakalvon kudosmuutosten vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Behandling av vävnadsförändringar i hornhinna eller sklera
+
+@ENGL_A = Operations for lesion of cornea and sclera
+
+@END = 
+
+@KOODI = CGE10 
+
+@NCSP = CGSE10
+
+@SUOMI = Sarveiskalvon osan poisto
+
+@RUOTSI = Keratektomi
+
+@END = 
+
+@KOODI = CGE15 
+
+@NCSP = CGSE15
+
+@SUOMI = Sarveiskalvon laserhoito
+
+@RUOTSI = Laserbehandling av hornhinna
+
+@END = 
+
+@KOODI = CGE20 
+
+@NCSP = CGSE20
+
+@SUOMI = Sarveiskalvon elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av hornhinna
+
+@NOTE_F = Kartiopullistuman korjaus kohdassa CGG10
+
+@NOTE_S = Operation på keratoconus, se CGG10
+
+@END = 
+
+@KOODI = CGE25 
+
+@NCSP = CGSE25
+
+@SUOMI = Sarveiskalvon jäädytyshoito
+
+@RUOTSI = Kryoterapi av hornhinna
+
+@END = 
+
+@KOODI = CGE30 
+
+@NCSP = CGSE30
+
+@SUOMI = Kovakalvon osan poisto
+
+@RUOTSI = Sklerektomi
+
+@END = 
+
+@KOODI = CGE35 
+
+@NCSP = CGSE35
+
+@SUOMI = Kovakalvon laserhoito
+
+@RUOTSI = Laserbehandling av sklera
+
+@END = 
+
+@KOODI = CGE40 
+
+@NCSP = CGSE40
+
+@SUOMI = Kovakalvon elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av sklera
+
+@END = 
+
+@KOODI = CGE50 
+
+@NCSP = CGSE50
+
+@SUOMI = Siipikalvon poisto
+
+@RUOTSI = Excision av pterygium
+
+@END = 
+
+@KOODI = CGE55 
+
+@NCSP = CGSE55
+
+@SUOMI = Siipikalvon poisto ja sidekalvon korjaaminen siirrettä käyttäen
+
+@RUOTSI = Excision av pterygium med transplantatrekonstruktion av konjunktiva
+
+@END = 
+
+@KOODI = CGE99 
+
+@NCSP = CGSE99
+
+@SUOMI = Muu sarveis- tai kovakalvon kudosmuutosten leikkaus
+
+@RUOTSI = Annan operation för vävnadsförändringar i hornhinna eller sklera
+
+@END = 
+
+@KOODI_A = CGF
+
+@NCSP_A = CGSF
+
+@SUOMI_A = Lävistävien sarveis- tai kovakalvohaavojen leikkaukset
+
+@RUOTSI_A = Behandling av perforerande sår i hornhinna eller sklera
+
+@ENGL_A = Operations on cornea and sclera for perforating injury
+
+@END = 
+
+@KOODI = CGF00 
+
+@NCSP = CGSF00
+
+@SUOMI = Sarveiskalvohaavan liimaaminen
+
+@RUOTSI = Limning av sår i hornhinna
+
+@END = 
+
+@KOODI = CGF10 
+
+@NCSP = CGSF10
+
+@SUOMI = Sarveiskalvohaavan ompeleminen
+
+@RUOTSI = Sutur av sår i hornhinna
+
+@END = 
+
+@KOODI = CGF20 
+
+@NCSP = CGSF20
+
+@SUOMI = Sarveiskalvohaavan ompeleminen ja sidekalvon korjaaminen
+
+@RUOTSI = Sutur av sår i hornhinna med reparation av bindehinna
+
+@END = 
+
+@KOODI = CGF25 
+
+@NCSP = CGSF25
+
+@SUOMI = Sarveiskalvohaavan ompeleminen ja uvean prolapsin poisto
+
+@RUOTSI = Sutur av sår i hornhinna med avlägsnande av prolaberad uveavävnad
+
+@END = 
+
+@KOODI = CGF30 
+
+@NCSP = CGSF30
+
+@SUOMI = Sarveiskalvon peittäminen sidekalvolla
+
+@RUOTSI = Täckning av hornhinna med konjunktiva
+
+@END = 
+
+@KOODI = CGF40 
+
+@NCSP = CGSF40
+
+@SUOMI = Kovakalvohaavan liimaaminen
+
+@RUOTSI = Limning av sår i sklera
+
+@END = 
+
+@KOODI = CGF45 
+
+@NCSP = CGSF45
+
+@SUOMI = Kovakalvohaavan ompeleminen
+
+@RUOTSI = Sutur av sår i sklera
+
+@END = 
+
+@KOODI = CGF50 
+
+@NCSP = CGSF50
+
+@SUOMI = Kovakalvohaavan ompeleminen ja sidekalvon korjaaminen
+
+@RUOTSI = Sutur av sår i sklera med rekonstruktion av bindehinna
+
+@END = 
+
+@KOODI = CGF55 
+
+@NCSP = CGSF55
+
+@SUOMI = Kovakalvohaavan ompeleminen ja uvean prolapsin poisto
+
+@RUOTSI = Sutur av sår i sklera med avlägsnande av prolaberad uveavävnad
+
+@END = 
+
+@KOODI = CGF99 
+
+@NCSP = CGSF99
+
+@SUOMI = Muu perforoivan sarveis- tai kovakalvohaavan leikkaus
+
+@RUOTSI = Annan operation vid perforerande sår i hornhinna eller sklera
+
+@END = 
+
+@KOODI_A = CGG
+
+@NCSP_A = CGSG
+
+@SUOMI_A = Sarveis-tai kovakalvon korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på hornhinna och sklera
+
+@ENGL_A = Reconstructive operations on cornea and sclera
+
+@END = 
+
+@KOODI = CGG00 
+
+@NCSP = CGSG00
+
+@SUOMI = Sarveiskalvon tatuointi
+
+@RUOTSI = Tatuering av hornhinna
+
+@END = 
+
+@KOODI = CGG10 
+
+@NCSP = CGSG10
+
+@SUOMI = Sarveiskalvon kartiopullistuman korjaus elektrokoagulaatiolla
+
+@RUOTSI = Termokauterisering av keratoconus i hornhinna
+
+@END = 
+
+@KOODI = CGG20 
+
+@NCSP = CGSG20
+
+@SUOMI = Epikeratofakia, keratofakia
+
+@RUOTSI = Epikeratofaki, keratofaki
+
+@END = 
+
+@KOODI = CGG30 
+
+@NCSP = CGSG30
+
+@SUOMI = Sarveiskalvon lamellaarinen siirto
+
+@RUOTSI = Lamellär hornhinnetransplantation
+
+@END = 
+
+@KOODI = CGG40 
+
+@NCSP = CGSG40
+
+@SUOMI = Sarveiskalvon siirto omaa kudosta käyttäen
+
+@RUOTSI = Hornhinnetransplantation med autograft
+
+@END = 
+
+@KOODI = CGG45 
+
+@NCSP = CGSG45
+
+@SUOMI = Sarveiskalvon siirto vainajan kudosta käyttäen
+
+@RUOTSI = Hornhinnetransplantation med homograft
+
+@END = 
+
+@KOODI = CGG50 
+
+@NCSP = CGSG50
+
+@SUOMI = Keratoproteesin asettaminen
+
+@RUOTSI = Implantation av keratoprotes
+
+@END = 
+
+@KOODI = CGG60 
+
+@NCSP = CGSG60
+
+@SUOMI = Kovakalvon vahvistaminen siirteellä
+
+@RUOTSI = Förstärkning av sklera med transplantat
+
+@END = 
+
+@KOODI = CGG99 
+
+@NCSP = CGSG99
+
+@SUOMI = Muu sarveis- tai kovakalvon korjaamisleikkaus
+
+@RUOTSI = Annat rekonstruktivt ingrepp på hornhinna eller sklera
+
+@END = 
+
+@KOODI_A = CGW
+
+@NCSP_A = CGSW
+
+@SUOMI_A = Muut sarveis-tai kovakalvon leikkaukset
+
+@RUOTSI_A = Andra operationer på hornhinna eller sklera
+
+@ENGL_A = Other operations on cornea and sclera
+
+@END = 
+
+@KOODI = CGW99 
+
+@NCSP = CGSW99
+
+@SUOMI = Muu sarveis- tai kovakalvon leikkaus
+
+@RUOTSI = Annan operation på hornhinna eller sklera
+
+@END = 
+
+@KOODI_A = CG_
+
+@NCSP_A = CGX
+
+@SUOMI_A = Muut sarveis-tai kovakalvon toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på hornhinna eller sklera
+
+@ENGL_A = Other procedures on cornea and sclera
+
+@END = 
+
+@KOODI = TCG00 
+
+@NCSP = CGXX00
+
+@SUOMI = Sarveis- ja kovakalvon suojaus kontaktilinssillä
+
+@RUOTSI = Behandling av sår i hornhinna eller sklera med bandagelins
+
+@END = 
+
+@KOODI = TCG10 
+
+@NCSP = CGXX10
+
+@SUOMI = Sarveiskalvo-ommelten poisto
+
+@RUOTSI = Suturtagning från hornhinna
+
+@END = 
+
+@KOODI = TCG20 
+
+@NCSP = CGXX20
+
+@SUOMI = Sarveiskalvo- tai kovakalvo-ommelten poisto laserilla
+
+@RUOTSI = Suturtagning från hornhinna eller sklera med laser
+
+@END = 
+
+@KOODI_R = CH
+
+@SUOMI_R = Etukammio, kammiokulma, värikalvo ja sädekehä
+
+@RUOTSI_R = Främre kammare, kammarvinkel, iris och ciliarkropp
+
+@ENGL_R = Anterior chamber, anterior chamber angle, iris and ciliary body
+
+@NOTE_RF = Vieraesineiden poisto kohdassa CDB
+
+@NOTE_RS = Avlägsnande av främmande kropp, se CDB
+
+@END = 
+
+@KOODI_A = CHA
+
+@NCSP_A = CHSA
+
+@SUOMI_A = Etukammion, kammiokulman, värikalvon ja sädekehän tutkimusleikkaukset
+
+@RUOTSI_A = Biopsi av främre kammaren, kammarvinkeln, iris och ciliarkroppen
+
+@ENGL_A = Biopsy of anterior chamber, anterior chamber angle, iris and ciliary body
+
+@END = 
+
+@KOODI = CHA10 
+
+@NCSP = CHSA10
+
+@SUOMI = Koepalan otto värikalvosta
+
+@RUOTSI = Biopsi av iris
+
+@NOTE_F = Neulanäytteen otto värikalvosta TCH20
+
+@NOTE_S = Nålbiopsi av iris TCH20
+
+@END = 
+
+@KOODI = CHA20 
+
+@NCSP = CHSA20
+
+@SUOMI = Koepalan otto sädekehästä
+
+@RUOTSI = Biopsi av ciliarkroppen
+
+@NOTE_F = Neulanäytteen otto sädekehästä TCH30
+
+@NOTE_S = Nålbiopsi av ciliarkroppen TCH30
+
+@END = 
+
+@KOODI_A = CHB
+
+@NCSP_A = CHSB
+
+@SUOMI_A = Kammiokulman ja etukammion leikkaukset
+
+@RUOTSI_A = Ingrepp i främre kammaren och kammarvinkeln
+
+@ENGL_A = Operations on anterior chamber and anterior chamber angle
+
+@END = 
+
+@KOODI = CHB00 
+
+@NCSP = CHSB00
+
+@SUOMI = Etukiinnikkeiden katkaisu laserilla
+
+@RUOTSI = Delning av främre synekier med laser
+
+@END = 
+
+@KOODI = CHB10 
+
+@NCSP = CHSB10
+
+@SUOMI = Etukammiopisto ja -huuhtelu
+
+@RUOTSI = Kammarpunktion med sköljning
+
+@END = 
+
+@KOODI = CHB15 
+
+@NCSP = CHSB15
+
+@SUOMI = Etukammiopisto ja kaasun ruiskuttaminen
+
+@RUOTSI = Kammarpunktion med insprutning gas
+
+@NOTE_F = Ilma tai muu kaasu tai vastaava toimenpide
+
+@NOTE_S = Insufflation af luft eller annat gas eller motsvarande åtgärd
+
+@END = 
+
+@KOODI = CHB20 
+
+@NCSP = CHSB20
+
+@SUOMI = Kammiokulmapisto
+
+@RUOTSI = Goniopunktion
+
+@END = 
+
+@KOODI = CHB30 
+
+@NCSP = CHSB30
+
+@SUOMI = Kammiokulman aukaisu
+
+@RUOTSI = Goniotomi
+
+@END = 
+
+@KOODI = CHB40 
+
+@NCSP = CHSB40
+
+@SUOMI = Kammiokulman kiinnikkeiden irroitus
+
+@RUOTSI = Lösning av goniosynekier
+
+@END = 
+
+@KOODI = CHB50 
+
+@NCSP = CHSB50
+
+@SUOMI = Trabekulotomia
+
+@RUOTSI = Trabekulotomi
+
+@END = 
+
+@KOODI = CHB60 
+
+@NCSP = CHSB60
+
+@SUOMI = Etukiinnikkeiden irroitus
+
+@RUOTSI = Lösning av främre synekier
+
+@END = 
+
+@KOODI = CHB65 
+
+@NCSP = CHSB65
+
+@SUOMI = Takakiinnikkeiden irroitus
+
+@RUOTSI = Lösning av bakre synekier
+
+@END = 
+
+@KOODI = CHB99 
+
+@NCSP = CHSB99
+
+@SUOMI = Muu kammiokulman ja etukammion leikkaus
+
+@RUOTSI = Annan operation i främre kammaren och kammarvinkeln
+
+@END = 
+
+@KOODI_A = CHC
+
+@NCSP_A = CHSC
+
+@SUOMI_A = Värikalvon aukaisu, iridotomia, tai poisto, iridektomia
+
+@RUOTSI_A = Iridotomi och iridektomi
+
+@ENGL_A = Iridotomy and iridectomy
+
+@END = 
+
+@KOODI = CHC00 
+
+@NCSP = CHSC00
+
+@SUOMI = Iridotomia
+
+@RUOTSI = Iridotomi
+
+@END = 
+
+@KOODI = CHC05 
+
+@NCSP = CHSC05
+
+@SUOMI = Iridotomia laseria käyttäen
+
+@RUOTSI = Iridotomi med laser
+
+@END = 
+
+@KOODI = CHC10 
+
+@NCSP = CHSC10
+
+@SUOMI = Perifeerinen iridektomia
+
+@RUOTSI = Perifer iridektomi
+
+@END = 
+
+@KOODI = CHC20 
+
+@NCSP = CHSC20
+
+@SUOMI = Sektori-iridektomia
+
+@RUOTSI = Sektoriridektomi
+
+@END = 
+
+@KOODI = CHC30 
+
+@NCSP = CHSC30
+
+@SUOMI = Sentraalinen iridektomia, sfinkterotomia
+
+@RUOTSI = Central iridektomi, sfinkterotomi
+
+@END = 
+
+@KOODI_A = CHD
+
+@NCSP_A = CHSD
+
+@SUOMI_A = Kammionesteen ulosvirtausta muuttavat leikkaukset
+
+@RUOTSI_A = Operationer för att reglera utflödet av kammarvätska
+
+@ENGL_A = Filtering operations
+
+@END = 
+
+@KOODI = CHD00 
+
+@NCSP = CHSD00
+
+@SUOMI = Lasertrabekuloplastia, LTP
+
+@RUOTSI = Lasertrabekuloplastik
+
+@END = 
+
+@KOODI = CHD10 
+
+@NCSP = CHSD10
+
+@SUOMI = Trabekulektomia
+
+@RUOTSI = Trabekulektomi
+
+@END = 
+
+@KOODI = CHD15 
+
+@NCSP = CHSD15
+
+@SUOMI = Trabekulektomia ja iridektomia
+
+@RUOTSI = Trabekulektomi med iridektomi
+
+@END = 
+
+@KOODI = CHD20 
+
+@NCSP = CHSD20
+
+@SUOMI = Kovakalvon trepanaatio
+
+@RUOTSI = Trepanation av sklera
+
+@END = 
+
+@KOODI = CHD25 
+
+@NCSP = CHSD25
+
+@SUOMI = Kovakalvon trepanaatio ja iridektomia
+
+@RUOTSI = Trepanation av sklera med iridektomi
+
+@END = 
+
+@KOODI = CHD30 
+
+@NCSP = CHSD30
+
+@SUOMI = Trabekulektomia laseria käyttäen
+
+@RUOTSI = Lasertrabekulektomi
+
+@END = 
+
+@KOODI = CHD40 
+
+@NCSP = CHSD40
+
+@SUOMI = Iridenkleisi
+
+@RUOTSI = Iridenkleisis
+
+@END = 
+
+@KOODI = CHD50 
+
+@NCSP = CHSD50
+
+@SUOMI = Suntin asennus etukammioon
+
+@RUOTSI = Implantation av kateter till främre kammaren
+
+@END = 
+
+@KOODI = CHD60 
+
+@NCSP = CHSD60
+
+@SUOMI = Kovankalvon syvän osan poisto ilma istutetta
+
+@RUOTSI = Djup sklerektomi utan implantat
+
+@END = 
+
+@KOODI = CHD65 
+
+@NCSP = CHSD65
+
+@SUOMI = Kovankalvon syvän osan poisto istutteen kanssa
+
+@RUOTSI = Djup sklerektomi med implantat
+
+@NOTE_F = Sisältää kollageeni- tai natriumhyaluronaatti -istutteen
+
+@NOTE_S = Inkl. kollagen- och natriumhyaluronatimplantat
+
+@END = 
+
+@KOODI = CHD99 
+
+@NCSP = CHSD99
+
+@SUOMI = Muu kammionesteen ulosvirtausta muuttava leikkaus
+
+@RUOTSI = Annan operation för att reglera utflödet av kammarvätska
+
+@END = 
+
+@KOODI_A = CHE
+
+@NCSP_A = CHSE
+
+@SUOMI_A = Värikalvon muutosten leikkaukset
+
+@RUOTSI_A = Operationer för tumör eller lokal förändring i iris
+
+@ENGL_A = Operations for lesion of iris
+
+@END = 
+
+@KOODI = CHE00 
+
+@NCSP = CHSE00
+
+@SUOMI = Mustuaisen aukaisu
+
+@RUOTSI = Öppning av pupil
+
+@NOTE_F = Vain lasertekniikalla suoritettu toimenpide kohdassa CHE05
+
+@NOTE_S = Åtgärd enbart med laserteknik, se CHE05
+
+@END = 
+
+@KOODI = CHE05 
+
+@NCSP = CHSE05
+
+@SUOMI = Mustuaisen aukaisu laserilla
+
+@RUOTSI = Öppning av pupill med laser
+
+@END = 
+
+@KOODI = CHE10 
+
+@NCSP = CHSE10
+
+@SUOMI = Värikalvon osittainen poisto kasvaimen takia
+
+@RUOTSI = Delresektion av iris för tumör
+
+@END = 
+
+@KOODI = CHE20 
+
+@NCSP = CHSE20
+
+@SUOMI = Värikalvon kasvaimen laserhoito
+
+@RUOTSI = Laserbehandling av tumör i iris
+
+@END = 
+
+@KOODI = CHE99 
+
+@NCSP = CHSE99
+
+@SUOMI = Muu värikalvon kasvaimen vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation för tumör eller lokal förändring i iris
+
+@END = 
+
+@KOODI_A = CHF
+
+@NCSP_A = CHSF
+
+@SUOMI_A = Sädekehän leikkaukset
+
+@RUOTSI_A = Operationer på ciliarkroppen
+
+@ENGL_A = Operations on ciliary body
+
+@END = 
+
+@KOODI = CHF00 
+
+@NCSP = CHSF00
+
+@SUOMI = Sädekehän kasvaimen poisto
+
+@RUOTSI = Exstirpation av tumör i ciliarkroppen
+
+@END = 
+
+@KOODI = CHF05 
+
+@NCSP = CHSF05
+
+@SUOMI = Sädekehän laser/fotokoagulaatio kovakalvon läpi
+
+@RUOTSI = Transskleral laser/fotokoagulation av ciliarkroppen
+
+@END = 
+
+@KOODI = CHF10 
+
+@NCSP = CHSF10
+
+@SUOMI = Sädekehän laser/fotokoagulaatio mustuaisen läpi
+
+@RUOTSI = Transpupillär laser/fotokoagulation av ciliarkroppen
+
+@END = 
+
+@KOODI = CHF15 
+
+@NCSP = CHSF15
+
+@SUOMI = Sädekehän jäädytyshoito, kryokoagulaatio
+
+@RUOTSI = Kryoterapi av ciliarkroppen
+
+@END = 
+
+@KOODI = CHF20 
+
+@NCSP = CHSF20
+
+@SUOMI = Sädekehän elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av ciliarkroppen
+
+@END = 
+
+@KOODI = CHF30 
+
+@NCSP = CHSF30
+
+@SUOMI = Syklodialyysi
+
+@RUOTSI = Cyklodialys
+
+@END = 
+
+@KOODI = CHF99 
+
+@NCSP = CHSF99
+
+@SUOMI = Muu sädekehän leikkaus
+
+@RUOTSI = Annan operation på ciliarkroppen
+
+@END = 
+
+@KOODI_A = CHW
+
+@NCSP_A = CHSW
+
+@SUOMI_A = Muut etukammion, kammiokulman, värikalvon ja sädekehän leikkaukset
+
+@RUOTSI_A = Andra operationer i främre kammaren, kammarvinkeln, på iris och ciliarkroppen
+
+@ENGL_A = Other operations on anterior chamber, anterior chamber angle, iris and ciliary body
+
+@END = 
+
+@KOODI = CHW99 
+
+@NCSP = CHSW99
+
+@SUOMI = Muu etukammion, kammiokulman, värikalvon ja sädekehän leikkaus
+
+@RUOTSI = Annan operation i främre kammaren, kammarvinkeln, på iris och ciliarkroppen
+
+@END = 
+
+@KOODI_A = CH_
+
+@NCSP_A = CHX
+
+@SUOMI_A = Muut etukammion, kammiokulman, värikalvon ja sädekehän toimenpiteet
+
+@RUOTSI_A = Andra åtgärder i främre kammaren, kammarvinkeln, på iris och ciliarkroppen
+
+@ENGL_A = Other operations on anterior chamber, anterior chamber angle, iris and ciliary body
+
+@END = 
+
+@KOODI = TCH10 
+
+@NCSP = CHXX10
+
+@SUOMI = Etukammion pisto
+
+@RUOTSI = Aspiration av vätska från främre kammaren
+
+@END = 
+
+@KOODI = TCH20 
+
+@NCSP = CHXX20
+
+@SUOMI = Pistonäytteen otto värikalvosta
+
+@RUOTSI = Punktionsbiopsi av iris
+
+@END = 
+
+@KOODI = TCH30 
+
+@NCSP = CHXX30
+
+@SUOMI = Pistonäytteen otto sädekehästä
+
+@RUOTSI = Punktionsbiopsi av ciliarkroppen
+
+@END = 
+
+@KOODI_R = CJ
+
+@SUOMI_R = Mykiö
+
+@RUOTSI_R = Lins
+
+@ENGL_R = Lens
+
+@NOTE_RF = Vierasesineiden poisto kohdassa CDB
+
+@NOTE_RF =
+Vitrektomialle oma koodi kohdassa CKD
+
+@NOTE_RS = Avlägsnande av främmande kropp, se CDB
+
+@NOTE_RS =
+Samtidig vitrektomi anges med tilläggskod, se CKD
+
+@END = 
+
+@KOODI_A = CJA
+
+@NCSP_A = CJSA
+
+@SUOMI_A = Tekomykiön asettaminen mykiölliseen silmään
+
+@RUOTSI_A = Implantation av phakisk linsprotes
+
+@ENGL_A = Implantation of phakic lens
+
+@END = 
+
+@KOODI = CJA00 
+
+@NCSP = CJSA00
+
+@SUOMI = Tekomykiön asettaminen mykiöllisen silmän etukammioon
+
+@RUOTSI = Implantation av phakisk linsprotes i främre kammare
+
+@END = 
+
+@KOODI = CJA10 
+
+@NCSP = CJSA10
+
+@SUOMI = Tekomykiön asettaminen mykiöllisen silmän takakammioon
+
+@RUOTSI = Implantation av phakisk linsprotes i bakre kammare
+
+@END = 
+
+@KOODI_A = CJB
+
+@NCSP_A = CJSB
+
+@SUOMI_A = Jälkikaihin vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operationer vid sekundär katarakt
+
+@ENGL_A = Operations on lens for secondary cataract
+
+@END = 
+
+@KOODI = CJB00 
+
+@NCSP = CJSB00
+
+@SUOMI = Jälkikaihin avaus veitsellä
+
+@RUOTSI = Discission av sekundär katarakt eller membran med kniv
+
+@END = 
+
+@KOODI = CJB10 
+
+@NCSP = CJSB10
+
+@SUOMI = Jälkikaihin avaus laserilla, laserkapsulotomia
+
+@RUOTSI = Laserdiscission av sekundär katarakt eller membran, kapsulotomi
+
+@END = 
+
+@KOODI = CJB20 
+
+@NCSP = CJSB20
+
+@SUOMI = Jälkikaihin poisto imulla ja takakapselin kiillotus
+
+@RUOTSI = Evakuering av sekundär katarakt och polering av bakre kapseln
+
+@END = 
+
+@KOODI = CJB30 
+
+@NCSP = CJSB30
+
+@SUOMI = Jälkikaihin poisto
+
+@RUOTSI = Excision av sekundär katarakt
+
+@END = 
+
+@KOODI = CJB99 
+
+@NCSP = CJSB99
+
+@SUOMI = Muu jälkikaihin vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation vid sekundär katarakt
+
+@END = 
+
+@KOODI_A = CJC
+
+@NCSP_A = CJSC
+
+@SUOMI_A = Kaihimykiön poistoleikkaukset, intrakapsulaariset
+
+@RUOTSI_A = Intrakapsulär kataraktextraktion
+
+@ENGL_A = Intracapsular cataract operations
+
+@END = 
+
+@KOODI = CJC00 
+
+@NCSP = CJSC00
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus
+
+@RUOTSI = Intrakapsulär kataraktextraktion
+
+@END = 
+
+@KOODI = CJC05 
+
+@NCSP = CJSC05
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus ja iridektomia/iridotomia
+
+@RUOTSI = Intrakapsulär kataraktextraktion med iridektomi eller iridotomi
+
+@END = 
+
+@KOODI = CJC10 
+
+@NCSP = CJSC10
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus, etukammiotekomykiö
+
+@RUOTSI = Intrakapsulär kataraktextraktion med  linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJC15 
+
+@NCSP = CJSC15
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus, etukammiotekomykiö, iridektomia/-otomia
+
+@RUOTSI = Intrakapsulär kataraktextraktion med iridektomi / iridotomi och med linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJC20 
+
+@NCSP = CJSC20
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus, takakammiotekomykiö
+
+@RUOTSI = Intrakapsulär kataraktextraktion och med linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJC25 
+
+@NCSP = CJSC25
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus, takakammiotekomykiö, iridektomia/iridotomia
+
+@RUOTSI = Intrakapsulär kataraktextraktion med iridektomi / iridotomi och med linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJC40 
+
+@NCSP = CJSC40
+
+@SUOMI = Intrakapsulaarinen kaihileikkaus, takakammiotekomykiö kovakalvoon kiinnitettynä
+
+@RUOTSI = Intrakapsulär kataraktextraktion med linsprotes i bakre kammaren fixerad till sklera
+
+@END = 
+
+@KOODI = CJC99 
+
+@NCSP = CJSC99
+
+@SUOMI = Muu intrakapsulaarinen kaihileikkaus
+
+@RUOTSI = Annan intrakapsulär kataraktoperation
+
+@END = 
+
+@KOODI_A = CJD
+
+@NCSP_A = CJSD
+
+@SUOMI_A = Kaihimykiön poistoleikkaukset, ekstrakapsulaariset
+
+@RUOTSI_A = Extrakapsulär kataraktoperation
+
+@ENGL_A = Extracapsular cataract operations
+
+@END = 
+
+@KOODI = CJD00 
+
+@NCSP = CJSD00
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus
+
+@RUOTSI = Extrakapsulär kataraktextraktion
+
+@END = 
+
+@KOODI = CJD05 
+
+@NCSP = CJSD05
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus ja iridektomia/iridotomia
+
+@RUOTSI = Extrakapsulär kataraktextraktion med iridektomi eller iridotomi
+
+@END = 
+
+@KOODI = CJD10 
+
+@NCSP = CJSD10
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus, etukammiotekomykiö
+
+@RUOTSI = Extrakapsulär kataraktextraktion med linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJD15 
+
+@NCSP = CJSD15
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus, etukammiotekomykiö, iridektomia/-dotomia
+
+@RUOTSI = Extrakapsulär kataraktextraktion med iridektomi / iridotomi och med linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJD20 
+
+@NCSP = CJSD20
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus, takakammiotekomykiö
+
+@RUOTSI = Extrakapsulär kataraktextraktion med linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJD25 
+
+@NCSP = CJSD25
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus, takakammiotekomykiö, iridektomia/-otomia
+
+@RUOTSI = Extrakapsulär kataraktextraktion med iridektomi / iridotomi och med  linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJD30 
+
+@NCSP = CJSD30
+
+@SUOMI = Mykiön poisto pars planan kautta
+
+@RUOTSI = Linsextraktion via pars plana
+
+@END = 
+
+@KOODI = CJD40 
+
+@NCSP = CJSD40
+
+@SUOMI = Ekstrakapsulaarinen kaihileikkaus, takakammiotekomykiö kovakalvoon kiinnitettynä
+
+@RUOTSI = Extrakapsulär kataraktextraktion med skleral fixerad linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJD99 
+
+@NCSP = CJSD99
+
+@SUOMI = Muu ekstrakapsulaarinen kaihileikkaus
+
+@RUOTSI = Annan extrakapsulär kataraktoperation
+
+@END = 
+
+@KOODI_A = CJE
+
+@NCSP_A = CJSE
+
+@SUOMI_A = Kaihileikkaukset ultraäänitekniikalla ja niihin liittyvät toimenpiteet
+
+@RUOTSI_A = Extrakapsulär kataraktoperation med fakoemulsifikation
+
+@ENGL_A = Extracapsular cataract operations using phakoemulsification technique
+
+@END = 
+
+@KOODI = CJE00 
+
+@NCSP = CJSE00
+
+@SUOMI = Kaihimykiön poisto ultraäänitekniikalla
+
+@RUOTSI = Fakoemulsifikation
+
+@END = 
+
+@KOODI = CJE05 
+
+@NCSP = CJSE05
+
+@SUOMI = Kaihimykiön poisto ultraäänitekniikalla ja iridektomia/iridotomia
+
+@RUOTSI = Fakoemulsifikation med iridektomi eller iridotomi
+
+@END = 
+
+@KOODI = CJE10 
+
+@NCSP = CJSE10
+
+@SUOMI = Kaihimykiön poisto ultraäänitekniikalla, etukammiotekomykiö
+
+@RUOTSI = Fakoemulsifikation med implantation av linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJE15 
+
+@NCSP = CJSE15
+
+@SUOMI = Kaihimykiön poisto ultraäänitekniikalla, etukammiotekomykiö ja  iridektomia/iridotomia
+
+@RUOTSI = Fakoemulsifikation med iridektomi / iridotomi med linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJE20 
+
+@NCSP = CJSE20
+
+@SUOMI = Kaihimykiön ultraäänipoisto, takakammiotekomykiö
+
+@RUOTSI = Fakoemulsifikation med implantation av linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJE25 
+
+@NCSP = CJSE25
+
+@SUOMI = Kaihimykiön ultraäänipoisto, takakammiotekomykiö ja iridektomia/iridotomia
+
+@RUOTSI = Fakoemulsifikation med iridektomi / iridotomi och med linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJE40 
+
+@NCSP = CJSE40
+
+@SUOMI = Kaihimykiön ultraäänipoisto, takakammiotekomykiö kovakalvoon kiinnitettynä
+
+@RUOTSI = Fakoemulsifikation med implantation av skleralt fixerad linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJE99 
+
+@NCSP = CJSE99
+
+@SUOMI = Muu kaihileikkaus ultraäänitekniikkaa käyttäen
+
+@RUOTSI = Annan extrakapsulär kataraktoperation med fakoemulsifikation
+
+@END = 
+
+@KOODI_A = CJF
+
+@NCSP_A = CJSF
+
+@SUOMI_A = Muut tekomykiöleikkaukset
+
+@RUOTSI_A = Andra operationer med linsprotes
+
+@ENGL_A = Other operations on artificial lens
+
+@END = 
+
+@KOODI = CJF00 
+
+@NCSP = CJSF00
+
+@SUOMI = Tekomykiön myöhäisasettaminen etukammioon
+
+@RUOTSI = Sekundär implantation av linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJF10 
+
+@NCSP = CJSF10
+
+@SUOMI = Tekomykiön myöhäisasettaminen takakammioon
+
+@RUOTSI = Sekundär implantation av linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJF15 
+
+@NCSP = CJSF15
+
+@SUOMI = Tekomykiön myöhäisasettaminen takakammioon kovakalvoon kiinnitettynä
+
+@RUOTSI = Sekundär implantation av linsprotes fixerad i sklera och  i bakre kammaren
+
+@END = 
+
+@KOODI = CJF20 
+
+@NCSP = CJSF20
+
+@SUOMI = Tekomykiön poisto
+
+@RUOTSI = Extraktion av linsprotes
+
+@END = 
+
+@KOODI = CJF30 
+
+@NCSP = CJSF30
+
+@SUOMI = Tekomykiön asennon korjaamisleikkaus
+
+@RUOTSI = Reposition av linsprotes
+
+@END = 
+
+@KOODI = CJF40 
+
+@NCSP = CJSF40
+
+@SUOMI = Tekomykiön poisto, uusi etukammiotekomykiö
+
+@RUOTSI = Extraktion av linsprotes och insättning av ny linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJF45 
+
+@NCSP = CJSF45
+
+@SUOMI = Tekomykiön poisto, uusi etukammiotekomykiö, iridektomia/iridotomia
+
+@RUOTSI = Extraktion av linsprotes med iridektomi / iridotomi och med ny linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJF50 
+
+@NCSP = CJSF50
+
+@SUOMI = Tekomykiön poisto, uusi takakammiotekomykiö
+
+@RUOTSI = Extraktion av linsprotes och insättning av ny linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJF55 
+
+@NCSP = CJSF55
+
+@SUOMI = Tekomykiön poisto, uusi takakammiomykiö, iridektomia/iridotomia
+
+@RUOTSI = Extraktion av linsprotes med iridektomi / iridotomi och med ny linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJF99 
+
+@NCSP = CJSF99
+
+@SUOMI = Muu tekomykiöleikkaus
+
+@RUOTSI = Annan operation med linsprotes
+
+@END = 
+
+@KOODI_A = CJG
+
+@NCSP_A = CJSG
+
+@SUOMI_A = Mykiön sijoiltaanmenon, luksaation, vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operationer vid luxerad lins
+
+@ENGL_A = Operations on dislocated lens
+
+@END = 
+
+@KOODI = CJG00 
+
+@NCSP = CJSG00
+
+@SUOMI = Huksoituneen mykiön poisto
+
+@RUOTSI = Extraktion av luxerad lins
+
+@END = 
+
+@KOODI = CJG05 
+
+@NCSP = CJSG05
+
+@SUOMI = Luksoituneen mykiön poisto ja iridektomia/iridotomia
+
+@RUOTSI = Extraktion av luxerad lins med iridektomi eller iridotomi
+
+@END = 
+
+@KOODI = CJG10 
+
+@NCSP = CJSG10
+
+@SUOMI = Luksoituneen mykiön poisto, uusi etukammiotekomykiö
+
+@RUOTSI = Extraktion av luxerad lins med implantation av linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJG15 
+
+@NCSP = CJSG15
+
+@SUOMI = Luksoituneen mykiön poisto, etukammiotekomykiö, iridektomia/iridotomia
+
+@RUOTSI = Extraktion av luxerad lins med dektomi / iridotomi och med linsprotes i främre kammaren
+
+@END = 
+
+@KOODI = CJG20 
+
+@NCSP = CJSG20
+
+@SUOMI = Luksoituneen mykiön poisto, takakammiotekomykiö
+
+@RUOTSI = Extraktion av luxerad lins med implantation av linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJG25 
+
+@NCSP = CJSG25
+
+@SUOMI = Luksoituneen mykiön poisto, takakammiotekomykiö, iridektomia/-otomia
+
+@RUOTSI = Extraktion av luxerad lins med  iridektomi / iridotomi och med linsprotes i bakre kammaren
+
+@END = 
+
+@KOODI = CJG40 
+
+@NCSP = CJSG40
+
+@SUOMI = Luksoituneen mykiön poisto, takakammiotekomykiö kovakalvoon kiinnitettynä
+
+@RUOTSI = Extraktion av luxerad lins med  linsprotes i bakre kammaren, skleralt fixerad lens
+
+@END = 
+
+@KOODI = CJG99 
+
+@NCSP = CJSG99
+
+@SUOMI = Muu mykiön sijoiltaanmenon vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation vid luxerad (naturlig) lins
+
+@END = 
+
+@KOODI_A = CJW
+
+@NCSP_A = CJSW
+
+@SUOMI_A = Muut mykiöleikkaukset
+
+@RUOTSI_A = Andra operationer på linsen
+
+@ENGL_A = Other operations on lens
+
+@END = 
+
+@KOODI = CJW99 
+
+@NCSP = CJSW99
+
+@SUOMI = Muu mykiöleikkaus
+
+@RUOTSI = Annan operation på linsen
+
+@END = 
+
+@KOODI_R = CK
+
+@SUOMI_R = Suonikalvo, verkkokalvo ja lasiainen
+
+@RUOTSI_R = Åderhinna, näthinna och glaskropp
+
+@ENGL_R = Choroid, retina and vitreous body
+
+@NOTE_RF = Vierasesineiden poisto kohdassa CDB
+
+@NOTE_RS = Avlägsnande av främmande kropp, se CDB
+
+@END = 
+
+@KOODI_A = CK_
+
+@NCSP_A = CKF
+
+@SUOMI_A = Silmänpohjan diagnostiset toimenpiteet
+
+@RUOTSI_A = Diagnostiska åtgärder av ögonbotten
+
+@ENGL_A = Diagnostic procedures of choroid, retina and vitreous body
+
+@END = 
+
+@KOODI = XCK00 
+
+@NCSP = CKFK00
+
+@SUOMI = Näkökenttätutkimus
+
+@RUOTSI = Synfältsundersökning
+
+@NOTE_S = Perimetri
+
+@END = 
+
+@KOODI = XCK10 
+
+@NCSP = CKFK10
+
+@SUOMI = Silmänpohjan valokuvaus
+
+@RUOTSI = Fotografering av ögonbotten
+
+@END = 
+
+@KOODI = XCD20 
+
+@NCSP = CKFK12
+
+@SUOMI = Silmänpohjan verisuonien valokuvaus
+
+@RUOTSI = Retinografi
+
+@NOTE_F = Sisältää fluoreskeiini angiografian.
+
+@NOTE_S =  Inkl. fluoreskein angiografi
+
+@END = 
+
+@KOODI = CKC80 
+
+@NCSP = CKOC00
+
+@SUOMI = Kovakalvon läpi annettu sädehoito
+
+@RUOTSI = Transskleral strålbehandling
+
+@END = 
+
+@KOODI_A = CKA
+
+@NCSP_A = CKSA
+
+@SUOMI_A = Koepalan otot suonikalvosta, lasiaisesta ja verkkokalvosta
+
+@RUOTSI_A = Biopsi av åderhinna, näthinna och glaskropp
+
+@ENGL_A = Biopsy of choroid, vitreous body and retina
+
+@END = 
+
+@KOODI = CKA00 
+
+@NCSP = CKSA00
+
+@SUOMI = Koepalan otto suonikalvosta
+
+@RUOTSI = Biopsi av åderhinna
+
+@NOTE_F = Neulanäytteen otto suonikalvosta TCK10
+
+@NOTE_S = Nålbiopsi av åderhinnan TCK10
+
+@END = 
+
+@KOODI = CKA10 
+
+@NCSP = CKSA10
+
+@SUOMI = Lasiaisnäytteen otto
+
+@RUOTSI = Biopsi av glaskropp
+
+@NOTE_F = Neulanäytteen otto lasiaisesta TCK20
+
+@NOTE_S = Nålbiopsi av glaskroppen TCK20
+
+@END = 
+
+@KOODI = CKA20 
+
+@NCSP = CKSA20
+
+@SUOMI = Koepalan otto verkkokalvosta
+
+@RUOTSI = Biopsi av näthinna
+
+@NOTE_F = Neulanäytteen otto verkkokalvosta TCK30
+
+@NOTE_S = Nålbiopsi av näthinnan TCK30
+
+@END = 
+
+@KOODI_A = CKB
+
+@NCSP_A = CKSB
+
+@SUOMI_A = Suonikalvon irtoamisen vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operationer vid korioidalavlossning
+
+@ENGL_A = Operations on chorioid for detachment
+
+@END = 
+
+@KOODI = CKB00 
+
+@NCSP = CKSB00
+
+@SUOMI = Suonikalvon alaisen nesteen tyhjennys neulalla
+
+@RUOTSI = Punktion och tömning av subkorioidal vätska
+
+@END = 
+
+@KOODI = CKB10 
+
+@NCSP = CKSB10
+
+@SUOMI = Suonikalvon alaisen nesteen poisto ja lasiaistilan täyttö
+
+@RUOTSI = Punktion och tömning av subkorioidal vätska och fyllning av glaskroppsrummet
+
+@END = 
+
+@KOODI = CKB99 
+
+@NCSP = CKSB99
+
+@SUOMI = Muu suonikalvon irtoaman vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation vid korioidalavlossning
+
+@END = 
+
+@KOODI_A = CKC
+
+@NCSP_A = CKSC
+
+@SUOMI_A = Silmän ulkopuolelta tehtävät lasiais- ja verkkokalvoleikkaukset
+
+@RUOTSI_A = "Extraokulära" åtgärder på åderhinna, näthinna och i glaskroppen
+
+@ENGL_A = Extraocular operations on vitreous body and retina
+
+@END = 
+
+@KOODI = CKC00 
+
+@NCSP = CKSC00
+
+@SUOMI = Lasiaissäikeiden katkaisu laserilla
+
+@RUOTSI = Laserdiscission i glaskroppen
+
+@END = 
+
+@KOODI = CKC10 
+
+@NCSP = CKSC10
+
+@SUOMI = Verkkokalvon paikallinen fotokoagulaatio
+
+@RUOTSI = Fotokoagulation av näthinna, lokal
+
+@END = 
+
+@KOODI = CKC15 
+
+@NCSP = CKSC15
+
+@SUOMI = Panretinaalinen fotokoagulaatio
+
+@RUOTSI = Fotokoagulation av näthinna, panretinal
+
+@END = 
+
+@KOODI = CKC20 
+
+@NCSP = CKSC20
+
+@SUOMI = Kiinni olevan verkkokalvon jäädytys, kryokoagulaatio
+
+@RUOTSI = Kryopexi på anliggande näthinna
+
+@END = 
+
+@KOODI = CKC30 
+
+@NCSP = CKSC30
+
+@SUOMI = Irronneen verkkokalvon jäädytys
+
+@RUOTSI = Kryopexi på avlöst näthinna
+
+@END = 
+
+@KOODI = CKC40 
+
+@NCSP = CKSC40
+
+@SUOMI = Verkkokalvon elektrokoagulaatio
+
+@RUOTSI = Elektrokoagulation av näthinna
+
+@END = 
+
+@KOODI = CKC50 
+
+@NCSP = CKSC50
+
+@SUOMI = Kovakalvon läpi annettu laserhoito
+
+@RUOTSI = Transskleral laserbehandling
+
+@END = 
+
+@KOODI = CKC60 
+
+@NCSP = CKSC60
+
+@SUOMI = Kovakalvon paikallinen indentaatio, plombi
+
+@RUOTSI = Anläggande av plomb
+
+@END = 
+
+@KOODI = CKC65 
+
+@NCSP = CKSC65
+
+@SUOMI = Plombin poisto
+
+@RUOTSI = Avlägsnande av plomb
+
+@END = 
+
+@KOODI = CKC70 
+
+@NCSP = CKSC70
+
+@SUOMI = Kovakalvon vyöttäminen
+
+@RUOTSI = Anläggande av cerclage
+
+@END = 
+
+@KOODI = CKC75 
+
+@NCSP = CKSC75
+
+@SUOMI = Kovakalvon vyön poistaminen
+
+@RUOTSI = Avlägsnande av cerclage
+
+@END = 
+
+@KOODI = CKC99 
+
+@NCSP = CKSC99
+
+@SUOMI = Muu lasiais- ja verkkokalvoleikkaus silmän ulkopuolelta
+
+@RUOTSI = Annan extraokulär operation på åderhinna, näthinna och i glaskroppen
+
+@END = 
+
+@KOODI_A = CKD
+
+@NCSP_A = CKSD
+
+@SUOMI_A = Silmän sisällä tehtävät lasiais- ja verkkokalvotoimenpiteet
+
+@RUOTSI_A = Intraokulära operationer på åderhinna, näthinna och i glaskroppen
+
+@ENGL_A = Intraocular operations on vitreous body and retina
+
+@END = 
+
+@KOODI = CKD00 
+
+@NCSP = CKSD00
+
+@SUOMI = Lasiaisen paineen alentaminen neulalla tyhjentämällä
+
+@RUOTSI = Dekompressiv punktion av glaskroppen
+
+@END = 
+
+@KOODI = CKD05 
+
+@NCSP = CKSD05
+
+@SUOMI = Lääkkeen ruiskutus lasiaiseen
+
+@RUOTSI = Injektion av läkemedel i glaskroppen
+
+@END = 
+
+@KOODI = CKD10 
+
+@NCSP = CKSD10
+
+@SUOMI = Ilman tai kaasun ruiskutus lasiaiseen
+
+@RUOTSI = Injektion av luft eller gas i glaskroppen
+
+@END = 
+
+@KOODI = CKD15 
+
+@NCSP = CKSD15
+
+@SUOMI = Silikonin, viskoelastisen aineen tms. ruiskutus lasiaiseen
+
+@RUOTSI = Injektion av silikon m.m. i glaskroppen
+
+@END = 
+
+@KOODI = CKD20 
+
+@NCSP = CKSD20
+
+@SUOMI = Lasiaiskorvikkeen poisto
+
+@RUOTSI = Avlägsnande av glaskroppssubstitut
+
+@END = 
+
+@KOODI = CKD25 
+
+@NCSP = CKSD25
+
+@SUOMI = Verkkokalvon alaisen nestekertymän kanavointi ulos
+
+@RUOTSI = Externt dränage av subretinal vätska
+
+@END = 
+
+@KOODI = CKD30 
+
+@NCSP = CKSD30
+
+@SUOMI = Verkkokalvon alaisen nestekertymän kanavointi silmän sisälle
+
+@RUOTSI = Internt dränage av subretinal vätska
+
+@END = 
+
+@KOODI = CKD40 
+
+@NCSP = CKSD40
+
+@SUOMI = Verkkokalvon endofotokoagulaatio
+
+@RUOTSI = Endofotokoagulation av näthinna
+
+@END = 
+
+@KOODI = CKD45 
+
+@NCSP = CKSD45
+
+@SUOMI = Verkkokalvon endokryokoagulaatio
+
+@RUOTSI = Endokryokoagulation av näthinna
+
+@END = 
+
+@KOODI = CKD50 
+
+@NCSP = CKSD50
+
+@SUOMI = Verkkokalvon endodiatermia
+
+@RUOTSI = Endodiatermi av näthinna
+
+@END = 
+
+@KOODI = CKD60 
+
+@NCSP = CKSD60
+
+@SUOMI = Lasiaisen poisto etukautta
+
+@RUOTSI = Främre vitrektomi
+
+@END = 
+
+@KOODI = CKD65 
+
+@NCSP = CKSD65
+
+@SUOMI = Lasiaisen poisto pars planan/pars plicatan kautta
+
+@RUOTSI = Vitrektomi genom pars plana eller pars plicata
+
+@END = 
+
+@KOODI = CKD70 
+
+@NCSP = CKSD70
+
+@SUOMI = Preretinaalisen (epiretinaalisen) kalvon/juosteen poisto
+
+@RUOTSI = Excision av preretinalt eller epiretinalt membran/stråk
+
+@END = 
+
+@KOODI = CKD75 
+
+@NCSP = CKSD75
+
+@SUOMI = Verkkokalvon aukaisu
+
+@RUOTSI = Retinotomi
+
+@END = 
+
+@KOODI = CKD80 
+
+@NCSP = CKSD80
+
+@SUOMI = Verkkokalvon osittainen poisto
+
+@RUOTSI = Retinektomi
+
+@END = 
+
+@KOODI = CKD85 
+
+@NCSP = CKSD85
+
+@SUOMI = Verkkokalvon alaisen juosteen/arpikudoksen poisto
+
+@RUOTSI = Avlägsnande av subretinalt membran/ärr
+
+@END = 
+
+@KOODI = CKD90 
+
+@NCSP = CKSD90
+
+@SUOMI = Verkkokalvon alaisen verihyytymän poisto
+
+@RUOTSI = Avlägsnande av subretinalt hematom
+
+@END = 
+
+@KOODI = CKD91 
+
+@NCSP = CKSD91
+
+@SUOMI = Laaja lasiaisenpoistotoimenpide pars planan kautta
+
+@RUOTSI = Omfattande vitrektomi genom pars plana
+
+@NOTE_F = CKD65 yhdistettynä  muihin CKD-ryhmän toimenpiteisiin
+
+@NOTE_S = CKD65 tillsammans med andra åtgärder i gruppen CKD
+
+@END = 
+
+@KOODI = CKD92 
+
+@NCSP = CKSD92
+
+@SUOMI = Yhdistetty lasiais- ja verkkokalvotoimenpide
+
+@RUOTSI = Kombinerad vitrektomi och näthinneåtgärd
+
+@NOTE_F = CKD65 yhdistettynä koodeihin CKC60 ja/tai CKC70, CKC20 ja/tai CKC30 sekä CKD25 ja/tai CKD10.
+
+@NOTE_S = CKD65 tilsammans med CKC60 och/eller CKC70, CKC20 och/eller CKC30 samt CKD25  och/eller CKD10.
+
+@END = 
+
+@KOODI = CKD93 
+
+@NCSP = CKSD93
+
+@SUOMI = Laaja yhdistetty lasiais- ja verkkokalvotoimenpide
+
+@RUOTSI = Omfattande kompinerad operation på näthinnan och i glasgroppen
+
+@NOTE_F = Koodin CKD92 toimenpiteet yhdistettynä muihin CKC- ja/tai CKD-ryhmän toimenpiteisiin
+
+@NOTE_S = Åtgrärder från kod CKD92 tillsammans med andra åtgärder i grupperna CKC och CKD
+
+@END = 
+
+@KOODI = CKD94 
+
+@NCSP = CKSD94
+
+@SUOMI = Yhdistetty mykiötoimenpide ja lasiaisenpoisto pars planan kautta
+
+@RUOTSI = Kombinerad vitrektomi och åtgärd på lens genom pars plana
+
+@NOTE_F =  CKD65 yhdistettynä CJ-ryhmän toimenpiteisiin
+
+@NOTE_S =  CKD65 tillsammans med åtgärder i CJ-gruppen
+
+@END = 
+
+@KOODI = CKD95 
+
+@NCSP = CKSD95
+
+@SUOMI = Laaja yhdistetty mykiötoimenpide ja lasiaisenpoisto pars planan kautta
+
+@RUOTSI = Omfattande kombinerad vitrektomi och lens åtgärd genom pars plana
+
+@END = 
+
+@KOODI = CKD99 
+
+@NCSP = CKSD99
+
+@SUOMI = Muu silmän sisällä tehtävä lasiais- ja verkkokalvoleikkaus
+
+@RUOTSI = Annan intraokulär operation på näthinnan och i glaskroppen
+
+@END = 
+
+@KOODI_A = CKE
+
+@NCSP_A = CKSE
+
+@SUOMI_A = Suoni- ja verkkokalvon kasvainten vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operationer vid vävnadsförändring (t ex tumörer) i åderhinnan och näthinnan
+
+@ENGL_A = Operations for lesion of choroid and retina
+
+@END = 
+
+@KOODI = CKE00 
+
+@NCSP = CKSE00
+
+@SUOMI = Suonikalvon kasvaimen poisto
+
+@RUOTSI = Exstirpation av tumör i åderhinna
+
+@END = 
+
+@KOODI = CKE10 
+
+@NCSP = CKSE10
+
+@SUOMI = Suonikalvon kasvaimen fotokoagulaatio mustuaisen läpi
+
+@RUOTSI = Fotokoagulation (genom pupillen) av tumör i åderhinna
+
+@NOTE_F = Edeltävä valoherkistys, katso TCK00
+
+@NOTE_S = Föregående fotosensibilisering, se TCK00
+
+@END = 
+
+@KOODI = CKE15 
+
+@NCSP = CKSE15
+
+@SUOMI = Suonikalvon kasvaimen endofotokoagulaatio
+
+@RUOTSI = Endofotokoagulation av tumör i åderhinna
+
+@NOTE_F = Edeltävä valoherkistys, katso TCK00
+
+@NOTE_S = Föregående fotosensibilisering, se TCK00
+
+@END = 
+
+@KOODI = CKE20 
+
+@NCSP = CKSE20
+
+@SUOMI = Suonikalvon kasvaimen jäädytyshoito
+
+@RUOTSI = Kryoterapi av tumör i åderhinna
+
+@END = 
+
+@KOODI = CKE30 
+
+@NCSP = CKSE30
+
+@SUOMI = Verkkokalvon kasvaimen poisto
+
+@RUOTSI = Exstirpation av tumör i näthinna
+
+@END = 
+
+@KOODI = CKE40 
+
+@NCSP = CKSE40
+
+@SUOMI = Verkkokalvon kasvaimen fotokoagulaatio mustuaisen läpi
+
+@RUOTSI = Fotokoagulation (genom pupillen) av tumör i näthinna
+
+@NOTE_F = Edeltävä valoherkistys, katso TCK00
+
+@NOTE_S = Föregående fotosensibilisering, se TCK00
+
+@END = 
+
+@KOODI = CKE45 
+
+@NCSP = CKSE45
+
+@SUOMI = Verkkokalvon kasvaimen endofotokoagulaatio
+
+@RUOTSI = Endofotokoagulation av tumör i näthinna
+
+@NOTE_F = Edeltävä valoherkistys, katso TCK00
+
+@NOTE_S = Föregående fotosensibilisering, se TCK00
+
+@END = 
+
+@KOODI = CKE50 
+
+@NCSP = CKSE50
+
+@SUOMI = Verkkokalvon kasvaimen jäädytyshoito
+
+@RUOTSI = Kryoterapi av tumör i näthinna
+
+@END = 
+
+@KOODI = CKE60 
+
+@NCSP = CKSE60
+
+@SUOMI = Säteilevän levyn asettaminen silmään
+
+@RUOTSI = Strålbehandling av tumör med intraokulär strålkälla
+
+@END = 
+
+@KOODI = CKE65 
+
+@NCSP = CKSE65
+
+@SUOMI = Säteilevän levyn poisto silmästä
+
+@RUOTSI = Avlägsnande avintraokulär strålkälla
+
+@END = 
+
+@KOODI = CKE99 
+
+@NCSP = CKSE99
+
+@SUOMI = Muu suoni- ja verkkokalvon kudosmuutoksen leikkaus
+
+@RUOTSI = Annan operation vid vävnadsförändring i åderhinnan eller näthinnan
+
+@END = 
+
+@KOODI_A = CKW
+
+@NCSP_A = CKSW
+
+@SUOMI_A = Muut suonikalvon, lasiaisen ja verkkokalvon sairauksien leikkaukset
+
+@RUOTSI_A = Andra operationer på åderhinnan, näthinnan och i glaskroppen
+
+@ENGL_A = Other operations on choroid, vitreous body and retina
+
+@END = 
+
+@KOODI = CKW99 
+
+@NCSP = CKSW99
+
+@SUOMI = Muu suonikalvon, lasiaisen ja verkkokalvon toimenpide
+
+@RUOTSI = Annan operation på åderhinnan, näthinnan och i glaskroppen
+
+@END = 
+
+@KOODI_A = CK_
+
+@NCSP_A = CKX
+
+@SUOMI_A = Muut suonikalvon, lasiaisen ja verkkokalvon sairauksien toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på åderhinnan, näthinnan och i glaskroppen
+
+@ENGL_A = Other procedures on choroid, vitreous body and retina
+
+@END = 
+
+@KOODI = TCK00 
+
+@NCSP = CKXX00
+
+@SUOMI = Suonikalvon ja verkkokalvon valoherkistäminen
+
+@RUOTSI = Fotosensitering av åderhinna och näthinna
+
+@NOTE_F = Fotokoagulaation valmistelu
+
+@NOTE_S = Förberedelse för fotokoagulation
+
+@END = 
+
+@KOODI = TCK10 
+
+@NCSP = CKXX10
+
+@SUOMI = Pistonäytteen otto suonikalvosta
+
+@RUOTSI = Punktionsbiopsi av åderhinna
+
+@END = 
+
+@KOODI = TCK20 
+
+@NCSP = CKXX20
+
+@SUOMI = Pistonäytteen otto lasiaisesta
+
+@RUOTSI = Punktionsbiopsi av glaskropp
+
+@END = 
+
+@KOODI = TCK30 
+
+@NCSP = CKXX30
+
+@SUOMI = Pistonäytteen otto verkkokalvosta
+
+@RUOTSI = Punktionsbiopsi av retina
+
+@END = 
+
+@KOODI_R = CW
+
+@SUOMI_R = Silmäleikkausten haavakomplikaatioiden toimenpiteet
+
+@RUOTSI_R = Åtgärder för komplikationer av ögonkirurgi
+
+@ENGL_R = Reoperations for complications in surgery of eye and adjacent structures
+
+@END = 
+
+@KOODI = CWA00 
+
+@NCSP = CWSA00
+
+@SUOMI = Uusintaleikkaus silmäleikkaushaavan aukeamisen vuoksi
+
+@RUOTSI = Reoperation för sårruptur efter ögonoperation
+
+@END = 
+
+@KOODI = CWB00 
+
+@NCSP = CWSB00
+
+@SUOMI = Auenneen tai tulehtuneen silmäleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/sårinfektion i ögat
+
+@END = 
+
+@KOODI = CWC00 
+
+@NCSP = CWSC00
+
+@SUOMI = Silmäleikkauksen jälkeisen syvän tulehduksen vaatima uusintaleikkaus
+
+@RUOTSI = Reoperation för djuptliggande infektion efter ögonoperation
+
+@END = 
+
+@KOODI = CWD00 
+
+@NCSP = CWSD00
+
+@SUOMI = Vuotavan silmäleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av postoperativ blödning i ögat
+
+@END = 
+
+@KOODI = CWE00 
+
+@NCSP = CWSE00
+
+@SUOMI = Silmäleikkauksen jälkeisen syvän vuodon vaatima uusintaleikkaus
+
+@RUOTSI = Reoperation för djuptliggande blödning efter ögonoperation
+
+@END = 
+
+@KOODI = CWF00 
+
+@NCSP = CWSF00
+
+@SUOMI = Silmäleikkauksen liitosompeleiden tarkistaminen
+
+@RUOTSI = Revision av ögonsuturer
+
+@END = 
+
+@KOODI = CWW99 
+
+@NCSP = CWSW99
+
+@SUOMI = Muu silmäleikkauksen haavakomplikaatioleikkaus
+
+@RUOTSI = Annan operation för sårkomplikation efter ögonoperation
+
+@END = 
+
+@KOODI_R = CX
+
+@SUOMI_R = Muut silmän toimenpiteet
+
+@RUOTSI_R = Andra åtgärder på ögon
+
+@ENGL_R = Other procedures on eye
+
+@END = 
+
+@KOODI_A = CX_
+
+@NCSP_A = CXF
+
+@SUOMI_A = Muut silmän diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder på ögon
+
+@ENGL_A = Other diagnostic procedures on eye
+
+@END = 
+
+@KOODI = XCW99 
+
+@NCSP = CXFW99
+
+@SUOMI = Muu silmän alueen tutkimus
+
+@RUOTSI = Annan diagnostisk åtgärd i ögonregionen
+
+@END = 
+
+@KOODI_A = CX0
+
+@NCSP_A = CXO
+
+@SUOMI_A = Silmän ja silmäkuopan ulkoinen sädehoito
+
+@RUOTSI_A = Ytre strålbehandling av ögonregionen
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = CX001 
+
+@NCSP = CXO001
+
+@SUOMI = Sädehoito silmän ja silmäkuopan primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av intraorbitalt primärtumör
+
+@END = 
+
+@KOODI = CX002 
+
+@NCSP = CXO002
+
+@SUOMI = Radikaali silmän ja silmäkuopan primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av intraorbitalt primärtumör
+
+@END = 
+
+@KOODI = CX003 
+
+@NCSP = CXO003
+
+@SUOMI = Sädehoito silmän ja silmäkuopan primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av intraorbitalt primärtumör
+
+@END = 
+
+@KOODI = CX004 
+
+@NCSP = CXO004
+
+@SUOMI = Sädehoito silmän ja silmäkuopan primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av intraorbitalt primärtumör
+
+@END = 
+
+@KOODI = CX029 
+
+@NCSP = CXO029
+
+@SUOMI = Sädehoito silmän ja silmäkuopan paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av intraorbitalt lokalt recidivtumör
+
+@END = 
+
+@KOODI = CX049 
+
+@NCSP = CXO049
+
+@SUOMI = Sädehoito silmässä tai silmäkuopassa ihmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av intraorbital metastas
+
+@END = 
+
+@KOODI = CX090 
+
+@NCSP = CXO090
+
+@SUOMI = Sädehoito silmän ja silmäkuopan profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av intraorbitala organ
+
+@END = 
+
+@KOODI = CX099 
+
+@NCSP = CXO099
+
+@SUOMI = Muu silmän ja silmäkuopansädehoito
+
+@RUOTSI = Annan strålbehandling av intraorbitala organ
+
+@END = 
+
+@KOODI_A = C__
+
+@NCSP_A = CXX
+
+@SUOMI_A = Muut silmä alueen pientoimenpiteet
+
+@RUOTSI_A = Andra mindre operationer i ögonregionen
+
+@ENGL_A = Other minor procedures on eye
+
+@END = 
+
+@KOODI = TCW99 
+
+@NCSP = CXXX99
+
+@SUOMI = Muu silmän alueen pientoimenpide
+
+@RUOTSI = Annan mindre operation i ögonregionen
+
+@END = 

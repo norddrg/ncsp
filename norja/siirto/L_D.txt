@@ -1,0 +1,3366 @@
+
+###
+#KOODI_L    D
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ear, nose and larynx
+#RUOTSI     ---
+#ENGL       Ear, nose and larynx
+###
+#KOODI_R    DA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Auricle
+#RUOTSI     ---
+#ENGL       Auricle
+###
+#KOODI      DAA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon av aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av aurikkelfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAC00  
+#MUUT_PVM   2002/10/05
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Benforankring av aurikkelprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Beinforankring av aurikkelprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Beinforankring av aurikkelprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aurikkelplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DAW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet inngrep på aurikkel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      External auditory canal
+#RUOTSI     ---
+#ENGL       External auditory canal
+###
+#KOODI      DB000  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2001/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Incisjon i øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBA00  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Øregangsplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av øregangsatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBFT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Otomikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBFT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Otomikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tubosonometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBFX00 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tubosonometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Instrumentell fjerning av ørevoks
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Øreskylling eller rensing av øregang med sug
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBGX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging eller bytte av øretamponade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBGX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Avstøping av øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBGX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avstøping av øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DBW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på øregang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Eardrum and middle ear
+#RUOTSI     ---
+#ENGL       Eardrum and middle ear
+###
+#KOODI      DCA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av trommehinne eller mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Paracentesis av trommehinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Paracentese av trommehinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paracentese av trommehinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av ventilasjonsrør gjennom trommehinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adheranseløsning i mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Myringoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tympanoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCW00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av ventilasjonsrør fra trommehinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DCW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på trommehinne eller mellomøre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ossicles of ear
+#RUOTSI     ---
+#ENGL       Ossicles of ear
+###
+#KOODI      DDA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stapedotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorasjon av ørebenskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorasjon av ørebeinskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av ørebeinskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stapedektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av ørebensprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av ørebeinsprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDC00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av ørebeinsprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mobilisering av stapes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av ørebenskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av ørebeinskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD05  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av ørebeinskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Interposisjon mellom malleus og stapes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Interposisjon mellom trommehinne og stapes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fiksasjon av trommehinne til stapeshode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fiksasjon av trommehinne til stapesplate
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på ørebenskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på ørebeinskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DDW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på ørebeinskjeden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mastoid and temporal bone
+#RUOTSI     ---
+#ENGL       Mastoid and temporal bone
+###
+#KOODI      DEA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av processus mastoideus eller tinningbenet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attico-antrotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Cortical mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kortikal mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kortikal mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attico-antro-mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attico-antro-mastoidektomi og bakre tympanotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Attico-antro-mastoidektomi og tympanoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal mastoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mastoidreseksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av tinningbein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEB60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av tinningbein
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEC00  
+#MUUT_PVM   2002/10/05
+#KAYTPVM    2003/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEC00  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fj fremmedlegeme fra proc mastoideus/tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEC00  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEC00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DED00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliterasjon av mastoid reseksjonshule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Benforankring av høreapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Beinforankring av høreapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Beinforankring av høreapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på processus mastoideus eller tinningbenet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DEW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på processus mastoideus eller tinningbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inner ear
+#RUOTSI     ---
+#ENGL       Inner ear
+###
+#KOODI      DFA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Saccotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Translabyrintær eksplorasjon av pyramidespiss
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Labyrintektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Labyrintdestruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFC00  
+#MUUT_PVM   1999/04/28
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra det indre øre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjernelse av fremmedlegeme fra det indre øre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFC00  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra det indre øre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrasjon av buegang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av det ovale vindu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av ruptur av det runde vindu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av ruptur av det ovale vindu
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFE00  
+#MUUT_PVM   2007/10/16
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av cochleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFE86 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrocochleografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFE86 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrocochleografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Promontorialtest ved utredning for cochleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Promontorialtest ved utredning for cochleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stabilometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stabilometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Otonevrologisk utredning av svimmelhet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Otonevrologisk utredning av svimmelhet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tympanometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX87 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Registrering av otoakustiske emisjoner
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFFX87 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Registrering av otoakustiske emisjoner
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGC00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innkopling av cochleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utprøving av hørselhjelpemiddel ved øresus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprøving av hørselhjelpemiddel ved øresus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGT05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontroll av cochleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2013/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Undersøkelse og behandling i rotasjonsstol
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX05 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Behandlingsmanøvre ved vertigo
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandlingsmanøvre ved vertigo
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Medikamentell destruksjon av labyrinten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Medikamentell destruksjon av labyrinten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX15 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Samtaleterapi ved øresus, "Tinnitus Retraining Therapy"
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Samtaleterapi ved øresus,
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Analyse av øresus med frekvensbestemmelse m.m.
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFGX25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Analyse av øresus med frekvensbestemmelse m.m.
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DFW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på det indre øre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Eustachian tube
+#RUOTSI     ---
+#ENGL       Eustachian tube
+###
+#KOODI      DGA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av tuba auditiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliterasjon av tuba auditiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tubosonometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGW00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatasjon av tuba auditiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DGW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på tuba auditiva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nose
+#RUOTSI     ---
+#ENGL       Nose
+###
+#KOODI      DHA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi fra nesehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av utvendig neselesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i nesehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polyppevulsjon i nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Antro-choanal polyppevulsjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Antrokoanal polyppevulsjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Antrokoanal polyppevulsjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Conchotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB45  
+#MUUT_PVM   2005/10/04
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vevsdestruksjon på nesemusling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Conchoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2002/10/06
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra nesehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHC05  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av penetrerende fremmedlegeme fra nese
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fra hud eller underhud på nesen: Se QAC  00
+Ikke-penetrerende fremmedlegeme (i nesehulen): Se TDH 10
+#OHJE_R 
+---
+###
+#KOODI      DHC10  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av implantat fra neseskjelett
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innvendig sutur av nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukket reposisjon av nesefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen reposisjon av nesefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Osteosyntese av nesefraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHET00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nasoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHFM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rhinomanometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHFM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rhinomanometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nasal børsteprøve ved mistenkt primær ciliedyskinesi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nasal børsteprøve ved mistenkt primær ciliedyskinesi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Akustisk rhinometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Akustisk rhinometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme i nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme i nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHOB00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi i nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DHW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Septum of nose
+#RUOTSI     ---
+#ENGL       Septum of nose
+###
+#KOODI      DJA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av neseseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av neseseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transseptal åpning av sphenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transseptal åpning av sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transseptal åpning av sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av neseseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av neseseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av perforasjon i neseseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neseseptumplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukket reposisjon av neseseptumfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Åpen reposisjon av neseseptumfraktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DJW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på neseseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DK
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Control of epistaxis
+#RUOTSI     ---
+#ENGL       Control of epistaxis
+###
+#KOODI      DKW00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulasjon av neseslimhinne
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fremre nesetamponade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bakre nesetamponade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulasjon av arterie i nesehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av arterie i nesehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DKW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet inngrep ved neseblødning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DL
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Plastic repair of nose
+#RUOTSI     ---
+#ENGL       Plastic repair of nose
+###
+#KOODI      DLD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nesebrusk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av brusk og bein i neseskjelettet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rhinoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korreksjon av choanalatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Korreksjon av koanalatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av koanalatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DLW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen plastisk operasjon på nese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DM
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Maxillary antrum and maxilla
+#RUOTSI     ---
+#ENGL       Maxillary antrum and maxilla
+#OHJE_S  
+Fenestration of maxilllary cyst, see: EFAOther operations on maxilla, see: EE
+#OHJE_R 
+---
+###
+#KOODI      DMA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorasjon av kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksplorasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kjevehuletrepanasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Trepanasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trepanasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Radikaloperasjon av kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Radikaloperasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Funksjonell endoskopisk åpning av kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Funksjonell endoskopisk åpning av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Funksjonell endoskopisk åpning av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transmaxillær ekstirpasjon av lesjon i kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transmaksillær ekstirpasjon av lesjon i maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transmaksillær ekstirpasjon av lesjon i maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i kjevehule gjennom lateral rhinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i maksillarsinus gjennom lateral rhinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMB40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i maksillarsinus gjennom lateral rhinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMC00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intubasjon av kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intubasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intubasjon av maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på kjevehule
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DMW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på maksillarsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DN
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ethmoidal sinus and bone
+#RUOTSI     ---
+#ENGL       Ethmoidal sinus and bone
+###
+#KOODI      DNA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ethmoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstern ethmoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endonasal ethmoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk ethmoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon av ethmoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sublabial rhinotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra ethmoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på ethmoidalsinus eller ethmoidalbenet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på ethmoidalsinus eller ethmoidalbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DNW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på ethmoidalsinus eller ethmoidalbeinet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DP
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Frontal and sphenoidal sinuses
+#RUOTSI     ---
+#ENGL       Frontal and sphenoidal sinuses
+#OHJE_S  
+Transseptal opening of sphenoidal sinus, see: DJA 20Needle biopsy, see: TDP
+#OHJE_R 
+---
+###
+#KOODI      DPA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av frontalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av sphenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trepanasjon av frontalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sfenotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av frontalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av sphenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obliterasjon av frontalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPC05  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    2003/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPC05  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fj fremmedlegeme fra frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPC05  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fj fremmedlegeme fra frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPC05  
+#MUUT_PVM   2005/01/10
+#KAYTPVM    2006/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPC05  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av dren i frontalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av dren i sphenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innlegging av dren i sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av dren i sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på frontal- eller sphenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DPW99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på frontal- eller sfenoidalsinus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DQ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Larynx
+#RUOTSI     ---
+#ENGL       Larynx
+###
+#KOODI      DQA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laryngotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksplorativ laryngofissur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laryngofissur med ekstirpasjon av lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk ekstirpasjon av lesjon i larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Supraglottisk laryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vertikal hemilaryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arytenoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQB80  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for stemmebåndstriktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lateral fiksasjon av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av larynx med fritt slimhinnetransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av larynx med stilket transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk rekonstruksjon av larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD42  
+#MUUT_PVM   2000/12/27
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tyreoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQD50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk innlegging av stent i larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Høyhastighetsfilming av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Høyhastighetsfilming av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Stroboskopi av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stroboskopi av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Videostroboskopi av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Videostroboskopi av stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQDP15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinuerlig fleksibel laryngoskopi under belastning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Innlegging av taleprotese etter laryngektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injeksjon av fremmed materiale i stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantasjon av fremmed materiale i stemmebånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DQW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    DW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       Reoperations in surgery of ear, nose and larynx
+#OHJE_S  
+Puncture, needle biopsy and other minor procedures, see: TD
+The third character of the codes of chapter D denote:
+A–Incision, exploration, biopsy
+B–Partial or total excision
+C–Removal of foreign body
+D–Reconstructive procedures
+E–Implantation of foreign material
+W–Other operations
+#OHJE_R 
+---
+###
+#KOODI_A    DWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      DWA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for sårruptur i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWA00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    DWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound infection
+#OHJE_R 
+---
+###
+#KOODI      DWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfl inf etter inngr på øre/nese/bihuler/larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWB00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    DWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For infection at the site of target organs or structures
+#OHJE_R 
+---
+###
+#KOODI      DWC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for dyp infeksjon i øre/nese/bihuler/strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWC00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWC00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    DWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      DWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfl blødn etter inngr på øre/nese/bihuler/larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWD00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    DWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+For haemorrhage or haematoma at the site of target structures
+#OHJE_R 
+---
+###
+#KOODI      DWE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for dyp blødning i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWE00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    DWF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for insufficiency of anastomosis or suture in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      DWF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop insuff av anastomose el sutur øre nese bih el larynx
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWF00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur i øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    DWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperations in surgery of ear, nose and larynx
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      DWW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reop etter inngr på øre, nese, bihuler el strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWW99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DWW99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på øre, nese, bihuler eller strupehode
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXDA00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Digital volumtomografi av ansiktsstrukturer
+#RUOTSI     ---
+#LYHENNE    Digital volumtomografi av ansiktsstruktu
+###
+#KOODI      DXDE00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av bihuler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXDE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av bihuler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXDE10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse av strupe og hals m.m.
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXDE10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av strupe og hals m.m.
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Toneaudiogram med luftledning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Toneaudiogram med beinledning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX10 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Toneaudiogram med luft- og/eller beinledning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toneaudiogram med luft- og/eller beinledning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX11 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tympanometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX11 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tympanometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX12 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Akustisk impedansmåling, utvidet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX12 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Akustisk impedansmåling, utvidet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Taleaudiogram
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taleaudiogram
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX17 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rentoneaudiometri, spesialprøver
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX17 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rentoneaudiometri, spesialprøver
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX18 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Taleaudiometri i fritt felt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX18 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Taleaudiometri i fritt felt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Barneaudiologisk test med uformelle prøver
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Barneaudiologisk test med uformelle prøver
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Barneaudiologisk test med observasjons- og lekeaudiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Barneaudiologisk test med observasjons- og lekeaudiometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXFX55 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bestemmelse av effekten av høreapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Høreapparat utprøving
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilpasning og utprøving av nytt høreapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGT05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Høreapparat kontroll
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGT05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontroll av høreapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGT09 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utprøving samt vedlikehold av hørselstekniske hjelpemidler IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGT10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskifting eller oppgradering av taleprosessor for cochleaimplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rengjøring av radikaloperert øre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rengjøring av radikaloperert øre
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rengjøring av annen operasjonskavitet (bihuler e.a.)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      DXGX25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rengjøring av annen operasjonskavitet (bihuler e.a.)
+#RUOTSI     ---
+#LYHENNE    

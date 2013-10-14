@@ -1,0 +1,7239 @@
+
+###
+#KOODI_L    P
+#MUUT_PVM   1999/02/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på perifera kärl och lymfsystemet
+#RUOTSI     ---
+#ENGL       Peripheral vessels and lymphatic system  procedures
+###
+#KOODI_R    PA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Operations on arteries of aortic arch and branches
+###
+#KOODI      PA000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av psykiska funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande hjärnans och det centrala nervsystemets funktioner, såväl övergripande funktioner såsom medvetande, ene
+#OHJE_R 
+---
+###
+#KOODI      PA001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av medvetandefunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av medvetandegrad med eller utan instrument oavsett metod. ICF b110
+#OHJE_R 
+---
+###
+#KOODI      PA002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av orienteringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av orientering till tid, rum och person, orientering till sig själv och andra. Desorientering till tid, rum och person. ICF b114
+#OHJE_R 
+---
+###
+#KOODI      PA003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av intellektuella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av den intellektuella utvecklingens funktioner, intellektuell utvecklingshämning, psykisk utvecklingshämning, demens. ICF b117
+
+#OHJE_R 
+---
+###
+#KOODI      PA004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av övergripande psykosociala funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av allmänna psykiska funktioner och deras utveckling över livscykeln som krävs för att förstå och på ett konstruktivt sätt integrera de olika psykiska funktioner som utgör grund för uppbyggnad av mellanmänsklig förmåga som är nödvändig för att
+#OHJE_R 
+---
+###
+#KOODI      PA005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av temperament och personlighetsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av allmänna psykiska funktioner i en persons konstitutionella disposition att reagera på ett särskilt sätt i situationer och som innefattar den uppsättning av psykiska egenskaper som gör att en person klart skiljer sig från andra.
+ICF b126
+
+#OHJE_R 
+---
+###
+#KOODI      PA006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av energi och driftfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av allmänna psykiska funktioner av fysiologiska och psykologiska mekanismer som gör att en person envist strävar efter att tillfredsställa specifika behov och allmänna mål. Innefattar bedömning av energinivå, motivation, aptit, begär efter subs
+#OHJE_R 
+---
+###
+#KOODI      PA007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av sömnfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner som sömnmängd, insomning, sömnunderhåll, sömnkvalitet, sömncykeln, sömnlöshet, hypersömn, narkolepsi.
+ICF b134
+
+#OHJE_R 
+---
+###
+#KOODI      PA008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av uppmärksamhetsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vidmakthålla uppmärksamhet, skifta uppmärksamhet, fördela uppmärksamhet samt koncentration, distraherbarhet. ICF b140
+
+#OHJE_R 
+---
+###
+#KOODI      PA009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av minnesfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av korttidsminne, långtidsminne samt att återge minnen.
+ICF b144
+
+#OHJE_R 
+---
+###
+#KOODI      PA010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av  psykomotoriska funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av specifika psykiska funktioner för kontroll över motoriska och psykologiska händelser på kroppsnivå. ICF b147
+#OHJE_R 
+---
+###
+#KOODI      PA011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av emotionella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av specifika psykiska funktioner som hänför sig till känslo- och affektkomponenterna i tankeprocesserna.ICF b152
+
+#OHJE_R 
+---
+###
+#KOODI      PA012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av perceptuella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av psykiska funktioner som att känna igen och tolka sinnestimuli. ICF b156
+#OHJE_R 
+---
+###
+#KOODI      PA013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av tankefunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av tanketempo, organisation i tankeprocessen, målinriktat och logiskt tänkande. ICF b160
+#OHJE_R 
+---
+###
+#KOODI      PA014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av högre kognitiva funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av psykiska funktioner som beslutsfattande, abstrakt tänkande, planering och utförande av planer, mental flexibilitet och att fatta beslut om vilket beteende som är påkallat under vilka omständigheter, ofta benämnda exekutiva funktioner. ICF b1
+#OHJE_R 
+---
+###
+#KOODI      PA015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av psykiska språkfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att mottaga/förstå språk och uttrycka sig språkligt i tal, skrift och/eller tecken. Innefattar bedömning vid afasi. ICF b167
+#OHJE_R 
+---
+###
+#KOODI      PA016 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av kalkyleringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att räkna enkla och sammansatta tal. ICF b172
+
+#OHJE_R 
+---
+###
+#KOODI      PA017 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av psykisk funktion att ordna sammansatta rörelser i följd
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att organisera och samordna målinriktade rörelser i följd. ICF b176
+
+#OHJE_R 
+---
+###
+#KOODI      PA018 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av medvetenhet om jaget och om tid
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av specifika psykiska funktioner som rör medvetenheten om egen identitet, egen kropp och egen plats i den omgivande verkligheten samt om tiden. ICF b180
+
+#OHJE_R 
+---
+###
+#KOODI_A    PAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Exploration of arteries of aortic arch and branches
+###
+#KOODI      PAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAA99 
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ligaturer av artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Ligature of arteries of aortic arch and branches
+###
+#KOODI      PAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAB22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a carotis externa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a vertebralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAB99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Arteriorafier på artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Suture of arteries of aortic arch and branches
+###
+#KOODI      PAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAC99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomi/embolektomi ur artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Thrombectomy or embolectomy of arteries of aortic arch and branches
+###
+#KOODI      PAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a carotis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAE99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombendarterektomi ur artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Thrombendarterectomy of arteries of aortic arch and branches
+###
+#KOODI      PAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAF21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAF22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a carotis externa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAF40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a vertebralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAF99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aneurysmoperationer på artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Operations for aneurysm of arteries of aortic arch and branches
+###
+#KOODI      PAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAG99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass från artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Bypass from arteries of aortic arch and branches
+###
+#KOODI      PAH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAH25 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a carotis till a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAH99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transposition av artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Transposition of arteries of aortic arch and branches
+###
+#KOODI      PAJ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAJ40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av a vertebralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAJ99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reimplantation av artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Reimplantation of arteries of aortic arch and branches
+###
+#KOODI      PAK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAK21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAK40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a vertebralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAK99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Förslutningar av A-V fistlar från artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Closure of arteriovenous fistula of arteries of aortic arch and branches
+###
+#KOODI      PAM21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av fistel från a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAM22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av fistel från a carotis externa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAM30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av fistel från a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAM99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av annan fistel från artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Öppna plastiker på artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Plastic repair of arteries of aortic arch and branches
+###
+#KOODI      PAN10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAN20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAN21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAN30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAN40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a vertebralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAN99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutana plastiker på artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of arteries of aortic arch and branches
+###
+#KOODI      PAP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAP20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAP21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAP30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAP99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av stent i artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      PAQ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAQ20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAQ21 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAQ30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAQ99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAR
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av endovaskulära implantat från artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Removal of endovascular graft from arteries of aortic arch and branches
+###
+#KOODI      PAR10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från truncus brachiocephalicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAR20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a carotis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAR21 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a carotis interna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAR30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a subclavia
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAR99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektioner av skleroserande läkemedel eller ockluderande material i artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Injection of therapeutic or sclerosing agent into arteries of aortic arch and branches
+###
+#KOODI      PAT30 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a subclavia
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PAT99 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av annan artär avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI_A    PAU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation sammanhängande med tidigare rekonstruktion av artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Repair after previous reconstruction of arteries of aortic arch and branches
+###
+#KOODI      PAU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av tidigare rekonstruktion på artärer avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i bypass från a carotis, a subclavia eller a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAU80 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan slutning av kvarstående a-v fistel i bypass från a carotis, a subclavia eller a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAU81 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kvarstående a-v fistel i bypass från a carotis, a subclavia eller a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAU88 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass från a carotis, a subclavia eller a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion på artärer avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på artärer avgående från aortabågen och dess grenar
+#RUOTSI     ---
+#ENGL       Other operations on arteries of aortic arch and branches
+###
+#KOODI      PAW23 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Temporalisbiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PAW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på artärer avgående från aortabågen eller dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Operations on arteries of upper extremity
+###
+#KOODI      PB000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av sinnesfunktioner och smärta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande sinnesorganens funktioner såsom syn, hörsel, balans, smak, lukt, proprioception, beröring och smärta. Ö
+#OHJE_R 
+---
+###
+#KOODI      PB002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hörselundersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av sinnesfunktioner avseende att förnimma närvaro av ljud och att urskilja lokalisering, tonhöjd, ljudstyrka och ljudkvalitet. ICF b230
+#OHJE_R 
+---
+###
+#KOODI      PB003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av balansfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att bibehålla balans och undvika risk att falla. ICF b235
+#OHJE_R 
+---
+###
+#KOODI      PB004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av förnimmelser i samband med hörsel och vestibulär funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens upplevelse av yrsel. ICF b240
+#OHJE_R 
+---
+###
+#KOODI      PB005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av smakfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av sinnesfunktioner avseende att uppfatta beskt, sött, salt, surt. ICF b250
+#OHJE_R 
+---
+###
+#KOODI      PB006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av luktfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av sinnesfunktioner avseende att uppfatta lukter och dofter. ICF b255
+#OHJE_R 
+---
+###
+#KOODI      PB007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av proprioceptiv funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att förnimma kroppsdelars inbördes läge och relation till varandra samt ledkänsel. ICF b260
+#OHJE_R 
+---
+###
+#KOODI      PB008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av beröringsfunktion och temperatur
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att känna ytlig beröring, värme och kyla, vibration, tryck, form och material. Innefattar bedömning känslighet för ett obehaligt eller skadligt sinnesintryck som köldintolerans. ICF b265, b270
+
+#OHJE_R 
+---
+###
+#KOODI      PB009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av smärta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens smärtupplevelse t. ex. med hjälp av skattningsskalor. ICF b280
+#OHJE_R 
+---
+###
+#KOODI_A    PBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Exploration of arteries of upper extremity
+###
+#KOODI      PBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBA30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBA99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ligaturer av artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Ligature of arteries of upper extremity
+###
+#KOODI      PBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBB30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBB99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Arteriorafier på artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Suture of arteries of upper extremity
+###
+#KOODI      PBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBC30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBC99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomier och tromboembolektomier ur artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Thrombectomy or embolectomy of arteries of upper extremity
+###
+#KOODI      PBE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBE30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBE99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombendarterektomier ur artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Thrombendarterectomy of arteries of upper extremity
+###
+#KOODI      PBF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aneurysmoperationer på artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Operations for aneurysm of arteries of upper extremity
+###
+#KOODI      PBG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass från artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Bypass from arteries of upper extremity
+###
+#KOODI      PBH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBH99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anläggande av A-V fistlar utgående från artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Construction of arteriovenous fistula from arteries of upper extremity
+###
+#KOODI      PBL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av a-v fistel från a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBL20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av a-v fistel från a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBL30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av a-v fistel från a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBL99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av a-v fistel från annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Förslutning av A-V fistlar utgående från artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Closure of arteriovenous fistula of arteries of upper extremity
+###
+#KOODI      PBM10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av a-v fistel från a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBM20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av a-v fistel från a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBM30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av a-v fistel från a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBM99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av a-v fistel från annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Öppna plastiska rekonstruktioner av artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Plastic repair of arteries of upper extremity
+###
+#KOODI      PBN10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBN20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBN99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutana plastiker på artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of arteries of upper extremity
+###
+#KOODI      PBP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBP20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBP99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBQ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBQ20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBQ30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBQ99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBR10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBR20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBR30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a radialis eller a ulnaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBR99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från annan artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBT
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektion av läkemedel i artär i övre extremitet
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      PBT10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a axillaris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBT20 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a brachialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBT99 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av annan artär i övre extremiteter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation inom tidigare rekonstruktion av artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Repair after previous reconstruction of arteries of upper extremity
+###
+#KOODI      PBU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av tidigare rekonstruktion på artärer i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i a-v fistel från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU80 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan slutning av kvarstående a-v fistel i bypass från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU81 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kvarstående a-v fistel i bypass från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU82 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a-v fistel från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU83 
+#MUUT_PVM   1996/01/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a-v fistel från artärer i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU87 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av terapeutisk substans i a-v fistel från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PBU88 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU89 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av bypass från artär i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PBU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion på artärer i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på artärer i övre extremiteten
+#RUOTSI     ---
+#ENGL       Other operations on arteries of upper extremity
+###
+#KOODI      PBW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på artärer i övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på suprarenala bukaortan och visceralartärerna
+#RUOTSI     ---
+#ENGL       Operations on suprarenal abdominal aorta and visceral arteries
+###
+#KOODI      PC001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av röst och talfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade, bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande röst och talfunktioner.  ICF b310 - b399
+#OHJE_R 
+---
+###
+#KOODI_A    PCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Explorativa ingrepp på visceralartärer
+#RUOTSI     ---
+#ENGL       Exploration of visceral arteries
+###
+#KOODI      PCA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ligaturer av visceralartärer
+#RUOTSI     ---
+#ENGL       Ligature of visceral arteries
+###
+#KOODI      PCB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Arteriorafier på suprarenala bukaortan och visceralartärerna
+#RUOTSI     ---
+#ENGL       Suture of suprarenal abdominal aorta and visceral arteries
+###
+#KOODI      PCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av bukaorta (supraceliakalt eller juxtarenalt)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCC99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomier eller trombo-embolektomier ur visceralartärerna
+#RUOTSI     ---
+#ENGL       Thrombectomy or embolectomy of visceral arteries
+###
+#KOODI      PCE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombendarterektomier ur visceralartärer
+#RUOTSI     ---
+#ENGL       Thrombendarterectomy of visceral arteries
+###
+#KOODI      PCF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCF40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aneurysmoperationer på suprarenala bukaortan och visceralartärerna
+#RUOTSI     ---
+#ENGL       Operations for aneurysm of suprarenal abdominal aorta and visceral arteries
+###
+#KOODI      PCG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på bukaorta (supraceliakalt eller juxtarenalt)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass-operationer utgående från suprarenala bukaortan eller  visceralartärerna
+#RUOTSI     ---
+#ENGL       Bypass from suprarenal abdominal aorta and visceral arteries
+###
+#KOODI      PCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från bukaorta (supraceliakalt eller juxtarenalt)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCH99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transpositioner av visceralartärer
+#RUOTSI     ---
+#ENGL       Transposition of visceral arteries
+###
+#KOODI      PCJ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCJ40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reimplantationer av visceralartärer
+#RUOTSI     ---
+#ENGL       Reimplantation of visceral arteries
+###
+#KOODI      PCK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCK40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCK50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av a mesenterica inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCK99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reimplantation av annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Öppna plastiker på visceralartärer
+#RUOTSI     ---
+#ENGL       Plastic repair of visceral arteries
+###
+#KOODI      PCN20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCN30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCN40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCN99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutana plastiker på visceralartärer
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of visceral arteries
+###
+#KOODI      PCP20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCP30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCP40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCP99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av endovaskulära implantat i visceralartärer
+#RUOTSI     ---
+#ENGL       Insertion of endovascular graft into visceral arteries
+###
+#KOODI      PCQ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i suprarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCQ20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCQ30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCQ40 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCQ99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCR
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Borttagning av endovaskulärt implantat ur visceralartärer
+#RUOTSI     ---
+#ENGL       Removal of endovascular graft from visceral arteries
+###
+#KOODI      PCR10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från suprarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCR20 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCR30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a mesenterica superior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCR40 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCR99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCS
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Endoskopiska eller ultraljudsstyrda operationer på visceralartärer
+#RUOTSI     ---
+#ENGL       Endoscopic operation on visceral arteries
+###
+#KOODI      PCS40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på a renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCS99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektion av läkemedel eller ockluderande material i visceralartärer
+#RUOTSI     ---
+#ENGL       Injection of therapeutic or sclerosing agent into visceral arteries
+###
+#KOODI      PCT20 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av truncus coeliacus och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PCT30 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a mecenterica superior
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PCT40 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a renalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PCT99 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av annan visceralartär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI_A    PCU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer inom tidigare rekonstruktioner på suprarenala bukaorta och visceralartärer
+#RUOTSI     ---
+#ENGL       Repair after previous reconstruction of suprarenal abdominal aorta and visceral arteries
+###
+#KOODI      PCU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av tidigare rekonstruktion på suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i bypass från suprarenala bukaorta eller till visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU80 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan slutning av kvarstående a-v fistel i bypass från bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU81 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kvarstående a-v fistel i bypass från bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU82 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på bypass från suprarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU83 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på bypass från suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU84 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i bypass från suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU85 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från bypass från suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU86 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på bypass från suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU87 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i bypass från suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PCU88 
+#MUUT_PVM   1996/01/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass från suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PCU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion på suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PCW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på suprarenala bukaorta och visceralartärer
+#RUOTSI     ---
+#ENGL       Other operations on suprarenal abdominal aorta and visceral arteries
+###
+#KOODI      PCW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på suprarenala bukaorta eller visceralartärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på infrarenala bukaorta och aa. iliacae samt distala anslutningar
+#RUOTSI     ---
+#ENGL       Operations on infrarenal abdominal aorta and iliac arteries and distal connections
+###
+#KOODI      PD000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av hjärt-kärlfunktioner, blodbildnings- och immunsystemsfunktioner och andningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande funktioner inom hjärt-kärlsystemet, blodbildnings- och immunsystemsfunktioner och andningsfunktioner. Ö
+#OHJE_R 
+---
+###
+#KOODI      PD001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pulsmätning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Manuell mätning av hjärtfrekvens och rytm. ICF b410
+#OHJE_R 
+---
+###
+#KOODI      PD003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av blodkärlsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Undersökning av perifer cirkulation, arteriellt och/eller venöst blodflöde. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      PD005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av ortostatism
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av ortostatiska besvär vid t ex lägesändringar. ICF b420
+#OHJE_R 
+---
+###
+#KOODI      PD006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ödemmätning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Undersökning och mätning av svullnad med måttband, andra apparater eller genom palpation. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      PD007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av andningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av rörlighet, andningsdjup, andningsmuskelfunktion och andningsmönster samt hur andningen integreras i kroppsmedvetandet och aktiviteter i det dagliga livet. ICF b440, b445
+#OHJE_R 
+---
+###
+#KOODI      PD008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av hostfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av hostfunktion och sekretmobiliserande tekniker och av inhalationsteknik. ICF b450
+#OHJE_R 
+---
+###
+#KOODI      PD009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av tolerans för fysisk ansträngning och uthållighet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av kondition, uthållighet och tolerans för fysiskt arbete med olika metoder och bedömningsinstrument. ICF b455
+#OHJE_R 
+---
+###
+#KOODI_A    PDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av infrarenala bukaorta och aa. iliacae
+#RUOTSI     ---
+#ENGL       Exploration of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDA10 
+#MUUT_PVM   1996/04/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Arteriorafi på infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Suture of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDC30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomi eller embolektomi ur infrarenala bukaortan eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Thrombectomy or embolectomy of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDE30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombendarterektomier ur infrarenala bukaortan eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Thrombendarterectomy of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDF30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aneurysmoperationer på infrarenala bukaorta och aa. iliacae
+#RUOTSI     ---
+#ENGL       Operations for aneurysm of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDG10 
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG20 
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation med aorto-iliakal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG21 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation med aorto-biiliakal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG22 
+#MUUT_PVM   1996/04/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation med aortoiliakal eller aortofemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG23 
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation med aorto-femoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG24 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation med aorto-bifemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG30 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG35 
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation med iliako-femoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDG99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på infrarenala bukaorta eller a iliaca med annan bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass utgående från infrarenala bukaortan eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Bypass from infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDH10 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortoiliakal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortobiiliakal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortoiliakal eller aortofemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortofemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH24 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aortobifemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iliakofemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDH99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Plastiker på infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Plastic repair of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDN10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDN30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutana plastiker på infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDP30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av endovaskulärt implantat i infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Insertion of endovascular graft into infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDQ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDQ21 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av aortobiiliakal stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDQ30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDR
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagning av endovaskulärt implantat från infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Removal of endovascular graft from infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDR10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDR21 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av aortobiiliakal stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDR30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDS
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Endoskopisk eller ultraljudsstyrd operation på infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Endoscopic operation on infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDS10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDS30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektioner av läkemedel eller ockluderande material i infrarenala bukaorta eller aa. iliacae
+#RUOTSI     ---
+#ENGL       Injection of therapeutic or sclerosing agent into infrarenal abdominal aorta and iliac arteries
+###
+#KOODI      PDT10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av infrarenala bukaorta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PDT30 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a iliaca
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI_A    PDU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer inom tidigare rekonstruktioner av infrarenala bukaorta eller aa. iliacae samt därmed sammanhängande distala anslutningar
+#RUOTSI     ---
+#ENGL       Repair after previous reconstruction of infrarenal abdominal aorta and iliac arteries and distal connections
+###
+#KOODI      PDU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av tidigare rekonstruktion på infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU80 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan slutning av kvarstående a-v fistel i bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU81 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kvarstående a-v fistel i bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU82 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU83 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU84 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU85 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU86 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU87 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel  i bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PDU88 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass från infrarenala bukaorta eller a iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PDU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion på infrarenala bukaorta eller a iliaca samt operationer därifrån och perifert
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PDW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på infrarenala bukaortan eller aa. iliacae samt därmed sammanhängande distala anslutningar
+#RUOTSI     ---
+#ENGL       Other operations on infrarenal abdominal aorta and iliac arteries and distal connections
+###
+#KOODI      PDW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operationer på infrarenala bukaorta eller a iliaca samt ingrepp därifrån och perifert
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på arteria femoralis och dess grenar
+#RUOTSI     ---
+#ENGL       Operations on femoral artery with branches and connection to popliteal artery
+###
+#KOODI      PE000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av matsmältnings- och ämnesomsättningsfunktioner och endokrina funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande funktioner som intagande av föda, matsmältning och elimination, liksom även funktioner involverade i äm
+#OHJE_R 
+---
+###
+#KOODI      PE001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av sugfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att dra in föda i munnen genom en sugande kraft som produceras genom rörelser av kinder, läppar och tunga. ICF b510
+#OHJE_R 
+---
+###
+#KOODI      PE002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av sväljfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att förflytta mat och dryck genom munhåla, svalg och matstrupe till magsäcken med lämplig frekvens och hastighet.  ICF b510
+#OHJE_R 
+---
+###
+#KOODI      PE003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av matsmältningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner för transport av föda genom matsmältningskanalen och nedbrytning av föda och absorption av näringsämnen. ICF b515
+#OHJE_R 
+---
+###
+#KOODI      PE005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av avföringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av viljemässig kontroll över elimineringsfunktionen. ICF b525
+#OHJE_R 
+---
+###
+#KOODI      PE006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av viktuppehållande funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner att hålla lämplig kroppsvikt, innefattande viktökning under utvecklingsperioden. ICF b530
+#OHJE_R 
+---
+###
+#KOODI      PE007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av besvär relaterat till matsmältning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förnimmelser som uppstår genom att äta, dricka eller därmed relaterade matsmältningsfunktioner. ICF  b535
+#OHJE_R 
+---
+###
+#KOODI      PE008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av ämnesomsättningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner för reglering av kroppens grundläggande komponenter som kolhydrater, proteiner och fett, deras omvandling från det ena till det andra, och deras nedbrytning till energi. ICF b540
+#OHJE_R 
+---
+###
+#KOODI      PE009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av vätskebalans
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner för reglering av vatten, mineraler och elektrolyter i kroppen. ICF b545
+#OHJE_R 
+---
+###
+#KOODI      PE010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av värmereglerande funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner för reglering av kroppstemperatur, ingår temperaturmätning  ICF b550
+#OHJE_R 
+---
+###
+#KOODI_A    PEA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av a. femoralis och dess grenar
+#RUOTSI     ---
+#ENGL       Exploration of femoral artery and branches
+###
+#KOODI      PEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEA12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Arteriorafier på a. femoralis och dess grenar
+#RUOTSI     ---
+#ENGL       Suture of femoral artery and branches
+###
+#KOODI      PEC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEC12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomier eller embolektomier ur a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Thrombectomy or embolectomy of femoral artery and branches
+###
+#KOODI      PEE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEE11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombendarterektomier ur a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Thrombendarterectomy of femoral artery and branches
+###
+#KOODI      PEF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEF12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombendartärektomi i a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aneurysmoperationer på a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Operation for aneurysm of femoral artery and branches
+###
+#KOODI      PEG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEG12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass från a. femoralis till a. poplitea
+#RUOTSI     ---
+#ENGL       Bypass from femoral artery and branches
+###
+#KOODI      PEH10 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEH11 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEH12 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis till a poplitea ovan knäleden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis till a poplitea nedom knäleden
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEL
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Anläggande av a-v fistel från arteria femoralis och dess grenar
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      PEL10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av a-v fistel från a femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEM
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Slutning av a-v fistel från arteria femoralis och dess grenar
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      PEM10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av a-v fistel från a femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Öppna plastiker på a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Plastic repair of femoral artery and branches
+###
+#KOODI      PEN10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEN11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEN12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutana plastiker på a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of femoral artery and branches
+###
+#KOODI      PEP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEP11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEP12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av endovaskulärt implantat i a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Insertion of endovascular graft into femoral artery and branches
+###
+#KOODI      PEQ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEQ11 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEQ12 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PER
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagning av endovaskulärt implantat från a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Removal of endovascular graft from femoral artery and branches
+###
+#KOODI      PER10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PER11 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PER12 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PES
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Endoskopiska eller ultraljudsstyrda operationer på a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Endoscopic operation on femoral artery and branches
+###
+#KOODI      PES10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PES11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PES12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PET
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektioner av läkemedel eller ockluderande material i a. femoralis eller dess grenar
+#RUOTSI     ---
+#ENGL       Injection of therapeutic or sclerosing agent into femoral artery and branches and connection to popliteal artery
+###
+#KOODI      PET10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PET11 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a profunda femoris
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PET12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel eller ockluderande material i a femoralis superficialis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PET20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Injektion av läkemedel eller ockluderande material i bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer inom tidigare rekonstruktion på arteria femoralis eller dess grenar och därmed sammanhängande anslutningar till a. poplitea
+#RUOTSI     ---
+#ENGL       Repair after previous reconstruction of femoral artery with branches and connection to popliteal artery
+###
+#KOODI      PEU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av tidigare rekonstruktion på arteria femoralis eller dess grenar till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU76 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU80 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan slutning av kvarstående a-v fistel i bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU81 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av kvarstående a-v fistel efter bypass från a femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU82 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på bypass från a femoralis och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU83 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på bypass från a femoralis och dess grenar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU84 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU85 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU86 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på bypass från a femoralis till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU87 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PEU88 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass från a femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU89 
+#MUUT_PVM   1996/11/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av bypass från a femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PEU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion på arteria femoralis och dess grenar samt operationer därifrån till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PEW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på arteria femoralis eller dess grenar samt därmed sammanhängande anslutningar till a. poplitea
+#RUOTSI     ---
+#ENGL       Other operations on femoral artery with branches and connection to popliteal artery
+###
+#KOODI      PEW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på arteria femoralis och dess grenar samt operationer därifrån till a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass-operationer från a. femoralis/a. poplitea till infrapopliteala artärer samt ingrepp på a.
+#RUOTSI     ---
+#ENGL       Connection from femoral artery to infrapopliteal arteries and operations on popliteal artery and arteries of lower leg and foot
+###
+#KOODI      PF000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av funktioner i köns- och urinorganen samt reproduktiva funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande funktioner såsom urinutsöndring och reproduktion innefattande funktioner för sexualitet och fortplantni
+#OHJE_R 
+---
+###
+#KOODI      PF001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av urinutsöndringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner för urinens filtrering och uppsamling. ICF b610
+#OHJE_R 
+---
+###
+#KOODI      PF002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av urineringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av bäckenbottenmuskulatur, urineringsfrekvens och mängd samt frekvens och mängd vid läckage. ICF b620
+#OHJE_R 
+---
+###
+#KOODI      PF003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av sexuella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av psykiska och fysiska funktioner avseende sexualakten. ICF b640
+#OHJE_R 
+---
+###
+#KOODI      PF004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av menstruationsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner avseende menstruationscykeln och tömning av menstruationsvätska. ICF b650
+#OHJE_R 
+---
+###
+#KOODI      PF005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av fortplantningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner  avseende fertilitet, havandeskap, barnafödsel och mjölkproduktion. ICF b660
+#OHJE_R 
+---
+###
+#KOODI_A    PFA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Explorationer av a. poplitea, underbens- eller fotartärer
+#RUOTSI     ---
+#ENGL       Exploration of popliteal artery
+###
+#KOODI      PFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFA30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av underbens- eller fotartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ligaturer av a. poplitea, underbens- eller fotartärer
+#RUOTSI     ---
+#ENGL       Ligature of popliteal artery and arteries of lower leg and foot
+###
+#KOODI      PFB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av underbens- eller fotartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Arteriorafier på a. poplitea, underbens- eller fotartärer
+#RUOTSI     ---
+#ENGL       Suture of popliteal artery
+###
+#KOODI      PFC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomier/embolektomier ur a. poplitea, underbens- eller fotartärer
+#RUOTSI     ---
+#ENGL       Thrombectomy or embolectomy of popliteal artery and arteries of lower leg and foot
+###
+#KOODI      PFE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi eller embolektomi i underbens- eller fotartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aneurysmoperation på a. poplitea
+#RUOTSI     ---
+#ENGL       Operation for aneurysm of popliteal artery
+###
+#KOODI      PFG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass-operationer från a. femoralis/a. poplitea till underbens-/fotartärer
+#RUOTSI     ---
+#ENGL       Bypass from femoral artery to infrapopliteal arteries and from popliteal artery to arteries of lower leg and foot
+###
+#KOODI      PFH10 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till underbensartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a tibialis anterior (proximalt)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH22 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a tibialis anterior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till truncus tibiofibularis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH24 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a tibialis posterior (proximalt)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH25 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a tibialis posterior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH26 
+#MUUT_PVM   1996/10/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a fibularis (proximalt)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH27 
+#MUUT_PVM   1996/10/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a fibularis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH28 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a dorsalis pedis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH29 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från a femoralis eller a poplitea till a tibialis posterior på foten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFH99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFL
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#SUOMI      Anläggande av A-V fistlar utgåedne från artärer i underben eller fot
+#RUOTSI     ---
+#ENGL       Construction of arteriovenous fistula in lower leg and foot
+###
+#KOODI      PFL90 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av a-v fistel i underben eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFL95 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Modifiering av distal bypass-anastomos i underben eller fot för att öka flödet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Plastik på a. poplitea
+#RUOTSI     ---
+#ENGL       Plastic repair of popliteal artery
+###
+#KOODI      PFN10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Perkutana plastiker på a. poplitea, underbens- eller fotartärer
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of popliteal artery or artery of lower leg
+###
+#KOODI      PFP10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFP30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på underbens- eller fotartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av endovaskulärt implantat i a. poplitea eller underbensartär
+#RUOTSI     ---
+#ENGL       Insertion of endovascular graft into popliteal artery or artery of lower leg
+###
+#KOODI      PFQ10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFQ30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i underbensartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFR
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av endovaskulära implantat från a. poplitea/underbens-/fotartärer
+#RUOTSI     ---
+#ENGL       Removal of endovascular graft from popliteal artery or artery of lower leg
+###
+#KOODI      PFR10 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFR30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från underbensartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFS
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Endoskopiska eller ultraljudsstyrda operationer på a. poplitea
+#RUOTSI     ---
+#ENGL       Endoscopic operation on popliteal artery
+###
+#KOODI      PFS10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektioner av läkemedel eller ockluderande material i a. poplitea, underbens- eller fotartärer
+#RUOTSI     ---
+#ENGL       Injection of therapeutic or sclerosing agent into popliteal artery or artery of lower leg
+###
+#KOODI      PFT10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a poplitea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PFT30 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av a underbensartär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PFT87 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel eller ockluderande material i bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI_A    PFU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer inom tidigare rekonstruktioner på a. femoralis/a. poplitea/underbens-/fotartärer
+#RUOTSI     ---
+#ENGL       Repair after previous bypass from femoral or popliteal artery to infrapopliteal arteries and reconstruction of popliteal artery and arteries of lower
+###
+#KOODI      PFU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av tidigare bypass från a femoralis eller a poplitea till infrapopliteala artärer eller rekonstruktion av a poplitea, underbens- och fotartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU76 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU80 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan slutning av kvarstående a-v fistel i bypass från a femoralis eller a poplitea till infrapopliteala artärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU81 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kvarstående a-v fistel i bypass från a femoralis eller a poplitea till infrapopliteala artärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU82 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på bypass från a femoralis eller a poplitea till infrapopliteala artärer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU83 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU84 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU85 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU86 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU87 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PFU88 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU89 
+#MUUT_PVM   1996/11/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av bypass från a femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PFU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion på arteria femoralis eller a poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PFW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra by-pass-operationer från a. femoralis till infrapopliteala artärer samt andra ingrepp på a. poplitea och artärer på underben och fot
+#RUOTSI     ---
+#ENGL       Other connections from femoral artery to infrapopliteal arteries and operations on popliteal artery and arteries of lower leg and foot
+###
+#KOODI      PFW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation från arteria femoralis till infrapopliteala artärer samt operationer på a poplitea eller artärer på underben eller fot
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      "Extra-anatomiska" arteriella by-pass-operationer
+#RUOTSI     ---
+#ENGL       Extra-anatomic bypass operations
+###
+#KOODI      PG000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av neuromuskuloskeletala och rörelserelaterade funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande rörelsesystemts funktioner inklusive funktioner i leder, skelett, reflexer och muskler. Övergripande ko
+#OHJE_R 
+---
+###
+#KOODI      PG001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av ledrörlighet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av ledrörlighet genom aktiva och passiva rörelser samt manuella metoder. ICF b710, b715, b720
+#OHJE_R 
+---
+###
+#KOODI      PG002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av ledstabilitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av ledstabilitet genom aktiva och passiva rörelser samt manuella metoder. ICF  b715
+#OHJE_R 
+---
+###
+#KOODI      PG003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av muskelfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av muskelstyrka, uthållighet, muskellängd, muskeltonus med manuella metoder eller apparater inkl tendinittest. ICF b730, b735, b740
+#OHJE_R 
+---
+###
+#KOODI      PG004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av reflexer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av funktioner för icke viljemässig sammandragning av muskler som utlöses automatiskt genom specifika stimuli. ICF b750
+#OHJE_R 
+---
+###
+#KOODI      PG005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av icke viljemässiga rörelsereaktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av posturala reaktioner såsom upprätnings-, jämvikts-, balans- och skyddsreaktioner. ICF b755
+#OHJE_R 
+---
+###
+#KOODI      PG006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av viljemässig rörelsekontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av koordination, balans mellan agonister och antagonister, huvudkontroll, balans, öga-handkoordination, koncentration. ICF b760
+#OHJE_R 
+---
+###
+#KOODI      PG007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av gångmönster
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av gångmönster och löpning eller andra rörelser med hela kroppen. ICF b770
+#OHJE_R 
+---
+###
+#KOODI_A    PGH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      "Extra-anatomiska" arteriella by-pass-operationer
+#RUOTSI     ---
+#ENGL       Extra-anatomic bypass
+###
+#KOODI      PGH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Axilloaxillär crossover bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Axilloiliakal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Axillobiiliakal bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Axillofemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Axillobifemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iliakofemoral crossover bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iliakofemoral bypass via foramen obturatum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Femorofemoral bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGH99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan extra-anatomisk bypass-operation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PGU
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer inom tidigare arteriella by-pass-rekonstruktioner med "extra-anatomiska" förlopp
+#RUOTSI     ---
+#ENGL       Repair of extra-anatomic bypass
+###
+#KOODI      PGU70 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av extra-anatomisk bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU76 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aneurysmoperation på bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU83 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU84 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU85 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU86 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk operation på bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU87 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PGU88 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU89 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av bypass på extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGU99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation inom tidigare rekonstruktion med extra-anatomiskt förlopp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PGW99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan extra-anatomisk bypass-operation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på vener
+#RUOTSI     ---
+#ENGL       Operations on veins
+###
+#KOODI      PH000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av funktioner i huden och därmed relaterade strukturer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande funktioner i hud, naglar och hår. Övergripande kod inom avsnittet ICF b810 - b899
+#OHJE_R 
+---
+###
+#KOODI      PH001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av huden
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av hudens beskaffenhet. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      PH002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av risk för trycksår
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Riskbedömning för trycksår. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      PH003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av hudens läkande funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av sårläkning, ingår riskbedömning av abnorm ärrbildning. ICF b820
+#OHJE_R 
+---
+###
+#KOODI_A    PHB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ligaturer av vener
+#RUOTSI     ---
+#ENGL       Ligature of veins
+###
+#KOODI      PHB10 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av v. saphena magna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB12 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av v. saphena parva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB13 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av perforanter på underbenet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB14 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av perforanter på låret
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av v. renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av v. mesenterica eller v. porta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Venorafier
+#RUOTSI     ---
+#ENGL       Suture of veins
+###
+#KOODI      PHC22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av v. femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHC23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHC31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av v. renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHC32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av v. mesenterica eller v. porta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHC99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excisioner/exereser av vener
+#RUOTSI     ---
+#ENGL       Resection of veins
+###
+#KOODI      PHD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av v. saphena magna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHD11 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av stella venosa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHD12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av v. saphena parva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHD15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av kommunikanter på underbenet och låret
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHD30 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHD32 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av v. mesenterica superior eller v. porta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHD99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trombektomier ur vener
+#RUOTSI     ---
+#ENGL       Thrombectomy of veins
+###
+#KOODI      PHE22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i v. femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHE23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHE31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i v. renalis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trombektomi i annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Venösa by-pass-operationer
+#RUOTSI     ---
+#ENGL       Bypass from veins
+###
+#KOODI      PHH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från v. poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHH22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från v. femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHH25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHH30 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHH99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transpositioner av vener
+#RUOTSI     ---
+#ENGL       Transposition of veins
+###
+#KOODI      PHJ22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av v. femoralis communis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHJ99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Plastiker på vener
+#RUOTSI     ---
+#ENGL       Plastic repair of veins
+###
+#KOODI      PHN21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på v. poplitea
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHN30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHN32 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på v. mesenterica superior eller v. porta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHN99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastik på annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Slutna (perkutana) plastiker på vener
+#RUOTSI     ---
+#ENGL       Percutaneous plastic repair of veins
+###
+#KOODI      PHP23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHP99 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan plastik på annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av endovaskulära implantat i vener
+#RUOTSI     ---
+#ENGL       Insertion of endovascular graft into veins
+###
+#KOODI      PHQ23 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHQ30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHQ35 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i bypass från splankniska vener till cavasystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHQ99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av stent i annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHR
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av endovaskulära implantat från vener
+#RUOTSI     ---
+#ENGL       Removal of endovascular graft from veins
+###
+#KOODI      PHR23 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från v. iliaca
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHR30 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från v. cava inferior
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHR99 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av stent från annan ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHS
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Endoskopisk venkirurgi
+#RUOTSI     ---
+#ENGL       Endoscopic operations on veins
+###
+#KOODI      PHS13 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk perforantdelning på underbenet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHS14 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk perforantdelning på låret
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHS99 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation på ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PHT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Injektioner av läkemedel eller ockluderande material i vener
+#RUOTSI     ---
+#ENGL       Injection of therapeutic or sclerosing agent into veins
+###
+#KOODI      PHT10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av  v saphena magna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHT11 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av v saphena magnas inmynning i v femoralis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHT12 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av v saphena parva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHT15 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av kommunikanter på underben eller lår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHT23 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av v iliaca
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PHT31 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av v renalis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI      PHT32 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av v. porta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl. förgreningar av v. porta
+#OHJE_R 
+---
+###
+#KOODI      PHT99 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektion av läkemedel i eller perkutan ocklusion av annan ven
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Läkemedel kan anges genom tillägg av ATC-kod
+#OHJE_R 
+---
+###
+#KOODI_A    PHW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på vener
+#RUOTSI     ---
+#ENGL       Other operations on veins
+###
+#KOODI      PHW35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Portosystemisk shunt eller bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PHW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på ven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på det lymfatiska systemet
+#RUOTSI     ---
+#ENGL       Operations on lymphatic system
+###
+#KOODI      PJ000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av lärande och tillämpning av kunskap
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande lärande, tillämpning av kunskap som är inlärd, tänkande, problemlösning och beslutsfattande. Övergripan
+#OHJE_R 
+---
+###
+#KOODI      PJ001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av målinriktad användning av sinnesupplevelser
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av målinriktad andvändning av sinnesupplevelser för att uppfatta  visuella, auditiva stimuli samt stimuli som att känna, smaka, lukta. ICF  d110- d120
+#OHJE_R 
+---
+###
+#KOODI      PJ002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av grundläggande lärande
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av grundläggade lärande, att kunna härma, repetera,  lära sig läsa, lära sig skriva och räkna samt förvärva färdigheter. ICF d130- d159
+#OHJE_R 
+---
+###
+#KOODI      PJ003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att  tillämpa kunskap
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kunna vara uppmärksam, att tänka, läsa och att kunna skriva och beräkna samt lösa problem och fatta beslut samt kunna prioritera bland ett flertal uppgifter som behöver genomföras. ICF d160- d179
+#OHJE_R 
+---
+###
+#KOODI_A    PJA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration och biopsi av lymfkörtlar
+#RUOTSI     ---
+#ENGL       Exploration of lymph nodes
+###
+#KOODI      PJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive biopsi
+#OHJE_R 
+---
+###
+#KOODI_A    PJB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ligatur av lymfkärl
+#RUOTSI     ---
+#ENGL       Ligature of lymphatic vessels
+###
+#KOODI      PJB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av ductus thoracicus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av annat lymfkärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PJD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exstirpationer och utrymningar av lymfkörtlar
+#RUOTSI     ---
+#ENGL       Excision and block dissection of lymph nodes
+###
+#KOODI      PJD41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av cervikala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av axillära lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av paraaortala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD44 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av iliakala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av inguinala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal utrymning av cervikala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal utrymning av axillära lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD53 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal utrymning av paraaortala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD54 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal utrymning av iliakala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD55 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal utrymning av inguinala lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD63 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk utrymning av paraaortala lymkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD64 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk utrymning av iliakala lymkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk utrymning av andra lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan radikal regional lymfkörtelutrymning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJD99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av andra lymfkörtlar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    PJW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på det lymfatiska systemet
+#RUOTSI     ---
+#ENGL       Other operations on lymphatic system
+###
+#KOODI      PJW10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i lymfkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJW30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anläggande av lymfovenös anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PJW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på lymfsystem
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PK000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av genomförande av allmänna uppgifter och krav
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande att genomföra enstaka eller mångfaldiga uppgifter, organisera arbetsgång och hantera stress. Övergripan
+#OHJE_R 
+---
+###
+#KOODI      PK001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att företa en enstaka uppgift
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförande av handlingar som sammanhänger med de psykiska eller fysiska komponenterna i en enstaka uppgift såsom att påbörja en uppgift, organisera  tid, rum och material. Planera, sätta mål, genomföra och avsluta samt upprätthålla en uppg
+#OHJE_R 
+---
+###
+#KOODI      PK002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att företa mångfaldiga uppgifter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförande av enkla eller komplicerade och koordinerade handlingar som komponenter i mångfaldiga, integrerade och komplicerade uppgifter i följd eller samtidigt.   ICF d220
+#OHJE_R 
+---
+###
+#KOODI      PK003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att genomföra daglig rutin
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförande av enkla eller samordnade handlingar för att planera och hantera tid och energi  vid genomförandet av de aktiviteter som innefattas i dagliga rutiner under hela dygnet. ICF d230
+#OHJE_R 
+---
+###
+#KOODI      PK004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att hantera stress och andra psykologiska krav
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av  genomförande av  enkla eller sammansatta och samordnade handlingar för att klara av de psykologiska krav som ställs för att genomföra uppgiften. Innefattar att hantera ansvarstagande, stress och kris. ICF d240
+#OHJE_R 
+---
+###
+#KOODI      PL000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av förmåga att kommunicera
+
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande förmåga att kommunicera genom språk, tecken, symboler, att ta emot och förmedla budskap, att genomföra
+#OHJE_R 
+---
+###
+#KOODI      PL001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att vara mottagare
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vara mottagare av verbala och icke verbala meddelanden, inklusive teckenespråk samt ta emot skrivna meddelanden. ICF d310 - d329
+#OHJE_R 
+---
+###
+#KOODI      PL002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att vara sändare
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att tala, uttrycka sig icke verbalt inklusive att meddela sig på teckenspråk samt att skriva meddelanden. ICF d330 - d349
+#OHJE_R 
+---
+###
+#KOODI      PL003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att kunna konversera och diskutera
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedöming av att kunna  konversera och diskutera med en eller flera personer.  ICF d350, d355
+#OHJE_R 
+---
+###
+#KOODI      PL004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att använda kommunikationsutrustning och tekniker
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av användandet av oika utrustningar och tekniker för kommunikation. ICF d360
+#OHJE_R 
+---
+###
+#KOODI      PM000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av förmåga att förflytta sig
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande att röra sig genom att ändra kroppsställning eller att förflytta sig från en plats till en annan, att b
+#OHJE_R 
+---
+###
+#KOODI      PM001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av lägesförändring samt bibehållande av kroppsställning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att inta eller ändra kroppsställning och att bibehålla samma kroppsställning såsom att förbli sittande eller stående,  balans. ICF d410 - d415
+#OHJE_R 
+---
+###
+#KOODI      PM002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av kroppshållning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av hållning och kroppsställning i olika utgångsställningar såsom liggande, sittande, stående, inkl statisk balans, lod- och mittlinje, ryggradskrökar, ev asymmetri i vila och/eller rörelse. ICF d410 - d415
+#OHJE_R 
+---
+###
+#KOODI      PM003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av förflyttning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att inta eller ändra kroppsställning, såsom att förflytta sig i säng, sätta sig upp och lägga sig, ställa sig upp och sätta sig, förflytta sig till och från stol eller dylikt, komma ner och upp från golv, att lägga sig på knä eller sätta sig
+#OHJE_R 
+---
+###
+#KOODI      PM004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att lyfta, bära och förflytta föremål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att lyfta upp ett föremål eller ta något från en plats till en annan såsom att lyfta en kopp eller bära ett barn från ett rum till ett annat. Ingår att sparka boll eller trampa på cykelpedaler. ICF d430 - d435
+#OHJE_R 
+---
+###
+#KOODI      PM005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av finmotorik
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av koordinerade handlingar som krävs för att hantera föremål, plocka upp, behandla och släppa dem t.ex. plocka upp ett mynt från ett bord. ICFd440
+#OHJE_R 
+---
+###
+#KOODI      PM006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att använda hand och arm
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av koordinerade handlingar som krävs för att flytta föremål eller hantera dem genom att använda händer och armar t.ex. att kasta eller fånga ett föremål. ICF d445
+#OHJE_R 
+---
+###
+#KOODI      PM007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att gå
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förflyttning till fots såsom att promenera, gå framlänges, baklänges eller i sidled, kortare eller längre sträckor inomhus eller utomhus, att gå på olika underlag samt runt hinder av olika slag eller i trappa. ICF d450
+#OHJE_R 
+---
+###
+#KOODI      PM008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att röra sig på olika sätt och på olika platser inom och utom hemmet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att krypa, springa, hoppa, att gå ombord på ett tåg, buss och liknande och att röra sig på olika platser. Inom- och utomhus.  ICF d455 - d460
+#OHJE_R 
+---
+###
+#KOODI      PM009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att förflytta sig med hjälpmedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att förflytta sig med rullstol, använda gånghjälpmedel. ICF d465
+#OHJE_R 
+---
+###
+#KOODI      PM010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att använda transportmedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att använda offentliga transportmedel som buss, spårvagn, tåg. ICF d470
+#OHJE_R 
+---
+###
+#KOODI      PM011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förarbedömning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vara förare till olika transportmedel, tex motoriserde fordon, djurdrivna fordon. ICF d475
+#OHJE_R 
+---
+###
+#KOODI      PN000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av personlig vård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande egen personlig vård, att tvätta och torka sig själv, att ta hand om sin kropp och kroppsdelar, att klä
+#OHJE_R 
+---
+###
+#KOODI      PN001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att tvätta sig
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att tvätta och torka delar av eller hela kroppen med lämpliga metoder och material. ICF d510
+#OHJE_R 
+---
+###
+#KOODI      PN002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att vårda sin kropp
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att sköta hud, tänder, hår,  naglar och könsorgan. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      PN003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att sköta sina toalettbehov
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kontrollera urinering, avföring och sköta menstruation, komma till lämplig plats och ställning samt hantering av kläder. ICF d530
+#OHJE_R 
+---
+###
+#KOODI      PN004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att klä på och av sig
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av  på- och avklädning av kläder och skor samt val av lämplig klädsel. ICF d540
+#OHJE_R 
+---
+###
+#KOODI      PN005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att äta och dricka
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförandet av samordnade handlingar så som att skära eller bryta maten i bitar, öppna flaskor och burkar, blanda dryck, använda bestick samt att föra mat och dryck till till munnen och att äta och dricka på ett kulturellt accepterat sätt.
+#OHJE_R 
+---
+###
+#KOODI      PN008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att sköta sin egen hälsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att  tillförsäkra sig fysisk bekvämlighet, hälsa och fysiskt och psykiskt välbefinnande, såsom att  upprätthålla lämplig kost och nivå av fysisk aktivitet samt undvika hälsorisker. Innefattar egenvård, att söka professionell hjälp och att fö
+#OHJE_R 
+---
+###
+#KOODI      PP000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av hemliv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande att genomföra husliga och dagliga sysslor och uppgifter i hemmet. Innefattar att skaffa bostad, mat, kl
+#OHJE_R 
+---
+###
+#KOODI      PP001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att skaffa förnödenheter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att köpa, hyra, möblera och ordna ett hus, lägenhet eller annan bostad. Att välja, anskaffa och transportera alla varor och tjänster som krävs för det dagliga livet såsom mat, dryck, kläder, rengöringsmaterial, bränsle, hushållsartiklar, hus
+#OHJE_R 
+---
+###
+#KOODI      PP002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att inköpa dagligvaror
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av planering av större eller mindre inköp, att ta sig till eller från affären, att välja och ta varor, betala och frakta hem varorna. ICF d6208
+#OHJE_R 
+---
+###
+#KOODI      PP003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att utföra hushållsgöromål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att planera, organisera, laga och servera enkla eller sammansatta måltider,  att hålla rent i hemmet , att rengöra kök och köksredskap, städa bostaden, förvara dagliga förnödenheter och på lämpligt sätt ta hand om avfall, samla ihop, tvätta,
+#OHJE_R 
+---
+###
+#KOODI      PP004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att laga mat
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att planera, organisera, laga och servera enkla och sammansatta måltider till sig själv och andra, att göra upp en matsedel, välja ut lämpliga varor och drycker och samla ihop och bereda ingredienser till varm eller kall mat. Innefattar inte
+#OHJE_R 
+---
+###
+#KOODI      PP005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att tvätta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att tvätta kläder för hand eller i tvättmaskin och på lämpligt sätt torka dessa och efterbehandla tvätten, att samla ihop, sortera, tvätta, på lämpligt sätt torka och efterbereda tvätten, att kunna använda  hushållsapparater samt att transpo
+#OHJE_R 
+---
+###
+#KOODI      PP006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att städa bostaden
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att städa hemmet såsom att  städa upp, dammsuga, damma, sopa, skura, torka av golv, tvätta fönster och väggar, rengöra badrum och toaletter och att rengöra hemmets inventarier. ICF d6402, d6403
+#OHJE_R 
+---
+###
+#KOODI      PP007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att ta hand om hemmets föremål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att underhålla och laga hushållsföremål och andra personliga föremål innefattande bostaden och dess inventarier. Innefattar att tillverka och laga kläder, underhålla bostaden genom att måla tapetsera, underhålla och laga möbler, hushållsappa
+#OHJE_R 
+---
+###
+#KOODI      PP008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att bistå andra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att hjälpa och vara engagerad i medlemmar av hushållet och andra i deras lärande, kommunikation, personliga vård, förflyttning inom eller utanför hemmet. ICF  d660
+#OHJE_R 
+---
+###
+#KOODI      PQ000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av mellanmänskliga interaktioner och relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande att genomföra de handlingar och uppgifter som behövs för grundläggande och sammansatta interaktioner me
+#OHJE_R 
+---
+###
+#KOODI      PQ001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av  mellanmänskliga interaktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att bygga upp och hantera alla typer av relationer samt avsluta dessa på ett socialt lämpligt sätt. Att kunna reglera sitt beteende i interaktioner med andra samt att vara  medveten om och bibehålla socialt utrymme mellan sig själv och andra
+#OHJE_R 
+---
+###
+#KOODI      PQ002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av kontakt med okända personer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av till engagemang i tillfälliga kontakter och förbindelser med okända personer för särskilda syften såsom att fråga efter vägen eller att göra ett inköp. ICF d730
+#OHJE_R 
+---
+###
+#KOODI      PQ003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av formella relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att skapa och bibehålla specifika relationer i formella sammanhang såsom med arbetsgivare, yrkesutövande eller servicegivare, att ha kontakt med makthavare, underordnade och jämställda personer. ICF d740
+#OHJE_R 
+---
+###
+#KOODI      PQ004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av informella sociala relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att ha relationer med andra såsom otvungna relationer med människor som bor på samma ort eller med medarbetare, elever, lekkamrater och människor med likartad bakgrund eller yrke, informella relationer med vänner, grannar, bekanta, personer
+#OHJE_R 
+---
+###
+#KOODI      PQ005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att ha familjerelationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att skapa och bibehålla släktskapsrelationer såsom med medlemmar av kärnfamilj, utvidgad familj, foster-, adoptiv- och styvfamilj, mer avlägsna relationer såsom kusiner, sysslingar eller lagliga vårdnadshavare, föräldrabarn- och barnföräldra
+#OHJE_R 
+---
+###
+#KOODI      PQ006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av att ha intima relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att skapa och bibehålla nära eller romantiska relationer mellan personer såsom mellan man och hustru, mellan älskande eller sexualpartner. ICF  d770
+#OHJE_R 
+---
+###
+#KOODI      PR000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av arbets-, studie- och ekonomiskt liv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande att engagera sig och utföra sådana uppgifter och handlingar som krävs vid utbildning, arbete, anställni
+#OHJE_R 
+---
+###
+#KOODI      PR001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av studieförmåga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömnig av att vara engagerad och utföra sådana handlingar och uppgifter  som krävs vid olika former av utbildning såsom informell-, förskole-, skol-, yrkes- och högre utbildningar. ICF d810-839
+#OHJE_R 
+---
+###
+#KOODI      PR002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av arbetsförmåga och sysselsättning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vara engagerad i de uppgifter och handlingar som krävs för att förbereda sig för, skaffa och bibehålla en betald anställning eller obetald sysselsättning samt att avsluta denna. Innefattar också att kunna vara engagerad i uppgifter som k
+#OHJE_R 
+---
+###
+#KOODI      PR003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av ekonomiskt liv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att engagera sig i grundläggande och komplexa ekonomiska transaktioner såsom att använda pengar för att köpa varor och tjänster eller att spara pengar, innefattar utbyte av kapital eller egendom och skapande av ekonomisk vinst eller värde, a
+#OHJE_R 
+---
+###
+#KOODI      PS000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av socialt och medborgerligt liv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insamling och analys av information från standardiserade bedömningsinstrument, skattningskalor, kliniska test, intervju och/eller observation gällande att utföra de handlingar och uppgifter som krävs för att engagera sig i organiserat socialt liv utanför
+#OHJE_R 
+---
+###
+#KOODI      PS001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av social förmåga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av den sociala förmågan,  att engagera sig i olika former av samhällsgemenskap såsom informella, formella och ceremoniella sammanslutningar. Innefattar engagemang i bostadsrättsföreningar, yrkesföreningar och i olika icke religösa riter som t e
+#OHJE_R 
+---
+###
+#KOODI      PS002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av rekreation och fritid
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kunna utföra och vara engagerad i lek, spel, sport, konst, kultur, hobbies, resor och umgänge, spontana och organiserade fritidsaktiviter t ex fysisk träning, nöjen, bio, teater, konstutställning, eget utövande av konsthantverk eller han
+#OHJE_R 
+---
+###
+#KOODI      PS003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av engagemang i religiösa och andliga frågor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av engagemang i religiösa eller andliga aktiviteter, organisationer och utövanden för självförverkligande, för att finna mening , religiöst eller andligt värde och för att etablera kontakt med en gudomlig makt som t.ex. när man går till kyrka,
+#OHJE_R 
+---
+###
+#KOODI      PT000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utredning av omgivningsfaktorer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utredning av den fysiska, sociala och attitydmässiga omgivning i vilken människor lever och verkar. Övergripande kod inom avsnittet ICF e110 -e599
+#OHJE_R 
+---
+###
+#KOODI      PT001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av behov av omgivningsanpassning  i det dagliga livet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av att anpassa, flytta om, ställa undan, produkter, inventarier och möbler för att möjliggöra eller underlätta att aktiviteter i det dagliga livet kan utföras på ett säkert sätt. Innefattar stödjande produkter och teknik (hjälpmedel) o
+#OHJE_R 
+---
+###
+#KOODI      PT002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av hjälpmedel i det dagliga livet, för förflyttning och transport, kommunikation och för användning i utbildning, arbete, sysselsättnig och vid aktiviteter relaterade till kultur, rekreation och sport. Innefattar allmänna och stödjande
+#OHJE_R 
+---
+###
+#KOODI      PT008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av allmän miljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att anpassa, ny utforma produkter och teknik i allmän miljö. Innefattar design, konstruktioner byggnadsteknik och byggnadsprodukter för entreer och utgångar toaletter och förflyttningsvägar som skapats för allmänt bruk. ICF e150
+#OHJE_R 
+---
+###
+#KOODI      PT009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av boendemiljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens boendemiljö relaterat till aktuellt hälsotillstånd och behovet av anpassning och utformning av produkter och teknik. Innefattar design, konstruktioner, byggnadsteknik och byggnadsprodukter för entréer och utgångar, toaletter och f
+#OHJE_R 
+---
+###
+#KOODI      PT010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av fysisk miljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens fysiska miljö relaterat till aktuellt hälsotillstånd och behovet av anpassning och utformning av produkter och teknik gällande ljus, ljud, vibration och luftkvalitet. Kan innefattas i en arbetsplatsutredning.  ICF e240, e250, e255
+#OHJE_R 
+---
+###
+#KOODI      PT011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av personligt stöd från omgivningen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av människor och djur som ger praktiskt fysiskt eller emotionellt stöd, uppfostran, skydd och hjälp och som har relationer till individen i hemmet, på arbetsplatsen, i skolan eller vid lek eller i andra avseenden av de dagliga aktiviteterna. IC
+#OHJE_R 
+---
+###
+#KOODI      PT012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av attityder i omgivningen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förekomst av  attityder och dess påverkan på personligt beteende och socialt liv på alla nivåer från mellanmänskliga relationer till ekonomiska och lagliga strukturer. ICF e410 - e465
+#OHJE_R 
+---
+###
+#KOODI      PT013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av service, tjänster, system och policies
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förekomst av service, tjänster, system och policies och dess påverkan på personers genomförande av uppgifter och handlingar och möjligheter till engagemang i livssituationer. ICF e510 - e595
+#OHJE_R 
+---
+###
+#KOODI      PV099 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bedömning av behov av informerande, rådgivande och undervisande åtgärder UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för komplikationer av kärlkirugin
+#RUOTSI     ---
+#ENGL       Reoperations on peripheral vessels and lymphatic system
+###
+#KOODI      PWA00 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWC00 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWE00 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWF00 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWG00 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för trombos eller emboli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWG02 
+#MUUT_PVM   1996/01/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angioskopisk reoperation för trombos eller emboli
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWH00 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för lymfocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PWW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på perifera kärl eller lymfsystemet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    PX
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Vaskulärä åtgärder på odefinierad område
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      PXB00 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal cirkulation av övre extremitet med hjärt-lungmaskin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PXC00 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal cirkulation av lever med hjärt-lungmaskin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PXE00 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal cirkulation av nedre extremitet med hjärt-lungmaskin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PXH10 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bypass från aortabåge till a carotis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      PXX00 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal cirkulation av hela kroppen med hjärt-lungmaskin
+#RUOTSI     ---
+#LYHENNE    

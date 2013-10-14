@@ -1,0 +1,1858 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinjärjestelmiin kohdistuvat toimenpiteet
+
+@RUOTSI_L = Andra åtgärder som inriktas på flera organsystem
+
+@ENGL_L = Other procedures and procedures acting on several organ systems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinjärjestelmiin tai koko elimistöön.
+
+@NOTE_LS = Åtgärder som inriktas på flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI_R = WX
+
+@SUOMI_R = Anestesia, hengityksen tuki ja elvytys
+
+@RUOTSI_R = Anestesiåtgärder
+
+@NOTE_RF = Ääreishermojen salpaus kohdassa AC (TAC00)
+
+@NOTE_RS = Blockad av perifer nerv, se AC (TAC00)
+
+@END = 
+
+@KOODI_A = WX0
+
+@NCSP_A = WAA0
+
+@SUOMI_A = Ei anestesiaa
+
+@RUOTSI_A = Ingen anestesi
+
+@NOTE_RF = Esim. sedaatio ilokaasulla
+
+@NOTE_RS = T.ex. lustgassedering
+
+@END = 
+
+@KOODI = WX000 
+
+@NCSP = WAA000
+
+@SUOMI = Elintoimintojen valvonta Ilman anestesiaa
+
+@RUOTSI = Övervakning av vitala funktioner utan anestesi
+
+@END = 
+
+@KOODI = WX002 
+
+@NCSP = WAA002
+
+@SUOMI = Sedaatio tai kivunlievitys ilman anestesiaa
+
+@RUOTSI = Sedering eller analgesi utan anestesi
+
+@NOTE_F = Esim. ilokaasusedaatio
+
+@NOTE_S = T.ex. lustgassedering
+
+@END = 
+
+@KOODI_A = WX1
+
+@NCSP_A = WAA1
+
+@SUOMI_A = Paikalliset puudutukset
+
+@RUOTSI_A = Lokala bedövningar
+
+@END = 
+
+@KOODI = WX110 
+
+@NCSP = WAA110
+
+@SUOMI = Infiltraatiopuudutus
+
+@RUOTSI = Infiltrationsanestesi
+
+@NOTE_F = Pintapuudutus iholle tai limakalvolle
+
+@NOTE_F =
+Hammastoimenpiteissä puudutus on leukaneljänneskohtainen
+
+@NOTE_S = Ytanestesi vid åtgärder av tänder noteras per käkhalva
+
+@END = 
+
+@KOODI = WX120 
+
+@NCSP = WAA120
+
+@SUOMI = Yläraajan laskimopuudutus
+
+@RUOTSI = Intravenös regionalanestesi av övre extremitet
+
+@END = 
+
+@KOODI = WX124 
+
+@NCSP = WAA124
+
+@SUOMI = Alaraajan laskimopuudutus
+
+@RUOTSI = Intravenös regionalanestesi av nedre extremitet
+
+@END = 
+
+@KOODI = WX130 
+
+@NCSP = WAA130
+
+@SUOMI = Keuhko-ontelon puudutus
+
+@RUOTSI = Intrapleural anestesi
+
+@END = 
+
+@KOODI = WX140 
+
+@NCSP = WAA140
+
+@SUOMI = Silmämunanvieruspuudutus
+
+@RUOTSI = Parabulbärbedövning
+
+@END = 
+
+@KOODI = WX142 
+
+@NCSP = WAA142
+
+@SUOMI = Sub-tenon puudutus
+
+@RUOTSI = Sub-tenon bedövning
+
+@END = 
+
+@KOODI = WX144 
+
+@NCSP = WAA144
+
+@SUOMI = Subkonjunktivaalinen puudutus
+
+@RUOTSI = Subkonjunktivalbedövning
+
+@END = 
+
+@KOODI_A = WX2
+
+@NCSP_A = WAA2
+
+@SUOMI_A = Johtopuudutukset
+
+@RUOTSI_A = Plexusblockad
+
+@END = 
+
+@KOODI = WX200 
+
+@NCSP = WAA200
+
+@SUOMI = Interskaleeninen olkapunoksen puudutus
+
+@RUOTSI = Interskalenär plexusblockad
+
+@END = 
+
+@KOODI = WX202 
+
+@NCSP = WAA202
+
+@SUOMI = Supraklavikulaarinen olkapunoksen puudutus
+
+@RUOTSI = Subraklaviikulär plexusblockad
+
+@END = 
+
+@KOODI = WX203 
+
+@NCSP = WAA203
+
+@SUOMI = Infraklavikulaarinen olkapunoksen puudutus
+
+@RUOTSI = Infraklavikulär plexusblockad
+
+@END = 
+
+@KOODI = WX204 
+
+@NCSP = WAA204
+
+@SUOMI = Axillaarinen olkapunoksen puudutus
+
+@RUOTSI = Axillär plexusblockad
+
+@END = 
+
+@KOODI = WX210 
+
+@NCSP = WAA210
+
+@SUOMI = Lonkkahermon puudutus
+
+@RUOTSI = Ishiadikusblockad
+
+@END = 
+
+@KOODI = WX212 
+
+@NCSP = WAA212
+
+@SUOMI = Reisihermon puudutus
+
+@RUOTSI = Femoralisblockad
+
+@END = 
+
+@KOODI = WX214 
+
+@NCSP = WAA214
+
+@SUOMI = Nilkan johtopuudutus
+
+@RUOTSI = Ankelblockad
+
+@END = 
+
+@KOODI = WX220 
+
+@NCSP = WAA220
+
+@SUOMI = Ilioinguinaalinen johtopuudutus
+
+@RUOTSI = Ilioinguinalisblockad
+
+@END = 
+
+@KOODI = WX222 
+
+@NCSP = WAA222
+
+@SUOMI = Iliohypogastrinen johtopuudutus
+
+@RUOTSI = Iliohypogastrisk blockad
+
+@END = 
+
+@KOODI = WX224 
+
+@NCSP = WAA224
+
+@SUOMI = Obturatoriushermon puudutus
+
+@RUOTSI = Obturatoriusblockad
+
+@END = 
+
+@KOODI = WX230 
+
+@NCSP = WAA230
+
+@SUOMI = Häpyhermon puudutus
+
+@RUOTSI = Pudendusblockad
+
+@END = 
+
+@KOODI = WX234 
+
+@NCSP = WAA234
+
+@SUOMI = Kohdunkaulan vieruskudosten puudutus
+
+@RUOTSI = Paracervikalblockad
+
+@END = 
+
+@KOODI = WX240 
+
+@NCSP = WAA240
+
+@SUOMI = Peniksen johtopuudutus
+
+@RUOTSI = Penisblockad
+
+@END = 
+
+@KOODI = WX250 
+
+@NCSP = WAA250
+
+@SUOMI = Kylkiluuvälin puudutus
+
+@RUOTSI = Intercostal blockad
+
+@END = 
+
+@KOODI = WX290 
+
+@NCSP = WAA290
+
+@SUOMI = Muu johtopuudutus
+
+@RUOTSI = Annan ledningsanestesi
+
+@NOTE_F = Esim. suunalueen johtopuudutus
+
+@NOTE_S = T.ex. ledningsanestesi i munnen
+
+@END = 
+
+@KOODI_A = WX3
+
+@NCSP_A = WAA3
+
+@SUOMI_A = Epiduraali- ja spinaalianestesia
+
+@RUOTSI_A = Epidural- och spinalanesesi
+
+@END = 
+
+@KOODI = WX300 
+
+@NCSP = WAA300
+
+@SUOMI = Epiduraalipuudutus kaularangan tasolla
+
+@RUOTSI = Cervical epiduralanestesi
+
+@END = 
+
+@KOODI = WX302 
+
+@NCSP = WAA302
+
+@SUOMI = Epiduraalipuudutus rintarangan tasolla
+
+@RUOTSI = Thorakal epiduralanestesi
+
+@END = 
+
+@KOODI = WX306 
+
+@NCSP = WAA306
+
+@SUOMI = Epiduraalipuudutus lannerangan tasolla
+
+@RUOTSI = Lumbal epiduralanestesi
+
+@END = 
+
+@KOODI = WX308 
+
+@NCSP = WAA308
+
+@SUOMI = Sakraalipuudutus
+
+@RUOTSI = Sakralanesesi
+
+@END = 
+
+@KOODI = WX320 
+
+@NCSP = WAA320
+
+@SUOMI = Spinaalipuudutus
+
+@RUOTSI = Spinalanestesi
+
+@END = 
+
+@KOODI_A = WX4
+
+@NCSP_A = WAA4
+
+@SUOMI_A = Yleisanestesia
+
+@RUOTSI_A = Generell anestesi
+
+@END = 
+
+@KOODI = WX400 
+
+@NCSP = WAA400
+
+@SUOMI = Inhalaatioyleisanestesia
+
+@RUOTSI = Generell anestesi baserad på inhalationsanestesi
+
+@NOTE_F = Voidaan yhdistää muun tyyppiseen anestesian induktiomenetelmään
+
+@NOTE_S = Kan kombineras med annat induktionssätt
+
+@END = 
+
+@KOODI = WX404 
+
+@NCSP = WAA404
+
+@SUOMI = Suonensisäinen yleisanestesia
+
+@RUOTSI = Generell anestesi baserad på i.v. anestesi
+
+@NOTE_F = Voidaan yhdistää muun tyyppisen anestesian induktiomenetelmään
+
+@NOTE_S = Kan kombineras med annat induktionssätt
+
+@END = 
+
+@KOODI = WX408 
+
+@NCSP = WAA408
+
+@SUOMI = Kombinaatio anestesia
+
+@RUOTSI = Generell anestesi baserad på kombination av inhalation och i.v. anestesi
+
+@END = 
+
+@KOODI = WX419 
+
+@NCSP = WAA419
+
+@SUOMI = Muu yleisanestesia
+
+@RUOTSI = Annan generell anestesi
+
+@END = 
+
+@KOODI_A = WX6
+
+@NCSP_A = WAA6
+
+@SUOMI_A = Katetrin käyttö puudutuksessa
+
+@RUOTSI_A = Användning av kateter i plexusblockad och epidural- och spinalanestesier
+
+@END = 
+
+@KOODI = WX600 
+
+@NCSP = WAA600
+
+@SUOMI = Kertapuudutus katetrilla
+
+@RUOTSI = Anestesi genom kateter, en injektion
+
+@END = 
+
+@KOODI = WX602 
+
+@NCSP = WAA602
+
+@SUOMI = Toistuva tai jatkuva puudutus katetrilla
+
+@RUOTSI = Anestesi genom kateter, flera injektioner eller kontinuerlig infusion
+
+@NOTE_F = Sisältää katetrin jättämisen seuraavaa annosta odottamaan
+
+@NOTE_S = Inkl kvarlämnandet av katetern för eventuel nästa dos
+
+@END = 
+
+@KOODI_A = WX7
+
+@NCSP_A = WAA7
+
+@SUOMI_A = Hengityksen tukeminen
+
+@RUOTSI_A = Stödning av andning
+
+@END = 
+
+@KOODI = WX700 
+
+@NCSP = WAA700
+
+@SUOMI = Hengityksen ja verenkierron valvonta
+
+@RUOTSI = Uppvakning av respiration och cirkulation
+
+@END = 
+
+@KOODI = WX702 
+
+@NCSP = WAA702
+
+@SUOMI = Laryngeaalimaski tai nenäputket
+
+@RUOTSI = Laryngealmask eller nasalspronger
+
+@END = 
+
+@KOODI = WX703 
+
+@NCSP = WAA703
+
+@SUOMI = Nenänielu- tai nieluputki
+
+@RUOTSI = Nasalsvalg- eller svalgtub
+
+@END = 
+
+@KOODI = WX704 
+
+@NCSP = WAA704
+
+@SUOMI = Intubaatio
+
+@RUOTSI = Intubation
+
+@END = 
+
+@KOODI = WX706 
+
+@NCSP = WAA706
+
+@SUOMI = Retrogradinen intubaatio
+
+@RUOTSI = Retrograd intubation
+
+@NOTE_F = Intubaatio äänihuulitason alapuolelta asetetun katetrin avulla
+
+@NOTE_S = Intubation med hjälp av kateter insatt under ljudläpparna
+
+@END = 
+
+@KOODI = WX720 
+
+@NCSP = WAA720
+
+@SUOMI = Oma hengitys
+
+@RUOTSI = Spontan andning
+
+@END = 
+
+@KOODI = WX722 
+
+@NCSP = WAA722
+
+@SUOMI = Ylipainehengitys
+
+@RUOTSI = Behandling med övertryck
+
+@NOTE_F = Erillisisenä toimenpiteenä esim. yöllinen CPAP hoito WX722+WX702
+
+@NOTE_S = Kombinationer anges med separaata koder, t.ex. nattlig CPAP behandling WX722+WX702
+
+@END = 
+
+@KOODI = WX730 
+
+@NCSP = WAA730
+
+@SUOMI = Hengityskonehoito
+
+@RUOTSI = Respiratorbehandling
+
+@END = 
+
+@KOODI = WX732 
+
+@NCSP = WAA732
+
+@SUOMI = Korkeataajuinen hengityskonehoito
+
+@RUOTSI = Höfrekvens respiratorbehandling
+
+@END = 
+
+@KOODI = WX740 
+
+@NCSP = WAA740
+
+@SUOMI = Typpioksidihoito
+
+@RUOTSI = Behandling med kväve monoxid
+
+@END = 
+
+@KOODI_A = WX9
+
+@NCSP_A = WAA9
+
+@SUOMI_A = Resuskitaatio
+
+@RUOTSI_A = Resuskitation
+
+@END = 
+
+@KOODI = WX900 
+
+@NCSP = WAA900
+
+@SUOMI = Verenkierron ja hengityksen elvytys
+
+@RUOTSI = Resuskitering av blodcirkulation och andning
+
+@END = 
+
+@KOODI = WX902 
+
+@NCSP = WAA902
+
+@SUOMI = Sydämen ulkoinen defibrillaatio
+
+@RUOTSI = Extern defibrillation av hjärtat
+
+@END = 
+
+@KOODI = WX904 
+
+@NCSP = WAA904
+
+@SUOMI = Sydämen sisäinen defibrillaatio
+
+@RUOTSI = Öppen defibrillation av hjärtat
+
+@END = 
+
+@KOODI = WX930 
+
+@NCSP = WAA930
+
+@SUOMI = Hoidollinen alilämmön aiheuttaminen
+
+@RUOTSI = Terapeutisk hypotermi
+
+@END = 
+
+@KOODI = WX940 
+
+@NCSP = WAA940
+
+@SUOMI = Alilämpöisen potilaan lämmitys sydän-keuhkokoneen avulla
+
+@RUOTSI = Uppvärmning av hypotermisk patient med lung-hjärta maskin
+
+@END = 
+
+@KOODI = WX949 
+
+@NCSP = WAA949
+
+@SUOMI = Alilämpöisen potilaan lämmitys muilla menetelmillä
+
+@RUOTSI = Uppvärmning av hypotermisk patient med andra metoder
+
+@END = 
+
+@KOODI_R = WA
+
+@SUOMI_R = Systeeminen sädehoito
+
+@RUOTSI_R = Systemisk strålbehandling
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Tekniken av strålbehandlingen kan anges med tilläggskod, se ZX0
+
+@END = 
+
+@KOODI = WA010 
+
+@NCSP = WBO010
+
+@SUOMI = Kokokehon sädehoito  muun syöpähoidon tukihoitona
+
+@RUOTSI = Strålbehandling av hela kroppen som tillägg för annan cancerbehandling
+
+@END = 
+
+@KOODI = WA019 
+
+@NCSP = WBO019
+
+@SUOMI = Muu kokokehon sädehoito
+
+@RUOTSI = Strålbehandling av hela kroppen för andra indikationer
+
+@END = 
+
+@KOODI = WA029 
+
+@NCSP = WBO029
+
+@SUOMI = Puolikehon sädehoito
+
+@RUOTSI = Strålbehandling av halva kroppen
+
+@END = 
+
+@KOODI = WA039 
+
+@NCSP = WBO039
+
+@SUOMI = Sädehoito vapailla isotoopeilla
+
+@RUOTSI = Stråbehanlding med fria isotoper
+
+@END = 
+
+@KOODI = WA099 
+
+@NCSP = WBO099
+
+@SUOMI = Muu laaja-alainen sädehoito
+
+@RUOTSI = Annan utvigd strålbehandling
+
+@END = 
+
+@KOODI_R = WB
+
+@SUOMI_R = Paikallisen primaarikasvaimen lääkehoito
+
+@RUOTSI_R = Behandling av lokal primärtumör med läkemedel
+
+@NOTE_RF = Paikallisen kasvaimen hoito yhdistettynä metastaasin hoitoon koodataan tavallisesti metastaasin hoidon mukaisesti, katso WC tai WD
+
+@NOTE_RF =
+Paikallisen lymfooman hoito, katso WD
+
+@NOTE_RF =
+Lääkehoidon reitti ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX1
+
+@NOTE_RF =
+Yksinkertainen hoito ja monisytostaattihoito voidaan tavallisesti toteuttaa polikliinisesti.
+
+@NOTE_RF =
+Vaativaa hoitoa ei voida edes komplisoitumattomissa tilanteissa toteuttaa polikliinisesti.
+
+@NOTE_RF =
+Erittäin vaativa hoito edellyttää erityistoimenpiteitä kuten luuydinsiirto (WW300) tai kantasolusiirto (WW310) tai potilaan jatkuvaa monitorointia.
+
+@END = 
+
+@KOODI = WB101 
+
+@NCSP = WCO101
+
+@SUOMI = Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä sytostaattihoito
+
+@RUOTSI = Enkel neoadjuvant sytostatbehandling av primärtumör
+
+@NOTE_F = Ns. neoadjuvanttihoito
+
+@END = 
+
+@KOODI = WB103 
+
+@NCSP = WCO103
+
+@SUOMI = Primaarikasvaimen yksinkertainen sytostaattihoito liitännäishoitona
+
+@RUOTSI = Enkel adjuvant sytostatbehandling av primärtumör
+
+@NOTE_F = Ns. adjuvanttihoito
+
+@END = 
+
+@KOODI = WB111 
+
+@NCSP = WCO111
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monisytostaattihoito
+
+@RUOTSI = Multippel neoadjuvant behandling av primärtumör
+
+@END = 
+
+@KOODI = WB113 
+
+@NCSP = WCO113
+
+@SUOMI = Primaarikasvaimen monisytostaattihoito liitännäishoitona
+
+@RUOTSI = Multippel adjuvant sytostatbehandling av primärtumör
+
+@END = 
+
+@KOODI = WB121 
+
+@NCSP = WCO121
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa sytostaattihoito
+
+@RUOTSI = Krävande neoadjuvant sytostatbehandling av primärtumör
+
+@END = 
+
+@KOODI = WB123 
+
+@NCSP = WCO123
+
+@SUOMI = Primaarikasvaimen vaativa sytostaattihoito liitännäishoitona
+
+@RUOTSI = Krävande adjuvant sytostatbehandling av primärtumör
+
+@END = 
+
+@KOODI = WB131 
+
+@NCSP = WCO131
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä erittäin vaativa sytostaattihoito
+
+@RUOTSI = Mycket krävande adjuvant sytostatbehandling av primärtumör
+
+@END = 
+
+@KOODI = WB133 
+
+@NCSP = WCO133
+
+@SUOMI = Primaarikasvaimen erittäin vaativa sytostaattihoito liitännäishoitona
+
+@RUOTSI = Mycket krävande adjuvant sytostatbehandling av primärtumör
+
+@END = 
+
+@KOODI = WB201 
+
+@NCSP = WCO201
+
+@SUOMI = Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hormonihoito
+
+@RUOTSI = Enkel neoadjuvant behandling av primärtumör med hormoner
+
+@END = 
+
+@KOODI = WB203 
+
+@NCSP = WCO203
+
+@SUOMI = Primaarikasvaimen yksinkertainen hormonihoito liitännäishoitona
+
+@RUOTSI = Enkel adjuvant behandling av primärtumör med hormoner
+
+@END = 
+
+@KOODI = WB211 
+
+@NCSP = WCO211
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monihormonihoito
+
+@RUOTSI = Multippel neoadjuvant behandling av primärtumör med hormoner
+
+@END = 
+
+@KOODI = WB213 
+
+@NCSP = WCO213
+
+@SUOMI = Primaarikasvaimen monihormonihoito liitännäishoitona
+
+@RUOTSI = Multippel adjuvant behandling av primärtumör med hormoner
+
+@END = 
+
+@KOODI = WB221 
+
+@NCSP = WCO221
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa hormonihoito
+
+@RUOTSI = Krävande neoadjuvant behandling av primärtumör med hormoner
+
+@END = 
+
+@KOODI = WB223 
+
+@NCSP = WCO223
+
+@SUOMI = Primaarikasvaimen vaativa hormonihoito liitännäishoitona
+
+@RUOTSI = Krävande adjuvant behandling av primärtumör med hormoner
+
+@END = 
+
+@KOODI = WB301 
+
+@NCSP = WCO301
+
+@SUOMI = Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hoito biovasteenmuuntajilla
+
+@RUOTSI = Enkel neoadjuvant behandling av primärtumör med biomodifierande medel
+
+@END = 
+
+@KOODI = WB303 
+
+@NCSP = WCO303
+
+@SUOMI = Primaarikasvaimen yksinkertainen hoito biovasteenmuuntajilla liitännäishoitona
+
+@RUOTSI = Enkel adjuvant behandling av primärtumör med biomodifierande medel
+
+@END = 
+
+@KOODI = WB311 
+
+@NCSP = WCO311
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monihoito biovasteenmuuntajilla
+
+@RUOTSI = Multippel neoadjuvant behandling av primärtumör med biomodifierande medel
+
+@END = 
+
+@KOODI = WB313 
+
+@NCSP = WCO313
+
+@SUOMI = Primaarikasvaimen monihoito biovasteenmuuntajilla liitännäishoitona
+
+@RUOTSI = Multippel adjuvant behandling av primärtumör med biomodifierande medel
+
+@END = 
+
+@KOODI = WB321 
+
+@NCSP = WCO321
+
+@SUOMI = Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa hoito biovasteenmuuntajilla
+
+@RUOTSI = Krävande neoadjuvant behandling av primärtumör med biomodifierande medel
+
+@END = 
+
+@KOODI = WB323 
+
+@NCSP = WCO323
+
+@SUOMI = Primaarikasvaimen vaativa hoito biovasteenmuuntajilla liitännäishoitona
+
+@RUOTSI = Krävande neoadjuvant behandling av primärtumör med biomodifierande medel
+
+@END = 
+
+@KOODI_R = WC
+
+@SUOMI_R = Paikallisesti uusiutuneen kasvaimen tai yksittäisten metastaasien lääkehoito
+
+@RUOTSI_R = Behandling av recidivtumör eller enskilda metastaser med läkemedel
+
+@NOTE_RF = Paikallinen uusitunut kasvain sisältää sekä paikallisesti uusiutuneen kasvaimen että yksittäiset metastaasit. Primaarikasvaimen hoito yhdessä yksittäisten metastaasien kanssa koodataan tähän ryhmään.
+
+@NOTE_RF =
+Lääkehoidon reitti ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX1
+
+@NOTE_RF =
+Yksinkertainen hoito ja monisytostaattihoito voidaan tavallisesti toteuttaa polikliinisesti.
+
+@NOTE_RF =
+Vaativaa hoitoa ei voida edes komplisoitumattomissa tilanteissa toteuttaa polikliinisesti.
+
+@NOTE_RF =
+Erittäin vaativa hoito edellyttää erityistoimenpiteitä kuten luuydinsiirto (WW300) tai kantasolusiirto (WW310) tai potilaan jatkuvaa monitorointia.
+
+@END = 
+
+@KOODI = WC101 
+
+@NCSP = WDO101
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä sytostaattihoito
+
+@RUOTSI = Enkel neoadjuvant sytostatbehandling av lokal tumörresidiv
+
+@NOTE_F = Ns. neoadjuvanttihoito
+
+@END = 
+
+@KOODI = WC105 
+
+@NCSP = WDO105
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen sytostaattihoito
+
+@RUOTSI = Enkel sytostatbehandling av lokal tumörresidiv
+
+@NOTE_F = Radikaali tai konsolidaatiohoito
+
+@END = 
+
+@KOODI = WC111 
+
+@NCSP = WDO111
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä monisytostaattihoito
+
+@RUOTSI = Multippel neoadjuvant sytostatbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC115 
+
+@NCSP = WDO115
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen tavanomainen monisytostaattihoito
+
+@RUOTSI = Multippel sytostatbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC121 
+
+@NCSP = WDO121
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä vaativa sytostaattihoito
+
+@RUOTSI = Krävande neoadjuvant sytostatbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC125 
+
+@NCSP = WDO125
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = Krävande sytostatbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC131 
+
+@NCSP = WDO131
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä erittäin vaativa sytostaattihoito
+
+@RUOTSI = Mycket krävande neoadjuvant sytostatbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC135 
+
+@NCSP = WDO135
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen erittäin vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = Mycket krävande sytostatbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC201 
+
+@NCSP = WDO201
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hormonihoito
+
+@RUOTSI = Enkel neoadjuvant hormonbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC205 
+
+@NCSP = WDO205
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen hormonihoito
+
+@RUOTSI = Enkel  hormonbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC211 
+
+@NCSP = WDO211
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä monihormonihoito
+
+@RUOTSI = Multippel neoadjuvant hormonbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC215 
+
+@NCSP = WDO215
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen tavanomainen monihormonihoito
+
+@RUOTSI = Multippel hormonbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC221 
+
+@NCSP = WDO221
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä vaativa hormonihoito
+
+@RUOTSI = Krävande neoadjuvant hormonbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC225 
+
+@NCSP = WDO225
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hormonihoito
+
+@RUOTSI = Krävande hormonbehandling av lokal tumörresidiv
+
+@END = 
+
+@KOODI = WC301 
+
+@NCSP = WDO301
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hoito biovasteenmuuntajilla
+
+@RUOTSI = Enkel neoadjuvant behandling av lokal tumörresidiv medi biomoidifierande medel
+
+@END = 
+
+@KOODI = WC305 
+
+@NCSP = WDO305
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = Enkel behandling av lokal tumörresidiv medi biomoidifierande medel
+
+@END = 
+
+@KOODI = WC311 
+
+@NCSP = WDO311
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä monihoito biovasteenmuuntajilla
+
+@RUOTSI = Multippel neoadjuvant behandling av lokal tumörresidiv medi biomoidifierande medel
+
+@END = 
+
+@KOODI = WC315 
+
+@NCSP = WDO315
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen tavanomainen monihoito biovasteenmuuntajilla
+
+@RUOTSI = Multippel behandling av lokal tumörresidiv medi biomoidifierande medel
+
+@END = 
+
+@KOODI = WC321 
+
+@NCSP = WDO321
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä vaativa hoito biovasteenmuuntajilla
+
+@RUOTSI = Krävande neoadjuvant behandling av lokal tumörresidiv medi biomoidifierande medel
+
+@END = 
+
+@KOODI = WC325 
+
+@NCSP = WDO325
+
+@SUOMI = Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = Krävande behandling av lokal tumörresidiv medi biomoidifierande medel
+
+@END = 
+
+@KOODI_R = WD
+
+@SUOMI_R = Laajalle levinneen kasvaintaudin lääkehoito
+
+@RUOTSI_R = Behandling av utspridd tumörsjukdom med läkemedel
+
+@NOTE_RF = Sisältää leukemian ja lymfoman lääkehoidon
+
+@NOTE_RF =
+Lääkehoidon reitti ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX1
+
+@NOTE_RF =
+Yksinkertainen hoito ja monisytostaattihoito voidaan tavallisesti toteuttaa polikliinisesti.
+
+@NOTE_RF =
+Vaativaa hoitoa ei voida edes komplisoitumattomissa tilanteissa toteuttaa polikliinisesti.
+
+@NOTE_RF =
+Erittäin vaativa hoito edellyttää erityistoimenpiteitä kuten luuydinsiirto (WW300) tai kantasolusiirto (WW310) tai potilaan jatkuvaa monitorointia.
+
+@END = 
+
+@KOODI = WD105 
+
+@NCSP = WEO105
+
+@SUOMI = Laajalle levinneen kasvaimen yksinkertainen tavanomainen sytostaattihoito
+
+@RUOTSI = Enkel sytostatbehandling av metastaserad tumör
+
+@NOTE_F = Tavanomainen hoito sisältää ns. adjuvanttihoidon, radikaalin hoidon ja konsolidaatiohoidon
+
+@NOTE_S = Enkel sytostatikabehandling innefattar adjuvantbehandling, radikal behandling och konsolidationsbehandling
+
+@END = 
+
+@KOODI = WD115 
+
+@NCSP = WEO115
+
+@SUOMI = Laajalle levinneen kasvaimen tavanomainen monisytostaattihoito
+
+@RUOTSI = Multippel sytostatbehandling av metastaserad tumör
+
+@END = 
+
+@KOODI = WD125 
+
+@NCSP = WEO125
+
+@SUOMI = Laajalle levinneen kasvaimen vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = Krävande sytostatbehandling av metastaserad tumör
+
+@END = 
+
+@KOODI = WD135 
+
+@NCSP = WEO135
+
+@SUOMI = Laajalle levinneen kasvaimen erittäin vaativa tavanomainen sytostaattihoito
+
+@RUOTSI = Mycket krävande sytostatbehandling av metastaserad tumör
+
+@END = 
+
+@KOODI = WD205 
+
+@NCSP = WEO205
+
+@SUOMI = Laajalle levinneen kasvaimen yksinkertainen tavanomainen hormonihoito
+
+@RUOTSI = Enkel hormonbehandling av metastaserad tumör
+
+@END = 
+
+@KOODI = WD215 
+
+@NCSP = WEO215
+
+@SUOMI = Laajalle levinneen kasvaimen tavanomainen monihormonihoito
+
+@RUOTSI = Hormonbehandling av metastaserad tumör
+
+@END = 
+
+@KOODI = WD225 
+
+@NCSP = WEO225
+
+@SUOMI = Laajalle levinneen kasvaimen vaativa tavanomainen hormonihoito
+
+@RUOTSI = Krävande hormonbehandling av metastaserad tumör
+
+@END = 
+
+@KOODI = WD305 
+
+@NCSP = WEO305
+
+@SUOMI = Laajalle levinneen kasvaimen yksinkertainen tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = Enkel behandling av metastaserad tumör med bioimodifierande medel
+
+@END = 
+
+@KOODI = WD315 
+
+@NCSP = WEO315
+
+@SUOMI = Laajalle levinneen kasvaimen tavanomainen monihoito biovasteenmuuntajilla
+
+@RUOTSI = Multippel behandling av metastaserad tumör med bioimodifierande medel
+
+@END = 
+
+@KOODI = WD325 
+
+@NCSP = WEO325
+
+@SUOMI = Laajalle levinneen kasvaimen vaativa tavanomainen hoito biovasteenmuuntajilla
+
+@RUOTSI = Krävande behandling av metastaserad tumör med bioimodifierande medel
+
+@END = 
+
+@KOODI_R = WE
+
+@SUOMI_R = Profylaktinen kasvaintaudin lääkehoito
+
+@RUOTSI_R = Profylaktisk behandling av tumörsjukdom med läkemedel
+
+@END = 
+
+@KOODI = WE100 
+
+@NCSP = WFO100
+
+@SUOMI = Profylaktinen sytostaattihoito
+
+@RUOTSI = Profylaktisk cytostatbehandling
+
+@END = 
+
+@KOODI = WE198 
+
+@NCSP = WFO198
+
+@SUOMI = Palliatiivinen sytostaattihoito
+
+@RUOTSI = Palliativ cytostatbehandling
+
+@END = 
+
+@KOODI = WE200 
+
+@NCSP = WFO200
+
+@SUOMI = Profylaktinen hormonihoito
+
+@RUOTSI = Prolylaktisk hormonbehandling
+
+@END = 
+
+@KOODI = WE298 
+
+@NCSP = WFO298
+
+@SUOMI = Palliatiivinen hormonihoito
+
+@RUOTSI = Palliativ hormonbehandling
+
+@END = 
+
+@KOODI = WE300 
+
+@NCSP = WFO300
+
+@SUOMI = Profylaktinen hoito biovasteenmuuntajilla
+
+@RUOTSI = Profylaktisk behandling med biomodifierande medel
+
+@END = 
+
+@KOODI = WE398 
+
+@NCSP = WFO398
+
+@SUOMI = Palliatiivinen hoito biovasteenmuuntajilla
+
+@RUOTSI = Palliativ behandling biomodifierande medel
+
+@END = 
+
+@KOODI_R = W_
+
+@SUOMI_R = Hematologia ja immunologia
+
+@RUOTSI_R = Hematologi och immunologi
+
+@ENGL_R = Hematology and immunology
+
+@END = 
+
+@KOODI_A = ___
+
+@NCSP_A = WGF
+
+@SUOMI_A = Hematologiset diagnostiset toimenpiteet
+
+@RUOTSI_A = Hematologiska diagnostiska åtgärder
+
+@ENGL_A = Hematologic diangostic procedures
+
+@END = 
+
+@KOODI = XW000 
+
+@NCSP = WGF000
+
+@SUOMI = Luuydinnäytteenotto
+
+@RUOTSI = Benmärgsprovtagning
+
+@NOTE_F = Sisältää luuydinbiopsian ja luuydinaspiraation
+
+@NOTE_S = Inkl. sternalpunktion
+
+@END = 
+
+@KOODI_A = WW_
+
+@NCSP_A = WGO
+
+@SUOMI_A = Kantasolusiirrot
+
+@RUOTSI_A = Transplantioner av stammceller
+
+@NOTE_RF = Sisältää sekä luuytimestä että muualta kerättyjen kantasolujen siirrot
+
+@NOTE_RF =
+Siirrettävän materiaalin kerääminen, katso YNB
+
+@NOTE_RS = Innefatta transplantation av stammceller både från benmärg och från andra lokalisationer
+
+@NOTE_RS =
+Uttagning av material för transplantation, se YNB
+
+@END = 
+
+@KOODI = WW300 
+
+@NCSP = WGO300
+
+@SUOMI = Autologinen kantasolusiirto
+
+@RUOTSI = Autologisk transplantation av stammceller
+
+@END = 
+
+@KOODI = WW302 
+
+@NCSP = WGO302
+
+@SUOMI = Kantasolusiirto vierailla soluilla, omaisluovuttaja
+
+@RUOTSI = Transplantation med främmande stammceller från släkten
+
+@END = 
+
+@KOODI = WW304 
+
+@NCSP = WGO304
+
+@SUOMI = Kantasolusiirto vierailla soluilla, kotimainen rekisteriluovuttaja
+
+@RUOTSI = Transplantation av stammceller från inhemsk registrerad donator
+
+@END = 
+
+@KOODI = WW306 
+
+@NCSP = WGO306
+
+@SUOMI = Kantasolusiirto vierailla soluilla, ulkomainen rekisteriluovuttaja
+
+@RUOTSI = Transplantation av stammceller från utländsk registrerad donator
+
+@END = 
+
+@KOODI = WW310 
+
+@NCSP = WGO310
+
+@SUOMI = Kantasolusiirto napaveren soluilla
+
+@RUOTSI = Transplantation av stammceller från navelsträngsblod
+
+@END = 
+
+@KOODI_A = WW_
+
+@NCSP_A = WGX
+
+@SUOMI_A = Muut immunologiset jat hematologiset toimenpiteet
+
+@RUOTSI_A = Andra immunlogiska och hematologiska åtgärder
+
+@ENGL_A = Other immunological and hematological procedures
+
+@END = 
+
+@KOODI = WW200 
+
+@NCSP = WGX200
+
+@SUOMI = Rokotus
+
+@RUOTSI = Vaccination
+
+@END = 
+
+@KOODI = WQ000 
+
+@NCSP = WGX210
+
+@SUOMI = Siedätyshoito
+
+@RUOTSI = Hyposensibilering
+
+@END = 
+
+@KOODI = WW400 
+
+@NCSP = WGX400
+
+@SUOMI = Plasmafereesi
+
+@RUOTSI = Plasmaferes
+
+@END = 
+
+@KOODI = WW402 
+
+@NCSP = WGX402
+
+@SUOMI = Leukafereesi
+
+@RUOTSI = Leukaferes
+
+@END = 
+
+@KOODI = WW409 
+
+@NCSP = WGX409
+
+@SUOMI = Muu afereesi
+
+@RUOTSI = Annan aferes
+
+@END = 
+
+@KOODI = WW500 
+
+@NCSP = WGX500
+
+@SUOMI = Verensiirto
+
+@RUOTSI = Blodtransfusion
+
+@END = 
+
+@KOODI = WW502 
+
+@NCSP = WGX502
+
+@SUOMI = Potilaan oman veren talteenotto ja palauttaminen
+
+@RUOTSI = Autotransfusion
+
+@END = 
+
+@KOODI_R = W0
+
+@SUOMI_R = Psykososiaaliset toimenpiteet
+
+@RUOTSI_R = Psykososiala åtgärder
+
+@END = 
+
+@KOODI = W0A00 
+
+@NCSP = WRRA00
+
+@SUOMI = Sosiaalisen toimintakyvyn arviointi lausuntoineen
+
+@RUOTSI = Beskattning av sosial funktionsförmåga med utlåtande
+
+@NOTE_F = Esim. vanhuksen laitossijoitusta arvioitassa tai tilanteissa, joissa päädytään C-lausunnon kirjoittamiseen
+
+@NOTE_S = T.ex. för uppskattning av behov till permanent långvårdsplacering och för att ge C-intyg
+
+@END = 
+
+@KOODI = W0A10 
+
+@NCSP = WRRA10
+
+@SUOMI = Psykososiaalisen tilanteen laaja kartoitus
+
+@RUOTSI = Utvidgad kartlägning av psykososiala situationen
+
+@NOTE_F = Esim. harkittaessa MT1 lausunnon antamista
+
+@NOTE_S = T.ex för at ge MT1 utlåtande
+
+@END = 
+
+@KOODI = W0A12 
+
+@NCSP = WRRA12
+
+@SUOMI = Psykiatrisen tilan suunnitellut terapiakäynnit
+
+@RUOTSI = Planerad fårdbesök för psykiatrisk problem
+
+@NOTE_F = Esim. perheterapia
+
+@NOTE_F =
+Käyntejä, jotka on etukäteen sovittu potilaan kanssa koskemaan tiettyä tavotteellista hoitoa tai hoidon suunnittelua
+
+@END = 
+
+@KOODI = WZA00 
+
+@NCSP = WRRB00
+
+@SUOMI = Suppea todistus
+
+@RUOTSI = Begränsat intyg
+
+@NOTE_F = A-todistus tai vastaava
+
+@NOTE_S = A-intyg eller motsvarande
+
+@END = 
+
+@KOODI = WZA10 
+
+@NCSP = WRRB10
+
+@SUOMI = Laaja todistus
+
+@RUOTSI = Lång intyg
+
+@NOTE_F = B- tai C-todistus tai vastaava
+
+@NOTE_S = B- eller C- intyg eller motsvarande
+
+@END = 
+
+@KOODI = WZA90 
+
+@NCSP = WRRB90
+
+@SUOMI = Muu lääkärin tai hammaslääkärin todistus
+
+@RUOTSI = Annat läkar- eller tandläkarintyg
+
+@END = 
+
+@KOODI = WZB00 
+
+@NCSP = WRRC00
+
+@SUOMI = Puhelimitse annettu hoito-ohje ja mahdollinen resepti
+
+@RUOTSI = Vårddirektiv och ev. recept givna per telefon
+
+@NOTE_F = Vastaanotolla hoidon yhteydessä annettu resepti myöskin puhelimitse toimitettuna sisältyy  käynnin toimenpiteisiin
+
+@NOTE_S = Vid besök på mottagningen ingår recept i åtgärdskoden också om receptet ges per telefon
+
+@END = 
+
+@KOODI = WZC00 
+
+@NCSP = WRRD00
+
+@SUOMI = Hoidon suunnittelu tai konsultaatio
+
+@RUOTSI = Vårdplanering eller konsultation
+
+@END = 
+
+@KOODI = WZC10 
+
+@NCSP = WRRD10
+
+@SUOMI = Laaja erikoisalakohtainen kirjallinen konsultaatio
+
+@RUOTSI = Omfattande skriftlig specialist konsultation
+
+@NOTE_F = Vastaa vaativuudeltaan ja laajuudeltaan esim. suun erityistutkimusta
+
+@NOTE_F =
+voi sisältää useita erikoisalakohtaisia konsultaatioita
+
+@NOTE_S = Motsvarar t.ex. åtgärden av specialundersökning av munnen
+
+@NOTE_S =
+kan innehålla konsultation av specialister från flera områden
+
+@END = 
+
+@KOODI = W0X00 
+
+@NCSP = WRRX00
+
+@SUOMI = Arvio jatkuvan lääkityksen tarpeesta lausuntoineen
+
+@RUOTSI = Uppskattning av behov för kontinuerlig medicin med utlåtande
+
+@NOTE_F = Esim. kirjoittettaessa lausuntoa kokonaan tai osittain korvattavia lääkkeitä
+
+@END = 
+
+@KOODI_R = __
+
+@SUOMI_R = Vartalo
+
+@RUOTSI_R = Kropp
+
+@ENGL_R = Total body
+
+@END = 
+
+@KOODI_A = ___
+
+@NCSP_A = WXD
+
+@SUOMI_A = Vartalon radiologia
+
+@RUOTSI_A = 
+
+@ENGL_A = Body diagnostic radiology
+
+@END = 
+
+@KOODI = JN4AD 
+
+@NCSP = WXDD4A
+
+@SUOMI = Vartalon TT
+
+@RUOTSI = Kropp,  DT
+
+@NOTE_F = Levinneisyystutkimus
+
+@NOTE_S = Spridingsundersökning
+
+@END = 
+
+@KOODI = JN4BD 
+
+@NCSP = WXDD4A
+
+@SUOMI = Vartalon laaja TT
+
+@RUOTSI = Kropp,  omfattande DT
+
+@END = 
+
+@KOODI = JN4CD 
+
+@NCSP = WXDD4A
+
+@SUOMI = Vartalon erittäin laaja TT
+
+@RUOTSI = Kropp,  mycket omfattande DT
+
+@END = 
+
+@KOODI_R = WY
+
+@SUOMI_R = Käyntityypit
+
+@RUOTSI_R = Besökstyper
+
+@END = 
+
+@KOODI_A = W__
+
+@NCSP_A = WYX
+
+@SUOMI_A = Kuljetus
+
+@RUOTSI_A = Transport
+
+@ENGL_A = Tansport
+
+@END = 
+
+@KOODI = WW800 
+
+@NCSP = WYX800
+
+@SUOMI = Siirto toiseen sairaalaan, 1 saattaja
+
+@RUOTSI = Remittering till annat sjukhus, 1 följeslagare
+
+@END = 
+
+@KOODI = WW802 
+
+@NCSP = WYX802
+
+@SUOMI = Siirto toiseen sairaalaan, 2 tai useampia saattajia
+
+@RUOTSI = Remittering till annat sjukhus, 2 eller flera följeslagare
+
+@END = 
+
+@KOODI_A = W__
+
+@NCSP_A = WYZ
+
+@SUOMI_A = Hoitomuoto
+
+@RUOTSI_A = Vårdform
+
+@ENGL_A = Mode of care
+
+@END = 
+
+@KOODI = WYA00 
+
+@NCSP = WYZA00
+
+@SUOMI = Seulonta tai terveystarkastus
+
+@RUOTSI = Screening eller hälsokontroll
+
+@END = 
+
+@KOODI = WYA10 
+
+@NCSP = WYZA10
+
+@SUOMI = Ensiapuluontoinen tai muu vastaava käynti
+
+@RUOTSI = Första hjälpsbesök eller motsvarande
+
+@NOTE_F = Käynnillä ei tehdä muita toimenpiteitä
+
+@NOTE_S = Inga andra åtgärder görs under detta besök
+
+@END = 
+
+@KOODI = WYA20 
+
+@NCSP = WYZA20
+
+@SUOMI = Käynti potilaan luona
+
+@RUOTSI = Besök hos patienten
+
+@END = 
+
+@KOODI = WYA30 
+
+@NCSP = WYZA30
+
+@SUOMI = Vaikeahoitoisen potilaan valmistelu toimenpidettä varten
+
+@RUOTSI = Förberedelse av svårbehandlad patient
+
+@NOTE_F = Pelkäävä, liikuntavammainen  jne.
+
+@NOTE_S = Rädd, rörelsehindrad el.dyl.
+
+@END = 

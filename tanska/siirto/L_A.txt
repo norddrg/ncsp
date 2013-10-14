@@ -1,0 +1,3506 @@
+
+###
+#KOODI_L    A
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hermosto
+#RUOTSI     Nervsystemet
+#ENGL       Nervous system
+###
+#KOODI_R    AA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kallo ja kallon sisäiset elimet
+#RUOTSI     Kranium och intrakraniala strukturer
+#ENGL       Skull and intracranial structures
+#OHJE_S  
+Sisältää aivolisäkkeen ja käpyrauhasen
+#OHJE_R 
+Inkluderar åtgärder på hypofysen och tallkottkörteln
+###
+#KOODI      AA001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i hjärnan eller dess delar
+#LYHENNE    Sädeh aivo/pikkuaivo prim. kasv. preop
+###
+#KOODI      AA002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i hjärnan eller dess delar
+#LYHENNE    Radik.sädeh aivo/pikkuaivo prim. kasv.
+###
+#KOODI      AA003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i hjärnan eller dess delar
+#LYHENNE    Sädeh aivo/pikkuaivo prim. kasv. liit.ho
+###
+#KOODI      AA004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito aivojen ja  pikkuaivojen tai niiden osien  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i hjärnan eller dess delar
+#LYHENNE    Sädeh aivo/pikkuaivo prim. kasv. palliat
+###
+#KOODI      AA029 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen ja pikkuaivojen tai niiden osien paikallisesti uusineen kasvaimen sädehoito
+#RUOTSI     Strålbehandling av lokalt recidivtumör i hjärnan eller dess delar
+#LYHENNE    Aivo/pikkuaivo paik.uus. kasv. sädeh
+###
+#KOODI      AA049 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivoissa, pikkuaivoissa tai niiden osissa ilmenneen etäpesäkkeen sädehoito
+#RUOTSI     Strålbehandling av metastas i hjärnan eller dess delar
+#LYHENNE    Aivo/pikkuaivo metast.sädeh
+###
+#KOODI      AA090 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen ja  pikkuaivojen tai niiden osien profylaktinen sädehoito
+#RUOTSI     Profylaktisk strålbehandling av  hjärnan och dess delar
+#LYHENNE    Aivo/pikkuaivo profyl. sädehoito
+###
+#KOODI      AA099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu aivojen ja  pikkuaivojen tai niiden osien sädehoito
+#RUOTSI     Annan strålbehandling av  hjärnan och dess delar
+#LYHENNE    Muu aivo/pikkuaivo sädehoito
+###
+#KOODI      AA1AA 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5161      
+#SUOMI      Kallon natiiviröntgen
+#RUOTSI     Skalle, röntgen
+#LYHENNE    Kallon rtg
+###
+#KOODI      AA1AD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5851      
+#SUOMI      Pään TT
+#RUOTSI     Skalle och hjärna, DT
+#LYHENNE    Pään TT
+###
+#KOODI      AA1AF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään suppea magneettitutkimus keskikenttälaitteella
+#RUOTSI     Skalle och hjärna, begränsad MR med mellanfältsmagnet
+#LYHENNE    Pään suppea KKMT
+#OHJE_S  
+Esim. sunttilaitteen kontrollitutkimus
+#OHJE_R 
+T.ex. eftergranskning av shunt
+###
+#KOODI      AA1AG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään suppea magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Skalle och hjärna, begränsad MR med högfältsmagnet
+#LYHENNE    Pään suppea VKMT
+###
+#KOODI      AA1BA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5161      
+#SUOMI      Kallon laaja natiiviröntgen
+#RUOTSI     Skalle, omfattande röntgen
+#LYHENNE    Kallon rtg, laaja
+###
+#KOODI      AA1BD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5852      
+#SUOMI      Pään laaja TT
+#RUOTSI     Skalle och hjärna, omfattande DT
+#LYHENNE    Pään laaja TT
+###
+#KOODI      AA1BF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8101      
+#SUOMI      Pään magneettitutkimus keskikenttälaitteella
+#RUOTSI     Skalle och hjärna, MR med mellanfältsmagnet
+#LYHENNE    Pään KKMT
+###
+#KOODI      AA1BG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Pään magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Skalle och hjärna, MR med högfältsmagnet
+#LYHENNE    Pään VKMT
+###
+#KOODI      AA1CD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5853      
+#SUOMI      Pään erittäin laaja TT
+#RUOTSI     Skalle och hjärna, mycket omfattande DT
+#LYHENNE    Pään erittäin laaja TT
+###
+#KOODI      AA1CF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8102      
+#SUOMI      Pään laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Skalle och hjärna, omfattande MR med mellanfältsmagnet
+#LYHENNE    Pään l.KKMT
+###
+#KOODI      AA1CG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8202      
+#SUOMI      Pään laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Skalle och hjärna, omfattande MR med högfältsmagnet
+#LYHENNE    Pään l.VKMT
+###
+#KOODI      AA1DF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8103      
+#SUOMI      Pään erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Skalle och hjärna, mycket omfattande MR med mellanfältsmagnet
+#LYHENNE    Pään er.l.KKMT
+###
+#KOODI      AA1DG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8203      
+#SUOMI      Pään erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Skalle och hjärna, mycket omfattande MR med högfältsmagnet
+#LYHENNE    Pään er.l.VKMT
+###
+#KOODI      AA1XD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA      5854      
+#SUOMI      Pään muu TT
+#RUOTSI     Hjärna, annan DT
+#LYHENNE    Pään muu TT
+###
+#KOODI      AA2AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5162      
+#SUOMI      Kallonpohjan natiiviröntgen *
+#RUOTSI     Skallbas, röntgen *
+#LYHENNE    Kallonpohjan rtg
+###
+#KOODI      AA3AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5163      
+#SUOMI      Kasvonluiden natiiviröntgen *
+#RUOTSI     Ansiktsskelett, röntgen *
+#LYHENNE    Kasvonluiden rtg
+###
+#KOODI      AA400 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sähköshokki psyykisen sairauden hoitona
+#RUOTSI     Elektrokonvulsiv terapi (ECT)
+#LYHENNE    Sähköshokki psyykisen sairauden hoitona
+###
+#KOODI      AA4AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5164      
+#SUOMI      Sellan natiiviröntgen *
+#RUOTSI     Sella turcica, röntgen *
+#LYHENNE    Sellan rtg
+###
+#KOODI      AA4AD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5855      
+#SUOMI      Sellan TT
+#RUOTSI     Sella, DT
+#LYHENNE    Sellan TT
+###
+#KOODI      AA4BD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5856      
+#SUOMI      Sellan laaja TT
+#RUOTSI     Sella, omfattande DT
+#LYHENNE    Sellan laaja TT
+###
+#KOODI      AA4BF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8104      
+#SUOMI      Sellan magneettitutkimus keskikenttälaitteella
+#RUOTSI     Sella, MR med mellanfältsmagnet
+#LYHENNE    Sellan KKMT
+###
+#KOODI      AA4BG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8204      
+#SUOMI      Sellan magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Sella, MR med högfältsmagnet
+#LYHENNE    Sellan VKMT
+###
+#KOODI      AA4CD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5857      
+#SUOMI      Sellan erittäin laaja TT
+#RUOTSI     Sella, mycket omfattande DT
+#LYHENNE    Sellan erittäin laaja TT
+###
+#KOODI      AA4CF 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sellan laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Sella, omfattande MR med mellanfältsmagnet
+#LYHENNE    Sellan laaja magneettitutkimus keskikent
+###
+#KOODI      AA4CG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sellan laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Sella, omfattande MR med högfältsmagnet
+#LYHENNE    Sellan laaja magneettitutkimus vahvakent
+###
+#KOODI      AA4DF 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sellan erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Sella, mycket omfattande MR med mellanfältsmagnet
+#LYHENNE    Sellan er laaja magneettitutkimus keskik
+###
+#KOODI      AA4DG 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sellan erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Sella, mycket omfattande MR med högfältsmagnet
+#LYHENNE    Sellan er laaja magneettitutkimus vahvak
+###
+#KOODI      AA4WT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selektiivinen verinäytteen otto sinus petrosus inferiorista
+#RUOTSI     Selektivt blodprov från sinus petrosus
+#LYHENNE    Selekt.verinäyt.otto
+###
+#KOODI      AA4XD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#VANHA      5858      
+#SUOMI      Sellan muu TT
+#RUOTSI     DT av sella (övrig)
+#LYHENNE    Sellan muu TT
+###
+#KOODI      AA5AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6302      
+#SUOMI      Intrakraniaalitilan UÄ
+#RUOTSI     Inrakraniellt UL
+#LYHENNE    Aivojen UÄ
+###
+#KOODI      AA5AK 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8400      
+#SUOMI      Aivojen spektroskopia
+#RUOTSI     Spektroskopi av hjärnan
+#LYHENNE    Aivojen spektroskop.
+###
+#KOODI      AA5AL 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen magneettikenttämittaus (magnetoenkefalografia, MEG)
+#RUOTSI     Magnetencefalografi MEG
+#LYHENNE    Magnetoenkefalograf.
+###
+#KOODI      AA5BK 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen laaja spektroskopia
+#RUOTSI     Spektroskopi av hjärnan, omfattande
+#LYHENNE    Aivojen laaja spektroskopia
+###
+#KOODI      AA5FF 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen toiminnallinen magneettitutkimus keskikenttälaitteella
+#RUOTSI     Hjärna, funktionell MR med mellanfältsmagnet
+#LYHENNE    Aivojen toim magneettitutkimus keskikent
+###
+#KOODI      AA5FG 
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen toiminnallinen magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Hjärna, funktionell MR med högfältsmagnet
+#LYHENNE    Aivot, toiminta-VKMT
+###
+#KOODI      AA5GF 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen laaja toiminnallinen keskikenttä-MT
+#RUOTSI     Hjärna, omfattande funktionell MR med mellanfältsmagnet
+#LYHENNE    Aivojen laaja toim magneettitutk keskike
+###
+#KOODI      AA5GG 
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen laaja toiminnallinen magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Hjärna, omfattande funktionell MR med högfältsmagnet
+#LYHENNE    Aivot,l.toim. VKMT
+###
+#KOODI      AA5HE 
+#MUUT_PVM   2004/12/20
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6303      
+#SUOMI      Lapsen aivojen UÄ
+#RUOTSI     Barnhjärna, UL
+#LYHENNE    Lapsen aivojen UÄ
+###
+#KOODI      AA5HF 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen erittäin laaja toiminnallinen magneettitutkimus keskikenttälaitteella
+#RUOTSI     Hjärna, mycket omfattande funktionell MR med mellanfältsmagnet
+#LYHENNE    Aivojen er laaja toim magn.tutk keskiken
+###
+#KOODI      AA5HG 
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen erittäin laaja toiminnallinen magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Hjärna, mycket omfattande funktionell MR med högfältsmagnet
+#LYHENNE    Aivot,er.l.toim.VKMT
+###
+#KOODI      AA5PD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivojen perfuusio TT
+#RUOTSI     Hjärnperfusionsundersökning med DT
+#LYHENNE    Aivojen perfuusio TT
+###
+#KOODI      AA6AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5183      
+#SUOMI      Kallon saumojen natiiviröntgen *
+#RUOTSI     Skallens suturer, röntgen *
+#LYHENNE    Kallosauman rtg
+###
+#KOODI      AA6AD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5851      
+#SUOMI      Kallon luiden TT
+#RUOTSI     Skallben, DT
+#LYHENNE    Kallon luiden TT
+###
+#KOODI      AA6BD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallon luiden laaja TT
+#RUOTSI     Skallben, omfattande DT
+#LYHENNE    Kallon luiden laaja TT
+###
+#KOODI      AA6CD 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallon luiden erittäin laaja TT
+#RUOTSI     Skallben, mycket omfattande DT
+#LYHENNE    Kallon luiden erittäin laaja TT
+###
+#KOODI      AA7AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivonesteyhdystien ja laitteiston natiiviröntgen (sunttiröntgen)
+#RUOTSI     Likvorshunt, röntgen
+#LYHENNE    Suntin rtg
+###
+#KOODI      AA7EB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5831      
+#SUOMI      Aivokammiosuntin varjoainetutkimus (suntin valvulografia)
+#RUOTSI     Valvulografi (shuntundersökning)
+#LYHENNE    Valvulografia
+###
+#KOODI      AA8DD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#VANHA      5875      
+#SUOMI      Aivosisternojen TT röntgenpositiivisella varjoaineella
+#RUOTSI     DT-cisternografi med rtg-positiv kontrast
+#LYHENNE    Posit. TT-sisternogr
+###
+#KOODI      AA8ED 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2002/12/31
+#POISTETTU
+#VANHA      5876      
+#SUOMI      Aivosisternojen TT röntgennegatiivisella varjoaineella
+#RUOTSI     DT-cisternografi med rtg-negativ kontrast
+#LYHENNE    Negat. TT-sisternogr
+###
+#KOODI      AA9XE 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6309      
+#SUOMI      Keskushermoston muu UÄ
+#RUOTSI     Centrala nervsystemet, annan UL
+#LYHENNE    Keskusherm. muu UÄ
+###
+#KOODI      AAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2102      
+#SUOMI      Kallon aukaisu tutkimustarkoituksessa
+#RUOTSI     Explorativ kraniotomi
+#LYHENNE    Kallon aukaisu tutkimustarkoituksessa
+###
+#KOODI      AAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2112      
+#SUOMI      Koepalan otto poranreiän kautta aivoista
+#RUOTSI     Biopsi via borrhål
+#LYHENNE    Koepalan otto poranreiän kautta aivoista
+#OHJE_S  
+Stereotaktinen koepalan otto aivoista AAG 00
+#OHJE_R 
+Stereotaktisk hjärnbiopsi, se AAG00
+###
+#KOODI      AAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2124      
+#SUOMI      Aivokammion paineanturin asettaminen
+#RUOTSI     Applikation av tryckgivare i ventrikel
+#LYHENNE    Aivokammion paineanturin asettaminen
+#OHJE_S  
+Sisältää intraparenkyymianturin
+#OHJE_R 
+Inkluderar intraparenkymal tryckgivare
+###
+#KOODI      AAA25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2123      
+#SUOMI      Epiduraalitilan paineanturin asettaminen
+#RUOTSI     Applikation av epidural tryckgivare
+#LYHENNE    Epiduraalitilan paineanturin asettaminen
+###
+#KOODI      AAA27 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivokudoksen paineanturin asettaminen
+#RUOTSI     Applikation av intracerebral tryckgivare
+#LYHENNE    Aivokudoksen paineanturin asettaminen
+###
+#KOODI      AAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2172      
+#SUOMI      Elektrodien asettaminen epiduraalisesti
+#RUOTSI     Inläggande av epidurala elektroder
+#LYHENNE    Elektrodien asettaminen epiduraalisesti
+###
+#KOODI      AAA35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2172      
+#SUOMI      Elektrodien asettaminen subduraalisesti
+#RUOTSI     Inläggande av subdurala elektroder
+#LYHENNE    Elektrodien asettaminen subduraalisesti
+###
+#KOODI      AAA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2172      
+#SUOMI      Elektrodien asettaminen aivojen sisälle
+#RUOTSI     Inläggande av intracerebrala elektroder
+#LYHENNE    Elektrodien asettaminen aivojen sisälle
+###
+#KOODI      AAA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2109      
+#SUOMI      Muu aivojen tutkimusleikkaus
+#RUOTSI     Annan diagnostisk intrakranial operation
+#LYHENNE    Muu aivojen tutkimusleikkaus
+###
+#KOODI      AAB00 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2152      
+#SUOMI      Aivokasvaimen tai aivomuutoksen poisto
+#RUOTSI     Total exstirpation av intrakranial tumör eller lokal lesion
+#LYHENNE    Aivokasvaimen tai aivomuutoksen poisto
+#OHJE_S  
+Sisältää vierasesineiden poiston
+#OHJE_R 
+Inkluderar avlägsnande av främmande kropp
+###
+#KOODI      AAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2151      
+#SUOMI      Aivokasvaimen tai aivomuutoksen poisto osittain
+#RUOTSI     Delresektion av intrakranial tumör/förändring
+#LYHENNE    Aivokasvain/muutos resektio
+###
+#KOODI      AAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2153      
+#SUOMI      Aivokasvaimen tai aivomuutoksen tuhoaminen
+#RUOTSI     Destruktion av intrakranial tumör/lesion
+#LYHENNE    Aivokasvain/muutos destruktio
+###
+#KOODI      AAB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209+     
+#SUOMI      Aivotilan spontaanin verihyytymän poisto
+#RUOTSI     Utrymning av icke-traumatiskt intrakranialt hematom
+#LYHENNE    Aivotilan spontaanin verihyytymän poisto
+###
+#KOODI      AAB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2159      
+#SUOMI      Muu aivokasvaimen tai aivomuutoksen poisto
+#RUOTSI     Annan exstirpation av intrakranial tumör/förändring
+#LYHENNE    Muu aivokasvain/muutos poisto
+###
+#KOODI      AAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2161      
+#SUOMI      Aivovaltimopullistuman  kaulan sulkeminen
+#RUOTSI     Stjälkligatur av intrakranialt aneurysm
+#LYHENNE    Aivoaneurysman kaulan sulkeminen
+###
+#KOODI      AAC05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2163      
+#SUOMI      Aivovaltimopullistuman syöttävän valtimon sulkeminen
+#RUOTSI     Kärlligatur proximalt om intrakranialt aneurysm
+#LYHENNE    Aivoaneurysman syöttövaltimon sulku
+###
+#KOODI      AAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2162      
+#SUOMI      Aivovaltimopullistuman seinämän vahvistaminen
+#RUOTSI     Väggförstärkning av intrakranialt aneurysm
+#LYHENNE    Aivoaneurysman seinämän vahvistaminen
+###
+#KOODI      AAC15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2169      
+#SUOMI      Aivovaltimopullistuman menevän ja tulevan valtimon sulkeminen
+#RUOTSI     Ligatur proximalt och distalt om intrakranialt aneurysm, trapping
+#LYHENNE    Aivoaneurysman trapping
+###
+#KOODI      AAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2165      
+#SUOMI      Aivoverisuonen liittäminen
+#RUOTSI     Intrakranial kärlanastomos
+#LYHENNE    Aivoverisuonen liittäminen
+###
+#KOODI      AAC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2169      
+#SUOMI      Aivoverisuonien välisen avanteen  tukkiminen
+#RUOTSI     Ocklusion av intrakranial kärlfistel
+#LYHENNE    Aivoverisuonifistelin tukkiminen
+###
+#KOODI      AAC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2152      
+#SUOMI      Aivoverisuoniepämuodostuman poisto
+#RUOTSI     Exstirpation av intrakranial arteriovenös missbildning
+#LYHENNE    Aivoverisuoniepämuodostuman poisto
+###
+#KOODI      AAC99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Muu aivoverisuonileikkaus
+#RUOTSI     Annan intrakranial kärloperation
+#LYHENNE    Muu aivoverisuonileikkaus
+###
+#KOODI_A    AA_
+#MUUT_PVM   2001/12/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#SUOMI      Pään diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av huvudet
+#ENGL       Diagnostic radiology of head and brain
+#OHJE_S  
+Aivojen verisuonten toimenpiteet kohdassa PA
+#OHJE_R 
+Åtgärder på artärer av hjärnan, se PA
+###
+#KOODI      AAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2211      
+#SUOMI      Verihyytymän poisto kovan aivokalvon päältä, epiduraalitilasta
+#RUOTSI     Utrymning av epiduralt hematom
+#LYHENNE    Epiduraalihematooman poisto
+###
+#KOODI      AAD05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2212      
+#SUOMI      Verihyytymän poisto kovan aivokalvon alta, akuutti subduraali
+#RUOTSI     Utrymning av akut subduralt hematom
+#LYHENNE    Akuutin subduraalihematooman poisto
+###
+#KOODI      AAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2212      
+#SUOMI      Verihyytymän poisto kovan aivokalvon alta, krooninen subduraali
+#RUOTSI     Utrymning av kroniskt subduralt hematom
+#LYHENNE    Kroonisen subduraalihematooman poisto
+###
+#KOODI      AAD12 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kovan aivokalvon alaisen nesteen kanavointi keuhkopussiin tai vatsaonteloon
+#RUOTSI     Dränering av subdural vätska till pleura eller abdomen
+#LYHENNE    Subduraalitilan dreneeraus
+###
+#KOODI      AAD15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2213      
+#SUOMI      Aivokudoksen verihyytymän tai ruhjeen poisto
+#RUOTSI     Utrymning av hematom eller kontusionshärd i hjärnan
+#LYHENNE    Aivokudoksen hematoman/ruhjeen poisto
+###
+#KOODI      AAD16 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kovan aivokalvon alaisen laskuputken poisto
+#RUOTSI     Avlägsnande av subdural drän
+#LYHENNE    Kovan aivokalvon alaisen dreenin poisto
+###
+#KOODI      AAD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2214      
+#SUOMI      Kallon lävistävän vamman tarkistamisleikkaus
+#RUOTSI     Revision av penetrerande/perforerande skallskada
+#LYHENNE    Kallon lävistävän vamman revisio
+#OHJE_S  
+Sisältää mahdollisen vierasesineen poiston
+#OHJE_R 
+Inkluderar avlägsnande av främmande kropp
+###
+#KOODI      AAD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2214      
+#SUOMI      Kallon painumismurtuman nosto
+#RUOTSI     Elevation av impressionsfraktur
+#LYHENNE    Kallon painumismurtuman nosto
+#OHJE_S  
+Sisältää ohimoluun sisäänpainuman korjauksen.
+Mahdolliset aivohermojen (AAH) ja kuuloluiden (DD) korjaukset ilmaistaan lisäkoodeilla
+#OHJE_R 
+Inkl elevation av temporal inpression
+Eventuella ingrepp för skador i kranialnerver (AAH) och hörselsbenskedjan (DD) anges med tilläggskod
+###
+#KOODI      AAD42 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4828      
+#SUOMI      Frontobasaalisen murtuman hoito
+#RUOTSI     Ingrepp för frontobasal fraktur
+#LYHENNE    Frontobasaalisen murtuman hoito
+###
+#KOODI      AAD99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2219      
+#SUOMI      Muu aivo- tai kallovamman leikkaus
+#RUOTSI     Annat ingrepp för skallskada
+#LYHENNE    Muu aivo- tai kallovamman leikkaus
+###
+#KOODI      AAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2109      
+#SUOMI      Tutkimusleikkaus transsphenoidaalisesti
+#RUOTSI     Transsfenoidal exploration
+#LYHENNE    Tutkimusleikkaus transsphenoidaalisesti
+###
+#KOODI      AAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2151      
+#SUOMI      Kudoksen poistaminen transsfenoidaalisesti
+#RUOTSI     Transsfenoidal exstirpation eller resektion
+#LYHENNE    Kudoksen poisto transsfenoidaalisesti
+###
+#KOODI      AAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2151      
+#SUOMI      Kudoksen poistaminen transklivaalisesti, suun kautta
+#RUOTSI     Transoral/transclival exstirpation eller resektion
+#LYHENNE    Kudoksen poisto transklivaalisesti
+###
+#KOODI      AAE25 
+#MUUT_PVM   1999/11/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudoksen poistaminen kallon sisältä transkervikaalisesti, kaulan kautta
+#RUOTSI     Transcervical exstirpation eller resektion
+#LYHENNE    Kudoksen poist kallon sisältä transkervi
+###
+#KOODI      AAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2151      
+#SUOMI      Kudoksen poistaminen translabyrintaarisesti
+#RUOTSI     Translabyrintär exstirpation eller resektion
+#LYHENNE    Kudoksen poisto translabyrintaarisesti
+###
+#KOODI      AAE32 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4181      
+#SUOMI      Akustikusneurinooman poisto translabyrintaarisesti
+#RUOTSI     Translabyrintär exstirpation av acusticusneurinom
+#LYHENNE    Akustikusneurinoomapoisto translabyrinta
+###
+#KOODI      AAE34 
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4181      
+#SUOMI      Kuulo- tai tasapainohermoon kohdistuva muu leikkaus
+#RUOTSI     Annan operation på nervus acusticus (vestibulocochlearis)
+#LYHENNE    Muu kuulo-/tasapainohermoleikkaus
+###
+#KOODI      AAE40 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      2151      
+#SUOMI      Kudoksen poistaminen transtemporaalisesti
+#RUOTSI     Transtemporal exstipation eller resektion
+#LYHENNE    Kudoksen poistaminen transtemporaalisest
+###
+#KOODI      AAE50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2151      
+#SUOMI      Kudoksen poistaminen poskikaaren ja ohimoluun läpi
+#RUOTSI     Zygomaticotemporal exstirpation eller resektion
+#LYHENNE    Kudoksen poisto poskikaari/ohimoluutietä
+###
+#KOODI      AAE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2159+     
+#SUOMI      Muu kallonpohjan kautta tehtävä leikkaus
+#RUOTSI     Annan operation via skallbasen
+#LYHENNE    Muu kallonpohjan kautta tehtävä leikkaus
+###
+#KOODI_A    AA_
+#MUUT_PVM   2002/08/23
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut pään ja aivojen diagnostiset toimenpiteet
+#RUOTSI     Andra undersökningar av hjärna och skalle
+#ENGL       Other diagnostic procedures of brain and skull
+###
+#KOODI      AAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2127      
+#SUOMI      Aivokammioavanteen teko
+#RUOTSI     Ventrikulostomi
+#LYHENNE    Aivokammioavanteen teko
+###
+#KOODI      AAF05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2132      
+#SUOMI      Aivokammion kanavointi vatsaonteloon
+#RUOTSI     Ventrikuloperitoneal shunt
+#LYHENNE    Aivokammion kanavointi vatsaonteloon
+###
+#KOODI      AAF10 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2139      
+#SUOMI      Selkäydinkanavan kanavointi vatsaonteloon
+#RUOTSI     Lumboperitoneal liquorshunt
+#LYHENNE    Selkäydinkanavan lumboperitoneaalisuntti
+###
+#KOODI      AAF15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2130      
+#SUOMI      Aivokammion kanavointi sydämen eteiseen
+#RUOTSI     Ventrikuloatrial shunt
+#LYHENNE    Aivokammion kanavointi sydämen eteiseen
+###
+#KOODI      AAF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2133      
+#SUOMI      Aivonesteyhdystien korjaaminen
+#RUOTSI     Revision av liquorshunt
+#LYHENNE    Aivonesteyhdystien korjaaminen
+###
+#KOODI      AAF25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Aivonesteyhdystien poisto
+#RUOTSI     Borttagande av liquorshunt
+#LYHENNE    Aivonesteyhdystien poisto
+###
+#KOODI      AAF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2139      
+#SUOMI      Injektiolaitteen asettaminen aivokammioon
+#RUOTSI     Applikation av intraventrikulär injektionsport
+#LYHENNE    Injektiolaitteen asetus aivokammioon
+###
+#KOODI      AAF35 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      2139      
+#SUOMI      Aivokammioiden sisäisen lääkehoidon toteuttamiseen tarkoitetun ihonalaisen säiliön asettaminen
+#RUOTSI     Implantation av reservoir för intraventrikulär terapi
+#LYHENNE    Intraventrikulaarihoidon reservuaarin as
+###
+#KOODI      AAF40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2139      
+#SUOMI      Kallonsisäisen kystan kanavointi vatsaonteloon
+#RUOTSI     Dränage av intravetrikulär cysta till bukhålan
+#LYHENNE    Aivokystan kanavointi vatsaonteloon
+###
+#KOODI      AAF45 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivokystan avanteen teko
+#RUOTSI     Fenestrering av intrakranial cysta
+#LYHENNE    Aivokystan avanteen teko
+###
+#KOODI      AAF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2139      
+#SUOMI      Muu aivonestekierron säätelytoimenpide
+#RUOTSI     Annat ingrepp för reglering av liquorflödet
+#LYHENNE    Muu aivonestekierron säätelytoimenpide
+###
+#KOODI      AAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2141      
+#SUOMI      Koepalan otto stereotaktisen laitteen avulla
+#RUOTSI     Stereotaktisk biopsi
+#LYHENNE    Biopsia stereotaktisen laitteen avulla
+###
+#KOODI      AAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2142      
+#SUOMI      Sterotaktinen tumakkeen tai hermoradan tuhoaminen
+#RUOTSI     Stereotaktisk destruktion av nukleus eller nervbana
+#LYHENNE    Sterotaktinen tumake/hermoratatuhoaminen
+###
+#KOODI      AAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2143      
+#SUOMI      Stereotaktinen aivoelektrodien asettaminen
+#RUOTSI     Stereotaktiskt inläggande av elektroder i hjärnan
+#LYHENNE    Stereotaktinen aivoelektrodiasetus
+#OHJE_S  
+Sisältää isoaivoärsykkeitä antavien ja aivojen syviin osiin ärsykkeitä antavien laitteiden asentamisen
+Hermoärsykkeitä antavan laitteen impulssigeneraattorin vaihto ja poisto kohdassa AEA
+#OHJE_R 
+Innefattar intracerebral nervsystem stimulerande apparat (deep brain stimulator)
+Utbyte och uttagning av impulse generator, se AEA
+###
+#KOODI      AAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2149      
+#SUOMI      Stereotaktinen säteilylähteen asettaminen aivoihin
+#RUOTSI     Stereotaktisk implantation av strålkälla i hjärnan
+#LYHENNE    Stereotaktinen säteilylähdeasetus
+###
+#KOODI      AAG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2149      
+#SUOMI      Stereotaktinen sikiön hermosolujen/kudoksen asettaminen aivoihin
+#RUOTSI     Stereotaktisk implantation av fosternervceller/vävnad i hjärnan
+#LYHENNE    Stt sikiöhermosolu/kudosasetus aivoihin
+###
+#KOODI      AAG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2149      
+#SUOMI      Stereotaktinen sädehoito aivoihin
+#RUOTSI     Stereotaktisk strålbehandling
+#LYHENNE    Stereotaktinen sädehoito aivoihin
+###
+#KOODI      AAG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2149      
+#SUOMI      Muu stereotaktinen aivojen toimenpide
+#RUOTSI     Annan stereotaktisk operation på centrala nervsystemet
+#LYHENNE    Muu stereotaktinen aivojen toimenpide
+###
+#KOODI      AAH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2181      
+#SUOMI      Aivohermon katkaisu
+#RUOTSI     Neurotomi av kranialnerv
+#LYHENNE    Aivohermon katkaisu
+###
+#KOODI      AAH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2201      
+#SUOMI      Aivohermon vapautus
+#RUOTSI     Deliberation/dekompression av kranialnerv
+#LYHENNE    Aivohermon vapautus
+###
+#KOODI      AAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2181      
+#SUOMI      Aivohermon polttaminen tai jäädyttäminen
+#RUOTSI     Termodestruktion av kranialnerv
+#LYHENNE    Aivohermon polttaminen tai jäädyttäminen
+###
+#KOODI      AAH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2181      
+#SUOMI      Aivohermoon injektiohoito
+#RUOTSI     Injektion i kranialnerv
+#LYHENNE    Glyseroliruiske aivohermoon
+###
+#KOODI      AAH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Aivohermon liittäminen tai siirre
+#RUOTSI     Neurorafi av kranialnerv, eller reparation medels nervtransplantat
+#LYHENNE    Aivohermon liittäminen tai siirre
+#OHJE_S  
+Esim. kasvohermon korjaus ns. cross-over hermon siirrolla
+#OHJE_R 
+T.ex rekonstruktion av facialnerv med cross-over nervtransplantat
+###
+#KOODI      AAH60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2201      
+#SUOMI      Aivohermon mikrovaskulaarinen vapautus
+#RUOTSI     Mikrovaskulär dekompression av kranialnerv
+#LYHENNE    Aivohermon mikrovaskulaarinen vapautus
+#OHJE_S  
+Kuulo- ja tasapainohermon leikkaukset ja akustikusneurinooman leikkaukset koodataan kohtaan AAE
+#OHJE_R 
+Operationer på nervus acusticus och vestibulocochlearis, se AAE
+###
+#KOODI      AAH80 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrovaskulaarinen lihaksensiirto aivohermojen alueella
+#RUOTSI     Mikrovaskulär muskelförflyttning vid facialispares
+#LYHENNE    Mikrovaskulaarinen lihaksensiirto aivohe
+###
+#KOODI      AAH99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Muu aivohermojen leikkaus
+#RUOTSI     Annan operation på kranialnerver
+#LYHENNE    Muu aivohermojen leikkaus
+###
+#KOODI      AAJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2175      
+#SUOMI      Aivopuoliskon poisto
+#RUOTSI     Hemisfärektomi vid epilepsi
+#LYHENNE    Aivopuoliskon poisto
+###
+#KOODI      AAJ10 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2174      
+#SUOMI      Aivolohkon poisto epilepsian vuoksi
+#RUOTSI     Lobektomi vid epilepsi
+#LYHENNE    Aivolohkon poisto epilepsian vuoksi
+###
+#KOODI      AAJ15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2179      
+#SUOMI      Hippokampuksen, aivoturson, poisto
+#RUOTSI     Hippokampektomi vid epilepsi
+#LYHENNE    Hippokampuksen, aivoturson, poisto
+###
+#KOODI      AAJ20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2173      
+#SUOMI      Epileptisen pesäkkeen poisto
+#RUOTSI     Resektion av epileptiskt fokus
+#LYHENNE    Epileptisen pesäkkeen poisto
+###
+#KOODI      AAJ25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2171      
+#SUOMI      Hermoratojen katkaisu epilepsian vuoksi
+#RUOTSI     Avskärning av nervbanor vid epilepsi
+#LYHENNE    Hermoratojen katkaisu epilepsian vuoksi
+###
+#KOODI      AAJ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2171      
+#SUOMI      Kallosotomia, aivokurjen halkaisu, epilepsian vuoksi
+#RUOTSI     Callosotomi vid epilepsi
+#LYHENNE    Kallosotomia epilepsian vuoksi
+###
+#KOODI      AAJ35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2179      
+#SUOMI      Aivopuoliskon kuorikerroksen poisto epilepsian vuoksi
+#RUOTSI     Hemidekortikation vid epilepsi
+#LYHENNE    Aivon kuorikerrospoisto epilepsian taki
+###
+#KOODI      AAJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2179      
+#SUOMI      Muu aivoleikkaus epilepsian vuoksi
+#RUOTSI     Annan hjärnoperation vid epilepsi
+#LYHENNE    Muu aivoleikkaus epilepsian vuoksi
+###
+#KOODI      AAK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2192      
+#SUOMI      Kallon korjaaminen
+#RUOTSI     Kranioplastik
+#LYHENNE    Kallon korjaaminen
+###
+#KOODI      AAK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Kovan aivokalvon korjaaminen
+#RUOTSI     Duraplastik
+#LYHENNE    Kovan aivokalvon korjaaminen
+###
+#KOODI      AAK20 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2293      
+#SUOMI      Kallonsaumojen ennenaikaisen luutumisen vuoksi tehtävä leikkaus
+#RUOTSI     Operation p.g.a.kraniosynostos
+#LYHENNE    Kallonsaumojen luutumisen leikkaus
+###
+#KOODI      AAK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2199      
+#SUOMI      Kallon ja kasvoluiden epämuodostuman korjaaminen
+#RUOTSI     Kraniofacial rekonstruktion vid missbildning
+#LYHENNE    Kallon/kasvoluiden epämuodostumakorjaus
+###
+#KOODI      AAK40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2215      
+#SUOMI      Aivonesteavanteen tukkiminen
+#RUOTSI     Ocklusion av likvorfistel
+#LYHENNE    Aivonesteavanteen tukkiminen
+###
+#KOODI      AAK99 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Muu kallon ja kovakalvon leikkaus
+#RUOTSI     Annan operation på kranium och dura
+#LYHENNE    Muu kallon/kovakalvon leikkaus
+#OHJE_S  
+Ei sisällä kallovammoihin liittyviä leikkauksia  (AAD)
+#OHJE_R 
+Exkl åtgärder för skalltrauma (AAD)
+###
+#KOODI      AAL00 
+#MUUT_PVM   2003/11/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2169      
+#SUOMI      Aivovaltimopullistuman suonensisäinen tukkiminen
+#RUOTSI     Endovaskulär ocklusion p.g.a.intrakranialt aneurysm
+#LYHENNE    Aivoaneurysman suonensisäinen tukkiminen
+#OHJE_S  
+Radiologisessa ohjauksessa kohdassa PA2KT tai PA2LT
+#OHJE_R 
+Radiologiskt utstyrd, se PA2KT eller PA2LT
+###
+#KOODI      AAL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Aivovaltimotulpan suonensisäinen liuotus
+#RUOTSI     Intrakranial endovaskulär trombolys
+#LYHENNE    Aivovaltimotulpan suonensisäinen liuotus
+###
+#KOODI      AAL20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Aivoverisuoniepämuodostuman suonensisäinen tukkiminen
+#RUOTSI     Endovaskulär ocklusion p.g.a.intrakranial A-V missbildning
+#LYHENNE    Aivo A-V malformaation tukkiminen
+#OHJE_S  
+Radiologisesti ohjatut toimenpiteet kohdissa PA2GT, PA2HT eller PA2JT
+#OHJE_R 
+Radiologiskt utstyrd, se PA2GT, PA2HT eller PA2JT
+###
+#KOODI      AAL30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Aivovaltimo-laskimoavanteen suonensisäinen tukkiminen
+#RUOTSI     Endovaskulär ocklusion av intrakranial arteriovenös fistel
+#LYHENNE    Aivo A-V fistelin suonensis tukkiminen
+###
+#KOODI      AAL40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Aivokasvaimen verisuonien suonensisäinen tukkiminen
+#RUOTSI     Endovaskulär ocklusion p.g.a.intrakranial tumör
+#LYHENNE    Aivokasvainsuonien sisäinen tukkiminen
+#OHJE_S  
+Radiologisesti ohjatut toimenpiteet kohdissa  PA2DT eller PA2ET
+#OHJE_R 
+Radiologiskt utstyrd, se  PA2DT eller PA2ET
+###
+#KOODI      AAL99 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Muu aivoverisuonien suonensisäinen toimenpide
+#RUOTSI     Annan endovaskulär intrakranial operation
+#LYHENNE    Muu aivoverisuonien suonensis toimenpide
+#OHJE_S  
+Aivoverisuonien laajennushoito iholta kaäsin, katso PA2AT tai PA2BT
+#OHJE_R 
+PTA i hjärartärer, se PA2AT eller PA2BT
+###
+#KOODI      AAM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2125      
+#SUOMI      Aivojen märkäpesäkkeen pisto ja tyhjennys
+#RUOTSI     Punktion och tömning av intrakranial abscess
+#LYHENNE    Aivojen märkäpesäkkeen punktio/tyhjennys
+###
+#KOODI      AAM10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2125+     
+#SUOMI      Aivojen märkäpesäkkeen poisto
+#RUOTSI     Exstirpation av intrakranial abscess
+#LYHENNE    Aivojen märkäpesäkkeen poisto
+###
+#KOODI      AAM30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2125      
+#SUOMI      Epi- tai subduraalisen märkäpesäkkeen tyhjennys
+#RUOTSI     Utrymning av epiduralt eller subduralt empyem
+#LYHENNE    Epi-/subduraalimärkäpesäkkeen tyhjennys
+###
+#KOODI      AAM99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2125+     
+#SUOMI      Muu aivotilan infektion leikkaus
+#RUOTSI     Annan operation p.g.a.intrakranial infektion
+#LYHENNE    Muu aivotilan infektion leikkaus
+###
+#KOODI      AAN00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2202      
+#SUOMI      Enkefaloseelen korjausleikkaus
+#RUOTSI     Exstirpation och plastik av enkefalocele
+#LYHENNE    Enkefaloseelen korjausleikkaus
+###
+#KOODI      AAN99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Muu synnynnäisen keskushermoston epämuodostuman korjaus
+#RUOTSI     Annan operation vid intrakraniala kongenitala missbildningar
+#LYHENNE    Muu kongen keskushermostoanomaliakorjaus
+###
+#KOODI      AAP00 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Koepalan otto kallosta
+#RUOTSI     Biopsi av skallben
+#LYHENNE    Koepalan otto kallosta
+###
+#KOODI      AAP10 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Kallon luukasvaimen poisto
+#RUOTSI     Resektion av bentumör i skallen
+#LYHENNE    Kallon luukasvaimen poisto
+###
+#KOODI      AAP99 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1997/01/01
+#POISTPVM   2003/09/24
+#POISTETTU
+#VANHA      2209      
+#SUOMI      Muu kallon leikkaus
+#RUOTSI     Annan skalloperation
+#LYHENNE    Muu kallon leikkaus
+#OHJE_S  
+Ei sisällä kallovammoihin liittyviä leikkauksia  (AAD) ja kallon korjaamisleikkauksia (AAK)
+#OHJE_R 
+Exkl åtgärder för skalltrauma (AAD) och rekonstruktiva operationer på kranium
+###
+#KOODI      AAU00 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Istutteen tai kiinnityslaitteen poistaminen kallosta
+#RUOTSI     Uttagning av implant eller fixations apparat från skalle
+#LYHENNE    Istutteen tai kiinn.laitt poist. kallost
+###
+#KOODI      AAW01 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallonsisäisen hermostoärsykkeitä antavan laitteen asettaminen
+#RUOTSI     Implantation av intrakraniell nervsystem stimulerande apparat
+#LYHENNE    Kallonsis stimul. laitteen asentaminen
+###
+#KOODI      AAW02 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallonsisäisen injektiolaitteen asettaminen
+#RUOTSI     Implantation av intrakraniell injektioktions apparat
+#LYHENNE    Kallonsisäisen injektiolatiteen asentami
+###
+#KOODI      AAW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Muu kallonsisäinen toimenpide
+#RUOTSI     Annan intrakranial operation
+#LYHENNE    Muu kallonsisäinen toimenpide
+###
+#KOODI_R    AB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Selkäydin ja hermojuuret
+#RUOTSI     Ryggmärg och nervrötter
+#ENGL       Spinal cord and nerve roots
+###
+#KOODI      AB001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ydinjatkoksen ja selkäydinkanavan primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+#LYHENNE    Sädeh. ydinjatk/selkäyd. prim. kasv.preo
+###
+#KOODI      AB002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali ydinjatkoksen ja selkäydinkanavan primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+#LYHENNE    Radik.sädeh. ydinjatk/selkäyd. prim. kas
+###
+#KOODI      AB003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ydinjatkoksen ja selkäydinkanavan primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+#LYHENNE    Sädeh. ydinjatk/selkäyd. prim. kasv.liit
+###
+#KOODI      AB004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ydinjatkoksen ja selkäydinkanavan primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i medulla oblongata eller i ryggmärgskanalen
+#LYHENNE    Sädeh. ydinjatk/selkäyd. prim. kasv.pall
+###
+#KOODI      AB029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ydinjatkoksen ja selkäydinkanavan paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i medulla oblongata eller i ryggmärgskanalen
+#LYHENNE    Sädeh. ydinjatk/selkäyd. paik.uus. kasv.
+###
+#KOODI      AB049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ydinjatkoksessa ja selkäydinkanavassa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i medulla oblongata eller i ryggmärgskanalen
+#LYHENNE    Sädeh. ydinjatk/selkäyd. metast.
+###
+#KOODI      AB090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ydinjatkoksen ja selkäydinkanavan profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av medulla oblongata och  ryggmärgskanalen
+#LYHENNE    Sädeh. ydinjatk/selkäyd. profyl.
+###
+#KOODI      AB099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ydinjatkoksen ja selkäydinkanavan sädehoito
+#RUOTSI     Annan strålbehandling av medulla oblongata och  ryggmärgskanalen
+#LYHENNE    Muu sädeh. ydinjatk/selkäyd.
+###
+#KOODI      AB1CB 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5804      
+#SUOMI      Kaularangan selkäydinkanavan varjoainetutkimus (myelografia)
+#RUOTSI     Halsrygg, myelografi
+#LYHENNE    Kaularanka,myelograf
+###
+#KOODI      AB2CB 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5803      
+#SUOMI      Rintarangan selkäydinkanavan varjoainetutkimus (myelografia)
+#RUOTSI     Bröstrygg, myelografi
+#LYHENNE    Rintaranka,myelograf
+###
+#KOODI      AB3CB 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5802      
+#SUOMI      Lannerangan selkäydinkanavan varjoainetutkimus (myelografia)
+#RUOTSI     Ländrygg, myelografi
+#LYHENNE    Lumbaalinen myelogr.
+###
+#KOODI      AB4AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6304      
+#SUOMI      Selkäydinkanavan UÄ
+#RUOTSI     Spinalkanal, UL
+#LYHENNE    Selkäydinkanavan UÄ
+###
+#KOODI      AB4AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9161      
+#SUOMI      Aivo-selkäydinnesteen kanavointi UÄ-ohjauksessa
+#RUOTSI     UL-styrt dränage av spinalvätska
+#LYHENNE    Liq-tila,dren.UÄ-ohj
+###
+#KOODI      AB4BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9162      
+#SUOMI      Aivo-selkäydinnesteen kanavointi läpivalaisuohjauksessa
+#RUOTSI     Genomlysningsstyrt dränage av spinalvätska
+#LYHENNE    Liq-til,dren.lpv-ohj
+###
+#KOODI      AB4CB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5805      
+#SUOMI      Selkäydinkanavan usean alueen varjoainetutkimus (myelografia)
+#RUOTSI     Myelografi av flera ryggradssegment
+#LYHENNE    Usean alueen myelogr
+###
+#KOODI      AB4CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9163      
+#SUOMI      Aivo-selkäydinnesteen kanavointi TT-ohjauksessa
+#RUOTSI     Spinalvätska, DT-styrt dränage
+#LYHENNE    Liq-tila,dren.TT-ohj
+###
+#KOODI      AB4DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aivo-selkäydinnesteen kanavointi magneettiohjauksessa
+#RUOTSI     Spinalvätska, MR-styrt dränage
+#LYHENNE    Liq-tila,dren.MK-ohj
+###
+#KOODI      AB4FT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9165      
+#SUOMI      Aivo-selkäydinnestekatetrin vaihto
+#RUOTSI     Spinalkateter utbyte
+#LYHENNE    Kat.vaihto,liq-tila
+###
+#KOODI      AB4LB 
+#MUUT_PVM   2001/11/26
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydinkanavan tai epiduraalitilan katetrin paikan tarkastus
+#RUOTSI     Kontroll av spinal- eller epiduralkateters position
+#LYHENNE    Selkäydink.kat.tark.
+###
+#KOODI      AB4XB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5809      
+#SUOMI      Selkäydinkanavan muu varjoainetutkimus
+#RUOTSI     Övrig kontrastunderökning av spinalkanalen
+#LYHENNE    Selkäydinkan.grafia
+###
+#KOODI      AB5BT 
+#MUUT_PVM   1999/11/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermojuuren salpaus läpivalaisuohjauksessa
+#RUOTSI     Nervrötter, genomlysningsstyrd blockad
+#LYHENNE    Hermoj.salp. lpv-ohj
+###
+#KOODI      AB5DT 
+#MUUT_PVM   2002/11/10
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermojuuren salpaus magneettiohjauksessa
+#RUOTSI     Nervrötter, MR-styrd blockad
+#LYHENNE    Hermojuuren salpaus magneettiohjauksessa
+###
+#KOODI      ABA00 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2303      
+#SUOMI      Selkäydinkanavan tutkimusleikkaus
+#RUOTSI     Explorativ laminotomi/laminektomi
+#LYHENNE    Selkäydinkanavan tutkimusleikkaus
+###
+#KOODI      ABA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2303      
+#SUOMI      Koepalan otto selkäydinkanavan kudoksesta
+#RUOTSI     Biopsi av patologisk förändring i spinalkanal
+#LYHENNE    Biopsia selkäydinkanavan kudoksesta
+###
+#KOODI      ABA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2309      
+#SUOMI      Muu selkäytimen tai hermojuurien tutkimusleikkaus
+#RUOTSI     Annan diagnostiskt ingrepp på ryggmärg och nervrötter
+#LYHENNE    Muu selkäydin/hermojuurieksploraatio
+###
+#KOODI      ABB00 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2312      
+#SUOMI      Selkäytimen ja hermojuurten paikallisen muutoksen poisto selkäydinkanavasta
+#RUOTSI     Exstirpation av tumör/kärlförändring i spinalkanalen
+#LYHENNE    Kasvain/a-v malform poisto spinaalikanav
+###
+#KOODI      ABB10 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2311      
+#SUOMI      Selkäytimen ja hermojuurten paikallisen muutoksen osapoisto selkäydinkanavasta
+#RUOTSI     Delresektion av lesion i spinalkanalen
+#LYHENNE    Kasvain/a-v malform resektio spinaalikan
+###
+#KOODI      ABB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Kystan kanavointi selkäydinkanavasta
+#RUOTSI     Dränage av cysta i spinalkanalen
+#LYHENNE    Kystan kanavointi selkäydinkanavasta
+###
+#KOODI      ABB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2312      
+#SUOMI      Selkäytimen ja hermojuurten paikallisen muutoksen tuhoaminen selkäydinkanavasta
+#RUOTSI     Destruktion av tumör/förändring i spinalkanalen
+#LYHENNE    Kasvain/a-v malformdestruktio spinaalika
+###
+#KOODI      ABB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Selkäydinkanavan spontaanin verihyytymän poisto
+#RUOTSI     Utrymning av icke-traumatiskt hematom i spinalkanalen
+#LYHENNE    Spinaalikanavan spontaanihematoomapoisto
+###
+#KOODI      ABB50 
+#MUUT_PVM   2000/12/29
+#KAYTPVM    1996/01/01
+#POISTPVM   2000/12/31
+#POISTETTU
+#VANHA      2303      
+#SUOMI      Selkäytimen ja hermojuurten paikallisen muutoksen dekompressio
+#RUOTSI     Dekompression av spinalkanal p.g.a.tumör/förändring
+#LYHENNE    Spinaalikanavakasvain/a-v malfor dekompr
+###
+#KOODI      ABB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2319      
+#SUOMI      Muu selkäytimen tai hermojuuren paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation för patologisk förändring i ryggmärg och nervrötter
+#LYHENNE    Muu spinaalikanavakasvain/a-v malfor lei
+###
+#KOODI      ABC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9211      
+#SUOMI      Välilevytyrän poisto tähystysteitse kaularangasta
+#RUOTSI     Perkutan endoskopisk cervikal diskbråcksoperation
+#LYHENNE    Välilevytyrän tähystyspoisto kaularanga
+###
+#KOODI      ABC04 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Välilevytyrän poisto tähystysteitse  rintarangasta
+#RUOTSI     Perkutan endoskopisk torakal diskbråcksoperation
+#LYHENNE    Välilevytyrän poisto tähystysteitse  rin
+###
+#KOODI      ABC07 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9211      
+#SUOMI      Välilevytyrän poisto tähystysteitse lannerangasta
+#RUOTSI     Perkutan endoskopisk lumbal diskbråcksoperation
+#LYHENNE    Välilevytyrän tähystyspoisto lanneranga
+###
+#KOODI      ABC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9211      
+#SUOMI      Mikrokirurginen välilevytyrän poisto kaularangasta
+#RUOTSI     Mikrokirurgisk cervikal diskbråcksoperation
+#LYHENNE    Välilevytyrän mikrokir poisto kaularanga
+###
+#KOODI      ABC13 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrokirurginen välilevyn poisto rintarangasta
+#RUOTSI     Mikrokirurgisk torakal diskbråcksoperation
+#LYHENNE    Mikrokirurginen välilevyn poisto rintara
+###
+#KOODI      ABC16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9211      
+#SUOMI      Mikrokirurginen välilevytyrän poisto lannerangasta
+#RUOTSI     Mikrokirurgisk lumbal diskbråcksoperation
+#LYHENNE    Välilevytyrän mikrokir poisto lanneranga
+###
+#KOODI      ABC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9211      
+#SUOMI      Nikamavälilevytyrän avoin poisto kaularangasta
+#RUOTSI     Öppen cervikal diskbråcksoperation
+#LYHENNE    Välilevytyrän avoin poisto kaularangasta
+###
+#KOODI      ABC23 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nikamavälilevytyrän avoin poisto rintarangasta
+#RUOTSI     Öppen thorakal diskbråcksoperation
+#LYHENNE    Välilevytyrän avoin poisto rintarangasta
+###
+#KOODI      ABC26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9211      
+#SUOMI      Nikamavälilevytyrän avoin poisto lannerangasta
+#RUOTSI     Öppen lumbal diskbråcksoperation
+#LYHENNE    Välilevytyrän avoin poisto lannerangasta
+###
+#KOODI      ABC30 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9202+     
+#SUOMI      Hermojuuridekompressio kaularangan alueella
+#RUOTSI     Dekompression av nervrötter i halsryggen
+#LYHENNE    Hermojuuridekompressio kaularangassa
+###
+#KOODI      ABC33 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermojuuridekompressio rintarangan alueella
+#RUOTSI     Dekompression av nervrötter i thorakala regionen av ryggen
+#LYHENNE    Hermojuuridekompressio rintarangassa
+###
+#KOODI      ABC36 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9212      
+#SUOMI      Hermojuuridekompressio lannerangan alueella
+#RUOTSI     Dekompression av nervrötter i ländryggen
+#LYHENNE    Juuridekompressio lannerangassa
+###
+#KOODI      ABC40 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermojuuridekompressio ristiluun alueella
+#RUOTSI     Dekompression av nervrötter i cauda equina
+#LYHENNE    Hermojuuridekompressio ristiluun alueell
+###
+#KOODI      ABC50 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydintilan ja hermojuurikanavien avarrus kaularangan alueella
+#RUOTSI     Dekompression av cervikal ryggmärg och nervrötter i halsryggen
+#LYHENNE    Selkäyt ja hermoj dekompr kaularangassa
+###
+#KOODI      ABC53 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydintilan ja hermojuurikanavien avarrus rintarangan alueella
+#RUOTSI     Dekompression av thorakal ryggmärg och nervrötter i thorakalryggen
+#LYHENNE    Selkäytimen ja hermojuurten dekompressio
+###
+#KOODI      ABC56 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskikanavan  ja hermojuurikanavien avarrus lannerangan alueella
+#RUOTSI     Dekompression av lumbar ryggmärg p.g.a. degenerativa förändringar
+#LYHENNE    Selkäytimen dekompressio lannerangassa
+###
+#KOODI      ABC60 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9202+     
+#SUOMI      Selkäydintilan avarrus kaularangan alueella
+#RUOTSI     Dekompression av cervikal ryggmärg
+#LYHENNE    Ydintilan dekompressio kaularangassa
+###
+#KOODI      ABC63 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydintilan avarrus rintarangan alueella
+#RUOTSI     Dekompression av thorakal ryggmärg
+#LYHENNE    Ydintilan dekompressio rintarangassa
+###
+#KOODI      ABC66 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydintilan avarrus lannerangan alueella
+#RUOTSI     Dekompression av lumbal ryggmärgskanal
+#LYHENNE    Ydintilan dekompressio lannerangassa
+###
+#KOODI      ABC99 
+#MUUT_PVM   2000/11/14
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9212      
+#SUOMI      Muu selkäydintilan tai hermojuurikanavien avarrus
+#RUOTSI     Annan dekompression av ryggmärg och nervrötter
+#LYHENNE    Muu selkäydin/hermojuuridekompr
+###
+#KOODI_A    AB_
+#MUUT_PVM   2002/08/24
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Selkäytimen ja hermojuurten diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av ryggmärg och nervrötter
+#ENGL       Diagnostic radiology of spinal cord and nerve roots
+#OHJE_S  
+Selkärangan ja selkäytimen magneettitutkimus kohdassa NAD
+#OHJE_R 
+MR av ryggraden och ryggmärgen, se NAD
+###
+#KOODI      ABD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2322      
+#SUOMI      Selkäydinradan katkaisu
+#RUOTSI     Kordotomi
+#LYHENNE    Selkäydinradan katkaisu
+###
+#KOODI      ABD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2329      
+#SUOMI      Selkäytimen halkaisu
+#RUOTSI     Myelotomi
+#LYHENNE    Selkäytimen halkaisu
+###
+#KOODI      ABD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2324      
+#SUOMI      Selkäytimen sähköärsytyslaitteen asettaminen
+#RUOTSI     Intraspinal applikation av elektrostimulator
+#LYHENNE    Selkäydinstimulaattorin asennus
+###
+#KOODI      ABD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Injektiolaitteen asettaminen selkäydinkanavaan
+#RUOTSI     Inläggande injektionsport i spinalkanalen
+#LYHENNE    Injektiolaiteasetus selkäydinkanavaan
+###
+#KOODI      ABD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2321      
+#SUOMI      Spinaalijuuren katkaisu kivun tai toiminnallisen häiriön vuoksi
+#RUOTSI     Rizotomi av spinal nervrot p.g.a. smärta eller funktionell störning
+#LYHENNE    Hermojuuren katkaisu,kipu/funktiohäir
+###
+#KOODI      ABD99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2329      
+#SUOMI      Muu selkäydin- tai hermojuurileikkaus, kipu tai toiminnallinen häiriö
+#RUOTSI     Annan operation på ryggmärg och nervrötter p.g.a. smärta och funktionella störningar
+#LYHENNE    Muu selkäydin/juurileik,kipu/funktiohäir
+###
+#KOODI      ABE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2331      
+#SUOMI      Selkäydintyrän korjaus
+#RUOTSI     Exstirpation och plastik av myelo- eller meningocele
+#LYHENNE    Selkäydintyrän korjaus
+###
+#KOODI      ABE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Diastematomyelian vapautus
+#RUOTSI     Deliberation av fjättrad ryggmärg (diastematomyeli)
+#LYHENNE    Diastematomyelian vapautus
+###
+#KOODI      ABE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9249      
+#SUOMI      Dermaalisinuksen poisto
+#RUOTSI     Exstirpation av dermal sinus
+#LYHENNE    Dermaalisinuksen poisto
+###
+#KOODI      ABE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Hydromyelian vuoksi tehtävä leikkaus
+#RUOTSI     Operation för hydromyeli
+#LYHENNE    Hydromyelian vuoksi tehtävä leikkaus
+###
+#KOODI      ABE50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2209      
+#SUOMI      Niska-aukon alueen vapautus
+#RUOTSI     Occipitocervikal dekompression
+#LYHENNE    Niska-aukon alueen vapautus
+###
+#KOODI      ABE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Muu selkärangan ja selkäytimen epämuodostumien korjausleikkaus
+#RUOTSI     Annan operation p.g.a.spinala missbildningar
+#LYHENNE    Muu selkäranka/-ydinepämuodostumakorjaus
+###
+#KOODI      ABW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2339      
+#SUOMI      Muu selkäytimeen tai hermojuuriin kohdistuvat leikkaus
+#RUOTSI     Annan operation på ryggmärg och nervrötter
+#LYHENNE    Muu selkäydin/hermojuurileikkaus
+###
+#KOODI_R    AC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ääreishermot
+#RUOTSI     Perifera nerver
+#ENGL       Peripheral nerves
+#OHJE_S  
+Ääreishermon salpaus, blokadi TAC 00
+#OHJE_R 
+Blockad av perifer nerv, se TAC00
+###
+#KOODI      AC001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ääreishermojen primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i perifera nerver
+#LYHENNE    Sädeh äär.herm prim.kasv preop hoitona
+###
+#KOODI      AC002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali ääreishermojen primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i perifera nerver
+#LYHENNE    Radik äär.herm prim.kasv sädehoito
+###
+#KOODI      AC003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ääreishermojen primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i perifera nerver
+#LYHENNE    Sädeh äär.herm prim.kasv liit.hoitona
+###
+#KOODI      AC004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ääreishermojen primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliaativ strålbehandling av primärtumör i perifera nerver
+#LYHENNE    Sädeh äär.herm prim.kasv pall hoitona
+###
+#KOODI      AC029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ääreishermojen paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i perifera nerver
+#LYHENNE    Sädeh äär.herm paik uus kasv hoitona
+###
+#KOODI      AC049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ääreishermoissa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i perifera nerver
+#LYHENNE    Sädeh äär.herm metastaasin hoitona
+###
+#KOODI      AC090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito ääreishermojen profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av perifera nerver
+#LYHENNE    Sädeh äär.herm profylaktisena hoitona
+###
+#KOODI      AC099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ääreishermojen sädehoito
+#RUOTSI     Annan strålbehandling av perifera nerver
+#LYHENNE    Muu ääreishermojen sädehoito
+###
+#KOODI      AC1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermon salpaus UÄ-ohjauksessa
+#RUOTSI     Nervblockad, UL-styrd
+#LYHENNE    Hermosalpaus UÄ-ohj
+###
+#KOODI      AC1BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermon salpaus läpivalaisuohjauksessa
+#RUOTSI     Nervblockad, genomlysningsstyrd
+#LYHENNE    Hermosalpaus lpv-ohj
+###
+#KOODI      AC1CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermon salpaus TT-ohjauksessa
+#RUOTSI     Nervblockad, DT-styrd
+#LYHENNE    Hermosalpaus MK-ohj
+###
+#KOODI      AC1DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermon salpaus magneettiohjauksessa
+#RUOTSI     Nervblockad, MR-styrd
+#LYHENNE    Hermosalpaus TT-ohj
+###
+#KOODI      ACA11 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon tutkimusleikkaus
+#RUOTSI     Exploration av n. medianus
+#LYHENNE    Keskihermon tutkimusleikkaus
+###
+#KOODI      ACA12 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon tutkimusleikkaus
+#RUOTSI     Exploration av n. radialis
+#LYHENNE    Värttinähermon tutkimusleikkaus
+###
+#KOODI      ACA13 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon tutkimusleikkaus
+#RUOTSI     Exploration av n. ulnaris
+#LYHENNE    Kyynärhermon tutkimusleikkaus
+###
+#KOODI      ACA14 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon tutkimusleikkaus
+#RUOTSI     Exploration av n. peroneus
+#LYHENNE    Pohjehermon tutkimusleikkaus
+###
+#KOODI      ACA15 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon tutkimusleikkaus
+#RUOTSI     Exploration av n. tibialis
+#LYHENNE    Säärihermon tutkimusleikkaus
+###
+#KOODI      ACA16 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon tutkimusleikkaus
+#RUOTSI     Exploration av n ischiadicus
+#LYHENNE    Iskiashermon tutkimusleikkaus
+###
+#KOODI      ACA17 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen tutkimusleikkaus
+#RUOTSI     Exploration av plexus lumbalis
+#LYHENNE    Lantiohermopunoksen tutkimusleikkaus
+###
+#KOODI      ACA18 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen tutkimusleikkaus
+#RUOTSI     Exploration av plexus brachialis
+#LYHENNE    Hartiahermopunoksen tutkimusleikkaus
+###
+#KOODI      ACA19 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2401      
+#SUOMI      Ääreishermon tutkimusleikkaus, muu tai määrittämätön
+#RUOTSI     Exploration av perifer nerv, annan eller ospecificerad
+#LYHENNE    Ääreisherm tutk.leikk, muu tai määrtön
+###
+#KOODI      ACA21 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto keskihermosta
+#RUOTSI     Biopsi av n. medianus
+#LYHENNE    Koepalan otto keskihermosta
+###
+#KOODI      ACA22 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto värttinähermosta
+#RUOTSI     Biopsi av n. radialis
+#LYHENNE    Koepalan otto värttinähermosta
+###
+#KOODI      ACA23 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto kyynärhermosta
+#RUOTSI     Biopsi av n. ulnaris
+#LYHENNE    Koepalan otto kyynärhermosta
+###
+#KOODI      ACA24 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto pohjehermosta
+#RUOTSI     Biopsi av n. peroneus
+#LYHENNE    Koepalan otto pohjehermosta
+###
+#KOODI      ACA25 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto säärihermosta
+#RUOTSI     Biopsi av n. tibialis
+#LYHENNE    Koepalan otto säärihermosta
+###
+#KOODI      ACA26 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto iskiashermosta
+#RUOTSI     Biopsi av n ischiadicus
+#LYHENNE    Koepalan otto iskiashermosta
+###
+#KOODI      ACA27 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto lantiohermopunoksesta
+#RUOTSI     Biopsi av plexus lumbalis
+#LYHENNE    Koepalan otto lantiohermopunoksesta
+###
+#KOODI      ACA28 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koepalan otto hartiahermopunoksesta
+#RUOTSI     Biopsi av plexus brachialis
+#LYHENNE    Koepalan otto hartiahermopunoksesta
+###
+#KOODI      ACA29 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2401      
+#SUOMI      Koepalan otto ääreishermosta, muu hermo tai määrittämätön
+#RUOTSI     Biopsi av annan eller ospecificerad nerv
+#LYHENNE    Koepalan otto äär.herm, muu/määrtön
+###
+#KOODI      ACA91 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu keskihermon tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på n. medianus
+#LYHENNE    Muu keskihermon tutkimusleikkaus
+###
+#KOODI      ACA92 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu värttinähermon tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på n. radialis
+#LYHENNE    Muu värttinähermon tutkimusleikkaus
+###
+#KOODI      ACA93 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kyynärhermon tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på n. ulnaris
+#LYHENNE    Muu kyynärhermon tutkimusleikkaus
+###
+#KOODI      ACA94 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu pohjehermon tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på n. peroneus
+#LYHENNE    Muu pohjehermon tutkimusleikkaus
+###
+#KOODI      ACA95 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu säärihermon tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på n. tibialis
+#LYHENNE    Muu säärihermon tutkimusleikkaus
+###
+#KOODI      ACA96 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu iskiashermon tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på n ischiadicus
+#LYHENNE    Muu iskiashermon tutkimusleikkaus
+###
+#KOODI      ACA97 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu lantiohermopunoksen tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på plexus lumbalis
+#LYHENNE    Muu lantiohermopunoksen tutkimusleikkaus
+###
+#KOODI      ACA98 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hartiahermopunoksen tutkimusleikkaus
+#RUOTSI     Annan diagnostisk operation på plexus brachialis
+#LYHENNE    Muu hartiahermopunoksen tutkimusleikkaus
+###
+#KOODI      ACA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2401      
+#SUOMI      Muu ääreishermojen tutkimusleikkaus
+#RUOTSI     Annat diagnostiskt ingrepp på perifer nerv
+#LYHENNE    Muu ääreishermojen tutkimusleikkaus
+###
+#KOODI      ACB11 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från n. medianus
+#LYHENNE    Keskihermon paikallisen muutoksen poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB12 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från n. radialis
+#LYHENNE    Värttinähermon paik muut poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB13 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från n. ulnaris
+#LYHENNE    Kyynärhermon paik muut poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB14 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från n. peroneus
+#LYHENNE    Pohjehermon paikallisen muutoksen poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB15 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från n. tibialis
+#LYHENNE    Säärihermon paikallisen muutoksen poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB16 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från n ischiadicus
+#LYHENNE    Iskiashermon paik muut poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB17 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från plexus lumbalis
+#LYHENNE    Lantiohermopunoksen muutoksen poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB18 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk förändring från plexus brachialis
+#LYHENNE    Hartiahermopunoksen muutoksen poisto
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB19 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2401      
+#SUOMI      Ääreishermon paikallisen muutoksen poisto, muu tai määrittämätön hermo
+#RUOTSI     Exstirpation av patologisk förändring från annan eller ospecificerad nerv
+#LYHENNE    Ääreishermon kasv poisto, muu/määrtön
+#OHJE_S  
+Sisältää kasvaimen poiston, hermon korjaamisen ja vierasesineiden poiston
+#OHJE_R 
+Inkluderar exstirpation av nervtumör, rekonstruktion av nerven och avlägsnande av främmande kropp
+###
+#KOODI      ACB21 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon ompelu
+#RUOTSI     Sutur av n. medianus
+#LYHENNE    Keskihermon ompelu
+###
+#KOODI      ACB22 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon ompelu
+#RUOTSI     Sutur av n. radialis
+#LYHENNE    Värttinähermon ompelu
+###
+#KOODI      ACB23 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon ompelu
+#RUOTSI     Sutur av n. ulnaris
+#LYHENNE    Kyynärhermon ompelu
+###
+#KOODI      ACB24 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon ompelu
+#RUOTSI     Sutur av n. peroneus
+#LYHENNE    Pohjehermon ompelu
+###
+#KOODI      ACB25 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon ompelu
+#RUOTSI     Sutur av n. tibialis
+#LYHENNE    Säärihermon ompelu
+###
+#KOODI      ACB26 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon ompelu
+#RUOTSI     Sutur av perifer n ischiadicus
+#LYHENNE    Iskiashermon ompelu
+###
+#KOODI      ACB27 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen ompelu
+#RUOTSI     Sutur av plexus lumbalis
+#LYHENNE    Lantiohermopunoksen ompelu
+###
+#KOODI      ACB28 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen ompelu
+#RUOTSI     Sutur av plexus brachialis
+#LYHENNE    Hartiahermopunoksen ompelu
+###
+#KOODI      ACB29 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2405      
+#SUOMI      Ääreishermon ompelu, muu tai määrittämätön hermo
+#RUOTSI     Sutur av annan eller ospecificerad nerv
+#LYHENNE    Ääreishermon ompelu, muu/määrtön
+###
+#KOODI      ACB91 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu keskihermon paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på n. medianus
+#LYHENNE    Muu keskihermon paik muut leikk
+###
+#KOODI      ACB92 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu värttinähermon paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på n. radialis
+#LYHENNE    Muu värttinähermon paik muut leikk
+###
+#KOODI      ACB93 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kyynärhermon paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på n. ulnaris
+#LYHENNE    Muu kyynärhermon paik muut leikk
+###
+#KOODI      ACB94 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu pohjehermon paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på n. peroneus
+#LYHENNE    Muu pohjehermon paik muut leikk
+###
+#KOODI      ACB95 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu säärihermon paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på n. tibialis
+#LYHENNE    Muu säärihermon paik muut leikk
+###
+#KOODI      ACB96 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu iskiashermon paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på n ischiadicus
+#LYHENNE    Muu iskiashermon paik muut leikk
+###
+#KOODI      ACB97 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu lantiohermopunoksen paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på plexus lumbalis
+#LYHENNE    Muu lantiohermopunoksen paik muut leikk
+###
+#KOODI      ACB98 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hartiahermopunoksen paikallisen muutoksen leikkaus
+#RUOTSI     Annan operation p g a patologisk förändring eller skada på plexus brachialis
+#LYHENNE    Muu hartiahermopunoksen paik muut leikk
+###
+#KOODI      ACB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2419      
+#SUOMI      Muu ääreishermon leikkaus paikallisen muutoksen takia
+#RUOTSI     Annan operation p.g.a.patologisk förändring eller skada på perifer nerv
+#LYHENNE    Muu ääreishermokasvainleikkaus
+###
+#KOODI      ACC11 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon katkaisu
+#RUOTSI     Avskärning av n. medianus
+#LYHENNE    Keskihermon katkaisu
+###
+#KOODI      ACC12 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon katkaisu
+#RUOTSI     Transcision av n. radialis
+#LYHENNE    Värttinähermon katkaisu
+###
+#KOODI      ACC13 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon katkaisu
+#RUOTSI     Avskärning av n. ulnaris
+#LYHENNE    Kyynärhermon katkaisu
+###
+#KOODI      ACC14 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon katkaisu
+#RUOTSI     Avskärning av n. peroneus
+#LYHENNE    Pohjehermon katkaisu
+###
+#KOODI      ACC15 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon katkaisu
+#RUOTSI     Avskärning av n. tibialis
+#LYHENNE    Säärihermon katkaisu
+###
+#KOODI      ACC16 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon katkaisu
+#RUOTSI     Avskärning av n ischiadicus
+#LYHENNE    Iskiashermon katkaisu
+###
+#KOODI      ACC17 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen katkaisu
+#RUOTSI     Avskärning av plexus lumbalis
+#LYHENNE    Lantiohermopunoksen katkaisu
+###
+#KOODI      ACC18 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen katkaisu
+#RUOTSI     Avskärning av plexus brachialis
+#LYHENNE    Hartiahermopunoksen katkaisu
+###
+#KOODI      ACC19 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2404      
+#SUOMI      Ääreishermon katkaisu, muu tai määrittämätön hermo
+#RUOTSI     Avskärning av perifer annan eller ospecificerad nerv
+#LYHENNE    Ääreishermon katkaisu, muu/määrtön
+#OHJE_S  
+Esim. toimintahäiriön takia
+#OHJE_R 
+exempelvis vid funktionsrubbning
+###
+#KOODI      ACC21 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon korjaaminen
+#RUOTSI     Rekonstruktion av n. medianus
+#LYHENNE    Keskihermon korjaaminen
+###
+#KOODI      ACC22 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon korjaaminen
+#RUOTSI     Rekonstruktion av n. radialis
+#LYHENNE    Värttinähermon korjaaminen
+###
+#KOODI      ACC23 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon korjaaminen
+#RUOTSI     Rekonstruktion av n. ulnaris
+#LYHENNE    Kyynärhermon korjaaminen
+###
+#KOODI      ACC24 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon korjaaminen
+#RUOTSI     Rekonstruktion av n. peroneus
+#LYHENNE    Pohjehermon korjaaminen
+###
+#KOODI      ACC25 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon korjaaminen
+#RUOTSI     Rekonstruktion av n. tibialis
+#LYHENNE    Säärihermon korjaaminen
+###
+#KOODI      ACC26 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon korjaaminen
+#RUOTSI     Rekonstruktion av n ischiadicus
+#LYHENNE    Iskiashermon korjaaminen
+###
+#KOODI      ACC27 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen korjaaminen
+#RUOTSI     Rekonstruktion av plexus lumbalis
+#LYHENNE    Lantiohermopunoksen korjaaminen
+###
+#KOODI      ACC28 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen korjaaminen
+#RUOTSI     Rekonstruktion av plexus brachialis
+#LYHENNE    Hartiahermopunoksen korjaaminen
+###
+#KOODI      ACC29 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2406+     
+#SUOMI      Ääreishermon korjaaminen, muu tai määrittämätön hermo
+#RUOTSI     Rekonstruktion av annan eller ospecificerad nerv
+#LYHENNE    Ääreishermon korjaaminen, muu/määrtön
+#OHJE_S  
+Esim. siirrettä käyttäen
+Yksinkertainen ompelu, katso ACB29
+#OHJE_R 
+T.ex. medels nervtransplantat
+Enkel neurorafi, se ACB29
+###
+#KOODI      ACC30 
+#MUUT_PVM   2000/09/22
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/24
+#POISTETTU
+#VANHA      2407      
+#SUOMI      Hermopunoksen korjaaminen
+#RUOTSI     Rekonstruktion av nervplexus
+#LYHENNE    Hermopunoksen korjaaminen
+#OHJE_S  
+Sisältää syntymävaurion korjaamisen
+#OHJE_R 
+Inkluderar reparation av förlossningsskada
+###
+#KOODI      ACC41 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon siirto uuteen tehtävään
+#RUOTSI     Transposition av n. medianus
+#LYHENNE    Keskihermon siirto uuteen tehtävään
+###
+#KOODI      ACC42 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon siirto uuteen tehtävään
+#RUOTSI     Transposition av n. radialis
+#LYHENNE    Värttinähermon siirto uuteen tehtävään
+###
+#KOODI      ACC43 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon siirto uuteen tehtävään
+#RUOTSI     Transposition av n. ulnaris
+#LYHENNE    Kyynärhermon siirto uuteen tehtävään
+###
+#KOODI      ACC44 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon siirto uuteen tehtävään
+#RUOTSI     Transposition av n. peroneus
+#LYHENNE    Pohjehermon siirto uuteen tehtävään
+###
+#KOODI      ACC45 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon siirto uuteen tehtävään
+#RUOTSI     Transposition av n. tibialis
+#LYHENNE    Säärihermon siirto uuteen tehtävään
+###
+#KOODI      ACC46 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon siirto uuteen tehtävään
+#RUOTSI     Transposition av n ischiadicus
+#LYHENNE    Iskiashermon siirto uuteen tehtävään
+###
+#KOODI      ACC47 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen siirto uuteen tehtävään
+#RUOTSI     Transposition av plexus lumbalis
+#LYHENNE    Lantiohermopunoksen siirto uuteen tehtäv
+###
+#KOODI      ACC48 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen siirto uuteen tehtävään
+#RUOTSI     Transposition av plexus brachialis
+#LYHENNE    Hartiahermopun siirto uut tehtäv
+###
+#KOODI      ACC49 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2408      
+#SUOMI      Ääreishermon siirto uuteen tehtävään, muu tai määrittämätön hermo
+#RUOTSI     Transposition av annan eller ospecificerad nerv
+#LYHENNE    Ääreisherm siirto uut teht, muu/määrtön
+###
+#KOODI      ACC51 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskihermon vapautus
+#RUOTSI     Dekompression av n. medianus
+#LYHENNE    Keskihermon vapautus
+###
+#KOODI      ACC52 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Värttinähermon vapautus
+#RUOTSI     Dekompression av n. radialis
+#LYHENNE    Värttinähermon vapautus
+###
+#KOODI      ACC53 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kyynärhermon vapautus
+#RUOTSI     Dekompression av n. ulnaris
+#LYHENNE    Kyynärhermon vapautus
+###
+#KOODI      ACC54 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pohjehermon vapautus
+#RUOTSI     Dekompression av n. peroneus
+#LYHENNE    Pohjehermon vapautus
+###
+#KOODI      ACC55 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Säärihermon vapautus
+#RUOTSI     Dekompression av n. tibialis
+#LYHENNE    Säärihermon vapautus
+###
+#KOODI      ACC56 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iskiashermon vapautus
+#RUOTSI     Dekompression av n ischiadicus
+#LYHENNE    Iskiashermon vapautus
+###
+#KOODI      ACC57 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantiohermopunoksen vapautus
+#RUOTSI     Dekompression av plexus lumbalis
+#LYHENNE    Lantiohermopunoksen vapautus
+###
+#KOODI      ACC58 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hartiahermopunoksen vapautus
+#RUOTSI     Dekompression av plexus brachialis
+#LYHENNE    Hartiahermopunoksen vapautus
+###
+#KOODI      ACC59 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2402      
+#SUOMI      Ääreishermon vapautus, muu tai määrittämätön hermo
+#RUOTSI     Dekompression av annan eller ospecificerad nerv
+#LYHENNE    Ääreishermon vapautus, muu/määrtön
+#OHJE_S  
+Sisältää kiinnikkeiden irroittelun
+#OHJE_R 
+Inkl adherenslösning
+###
+#KOODI      ACC69 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/24
+#POISTETTU
+#VANHA      1549+     
+#SUOMI      Ääreishermon vapautus tähystyksessä tai suljetusti iholta
+#RUOTSI     Neurolys av perifer nerv endoskopiskt eller transkutant
+#LYHENNE    Ääreishermovapautus,tähystys/suljetusti
+###
+#KOODI      ACC70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/24
+#POISTETTU
+#VANHA      2419+     
+#SUOMI      Hermopunoksen vapautus
+#RUOTSI     Neurolys av nervplexus
+#LYHENNE    Hermopunoksen vapautus
+#OHJE_S  
+Sisältää syntymävaurion korjaamisen
+#OHJE_R 
+Inkl. rekonstruktion efter en födelseskada
+###
+#KOODI      ACC91 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu keskihermon vaurion leikkaus
+#RUOTSI     Annan operation på n. medianus p g a funktionella rubbningar
+#LYHENNE    Muu keskihermon vaurion leikkaus
+###
+#KOODI      ACC92 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu värttinähermon vaurion leikkaus
+#RUOTSI     Annan operation på n. radialis p g a funktionella rubbningar
+#LYHENNE    Muu värttinähermon vaurion leikkaus
+###
+#KOODI      ACC93 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kyynärhermon vaurion leikkaus
+#RUOTSI     Annan operation på n. ulnaris p g a funktionella rubbningar
+#LYHENNE    Muu kyynärhermon vaurion leikkaus
+###
+#KOODI      ACC94 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu pohjehermon vaurion leikkaus
+#RUOTSI     Annan operation på n. peroneus p g a funktionella rubbningar
+#LYHENNE    Muu pohjehermon vaurion leikkaus
+###
+#KOODI      ACC95 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu säärihermon vaurion leikkaus
+#RUOTSI     Annan operation på n. tibialis p g a funktionella rubbningar
+#LYHENNE    Muu säärihermon vaurion leikkaus
+###
+#KOODI      ACC96 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu iskiashermon vaurion leikkaus
+#RUOTSI     Annan operation på n ischiadicus p g a funktionella rubbningar
+#LYHENNE    Muu iskiashermon vaurion leikkaus
+###
+#KOODI      ACC97 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu lantiohermopunoksen vaurion leikkaus
+#RUOTSI     Annan operation på plexus lumbalis p g a funktionella rubbningar
+#LYHENNE    Muu lantiohermopunoksen vaurion leikkaus
+###
+#KOODI      ACC98 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu hartiahermopunoksen vaurion leikkaus
+#RUOTSI     Annan operation på plexus brachialis p g a funktionella rubbningar
+#LYHENNE    Muu hartiahermopunoksen vaurion leikkaus
+###
+#KOODI      ACC99 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2419      
+#SUOMI      Muu ääreishermon  vaurion leikkaus, muu tai määrittämätön hermo
+#RUOTSI     Annan operation på annan eller ospecificerad nerv p g a funktionella rubbningar
+#LYHENNE    Muu ääreishermovaurioleikkaus
+###
+#KOODI      ACW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2419      
+#SUOMI      Muu ääreishermon leikkaus
+#RUOTSI     Annan operation på perifer nerv
+#LYHENNE    Muu ääreishermon leikkaus
+###
+#KOODI_R    AD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Autonominen hermosto
+#RUOTSI     Autonomt nervsystem
+#ENGL       Autonomic nervous system
+#OHJE_S  
+Kemialliset sympatektomiat kohdassa TAD
+#OHJE_R 
+Kemisk sympatektomi, se TAD
+###
+#KOODI      ADA10 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2422      
+#SUOMI      Kaulatason sympatektomia
+#RUOTSI     Cervikal sympatektomi
+#LYHENNE    Kaulatason sympatektomia
+###
+#KOODI      ADA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2423      
+#SUOMI      Rintatason sympatektomia
+#RUOTSI     Torakal sympatektomi
+#LYHENNE    Rintatason sympatektomia
+###
+#KOODI      ADA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2424      
+#SUOMI      Lannetason sympatektomia
+#RUOTSI     Lumbal sympatektomi
+#LYHENNE    Lannetason sympatektomia
+###
+#KOODI      ADA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2429      
+#SUOMI      Muu sympaattisten hermojen leikkaus
+#RUOTSI     Annan operation på sympatiska nervsystemet
+#LYHENNE    Muu sympaattisten hermojen leikkaus
+###
+#KOODI      ADB00 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vagushermoa stimuloivan laitteen asentaminen
+#RUOTSI     Implantation av vagus nerve stimulerande apparat
+#LYHENNE    Vagushermoa stimuloivan laitteen asentam
+#OHJE_S  
+Impulssigeneraattorin vaihto tai laitteen poisto, katso AEA
+#OHJE_R 
+Utbyte av impulssigenerattor eller uttagning av aparatet, se AEA
+###
+#KOODI      ADW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2429      
+#SUOMI      Muu autonomisen hermoston leikkaus
+#RUOTSI     Annan operation på autonoma nervsystemet
+#LYHENNE    Muu autonomisen hermoston leikkaus
+###
+#KOODI_R    AE
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut hermojärjestelmän toimenpiteet
+#RUOTSI     Andra åtgärder på nervsystemet
+#ENGL       Miscellaneous operations on the nervous system
+###
+#KOODI      AEA00 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermostoärsykkeitä antavan laitteen impulssigeneraattorin vaihto
+#RUOTSI     Utbyte av impulsgenerator för nervsystem stimulerande apparat
+#LYHENNE    Herm stim laitt impulssigen vaihto
+###
+#KOODI      AEA20 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermostoäsykkeitä antavan laitteen impulssigeneraattorin poisto
+#RUOTSI     Uttagning av impulsgenererator för nervsystem stimulerade apparat
+#LYHENNE    Herm stim laitt impulssigen poisto
+###
+#KOODI      AEA23 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallonsisäisen elektrodin poisto
+#RUOTSI     Uttagning av intrakraniel elektrod
+#LYHENNE    Kallonsisäisen elektrodin poisto
+###
+#KOODI      AEA24 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydintä stimuloivan elektrodin poisto
+#RUOTSI     Uttagning av spinal stimulerande elektrod
+#LYHENNE    Selkäydintä stimuloivan elektrodin poist
+###
+#KOODI      AEA25 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vagushermoärsytystä antavan elektrodin poisto
+#RUOTSI     Uttagning av vagus nerve stimulerande elektrod
+#LYHENNE    Vagushermoa stimuloivan elektrodin poist
+###
+#KOODI      AEA30 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudoksen sisään asennetun keskushermoston injektiolaitteen pumpun vaihto
+#RUOTSI     Utbyte av implanterad pump av injektionsapparat i nervsystemet
+#LYHENNE    Impl kesk.herm inj.laitt. pumpun vaihto
+###
+#KOODI      AEA40 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudoksen sisään asennetun keskushermoston injektiolaitteen pumpun poisto
+#RUOTSI     Uttagning av implanterad pump av injektionsapparat i nervsystemet
+#LYHENNE    Impl kesk.herm inj.laitt. pumpun poisto
+###
+#KOODI      AEA43 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kallonsisäisen hermoston injektiolaitteen katetrin poisto
+#RUOTSI     Uttagning av intrakraniel kateter av injektionsapparat i nervsystemet
+#LYHENNE    Kallonsis hermoston injektiolait poisto
+###
+#KOODI      AEA44 
+#MUUT_PVM   2001/05/17
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäytimen injektiolaitteen katetrin poisto
+#RUOTSI     Uttagning av kateter av spinal injektionsapparat
+#LYHENNE    Selkäytimen injektiolaitteen katetrin po
+###
+#KOODI_R    AW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hermoston leikkausten haavakomplikaatioleikkaukset
+#RUOTSI     Reoperationer för sårkomplikationer av neurokirurgi
+#ENGL       Reoperations for postoperative complications in neurosurgery
+###
+#KOODI      AWB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2221      
+#SUOMI      Auenneen tai tulehtuneen hermoston leikkaushaavan tarkistaminen
+#RUOTSI     Revision av dehiscens eller infektion i operationssår (neuro-operation)
+#LYHENNE    Hermostoleikkaushaavarevisio,auenn/inf
+###
+#KOODI      AWC00 
+#MUUT_PVM   2003/09/24
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermostoleikkauksen uusintaleikkaus hermoston syvän haavainfektion vuoksi
+#RUOTSI     Reoperation för djup infektion efter neuro-operation
+#LYHENNE    Hermostoleikkaushaavarevisio, syvä inf
+###
+#KOODI      AWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2222      
+#SUOMI      Hermostoleikkauksen uusintaleikkaus haavaontelon vuodon vuoksi
+#RUOTSI     Reoperation för blödning efter neuro-operation
+#LYHENNE    Hermostoleikk uusintaleikk vuodon vuoksi
+###
+#KOODI      AWW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2229      
+#SUOMI      Muu hermostoleikkauksen haavakomplikaatioleikkaus
+#RUOTSI     Annat ingrepp för sårkomplikation efter neuro-operation
+#LYHENNE    Muu hermoston haavakomplikaatioleikk
+###
+#KOODI_R    AX
+#MUUT_PVM   2002/08/24
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Tarkemmin paikantamattomat hermoston toimenpiteet
+#RUOTSI     Åtgärder i nervsystemet utan närmare lokalisation
+#ENGL       Other neurological procedures
+###
+#KOODI      AX099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko keskushermoston sädehoito
+#RUOTSI     Strålbehandling av hela centrala nervsystemet
+#LYHENNE    Koko keskushermoston sädehoito
+###
+#KOODI      AX1XD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2002/11/10
+#POISTETTU
+#VANHA      5879      
+#SUOMI      Pään muu TT
+#RUOTSI     DT av huvudet (övrig)
+#LYHENNE    Muu pään TT
+###
+#KOODI_A    AXX
+#MUUT_PVM   2002/08/24
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut hermoston pientoimenpiteet
+#RUOTSI     Andra mindre åtgärder i nervsystemet
+#ENGL       Other minor neurological procedures
+###
+#KOODI      AXX90 
+#MUUT_PVM   2003/09/29
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suonensisäinen  kipulääketesti
+#RUOTSI     Intravaskulär testning av smärtelindrande läkemedel
+#LYHENNE    Suonensisäinen  kipulääketesti
+#OHJE_S  
+Osana kipupotilaan hoitoa
+#OHJE_R 
+Hos patient med kronisk smärta

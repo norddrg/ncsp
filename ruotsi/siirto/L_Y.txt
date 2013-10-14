@@ -1,0 +1,590 @@
+
+###
+#KOODI_L    Y
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagning av organ för transplantationer
+#RUOTSI     ---
+#ENGL       Procurement of organs or tissue for transplantation
+###
+#KOODI_A    YCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av hornhinna för transplantation
+#RUOTSI     ---
+#ENGL       Excision of cornea for transplantation
+###
+#KOODI      YCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av hornhinna till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YFA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av hjärta/lungor för hjärt- eller hjärt-lungtransplantation
+#RUOTSI     ---
+#ENGL       Excision of organs for heart or heart and lung transplantation
+###
+#KOODI      YFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av hjärta till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av hjärta till dominotransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YFA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av hjärta och lungor en bloc till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YFA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av hjärta till homograft
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YFA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med uttagning av hjärta eller hjärta-lungor till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YGA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av lunga/lungor för transplantation
+#RUOTSI     ---
+#ENGL       Excision of lung for transplantation
+###
+#KOODI      YGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av en eller båda lungor till transplantation från nekrodonator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av lunga till transplantation från levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YGA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av lunglob till transplantation från levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YGA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med uttagning av lungor till transplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga YGA
+#OHJE_R 
+---
+###
+#KOODI_A    YJA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av lever för transplantation
+#RUOTSI     ---
+#ENGL       Excision of liver for transplantation
+###
+#KOODI      YJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av del av lever till transplantation från levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av lever till transplantation från nekrodonator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YJB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av tunntarm för transplantation
+#RUOTSI     ---
+#ENGL       Excision of small intestine for transplantation
+###
+#KOODI      YJB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av tunntarm till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YJC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av magsäck och tunntarm för transplantation
+#RUOTSI     ---
+#ENGL       Block excision of stomach and small intestine for transplantation
+###
+#KOODI      YJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av magsäck och tunntarm en bloc till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YJD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av pankreas för transplantation
+#RUOTSI     ---
+#ENGL       Excision of pancreas for transplantation
+###
+#KOODI      YJD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av pankreas till transplantation av ö-cellspreparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YJD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av del av pankreas till transplantation från levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YJD20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av del av pankreas till transplantation från nekrodonator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YJD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av pankreas till transplantation från nekrodonator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YKA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av njure/njurar för transplantation
+#RUOTSI     ---
+#ENGL       Excision of kidney for transplantation
+###
+#KOODI      YKA00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av en njure från levande donator till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YKA01 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk uttagning av njure från levande donator
+#RUOTSI     ---
+#LYHENNE    Perk endosk uttag av njure fr lev donato
+#OHJE_S  
+Inkl uttagning av del av uretär
+#OHJE_R 
+---
+###
+#KOODI      YKA02 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av båda njurar till transplantation från nekrodonator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YNA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av muskuloskeletal vävnad för transplantation
+#RUOTSI     ---
+#ENGL       Excision of tissue from musculoskeletal system for transplantation
+###
+#KOODI      YNA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av spongiöst ben från bäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av kortiko-spongiöst ben från bäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av spongiöst ben från annan lokalisation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA03 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av kortiko-spongiöst ben från annan lokalisation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA04 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av hel skelettdel till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av vaskulariserat bentransplantat till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA06 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av ben-brosktransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA09 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av annan typ av bentransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av sena till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av brosk till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av periost till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av muskel till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av vaskulariserad muskel till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA50 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av menisk till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YNA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med uttagning av ben och mjukdelar till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YNB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av benmärg för transplantation
+#RUOTSI     ---
+#ENGL       Excision of bone marrow for transplantation
+###
+#KOODI      YNB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av benmärg till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YPA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uttagningar av kärl för transplantation
+#RUOTSI     ---
+#ENGL       Excision of blood vessel for transplantation
+###
+#KOODI      YPA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av kärl till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    YQA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excisioner av hud för transplantation
+#RUOTSI     ---
+#ENGL       Excision of skin for transplantation
+###
+#KOODI      YQA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hud till senare autotransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YQA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hud till heterotransplantation från levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YQA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hud till heterotransplantation från nekrodonator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YQA99 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med excision av hud till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWA00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWB00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWC00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWC01 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup infektion efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWD00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWE00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWE01 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup blödning efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWF00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWF01 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för anastomos- eller suturinsufficiens efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWW96 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      YWW97 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk reoperation efter uttagning av organ eller vävnad till transplantation
+#RUOTSI     ---
+#LYHENNE    

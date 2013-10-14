@@ -1,0 +1,4349 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU A
+
+@LUVUT_S = KAPITEL A
+
+@SUOMI_L = Hermoston toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ nervsystemet
+
+@ENGL_L = Nervous system procedures
+
+@NOTE_LF = Punktiot ja koepalan otot kohdassa TA
+
+@NOTE_LS = Punktion och punktionsbiops, se TA
+
+@END_L = 
+
+@KOODI_R = AA
+
+@SUOMI_R = Kallon ja aivojen toimenpiteet
+
+@RUOTSI_R = ètgÑrder pÜ kraniet och intrakraniala strukturer
+
+@ENGL_R = Skull and intracranial structures
+
+@NOTE_RF = SisÑltÑÑ aivolisÑkkeen ja kÑpyrauhasen
+
+@NOTE_RS = Inkluderar ÜtgÑrder pÜ hypofysen och tallkottkîrteln
+
+@END = 
+
+@KOODI = AA5FG
+
+@SUOMI = Aivojen toiminnallinen magneettitutkimus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = AA5GG
+
+@SUOMI = Aivojen toiminnallinen magneettitutkimus, laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = AA5HG
+
+@SUOMI = Aivojen toiminnallinen magneettitutkimus, erittÑin laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = AAA
+
+@SUOMI_A = Aivojen tutkimusleikkaukset
+
+@RUOTSI_A = Diagnostiska intrakraniala ingrepp
+
+@ENGL_A = Diagnostic intracranial procedures
+
+@NOTE_RF = Stereotaktiset leikkaukset kohdassa AAG
+
+@END = 
+
+@KOODI = AAA27
+
+@SUOMI = Aivokudoksen paineanturin asettaminen
+
+@RUOTSI = Applikation av intracerebral tryckgivare
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = AAE
+
+@SUOMI_A = Kallonpohjan kautta tehtÑvÑt leikkaukset
+
+@RUOTSI_A = Ingrepp via skallbasen
+
+@ENGL_A = Operations by cranial base approach
+
+@NOTE_RF = SisÑltÑÑ aivolisÑkeleikkaukset
+
+@NOTE_RS = Inkluderar ÜtgÑrder pÜ hypofysen och tallkottkîrteln
+
+@END = 
+
+@KOODI = AAE25
+
+@SUOMI = Kudoksen poistaminen kallon sisÑltÑ transkervikaalisesti, kaulan kautta
+
+@RUOTSI = Transcervical exstirpation eller resektion
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = AAF
+
+@SUOMI_A = Aivonestekierron sÑÑtelytoimenpiteet
+
+@RUOTSI_A = Shuntoperationer pÜ hjÑrnventriklar eller intracerebral cystor
+
+@ENGL_A = Shunt operations on ventricles of brain or intracerebral cysts
+
+@NOTE_RF = SelkÑydinnesteen kanavointi iholle, ks. TAA
+
+@END = 
+
+@KOODI = AAF45
+
+@SUOMI = Aivokystan avanteen teko
+
+@RUOTSI = Fenestrering av intrakranial cysta
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = AAU
+
+@SUOMI_A = Istutteiden ja kiinnityslaitteiden poisto kallosta
+
+@RUOTSI_A = Uttagning av implanter och external fixations apparater frÜn skallet
+
+@ENGL_A = Removal of implants and external fixation devices from skull
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = AAU00
+
+@SUOMI = Istutteen tai kiinnityslaitteen poistaminen kallosta
+
+@RUOTSI = Uttagning av implant eller fixations apparat frÜn skalle
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = AB
+
+@SUOMI_R = SelkÑytimen ja hermojuurien toimenpiteet
+
+@RUOTSI_R = ètgÑrder pÜ ryggmÑrg och nervrîtter
+
+@ENGL_R = Spinal cord and nerve roots
+
+@END = 
+
+@KOODI = AB5BT
+
+@SUOMI = Hermojuuren salpaus lÑpivalaisuohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU B
+
+@LUVUT_S = KAPITEL B
+
+@SUOMI_L = Umpierityselimien toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ endokrina organ
+
+@ENGL_L = Endocrine system procedures
+
+@NOTE_LF = AivolisÑkkeen ja kÑpylisÑkkeen leikkaukset luvussa A
+
+@NOTE_LF =
+Kateenkorvan leikkaukset luvussa G
+
+@NOTE_LF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TB
+
+@NOTE_LF =
+MyîhÑinen uusintaleikkaus ilmaistaa lisÑkoodilla ZSB00
+
+@NOTE_LS = Operationer pÜ hypofysen och tallkottkîrteln, se kapitel A
+
+@NOTE_LS =
+Operationer pÜ tymus, se GEC
+
+@NOTE_LS =
+Punktion, punktionsbiopsi och aspirationscytologi, se TB
+
+@NOTE_LS =
+Sen reoperation anges med tillÑggskoden ZSB00
+
+@END_L = 
+
+@KOODI = BB1CC
+
+@SUOMI = YlÑraajavaltimoiden erittÑin laaja varjoainetutkimus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU D
+
+@LUVUT_S = KAPITEL D
+
+@SUOMI_L = Korvan, nenÑn ja kurkunpÑÑn toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ îron, nÑsa, hals och struphuvud
+
+@ENGL_L = Ear, nose and larynx procedures
+
+@NOTE_LF = Punktiot ja neulabiosiat kohdassa TD
+
+@NOTE_LF =
+Trakeostomia kohdassa GBC
+
+@NOTE_LF =
+Trakeoskopiat kohdassa UGA
+
+@NOTE_LS = Punktion och punktionsbiopsi , se TD
+
+@NOTE_LS =
+Trakeotomiingrepp, se GBC
+
+@NOTE_LS =
+Trakeoskopi, se UGA
+
+@END_L = 
+
+@KOODI_R = DB
+
+@SUOMI_R = KorvakÑytÑvÑn toimenpiteet
+
+@RUOTSI_R = Operationer pÜ hîrselgÜngen
+
+@ENGL_R = External auditory canal
+
+@NOTE_RF = Koepalan otto luvussa T
+
+@NOTE_RF =
+Paikallisen muutoksen aukaisu, katso DAA00
+
+@NOTE_RS = Incision av hîrselgÜngen, se DAA00
+
+@NOTE_RS =
+Biopsi, se T
+
+@END = 
+
+@KOODI = DBA00
+
+@SUOMI = KorvakÑytÑvÑn paikallisen muutoksen aukaisu
+
+@RUOTSI = Incision av îrongÜnget
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = DH
+
+@SUOMI_R = NenÑn toimenpiteet
+
+@RUOTSI_R = Operationer pÜ nÑsan (exkl septum)
+
+@ENGL_R = Nose
+
+@NOTE_RF = NenÑn tÑhystykset luvussa U
+
+@NOTE_RS = Skopier, se U
+
+@END = 
+
+@KOODI = DHC10
+
+@SUOMI = Istutteen poisto nenÑluusta
+
+@RUOTSI = Uttagning av implant frÜn nÑsbenet
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU E
+
+@LUVUT_S = KAPITEL E
+
+@SUOMI_L = Hampaiden, leuan, suun ja nielun toimenpiteet
+
+@RUOTSI_L = Operationer pÜ tÑnder, kÑkar, munhÜla och svalg
+
+@ENGL_L = Teeth, jaws, mouth and pharynx procedures
+
+@NOTE_LF = Hankarauhasen leikkaukset  kohdassa BDA
+
+@NOTE_LS = Operationer pÜ glomus caroticum, se BDA
+
+@END_L = 
+
+@KOODI_R = EB
+
+@SUOMI_R = Hampaiston toimenpiteet
+
+@RUOTSI_R = Operationer pÜ tÑnderna
+
+@ENGL_R = Teeth
+
+@NOTE_RF = Konservatiiviset toimenpiteet kohdassa TE
+
+@NOTE_RS = Konservativ tandbehandling, se TE
+
+@END = 
+
+@KOODI = EB1LA
+
+@SUOMI = Hampaiston rîntgenkuvaus kliinisen tutkimuksen yhteydessÑ
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = EBA
+
+@SUOMI_A = Hampaiden poistot
+
+@RUOTSI_A = AvlÑgsnande av tand eller del av tand
+
+@ENGL_A = Extraction and partial excision of tooth
+
+@END = 
+
+@KOODI = EBA15
+
+@SUOMI = Hampaiston saneeraus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = VÑhintÑÑn viiden hampaan poisto
+
+@END = 
+
+@KOODI = EBA45
+
+@SUOMI = Monijuurisen hampan juurenpÑÑn poisto
+
+@RUOTSI = Rotspetsresektion av tand med flera rîtter
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = EBB
+
+@SUOMI_A = Hampaiden kiruginen korjaaminen tai korvaaminen
+
+@RUOTSI_A = Rekonstruktiva kirurgiska  ingrepp pÜ tÑnderna
+
+@ENGL_A = Reconstructive surgical operations on teeth
+
+@END = 
+
+@KOODI = EBB00
+
+@SUOMI = Hampaan kiinnitys sijoiltaanmenon vuoksi
+
+@RUOTSI = Behandling av tandluxation
+
+@END = 
+
+@KOODI = EBB11
+
+@SUOMI = Toisen keinojuuren asettaminen samalla kerralla
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kunkin keinojuuren asettaminen koodataan erikseen
+
+@END = 
+
+@KOODI = EBU00
+
+@SUOMI = Hampaisiin kiinnitetyn kiinnityslaitteen poisto
+
+@RUOTSI = Uttagning av fixations apparat frÜn tÑnderna
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Hammashoidon toimenpiteenÑ, katso luku S
+
+@NOTE_S = I samband med tandvÜrd, se kapitel S
+
+@END = 
+
+@KOODI_R = EC
+
+@SUOMI_R = Ikenien ja hammasharjanteen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ gingiva och alveolarutskott
+
+@ENGL_R = Gingiva and alveoli
+
+@NOTE_RF = Punktiot ja neulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI_A = ECA
+
+@SUOMI_A = Ikenen ja hammasharjanteen aukaisu tai poistoleikkaukset
+
+@RUOTSI_A = Incision, biopsi och excision av gingiva och alveolarutskott
+
+@ENGL_A = Incision, biopsy and excision of gingiva and alveolus
+
+@END = 
+
+@KOODI = ECA30
+
+@SUOMI = Ikenen poistoleikkaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ECA35
+
+@SUOMI = Vaativa ienmuutoksen poisto
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ECA40
+
+@SUOMI = Ikenen ja hammasharjanteen mÑrkÑpesÑkkeen leikkaus
+
+@RUOTSI = Behandling av parodontal abscess
+
+@END = 
+
+@KOODI = ECA50
+
+@SUOMI = Hammasvieruskudoksen muovausleikkaus
+
+@RUOTSI = Parodontal operation
+
+@NOTE_F = Poistettu / deleterad 1999/10/04
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk      
+
+@END = 
+
+@KOODI = ECA50
+
+@SUOMI = Parodontologinen lÑppÑleikkaus
+
+@RUOTSI = Parodontal operation
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ECA55
+
+@SUOMI = Vaativa parodontologinen lÑppÑleikkaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Luuta korvaavaa tai luun muodostusta edistÑvÑÑ tekniikkaa kÑyttÑen
+
+@NOTE_F = SisÑltÑÑ kalvotekniikan
+
+@END = 
+
+@KOODI_A = ECB
+
+@SUOMI_A = Ikenen ja hammasharjanteen korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ gingiva och alveolarutskott
+
+@ENGL_A = Reconstructive operations on gingiva and alveoli
+
+@END = 
+
+@KOODI = ECB15
+
+@SUOMI = Hammasharjanteen alueen ja poskiontelon tai nenÑn vÑlisen avanteen sulkemminen
+
+@RUOTSI = Plastikoperation av oronasal eller oroantral gingivafistel
+
+@NOTE_F = Suulaen avanteet, katso EHC10
+
+@NOTE_S = Slutning av fistel pÜ gommen, se EHC10
+
+@END = 
+
+@KOODI = ECB65
+
+@SUOMI = Hammasharjanteen katkaisu ja venytys
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ECU00
+
+@SUOMI = Istutteen tai kiinnityslaitteen poisto hammasharjanteesta
+
+@RUOTSI = Uttagning av implantat eller fixations apparat frÜn alveolarutskott
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Hammashoidon toimenpiteenÑ, katso luku S
+
+@NOTE_S = I samband med tandvÜrd, se kapitel S
+
+@END = 
+
+@KOODI_R = ED
+
+@SUOMI_R = Alaleuan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ underkÑken
+
+@ENGL_R = Mandible
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@END = 
+
+@KOODI_A = EDC
+
+@SUOMI_A = Alaleuan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ underkÑken
+
+@ENGL_A = Reconstructive operations on mandible
+
+@NOTE_RF = Siirteet ja kielekkeet ilmaistaan lisÑkoodilla ryhmÑstÑ ZZ
+
+@NOTE_RS = Transplantat anges med tillÑggskod frÜn grupp ZZ
+
+@END = 
+
+@KOODI = EDC05
+
+@SUOMI = Alaleuan segmentaalinen katkaisu
+
+@RUOTSI = Segmentosteotomi pÜ underkÑken
+
+@END = 
+
+@KOODI = EDC10
+
+@SUOMI = Alaleuan nousevan haaran sagittaalinen katkaisu
+
+@RUOTSI = Sagittal ramusosteotomi pÜ underkÑken îvre del
+
+@END = 
+
+@KOODI = EDC15
+
+@SUOMI = Alaleuan nousevan haaran vertikaalinen katkaisu
+
+@RUOTSI = Vertikal ramusosteotomi pÜ underkÑken îvre del
+
+@END = 
+
+@KOODI = EDC32
+
+@SUOMI = Alaleuan nivelhaarakkeen murtuman suljettu paikalleen asettaminen ja leukojen yhteen kiinnitys
+
+@RUOTSI = Sluten reposition och immobilisation av fraktur i mandipulÑr huvud
+
+@END = 
+
+@KOODI = EDC35
+
+@SUOMI = Alaleukamurtuman suljettu korjaaminen ja kiinnitys
+
+@RUOTSI = Sluten reposition och immobilisation av underkÑksfraktur
+
+@NOTE_F = Poistettu / deleterad 1999/07/08
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk EDC34
+
+@END = 
+
+@KOODI = EDC38
+
+@SUOMI = Alaleuan runko-osan murtuman avoin korjaaminen
+
+@RUOTSI = ôppen reposition och immobilisation av fraktur i mandipulÑr corpus
+
+@NOTE_F = SisÑltÑÑ sekÑ sisÑisen ettÑ ulkoisen kiinnityksen
+
+@NOTE_S = Innefattar bÜde intern och extern immobilisation
+
+@END = 
+
+@KOODI = EDC40
+
+@SUOMI = Alaleukamurtuman avoin liittÑminen
+
+@RUOTSI = ôppen reposition och osteosyntes av underkÑksfraktur
+
+@NOTE_F = Poistettu / deleterad 1999/07/08
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk EDC38
+
+@END = 
+
+@KOODI = EDC42
+
+@SUOMI = Alaleuan korjaaminen vierasta materiaalia kÑyttÑen
+
+@RUOTSI = Rekonstruktion av mandibula med implantat
+
+@END = 
+
+@KOODI = EDC50
+
+@SUOMI = Alaleuan katkaisu ja horisontaalinen venytys
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EDC55
+
+@SUOMI = Alaleuan katkaisu ja vertikaalinen venytys
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EDU00
+
+@SUOMI = Alaleuan istutteen tai kiinnityslaitteen poisto
+
+@RUOTSI = Uttagning av implant eller fixations apparat frÜn mandibula
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Hammashoidon toimenpiteenÑ, katso luku S
+
+@NOTE_S = I samband med tandvÜrd, se kapitel S
+
+@END = 
+
+@KOODI_R = EE
+
+@SUOMI_R = YlÑleuan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ îverkÑken
+
+@ENGL_R = Maxilla
+
+@NOTE_RF = Poskiontelon leikkaukset kohdassa DM
+
+@NOTE_RF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Operationer pÜ sinus maxillaris, se DM
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI_A = EEC
+
+@SUOMI_A = YlÑleuan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ îverkÑken
+
+@ENGL_A = Reconstructive operations on maxilla
+
+@NOTE_RF = SisÑltÑÑ poskiontelon katon korjaamisen
+
+@NOTE_RF =
+SilmÑkuopan pohjan korjausleikkaukset kohdissa CAC00 ja CAC10
+
+@NOTE_RF =
+Siirteet ja kielekkeet ilmaistaan lisÑkoodilla ryhmÑstÑ ZZ
+
+@NOTE_RS = Innefattar rekonstruktion av sinus maxillaris
+
+@NOTE_RS =
+Rekonstruktion av orbita, se CAC00 eller CAC10
+
+@NOTE_RS =
+Transplantat anges med tillÑggskod frÜn grupp ZZ
+
+@END = 
+
+@KOODI = EEC02
+
+@SUOMI = YlÑleuan kirurginen levittÑminen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EEC50
+
+@SUOMI = YlÑleuan katkaisu ja venyttÑminen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EEU00
+
+@SUOMI = Istutteen tai kiinnityslaitteen poisto alaleukaluusta
+
+@RUOTSI = Uttagning av implant eller fixations apparat frÜn maxilla
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Hammashoidon toimenpiteenÑ, katso luku S
+
+@NOTE_S = I samband med tandvÜrd, se kapitel S
+
+@END = 
+
+@KOODI_R = EF
+
+@SUOMI_R = Muut leukojen toimenpiteet
+
+@RUOTSI_R = ôvriga operationer pÜ kÑkarna
+
+@ENGL_R = Miscellaneous operations on jaws
+
+@END = 
+
+@KOODI_A = EFB
+
+@SUOMI_A = Leukojen korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ kÑkarna
+
+@ENGL_A = Reconstructive operations on jaws
+
+@END = 
+
+@KOODI = EFB45
+
+@SUOMI = Venytyslaitteen poisto leuoista
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EFU00
+
+@SUOMI = Kiinnityslaitteiden poisto molemmista leuoista
+
+@RUOTSI = Uttagning av fixations apparat frÜn bÜda kÑken
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = EG
+
+@SUOMI_R = Leukanivelien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ kÑklederna
+
+@ENGL_R = Mandibular joint
+
+@NOTE_RF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TE
+
+@NOTE_RS = Punktion, punktionsbiopsi och andra mindre operationer, se TE
+
+@END = 
+
+@KOODI = EGU00
+
+@SUOMI = Istutteen tai kiinnityslaitteen poisto leukanivelestÑ
+
+@RUOTSI = Uttagning av implant eller fixations apparat frÜn mandibular led
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = EH
+
+@SUOMI_R = Suulaen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ gommen
+
+@ENGL_R = Palate
+
+@NOTE_RF = Punktiot ja neulabiopsiat, katso TE
+
+@NOTE_RF =
+Siirteiden materiaali ilmoitetaan lisÑkoodilla luvusta Z
+
+@NOTE_RS = Punktion och punktionsbiopsi, se TE
+
+@NOTE_RS =
+Material av transplantat anges med tillÑggskod, se Z
+
+@END = 
+
+@KOODI = EHU00
+
+@SUOMI = Implantin tai kiinnityslaitteen poistaminen kitalaesta
+
+@RUOTSI = Uttagning av implant eller fixations apparat frÜn gommen
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = EJ
+
+@SUOMI_R = Kielen ja suunpohjan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ tunga och munbotten
+
+@ENGL_R = Tongue and floor of mouth
+
+@NOTE_RF = Siirteet luvussa Z
+
+@NOTE_RF =
+Kaulan (imusolmukkeiden) toimenpiteet ryhmÑssÑ PJ
+
+@NOTE_RS = Material av transplantat anges med tillÑggskod, se Z
+
+@NOTE_RS =
+Ingrepp pÜ halsens lymfknutor, se PJ
+
+@END = 
+
+@KOODI_A = EJC
+
+@SUOMI_A = Kielen ja suunpohjan korjaamisleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp pÜ tunga och munbotten
+
+@ENGL_A = Reconstructive operations on tongue and floor of mouth
+
+@END = 
+
+@KOODI = EJC20
+
+@SUOMI = Suun alueen limakalvojÑnteen leikkaus
+
+@RUOTSI = Frenulum operation
+
+@NOTE_F = SisÑltÑÑ frenulumplastiikan
+
+@END = 
+
+@KOODI_R = EK
+
+@SUOMI_R = Posken toimenpiteet
+
+@RUOTSI_R = Operationer pÜ kinden
+
+@ENGL_R = Cheek
+
+@NOTE_RF = SisÑltÑÑ ihon toimenpiteet muiden kerrosten toimenpiteiden yhteydessÑ.
+
+@NOTE_RF =
+PelkÑt posken ihon toimenpiteet, katso QA
+
+@END = 
+
+@KOODI_A = EKA
+
+@SUOMI_A = Posken aukaisu ja koepalan otto
+
+@RUOTSI_A = Incision, biopsi av kind
+
+@ENGL_A = Incision and biopsy of cheek
+
+@END = 
+
+@KOODI = EKA00
+
+@SUOMI = Posken aukaisu
+
+@RUOTSI = Incision av kind
+
+@NOTE_F = SisÑltÑÑ dreenin asetuksen
+
+@NOTE_S = Inkl ev drÑnage
+
+@END = 
+
+@KOODI = EP1AT
+
+@SUOMI = Kaulan pehmytosien punktio Ué-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EP2AT
+
+@SUOMI = Kaulan pehmytosien solunÑytteen otto Ué-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = EP3AT
+
+@SUOMI = Kaulan pehmytosien kudosnÑytteen otto Ué-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU F
+
+@LUVUT_S = KAPITEL F
+
+@SUOMI_L = SydÑmen ja rintaontelon suonien toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ hjÑrtat och de stora intratorakala kÑrlen
+
+@ENGL_L = Heart and major thoracic vessels procedures
+
+@NOTE_LF = Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TF
+
+@NOTE_LS = Punktion och punktionsbiopsi, se TF
+
+@END_L = 
+
+@KOODI_R = FB
+
+@SUOMI_R = Keuhkovaltimoiden toimenpiteet
+
+@RUOTSI_R = Operationer pÜ arteria pulmonalis och dess grenar
+
+@ENGL_R = Pulmonary artery with branches
+
+@NOTE_RF = Aorta-keuhkovaltimorinnakkaishaarojen sitominen, katso FDF
+
+@NOTE_RF = KeuhkovaltimolÑpÑn leikkaukset kohdassa FJ
+
+@NOTE_RS = Tillslutning av aorto-pulmonella kollateraler, se FDF
+
+@NOTE_RS =
+Operationer pÜ pulmonalisklaffen, se FJ
+
+@END = 
+
+@KOODI = FB1BF
+
+@SUOMI = Keuhkovaltimon magneettittukimus keskikenttÑlaitteella
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = FB1BG
+
+@SUOMI = Keuhkovaltimon magneettittukimus vahvakenttÑlaitteella
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = FB1CF
+
+@SUOMI = Keuhkovaltimon magneettittukimus keskikenttÑlaitteella, laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = FB1CG
+
+@SUOMI = Keuhkovaltimon magneettittukimus vahvakenttÑlaitteella, laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = FB1DF
+
+@SUOMI = Keuhkovaltimon magneettittukimus keskikenttÑlaitteella, erittÑin laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = FB1DG
+
+@SUOMI = Keuhkovaltimon magneettittukimus vahvakenttÑlaitteella, erittÑin laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = FD
+
+@SUOMI_R = Aortan toimenpiteet rintaontelossa, synnynnÑiset viat
+
+@RUOTSI_R = Operationer fîr anomalier och defekter med relation till brîstaorta
+
+@ENGL_R = Malformations relating to thoracic aorta
+
+@NOTE_RF = KeuhkovaltimokiertymÑ kohdassa FBH
+
+@NOTE_RF =
+Solis-keuhkovaltimoanastomoositoimenpiteet kohdassa FBJ
+
+@NOTE_RF =
+Aortan ja keuhkovaltimon yhdistÑminen kohdassa FBL
+
+@NOTE_RF =
+Aortan haaroista lÑhtevien valtimoiden leikkaukset luvussa P
+
+@NOTE_RS = Pulmonell kÑrlslynga, se FBH
+
+@NOTE_RS =
+Subklavio-pulmonella shuntoperationer, se FBJ
+
+@NOTE_RS =
+Aorto-pulmonell shunt, se FBL
+
+@NOTE_RS =
+Operationer pÜ artÑrer avgÜende frÜn aortabÜgen, exklusive aorto-pulmonell shunt, se P
+
+@END = 
+
+@KOODI_A = FDM
+
+@SUOMI_A = Verisuonirenkaan leikkaukset
+
+@RUOTSI_A = Operation vid kÑrlring
+
+@ENGL_A = Operation for vascular ring anomalies of aortic arch
+
+@END = 
+
+@KOODI = FDM11
+
+@SUOMI = Muun verisuonirenkaan kuin kaksoisaortan kaaren katkaisu tÑhystyksessÑ
+
+@RUOTSI = Thorakoskopisk delning av annan kÑrlring
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = FN
+
+@SUOMI_R = Sepelvaltimoiden toimenpiteet
+
+@RUOTSI_R = Operationer pÜ koronarartÑrer
+
+@ENGL_R = Coronary arteries
+
+@NOTE_RF = Uusintaleikkaukset eli n.s. redo -leikkaukset ilmaistaan lisÑkoodilla ZSF00
+
+@NOTE_RS = Reoperationer anges med tillÑggskoden ZSF00
+
+@END = 
+
+@KOODI = FN1BG
+
+@SUOMI = Sepelvaltimoiden rakenteen ja virtausolosuhteiden arviointi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU G
+
+@LUVUT_S = KAPITEL G
+
+@SUOMI_L = Rintaontelon seinÑmÑn, keuhkopussin, pallean, henkitorven, keuhkoputkien, keuhkojen ja vÑlikarsinan toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ brîstvÑgg, pleura, mediastinum, diafragma, trakea, bronker och lungor
+
+@ENGL_L = Chest wall, pleura, mediastinum, diaphragm, trachea, bronchus and lung  procedures
+
+@NOTE_LF = TÑhystykset luonnollisten tai valmiiden aukkojen kautta ilman leikkaustoimenpidettÑ kohdassa UG
+
+@NOTE_LF =
+Invasiiiviset tÑhystystoimenpiteet tÑssÑ luvussa, esim GAA ja GEA
+
+@NOTE_LF =
+Uusintaleikkaukset ilmaistaan lisÑkoodilla ZSG00
+
+@NOTE_LS = Transluminal endoskopi med enkel biopsi, inkl borst- eller annan cytologi, se UG
+
+@NOTE_LS =
+Invasiva endoskopiska ÜtgÑrder tillhîr detta kapitel, t.ex GAA och GEA
+
+@NOTE_LS =
+Reoperationer anges med tillÑggskoden ZSG00
+
+@END_L = 
+
+@KOODI_R = GB
+
+@SUOMI_R = Henkitorven toimenpiteet
+
+@RUOTSI_R = Operationer pÜ trakea
+
+@ENGL_R = Trachea
+
+@END = 
+
+@KOODI_A = GBA
+
+@SUOMI_A = Henkitorven aukaisut ja paikalliset toimenpiteet
+
+@RUOTSI_A = Trakeotomi och operationer fîr skador och lokala fîrÑndringar
+
+@ENGL_A = Tracheotomy and operations on trachea for injury or lesion
+
+@END = 
+
+@KOODI = GBA35
+
+@SUOMI = Henkitorven stentin asettaminen tÑhystyksessÑ
+
+@RUOTSI = Endoskopisk installation av stent i trakea
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ bifurkaation ylittÑvÑn stentin
+
+@NOTE_S = Innefattar stent i bifurkation av trakea
+
+@END = 
+
+@KOODI_R = GC
+
+@SUOMI_R = Keuhkoputkien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ bronker
+
+@ENGL_R = Bronchus
+
+@NOTE_RF = Bronkoskopia kohdassa UGC
+
+@NOTE_RS = Bronkoskopi, se UGC
+
+@END = 
+
+@KOODI_A = GCA
+
+@SUOMI_A = Keuhkoputkien leikkaukset
+
+@RUOTSI_A = Operationer pÜ bronker
+
+@ENGL_A = Operations on bronchus
+
+@END = 
+
+@KOODI = GCA32
+
+@SUOMI = Keuhkoputken stentin asettaminen tÑhystyksessÑ
+
+@RUOTSI = Endoskopisk installation av stent i bronker
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Trakean bifurkaatiossa oleva stentti koodataan trakean toimenpiteenÑ, katso GBA35
+
+@NOTE_S = Stent i bifurkation av trakea koderas i trakea, se GBA35
+
+@END = 
+
+@KOODI_R = GD
+
+@SUOMI_R = Keuhkojen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ lungor
+
+@ENGL_R = Lung
+
+@END = 
+
+@KOODI = GD3CT
+
+@SUOMI = Keuhkon merkkaus TT-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU J
+
+@LUVUT_S = KAPITEL J
+
+@SUOMI_L = Ruuansulatuskanavan ja sen oheiselinten toimenpiteet
+
+@RUOTSI_L = Operationer pÜ gastrointestinalkanalen och dÑrtill hîrande organ
+
+@ENGL_L = Digestive system and spleen  procedures
+
+@NOTE_LF = Koepalan otot ja neulabiopsiat, katso TJ
+
+@NOTE_LF =
+TÑhystystutkimukset luonnollisten aukkojen ja avanteiden kautta luvussa U
+
+@NOTE_LF =
+Leikkaukset tÑhystyksessÑ asianomaisten elinten kohdalla tÑhystystie mainiten
+
+@NOTE_LF =
+Avoimissa leikkauksissa ei koodata sisÑÑnmenotekniikkaa
+
+@NOTE_LS = Punktion och punktionsbiopsi, se TJ.
+
+@NOTE_LS =
+Transluminal endoskopi med enkel biopsi, inkl borst- eller annan cytologi, se UJ
+
+@NOTE_LS =
+Vid îppna operationer anges ingen sÑrskild kod fîr laparotomitekniken.
+
+@END_L = 
+
+@KOODI_R = JH
+
+@SUOMI_R = PerÑaukon ja sen ympÑryksen toimenpiteet
+
+@RUOTSI_R = Operationer pÜ anus och perianal vÑvnad
+
+@ENGL_R = Anus and perianal tissue
+
+@NOTE_RF = Diagnostiset tÑhystykset kohdassa UJH02
+
+@NOTE_RS = Anoskopi, se UJH02
+
+@END = 
+
+@KOODI = JH3HE
+
+@SUOMI = Vatsa-alueen suppea verrantatutkimus ultraÑÑnellÑ
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. maksa, munuaiset ja virtsatiet
+
+@END = 
+
+@KOODI_R = JJ
+
+@SUOMI_R = Maksan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ levern
+
+@ENGL_R = Liver
+
+@END = 
+
+@KOODI = JJ1CE
+
+@SUOMI = Maksan, sappiteiden ja haiman ultraÑÑnitutkimus tÑhystysteitse
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = JL
+
+@SUOMI_R = Haiman toimenpiteet
+
+@RUOTSI_R = Operationer pÜ pankreas
+
+@ENGL_R = Pancreas
+
+@END = 
+
+@KOODI = JL3FT
+
+@SUOMI = Haimakystan katetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = JM
+
+@SUOMI_R = Pernan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ mjÑlten
+
+@ENGL_R = Spleen
+
+@END = 
+
+@KOODI = JM2AT
+
+@SUOMI = Pernan kudosnÑytteen otto Ué-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU K
+
+@LUVUT_S = KAPITEL K
+
+@SUOMI_L = Virtsateiden, miehen sukupuolielinten ja vatsaontelon takaisten kudosten toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ urinvÑgar, manliga genitalier och retroperitoneal vÑvnad
+
+@ENGL_L = Urinary system, male genital organs and retroperitoneal space  procedures
+
+@NOTE_LF = Urologiset toimenpiteet
+
+@NOTE_LF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TK
+
+@NOTE_LF =
+Luonnollisen aukon tai avanteen kautta tehdyssÑ tÑhystyksessÑ otettuja biopsioita tai solunÑytteiden ottoa ei lueta leikkaukseksi vaan ne koodataan luvun U koodeilla.
+
+@NOTE_LF =
+TÑssÑ luvussa ilmaisu "tÑhystyksessÑ iholta" tarkoittaa sekÑ nefroskopiaa tai muuta vastaavaa peritoneaaliontelon ulkopuolista ettÑ  vatsaontelon kautta tehtyÑ tÑhystystoimenpidettÑ.
+
+@NOTE_LS = Urologiska ÜtgÑrder
+
+@NOTE_LS =
+Punktion, punktionsbiopsi och andra mindre urologiska operationer, se TK
+
+@NOTE_LS =
+Enkel biopsi, inkl borst- eller annan cytologi i transluminal endoskopi betraktas inte som endoskopisk operation utan klassificeras i kapitel U
+
+@NOTE_LS =
+Uttryckket "perkutan"  betyder i detta kapitel bÜde ÜtgÑrder, som har gjorts utan att îppna peritonealsÑcken, och laparoskopiska ÜtgÑrder.
+
+@END_L = 
+
+@KOODI_R = KE
+
+@SUOMI_R = Eturauhasen ja rakkularauhasten toimenpiteet
+
+@RUOTSI_R = Operationer pÜ prostata och sÑdesblÜsor
+
+@ENGL_R = Prostate and seminal vesicles
+
+@END = 
+
+@KOODI = KE1CT
+
+@SUOMI = Eturauhasen kudosnÑytteen otto TT-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = KE2CT
+
+@SUOMI = Eturauhasen solunÑytteen otto TT-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU L
+
+@LUVUT_S = KAPITEL L
+
+@SUOMI_L = Naisen sukupuolielinten toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ kvinnliga genitalier
+
+@ENGL_L = Female genital organs  procedures
+
+@NOTE_LF = Vatsaontelon toimenpiteet ks. luku J. Esim.  tÑhystys kohdassa JAH01. Paikallisen muutoksenpoisto vatsaontelon elimistÑ (metastaasi, endometrioosi) koodataan lisÑkoodilla ko elimen mukaisesti.
+
+@NOTE_LF =
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TL
+
+@NOTE_LF =
+Luonnollisen aukon tai avanteen kautta tehdyssÑ tÑhystyksessÑ biopsian tai solunÑytteen ottoa ei lueta leikkaukseksi vaan nÑmÑ toimenpiteet koodataan luvun U koodeilla
+
+@NOTE_LF =
+
+
+@NOTE_LS = Punktion, punktionsbiopsi och andra mindre operationer, se TL.
+
+@NOTE_LS = Observera att transluminal endoskopi med enkel biopsi, inkl borst- eller annan cytologi, inte betraktas som endoskopisk operation utan klassificeras i kapitel U under koden fîr respektive mÜlorgan
+
+@END_L = 
+
+@KOODI_R = LB
+
+@SUOMI_R = Munanjohtimien toimenpiteet
+
+@RUOTSI_R = Operationer pÜ Ñggledare
+
+@ENGL_R = Fallopian tube
+
+@NOTE_RF = Sterilisaatiot kohdassa LG
+
+@NOTE_RS = Sterilisationsoperationer, se LG
+
+@END = 
+
+@KOODI_A = LBA
+
+@SUOMI_A = Munanjohtimien pisto ja tÑhystys
+
+@RUOTSI_A = Puktion och laparoskopi av Ñggledare
+
+@ENGL_A = Puncture and endoscopy of Fallopian tubes
+
+@NOTE_RF = Myîs ultraÑÑniohjattuna
+
+@NOTE_RF =
+Kohdunulkoisen raskauden takia tehdyt toimenpiteet, katso LBC
+
+@NOTE_RF =
+Munatorven sisÑtilan tÑhystys, falloposkopia ULB02
+
+@NOTE_RS = Inkl. ultraljudutstyrd
+
+@NOTE_RS =
+ètgÑrder fîr tubargraviditet, se LBC
+
+@NOTE_RS =
+Endoskopi av Ñggledare, falloposkopi, se ULB02
+
+@END = 
+
+@KOODI = LBA97
+
+@SUOMI = Muu munanjohtimen pisto vatsaontelon tÑhystyksessÑ
+
+@RUOTSI = Annan laparoskopisk punktion av Ñggledare
+
+@NOTE_F = Poistettu / deleterad 1999/02/05
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk LBA01
+
+@END = 
+
+@KOODI = LBA98
+
+@SUOMI = Munanjohtimen pisto tÑhystyksessÑ kohdun sisÑtilan lÑpi
+
+@RUOTSI = Punktion av ÑgglÑdare i transuteral skopi
+
+@NOTE_F = Poistettu / deleterad 1999/02/05
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk LBW98
+
+@END = 
+
+@KOODI = LX1AE
+
+@SUOMI = Gynekologinen ultraÑÑnitutkimus kliinisen tutkimuksen yhteydessÑ
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Ilman erillistÑ lausuntoa
+
+@END = 
+
+@LUVUT = LUKU M
+
+@LUVUT_S = KAPITEL M
+
+@SUOMI_L = Raskauteen ja synnytykseen liittyvÑt toimenpiteet
+
+@RUOTSI_L = Obstetriska ingrepp
+
+@ENGL_L = Obstetric procedures
+
+@END_L = 
+
+@KOODI_R = MA
+
+@SUOMI_R = Raskauden ja synnytyksen aikana tehtÑvÑt toimenpiteet
+
+@RUOTSI_R = Ingrepp under graviditet eller i samband med fîrlossning
+
+@ENGL_R = Procedures in pregnancy and at delivery
+
+@NOTE_RF = Raskauden keskeytys kohdassa LCH
+
+@NOTE_RS = Avbrytande av graviditet, se LCH
+
+@END = 
+
+@KOODI_A = MAA
+
+@SUOMI_A = Kohdun sisÑiset tai sikiîtoimenpiteet raskauden aikana
+
+@RUOTSI_A = Intrauterina operationer pÜ gravid uterus och foster
+
+@ENGL_A = Intrauterine operations on pregnant uterus and fetus
+
+@END = 
+
+@KOODI = MAA80
+
+@SUOMI = Valikoiva raskaudenkeskeytys yhden tai useamman sikiîn osalta
+
+@RUOTSI = Selektiv abort av en eller flera fetus
+
+@END = 
+
+@LUVUT = LUKU N
+
+@LUVUT_S = KAPITEL N
+
+@SUOMI_L = Tuki- ja liikuntaelimien toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ muskuloskeletala systemet
+
+@ENGL_L = Musculoskeletal system  procedures
+
+@NOTE_LF = Tuki- ja liikuntaelinten sidokset  ja ulkoisen vedon asettaminen  TNX
+
+@NOTE_LF =
+Tuki- ja liikuntaelinten pistot ja aukaisut  TNY
+
+@NOTE_LS = Applikation av bandage och strÑck, se TNX
+
+@NOTE_LS = Punktioner och inkisioner i muskuloskeletala vÑvnader, se TNY
+
+@END_L = 
+
+@KOODI_R = NA
+
+@SUOMI_R = SelÑn ja kaulan toimenpiteet
+
+@RUOTSI_R = Operationer pÜ ryggen och halsen
+
+@ENGL_R = Spine and neck
+
+@NOTE_RF = SisÑltÑÑ kaulan lihakset
+
+@NOTE_RF =
+SelÑn vÑlilevyleikkaukset kohdassa ABC
+
+@NOTE_RF =
+Nielun ja sitÑ ympÑrîivÑn pehmytkudoksen toimenpiteet kohdassa EN
+
+@NOTE_RF =
+KurkunpÑÑn leikkaukset kohdassa DQ
+
+@NOTE_RS = Inkluderar musklerna i halsen
+
+@NOTE_RS =
+Operationer pÜ intervertebrala "diskar", se ABC
+
+@NOTE_RS =
+Operationer pÜ farynx och nÑrliggande organ, se EN
+
+@NOTE_RS =
+Operationer pÜ laryngs, se DQ
+
+@END = 
+
+@KOODI = NA6CT
+
+@SUOMI = Ristinivelinjektio (SI-nivelinjektio) TT-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = NA6FD
+
+@SUOMI = Ristinivelen (SI-nivelen) TT nivelen sisÑisellÑ varjoaineella
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = NB
+
+@SUOMI_R = Lapaluun, solisluun, olkanivelen ja olkavarren toimenpiteet
+
+@RUOTSI_R = Operationer pÜ skulderbladet, nyckelbenet, skulderleden och îverarmen
+
+@ENGL_R = Shoulder and upper arm
+
+@END = 
+
+@KOODI = NB1CF
+
+@SUOMI = OlkapÑÑn ja olkavareen laaja magneettitutkimus keskikenttÑlaitteella
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = NE
+
+@SUOMI_R = Lantion, ristiluun ja hÑntÑluun toimenpiteet
+
+@RUOTSI_R = Operationer pÜ bÑckenet, korsbenet och svansbenet
+
+@ENGL_R = Pelvis
+
+@END = 
+
+@KOODI = NE1BA
+
+@SUOMI = Lantion laaja rîntgen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU P
+
+@LUVUT_S = KAPITEL P
+
+@SUOMI_L = Verisuonien ja imusuonijÑrjestelmÑn toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ perifera kÑrl och lymfsystemet
+
+@ENGL_L = Peripheral vessels and lymphatic system  procedures
+
+@NOTE_LF = Rintaontelon suurten verisuonien leikkaukset luvussa F.
+
+@NOTE_LF =
+Aivoverisuonien leikkaukset luvussa A.
+
+@NOTE_LF =
+PelkkÑ koepalan otto kohdassa TP paitsi ohimovaltimon koepalan otto kohdassa PAW37.
+
+@NOTE_LF =
+PysyvÑn valtimo- tai laskimokanyylin asettaminen, katso TPX10
+
+@NOTE_LF =
+Ohitusleikkauksissa kÑytetty materiaali voidaan kuvata lisÑkoodilla kohdasta ZPB.
+
+@NOTE_LF =
+TÑmÑn luvun 3 merkki kuvaa kÑytettyÑ menetelmÑÑ ja on sama kaikissa anatomisissa paikoissa.
+
+@NOTE_LF =
+TÑmÑn luvun 4-5 merkki kuvaavat toimenpiteen kohteena olevan verisuonen. (04-39 valtimoita, 70-80 laskimoita). Koodit 81-99 on varattu uusintaleikkauksia varten.
+
+@NOTE_LS = Ingrepp pÜ intrakraniala kÑrl, se A
+
+@NOTE_LS =
+Ingrepp pÜ de stora intratorakala kÑrlen, se F
+
+@NOTE_LS =
+Punktion, nÜlbiopsi och andra mindre operationer pÜ kÑrl/lymfsystemet, se TP. Provtagning frÜn temporalartÑriet Ñr dock PAW37
+
+@NOTE_LS =
+Implantation av artÑr- eller venport, se TPX10
+
+@NOTE_LS =
+Nyttjat by-pass-material kan specificeras med tillÑggskod ur grupp ZPB
+
+@NOTE_LS =
+I detta kapitel anges den tillÑmpade ingreppstekniken av kodens tredje tecken, som Ñr oberoende av mÜlorganets anatomiska lokalisation
+
+@NOTE_LS =
+MÜlorgan/reoperationer anges i detta kapitel av kodens fjÑrde och femte tecken (04 - 39 artÑrer; 70 - 80 vener; 81 - 99 reoperationer)
+
+@END_L = 
+
+@KOODI_R = PB
+
+@SUOMI_R = YlÑraajojen valtimoiden toimenpiteet
+
+@RUOTSI_R = Operationer pÜ artÑrer i îvre extremiteten
+
+@ENGL_R = Operations on arteries of upper extremity
+
+@NOTE_RF = PTA = Percutan, transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PB1AE
+
+@SUOMI = YlÑraajan valtimoiden Ué
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PB1DE
+
+@SUOMI = YlÑraajan valtimoiden Doppler-Ué
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = PC
+
+@SUOMI_R = Vatsa-aortan ylÑosan ja sisÑelinvaltimoiden toimenpiteet
+
+@RUOTSI_R = Operationer pÜ suprarenala bukaortan och visceralartÑrerna
+
+@ENGL_R = Operations on suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = Vatsa-aortta munuaisvaltimotasoon saakka
+
+@NOTE_RF =
+Torakoabdominaaliset aorttaleikkaukset kohdassa FCD
+
+@NOTE_RF =
+PTA = Percutan, transluminal angioplasty (pallolaajennus)
+
+@NOTE_RS = Bukaortta nertill njuratÑren
+
+@NOTE_RS =
+Torakoabdominala operationer pÜ aortan, se FCD
+
+@END = 
+
+@KOODI = PC6DT
+
+@SUOMI = SelkÑydinkanavan tuumorin embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PC6ET
+
+@SUOMI = SelkÑydinkanavan tuumorin embolisaatio radiologisessa ohjauskessa, laaja
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimoiden toimenpiteet
+
+@RUOTSI_R = Operationer pÜ vener
+
+@ENGL_R = Operations on veins
+
+@END = 
+
+@KOODI_A = PHS
+
+@SUOMI_A = TÑhystyksessÑ suoritettavat laskimoleikkaukset
+
+@RUOTSI_A = Endoskopisk venkirurgi
+
+@ENGL_A = Endoscopic operations on veins
+
+@NOTE_RF = Ei sisÑllÑ laskimoiden muovauksia suljetusti iholta, katso PHP
+
+@NOTE_RS = Utesluter slutna (perkutana) plastiker pÜ vener, se PHP
+
+@END = 
+
+@KOODI = PHS78
+
+@SUOMI = SÑÑren lÑvistÑjÑlaskimon sulkeminen tÑhystyksessÑ
+
+@RUOTSI = Endoskopisk avbrytning av vv. perforantes i underbenet
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PHS79
+
+@SUOMI = Reiden lÑvistÑjÑlaskimon sulkeminen tÑhystyksessÑ
+
+@RUOTSI = Endoskopisk avbrytning av vv. perforantes i lÜret
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PHS99
+
+@SUOMI = Muu laskimon tÑhystystoimenpide
+
+@RUOTSI = Annan endoskopisk venkirurgi
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = PJ
+
+@SUOMI_R = ImusuonijÑrjestelmÑn toimenpiteet
+
+@RUOTSI_R = Operationer pÜ det lymfatiska systemet
+
+@ENGL_R = Operations on lymphatic system
+
+@END = 
+
+@KOODI = PJ2HT
+
+@SUOMI = Imusolmukkeen kudosnÑytteen otto Ué-ohjauksessa, syvÑ
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PJ3HT
+
+@SUOMI = Imusolmukkeen solunÑytteen otto Ué-ohjauksessa, syvÑ
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PJ4AT
+
+@SUOMI = Imusolmukkeen merkkaus Ué-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = PJ4CT
+
+@SUOMI = Imusolmukkeen merkkaus CT-ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU Q
+
+@LUVUT_S = KAPITEL Q
+
+@SUOMI_L = Ihon ja ihonalaiskudoksen toimenpiteet
+
+@RUOTSI_L = ètgÑrder pÜ hud och subkutana vÑvnader
+
+@ENGL_L = Skin and subcutaneous tissue procedures
+
+@NOTE_LF = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_LS = Transplantat och lambÜer, se ZZ
+
+@END_L = 
+
+@KOODI_R = R1
+
+@SUOMI_R = Kuntoutustarpeen ja -mahdollisuuksien arviointi
+
+@RUOTSI_R = Uppskattning av rehabilitationsbehov och -potential
+
+@END = 
+
+@KOODI = QX2ZT
+
+@SUOMI = Pinnallisen vierasesineen poisto radiologisessa ohjauksessa
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU S
+
+@LUVUT_S = KAPITEL S
+
+@SUOMI_L = Suun ja hampaiston avohoidon toimenpiteet
+
+@RUOTSI_L = ôppenvÜrds ÜtgÑrder tÑnder och mun
+
+@ENGL_L = Non-surgical procedures of mouth and teeth
+
+@NOTE_LF = TÑhÑn sisÑltyy tavallisesti avohoidossa tehtÑvÑt suun ja hampaiston hoitotoimenpiteet.
+
+@NOTE_LF =
+Kirurgiset toimenpiteet, katso luku E
+
+@NOTE_LS = Kirugiska ÜtgÑrder, se kapitel E
+
+@NOTE_LF= LisÑtty / tillagt 2000/01/01
+
+@END_L = 
+
+@KOODI_R = SA
+
+@SUOMI_R = Suun ja hampaiston tutkimukset
+
+@RUOTSI_R = Undersîkining av tÑnder och mun
+
+@ENGL_R = Investigation of mouth and teeth
+
+@NOTE_RF = Tutkimustoimenpiteet ovat kokonaisuuksia, joihin sisÑltyy aina anamneesi, diagnoosi,  hoitosuunnitelma ja kustannusarvio.
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SAA
+
+@SUOMI_A = HammaslÑÑkÑrin tekemÑ tutkimus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Seulontatutkimus, katso WYA00
+
+@NOTE_RF =
+Radiologiset toimenpiteet kts. Liite 1
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SAA01
+
+@SUOMI = Suun suppea tutkimus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. sÑrkypotilaat pÑivystyksessÑ, erilaiset kontrollit
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SAA02
+
+@SUOMI = Suun perustutkimus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. jÑrjestelmÑllisessÑ hoidossa olevan potilaan purentaelimen mÑÑrÑaikaistutkimus
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SAA03
+
+@SUOMI = Suun laaja tutkimus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. uuden potilaan purentaelimen tutkimus
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SAA04
+
+@SUOMI = Suun erityistutkimus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ kliinisen tutkimuksen ja perustuu lisÑksi rîntgen- ja laboratoriotutkimuksiin ja/tai kipsimalleihin
+
+@NOTE_F =
+Kesto yli 30 min
+
+@END = 
+
+@KOODI_R = SB
+
+@SUOMI_R = TÑydentÑvÑt tutkimukset
+
+@RUOTSI_R = 
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SBA
+
+@SUOMI_A = Vastaanotolla suoritettavat sylkitestit
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SBA00
+
+@SUOMI = Mikrobiologinen sylkitesti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Laktobasillitesti, mutans streptokokkitesti,  hiivasienitesti tai muu vastaava
+
+@END = 
+
+@KOODI = SBA10
+
+@SUOMI = Syljen eritysnopeuden mÑÑritys
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SBA20
+
+@SUOMI = Puskurikapasiteetin mÑÑritys
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SBB
+
+@SUOMI_A = Muut suun ja hampaiston tutkimukset
+
+@RUOTSI_A = Andra undersîkningar av tÑnder och mun
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SBB00
+
+@SUOMI = Suun ja hampaiston valokuvaus
+
+@RUOTSI = Fotografering av tÑnder och mun
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kliinisen lîydîksen nykytilan dokumentointi valokuvaamalla
+
+@NOTE_F = Kirjataan kerran kÑyntikerralla
+
+@END = 
+
+@KOODI = SBB10
+
+@SUOMI = Hampaiston jÑljennîkset ja kipsimallit
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = SC
+
+@SUOMI_R = EhkÑisevÑ hammashoito
+
+@RUOTSI_R = 
+
+@NOTE_RF = EhkÑisevÑÑn hoitoon ei luokitella kiinnityskudossairauksien hoitoa kuten esimerkiksi subgingivaalisen hammaskiven poistoa (katso SD).
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SCA
+
+@SUOMI_A = Hammashoitoon liittyvÑ ravintoanalyysi ja neuvonta
+
+@RUOTSI_A = 
+
+@NOTE_RF = EdellyttÑÑ merkintÑ potilasasiakirjaan
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SCA01
+
+@SUOMI = Suppea hammashoitoon liittyvÑ ravintoanalyysi ja neuvonta
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn10 min
+
+@END = 
+
+@KOODI = SCA02
+
+@SUOMI = Hammashoitoon liittyvÑ ravintoanalyysi ja neuvonta
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto yli 10 min
+
+@END = 
+
+@KOODI_A = SCB
+
+@SUOMI_A = Kotihoidon opetus
+
+@RUOTSI_A = 
+
+@NOTE_RF = EdellyttÑÑ merkintÑ potilasasiakirjaan
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SCB01
+
+@SUOMI = Suppea suun kotihoidon opetus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SCB02
+
+@SUOMI = Suun kotihoidon opetus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto yli 10 min
+
+@END = 
+
+@KOODI_A = SCC
+
+@SUOMI_A = Fluori tai muu vastaava kÑsittely
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SCC01
+
+@SUOMI = Suun suppea fluori tai muu vastaava kÑsittely
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn10 min
+
+@END = 
+
+@KOODI = SCC02
+
+@SUOMI = Suun fluori tai muu vastaava kÑsittely
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto yli10 min
+
+@END = 
+
+@KOODI_A = SCD
+
+@SUOMI_A = Plakin ja nÑkyvÑn hammaskiven poisto
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SCD01
+
+@SUOMI = Suppea plakin ja nÑkyvÑn hammaskiven poisto
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SCD02
+
+@SUOMI = Plakin ja nÑkyvÑn hammaskiven poisto
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto yli 10 min
+
+@END = 
+
+@KOODI_A = SCE
+
+@SUOMI_A = Hampaiden pinnoitus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Pinnoituksella tarkoitetaan ehjÑn, vastapuhjenneen hampaan uurteiden pinnoittamista. Jos pinnoituksen yhteydessÑ on kuitenkin poistettu hampaan kovakudosta ja se on korvattu jollakin tÑyteaineella, kÑytetÑÑn paikkauskoodia SFA00.
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SCE00
+
+@SUOMI = Hampaan pinnoitus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = KÑyntikerralla tilastoidaan korkeintaan yksi toimenpide leuanpuoliskoa kohden
+
+@END = 
+
+@KOODI_R = SD
+
+@SUOMI_R = Ikenen ja hampaan kiinnityskudossairauksien hoito
+
+@RUOTSI_R = 
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SDA
+
+@SUOMI_A = Parodontologinen hoito
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kaikki samalla kÑyntikerralla tehty kiinnityskudoksiin kohdistunut  hoito ilmaistaan yhdellÑ koodilla
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SDA01
+
+@SUOMI = Suppea parodontologinen hoito
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. vÑhÑisen hammaskiven ja/tai pehmeiden peitteiden poisto kÑyntikerralta
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SDA02
+
+@SUOMI = Parodontologinen hoito
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. hammaskiven poisto ja hampaiden kiinnityskudossairauden hoito kÑyntikerralta
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SDA03
+
+@SUOMI = Vaativa parodontologinen hoito
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. kyretointi tai syvien ientaskujen hoito
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SDA04
+
+@SUOMI = ErittÑin vaativa parodontologinen hoito
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim laaja ja vaativa kyretointi, hammaskiven poisto, syventyneiden ientaskujen hoito tai parodontologinen kiskotus
+
+@NOTE_F = Kesto yli 30 min
+
+@END = 
+
+@KOODI_R = SF
+
+@SUOMI_R = Paikkaushoidot
+
+@RUOTSI_R = 
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SFA
+
+@SUOMI_A = Paikkaushoito suoralla menetelmÑllÑ
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SFA00
+
+@SUOMI = Pieni tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Pieni korjaus tai lisÑys
+
+@NOTE_F = KÑytetÑÑn myîskin silloin, kun pinnoite ulottuu hammasluuhun (kts. EhkÑisevÑ hammashoito SCE)
+
+@END = 
+
+@KOODI = SFA10
+
+@SUOMI = Yhden pinnan tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan yhdestÑ pinnasta
+
+@NOTE_F = Jos samalle pinnalle tehdÑÑn saman hoitojakson aikana useampia tÑytteitÑ, merkitÑÑn koodi vain kerran
+
+@END = 
+
+@KOODI = SFA20
+
+@SUOMI = Kahden pinnan tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan kahdesta hampaan pinnasta
+
+@END = 
+
+@KOODI = SFA30
+
+@SUOMI = Kolmen tai useamman pinnan tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan kolmesta hampaan pinnasta
+
+@NOTE_F =
+SisÑltÑÑ vÑli- ja poskihampaaseen tunnelipreparoinnilla tehdyn tÑytteen
+
+@END = 
+
+@KOODI = SFA40
+
+@SUOMI = TerÑ tai kruunu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan ainakin neljÑstÑ hampaan pinnasta
+
+@END = 
+
+@KOODI_A = SFB
+
+@SUOMI_A = Paikkaushoito epÑsuoralla menetelmÑllÑ
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SFB10
+
+@SUOMI = Suun ulkopuolella valmistettu yhden pinnan tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan hampaan yhdestÑ pinnasta
+
+@END = 
+
+@KOODI = SFB20
+
+@SUOMI = Suun ulkopuolella valmistettu kahden pinnan tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan hampaan kahdesta pinnasta
+
+@NOTE_F =
+SisÑltÑÑ etuhampaan fasadin, joka ei ulotu hampaan kÑrjen yli
+
+@END = 
+
+@KOODI = SFB30
+
+@SUOMI = Suun ulkopuolella valmistettu kolmen pinnan tÑyte
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑyte korvaa huomattavan osan hampaan kolmesta pinnasta
+
+@NOTE_F =
+SisÑltÑÑ etuhampaan fasadin, joka ulottuu hampaan kÑrjen yli
+
+@END = 
+
+@KOODI_A = SFC
+
+@SUOMI_A = AlustÑyte
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SFC00
+
+@SUOMI = AlustÑytepilari
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Toimenpide liittyy kruunun tai terÑn valmistukseen ja se tehdÑÑn erillisellÑ kÑyntikerralla
+
+@END = 
+
+@KOODI_R = SG
+
+@SUOMI_R = Hampaan juurenhoito
+
+@RUOTSI_R = 
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SGA
+
+@SUOMI_A = Hampaan juurikanavien avaus
+
+@RUOTSI_A = 
+
+@NOTE_RF = SisÑltÑÑ mahdollisen lÑÑkehoidon juurikanavan avauksen yhteydessÑ
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SGA02
+
+@SUOMI = Hampaan juurikanavien avaus ja laajennus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SGA03
+
+@SUOMI = Vaativa hampaan juurikanavien avaus ja laajennus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SGA04
+
+@SUOMI = ErittÑin vaativa hampaan juurikanavien avaus ja laajennus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto yli 30 min
+
+@END = 
+
+@KOODI_A = SGB
+
+@SUOMI_A = Hampaan juurentÑyttî
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SGB00
+
+@SUOMI = Osittainen hammasytimen poisto (amputaatio)
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SGB10
+
+@SUOMI = Hampaan juurentÑyttî, 1-juurikanavainen hammas
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SGB20
+
+@SUOMI = Hampaan juurentÑyttî, 2-juurikanavainen hammas
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SGB30
+
+@SUOMI = Muu vaativa juurentÑyttî
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ 3- tai useampijuurikanavaisen hampaan juurentÑytîn
+
+@END = 
+
+@KOODI_A = SGC
+
+@SUOMI_A = Muut juurenhoitotoimenpiteet
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SGC00
+
+@SUOMI = Juurikanavien lÑÑkehoito
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Aikaisemmin avattujen juurikanavien lÑÑkehoito erillisellÑ kÑynnillÑ
+
+@END = 
+
+@KOODI = SGC10
+
+@SUOMI = Hammasytimen (pulpan) kattaminen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ mahdollisen vÑliaikaisen tÑytteen
+
+@END = 
+
+@KOODI_R = SH
+
+@SUOMI_R = Purentafysiologia
+
+@RUOTSI_R = 
+
+@NOTE_RF = Purentafysiologinen hoito edellyttÑÑ diagnosoitua toimintahÑiriîtÑ, purennan sairautta tai vammaa. Tavanomainen kontrolli muun hammashoidon yhteydessÑ ei ole tÑssÑ tarkoitettua purentafysiologista hoitoa.
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SHA
+
+@SUOMI_A = Purentafysiologinen hoitokÑynti
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kaikki yhdellÑ kÑyntikerralla suoritetut purentafysiologiset toimenpiteet, joita ei ole muualla erikseen luokiteltu, ilmaistaan yhdellÑ koodilla
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SHA01
+
+@SUOMI = Suppea purentafysiologinen hoitokÑynti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 10 min
+
+@END = 
+
+@KOODI = SHA02
+
+@SUOMI = Purentafysiologinen hoitokÑynti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SHA03
+
+@SUOMI = Vaativa purentafysiologinen hoitokÑynti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 30 min
+
+@END = 
+
+@KOODI = SHA04
+
+@SUOMI = ErittÑin vaativa purentafysiologinen hoitokÑynti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto yli 30 min
+
+@END = 
+
+@KOODI_A = SHB
+
+@SUOMI_A = Purentakisko
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SHB00
+
+@SUOMI = Purentakiskon valmistus ja suuhun sovitus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Toimenpide on hoitokokonaisuus, joka kÑsittÑÑ purentakiskon   valmistuksen jÑljennîksineen ja kÑyttîohjeineen
+
+@NOTE_F =
+Leukanivelen sijoiltaan menon reponointi kts. TED00
+
+@END = 
+
+@KOODI_R = SJ
+
+@SUOMI_R = Oikomishoito
+
+@RUOTSI_R = 
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SJA
+
+@SUOMI_A = Oikomishoidon suunnittelu
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJA02
+
+@SUOMI = Oikomiskojeen tyîsuunnittelu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = EnintÑÑn 20 min.
+
+@END = 
+
+@KOODI = SJA03
+
+@SUOMI = Vaativa oikomiskojeen tyîsuunnittelu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = EnintÑÑn 30 min
+
+@END = 
+
+@KOODI = SJA04
+
+@SUOMI = ErittÑin vaativa oikomiskojeen tyîsuunnittelu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Yli 30 min
+
+@END = 
+
+@KOODI_A = SJB
+
+@SUOMI_A = Oikomishoito irtokojeilla
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJB00
+
+@SUOMI = Irtokojeen sovitus ja kÑytîn opetus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJB30
+
+@SUOMI = EkstraoraalijÑrjestelyt ja kÑytîn opetus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJB60
+
+@SUOMI = Irtokojeen hionnat ja sÑÑtî
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SJC
+
+@SUOMI_A = Oikomishoito kiinteillÑ kojeilla
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJC00
+
+@SUOMI = Etsattava tai muu vastaava kiinnike
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJC10
+
+@SUOMI = Rengaskiinnike / hammas
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJC20
+
+@SUOMI = EkstraoraalivetojÑrjestelyt ja kÑytîn opetus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJC40
+
+@SUOMI = KiinteÑn oikomiskojeen purkaminen leukaa kohden (enintÑÑn 6 kiinnikettÑ)
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJC50
+
+@SUOMI = KiinteÑn oikomiskojeen purkaminen leukaa kohden (vÑhintÑÑn 7 kiinnikettÑ)
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SJD
+
+@SUOMI_A = Oikomiskojeen kaaret
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD00
+
+@SUOMI = Muotoiltava kiinteÑn oikomiskojeen kaari
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD10
+
+@SUOMI = HammaslÑÑkÑrin tekemÑ palatinaali- tai lingualikaari juotoksineen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD20
+
+@SUOMI = KiinteÑn oikomiskojeen kaari
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD30
+
+@SUOMI = Vaativa kiinteÑn oikomiskojeen kaari
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD40
+
+@SUOMI = ErittÑin vaativa kiinteÑn oikomiskojeen kaari
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD50
+
+@SUOMI = Tehdas- tai laboratoriovalmisteisen  palatinaali- tai lingualikaaren etsauskiinnitys tai sementointi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJD60
+
+@SUOMI = KiinteÑn oikomiskojeen kaaren irroitus ja/tai uudelleen aktivointi ja kiinnitys
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SJE
+
+@SUOMI_A = Oikomishoitoon liittyvÑ hionta
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJE01
+
+@SUOMI = Suppea hampaiston oikomishoitoon liittyvÑ hionta
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJE02
+
+@SUOMI = Hampaiston oikomishoitoon liittyvÑ hionta
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJE03
+
+@SUOMI = Vaativa hampaiston oikomishoitoon liittyvÑ hionta
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJE90
+
+@SUOMI = Hampaiston oikomishoidon viimeistely
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ purennan tasapainoitushionnan
+
+@END = 
+
+@KOODI_A = SJX
+
+@SUOMI_A = Muu oikomishoito
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJX00
+
+@SUOMI = HammaslÑÑkÑrin tekemÑ oikomiskojeen korjaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SJX10
+
+@SUOMI = Hampaiston oikomishoitoon liittyvÑ hoito tai kontrollikÑynti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = KÑytetÑÑn vain silloin kun tehdÑ muuta oikomistoimenpidettÑ
+
+@NOTE_F = JÑljennîkset ja kipsimallit kts. tÑydentÑvÑt tutkimukset
+
+@END = 
+
+@KOODI_R = SP
+
+@SUOMI_R = Hammasprotetiikka
+
+@RUOTSI_R = 
+
+@NOTE_RF = Protetiikan toimenpiteiden nimikkeeksi on turhan toistamisen vÑlttÑmiseksi useimmiten valittu vain toimenpiteen lopputulos. TÑten esimerksi 'Kokoproteesi' tarkoittaa kaikkia niitÑ toimenpiteitÑ, joita potilaan kokoproteesin tekemiseksi
+tarvitaan. Hammasteknikon tyî ei kuitenkaan sisÑlly toimenpiteisiin.
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SPA
+
+@SUOMI_A = Hammasprotetiikkaa valmistelevat toimenpiteet
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPA00
+
+@SUOMI = Hampaiston muotoilu proteettista tyîtÑ varten
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kesto enintÑÑn 20 min
+
+@END = 
+
+@KOODI = SPA10
+
+@SUOMI = Tarkkuuskiinnikkeet hampaisiin tai implantteihin
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Huomioidaan yksi toimenpide proteesia kohden
+
+@END = 
+
+@KOODI_A = SPB
+
+@SUOMI_A = Hammasprotetiikan tilapÑiset rakenteet
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPB00
+
+@SUOMI = TilapÑinen tehdasvalmisteinen kruunu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPB10
+
+@SUOMI = TilapÑisen kruunun valmistaminen vastaanotolla
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPB20
+
+@SUOMI = TilapÑinen silta/siltayksikkî
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = VÑliaikaisen sillan valmistustoimenpide kutakin hammaskruunua kohden
+
+@END = 
+
+@KOODI = SPB30
+
+@SUOMI = TilapÑinen osaproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SPC
+
+@SUOMI_A = KiinteÑt hammasproteesit
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPC10
+
+@SUOMI = Kruunu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Myîskin sillan tukihampaana
+
+@END = 
+
+@KOODI = SPC20
+
+@SUOMI = Implanttikantoinen kruunu
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Myîskin sillan tukihampaana
+
+@END = 
+
+@KOODI = SPC30
+
+@SUOMI = Pintakiinnitteinen kruunu, laminaatti tai silta
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPC35
+
+@SUOMI = Vastaanotolla valmistettu silta/siltayksikî
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPC40
+
+@SUOMI = Sillan 1. tai 2. vÑlihammas
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kuhunkin vÑlihampaaseen liittyvÑ tyî koodataan erikseen, vaikka tyî suoritettaisiin samalla kÑynnillÑ
+
+@END = 
+
+@KOODI = SPC45
+
+@SUOMI = Sillan 3. tai sitÑ seuraava vÑlihammas
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Kuhunkin vÑlihampaaseen liittyvÑ tyî koodataan erikseen, vaikka tyî suoritettaisiin samalla kÑynnillÑ
+
+@END = 
+
+@KOODI = SPC50
+
+@SUOMI = Nastapilari
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = TÑhÑn sisÑltyy hammasteknisessÑ laboratoriossa valmistettuun nastapilariin liittyvÑt toimenpiteet.
+
+@NOTE_F =
+Toimenpiteensuorittajan itse valmistama nastapilari sisÑltyy paikkaushoitoon, katso SFC00
+
+@NOTE_F =
+Etuhampaan fasadi sisÑltyy paikkaushoitoon, katso SFB20, SFB30
+
+@END = 
+
+@KOODI_A = SPD
+
+@SUOMI_A = Hammasprotetiikan irrotettavat kokoproteesit
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPD00
+
+@SUOMI = Limakalvokantoinen kokoproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPD05
+
+@SUOMI = Vaativa limakalvokantoinen kokoproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Esim. pitkÑlle mennyt alveoliatrofia tai leukojen epÑsuhde
+
+@END = 
+
+@KOODI = SPD10
+
+@SUOMI = Implantti- ja limakalvokantoinen kokoproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Peittoproteesi on implantti ja limakalvokantoinen
+
+@END = 
+
+@KOODI = SPD20
+
+@SUOMI = Implanttikantoinen kokoproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SPE
+
+@SUOMI_A = Hammasprotetiikan irrotettavat osaproteesit
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPE00
+
+@SUOMI = Metallirunkoinen osaproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPE05
+
+@SUOMI = Vaativa metallirunkoinen osaproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Vaatii esim. purennan muuttamista
+
+@END = 
+
+@KOODI = SPE10
+
+@SUOMI = Implanttikantoinen osaproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Hammasosa tÑysin implanttikantoinen
+
+@END = 
+
+@KOODI = SPE90
+
+@SUOMI = Muu osaproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ akryyliosaproteesin
+
+@END = 
+
+@KOODI_A = SPF
+
+@SUOMI_A = Hammasproteettiset korjaustoimenpiteet
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPF00
+
+@SUOMI = Proteesin korjaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Pieni proteesin pohjaus ilman jÑjennîstÑ
+
+@END = 
+
+@KOODI = SPF10
+
+@SUOMI = Vaativa proteesin korjaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Proteesin korjaus, joka edellyttÑÑ jÑljennîstÑ
+
+@END = 
+
+@KOODI = SPF20
+
+@SUOMI = VÑliaikainen pohjaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Immediaattiproteesin valmistuksen jÑlkeen tapahtuva vÑliaikainen pohjaus tai muu vÑliaikainen pohjaus
+
+@END = 
+
+@KOODI = SPF30
+
+@SUOMI = Proteesin pohjaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ reunojen ja ulkopintojen muotoilun, okkluusion korjauksen sekÑ yhden jÑlkikÑynnin
+
+@END = 
+
+@KOODI = SPF40
+
+@SUOMI = Kruunun tai pienen sillan irrotus ja uudelleen sementointi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPF50
+
+@SUOMI = Sillan irrotus, korjaus ja uudelleen sementointi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPF60
+
+@SUOMI = Fasadin korjaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SPG
+
+@SUOMI_A = Kasvoproteesit ja muut suun alueen erityisproteesit
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPG00
+
+@SUOMI = Alaleuan erityisproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPG10
+
+@SUOMI = YlÑleuan erityisproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SPG15
+
+@SUOMI = YlÑleuan vaativa erityisproteesi
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = SX
+
+@SUOMI_R = Muut suun ja hampaiden hoidon toimenpiteet
+
+@RUOTSI_R = 
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = SXA
+
+@SUOMI_A = Muut toimenpiteet (pitÑÑ tarkastaa muista toimenpiteistÑ onko vastaavia)
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SXA00
+
+@SUOMI = MÑrkivÑn hampaan avaus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SXA10
+
+@SUOMI = Suun alueen limakalvonÑytteen otto
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = SisÑltÑÑ huulet
+
+@NOTE_F =
+Suun alueen neulakudosnÑytteet, katso TE
+
+@END = 
+
+@KOODI = SXB00
+
+@SUOMI = Suun alueen limakalvo-ompeleen poisto
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = SXB10
+
+@SUOMI = Kiinnityksen tai kiskotuksen purkaminen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU T
+
+@LUVUT_S = KAPITEL T
+
+@SUOMI_L = Pientoimenpiteet
+
+@RUOTSI_L = Mindre ingrepp
+
+@ENGL_L = Minor surgical procedures
+
+@END_L = 
+
+@KOODI_R = TE
+
+@SUOMI_R = Suun, leukojen ja nielun pientoimenpiteet
+
+@RUOTSI_R = Mindre ÜtgÑrder pÜ mun, kÑkar och svalg
+
+@ENGL_R = Minor procedures in surgery of mouth,  jaws and pharynx
+
+@NOTE_RF = Suun ja hampaiston toimenpiteet, katso luku S
+
+@NOTE_RS = ètgÑrder pÜ mun och tÑnder, se kapitel S
+
+@END = 
+
+@KOODI = TEB00
+
+@SUOMI = Hampaan kruunuttaminen
+
+@RUOTSI = Applikationav tandkrona
+
+@NOTE_F = Poistettu / deleterad 1999/07/09
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk SPC10
+
+@END = 
+
+@KOODI = TEB10
+
+@SUOMI = HampaantÑyttî suoralla menetelmÑllÑ
+
+@RUOTSI = Tandfyllning med plastiskt material
+
+@NOTE_F = Poistettu / deleterad 1999/07/09
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk SFA30
+
+@END = 
+
+@KOODI = TEB20
+
+@SUOMI = HampaantÑyttî epÑsuoralla menetelmÑllÑ
+
+@RUOTSI = Tandfyllning med fast material
+
+@NOTE_F = Poistettu / deleterad 1999/07/09
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk SFB30
+
+@END = 
+
+@KOODI = TEB30
+
+@SUOMI = Hampaan juurihoito
+
+@RUOTSI = Rotbehandling av tand
+
+@NOTE_F = Poistettu / deleterad 1999/07/09
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk SGA03
+
+@END = 
+
+@KOODI = TEB40
+
+@SUOMI = MÑrkivÑn hampaan aukaisu
+
+@RUOTSI = DrÑnage av odontogen abscess
+
+@NOTE_F = Poistettu / deleterad 1999/07/09
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk SXA00
+
+@END = 
+
+@KOODI = TEG00
+
+@SUOMI = Leukanivelen pisto
+
+@RUOTSI = Punktion av kÑkled
+
+@NOTE_F = SisÑltÑÑ nÑytteenoton ja lÑÑkityksen
+
+@END = 
+
+@KOODI_R = TJ
+
+@SUOMI_R = Ruoansulatuskanavan ja sen oheiselimien pientoimenpiteet
+
+@RUOTSI_R = Mindre ÜtgÑrder pÜ gastrointestinalkanalen och dÑrtill hîrande organ
+
+@ENGL_R = Minor procedures in gastroenterological surgery
+
+@END = 
+
+@KOODI = TJA50
+
+@SUOMI = Injektiokanavan asettaminen vatsaonteloon
+
+@RUOTSI = Introduktion av intraperitoneal injektionsport
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = TJA55
+
+@SUOMI = Vatsaontelon injektiokanavan poistaminen
+
+@RUOTSI = AvlÑgsnande av intraperitoneal injektionsport
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = TN
+
+@SUOMI_R = Tuki- ja liikuntaelinten pientoimenpiteet
+
+@RUOTSI_R = Mindre ortopediska ÜtgÑrder
+
+@ENGL_R = Minor procedures in orthopedic surgery
+
+@END = 
+
+@KOODI_A = TNX
+
+@SUOMI_A = Tuki- ja liikuntaelinten pientoimenpiteet
+
+@RUOTSI_A = Mindre ortopediska ÜtgÑrder
+
+@ENGL_A = Bandages, splints, casts and external traction
+
+@END = 
+
+@KOODI = TNX60
+
+@SUOMI = Luumerkkiaineen asettaminen
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = TP
+
+@SUOMI_R = Verisuoniin ja imuteihin kohdistuvat pientoimenpiteet
+
+@RUOTSI_R = Mindre ÜtgÑrder pÜ perifera kÑrl och lymfatiska systemet
+
+@ENGL_R = Minor surgical procedures on peripheral vessels and lymphatic system
+
+@END = 
+
+@KOODI = TPX15
+
+@SUOMI = Laskimokanavan poisto
+
+@RUOTSI = AvlÑgsnande av vaskular injektionsport
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU U
+
+@LUVUT_S = KAPITEL U
+
+@SUOMI_L = TÑhystystoimenpiteen kehon luonnollisten aukkojen kautta
+
+@RUOTSI_L = Transluminal diagnostisk endoskopi via naturliga kroppsîppningar (eller redan anlagda stomier)
+
+@ENGL_L = Transluminal endoscopy
+
+@NOTE_LF = SisÑltÑÑ diagnostiset toimenpiteet
+
+@NOTE_LF =
+Ei sisÑllÑ ihon lÑpi tehtyjÑ tÑhystyksiÑ
+
+@NOTE_LF =
+Ei sisÑllÑ tÑhystyksessÑ tehtyjÑ leikkauksia
+
+@NOTE_LF =
+Mahdollinen koepalan otto sisÑltyy kaikkiin toimenpiteisiin.
+
+@NOTE_LF =
+Kun tyypillisesti koko kudoskappale kÑytetÑÑn koepalana, tulee kÑyttÑÑ tÑmÑn luvun koodeja vaikka muutos olisi poistettu kokonaan
+
+@NOTE_LF =
+Muut toimenpiteet koodataan asianomaisten elinten kohdalla tÑhystystie mainiten.
+
+@NOTE_LS = Incl diagnostisk ÜtgÑrden
+
+@NOTE_LS =
+Exkl perkutan endoskopi genom punktion eller incision
+
+@NOTE_LS =
+Exkl terapeutiska och invasiva transluminala endoskopiska operationer
+
+@NOTE_LS =
+Eventuell biopsi omfattas dock av samtliga ingreppskoder i detta kapitel
+
+@NOTE_LS =
+NÑr hela vÑvnadsbiten anvÑnds som prov, bîr man anvÑnda kod frÜn detta kapitel
+
+@NOTE_LS =
+Andra nÑmnda ÜtgÑrder kodas enligt respektive mÜlorgan
+
+@END_L = 
+
+@KOODI_R = UK
+
+@SUOMI_R = Virtsateiden tÑhystystoimenpiteet
+
+@RUOTSI_R = Transluminala endoskopier av urinvÑgarna
+
+@ENGL_R = Transluminal endoscopy of urinary tract
+
+@END = 
+
+@KOODI = UKB12
+
+@SUOMI = Virtsatieavanteen tÑhystys
+
+@RUOTSI = Endoskopi av urostomi eller conduit
+
+@END = 
+
+@KOODI = UKC12
+
+@SUOMI = Tekovirtsarakon tÑhystys
+
+@RUOTSI = Endoskopi av urinreservoar
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinjÑrjestelmiin vaikuttavat toimenpiteet
+
+@RUOTSI_L = Andra ÜtgÑrde och ÜtgÑrder pÜ flera organsystem
+
+@ENGL_L = Other procedures and procedures acting on several organ systems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinjÑrjestelmiin tai koko elimistîîn.
+
+@NOTE_LS = ètgÑrder som siktar sig pÜ flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI_R = WW
+
+@SUOMI_R = Muut toimenpiteet
+
+@RUOTSI_R = Andra ÜtgÑrder
+
+@END = 
+
+@KOODI_A = WW3
+
+@SUOMI_A = Kantasolusiirrot
+
+@RUOTSI_A = Transplantioner av stammceller
+
+@NOTE_RF = SisÑltÑÑ sekÑ luuytimestÑ ettÑ muualta kerÑttyjen kantasolujen siirrot
+
+@NOTE_RF =
+SiirrettÑvÑn materiaalin kerÑÑminen, katso YNB
+
+@NOTE_RS = Innefatta transplantation av stammceller bÜde frÜn benmÑrg och frÜn andra lokalisationer
+
+@NOTE_RS =
+Uttagning av material fîr transplantation, se YNB
+
+@END = 
+
+@KOODI = WW300
+
+@SUOMI = Autologinen kantasolusiirto
+
+@RUOTSI = Autologisk transplantation av stammceller
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = WY
+
+@SUOMI_R = KÑyntityypit
+
+@RUOTSI_R = Besîkstyper
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = WYA00
+
+@SUOMI = Seulonta tai terveystarkastus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = WYA10
+
+@SUOMI = Ensiapuluontoinen tai muu vastaava kÑynti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = KÑynnillÑ ei tehdÑ muita toimenpiteitÑ
+
+@END = 
+
+@KOODI = WYA20
+
+@SUOMI = KÑynti potilaan luona
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = WYA30
+
+@SUOMI = Vaikeahoitoisen potilaan valmistelu toimenpidettÑ varten
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = PelkÑÑvÑ, liikuntavammainen  jne.
+
+@END = 
+
+@KOODI_R = WZ
+
+@SUOMI_R = Todistukset, lÑÑkemÑÑrÑykset ja lausunnot
+
+@RUOTSI_R = Intyg, recept och utlÜtanden
+
+@NOTE_RF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = WZA
+
+@SUOMI_A = Todistukset
+
+@RUOTSI_A = 
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = WZA00
+
+@SUOMI = Suppea todistus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = A-todistus tai vastaava
+
+@END = 
+
+@KOODI = WZA10
+
+@SUOMI = Laaja todistus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = B- tai C-todistus tai vastaava
+
+@END = 
+
+@KOODI = WZA90
+
+@SUOMI = Muu lÑÑkÑrin tai hammaslÑÑkÑrin todistus
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = WZB00
+
+@SUOMI = Puhelimitse annettu hoito-ohje ja mahdollinen resepti
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@NOTE_F = Vastaanotolla hoidon yhteydessÑ annettu resepti myîskin puhelimitse toimitettuna sisÑltyy  kÑynnin toimenpiteisiin
+
+@END = 
+
+@KOODI = WZC00
+
+@SUOMI = Hoidon suunnittelu tai konsultaatio
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU X
+
+@LUVUT_S = KAPITEL X
+
+@SUOMI_L = Tutkimustoimenpiteet
+
+@RUOTSI_L = Diagnostiska ÜtgÑrder
+
+@ENGL_L = Investigative procedures
+
+@END_L = 
+
+@KOODI_R = XF
+
+@SUOMI_R = SydÑmen tutkimukset
+
+@RUOTSI_R = Diagnostiska ÜtgÑrder pÜ hjÑrtat och de stora intratorakala kÑrlen
+
+@ENGL_R = Investigative procedures on heart
+
+@NOTE_RS = Transesofageal ultraljudsdiagnostik, se XGX02
+
+@END = 
+
+@KOODI = XFN04
+
+@SUOMI = Sepelvaltimoiden tutkiminen ultraÑÑnellÑ katetrin kautta
+
+@RUOTSI = Ultraljudsundersîkning av koronÑrartÑr genom katetrisering
+
+@NOTE_F = Poistettu / deleterad 1999/02/05
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk FN1BE
+
+@END = 
+
+@KOODI_R = XL
+
+@SUOMI_R = Naisen lantion elinten tutkimukset
+
+@RUOTSI_R = Diagnostiska ÜtgÑrder pÜ kvinnliga genitalia
+
+@ENGL_R = Investigative procedures on female genital system
+
+@END = 
+
+@KOODI = XLA00
+
+@SUOMI = Gynekologinen ultraÑÑnitutkimus
+
+@RUOTSI = Gynekologisk ultraljudsundersîkning
+
+@NOTE_F = Poistettu / deleterad 1999/02/05
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk LC2AE
+
+@END = 
+
+@KOODI = XLA10
+
+@SUOMI = UltraÑÑnitutkimus emÑttimen kautta
+
+@RUOTSI = Transvaginal ultraljudsundersîkning
+
+@NOTE_F = Poistettu / deleterad 1999/02/05
+
+@NOTE_F = Korvaava koodi tilastokÑytîsssÑ / Substituerande kod i statisk bruk LC2BE
+
+@END = 
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ fîr transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@END_L = 
+
+@KOODI = YN3VD
+
+@SUOMI = Raajan annossuunnittelu-TT
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = LisÑkoodit
+
+@RUOTSI_L = TillÑggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = LisÑkoodeja voi kÑyttÑÑ ainoastaan muun toimenpidekoodin lisÑnÑ ilmaisemassa  tarkentavaa lisÑtietoa 
+
+@NOTE_LS = TillÑggskoder anvÑnds Ñndast tillsammans med egentliga koder
+
+@END_L = 
+
+@KOODI_R = ZX
+
+@SUOMI_R = Eriytyiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+
+@RUOTSI_R = Diverse omstÑndigheter/incidenter i samband med ÜtgÑrden
+
+@ENGL_R = Various circumstances and events in surgery
+
+@END = 
+
+@KOODI_A = ZX1
+
+@SUOMI_A = LÑÑkehoidon reitti
+
+@RUOTSI_A = Rot fîr medicationen
+
+@END = 
+
+@KOODI = ZX140
+
+@SUOMI = Niveleen
+
+@RUOTSI = In i ledet
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ZX198
+
+@SUOMI = Muu paikallinen lÑÑkehoito
+
+@RUOTSI = 
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_R = ZZ
+
+@SUOMI_R = Vapaat kudossiirteet
+
+@RUOTSI_R = Fria transplantat, transplantat med kÑrlanastomoser, lambÜer och bruk av vÑvnadsexpanders
+
+@ENGL_R = Grafts, flaps and tissue expanders
+
+@NOTE_RF = Verisuonisiirteet ilmoitetaan kohdassa ZPB
+
+@NOTE_RF =
+MikÑli ei mainita erityistÑ, tarkoitetaan vapaata omakudossiirrettÑ
+
+@NOTE_RS = KÑrltransplantat/implantat, se ZPB
+
+@NOTE_RS =
+Om ej annat anges avses fritt autotransplantat
+
+@NOTE_RS =
+Terminologi:
+
+@NOTE_RS =
+Autotransplantat (egen vÑvnad)
+
+@NOTE_RS =
+Allotransplantat (homo) (vÑvnad frÜn annan levande individ av samma art)
+
+@NOTE_RS =
+Nekrotransplantat (vÑvnad frÜn annan dîd/hjÑrndîd individ av samma art)
+
+@NOTE_RS =
+Heterotransplantat. (xeno) (artfrÑmmande vÑvnad)
+
+@END = 
+
+@KOODI_A = ZZQ
+
+@SUOMI_A = Vapaat, verisuoniin liitetyt kudossiirteet
+
+@RUOTSI_A = Fria transplantat med mikrovaskulÑra anastomoser
+
+@ENGL_A = Free microvascular grafts
+
+@NOTE_RF = Ovat omakudossiirteitÑ, autografteja
+
+@NOTE_RF =
+Hermotettu ihosiirre ZZA60
+
+@END = 
+
+@KOODI = ZZQ55
+
+@SUOMI = Vatsapaidan (omentin) vapaa verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av omentum
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ZZQ60
+
+@SUOMI = Hermo, vapaa, verisuoniin liitetty siirre
+
+@RUOTSI = Fritt transplantat av nerv med mikrovaskulÑra anastomoser
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = ZZR
+
+@SUOMI_A = Kielekesiirteet
+
+@RUOTSI_A = LambÜer
+
+@ENGL_A = Flaps
+
+@END = 
+
+@KOODI = ZZR05
+
+@SUOMI = Iho-sidekudoskalvo-kieleke
+
+@RUOTSI = Hud-fascia-lambÜ
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ZZR45
+
+@SUOMI = Luukieleke
+
+@RUOTSI = Ben lambÜ
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = ZZS
+
+@SUOMI_A = MenetelmiÑ rekonstruktioleikkauksissa
+
+@RUOTSI_A = Speciella tekniker vid anvÑndning av lambÜer och/eller vÑvnadsexpandrar
+
+@ENGL_A = Use of flaps and expander to advance and expand tissue
+
+@END = 
+
+@KOODI = ZZS70
+
+@SUOMI = Kudoslaajentimen poisto
+
+@RUOTSI = Uttagning av vÑvnadsexpander
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI_A = ZZU
+
+@SUOMI_A = Limakalvosiirteet
+
+@RUOTSI_A = SlÑmhinna transplantat
+
+@ENGL_A = Free graft of mucosa
+
+@NOTE_AF= LisÑtty / tillagt 2000/01/01
+
+@END = 
+
+@KOODI = ZZU00
+
+@SUOMI = Limakalvosiirre
+
+@RUOTSI = SlÑmhinna transplantat
+
+@NOTE_F= LisÑtty / tillagt 2000/01/01
+
+@END = 

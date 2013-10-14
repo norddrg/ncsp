@@ -1,0 +1,360 @@
+
+###
+#KOODI_L    B
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på endokrina organ
+#RUOTSI     ---
+#ENGL       Endocrine system procedures
+###
+#KOODI      B01AD 
+#MUUT_PVM   2006/12/19
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Enzymes
+#RUOTSI     ---
+#LYHENNE    Enzymes
+###
+#KOODI_A    BAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på sköldkörteln
+#RUOTSI     ---
+#ENGL       Thyroid gland
+###
+#KOODI      BAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral resektion av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral resektion av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Istmusresektion av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral lobektomi av sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lobektomi och resektion av kontralateral lob på sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tyreoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BAA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på sköldkörteln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    BBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på bisköldkörtlarna
+#RUOTSI     ---
+#ENGL       Parathyroid gland
+###
+#KOODI      BBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BBA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BBA30 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive adenom
+#OHJE_R 
+---
+###
+#KOODI      BBA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subtotal paratyreoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BBA50 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total paratyreoidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BBA70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation eller transplantation av bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BBA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på bisköldkörtel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    BCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på binjurar
+#RUOTSI     ---
+#ENGL       Adrenal gland
+###
+#KOODI      BCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA11 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral adrenalektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA31 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk adrenalektomi, unilateral
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral adrenalektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA41 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk adrenalektomi, bilateral
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BCA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på binjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    BDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på glomus caroticum
+#RUOTSI     ---
+#ENGL       Carotid body
+###
+#KOODI      BDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation på glomus caroticum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    BW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer för sårkomplikationer av endokrinologisk kirurgi
+#RUOTSI     ---
+#ENGL       Reoperations in endocrine surgery
+###
+#KOODI      BWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BWC00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BWD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      BWW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på endokrina organ
+#RUOTSI     ---
+#LYHENNE    

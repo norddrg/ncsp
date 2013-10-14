@@ -1,0 +1,695 @@
+
+###
+#KOODI_L    B
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Umpierityselimien toimenpiteet
+#RUOTSI     Åtgärder på endokrina organ
+#ENGL       Endocrine system procedures
+#OHJE_S  
+Aivolisäkkeen ja käpylisäkkeen leikkaukset luvussa A
+Kateenkorvan leikkaukset luvussa G
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TB
+Myöhäinen uusintaleikkaus ilmaistaa lisäkoodilla ZSB00
+#OHJE_R 
+Operationer på hypofysen och tallkottkörteln, se kapitel A
+Operationer på tymus, se GEC
+Punktion, punktionsbiopsi och aspirationscytologi, se TB
+Sen reoperation anges med tilläggskoden ZSB00
+###
+#KOODI_A    BA0
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kilpirauhasen sädehoito
+#RUOTSI     Strålbehandling av sköldkörteln
+#ENGL       
+###
+#KOODI      BA001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kilpirauhasen primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali kilpirauhasen primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kilpirauhasen primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kilpirauhasen primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kilpirauhasen paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kilpirauhasessa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kilpirauhasenprofylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av sköldkörteln
+#LYHENNE    
+###
+#KOODI      BA099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kilpirauhasen sädehoito
+#RUOTSI     Annan strålbehandling av sköldkörteln
+#LYHENNE    Muu kilpirauhasen sädehoito
+###
+#KOODI      BA1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6352      
+#SUOMI      Kilpirauhasen UÄ *
+#RUOTSI     UL av sköldkörteln
+#LYHENNE    Kilpirauhasen UÄ
+###
+#KOODI      BA2AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Kilpirauhasen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd biopsi av sköldkörteln
+#LYHENNE    Kilpir.kudosn.UÄ-ohj
+###
+#KOODI      BA3AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Kilpirauhasen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd finnålsbiopsi av sköldkörteln
+#LYHENNE    Kilpir.solun.UÄ-ohj
+###
+#KOODI      BA4KT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9053      
+#SUOMI      Kilpirauhasen skleroterapia
+#RUOTSI     Skleroterapi av sköldkörteln
+#LYHENNE    Kilpir. skleroterap.
+###
+#KOODI_A    BAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kilpirauhasen leikkaukset
+#RUOTSI     Operationer på sköldkörteln
+#ENGL       Thyroid gland
+###
+#KOODI      BAA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2501      
+#SUOMI      Koepalan otto kilpirauhasesta
+#RUOTSI     Biopsi av sköldkörteln
+#LYHENNE    Koepalan otto kilpirauhasesta
+###
+#KOODI      BAA05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2501      
+#SUOMI      Kilpirauhasen tutkimusleikkaus
+#RUOTSI     Exploration av sköldkörteln
+#LYHENNE    Kilpirauhasen tutkimusleikkaus
+###
+#KOODI      BAA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2503      
+#SUOMI      Kilpirauhasen aukaisu
+#RUOTSI     Incision av sköldkörteln
+#LYHENNE    Kilpirauhasen aukaisu
+#OHJE_S  
+Sis. kanavoinnin
+#OHJE_R 
+Inkluderar dränage
+###
+#KOODI      BAA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2504      
+#SUOMI      Kilpirauhasen toisen lohkon poisto osittain
+#RUOTSI     Unilateral subtotal resektion av sköldkörtellob
+#LYHENNE    Kilpirauhasen toisen lohkon resektio
+#OHJE_S  
+Sisältää enukleaation
+#OHJE_R 
+Inkluderar enukleation
+###
+#KOODI      BAA25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2505      
+#SUOMI      Kilpirauhasen molempien lohkojen poisto osittain
+#RUOTSI     Bilateral subtotal resektion av sköldkörteln
+#LYHENNE    Kilpirauhasen mol lohkojen resektio
+###
+#KOODI      BAA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2509      
+#SUOMI      Kilpirauhasen kannaksen poisto
+#RUOTSI     Istmusresektion av sköldkörteln
+#LYHENNE    Kilpirauhasen kannaksen poisto
+###
+#KOODI      BAA40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2509      
+#SUOMI      Kilpirauhasen toisen lohkon poisto kokonaan
+#RUOTSI     Unilateral total lobektomi av sköldkörteln
+#LYHENNE    Kilpirauhasen toisen lohkon poisto
+###
+#KOODI      BAA50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2505      
+#SUOMI      Kilpirauhasen toisen lohkon poisto kokonaan ja toisen osittain
+#RUOTSI     Total lobektomi + subtotal resektion av kontralaterala loben av sköldkörteln
+#LYHENNE    Kilpirauhasen lohkopoisto+toisen resekti
+###
+#KOODI      BAA60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2506      
+#SUOMI      Kilpirauhasen täydellinen poisto
+#RUOTSI     Total tyreoidektomi
+#LYHENNE    Kilpirauhasen täydellinen poisto
+###
+#KOODI      BAA99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2509      
+#SUOMI      Muu kilpirauhasen leikkaus
+#RUOTSI     Annan operation på sköldkörteln
+#LYHENNE    Muu kilpirauhasen leikkaus
+###
+#KOODI      BB1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6353      
+#SUOMI      Lisäkilpirauhasten UÄ
+#RUOTSI     UL av bisköldkörtlar
+#LYHENNE    LisäkilpirauhasUÄ
+###
+#KOODI      BB1CC
+#MUUT_PVM   1999/11/02
+#KAYTPVM    2000/01/01
+#POISTPVM   2001/11/26
+#POISTETTU
+#VANHA                
+#SUOMI      Yläraajavaltimoiden erittäin laaja varjoainetutkimus
+#RUOTSI     ---
+#LYHENNE    Yläraajavalt er.laaj. varjoainetutk
+###
+#KOODI      BB2AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9041      
+#SUOMI      Lisäkilpirauhasen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd biopsi av bisköldkörtel
+#LYHENNE    L-kilpir.kudosn.UÄ-o
+###
+#KOODI      BB3AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9031      
+#SUOMI      Lisäkilpirauhasen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd finnålsbiopsi av bisköldkörtel
+#LYHENNE    L-kilpir.solun.UÄ-o
+###
+#KOODI      BB4WT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9510      
+#SUOMI      Lisäkilpirauhasen selektiivinen verinäytteen otto radiologisessa ohjauksessa
+#RUOTSI     Radiologiskt styrt selektivt blodprov från bisköldkörtel
+#LYHENNE    Parathormoninäyte
+###
+#KOODI_A    BBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lisäkilpirauhasten leikkaukset
+#RUOTSI     Operationer på bisköldkörtlarna
+#ENGL       Parathyroid gland
+###
+#KOODI      BBA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2521      
+#SUOMI      Koepalan otto lisäkilpirauhasesta
+#RUOTSI     Biopsi av bisköldkörtel
+#LYHENNE    Koepalan otto lisäkilpirauhasesta
+###
+#KOODI      BBA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2521      
+#SUOMI      Lisäkilpirauhasen tutkimusleikkaus
+#RUOTSI     Exploration av bisköldkörtel
+#LYHENNE    Lisäkilpirauhasen tutkimusleikkaus
+###
+#KOODI      BBA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2522      
+#SUOMI      Lisäkilpirauhasen paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av patologisk bisköldkörtel
+#LYHENNE    Lisäkilpirauhaspoisto adenooman vuoksi
+#OHJE_S  
+Sisältää rauhaskasvaimen poiston
+#OHJE_R 
+Inkluderar adenom
+###
+#KOODI      BBA40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2522      
+#SUOMI      Lisäkilpirauhasten poisto osittain
+#RUOTSI     Subtotal paratyreoidektomi
+#LYHENNE    Lisäkilpirauhasten poisto osittain
+###
+#KOODI      BBA50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2522      
+#SUOMI      Lisäkilpirauhasten poisto kokonaan
+#RUOTSI     Total paratyreoidektomi
+#LYHENNE    Lisäkilpirauhasten poisto kokonaan
+###
+#KOODI      BBA70
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2523      
+#SUOMI      Lisäkilpirauhasen siirto
+#RUOTSI     Implantation eller transplantation av bisköldkörtel
+#LYHENNE    Lisäkilpirauhasen siirto
+###
+#KOODI      BBA99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2529      
+#SUOMI      Muu lisäkilpirauhasen leikkaus
+#RUOTSI     Annan operation på bisköldkörtlar
+#LYHENNE    Muu lisäkilpirauhasen leikkaus
+###
+#KOODI_A    BC0
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Lisämunuaisen sädehoito
+#RUOTSI     Strålbehandling av binjurar
+#ENGL       
+###
+#KOODI      BC001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito lisämunuaisen primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i binjurar
+#LYHENNE    
+###
+#KOODI      BC002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali lisämunuaisen primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i binjurar
+#LYHENNE    
+###
+#KOODI      BC003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito lisämunuaisen primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i binjurar
+#LYHENNE    
+###
+#KOODI      BC004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito lisämunuaisen primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i binjurar
+#LYHENNE    
+###
+#KOODI      BC029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito lisämunuaisen paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i binjurar
+#LYHENNE    
+###
+#KOODI      BC049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito lisämunuaisessa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i binjurar
+#LYHENNE    
+###
+#KOODI      BC090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito lisämunuaisenprofylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av binjurar
+#LYHENNE    
+###
+#KOODI      BC099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu lisämunaisen sädehoito
+#RUOTSI     Annan strålbehandling av binjurar
+#LYHENNE    Muu lisämunaisen sädehoito
+###
+#KOODI      BC1AD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5930      
+#SUOMI      Lisämunuaisten natiivi-TT
+#RUOTSI     DT av binjurar utan kontrast
+#LYHENNE    Lisämun. nat-TT
+###
+#KOODI      BC1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6139      
+#SUOMI      Lisämunuaisten UÄ *
+#RUOTSI     UL av binjurar
+#LYHENNE    Lisämunuaisten UÄ
+###
+#KOODI      BC1BD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5931      
+#SUOMI      Lisämunuaisten varjoaine-TT
+#RUOTSI     DT av binjurar med kontrast
+#LYHENNE    Lisämun. v.a-TT
+###
+#KOODI      BC1CD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5932      
+#SUOMI      Lisämunuaisten natiivi- ja varjoaine-TT
+#RUOTSI     DT av binjurar utan och med kontrast
+#LYHENNE    Lisämun. nat+v.a-TT
+###
+#KOODI      BC1XD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5934      
+#SUOMI      Lisämunuaisten muu TT
+#RUOTSI     DT av binjurar (övrig)
+#LYHENNE    Lisämun. muu TT
+###
+#KOODI      BC2AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Lisämunuaisen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd biopsi från binjure
+#LYHENNE    L-mun.kudosn.UÄ-ohj
+###
+#KOODI      BC2CT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lisämunuaisen kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     DT-styrd biopsi från binjure
+#LYHENNE    L-mun.kudosn.TT-ohj
+###
+#KOODI      BC2DT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lisämunuaisen kudosnäytteen otto magneettiohjauksessa
+#RUOTSI     MR-styrd biopsi från binjure
+#LYHENNE    L-mun.kudosn.MK-ohj
+###
+#KOODI      BC3AT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Lisämunuaisen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     UL-styrd finnålsbiopsi från binjure
+#LYHENNE    L-mun.solun.UÄ-ohj
+###
+#KOODI      BC3CT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9035      
+#SUOMI      Lisämunuaisen solunäytteen otto TT-ohjauksessa
+#RUOTSI     DT-styrd finnålsbiopsi från binjure
+#LYHENNE    L-mun.solun.TT-ohj
+###
+#KOODI      BC3DT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lisämunuaisen solunäytteen otto magneettiohjauksessa
+#RUOTSI     MR-styrd finnålsbiopsi från binjure
+#LYHENNE    L-mun.solun.MK-ohj
+###
+#KOODI      BC4WT
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9520      
+#SUOMI      Lisämunuaisen selektiivinen verinäytteen otto radiologisessa ohjauksessa
+#RUOTSI     Radiologiskt styrt selektivt blodprov från binjure
+#LYHENNE    Nor-/adrenaliininäyt
+###
+#KOODI_A    BCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lisämunuaisten leikkaukset
+#RUOTSI     Operationer på binjurar
+#ENGL       Adrenal gland
+###
+#KOODI      BCA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2531      
+#SUOMI      Koepalan otto lisämunuaisesta
+#RUOTSI     Biopsi av binjure
+#LYHENNE    Koepalan otto lisämunuaisesta
+###
+#KOODI      BCA11
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      2531      
+#SUOMI      Koepalan otto lisämunuaisesta tähystyksessä
+#RUOTSI     Endoskopisk biopsi av binjure
+#LYHENNE    Koepalan otto lisämunuaisesta tähyst
+###
+#KOODI      BCA15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2531      
+#SUOMI      Lisämunuaisen aukaisu tutkimustarkoituksessa
+#RUOTSI     Explorativ incision av binjure
+#LYHENNE    Lisämunuaisen eksploraatio
+#OHJE_S  
+Sis. kanavoinnin
+#OHJE_R 
+Inkluderar dränage
+###
+#KOODI      BCA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2532      
+#SUOMI      Kasvaimen poisto lisämunuaisesta
+#RUOTSI     Resektion av binjuretumör
+#LYHENNE    Kasvaimen poisto lisämunuaisesta
+###
+#KOODI      BCA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2533      
+#SUOMI      Toisen lisämunuaisen poisto
+#RUOTSI     Unilateral adrenalektomi
+#LYHENNE    Toisen lisämunuaisen poisto
+###
+#KOODI      BCA31
+#MUUT_PVM   1997/11/10
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA      2533      
+#SUOMI      Toisen lisämunuaisen poisto tähystyksessä
+#RUOTSI     Endoskopisk unilateral adrenalektomi
+#LYHENNE    Toisen lisämunuaisen poisto tähystyksess
+###
+#KOODI      BCA40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2534      
+#SUOMI      Molempien lisämunuaisten poisto
+#RUOTSI     Bilateral adrenalektomi
+#LYHENNE    Molempien lisämunuaisten poisto
+###
+#KOODI      BCA41
+#MUUT_PVM   1997/11/10
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA      2534      
+#SUOMI      Molempien lisämunuaisten poisto tähystyksessä
+#RUOTSI     Endoskopisk bilateral adrenalektomi
+#LYHENNE    Molempien lisämunuaisten poisto tähystyk
+###
+#KOODI      BCA99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2539      
+#SUOMI      Muu lisämunuaisten leikkaus
+#RUOTSI     Annan operation på binjurar
+#LYHENNE    Muu lisämunuaisten leikkaus
+###
+#KOODI_A    BDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hankarauhasen leikkaukset
+#RUOTSI     Operationer på glomus caroticum
+#ENGL       Carotid body
+###
+#KOODI      BDA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2552      
+#SUOMI      Hankarauhasen leikkaus
+#RUOTSI     Exstirpation av glomus caroticum
+#LYHENNE    Hankarauhasen leikkaus
+###
+#KOODI_R    BW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Umpierityselinleikkausten haavakomplikaatioleikkaukset
+#RUOTSI     Reoperationer för sårkomplikationer av endokrinologisk kirurgi
+#ENGL       Reoperations in endocrine surgery
+###
+#KOODI      BWA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2561      
+#SUOMI      Auenneen tai tulehtuneen umpierityselinleikkaushaavan tarkistaminen
+#RUOTSI     Revision av dehiscens eller sårinfektion efter operation på de endokrina organen
+#LYHENNE    Umpierityselinhaavarevisio,vuoto
+###
+#KOODI      BWD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2561      
+#SUOMI      Umpierityselinleikkauksen uusintaleikkaus vuodon vuoksi
+#RUOTSI     Reoperation för blödning efter operation på de endokrina organen
+#LYHENNE    Umpierityselinhaavarevisio,auenn/infekti
+###
+#KOODI      BWW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      2562      
+#SUOMI      Muu umpierityselinleikkausten haavakomplikaatioleikkaus
+#RUOTSI     Annan reoperation för komplikationer efter operation på de endokrina organen
+#LYHENNE    Muu umpierityselinhaavakomplikaatioleik

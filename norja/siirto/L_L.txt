@@ -1,0 +1,4510 @@
+
+###
+#KOODI_L    L
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Female genital organs
+#RUOTSI     ---
+#ENGL       Female genital organs
+###
+#KOODI_R    LA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ovary
+#RUOTSI     ---
+#ENGL       Ovary
+###
+#KOODI_A    LAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Puncture of ovary
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Percutaneous or transvaginal puncture and puncture at laparotomyIncludes: Directed by ultrasonographyPuncture of capsule of polycystic ovary, see: LAC 10-11
+#OHJE_R 
+---
+###
+#KOODI      LAA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punksjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk punksjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan punksjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvaginal punksjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan eller transvaginal punksjon med uthenting av egg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk uthenting av egg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan eller transvaginal injeksjon i ovarialgraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ovarioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen punksjon av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAA97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk punksjon av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of ovary
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ovariotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ovariotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAB11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAB21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk nålebiopsi av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen incisjon eller biopsi av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAB97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk incisjon eller biopsi av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision or destruction of lesion of ovary
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ekstirpasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fenestrasjon eller marsupialisasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC10  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC10  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskop fenestrasjon el marsupialisasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC11  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC11  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk fenestrasjon av ovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk destruksjon av lesjon i ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av paraovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ekstirpasjon av paraovarialcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen ekstirpasjon eller destruksjon av lesjon i ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskop ekstirpasjon/destruksjon lesjon i ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk ekstirpasjon eller destruksjon av lesjon i ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAC97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk ekstirpasjon eller destruksjon av lesjon i ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of ovary
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAD01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of ovary
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAE11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral laparoskopisk ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAE21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral laparoskopisk ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of ovary and Fallopian tube
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral salpingo-ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk unilateral salpingo-ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral salpingo-ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAF11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk bilateral salpingo-ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAF20  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral transvaginal salpingo-ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAF30  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral transvaginal salpingo-ooforektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on ovary
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ovariolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ovariolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ovariopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ovariopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ovariopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk ovariopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk ovariopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ovariopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Detorkvering av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk detorkvering av ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAG97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet laparoskopisk rekonstruksjonsinngrep på ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LAW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on ovary
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LAW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LAW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon på ovarium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Fallopian tube
+#RUOTSI     ---
+#ENGL       Fallopian tube
+#OHJE_S  
+Operations for purpose of sterilisation, see: LG
+#OHJE_R 
+---
+###
+#KOODI_A    LBA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Puncture and endoscopic procedures on Fallopian tube
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Directed by ultrasonographyFalloposcopy, see: ULB 02
+#OHJE_R 
+---
+###
+#KOODI      LBA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan punksjon av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan punksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan punksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk punksjon av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk punksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk punksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transvaginal punksjon av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA03  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transvaginal punksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA03  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvaginal punksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBA07  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salpingoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LBB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy of Fallopian tube
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LBB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB04  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Salpingoskopisk biopsi av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB04  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Salpingoskopisk biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB04  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salpingoskopisk biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk nålebiopsi av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk nålebiopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk nålebiopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen biopsi av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBB96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen biopsi av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LBC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tube conserving operations for tubal pregnancy
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LBC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan injeksjon ved tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvaginal injeksjon ved tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC07  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk injeksjon ved tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC08  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Falloposkopisk injeksjon ved tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC08  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fallopioskopisk injeksjon ved tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC08  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fallopioskopisk injeksjon ved tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av graviditetsprodukter fra tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av graviditetsprodukter fra eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av graviditetsprodukter fra eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskop fjerning graviditetsprodukter fra tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk fjerning av graviditetsprodukter fra eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC11  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk fjerning av graviditetsprodukter fra eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salpingotomi og fjerning av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskop salpingotomi og fjerning av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC21  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk salpingotomi og fjerning av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC21  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk salpingotomi og fjerning av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen tubekonserverende operasjon for tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskop tubekonserverende op for tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk tubekonserverende operasjon for tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC97  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk tubekonserverende operasjon for tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen translum endosk tubekonserverende op tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk tubekonserverende operasjon for tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBC98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk tubekonserverende operasjon for tubargraviditet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LBD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of Fallopian tube
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For tubal pregnancy
+#OHJE_R 
+---
+###
+#KOODI      LBD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBD01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBD01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBD01  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LBE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of Fallopian tube
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For tubal pregnancySalpingo-oophorectomy, see: LAF
+#OHJE_R 
+---
+###
+#KOODI      LBE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salpingektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk salpingektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LBF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on Fallopian tube for infertility
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LBF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tubeperfusjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk tubeperfusjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tubeperfusjon etter rekonstruksjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopi for assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF12  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopi for assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervical kateter-salpingoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transcervikal kateter-salpingoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal kateter-salpingoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salpingolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk salpingolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fimbrieplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk fimbrieplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Salpingostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk salpingostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og anastomose av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og anastomose av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF60  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og anastomose av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF61  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon og anastomose av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF61  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon og anastomose av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF61  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon og anastomose av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF70  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og reimplantasjon av tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF70  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reseksjon og reimplantasjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF70  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon og reimplantasjon av eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen fertilitetsoperasjon på tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen fertilitetsoperasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen fertilitetsoperasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk fertilitetsoperasjon på tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk fertilitetsoperasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBF97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk fertilitetsoperasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LBW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on Fallopian tube
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Detorsion of ovary and Fallopian tube, see: LAG 20-21
+#OHJE_R 
+---
+###
+#KOODI      LBW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW96  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW96  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon på tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på tuba uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LBW98  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på eggleder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uterus and uterine ligaments
+#RUOTSI     ---
+#ENGL       Uterus and uterine ligaments
+#OHJE_S  
+Cervix uteri, see: LDVaginal operations for uterine prolapse, see: LEFHysteroscopy and microhysteroscopy, see: ULCHysteroscopic sterilisation, see: LGAHysteroscopic procedures in pregnancy, see: MAA
+#OHJE_R 
+---
+###
+#KOODI_A    LCA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Intrauterine operations and biopsy of uterus and uterine ligaments
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Curettage in spontaneous abortion or after childbirth, see: MBABiosy of vaginal cervix, see: LDA 10Termination of pregnancy, see: LCH
+#OHJE_R 
+---
+###
+#KOODI      LCA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av uterus eller uterinligament
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av uterus eller uterinligament
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA06  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endometriebiopsi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskrapning av corpus uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskraping av corpus uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskraping av corpus uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA13  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fraksjonert utskraping
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA16  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av endometrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk fjerning av fremmedlegeme
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Overføring av egg/embryo til uterus v/assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Overføring av egg eller embryo til uterus ved assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Overføring av egg eller embryo til uterus ved assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen intrauterin operasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCA98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk operasjon på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, excision and destruction of lesion of uterus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LCB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk hysterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enukleasjon av myoma uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk enukleasjon av myoma uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB14  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk myolyse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB14  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk diatermidestruksjon av myomknute
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB14  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk diatermidestruksjon av myomknute
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transvaginal enukleasjon av myoma uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk ekstirpasjon av lesjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB28  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk eksisjon av endometrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB32  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk destruksjon av endometrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen ekstirpasjon av lesjon i uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk ekstirpasjon av lesjon i uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskop ekstirpasjon av lesjon i uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk ekstirpasjon av lesjon i uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCB98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk ekstirpasjon av lesjon i uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of uterus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LCC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk reseksjon av uterinvegg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Supravaginal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk subtotal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal supravaginal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCC97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk reseksjon av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of uterus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Caesarean hysterectomy, see: MCA
+#OHJE_R 
+---
+###
+#KOODI      LCD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total laparoskopisk hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD04  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk assistert vaginal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal laparoskopisk hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal vaginal hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCD97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exenteration of pelvis
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LCE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fremre eksenterasjon av kvinnelig bekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bakre eksenterasjon av kvinnelig bekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total eksenterasjon av kvinnelig bekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksenterasjon av kvinnelig bekken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of lesion of parametrium
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LCF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i parametrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ekstirpasjon av lesjon i parametrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av kvinnelig varicocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCF11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ekstirpasjon av kvinnelig varicocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCF96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen ekstirpasjon av lesjon i parametrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCF97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk ekstirpasjon av lesjon i parametrium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on uterus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LCG02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk adheranseløsning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk sutur av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hysteropexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hysteropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk hysteropexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG21  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk hysteropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG21  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk hysteropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon eller deling av sacrouterinligamenter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG31  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon/deling av sacrouterinligamenter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG31  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon eller deling av sacrouterinligamenter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG31  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk reseksjon eller deling av sacrouterinligamenter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk rekonstruksjon av uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet laparoskopisk rekonstruksjonsinngrep på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminaln endoskopisk rekonstruksjonsop på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk rekonstruksjonsinngrep på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCG98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet transluminalt endoskopisk rekonstruksjonsinngrep på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utprøving og stell/vedlikehold av prolapsring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Embryotransfer med fryste og tinte embryoer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX10 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intracytoplasmatisk spermieinjeksjon (ICSI)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intracytoplasmatisk spermieinjeksjon (ICSI)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Nedfrysing av embryo
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nedfrysing av embryo
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX20 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intrauterin inseminasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrauterin inseminasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX89 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Intrauterin inseminasjon INA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCGX90 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Standard embryotransfer (IVF)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Termination of pregnancy
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Evacuation of uterus in spontaneous or medically induced abortion or after childbirth, see: MBA
+#OHJE_R 
+---
+###
+#KOODI      LCH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vakuumaspirasjon av graviditetsprodukter i uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Evakuasjon og utskrapning av uterinhulen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH03  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Evakuering og utskraping av uterinhulen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH03  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Evakuering og utskraping av uterinhulen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intra- eller ekstraamniotisk instillasjon av abortmiddel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH13  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vakuumaspirasjon fra uterus etter medisinsk indusert abort
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hysterotomi og evakuasjon av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hysterotomi og evakuering av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysterotomi og evakuering av graviditetsprodukter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCH96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen svangerskapsavbrytelse
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCPE05 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Embolisering av a. uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCPE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Embolisering av a. uterina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LCW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on uterus and uterine ligaments
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LCW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på uterus eller uterinligament
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon på uterus eller uterinligament
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LCW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen hysteroskopisk operasjon på uterus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Cervix uteri
+#RUOTSI     ---
+#ENGL       Cervix uteri
+###
+#KOODI_A    LDA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Dilatation, curettage and biopsy of cervix uteri
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LDA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatasjon av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskrapning av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskraping av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskraping av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen biopsi av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LDB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision or destruction of lesion of cervix uteri
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LDB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kryokirurgi i cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrokoagulasjon eller laserterapi i cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LDC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision of cervix uteri
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+In colpoperineoplasty, see: LEF
+#OHJE_R 
+---
+###
+#KOODI      LDC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konisering av cervix uteri med kniv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDC03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konisering av cervix uteri med diatermi eller laser
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen eksisjon av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LDD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstructive operations on cervix uteri
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LDD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LDD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av cerclage fra cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LDW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on cervix uteri
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LDW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på cervix uteri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vagina
+#RUOTSI     ---
+#ENGL       Vagina
+#OHJE_S  
+Colposcopy, see: XLE
+#OHJE_R 
+---
+###
+#KOODI_A    LEA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Culdoscopy and incision of vagina
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Puncture of pouch of Douglas, see: TLE 20
+#OHJE_R 
+---
+###
+#KOODI      LEA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Culdoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolpotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LEB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy, excision or destruction of lesion of vagina
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LEB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Marsupialisasjon av vaginalcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEB20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Marsupialisering av vaginalcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEB20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marsupialisering av vaginalcyste
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LEC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of vagina
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LEC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av vaginalseptum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LED
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of vagina
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LED00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolpektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LEE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair or construction of vagina
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZExcludes: Operations for incontinence or uterine prolapse
+#OHJE_R 
+---
+###
+#KOODI      LEE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av vagina med bruk av transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av vagina med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av vagina med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av urovaginal fistel med bruk av transplantat/lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av urovaginal fistel med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av urovaginal fistel med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking intestinovaginal fistel m/bruk av transplantat/lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lukking av intestinovaginal fistel med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE30  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lukking av intestinovaginal fistel med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konstruksjon av vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen rekonstruksjon av vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEET00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kolposkopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEET00 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kolposkopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LEF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for prolapse of uterus or vaginal vault and enterocele
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LEF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fremre kolporafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF03  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bakre kolporafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fullstendig prolapsplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kolpoperineoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolpoperineoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF13  
+#MUUT_PVM   2012/12/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal hysterektomi for prolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF16  
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2013/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fullstendig prolapsplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Partiell kolpokleise
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Partiell kolpocleise
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell kolpokleise
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF23  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Total kolpokleise
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF23  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Total kolpocleise
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF23  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total kolpokleise
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF34  
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2013/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cervixamputasjon ved prolaps
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal operasjon for enterocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF41  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operasjon for enterocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kolpopexi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kolpopeksi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolpopeksi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF51  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk kolpopexi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF51  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk kolpopeksi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF51  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolpopeksi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF53  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal kolpopexi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF53  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal kolpopeksi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF53  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal kolpopeksi etter tidligere hysterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for prolaps av uterus eller vaginaltoppen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskop op for prolaps av uterus el vaginaltoppen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon for prolaps av uterus eller vaginaltoppen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEF97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon for prolaps av uterus eller vaginaltoppen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEFT20 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginalutstryk med mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEFT20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginalutstryk med mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEFX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginalutstryk med mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LEG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vaginal operations for incontinence
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Abdominal or combined abdominal and vaginal operations, see: KDG
+#OHJE_R 
+---
+###
+#KOODI      LEG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal urethrocystorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal urethrocystopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal urethrocystopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEG10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal urethrocystopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEG13  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginal transobturatorisk urethropeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av kvinnelig bekkenbunn med levatordeling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEG96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen vaginal inkontinensoperasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEGB82 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Vaginal eller anal stimulator for urininkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tilpasning/oppfølging av pessar eller hormonring for prevensjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tilpasning/oppfølging av vaginalt innlegg ved descens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LEW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on vagina
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LEW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LEW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk operasjon på vagina
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vulva and perineum
+#RUOTSI     ---
+#ENGL       Vulva and perineum
+###
+#KOODI_A    LFA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision of vulva and perineum
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av hymen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LFB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsy, excision or destruction of lesion of vulva and perineum
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon i vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LFC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of vulva and perineum
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reseksjon av vulva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFC96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LFD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total excision of vulva
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vulvektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vulvektomi med eksisjon av regionale lymfeknuter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LFE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of vulva and perineum
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av vulva
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vulvaplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFE96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet rekonstruksjonsinngrep på vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LFF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on Bartholin gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Marsupialisasjon av Bartholins kjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Marsupialisering av Bartholins kjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFF00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marsupialisering av Bartholins kjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av Bartholins kjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFF96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på Bartholins kjertel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LFST00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Deinfibulering etter omskjæring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LFW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other operations on vulva and perineum
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LFW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon på vulva eller perineum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Female sterilisation
+#RUOTSI     ---
+#ENGL       Female sterilisation
+###
+#KOODI_A    LGA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Female sterilisation
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LGA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sterilisasjon ved tubeligatur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sterilisasjon ved destruksjon eller deling av tubene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA11  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskop sterilisasjon v/destruksjon el deling av tubene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA11  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laparoskopisk sterilisasjon ved destruksjon eller deling av tubene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA11  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk sterilisasjon ved destruksjon eller deling av tubene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sterilisasjon ved avsnøring av tubene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA21  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk sterilisasjon ved ved avsnøring av tubene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA22  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hysteroskopisk sterilisasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kvinnelig sterilisasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen laparoskopisk kvinnelig sterilisasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LGA98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk kvinnelig sterilisasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    LW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations on female genital organs
+#RUOTSI     ---
+#ENGL       Reoperations on female genital organs
+#OHJE_S  
+Puncture, needle biopsy and other minor procedures, see: TL
+Digits 0, 3 and 6:
+Note: Procedures not otherwise specified in the code texts are open operations or procedures
+Digits 1, 4 and 7:
+Includes (Chapter L): Laparoscopy, salpingoscopy, ovarioscopy, culdoscopy and procedures performed in the course of them
+Includes: Use of auxiliary stabs or minor incisions. The procedure is classified as laparoscopic if dissection and preparation of the organ in question is performed endoscopically, even if parts of th
+Note: In the code texts, these procedures are specified as laparoscopic, salpingoscopic or ovarioscopic
+Digits 2, 5 and 8:
+Includes (Chapter L): Procedures in the course of hysteroscopy, microhysteroscopy and falloposcopy
+Note: In code text, these procedures are specified as hysteroscopic or falloposcopic
+For codes with the fourth posision digit 9 (the"other" codes), only the last digits 6, 7 and 8 are used, with significance as above
+Please note the following difference between transluminal endoscopy and invasive or therapeutic procedures performed in the course of transluminal endoscopy:
+Transluminal endoscopy, frequently allowing examination of several connected organ cavities, is generally classified (in Chapter U) according to the most common main target for the category of endosco
+Transluminal endoscopic procedures are classified according to the location where they are actually performed, and then by action and technique
+In Chapter L, e.g. hysteroscopic procedures are described for Fallopian tubes (sterilisation), uterus and cervix uteri
+#OHJE_R 
+---
+###
+#KOODI_A    LWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LWA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound infection
+#OHJE_R 
+---
+###
+#KOODI      LWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfladisk infeksjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWB00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Infection in body cavity or at the site of target organ or structures
+#OHJE_R 
+---
+###
+#KOODI      LWC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWC01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reop for dyp inf ved gynekologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWC01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp infeksjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWC01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp infeksjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      LWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for overfladisk blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWD00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Haemorrhage or haematoma in body cavity or at the site of target organ or structures
+#OHJE_R 
+---
+###
+#KOODI      LWE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWE01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskop reop for dyp blødning ved gynekologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWE01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWE01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for dyp blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWE02  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Translum endoskop reop for dyp blødning ved gynekologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWE02  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperasjon for dyp blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWE02  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperasjon for dyp blødning ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LWF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for insufficiency of anastomosis or suture in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LWF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reop for insuff av anastomose el sutur ved gynekologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWF00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for insuffisiens av anastomose eller sutur ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWF01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkut endoskop reop insuff anastomose/sutur v/gynekolog kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWF01  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for insuffisiens av anastomose eller sutur ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWF01  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperasjon for insuffisiens av anastomose eller sutur ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    LWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperation in gynaecological surgery
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      LWW96  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWW97  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reoperasjon ved gynekologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWW97  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reoperasjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWW97  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen perkutan endoskopisk reoperasjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWW98  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reop ved gynekologisk kir
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWW98  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LWW98  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen transluminal endoskopisk reoperasjon ved gynekologisk kirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXDE00 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Undersøkelse av livmorhule/eggledere med væskesonografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXDE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Undersøkelse av livmorhule/eggledere med væskesonografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXDE05 
+#MUUT_PVM   2007/04/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ultralydundersøkelse med vaginal probe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXDE05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse med vaginal probe
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pasientvurdering i forbindelse med ovulasjonsstimulering/assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXGM05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Innsetting/fjerning/skifting av subkutant implantat for prevensjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXGX99 
+#MUUT_PVM       /  /  
+#KAYTPVM    2007/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Infertilitetsutredning hos kvinne IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXGX99 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Infertilitetsutredning hos kvinne IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXXJ00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Informasjon/undervisning i forbindelse med ovulasjonsstimulering/assistert befruktning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      LXXJ05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Klimakterierådgiving
+#RUOTSI     ---
+#LYHENNE    

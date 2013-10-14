@@ -1,0 +1,3069 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU C
+
+@LUVUT_S = KAPITEL C
+
+@SUOMI_L = Silmän alue
+
+@RUOTSI_L = Ögonregion
+
+@ENGL_L = Eye and adjacent structures
+
+@END_L = 
+
+@KOODI_R = CJ
+
+@SUOMI_R = Mykiö
+
+@RUOTSI_R = Lins
+
+@ENGL_R = Lens
+
+@NOTE_RF = Sis. tekomykiön asettamisen mykiölliseen silmään (phakic lens) taittovirheen korjaamiseksi
+
+@NOTE_RF =
+Vierasesineiden poisto kohdassa CDB
+
+@NOTE_RF =
+Vitrektomialle oma koodi kohdassa CKD
+
+@NOTE_RS = Inkl implantation av intraokulär kontaktlins för korrektion av brytningsfel vid förekomst av oskadad, ursprunglig lins
+
+@NOTE_RS =
+Avlägsnande av främmande kropp, se CDB
+
+@NOTE_RS =
+Samtidig vitrektomi anges med tilläggskod, se CKD
+
+@END = 
+
+@KOODI_A = CJA
+
+@NCSP_A = CJSA
+
+@SUOMI_A = Tekomykiön asettaminen mykiölliseen silmään
+
+@RUOTSI_A = Implantation av intraokulär kontaktlins
+
+@ENGL_A = Implantation of phakic lens
+
+@END = 
+
+@KOODI = CJA00 
+
+@NCSP = CJSA00
+
+@SUOMI = Tekomykiön asettaminen mykiöllisen silmän etukammioon
+
+@RUOTSI = Implantation av intraokulär kontaktlins i främre kammare
+
+@END = 
+
+@KOODI = CJA10 
+
+@NCSP = CJSA10
+
+@SUOMI = Tekomykiön asettaminen mykiöllisen silmän takakammioon
+
+@RUOTSI = Implantation av intraokulär kontaktlins i bakre kammare
+
+@END = 
+
+@LUVUT = LUKU D
+
+@LUVUT_S = KAPITEL D
+
+@SUOMI_L = Korva, nenä ja kurkunpää
+
+@RUOTSI_L = Öron, näsa, hals och struphuvud
+
+@ENGL_L = Ear, nose and larynx
+
+@NOTE_LF = Trakeostomia kohdassa GBC
+
+@NOTE_LF =
+Trakeoskopia kohdassa UGA
+
+@NOTE_LS = Trakeotomiingrepp, se GBC
+
+@NOTE_LS =
+Trakeoskopi, se UGA
+
+@END_L = 
+
+@KOODI_R = DQ
+
+@SUOMI_R = Kurkunpää
+
+@RUOTSI_R = Larynx
+
+@ENGL_R = Larynx
+
+@NOTE_RF = Kurkunpään ja nielun poisto kohdassa ENB30
+
+@NOTE_RF =
+Kaulan imusolmukkeiden radikaali poisto kohdassa PJD
+
+@NOTE_RS = Laryngektomi/faryngektomi ENB30
+
+@NOTE_RS = Exstirpation/radikal utrymning av cervikala lymfkörtlar, se PJD
+
+@END = 
+
+@KOODI_A = DQ_
+
+@NCSP_A = DQS
+
+@SUOMI_A = Kurkunpään kirurgia
+
+@RUOTSI_A = Larynxkirurgi
+
+@ENGL_A = Surgery of larynx
+
+@END = 
+
+@KOODI = DQD50 
+
+@NCSP = DQSD50
+
+@SUOMI = Kurkunpääputken asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i larynx
+
+@END = 
+
+@LUVUT = LUKU F
+
+@LUVUT_S = KAPITEL F
+
+@SUOMI_L = Sydän ja rintaontelon suuret suonet
+
+@RUOTSI_L = Hjärta och stora intratorakala kärlen
+
+@ENGL_L = Heart and major thoracic vessels
+
+@NOTE_LF = Sydämen magneetti- ja tietokonekuvaukset sekä sädehoito kohdassa GE
+
+@NOTE_LS = MR och CT samt strålbehandling av hjärtat, se GE
+
+@END_L = 
+
+@KOODI_R = FA
+
+@SUOMI_R = Rintaontelon suuret laskimot
+
+@RUOTSI_R = Stora intratorakala vener
+
+@ENGL_R = Major thoracic veins
+
+@NOTE_RF = Muut rintaontelon laskimot kohdassa PH
+
+@NOTE_RF =
+Eteinen ja eteisväliseinä kohdassa FFA-FFW
+
+@NOTE_RF =
+Keuhkolaskimot kohdassa FFF-FFH
+
+@NOTE_RS = Andra torakala vener, se PH
+
+@NOTE_RS =
+Förmak eller förmaksseptum, se FFA - FFW
+
+@NOTE_RS =
+Lungvener, se FFF - FFH
+
+@END = 
+
+@KOODI_A = FAE
+
+@NCSP_A = FASE
+
+@SUOMI_A = Onttolaskimon ja keuhkovaltimon yhdistämisleikkaukset
+
+@RUOTSI_A = Anastomoser mellan arteria pulmonalis och vena cava
+
+@ENGL_A = Connection to pulmonary artery from superior vena cava
+
+@END = 
+
+@KOODI = FAE00 
+
+@NCSP = FASE00
+
+@SUOMI = Yläonttolaskimon liittäminen oikeaan keuhkovaltimoon (Glenn)
+
+@RUOTSI = Anastomos mellan v. cava superior och a. pulmonalis dx (Glenn)
+
+@NOTE_F = Keuhkovaltimorunkoa ei suljeta
+
+@NOTE_S = Arteria pulmonalis huvudstam blir ej tillsluten
+
+@END = 
+
+@KOODI = FAE10 
+
+@NCSP = FASE10
+
+@SUOMI = Yläonttolaskimon liittäminen keuhkovaltimoon ja keuhkovaltimorungon sulku
+
+@RUOTSI = Bidirektionell shunt mellan vena cava superior och arteria pulmonalis
+
+@NOTE_F = Bidirectional Glenn
+
+@NOTE_F =
+Sisältää keuhkovaltimon rungon sulun
+
+@NOTE_S = Inkl tillslutning av arteria pulmonalis huvudstam
+
+@END = 
+
+@KOODI = FAE20 
+
+@NCSP = FASE20
+
+@SUOMI = Onttolaskimoiden liittäminen kokonaan keuhkovaltimoon (Fontan sovellus)
+
+@RUOTSI = Total cavo-pulmonell förbindelse (modfierad Fontan)
+
+@NOTE_F = Sisältää eteisen sisäisen kanavan rakentamisen tai ASD:n sulun
+
+@END = 
+
+@KOODI = FAE30 
+
+@NCSP = FASE30
+
+@SUOMI = Onttolaskimoiden liittäminen kokonaan keuhkovaltimoon ikkunapaikalla (Fontan fenestrated)
+
+@RUOTSI = Total cavo-pulmonell förbindelse med fenestrerad patch (Fontan)
+
+@NOTE_F = Ikkunapaikka päästää osan verestä sydämen oikeaan eteiseen
+
+@NOTE_S = Fenestrerad patch tillåter en del av blodet att flöda in i höger förmake
+
+@END = 
+
+@KOODI = FAE40 
+
+@NCSP = FASE40
+
+@SUOMI = Onttolaskimoiden liittäminen kokonaan keuhkovaltimoon käyttäen sydämen ulkopuolista yhteyttä (conduit)
+
+@RUOTSI = Total cavo-pulmonell förbindelse med conduit
+
+@NOTE_F = Extracardiac Fontan
+
+@END = 
+
+@KOODI = FAE50 
+
+@NCSP = FASE50
+
+@SUOMI = Onttolaskimoiden liittäminen kokonaan keuhkovaltimon käyttäen sydämen ulkopuolista yhteyttä ja haaraa sydämen eteiseen
+
+@RUOTSI = Total extrakardiell cavopulmonal förbindelse med shunt till atrium
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = FAF
+
+@NCSP_A = FASF
+
+@SUOMI_A = Onttolaskimon ja keuhkovaltimon yhdistämisen jatkoleikkaukset
+
+@RUOTSI_A = Operationer efter anläggande av cavopulmonal förbindelse
+
+@ENGL_A = Operations subsequent to cavopulmonary connection
+
+@NOTE_AF= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = FAF00 
+
+@NCSP = FASF00
+
+@SUOMI = Alaonttolaskimon ja keuhkovaltimon välisen täydellisen yhteyden ikkunoiminen sydämen eteiseen
+
+@RUOTSI = Fenestrering av total cavopulmonal förbindelse till höger förmake
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = FAF10 
+
+@NCSP = FASF10
+
+@SUOMI = Onttolaskimon ja keuhkovaltimon välisen ikkunapaikan sulkeminen
+
+@RUOTSI = Slutning av fenestrering vid cavopulmonal förbindelse
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Täydellisen Fontan-verenkierron aikaansaamiseksi
+
+@NOTE_S = För att skapa fullständig Fontan cirkulation
+
+@END = 
+
+@KOODI = FAF12 
+
+@NCSP = FASF12
+
+@SUOMI = Onttolaskimon ja keuhkovaltimon välisen ikkunapaikan sulku suonensisäisesti
+
+@RUOTSI = Perkutan transluminal slutning av fenestrering vid cavopulmonal förbindelse
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Sis. tukkivan laitteen asettamisen
+
+@NOTE_S = Inkl användning av ockluderande produkt
+
+@END = 
+
+@KOODI = FAF20 
+
+@NCSP = FASF20
+
+@SUOMI = Yläonttolaskimosta keuhkovaltimoon tehdyn yhteyden sulkeminen
+
+@RUOTSI = Slutning av cavopulmonal anastomos
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Glenn-leikkauksen purku
+
+@NOTE_S = Avveckling av Glenn
+
+@END = 
+
+@KOODI = FAF96 
+
+@NCSP = FASF96
+
+@SUOMI = Muu onttolaskimon ja keuhkovaltimon yhdistämisen jatkoleikkaus
+
+@RUOTSI = Annan operation efter anläggande av cavopulmonal förbindelse
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = FAW
+
+@NCSP_A = FASW
+
+@SUOMI_A = Muut rintaontelon laskimoiden leikkaukset
+
+@RUOTSI_A = Andra operationer på intratorakala vener
+
+@ENGL_A = Other operations on major thoracic veins
+
+@END = 
+
+@KOODI = FAW96 
+
+@NCSP = FASW96
+
+@SUOMI = Muu rintaontelon laskimon leikkaus
+
+@RUOTSI = Annan operation på intratorakal ven
+
+@END = 
+
+@KOODI_R = FB
+
+@SUOMI_R = Keuhkovaltimot
+
+@RUOTSI_R = Arteria pulmonalis och dess grenar
+
+@ENGL_R = Pulmonary artery with branches
+
+@NOTE_RF = Aorta-keuhkovaltimorinnakkaishaarojen sitominen, katso FDF
+
+@NOTE_RF = Keuhkovaltimoläpän leikkaukset kohdassa FJ
+
+@NOTE_RS = Tillslutning av aorto-pulmonella kollateraler, se FDF
+
+@NOTE_RS =
+Operationer på pulmonalisklaffen, se FJ
+
+@END = 
+
+@KOODI_A = FBK
+
+@NCSP_A = FBSK
+
+@SUOMI_A = Solisvaltimon ja keuhkovaltimon välisen liitoksen sulkemiset
+
+@RUOTSI_A = Slutning av subklaviopulmonal anastomos
+
+@ENGL_A = Closure of subclavio-pulmonary connection
+
+@NOTE_RF = Sisältää valtimon tai siirrännäisen katkaisun
+
+@NOTE_RS = Inkl delning av artär eller interponerat graft
+
+@END = 
+
+@KOODI = FBK03 
+
+@NCSP = FBSK00
+
+@SUOMI = Solis- ja keuhkovaltimon välisen liitoksen sulku
+
+@RUOTSI = Slutning av subklaviopulmonal anastomos
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = FBK00 
+
+@NCSP = FBSK00
+
+@SUOMI = Solis- ja keuhkovaltimon välisen Blalock-Taussig-liitoksen sulku
+
+@RUOTSI = Slutning av subklaviopulmonal anastomos
+
+@NOTE_F = Poistettu / deleterad 2004/12/31
+
+@NOTE_F = Korvaava koodi tilastokäytösssä / Substituerande kod i statisk bruk FBK03
+
+@NOTE_F = Sisältää suonen katkaisun
+
+@NOTE_S = Inkl delning
+
+@END = 
+
+@KOODI = FBK13 
+
+@NCSP = FBSK10
+
+@SUOMI = Solis- ja keuhkovaltimon välisen liitoksen sulku ja keuhkovaltimon korjaus
+
+@RUOTSI = Slutning av subklaviopulmonal anastomos med rekonstruktion av arteria pulmonalis
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = FBK10 
+
+@NCSP = FBSK10
+
+@SUOMI = Solis- ja keuhkovaltimon välisen proteesin sulku
+
+@RUOTSI = Tillslutning av subklavio-pulmonell protesshunt
+
+@NOTE_F = Poistettu / deleterad 2004/12/31
+
+@NOTE_F = Korvaava koodi tilastokäytösssä / Substituerande kod i statisk bruk FBK13
+
+@NOTE_F = Sisältään suonen katkaisun
+
+@NOTE_S = Inkl delning
+
+@END = 
+
+@KOODI_R = FD
+
+@SUOMI_R = Aortta rintaontelossa, synnynnäiset viat
+
+@RUOTSI_R = Anomalier och defekter med relation till bröstaorta
+
+@ENGL_R = Malformations relating to thoracic aorta
+
+@NOTE_RF = Keuhkovaltimokiertymä kohdassa FBH
+
+@NOTE_RF =
+Solis-keuhkovaltimoanastomoositoimenpiteet kohdassa FBJ
+
+@NOTE_RF =
+Aortan ja keuhkovaltimon yhdistäminen kohdassa FBL
+
+@NOTE_RF =
+Aortan haaroista lähtevien valtimoiden leikkaukset luvussa P
+
+@NOTE_RS = Pulmonell kärlslynga, se FBH
+
+@NOTE_RS =
+Subklavio-pulmonella shuntoperationer, se FBJ
+
+@NOTE_RS =
+Aorto-pulmonell shunt, se FBL
+
+@NOTE_RS =
+Operationer på artärer avgående från aortabågen, exklusive aorto-pulmonell shunt, se P
+
+@END = 
+
+@KOODI_A = FDA
+
+@NCSP_A = FDSA
+
+@SUOMI_A = Vajaakasvuisen vasemman kammion vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operation för HLHS
+
+@ENGL_A = Operations for hypoplastic left heart syndrome
+
+@NOTE_RF = HLH = Hypoplastic Left Heart
+
+@END = 
+
+@KOODI = FDA10 
+
+@NCSP = FDSA10
+
+@SUOMI = Aortan korjaus ja kammio-keuhkovaltimo liitoksen teko HLH-oireyhtymässä
+
+@RUOTSI = Aortaplastik och ventrikulopulmonal shunt för HLHS
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Norwood I vaihe, Sano versio
+
+@NOTE_S = Norwood steg 1, Sano modifiering
+
+@END = 
+
+@KOODI_A = FDB
+
+@NCSP_A = FDSB
+
+@SUOMI_A = Suurten suonten vaihdot valtasuonten vaihtumisen vuoksi
+
+@RUOTSI_A = Operation för TGA
+
+@ENGL_A = Operations for transposition of the great arteries
+
+@NOTE_RF = TGA = Transpostion of Great Arteries
+
+@NOTE_RF =
+Ns. switch -leikkaukset
+
+@NOTE_RS = Switch -operationer
+
+@NOTE_RS =
+Förmaksoperationer för TGA, se FFJ
+
+@END = 
+
+@KOODI = FDB03 
+
+@NCSP = FDSB00
+
+@SUOMI = Suurten valtimoiden paikan vaihto sydämessä
+
+@RUOTSI = Artärswitch i hjärtat
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Sis. valtimotiehyeen sulkemisen
+
+@NOTE_F =
+Samanaikainen VSD:n sulku, lisäkoodi kohdasta FHB
+
+@NOTE_F =
+Samanaikainen eteistason vaihtoleikkaus (double swithc-leikkaus), lisäkoodi kohdasta FFJ
+
+@NOTE_F =
+Samanaikainen sepelvaltimoiden anomalian korjaus, lisäkoodi kohdasta FNK
+
+@NOTE_F =
+Virtauskanavien vaihtaminen kammiotasolla käyttäen sydämenulkopuolista yhteyttä (Rastelli, REV) kohdassa FHG
+
+@NOTE_S = Inkl slutning av ductus arteriosus
+
+@NOTE_S =
+Samtidig slutning av VSD anges med tilläggskod, se FHB
+
+@NOTE_S =
+Samtidig intraatrial switch (double switch) anges med tilläggskod, se FFJ
+
+@NOTE_S =
+Samtidig rekonstruktion av anomal koronarartär anges med tilläggskod, se FNK
+
+@NOTE_S =
+Intraventrikulär switch kombinerad med extraventrikulär conduit (Rastelli, REV), se FHG
+
+@END = 
+
+@KOODI = FDB00 
+
+@NCSP = FDSB00
+
+@SUOMI = Yksinkertaisen TGA:n korjaus
+
+@RUOTSI = Operation för enkel TGA
+
+@NOTE_F = Poistettu / deleterad 2004/12/31
+
+@NOTE_F = Korvaava koodi tilastokäytösssä / Substituerande kod i statisk bruk FDB03
+
+@NOTE_F = Sisältää duktus arteriosuksen sulkemisen
+
+@NOTE_S = Ink. tillslutning av ductus arteriosus
+
+@END = 
+
+@KOODI = FDB10 
+
+@NCSP = FDSB10
+
+@SUOMI = Vaikean TGA:n korjaus
+
+@RUOTSI = Operation för komplicerad TGA
+
+@NOTE_F = Poistettu / deleterad 2004/12/31
+
+@NOTE_F = Korvaava koodi tilastokäytösssä / Substituerande kod i statisk bruk FDB03
+
+@NOTE_F = Sisältää esim. VSD:n sulkemisen
+
+@NOTE_S = Inkl tillslutning av VSD etc
+
+@END = 
+
+@KOODI_R = FF
+
+@SUOMI_R = Sydämen eteinen, eteisväliseinä ja keuhkolaskimot
+
+@RUOTSI_R = Förmak, förmaksseptum och lungvener
+
+@ENGL_R = Atrium, atrial septum and pulmonary veins
+
+@NOTE_RF = ASD=Atrial septal defect
+
+@NOTE_RF =
+TAPDV=Total anaomalous pulmonary vein drainage
+
+@NOTE_RF =
+TGA=Transposition of the great arteries
+
+@NOTE_RF =
+Onttolaskimon ja keuhkosuonten anastomoosi kohdassa FAE
+
+@NOTE_RF =
+Suurten laskimoiden leikkaukset kohdassa FA
+
+@NOTE_RS = Cavo-pulmonella anastomosoperationer, se FAE
+
+@NOTE_RS =
+Operationer på stora intratorakala vener, se FA
+
+@END = 
+
+@KOODI_A = FFJ
+
+@NCSP_A = FFSJ
+
+@SUOMI_A = Eteistason transpositioleikkaukset
+
+@RUOTSI_A = Transpositionsoperationer på förmaksnivå
+
+@ENGL_A = Intraatrial transposition of venous return
+
+@NOTE_RF = Laskimopaluun ohjaaminen vastakkaisille puolille esim. valtasuonten vaihtumisen (TGA) korjaamiseksi
+
+@NOTE_RS = Åtgärder för att styra flöde från vener till kontralateral sida t.ex. för korrigera transpostion av de stora kärlen (TGA)
+
+@END = 
+
+@KOODI = FFJ00 
+
+@NCSP = FFSJ00
+
+@SUOMI = Eteistason transpositioleikkaus ilman paikkaa (Senning)
+
+@RUOTSI = Intraatrial korrektion utan patch (Senning)
+
+@END = 
+
+@KOODI = FFJ10 
+
+@NCSP = FFSJ10
+
+@SUOMI = Eteistason transpositioleikkaus käyttäen paikkaa (Mustard)
+
+@RUOTSI = Intraatrial korrektion med patch (Mustard)
+
+@END = 
+
+@KOODI = FFJ96 
+
+@NCSP = FFSJ96
+
+@SUOMI = Muu eteistasolla tapahtuva transpositioleikkaus
+
+@RUOTSI = Annan intraatrial korrektion
+
+@END = 
+
+@KOODI_R = FH
+
+@SUOMI_R = Sydämen kammioväliseinä
+
+@RUOTSI_R = Ventrikelseptum
+
+@ENGL_R = Ventricular septum
+
+@NOTE_RF = VSD=Ventricular septal defect
+
+@NOTE_RF =
+VSR=Ventricular septal rupture
+
+@NOTE_RF =
+DOLV=Double outlet left ventricle
+
+@NOTE_RF =
+DORV= Double outlet right ventricle
+
+@NOTE_RF =
+A-V=Atrio-Ventriculare
+
+@END = 
+
+@KOODI_A = FHB
+
+@NCSP_A = FHSB
+
+@SUOMI_A = Synnynnäisen kammioväliseinäaukon (VSD) korjaukset
+
+@RUOTSI_A = Slutning av medfödd kammarseptumdefekt
+
+@ENGL_A = Closure of congenital ventricular septal defect
+
+@END = 
+
+@KOODI = FHB00 
+
+@NCSP = FHSB00
+
+@SUOMI = VSD:n ompelu eteisen kautta
+
+@RUOTSI = Transatrial direktsutur av VSD
+
+@END = 
+
+@KOODI = FHB40 
+
+@NCSP = FHSB40
+
+@SUOMI = VSD:n sulku suonensisäisesti leikkauksen aikana
+
+@RUOTSI = Intraoperativ transluminal slutning av ventrikelseptumdefekt
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Leikkauksen aikainen sateenvarjoproteesin asettaminen suonensisäisesti muuten kuin ihopistosta
+
+@NOTE_F =
+Samanaikainen monien kammioväliseinäaukkojen sulku koodataan FHC-koodeilla
+
+@NOTE_S = Intraoperativ inläggning av paraplyprotes med extraventrikulär, men inte perkutan, teknik
+
+@NOTE_S =
+Vid samtidig slutning av multipla ventrikelseptumdefekter, lägg till FHC-kod för slutning av multipel VSD
+
+@END = 
+
+@KOODI = FHB96 
+
+@NCSP = FHSB96
+
+@SUOMI = Muu synnynnäisen VSD:n korjausleikkaus
+
+@RUOTSI = Annan slutning av medfödd ventrikelseptumdefekt
+
+@END = 
+
+@KOODI_A = FHD
+
+@NCSP_A = FHSD
+
+@SUOMI_A = Eteiskammioväliseinäaukon (AVSD), AV-communiksen, korjaukset
+
+@RUOTSI_A = Korrektion vid komplett ostium A-V commune
+
+@ENGL_A = Repair of complete atrio-ventricular septal defect
+
+@NOTE_RF = Sisältää läppäplastian
+
+@NOTE_RF =
+Osittainen av-septumdefekti kohdassa FFD
+
+@NOTE_RS = Inkl korrektion av klaff
+
+@NOTE_RS =
+Delvis av-septumdefekt, se FFD
+
+@END = 
+
+@KOODI = FHB96 
+
+@NCSP = FHSD00
+
+@SUOMI = Muu synnynäisen VSD:n sulku
+
+@RUOTSI = Annan slutning av medfödd ventrikelseptumdefekt
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = FHD05 
+
+@NCSP = FHSD05
+
+@SUOMI = AVSD:n korjaus eteisväliseinäpaikalla ja kammioväliseinän ompelulla
+
+@RUOTSI = Reparation av komplett atrioventrikulär septumdefekt med förmaksseptumpatch och sutur av ventrikelseptumdefekt
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = FHG
+
+@NCSP_A = FHSG
+
+@SUOMI_A = VSD:n sulku ja kammionsisäinen transpositio, double outlet ventricle
+
+@RUOTSI_A = Tillslutning av VSD med intraventrikulär transposition (double outlet ventricle)
+
+@ENGL_A = Closure of VSD with concurrent intraventricular transposition for double outlet ventricle
+
+@END = 
+
+@KOODI = FHG10 
+
+@NCSP = FHSG10
+
+@SUOMI = DORV:n korjaus
+
+@RUOTSI = Korrektion av DORV
+
+@END = 
+
+@KOODI = FHG20 
+
+@NCSP = FHSG20
+
+@SUOMI = Virtauskanavien vaihtaminen kammiotasolla käyttäen sydämenulkopuolista yhteyttä (coduit)
+
+@RUOTSI = Intraventrikulär switch med extraventrikulär conduit
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Läpällinen conduit - Rastelli
+
+@NOTE_F =
+Conduit ilman läppää - Réparation à l'étage ventriculaire (REV/Laconte) -leikkaus
+
+@NOTE_S = Coduit med klaff - Rastelli
+
+@NOTE_S =
+Conduit utan klaff -  Réparation à l'étage ventriculaire (REV/Laconte)
+
+@END = 
+
+@KOODI_R = FN
+
+@SUOMI_R = Sepelvaltimot
+
+@RUOTSI_R = Koronarartärer
+
+@ENGL_R = Coronary arteries
+
+@END = 
+
+@KOODI_A = FN_
+
+@NCSP_A = FNO
+
+@SUOMI_A = Sepelvaltimoiden sädehoito
+
+@RUOTSI_A = Strålbehandling av kranskärl
+
+@NOTE_AF= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = ZFN00 
+
+@NCSP = FNO000
+
+@SUOMI = Sepelvaltimon suonensisäinen paikallinen sädehoito
+
+@RUOTSI = Perkutan transluminal koronar brakyterapi
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = FNE
+
+@NCSP_A = FNSE
+
+@SUOMI_A = Sepelvaltimoiden ohitusleikkaukset vapaalla valtimosiirteellä
+
+@RUOTSI_A = Koronar by-pass med fritt artärtransplantat
+
+@ENGL_A = Coronary bypass using free arterial graft
+
+@NOTE_RF = ITA = Intrathoracic artery l. rintakehän sisäinen valtimo
+
+@NOTE_RF =
+GEA= Gastroepiploic artery  l. maha-vatsapaitavaltimo
+
+@END = 
+
+@KOODI = FNE20 
+
+@NCSP = FNSE20
+
+@SUOMI = Sepelvaltimoiden ja a. radialis -valtimosiirteen liittäminen
+
+@RUOTSI = Koronar bypass med fritt artärtransplantat av arteria radialis
+
+@NOTE_F = Sis. toimenpiteen sekä ainoana yhteytenä että osana Y (tai T) -siirrettä. Jälkimmäinen tarkoittaa ITA tai GEA valtimon yhdistämistä siirteellä sepelvaltimoon kun ITA tai GEA on itse yhdistetty toiseen sepelvaltimoon.
+
+@NOTE_F =
+Suoran yhteyden tekeminen kuvataan erillisellä koodilla kohdista FNA tai FNB.
+
+@NOTE_S = Inkl som enda anastomos eller del av sammansatt Y-graft (T-graft), dvs mellan mottagande koronarartär och arteria thoracica interna eller arteria gastroepiploica, när en av dessa artärer har direktförbindelse med annan koronarartär
+
+@NOTE_S =
+Tilläggskod för direkt arteriell förbindelse, se FNA, FNB
+
+@END = 
+
+@KOODI_R = FP
+
+@SUOMI_R = Sydämen rytmi- ja johtumishäiriöt
+
+@RUOTSI_R = Hjärtarytmi och överledningsrubbningar
+
+@ENGL_R = Arhythmias and disturbances of impulse propagation
+
+@END = 
+
+@KOODI_A = FPB
+
+@NCSP_A = FPSB
+
+@SUOMI_A = Muiden supraventrikulaaristen rytmihäiriörakenteiden poistotoimenpiteet
+
+@RUOTSI_A = Excision eller ablation av aberrant hjärtfokus
+
+@ENGL_A = Excision or ablation of aberrant pathway or focus of heart
+
+@END = 
+
+@KOODI = FPB22 
+
+@NCSP = FPSB22
+
+@SUOMI = Poikkeavan johtoradan tai muun rytmihäiriörakenteen suonensisäinen poltto radio- tai mikroaalloilla
+
+@RUOTSI = Transvenös radiofrekvens- eller mikrovågablation  av aberrant retledningsbana eller arytmifokus
+
+@NOTE_F = Keuhkolaskimon pesäkkeen tai johtoradan poltto kohdassa FBP32
+
+@NOTE_S = Vid vena pulmonalisfokus eller -bana, se FPB32
+
+@END = 
+
+@KOODI = FPB32 
+
+@NCSP = FPSB32
+
+@SUOMI = Keuhkolaskimon poikkeavan johtoradan tai muun rytmihäiriörakenteen suonensisäinen poltto radio- tai mikroaalloilla
+
+@RUOTSI = Transvenös radiofrekvens- eller mikrovågsablation av vena pulmonalisfokus eller -bana
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = FPE
+
+@NCSP_A = FPSE
+
+@SUOMI_A = Pysyvän tahdistimen ja johtimen asettamiset laskimotietä
+
+@RUOTSI_A = Inläggande eller byte av permanent pacemaker och transvenös elektrod
+
+@ENGL_A = Implantation or replacement of permanent transvenous cardiac pacemaker
+
+@END = 
+
+@KOODI = FPE26 
+
+@NCSP = FPSE20
+
+@SUOMI = Pysyvän tahdistimen asettaminen molempiin kammioihin laskimotietä
+
+@RUOTSI = Inläggande av transvenös pacemaker med biventrikulära elektroder
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_R = FZ
+
+@SUOMI_R = Kehonulkoisen tai avustetun verenkierron toimenpiteet
+
+@RUOTSI_R = Åtgärder i samband med extrakorporeal eller assisterad cirkulation
+
+@ENGL_R = Procedures relating to extracorporeal or assisted circulation
+
+@NOTE_RF = ECHLA = Extra corporeal heart-lung assist - avustava sydänkeuhkokone
+
+@NOTE_RF =
+ECMO = Extra corporeal membrane oxygenation - verta hapettava laite
+
+@NOTE_RF =
+IABP = Intra aortic balloon pump - sydämen vasemman kammion toimintaa tukeva laite
+
+@NOTE_RF =
+PABP = Pulmonary artery balloon pump - sydämen oikean kammion toimintaa tukeva laite
+
+@NOTE_RF =
+TAH = Total artificial heart - keinosydän
+
+@NOTE_RF =
+VAD = Ventricular assist device - jompaa kumpaa kammiota avustava laite ilman kehonulkoista hapetusta
+
+@END = 
+
+@KOODI_A = FXA
+
+@NCSP_A = FZS
+
+@SUOMI_A = Kehonulkoinen verenkierto
+
+@RUOTSI_A = Intraoperativ total kardiopulmonell förbiledning (by-pass)
+
+@ENGL_A = Intraoperative total cardiopulmonary bypass
+
+@END = 
+
+@KOODI = FXA13 
+
+@NCSP = FZSA10
+
+@SUOMI = Täydellinen sydämen ja keuhkojen ohitus, syvä hypotermia ja erillinen aivoverenkierron ylläpito
+
+@RUOTSI = Total kardiopulmonal bypass i djup hypotermi och endast cerebral perfusion
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@LUVUT = LUKU G
+
+@LUVUT_S = KAPITEL G
+
+@SUOMI_L = Rintaontelon muut osat
+
+@RUOTSI_L = Andra thorakala organ
+
+@ENGL_L = Other thoracic organs
+
+@NOTE_LF = Uusintaleikkaukset ilmaistaan lisäkoodilla ZSG00
+
+@NOTE_LS = Reoperationer anges med tilläggskoden ZSG00
+
+@END_L = 
+
+@KOODI_R = GB
+
+@SUOMI_R = Henkitorvi
+
+@RUOTSI_R = Trakea
+
+@ENGL_R = Trachea
+
+@END = 
+
+@KOODI_A = GBA
+
+@NCSP_A = GBSA
+
+@SUOMI_A = Henkitorven aukaisut ja paikalliset toimenpiteet
+
+@RUOTSI_A = Trakeotomi och operationer för skador och lokala förändringar
+
+@ENGL_A = Tracheotomy and operations on trachea for injury or lesion
+
+@END = 
+
+@KOODI = GBA35 
+
+@NCSP = GBSA35
+
+@SUOMI = Henkitorven stentin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i trakea
+
+@NOTE_F = Sisältää bifurkaation ylittävän stentin
+
+@NOTE_S = Innefattar stent i bifurkation av trakea
+
+@END = 
+
+@KOODI_R = GC
+
+@SUOMI_R = Keuhkoputket
+
+@RUOTSI_R = Bronker
+
+@ENGL_R = Bronchus
+
+@NOTE_RF = Bronkoskopia kohdassa UGC
+
+@NOTE_RS = Bronkoskopi, se UGC
+
+@END = 
+
+@KOODI_A = GC_
+
+@NCSP_A = GCE
+
+@SUOMI_A = Keuhkoputkien tähystykset
+
+@RUOTSI_A = Endoskopi av bronker
+
+@ENGL_A = Endoscopy of bronci
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UGC08 
+
+@NCSP = GCE004
+
+@SUOMI = Koepalan otto keuhkosta jäykällä tähystimellä
+
+@RUOTSI = Rigid bronkoskopi med biopsi från lunga
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = UGC18 
+
+@NCSP = GCE014
+
+@SUOMI = Koepalan otto keuhkoista taipuisalla tähystimellä
+
+@RUOTSI = Flexibel bronkoskopi med biopsi från lunga
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = GCA
+
+@NCSP_A = GCS
+
+@SUOMI_A = Keuhkoputkien leikkaukset
+
+@RUOTSI_A = Operationer på bronker
+
+@ENGL_A = Operations on bronchus
+
+@END = 
+
+@KOODI = GCA32 
+
+@NCSP = GCSA32
+
+@SUOMI = Keuhkoputken stentin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i bronk
+
+@NOTE_F = Trakean bifurkaatiossa oleva stentti koodataan trakean toimenpiteenä, katso GBA35
+
+@NOTE_S = Stent i bifurkation av trakea koderas i trakea, se GBA35
+
+@END = 
+
+@LUVUT = LUKU J
+
+@LUVUT_S = KAPITEL J
+
+@SUOMI_L = Ruuansulatuskanava ja sen oheiselimet
+
+@RUOTSI_L = Gastrointestinalkanalen och därtill hörande organ
+
+@ENGL_L = Digestive system and spleen
+
+@NOTE_LF = Avoimissa leikkauksissa ei koodata sisäänmenotekniikkaa
+
+@NOTE_LS = Vid öppna operationer anges ingen särskild kod för laparotomitekniken.
+
+@END_L = 
+
+@KOODI_R = JC
+
+@SUOMI_R = Ruokatorvi
+
+@RUOTSI_R = Esofagus
+
+@ENGL_R = Oesophagus
+
+@NOTE_RF = Rintaontelon tähystys GAA31
+
+@NOTE_RF =
+Vatsaontelon tähystys JAH01
+
+@NOTE_RS = Torakoskopi, se GAA31
+
+@NOTE_RS =
+Laparoskopi, se JAH01
+
+@END = 
+
+@KOODI_A = JC_
+
+@NCSP_A = JCF
+
+@SUOMI_A = Ruokatorven fysiologiset tutkimukset
+
+@RUOTSI_A = Fysiologiska undesökningar av esofagus
+
+@ENGL_A = Physiological examinations of oesophagus
+
+@END = 
+
+@KOODI = XJC00 
+
+@NCSP = JCFC00
+
+@SUOMI = Ruokatorven painemittaus
+
+@RUOTSI = Esofagusmanometri
+
+@END = 
+
+@KOODI_A = JCF
+
+@NCSP_A = JCSF
+
+@SUOMI_A = Ruokatorviproteesin asettamiset
+
+@RUOTSI_A = Inläggning av stent i esofagus
+
+@ENGL_A = Insertion of prosthetic tube into oesphagus
+
+@END = 
+
+@KOODI = JCF00 
+
+@NCSP = JCSF00
+
+@SUOMI = Ruokatorviproteesin asettaminen
+
+@RUOTSI = Inläggning av stent i esofagus
+
+@NOTE_S = Celestin eller liknande
+
+@NOTE_S = Inkl laparotomi och gastrotomi
+
+@END = 
+
+@KOODI = JCF12 
+
+@NCSP = JCSF12
+
+@SUOMI = Ruokatorviproteesin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i esofagus
+
+@NOTE_F = Sis. laajentamisen ja läpivalaisun
+
+@NOTE_F =
+Sis. stentin, joka ulottuu ruokatorven alapuoelle
+
+@NOTE_S = Innefattar dilatation och genomlysning
+
+@NOTE_S =
+Inkl stent med distala änden förbi esofagus
+
+@END = 
+
+@KOODI_R = JD
+
+@SUOMI_R = Mahalaukku ja pohjukaissuoli
+
+@RUOTSI_R = Ventrikel och duodenum
+
+@ENGL_R = Stomach and duodenal bulb
+
+@NOTE_RF = Diagnostinen vatsanontelon tähystys, laparoskopia JAH01, sis. solunäytteet
+
+@NOTE_RS = Diagnostisk laparoskopi inkl cytologiskt prov, JAH01
+
+@END = 
+
+@KOODI_A = JDA
+
+@NCSP_A = JDSA
+
+@SUOMI_A = Mahalaukun avaukset ja paikalliset toimenpiteet
+
+@RUOTSI_A = Gastrotomi och lokala operationer på ventrikeln
+
+@ENGL_A = Local operations on stomach
+
+@NOTE_RF = Fundoplikaatio kohdassa JBC
+
+@NOTE_RS = Fundoplikation, se JBC
+
+@END = 
+
+@KOODI = JDA12 
+
+@NCSP = JDSA12
+
+@SUOMI = Stentin asettaminen mahalaukkuun tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i ventrikeln
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Sis. stentin, joka ulottuu mahalaukun alapuolelle
+
+@NOTE_F =
+Stentti, joka alkaa ruokatorvesta kohdassa JCF12
+
+@NOTE_S = Inkl stent med distala änden förbi magsäcken
+
+@NOTE_S =
+Stent med proximala änden i esofagus, se JCF12
+
+@END = 
+
+@KOODI_A = JDH
+
+@NCSP_A = JDSH
+
+@SUOMI_A = Mahanportin ja pohjukaissuolen leikkaukset
+
+@RUOTSI_A = Operationer på pylorus och duodenum
+
+@ENGL_A = Operations on pylorus and duodenum
+
+@NOTE_RF = Polyypin poisto mahanportista JDA05
+
+@NOTE_RF =
+Ohutsuoliumpeuman hoito esim duodenoduodenostomia tai duodenojejunostomia kohtaan JFC
+
+@NOTE_RF =
+Ladd'in kiinnikkeiden katkaisu malrotaatiossa kohdassa JFL10
+
+@NOTE_RS = Polypektomi av pylorus, se JDA05
+
+@NOTE_RS =
+Behandling av tunntarms atresi t.ex. duodenoduodenostomi eller duodenojejunostomi, se JFC
+
+@NOTE_RS =
+Delning av Ladd's band, se JFL10
+
+@END = 
+
+@KOODI = JDH35 
+
+@NCSP = JDSH32
+
+@SUOMI = Proteesin asettaminen pohjukaissuoleen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i duodenum
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Sis. stentin joka ulottuu pohjukaissuolen ohi
+
+@NOTE_F =
+Stentti, joka alkaa ruokatorvesta kohdassa JCF12
+
+@NOTE_F =
+Stentti, joka alkaa mahalaukusta kohdassa JDA12
+
+@NOTE_S = Inkl stent med distala änden förbi duodenum
+
+@NOTE_S =
+Stent med proximala änden i esofagus, se JCF12
+
+@NOTE_S =
+Stent med proximala änden i magsäcken, se JDA12
+
+@END = 
+
+@KOODI_R = JF
+
+@SUOMI_R = Ohut- ja paksusuoli
+
+@RUOTSI_R = Tunntarm och kolon
+
+@ENGL_R = Intestine
+
+@NOTE_RF = Diagnostiset tähystykset kohdassa UJF
+
+@END = 
+
+@KOODI_A = UJF
+
+@NCSP_A = JFE
+
+@SUOMI_A = Ohut- ja paksusuolen tähystykset
+
+@RUOTSI_A = Jejunoskopi/ileoskopi och kolonoskopi
+
+@ENGL_A = Enteroscopy and coloscopy
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UJF92 
+
+@NCSP = JFE092
+
+@SUOMI = Kapseliendoskopia
+
+@RUOTSI = Kapsulärendoskopi
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = JFA
+
+@NCSP_A = JFSA
+
+@SUOMI_A = Paikalliset ohut- ja paksusuolen leikkaukset
+
+@RUOTSI_A = Lokala operationer på tunntarm och kolon
+
+@ENGL_A = Local operations on intestine
+
+@NOTE_RF = Desinvaginaatio kohdassa JFL00
+
+@END = 
+
+@KOODI = JFA65 
+
+@NCSP = JFSA63
+
+@SUOMI = Proteesiputken laitto ohutsuoleen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i tunntarm
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Sis. stentin, joka ulottuu paksusuoleen
+
+@NOTE_F =
+Stentti joka alkaa ruokatorvesta kohdassa JCF12, mahalaukusta kohdassa JDA12 ja pohjukaissuolesta kohdassa JDH35
+
+@NOTE_S = Inkl stent med distala änden förbi tunntarmen
+
+@NOTE_S =
+Stent med proximala änden i esofagus, magsäcken eller duodenum, se JCF12, JDA12, JDH35
+
+@END = 
+
+@KOODI_A = JFH
+
+@NCSP_A = JFSH
+
+@SUOMI_A = Paksusuolen poistot
+
+@RUOTSI_A = Kolektomi
+
+@ENGL_A = Total colectomy
+
+@END = 
+
+@KOODI = JFH01 
+
+@NCSP = JFSH00
+
+@SUOMI = Paksusuolen laparoskooppinen poisto kokonaan ja ileumin liitos peräsuoleen
+
+@RUOTSI = Laparoskopisk kolektomi med ileorektal anastomos
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = JFH11 
+
+@NCSP = JFSH10
+
+@SUOMI = Paksusuolen laparoskooppinen poisto kokonaan ja ohutsuoliavanne
+
+@RUOTSI = Laparoskopisk kolektomi och ileostomi
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_R = JG
+
+@SUOMI_R = Peräsuoli
+
+@RUOTSI_R = Rectum
+
+@ENGL_R = Rectum
+
+@END = 
+
+@KOODI_A = JGA
+
+@NCSP_A = JGSA
+
+@SUOMI_A = Peräsuolen avaukset ja paikalliset toimenpiteet
+
+@RUOTSI_A = Proktotomi och lokala ingrepp på rectum
+
+@ENGL_A = Proctotomy and local operations on rectum
+
+@NOTE_RF =  Tähystys  on anoskopia, rektoskopia, sigmoideoskopia tai kolonoskopia
+
+@NOTE_RS = Endoskopi  är anoskopi, rektoskopi, sigmoideoskopi eller kolonoskopi
+
+@END = 
+
+@KOODI = JGA58 
+
+@NCSP = JGSA58
+
+@SUOMI = Proteesiputken laitto peräsuoleen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i rektum
+
+@END = 
+
+@KOODI_A = JGB
+
+@NCSP_A = JGSB
+
+@SUOMI_A = Peräsuolen typistysleikkaukset
+
+@RUOTSI_A = Resektioner och exstirpationer av rectum
+
+@ENGL_A = Excision of rectum
+
+@END = 
+
+@KOODI = JGB31 
+
+@NCSP = JGSB31
+
+@SUOMI = Peräsuolen poisto laparoskooppisesti avustaen
+
+@RUOTSI = Laparoskopisk och perineal rektumamputation
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = JG_
+
+@NCSP_A = JGX
+
+@SUOMI_A = Muut peräsuolen toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på rectum
+
+@ENGL_A = Other procedures of rectum
+
+@END = 
+
+@KOODI = TJG10 
+
+@NCSP = JGXA00
+
+@SUOMI = Vierasesineen poisto peräsuolesta
+
+@RUOTSI = Borttagande av främmande kropp från rektum
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_R = JK
+
+@SUOMI_R = Sappitiet
+
+@RUOTSI_R = Gallvägar
+
+@ENGL_R = Biliary tract
+
+@NOTE_RF = ERCP, sappi- ja haimatiehyen varjoainekuvaus UJK02
+
+@NOTE_RF =
+Sappiteiden tähystys nielun kautta kohdassa UJK12
+
+@NOTE_RS = ERCP, intubation av gall-/pankreasgångar, se UJK02
+
+@NOTE_RS = Peroral cholangioskopi, se UJK12
+
+@END = 
+
+@KOODI_A = JKE
+
+@NCSP_A = JKSE
+
+@SUOMI_A = Pohjukaissuolen kautta tehtävät sappiteiden toimenpiteet
+
+@RUOTSI_A = Transduodenala operationer på gallgång eller papilla Vateri
+
+@ENGL_A = Transduodenal operations on bile duct or ampulla of Vater
+
+@END = 
+
+@KOODI = JKE18 
+
+@NCSP = JKSE18
+
+@SUOMI = Sappitiestentin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i gallgång
+
+@END = 
+
+@KOODI_R = JL
+
+@SUOMI_R = Haima
+
+@RUOTSI_R = Pankreas
+
+@ENGL_R = Pancreas
+
+@END = 
+
+@KOODI_A = JLB
+
+@NCSP_A = JLSB
+
+@SUOMI_A = Haiman aukaisut ja kanavoinnit sekä tiehyen laajentamiset
+
+@RUOTSI_A = Incision, dränage av pankreas och dilatation av pankreasgångar
+
+@ENGL_A = Incision, drainage or dilatation of pancreas
+
+@NOTE_RF = Kanavointi suljetusti iholta tai transgastrisesti iholta TJL00
+
+@NOTE_RS = Perkutan eller transgastric dränage, se TJL00
+
+@END = 
+
+@KOODI = JLB28 
+
+@NCSP = JLSB28
+
+@SUOMI = Haimatiehytstentin asettaminen tähystyksessä
+
+@RUOTSI = Endoskopisk inläggning av stent i pankreasgång
+
+@NOTE_F = Sis. erilaiset putkiproteesit ja itsestään laajenevat stentit
+
+@NOTE_S = Inkl användande av olika fasta eller självexpanderande stentar
+
+@END = 
+
+@LUVUT = LUKU K
+
+@LUVUT_S = KAPITEL K
+
+@SUOMI_L = Virtsatiet, miehen sukupuolielimet ja vatsaontelon takaiset kudokset
+
+@RUOTSI_L = Urinvägar, manliga genitalier och retroperitoneal vävnad
+
+@ENGL_L = Urinary system, male genital organs and retroperitoneal space
+
+@NOTE_LF = Urologiset toimenpiteet
+
+@NOTE_LF =
+"Tähystys iholta" tarkoittaa sekä nefroskopiaa tai muuta vastaavaa peritoneaaliontelon ulkopuolista että  vatsaontelon kautta tehtyä tähystystoimenpidettä.
+
+@NOTE_LS = Urologiska åtgärder
+
+@NOTE_LS =
+Uttryckket "perkutan"  betyder i detta kapitel både åtgärder, som har gjorts utan att öppna peritonealsäcken, och laparoskopiska åtgärder.
+
+@END_L = 
+
+@KOODI_R = KE
+
+@SUOMI_R = Eturauhanen ja rakkularauhaset
+
+@RUOTSI_R = Prostata och sädesblåsor
+
+@ENGL_R = Prostate and seminal vesicles
+
+@END = 
+
+@KOODI_A = KEV
+
+@NCSP_A = KESV
+
+@SUOMI_A = Muita eturauhastoimenpiteitä
+
+@RUOTSI_A = Diverse operationer på prostata
+
+@ENGL_A = Miscellaneous operations on prostate
+
+@NOTE_RF = Leikkauksen jälkeen kohdassa KWD00
+
+@NOTE_RS = Koagulation vid postoperativ blödning, se KWD00
+
+@END = 
+
+@KOODI = KEV22 
+
+@NCSP = KESV22
+
+@SUOMI = Putkiproteesin asettaminen virtsaputken eturauhasosaan virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk inläggning av stent i prostatiska uretra
+
+@NOTE_F = Pysyvä tai väliaikainen
+
+@NOTE_S = Permanent eller temporär
+
+@END = 
+
+@KOODI_R = KF
+
+@SUOMI_R = Kivekset ja siemenjohtimet
+
+@RUOTSI_R = Skrotum och skrotalinnehållet
+
+@ENGL_R = Scrotum and scrotal organs
+
+@END = 
+
+@KOODI_A = KF_
+
+@NCSP_A = KFD
+
+@SUOMI_A = Kivesten ja kivespussin diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av testiklar och skrotum
+
+@ENGL_A = Diagnostic radiology of scrotum and scrotal organs
+
+@END = 
+
+@KOODI = KF8AE 
+
+@NCSP = KFDE8A
+
+@SUOMI = Kivespussin UÄ
+
+@RUOTSI = Skrotum, UL
+
+@END = 
+
+@KOODI_A = KFH
+
+@NCSP_A = KFSH
+
+@SUOMI_A = Kivespussin ja pussissa sijaitsevien elinten korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva operationer på skrotum och skrotalinnehåll
+
+@ENGL_A = Reconstructive operations on testis, epididymis and vas deferens
+
+@END = 
+
+@KOODI = KFH70 
+
+@NCSP = KFSH70
+
+@SUOMI = Kivespussin ompelu
+
+@RUOTSI = Sutur av skrotum
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = KFH73 
+
+@NCSP = KFSH73
+
+@SUOMI = Kivespussin korjausleikkaus
+
+@RUOTSI = Rekonstruktion av skrotum
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = KFH96 
+
+@NCSP = KFSH96
+
+@SUOMI = Muu kivespussin tai pussissa sijaitsevien elinten korjausleikkaus
+
+@RUOTSI = Annan rekonstruktiv operation på skrotum eller skrotalinnehåll
+
+@END = 
+
+@LUVUT = LUKU P
+
+@LUVUT_S = KAPITEL P
+
+@SUOMI_L = Verisuonet ja imusuonijärjestelmät
+
+@RUOTSI_L = Perifera kärl och lymfsystem
+
+@ENGL_L = Peripheral vessels and lymphatic system
+
+@NOTE_LF = Rintaontelon suuret verisuonet luvussa F.
+
+@NOTE_LF =
+Aivoverisuonet luvussa A.
+
+@NOTE_LF =
+Pysyvän valtimo- tai laskimokanyylin asettaminen kohdassa TPX10
+
+@NOTE_LF =
+Ohitusleikkauksissa käytetty materiaali voidaan kuvata lisäkoodilla kohdasta ZPB.
+
+@NOTE_LF =
+Tämän luvun 3 merkki kuvaa käytettyä menetelmää ja on sama kaikissa anatomisissa paikoissa.
+
+@NOTE_LS = Intrakraniella kärl, se A
+
+@NOTE_LS =
+Stora intratorakala kärl, se F
+
+@NOTE_LS =
+Implantation av artär- eller venport, se TPX10
+
+@NOTE_LS =
+Nyttjat by-pass-material kan specificeras med tilläggskod ur grupp ZPB
+
+@NOTE_LS =
+I detta kapitel anges den tillämpade ingreppstekniken av kodens tredje tecken, som är oberoende av målorganets anatomiska lokalisation
+
+@END_L = 
+
+@KOODI_R = PB
+
+@SUOMI_R = Yläraajojen valtimot
+
+@RUOTSI_R = Artärer i övre extremiteten
+
+@ENGL_R = Arteries of upper extremities
+
+@END = 
+
+@KOODI_A = PBU
+
+@NCSP_A = PBSU
+
+@SUOMI_A = Yläraajavaltimoiden uusintakorjaamiset
+
+@RUOTSI_A = Reoperation inom tidigare rekonstruktion av artärer i övre extremiteten
+
+@ENGL_A = Repair after previous reconstruction of arteries of upper extremity
+
+@END = 
+
+@KOODI = PBU87 
+
+@NCSP = PBSU87
+
+@SUOMI = Lääkkeen antaminen yläraajan valtimo-laskimo avanteeseen
+
+@RUOTSI = Injektion av terapeutisk substans i a-v fistel från artär i övre extremitet
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = PB_
+
+@NCSP_A = PBX
+
+@SUOMI_A = Muut yläraajavaltimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på artärer i övre extremität
+
+@ENGL_A = Other procedures on arteries of upper extremity
+
+@NOTE_RF = PTA = Percutan, transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PB1AT 
+
+@NCSP = PBXT1A
+
+@SUOMI = Yläraajavaltimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Armartär, perkutan angioplastik (PTA)
+
+@END = 
+
+@KOODI_R = PC
+
+@SUOMI_R = Vatsa-aortan yläosa ja sisäelinvaltimot
+
+@RUOTSI_R = Suprarenal bukaorta och visceralartärer
+
+@ENGL_R = Suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = Vatsa-aortta munuaisvaltimotasoon saakka
+
+@NOTE_RF =
+Torakoabdominaaliset aorttaleikkaukset kohdassa FCD
+
+@NOTE_RF =
+
+
+@NOTE_RS = Bukaortta nertill njuratären
+
+@NOTE_RS =
+Torakoabdominala operationer på aortan, se FCD
+
+@END = 
+
+@KOODI_A = PC_
+
+@NCSP_A = PCX
+
+@SUOMI_A = Muut vatsa-aortan yläosan ja sisäelinvaltimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på suprarenala bukaorta och visceralartärer
+
+@ENGL_A = Other procedures on suprarenal abdominal aorta and visceral arteries
+
+@NOTE_RF = PTA = Percutaneous transluminal angioplasty (pallolaajennus)
+
+@END = 
+
+@KOODI = PC2DT 
+
+@NCSP = PCXT2D
+
+@SUOMI = Maksan paikallisen muutoksen embolisaatio
+
+@RUOTSI = Lever, embolisering av lokal förändring
+
+@END = 
+
+@KOODI = PC2ET 
+
+@NCSP = PCXT2D
+
+@SUOMI = Maksan paikallisen muutoksen suonensisäinen embolisaatio, laaja
+
+@RUOTSI = Lever, omfattande embolisering av lokal förändring
+
+@END = 
+
+@KOODI = PC6DT 
+
+@NCSP = PCXT6D
+
+@SUOMI = Selkäydinkanavan paikallisen muutoksen embolisaatio
+
+@RUOTSI = Ryggmärgskanal, embolisering av lokal förändring
+
+@NOTE_F = Kasvain AV-malformaatio, aneurysma
+
+@NOTE_F =
+Diagnostisen katetrin avulla
+
+@NOTE_S = Tillväxt, AV-malformation, aneurysm
+
+@NOTE_S =
+Utförs genom diagnostisk kateter
+
+@END = 
+
+@KOODI = PC6ET 
+
+@NCSP = PCXT6D
+
+@SUOMI = Selkäydinkanavan paikallisen muutoksen laaja embolisaatio
+
+@RUOTSI = Ryggmärgskanal, omfattande embolisering av lokal förändring
+
+@NOTE_F = Kasvain AV-malformaatio, aneurysma
+
+@NOTE_F =
+Mikrokatetri
+
+@NOTE_S = Tillväxt, AV-malformation, aneurysm
+
+@NOTE_S =
+Utförs genom mikrokateter
+
+@END = 
+
+@KOODI = PC6FT 
+
+@NCSP = PCXT6D
+
+@SUOMI = Selkäydinkanavan paikallisen muutoksen erittäin laaja embolisaatio
+
+@RUOTSI = Ryggmärgskanal, mycket omfattande embolisering av lokal förändring
+
+@NOTE_F = Kasvain AV-malformaatio, aneurysma
+
+@NOTE_F =
+Mikrokatetri, useita alueita
+
+@NOTE_S = Tillväxt, AV-malformation, aneurysm
+
+@NOTE_S =
+Utförs genom mikrokateter till flera områden
+
+@END = 
+
+@KOODI = PC7NT 
+
+@NCSP = PCXT7N
+
+@SUOMI = Kohdun valtimoiden suonensisäinen tukkiminen synnytysvuodon takia
+
+@RUOTSI = Livmoderblödning efter förlossning, intravaskulär ocklusion
+
+@END = 
+
+@KOODI_R = PE
+
+@SUOMI_R = Reisivaltimo haaroineen
+
+@RUOTSI_R = Arteria femoralis och dess grenar
+
+@ENGL_R = Femoral artery with branches and connection to popliteal artery
+
+@NOTE_RF = Sis. yhteydet arteria popliteaan
+
+@NOTE_RS = Inkl  anslutningar till a. poplitea
+
+@END = 
+
+@KOODI_A = PEL
+
+@NCSP_A = PESL
+
+@SUOMI_A = Valtimoavanteiden tekeminen, reisi
+
+@RUOTSI_A = Anläggande av A-V fistlar utgående från artärer i låret
+
+@NOTE_RF = Valtimoavanne yläraajassa, PBL
+
+@NOTE_RS = A-V fistel i övre extremität, se PBL
+
+@END = 
+
+@KOODI = PEL25 
+
+@NCSP = PESL10
+
+@SUOMI = Valtimo-laskimoavanteen teko, a. femoralis superficialis
+
+@RUOTSI = Anläggande av a-v fistel från a femoralis
+
+@END = 
+
+@KOODI_A = PEM
+
+@NCSP_A = PESM
+
+@SUOMI_A = Valtimoavanteiden sulku, reisi
+
+@RUOTSI_A = Slutning av a-v fistel från arteria femoralis och dess grenar
+
+@NOTE_RF = Ei sisällä synnynnäisten valtimo-laskimoavanteiden sulkua, ks PEW99
+
+@NOTE_RF =
+Valtimoavanne yläraajassa, PBM
+
+@NOTE_RS = Exkluderar medfödda A-V fistlar, se PEW99
+
+@NOTE_RS =
+A-V fistel i övre extremität, se PBM
+
+@END = 
+
+@KOODI = PEM25 
+
+@NCSP = PESM10
+
+@SUOMI = Valtimo-laskimoavanteen sulku, a. femoralis superficialis
+
+@RUOTSI = Slutning av a-v fistel från a femoralis
+
+@END = 
+
+@KOODI_R = PG
+
+@SUOMI_R = Anatomisesti paikantamattomat ja epäanatomiset valtimotoimenpiteet
+
+@RUOTSI_R = Anatomiskt olakaliserade och oanatomiska åtgärder på artärer
+
+@ENGL_R = Procedures on other or unspecified arteries and extra-anatomic bypasses
+
+@END = 
+
+@KOODI = PG2YT 
+
+@NCSP = PGXT2Y
+
+@SUOMI = Endoproteesin suonensisäinen laitto muuhun valtimoon
+
+@RUOTSI = Annan artär, radiolgiskt styrd insättning av kärlendoprotes
+
+@NOTE_F = Aorttaproteesi kohdassa PD1YT tai PD5YT
+
+@NOTE_S = Aortaprotes, se PD1YT eller PD5YT
+
+@END = 
+
+@KOODI = PG5ST 
+
+@NCSP = PGXT5S
+
+@SUOMI = Valtimolaskimoavanteen selektiivinen liuotushoito
+
+@RUOTSI = Arteriövenösfistel  selektiv trombolys
+
+@END = 
+
+@KOODI_R = PH
+
+@SUOMI_R = Laskimot
+
+@RUOTSI_R = Vener
+
+@ENGL_R = Veins
+
+@END = 
+
+@KOODI_A = PH_
+
+@NCSP_A = PHX
+
+@SUOMI_A = Muut laskimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på vener
+
+@ENGL_A = Other procedures on veins
+
+@END = 
+
+@KOODI = PH5GT 
+
+@NCSP = PHXT5G
+
+@SUOMI = Kiveslaskimon suonensisäinen tukkiminen
+
+@RUOTSI = Embolisering av vena spermatica
+
+@END = 
+
+@KOODI = PH6GT 
+
+@NCSP = PHXT6G
+
+@SUOMI = Munasarjalaskimon suonensisäinen tukkiminen
+
+@RUOTSI = Embolisering av vena ovarica
+
+@END = 
+
+@KOODI = PH7FT 
+
+@NCSP = PHXT7F
+
+@SUOMI = Alaonttolaskimon filtterin laitto
+
+@RUOTSI = Inläggning av filter i vena cava inferior
+
+@END = 
+
+@KOODI_R = PJ
+
+@SUOMI_R = Imusuonijärjestelmä
+
+@RUOTSI_R = Lymfatisk system
+
+@ENGL_R = Lymphatic system
+
+@END = 
+
+@KOODI_A = PJ_
+
+@NCSP_A = PJX
+
+@SUOMI_A = Muut imuteiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på lymfsystemet
+
+@ENGL_A = Other procedures of lymphatic system
+
+@END = 
+
+@KOODI = TPJ00 
+
+@NCSP = PJXX00
+
+@SUOMI = Koepalan otto imusolmukkeesta
+
+@RUOTSI = Biopsi av ytlig lymfkörtel
+
+@END = 
+
+@LUVUT = LUKU Q
+
+@LUVUT_S = KAPITEL Q
+
+@SUOMI_L = Iho ja ihonalaiskudos
+
+@RUOTSI_L = Hud och subkutana vävnader
+
+@ENGL_L = Skin and subcutaneous tissue
+
+@NOTE_LF = Siirteet ja kielekkeet kohdassa ZZ
+
+@NOTE_LS = Transplantat och lambåer, se ZZ
+
+@END_L = 
+
+@KOODI_R = QA
+
+@SUOMI_R = Pään ja kaulan iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutana vävnader i huvud-halsregionen
+
+@ENGL_R = Skin and sucutaneous tissue of head and neck
+
+@NOTE_RF = Sis. kasvojen ihon toimenpiteet
+
+@NOTE_RF =
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Inkl ansiktet
+
+@NOTE_RS =
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgärd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QAE
+
+@NCSP_A = QASE
+
+@SUOMI_A = Pään ja kaulan ihon paikallisten muutosten poistot ja korjaavat leikkaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid hudförändringar i huvud-halsregionen
+
+@ENGL_A = Excision and repair of lesion of skin of head and neck
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QAE00 
+
+@NCSP = QASE00
+
+@SUOMI = Pään tai kaulan ihopoimun tai ylimääräisen ihon poisto
+
+@RUOTSI = Excision av hudveck eller överflödig hud i huvud-halsregionen
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = QAE10 
+
+@NCSP = QASE80
+
+@SUOMI = Pään tai kaulan ihon ja ihonalaiskudoksen ihon paikallisen muutoksen poisto koko ihon paksuudelta
+
+@RUOTSI = Excision av kutan/subkutan förändring från all skikter av hud i huvud-halsregionen
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@KOODI = QAE15 
+
+@NCSP = QASE82
+
+@SUOMI = Pään tai kaulan ihon pintakerroksen paikallisen muutoksen poisto
+
+@RUOTSI = Excision av ytlig hudförändring i huvud-halsregionen
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@KOODI_R = QB
+
+@SUOMI_R = Vartalon iho ja ihonalaiskudos
+
+@RUOTSI_R = Åtgärder på huden på bålen
+
+@ENGL_R = Skin and subcutaneous tissue of trunk
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RF =
+Kivespussin iho kohdassa KF ja peniksen iho kohdassa KG
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@NOTE_RS =
+Hud på skrotum och penis, se KF, KG
+
+@END = 
+
+@KOODI_A = QB0
+
+@NCSP_A = QBO
+
+@SUOMI_A = Vartalon ihon sädehoito
+
+@RUOTSI_A = Strålbehandling av hud på bålen
+
+@ENGL_A = Radiotherapy of skin of trunk
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = QB001 
+
+@NCSP = QBO001
+
+@SUOMI = Vartalon ihon paikallinen sädehoito
+
+@RUOTSI = Lokal strålbehandling av hud på bålen
+
+@END = 
+
+@KOODI_A = QBE
+
+@NCSP_A = QBSE
+
+@SUOMI_A = Vartalon ihon ja ihonalaiskudoksen paikallisten muutosten poistot ja korjaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid kutana/subkutana förändringar på bålen
+
+@ENGL_A = Excision and repair of lesion of skin of trunk
+
+@NOTE_RF = Sis. ihon ja ihonalaiskudoksen arvet, kasvaimet, poimut, puutokset ja kehityshäiriöt
+
+@NOTE_RF =
+Siirteet ja kielekkeet kohdassa ZZA
+
+@NOTE_RF =
+Lasertekniikan käyttö ilmaistaan lisäkoodilla ryhmästä ZXC
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QBE00 
+
+@NCSP = QBSE00
+
+@SUOMI = Vartalon ihopoimun tai ylimääräisen ihon poisto
+
+@RUOTSI = Excision av hudveck eller överflödig hud på bålen
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = QBE10 
+
+@NCSP = QBSE80
+
+@SUOMI = Vartalon ihon tai ihonalaiskudoksen paikallisen muutoksen poisto koko ihon paksuudelta
+
+@RUOTSI = Excision av kutan/subkutan förändring från all skikter av hud på bålen
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@KOODI = QBE15 
+
+@NCSP = QBSE82
+
+@SUOMI = Vartalon ihon pintakerroksen paikallisen muutoksen poisto
+
+@RUOTSI = Excision av ytlig hudförändring på bålen
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@KOODI_R = QC
+
+@SUOMI_R = Yläraajojen iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutan vävnad på övre extremitet
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QCE
+
+@NCSP_A = QCSE
+
+@SUOMI_A = Yläraajojen ihon ja ihonalaiskudoksen muutosten poistot ja korjaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid kutana/subkutana förändringar, övre extremiteten
+
+@ENGL_A = Excision and repair of lesion of skin of upper limb
+
+@NOTE_RF = Leukanivelen punktio kohdassa TEG00
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QCE00 
+
+@NCSP = QCSE00
+
+@SUOMI = Yläraajan ihopoimun tai ylimääräisen ihon poisto
+
+@RUOTSI = Excision av hudveck eller överflödig hud, övre extremiteten
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = QCE10 
+
+@NCSP = QCSE80
+
+@SUOMI = Yläraajan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto koko ihon paksuudelta
+
+@RUOTSI = Excision av kutan/subkutan förändring från all skikter av hud, övre extremiteten
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@KOODI = QCE15 
+
+@NCSP = QCSE82
+
+@SUOMI = Yläraajan ihon pintakerroksen paikallisen muutoksen poisto
+
+@RUOTSI = Excision av ytlig hudförändring, övre extremiteten
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@KOODI_R = QD
+
+@SUOMI_R = Alaraajojen iho ja ihonalaiskudos
+
+@RUOTSI_R = Hud och subkutan vävnad på nedre extremiteten
+
+@ENGL_R = Skin and subcutaneous tissue of lower limb
+
+@NOTE_RF = Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+
+@NOTE_RF =
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+
+@NOTE_RS = Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+
+@NOTE_RS =
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+
+@END = 
+
+@KOODI_A = QDE
+
+@NCSP_A = QDSE
+
+@SUOMI_A = Alaraajojen ihon ja ihonalaiskudoksen paikallisten muutosten poistot ja korjaavat leikkaukset
+
+@RUOTSI_A = Excision och rekonstruktion vid kutana/subkutana förändringar, nedre extremiteten
+
+@ENGL_A = Excision and repair of lesion of skin of lower limb
+
+@NOTE_RF = Sis. ihon ja ihonalaiskudoksen arvet, kasvaimet, poimut, puutokset ja kehityshäiriöt
+
+@NOTE_RF =
+Siirteet ja kielekkeet kohdassa ZZA
+
+@NOTE_RF =
+Lasertekniikan käyttö ilmaistaan lisäkoodilla ryhmästä ZXC
+
+@NOTE_RS = Inkl kutana och subkutana ärr, tillväxt, veckar, defekter och anomalier
+
+@NOTE_RS =
+Tillägskoder för specifikation av transplantat eller lambå, se ZZA
+
+@NOTE_RS =
+Användning av laserteknik anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = QDE00 
+
+@NCSP = QDSE00
+
+@SUOMI = Alaraajan ihopoimun tai ylimääräisen ihon poisto
+
+@RUOTSI = Excision av hudveck eller överflödig hud, nedre extremiteten
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = QDE10 
+
+@NCSP = QDSE80
+
+@SUOMI = Alaraajan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto koko ihon paksuudelta
+
+@RUOTSI = Excision av kutan/subkutan förändring från all skikter av hud, nedre extremiteten
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@END = 
+
+@KOODI = QDE15 
+
+@NCSP = QDSE80
+
+@SUOMI = Alaraajan ihon pintakerroksen paikallisen muutoksen poisto
+
+@RUOTSI = Excision av ytlig hudförändring, nedre extremiteten
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Ei sisällä erilaisten arpien poistamista
+
+@NOTE_S = Exkluderar excision av olika ärr
+
+@END = 
+
+@LUVUT = LUKU W
+
+@LUVUT_S = KAPITEL W
+
+@SUOMI_L = Muut ja useisiin elinjärjestelmiin kohdistuvat toimenpiteet
+
+@RUOTSI_L = Andra åtgärder som inriktas på flera organsystem
+
+@ENGL_L = Other procedures and procedures acting on several organ systems
+
+@NOTE_LF = Toimenpiteet, jotka kohdistetaan useisiin eri elinjärjestelmiin tai koko elimistöön.
+
+@NOTE_LS = Åtgärder som inriktas på flera olika organsystem eller hela kroppen
+
+@END_L = 
+
+@KOODI_R = WX
+
+@SUOMI_R = Anestesia, hengityksen tuki ja elvytys
+
+@RUOTSI_R = Anestesiåtgärder
+
+@NOTE_RF = Ääreishermojen salpaus kohdassa AC (TAC00)
+
+@NOTE_RS = Blockad av perifer nerv, se AC (TAC00)
+
+@END = 
+
+@KOODI_A = WX0
+
+@NCSP_A = WAA0
+
+@SUOMI_A = Ei anestesiaa
+
+@RUOTSI_A = Ingen anestesi
+
+@NOTE_RF = Esim. sedaatio ilokaasulla
+
+@NOTE_RS = T.ex. lustgassedering
+
+@END = 
+
+@KOODI = WX810 
+
+@NCSP = WAA810
+
+@SUOMI = Vastasyntyneen tehohoito
+
+@RUOTSI = Intensivvård av nyfödda
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = WX820 
+
+@NCSP = WAA820
+
+@SUOMI = Keskushermostosairauksien tehohoito
+
+@RUOTSI = Neurologisk intensivvård
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = WX840 
+
+@NCSP = WAA840
+
+@SUOMI = Palovammapotilaan tehohoito
+
+@RUOTSI = Intensivvård av brännskador
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = WX870 
+
+@NCSP = WAA870
+
+@SUOMI = Leikkauksen jälkeinen tehohoito
+
+@RUOTSI = Postoperationell intensivvård
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = WX890 
+
+@NCSP = WAA890
+
+@SUOMI = Tehohoitotasoinen valvonta
+
+@RUOTSI = Intesivvård uppföljning
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@LUVUT = LUKU X
+
+@LUVUT_S = KAPITEL X
+
+@SUOMI_L = Tutkimustoimenpiteet
+
+@RUOTSI_L = Diagnostiska åtgärder
+
+@ENGL_L = Investigative procedures
+
+@END_L = 
+
+@KOODI_R = XX
+
+@SUOMI_R = Määräämättömän elinjärjestelmän tutkimukset
+
+@RUOTSI_R = Diagnostiska åtgärder utan specifikation av organsystem
+
+@ENGL_R = Investigative procedures on unspecified organ system
+
+@END = 
+
+@KOODI_A = XX_
+
+@NCSP_A = XXD
+
+@SUOMI_A = Paikantamatomat diagnostisen radiologian koodit
+
+@RUOTSI_A = Olokaliserade koder i diagnostisk radiologi
+
+@ENGL_A = Unlocalized codes for diagnostic radiology
+
+@END = 
+
+@KOODI = XX2BW 
+
+@NCSP = XXDW2B
+
+@SUOMI = Teleradiologinen konsultaatio varjoainekuvista
+
+@RUOTSI = Teleradiologisk konsultation av kontraströntgenundersökning
+
+@END = 
+
+@LUVUT = LUKU Z
+
+@LUVUT_S = KAPITEL Z
+
+@SUOMI_L = Lisäkoodit
+
+@RUOTSI_L = Tilläggskoder
+
+@ENGL_L = General qualifiers pertaining to all other chapters
+
+@NOTE_LF = Lisäkoodeja voi käyttää ainoastaan muun toimenpidekoodin lisänä ilmaisemassa  tarkentavaa lisätietoa
+
+@NOTE_LF =
+Koodin elinryhmä (F,L, P tai Q) ei estä käyttöä soveltuvin osin muiden elinten toimenpiteissä
+
+@NOTE_LS = Tilläggskoder används ändast tillsammans med egentliga koder
+
+@NOTE_LS =
+Kodens organgrupp (F,L, P tai Q) förhindrar ej använding i samband av åtgärder i andra organer
+
+@END_L = 
+
+@KOODI_R = ZX
+
+@SUOMI_R = Erityiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+
+@RUOTSI_R = Diverse omständigheter/incidenter i samband med åtgärden
+
+@ENGL_R = Various circumstances and events in surgery
+
+@END = 
+
+@KOODI_A = ZXC
+
+@NCSP_A = ZXXC
+
+@SUOMI_A = Erityiset leikkaustekniikat
+
+@RUOTSI_A = Speciella kirurgiska tekniker/apparater
+
+@ENGL_A = Specific technique
+
+@END = 
+
+@KOODI = ZXC96 
+
+@NCSP = ZXXC92
+
+@SUOMI = Robotin käyttö leikkauksessa
+
+@RUOTSI = Robotassisterad operation
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_A = ZXF
+
+@NCSP_A = ZXXF
+
+@SUOMI_A = Toimenpiteen keskeyttäminen tai muuntaminen
+
+@RUOTSI_A = Avbrytning eller konvertering av åtgärdd
+
+@END = 
+
+@KOODI = ZXF00 
+
+@NCSP = ZXXF00
+
+@SUOMI = Toimenpiteen keskeyttäminen potilaan tilan heikkemisen vuoksi
+
+@RUOTSI = Åtgärden avbruten på grund av försämring av patientens tillstånd
+
+@END = 
+
+@KOODI = ZXK00 
+
+@NCSP = ZXXF50
+
+@SUOMI = Toimenpiteen muuntaminen tähystystoimenpiteestä avoimeksi leikkaukseksi
+
+@RUOTSI = Konvertering från perkutan endoskopisk kirurgi till öppen kirurgi
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = ZXK99 
+
+@NCSP = ZXXF59
+
+@SUOMI = Toimenpiteen muu muuntaminen avoimeksi leikkaukseksi
+
+@RUOTSI = Annan konvertering till öppen kirurgi
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_R = ZY
+
+@SUOMI_R = Hoitokontaktin tyyppi
+
+@RUOTSI_R = Typ av vårdkontankt
+
+@ENGL_R = Type of care contact
+
+@NOTE_RF= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = ZY000 
+
+@NCSP = ZY0000
+
+@SUOMI = Vuodeosastohoito
+
+@RUOTSI = Avdelnings vård
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = ZY010 
+
+@NCSP = ZY0010
+
+@SUOMI = Polikliininen hoito
+
+@RUOTSI = Poliklinisk vård
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = ZY020 
+
+@NCSP = ZY0020
+
+@SUOMI = Puhelu, kirje tai konsultaatio
+
+@RUOTSI = Telefonkontakt, brev eller konsultaion
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI_R = ZZ
+
+@SUOMI_R = Palveluntuottajan ammatti
+
+@RUOTSI_R = Tjänstproducentens yrke
+
+@ENGL_R = Healthcare providers occupation
+
+@NOTE_RF= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z2221 
+
+@NCSP = ZZ2221
+
+@SUOMI = Lääkäri
+
+@RUOTSI = Läkare
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z2230 
+
+@NCSP = ZZ2230
+
+@SUOMI = Ylihoitaja tai osastonhoitaja
+
+@RUOTSI = Överskötare eller avdelsningsskötare
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z3231 
+
+@NCSP = ZZ2230
+
+@SUOMI = Sairaanhoitaja
+
+@RUOTSI = Sjukskötare
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z3232 
+
+@NCSP = ZZ2230
+
+@SUOMI = Kätilö
+
+@RUOTSI = Barnmorska
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z2445 
+
+@NCSP = ZZ2445
+
+@SUOMI = Psykologi
+
+@RUOTSI = Psykolog
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z2446 
+
+@NCSP = ZZ2446
+
+@SUOMI = Sosiaalityöntekijä
+
+@RUOTSI = Socialarbetre
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z3226 
+
+@NCSP = ZZ3226
+
+@SUOMI = Fysioterapeutti
+
+@RUOTSI = Fysioterapeut
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z3229 
+
+@NCSP = ZZ3229
+
+@SUOMI = Muu terveydenhuollon erityistyöntekijä
+
+@RUOTSI = Annan terapist
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@NOTE_F = Puheterapeutti, toimintaterapeutti jne
+
+@END = 
+
+@KOODI = Z5132 
+
+@NCSP = ZZ3231
+
+@SUOMI = Perushoitaja
+
+@RUOTSI = Undersköterska
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 
+
+@KOODI = Z5131 
+
+@NCSP = ZZ5131
+
+@SUOMI = Lastenhoitaja
+
+@RUOTSI = Barnskötare
+
+@NOTE_F= Lisätty / tillagt 2005/01/01
+
+@END = 

@@ -1,0 +1,938 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU R
+
+@LUVUT_S = KAPITEL R
+
+@SUOMI_L = Kuntoutuspalvelut
+
+@RUOTSI_L = Rehabilitations service
+
+@ENGL_L = Rehabilitation services
+
+@END_L = 
+
+@KOODI_R = R1
+
+@SUOMI_R = Kuntoutustarpeen ja -mahdollisuuksien arviointi
+
+@RUOTSI_R = Uppskattning av rehabilitationsbehov och -potential
+
+@END = 
+
+@KOODI_A = R11
+
+@SUOMI_A = Kuntoutuksen yleisarvio
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R1100
+
+@SUOMI = Yleisarvio kuntoutustarpeesta
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutustyötä tekevän orientoiva kartoitus ja yleisarvio kuntoutustarpeesta kuntoutuksen vireillepanoksi, kuntoutuksen käynnistämiseksi, alustavan kuntoutussuunnitelman laatimiseksi tai tilanteen tarkistamiseksi.
+
+@NOTE_F =
+Sisältää alustavan kuntoutusta koskevan lausunnon.
+
+@NOTE_F =
+Ei sisällä  (laajempaa) kuntoutussuunnitelmaa (R1400), jossa tehdään kokonaisvaltainen pitkäntähtäimen kuntoutussuunnitelma.
+
+@END = 
+
+@KOODI_A = R12
+
+@SUOMI_A = Kuntoutustutkimus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutustutkimus on laaja eri alojen asiantuntijoiden suorittamaan tutkimukseen perustuva arviointi tutkittavan toimintakyvystä, voimavaroista sekä kuntoutusedellytyksistä. Kuntoutustutkimukseen kuuluu tutkittavan tarpeiden mukaisesti eri
+asiantuntijoiden suorittamia arvioita (R1210 - 1280). Kuntoutustutkimuksen tuloksena laaditaan yksilöllinen ja perusteltu kuntoutussuunnitelma (R1400).
+
+@END = 
+
+@KOODI = R1210
+
+@SUOMI = Lääketieteellinen arvio kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = 
+
+@NOTE_F = Lääketieteelliseen tutkimukseen perustuva arvio, jossa selvitetään, miten sairaus tai vamma vaikuttaa ja tulee todennäköisesti vaikuttamaan tutkittavan toiminta-, oppimis- ja työkykyyn sekä kuntoutumismahdollisuuksiin.
+
+@END = 
+
+@KOODI = R1220
+
+@SUOMI = Psykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = 
+
+@NOTE_F = Psykologiseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan psyykkiset rajoitukset, edellytykset sekä motivaatio työntekoon, koulutukseen ja kuntoutukseen, sekä arviot tarvittavista oman elämän hallintaa tukevista
+kuntoutustoimenpiteistä.
+
+@END = 
+
+@KOODI = R1230
+
+@SUOMI = Neuropsykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = 
+
+@NOTE_F = Neuropsykologiseen tutkimukseen perustuva arvio, jossa selvitetään aivosairauteen ja -vaurioon liittyvien henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden merkitys tutkittavan työ- ja toimintakykyyn ja kuntoutumismahdollisuuksiin.
+
+@END = 
+
+@KOODI = R1240
+
+@SUOMI = Sosiaalinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = 
+
+@NOTE_F = Sosiaaliseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan sosiaalinen tausta ja nykytilanne sekä arvioidaan kuntoutumisen edellyttämät sosiaaliturvaratkaisut ja muiden elämänhallintaa tukevien toimenpiteiden tarve.
+
+@END = 
+
+@KOODI = R1250
+
+@SUOMI = Toimintakyvyn arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan suorittamaan tutkimukseen perustuva arvio, jossa selvitetään tutkittavan toimintakyvyn vahvuudet ja rajoitukset sekä toiminnalliset valmiudet. Se voi sisältää päivittäisissä toimissa, koulussa, työssä ja asuin- sekä
+elinympäristössä selviytymisen arvioinnin. Tarpeen mukaan arviointi sisältää myös fyysisen suorituskyvyn, liikkumisen, havaintomotoristen/kognitiivisten tai psykososiaalisten valmiuksien arvioinnin.
+
+@END = 
+
+@KOODI = R1260
+
+@SUOMI = Kommunikaatiokyvyn arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan suorittamaan tutkimukseen perustuva arvio tutkittavan puhe-, näkö-, kuulo-tai vuorovaikutustaitoihin ja sosiaaliseen kommunikointiin liittyvistä rajoituksista, ongelmista ja edellytyksistä sekä niihin vaikuttavista tekijöistä ja
+kuntoutumismahdollisuuksista.
+
+@END = 
+
+@KOODI = R1270
+
+@SUOMI = Kasvatuksellinen kuntoutustarpeen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan arvio tutkittavan oppimisen edellytyksistä ja erityisopetuksen tarpeesta.
+
+@NOTE_F =
+Suoritetaan yleensä koulun puitteissa tai opetuksen ja kasvatuksen asiantuntijoiden toimesta.
+
+@END = 
+
+@KOODI = R1280
+
+@SUOMI = Ammatillisen kuntoutuksen tarpeen arvio
+
+@RUOTSI = 
+
+@NOTE_F = Asiantuntijan arvio tutkittavan mahdollisuuksista ja tarvittavista toimenpiteistä työllistyä, selviytyä nykyisessä työssään tai siirtyä uusiin tehtäviin.
+
+@NOTE_F =
+Suoritetaan yleensä erityistyövoimaneuvojien, kuntoutusohjaajien tai työklinikoiden toimesta.
+
+@END = 
+
+@KOODI_A = R13
+
+@SUOMI_A = Kokeilut
+
+@RUOTSI_A = 
+
+@NOTE_RF = Käytännön tilanteissa tai vastaavissa toimintaympäristöissä suoritetut, ajallisesti rajatut kokeilut sekä niihin liittyvät tutkimukset ja arvioinnit henkilön kuntoutumismahdollisuuksista.
+
+@NOTE_RF =
+Kokeiluissa määrä ilmoitetaan kokeilupäivinä eikä kertoina.
+
+@END = 
+
+@KOODI = R1310
+
+@SUOMI = Päivähoitokokeilut
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutusta tarvitsevan lapsen päivähoidon järjestämiseen liittyvä kokeilu sisältäen myös henkilöstön ja vanhempien ohjauksen.
+
+@END = 
+
+@KOODI = R1320
+
+@SUOMI = Koulutuskokeilut
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutusta tarvitsevan henkilön koulunkäynnin, ammatillisen tai muun opiskelun järjestämiseen liittyvä kokeilu, jossa selvitetään hänen mahdollisuutensa suorittaa opintoja sekä selviytyä niistä. Sisältää myös henkilöstön ja vanhempien ohjauksen.
+
+@END = 
+
+@KOODI = R1330
+
+@SUOMI = Työkokeilu työklinikalla
+
+@RUOTSI = 
+
+@NOTE_F = Kokeilu, jossa selvitetään kuntoutujan edellytyksiä ja mahdollisuuksia suoriutua työelämässä.Työkokeilussa kokeillaan työtehtävistä suoritutumista joko työklinikalla tai työklinikan ohjauksessa normaalissa työpaikassa.
+
+@END = 
+
+@KOODI = R1340
+
+@SUOMI = Työkokeilu työpaikalla
+
+@RUOTSI = 
+
+@NOTE_F = Kokeilu, jossa selvitetään kuntoutujan mahdollisuudet suoriutua työtehtävistä ja sopeutua työympäristöön ja sen asettamiin ehtoihin normaaleissa työolosuhteissa.
+
+@NOTE_F =
+Toteutetaan yleensä yhteistyössä työvoimatoimiston kanssa.
+
+@END = 
+
+@KOODI = R1350
+
+@SUOMI = Asumiskokeilu
+
+@RUOTSI = 
+
+@NOTE_F = Kokeilu, jossa selvitetään kuntoutujan edellytykset itsenäiseen asumiseen ja siihen tarvittavat tukitoimenpiteet. Kokeilu voidaan toteuttaa sairaalan tai kuntoutuslaitoksen yhteydessä olevissa asumiskokeiluun varatuissa tiloissa,
+palvelutaloissa, ryhmäkodissa tai itsenäisessä asumisessa.
+
+@END = 
+
+@KOODI_A = R14
+
+@SUOMI_A = Kuntoutussuunnitelma
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R1400
+
+@SUOMI = Kuntoutussuunnitelman laatiminen
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutussuunnitelma perustuu yleensä moniammatilliseen arvioon kuntoutustarpeesta ja - mahdollisuuksista, kuntoutuksen tavoitteista, tarvittavista kuntoutustoimenpiteistä sekä kuntoutuksen järjestämisestä ja seurannasta. Kuntoutussuunnitelma on 
+samalla kuntoutujan kanssa tehty sopimus kuntoutuksen tavoitteista ja menetelmistä.
+
+@NOTE_F =
+Kuntoutussuunnitelma on ainoa luokka, jota voidaan käyttää yksittäisen käynnin yhteydessä muiden luokkien rinnalla.
+
+@END = 
+
+@KOODI_R = R2
+
+@SUOMI_R = Kuntoutumista tukeva ohjaus
+
+@RUOTSI_R = Ledvisning för att stödja rehabilitation
+
+@END = 
+
+@KOODI_A = R21
+
+@SUOMI_A = Neuvonta ja kuntoutusohjaus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutujan, hänen perheensä ja lähiyhteisönsä tukemista, jonka tavoitteena on neuvonnan ja ohjauksen keinoin turvata kuntoutusprosessin tarkoituksenmukainen eteneminen ja lisätä vajaakuntoisen henkilön toimintamahdollisuuksia ja mahdollisimman 
+itsenäistä elämän hallintaa.
+
+@END = 
+
+@KOODI = R2110
+
+@SUOMI = Ensi tiedon antaminen
+
+@RUOTSI = 
+
+@NOTE_F = Alkuvaiheen neuvonta ja ohjausta, jossa vasta vammautuneelle tai pitkäaikaiseen sairauteen sairastuneelle sekä hänen perheelleen ja lähiyhteisölleen annetaan tietoa ja tukea. Tavoitteena on luoda edellytyksiä kuntoutumiselle sekä rohkaista
+omaisia sairastuneen tukemiseen.
+
+@END = 
+
+@KOODI = R2120
+
+@SUOMI = Kuntoutuspalveluita ja sosiaaliturvaa koskeva neuvonta ja ohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Vammautuneelle tai pitkäaikaissairaalle annetaan tietoa kuntoutumismahdollisuuksista sekä kuntoutuspalveluista ja niihin hakeutumisesta. Neuvonta voi koskea myös sosiaaliturvaa ja muuta taloudellista tukea.
+
+@NOTE_F =
+Sisältää myös mahdollisen konkreettisen ohjauksen palvelujen piiriin osallistumalla toimintaan tai avustamiseen esim. lomakkeiden täyttämisessä tai viranomaisten kanssa asioimisessa.
+
+@END = 
+
+@KOODI = R2130
+
+@SUOMI = Itsenäistä selvitytymistä edistävä neuvonta ja ohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Elinympäristössä selviytymiseen, itsensä huolehtimiseen, ravintoon, liikkumiseen ja elinta- poihin liittyvä neuvonta. Voi sisältää myös asumiseen, asioimiseen, palvelujen käyttöön, apuvälineen käyttöön, kommunikaatiotaitojen hallintaan sekä
+muihin elämänhallintaa edistäviin tekijöihin ja omien voimavarojen hyödyntämiseen liittyvän neuvonnan ja ohjauksen.
+
+@NOTE_F =
+Sisältää myös päiväkotien, koulujen, oppilaitosten ja työpaikkojen henkilöstön neuvonnan ja ohjauksen silloin kun se koskee yhtä kuntoutujaa.
+
+@END = 
+
+@KOODI_A = R22
+
+@SUOMI_A = Kasvatukselliseen kuntoukseen ohjaus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R2200
+
+@SUOMI = Kasvatukselliseen kuntoutukseen ohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Vammaisen tai pitkäaikaissairaan oppimisen edellytysten vahvistamista ja erilaisten koulutukseen liittyvien vaihtoehtojen selvittämistä ja ohjausta koulutusvaihtoehtojen valintaan.
+
+@END = 
+
+@KOODI_A = R23
+
+@SUOMI_A = Ammattiin ja työelämään ohjaus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R2310
+
+@SUOMI = Ammatinvalinnanohjaus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan auttamista selvittämään eri työaloja koskevaa soveltuvuuttaan ja henkilökohtaisia edellytyksiään.
+
+@END = 
+
+@KOODI = R2320
+
+@SUOMI = Työvoimaneuvonta
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan työssä selviytymistä, elinkeinon harjoittamista sekä työllistymistä koskeva neuvonta.
+
+@END = 
+
+@KOODI_R = R3
+
+@SUOMI_R = Kuntoutumista tukeva valmennus
+
+@RUOTSI_R = Rehabilitation stödjande träning
+
+@END = 
+
+@KOODI_A = R31
+
+@SUOMI_A = Sopeutumisvalmennus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutujan, hänen perheensä ja lähiyhteisönsä valmentamista selviämään sairastumisen ja vammautumisen aiheuttamassa elämäntilanteessa. Tavoitteena on fyysisen, psyykkisen ja sosiaalisen toimintakyvyn edistäminen. Sopeutumisvalmennukseen kuuluu 
+psykososiaalisen valmennuksen lisäksi myös muuta valmennusta (R3120 - 3160) kuntoutujan tarpeiden mukaisesti.
+
+@END = 
+
+@KOODI = R3110
+
+@SUOMI = Psykososiaalinen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan henkisten ja sosiaalisten edellytysten vahvistamista, jotta hän pystyisi elämään vammansa kanssa mahdollisimman täysipainoista elämää.
+
+@NOTE_F =
+Sisältää tarpeen mukaan myös kuntoutujan valmentamisen toimimaan vuorovaikutuksessa perhe-, työ- ja muissa arkielämän yhteisöissä sekä ohjauksen vammaan ja haittaan liittyvissä seksuaaliongelmissa.
+
+@END = 
+
+@KOODI = R3120
+
+@SUOMI = Liikkumistaitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan opettamista ja valmentamista liikkumaan pyörätuolilla tai muun erityistä harjoittelua vaativan liikkumisvälineen (esimerkiksi auto) avulla.
+
+@NOTE_F =
+Sisältää myös esimerkiksi alaraajaproteesin käyttöön valmentamisen, halvauspotilaan liikkumisen harjoittamisen sekä näkövammaisen liikkumistaidon ohjauksen.
+
+@END = 
+
+@KOODI = R3130
+
+@SUOMI = Päivittäisissä toimissa tarvittavien taitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan valmentamista arkipäivän elämässä tarvittavien taitojen, kuten pukeutumisen, peseytymisen, syömisen ja kodinhoidon hallintaan joko apuvälinein tai ilman.
+
+@NOTE_F =
+Sisältää myös esimerkiksi yläraajaproteesin käyttöön valmentamisen ja kehityksessä viivästyneiden lasten motoriikan harjoittamista.
+
+@END = 
+
+@KOODI = R3140
+
+@SUOMI = Kommunikaatiotaitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan tarvitsemien kommunikaatiotaitojen, kuten puheen, huulioluvun, pistekirjoituksen ja viittomakielen opetuksen ja harjoittelun sekä korvaavien kommunikaatiotaitojen (esimerkiksi symbolikielet, atk-apuvälineet) valmennuksen.
+
+@NOTE_F =
+Sisältää myös näkövammaisten näönkäytön opetuksen ja laajasti vuorovaikutustaitojen ohjauksen.
+
+@END = 
+
+@KOODI = R3150
+
+@SUOMI = Elinympäristön hallintaan valmentaminen
+
+@RUOTSI = 
+
+@NOTE_F = Elinympäristön hallintaan ja siinä tarvittavien laitteiden käyttöön liittyvä valmennus.
+
+@END = 
+
+@KOODI = R3160
+
+@SUOMI = Koulutus- ja oppimistaitojen valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Koulunkäyntiin ja opiskeluun liittyvien taitojen valmennusta ja ohjausta.
+
+@NOTE_F =
+Sisältää mm. atk-välineiden käytön harjoitusta opiskelun apuvälineeksi.
+
+@END = 
+
+@KOODI_A = R32
+
+@SUOMI_A = Yhteisövalmennus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R3200
+
+@SUOMI = Yhteisövalmennus
+
+@RUOTSI = 
+
+@NOTE_F = Hoito- tai asuinyhteisössä tapahtuvaa, esimerkiksi mielenterveys- ja päihdehuollon potilaiden sekä kehitysvammaisten kokonaisvaltaista valmentamista.
+
+@NOTE_F =
+Sisältää myös perheen ja lähiyhteisön ohjauksen. Yhteisövalmennus perustuu kuntoutussuunnitelmaan.
+
+@NOTE_F =
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+
+@END = 
+
+@KOODI_A = R33
+
+@SUOMI_A = Asumisvalmennus
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R3300
+
+@SUOMI = Asumisvalmennus
+
+@RUOTSI = 
+
+@NOTE_F = Yksilöllisesti tai ryhmässä tapahtuvaa valmennusta itsenäiseen asumiseen. Valmennus koskee selviytymistä kotona, kun yhteisövalmennus (R3200) koskee laajemmin selviytymistä myös sosiaalisen ympäristön kanssa.
+
+@NOTE_F =
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+
+@END = 
+
+@KOODI_A = R34
+
+@SUOMI_A = Kuntoutumista tukeva koulutus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutuksena tuettava koulutus voi olla joko ammatillista peruskoulutusta tai jatkokoulutusta.
+
+@END = 
+
+@KOODI = R3410
+
+@SUOMI = Erityisopetus peruskoulussa, lukiossa tai kansanopistossa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3420
+
+@SUOMI = Koulutus yleisissä ammatillisissa oppilaitoksissa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3430
+
+@SUOMI = Koulutus ammattikorkea- ja korkeakouluissa sekä yliopistoissa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3440
+
+@SUOMI = Koulutus aikuiskoulutuskeskuksissa tai ammattikursseilla
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3450
+
+@SUOMI = Koulutus ammatillisissa erityisoppilaitoksissa
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3460
+
+@SUOMI = Oppisopimuskoulutus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R3470
+
+@SUOMI = Muu koulutus
+
+@RUOTSI = 
+
+@NOTE_F = Sisältää myös yksityiset oppilaitokset
+
+@END = 
+
+@KOODI_A = R35
+
+@SUOMI_A = Ammatillista kuntoutumista tukeva valmennus
+
+@RUOTSI_A = 
+
+@NOTE_RF = Kuntoutujan valmentamista ja hänen fyysisten, psyykkisten ja sosiaalisten edellytystensä vahvistamista nykyisissä tai uusissa työtehtävissä selviytymiseen.
+
+@END = 
+
+@KOODI = R3510
+
+@SUOMI = Työhön valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Työssä tarvittavien valmiuksien hankkimista työpaikalla toteutettavan yksilöllisen ohjelman puitteissa.
+
+@END = 
+
+@KOODI = R3520
+
+@SUOMI = Työkykyä ylläpitävä ja parantava valmennus
+
+@RUOTSI = 
+
+@NOTE_F = Toimintaa, jonka avulla työnantaja ja työntekijä sekä työpaikan yhteistoimintaorganisaatiot yhteistyössä pyrkivät edistämään ja tukemaan työelämässä olevan työ- ja toimintakykyä hänen työuransa kaikissa vaiheissa.
+
+@END = 
+
+@KOODI = R3530
+
+@SUOMI = Ammatillisesti syventävä lääkinnällinen kuntoutus
+
+@RUOTSI = 
+
+@NOTE_F = Toimintaa, jonka avulla tuetaan ammattiryhmäkohtaisesti vajaakuntoisen työntekijän fyysisiä ja henkisiä voimavaroja työssä selviytymiseksi.
+
+@END = 
+
+@KOODI = R3540
+
+@SUOMI = Kuntouttava työtoiminta
+
+@RUOTSI = 
+
+@NOTE_F = Työkeskuksissa ja vastaavissa toteutettavaa työtoimintaa, jonka tavoitteena on sosiaalisen toimintakyvyn ylläpitäminen ja elämänsisällön hankkiminen ilman ansiotulon hankkimistarkoitusta.
+
+@END = 
+
+@KOODI_A = R36
+
+@SUOMI_A = Harrastus- ja vapaa-aikatoiminnan tukeminen
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R3600
+
+@SUOMI = Kuntoutussuunnitelmaan sisältyvää ohjattua harrastus- ja vapaa-ajan toimintaa, jonka tavoitteena on
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_R = R4
+
+@SUOMI_R = Kuntoutumista edistävät terapiat
+
+@RUOTSI_R = Rehabilitation främjande terapier
+
+@NOTE_RF = Ei sisällä aiempiin ryhmiin (R1-R3) sisältyviä toimintoja. Esimerkiksi fysioterapian käyttö sopeutumisvalmennuksen osana tulee koodata ryhmään R3120.
+
+@END = 
+
+@KOODI_A = R41
+
+@SUOMI_A = Terapiat
+
+@RUOTSI_A = 
+
+@NOTE_RF = Terapioiden tulee perustua kuntoutussuunnitelmaan ja vastata sisällöltään kyseisen ammatillisen koulutuksen saaneen henkilön toteuttamaa terapiaa.
+
+@END = 
+
+@KOODI = R4110
+
+@SUOMI = Fysioterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan liikkumis- ja toimintakyvyn edistämistä sekä ylläpitämistä.
+
+@NOTE_F =
+Fysioterapian tarkempi sisältö on kuvattu Fysioterapianimikkeistössä.
+
+@END = 
+
+@KOODI = R4120
+
+@SUOMI = Toimintaterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan toimintakyvyn edistämistä ja ylläpitämistä.
+
+@NOTE_F =
+Toimintaterapian tarkempi sisältö on kuvattu Toimintaterapianimikkeistössä.
+
+@END = 
+
+@KOODI = R4130
+
+@SUOMI = Puheterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan puhe-, ääni- ja kommunikaatio-ongelmien parantamista tai helpottamista.
+
+@NOTE_F =
+Puheterapiassa pyritään vaikuttamaan niihin perusvalmiuksiin, jotka ovat puheen ymmärtämisen ja tuottamisen edellytyksiä.
+
+@END = 
+
+@KOODI = R4140
+
+@SUOMI = Psykoterapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan psyykkisen toimintakyvyn vahvistamista ja lisäämistä. Kuntoutus kohdistuu ihmisen ajatteluun, tunteisiin ja toimintaan sekä näiden välisiin yhteyksiin.
+
+@END = 
+
+@KOODI = R4150
+
+@SUOMI = Neuropsykologinen kuntoutus
+
+@RUOTSI = 
+
+@NOTE_F = Aivosairauksien ja -vaurioiden jälkeisten henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden lieventämistä, henkisen toimintakykyisyyden parantamista sekä sairauteen tai vammaan sopeutumisen edistämistä.
+
+@END = 
+
+@KOODI = R4160
+
+@SUOMI = Muu kuntoutumista edistävä terapia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutumisen toteuttamisessa voidaan käyttää myös muita kuin lääkinnällisen kuntoutuksen asetuksessa mainittuja terapiamuotoja, jotka edistävät kuntoutujan toimintakykyä ja lisäävät hänen elämänlaatuaan sekä -hallintaansa. Tällaisia
+terapiamuotoja ovat asiantuntijan ohjauksessa toteutettuina mm. kuvataideterapia, musiikkiterapia sekä ratsastusterapia. Näiden terapiamuotojen käyttö kuntoutuksessa edellyttää, että ne on sisällytetty kuntoutussuunnitelmaan ja niiden tuloksia seurataan
+ja arvioidaan.
+
+@END = 
+
+@KOODI = R4170
+
+@SUOMI = Kasvatuksellisen kuntoutuksen terapiamuodot
+
+@RUOTSI = 
+
+@NOTE_F = Yksilön kasvun, kehittymisen ja oppimisen tueksi annettavaa terapiaa.
+
+@END = 
+
+@KOODI_R = R5
+
+@SUOMI_R = Muut kuntoutuspalvelut
+
+@RUOTSI_R = Annan rehabilitations service
+
+@END = 
+
+@KOODI_A = R51
+
+@SUOMI_A = Apuvälinepalvelut
+
+@RUOTSI_A = 
+
+@NOTE_RF = Apuvälineillä tarkoitetaan toimintavajavuuden korvaamiseen tai lieventämiseen tarkoitettu ja välineitä, laitteita tai vastaavia, joita vajaakuntoinen tai vammainen tarvitsee selviytyäk- seen päivittäisessä elämässään. Apuvälineisiin luetaan
+myös kuntoutuksessa tarvittavat hoito- ja harjoitusvälineet, vammaisen auttamisessa tarvittavat välineet sekä vammaispal- velulain mukaiset välineet.
+
+@END = 
+
+@KOODI = R5110
+
+@SUOMI = Apuvälinetarpeen arviointi, apuvälineen sovitus, kokeilu ja valinta sekä käytön opetus ja luovutus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5120
+
+@SUOMI = Apuvälineen valmistus
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5130
+
+@SUOMI = Apuvälineen korjaus ja huolto
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5140
+
+@SUOMI = Apuvälineen käytön seuranta
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = R52
+
+@SUOMI_A = Asumiseen ja elinympäristön hallintaan liittyvät muutostyöt
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R5210
+
+@SUOMI = Arvio elinympäristössä tarvittavista muutostöistä
+
+@RUOTSI = 
+
+@NOTE_F = Arvio ja suositus asuin- ja elinympäristössä tarvittavista muutostöistä.
+
+@END = 
+
+@KOODI = R5220
+
+@SUOMI = Elinympäristön muutostyöt
+
+@RUOTSI = 
+
+@NOTE_F = Asunnon- ja asuinympäristön muutostyöt sekä työpaikan muutostyöt.
+
+@END = 
+
+@KOODI = R5230
+
+@SUOMI = Ympäristön hallintaa tukeva muu muutostyö
+
+@RUOTSI = 
+
+@NOTE_F = Ympäristönhallintalaitteiden sekä liikkumisvälineiden (esimerkiksi auto) käyttöön sekä hankintaan liittyvät muutostyöt.
+
+@END = 
+
+@KOODI_A = R53
+
+@SUOMI_A = Työllistymisen tukeminen
+
+@RUOTSI_A = 
+
+@END = 
+
+@KOODI = R5310
+
+@SUOMI = Työhönsijoitus ilman taloudellisia tukitoimia
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan työllistyminen työnvälityspalvelun avulla ilman taloudellisia tukitoimia.
+
+@END = 
+
+@KOODI = R5320
+
+@SUOMI = Työhönsijoitus taloudellisten tukitoimien avulla
+
+@RUOTSI = 
+
+@NOTE_F = Kuntoutujan työhönsijoitus työnantajalle maksettavan työolosuhteiden järjestelytuen perusteella. Työhönsijoitus voi tapahtua työkokeilun, työharjoittelun tai laajemman palvelukokonaisuuden tuella.
+
+@END = 
+
+@KOODI = R5330
+
+@SUOMI = Oman elinkeinon harjoittamisen tukeminen
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5340
+
+@SUOMI = Työelämässä pysymisen tukitoimet
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI = R5350
+
+@SUOMI = Suojatyö
+
+@RUOTSI = 
+
+@END = 
+
+@KOODI_A = R54
+
+@SUOMI_A = Henkilökohtaiset palvelut ja tukitoimet
+
+@RUOTSI_A = 
+
+@NOTE_RF = Henkilökohtaiset palvelut ja tukitoimet ovat jatkuvaluonteisia palveluita, joita myönnetään vammaiselle henkilölle selviytymisen edistämiseksi ja tukemiseksi.
+
+@END = 
+
+@KOODI = R5410
+
+@SUOMI = Kuljetus- ja saattajapalvelut
+
+@RUOTSI = 
+
+@NOTE_F = Vammaisen henkilön liikkumisessa tarvittavia, jatkuvaluonteisia kuljetus- ja saattajapalveluja, jotka järjestetään vammaispalvelulain mukaisena toimintana.
+
+@END = 
+
+@KOODI = R5420
+
+@SUOMI = Opaskoirapalvelut
+
+@RUOTSI = 
+
+@NOTE_F = Lääkinnällisenä kuntoutuksena tai vastaavin järjestelyin toteutetut opas- ja avustajakoirapalvelut sekä niihin liittyvä taloudellinen tuki.
+
+@END = 
+
+@KOODI = R5430
+
+@SUOMI = Tulkkipalvelut
+
+@RUOTSI = 
+
+@NOTE_F = Kuulovammaisten,- kuurosokeiden ja puhevammaisten tulkkipalvelut.
+
+@END = 
+
+@KOODI = R5440
+
+@SUOMI = Koulunkäynti- ja opiskeluavustajan palvelut
+
+@RUOTSI = 
+
+@NOTE_F = Koulunkäynnissä ja opiskelussa tarvittavat avustajan palvelut.
+
+@END = 
+
+@KOODI = R5450
+
+@SUOMI = Henkilökohtaisen avustajan palvelut
+
+@RUOTSI = 
+
+@NOTE_F = Vammaispalvelulain mukaiset, jatkuvaluonteiset palvelut.
+
+@END = 
+
+@KOODI = R5460
+
+@SUOMI = Palveluasumiseen liittyvät tukitoimet
+
+@RUOTSI = 
+
+@NOTE_F = Vaikeavammaisen palveluasuminen omassa kodissa, palveluasuntoryhmässä tai vaikeavammaisten palvelutalossa asumiseen liittyvine tukitoimineen, joiden kustannuksista kunta vastaa täysimääräisesti vammaispalvelulain mukaisena toimintana.
+
+@END = 
+
+@KOODI_A = R55
+
+@SUOMI_A = Muut kuntoutuspalvelut
+
+@RUOTSI_A = Muut kuntoutuspalvelut
+
+@END = 
+
+@KOODI = R5599
+
+@SUOMI = Muu kuntoutuspalvelu
+
+@RUOTSI = 
+
+@END = 

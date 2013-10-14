@@ -1,0 +1,6987 @@
+
+###
+#KOODI_L    J
+#MUUT_PVM   2010/10/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på gastrointestinalkanalen och därtill hörande organ
+#RUOTSI     ---
+#ENGL       Digestive system and spleen  procedures
+###
+#KOODI_R    JA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på bukvägg, mesenterium, peritoneum och oment
+#RUOTSI     ---
+#ENGL       Abdominall wall, mesentry, peritoneum and greater omentum
+###
+#KOODI_A    JAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på lesioner i bukväggen
+#RUOTSI     ---
+#ENGL       Local operations on abdominal wall
+###
+#KOODI      JAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i bukvägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av förändring i bukvägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi eller lokal exstirpation av förändring i bukvägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAA13 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad exstirpation vid omfattande nekrotiserande bukväggstillstånd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på bukvägg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAA
+#OHJE_R 
+---
+###
+#KOODI      JAA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på bukvägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för ljumskbråck
+#RUOTSI     ---
+#ENGL       Repair of inguinal hernia
+###
+#KOODI      JAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av inguinal bråcksäck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av ljumskbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av ljumskbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av ljumskbråck med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av ljumskbråck med implantation av främmande material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med bukväggsplastik vid ljumskbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för ljumskbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAB
+#OHJE_R 
+---
+###
+#KOODI      JAB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation för ljumskbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för femoralbråck
+#RUOTSI     ---
+#ENGL       Repair of femoral hernia
+###
+#KOODI      JAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av femoralbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av femoralbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAC30 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av femoralbråck med främmande material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med bukväggsplastik för femoralbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för femoralbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAC
+#OHJE_R 
+---
+###
+#KOODI      JAC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation för femoralbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAC
+#OHJE_R 
+---
+###
+#KOODI_A    JAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för ärrbråck
+#RUOTSI     ---
+#ENGL       Repair of incisional hernia
+###
+#KOODI      JAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av ärrbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAD11 
+#MUUT_PVM   2001/09/11
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av ärrbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av ärrbråck med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av ärrbråck med implantation av främmande material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för ärrbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAD
+#OHJE_R 
+---
+###
+#KOODI      JAD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation för ärrbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAD
+#OHJE_R 
+---
+###
+#KOODI_A    JAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operation för epigastriskt bråck
+#RUOTSI     ---
+#ENGL       Repair of epigastric hernia
+###
+#KOODI      JAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av epigastrikabråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för navelbråck
+#RUOTSI     ---
+#ENGL       Repair of umbilical hernia
+###
+#KOODI      JAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av navelbråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAF11 
+#MUUT_PVM   2004/04/14
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av navelbråck
+#RUOTSI     ---
+#LYHENNE    Laparoskopisk operation av navelbråck
+###
+#KOODI      JAF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av navelbråck med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av navelbråck med implantation av främmande material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för navelbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAF
+#OHJE_R 
+---
+###
+#KOODI      JAF97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation för navelbråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAF
+#OHJE_R 
+---
+###
+#KOODI_A    JAG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för andra bråck och bukväggsdefekter
+#RUOTSI     ---
+#ENGL       Repair of other hernias and defects of abdominal wall
+###
+#KOODI      JAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation av annat bråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAG
+#OHJE_R 
+---
+###
+#KOODI      JAG01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av annat bråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAG
+#OHJE_R 
+---
+###
+#KOODI      JAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation av gastroschisis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation av omfalocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bukväggsrekonstruktion med transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAG60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bukväggsrekonstruktion med främmande material
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan bukväggsrekonstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JAG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk bukväggsrekonstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_A    JAH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Explorativa laparotomier och diagnostiska laparoskopier
+#RUOTSI     ---
+#ENGL       Opening of peritoneal cavity
+###
+#KOODI      JAH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Explorativ laparotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAH01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med biopsier för stadieindelning av maligna tumörer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopi med biopsier för stadieindelning av maligna tumörer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAH33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppning av laparostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Explorativ torakolaparotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Dränage av bäckenabscess via rectum
+#RUOTSI     ---
+#ENGL       Rectal drainage of pelvic abscess
+###
+#KOODI      JAJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i och dränage av bäckenabscess via rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Dränage och lavage av bukhålan
+#RUOTSI     ---
+#ENGL       Peritoneal drainage and irrigation
+#OHJE_S  
+Som enda åtgärd t ex vid abscess eller lokal peritonit eller som förberedelse till peritoneal dialys
+#OHJE_R 
+---
+###
+#KOODI      JAK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi och dränage av bukhålan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAK01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopiskt dränage av bukhålan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAK03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi och peritonealt lavage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAK04 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopi och peritonealt lavage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAK10 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi och inläggande av peritoneal dialyskateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Perkutant inläggande, se TJA33, avlägsnande, se TJA35
+
+#OHJE_R 
+---
+###
+#KOODI_A    JAL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exstirpation av förändring i peritoneum och bukhåla
+#RUOTSI     ---
+#ENGL       Excision of lesion of peritoneum
+###
+#KOODI      JAL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med avlägsnande av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopi med avlägsnande av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation eller destruktion av förändring i peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk exstirpation eller destruktion av förändring i peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL23 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i bäckenvägg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omentresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk omentresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL50 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/10/10
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraabdominal revision av hjärnventrikelshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL51 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk revision av hjärnventrikelshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAL96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exstirpation av förändring i peritoneum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAL
+#OHJE_R 
+---
+###
+#KOODI      JAL97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk exstirpation av förändring i peritoneum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAL
+#OHJE_R 
+---
+###
+#KOODI_A    JAM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transposition av oment och mesenterium
+#RUOTSI     ---
+#ENGL       Transposition of omentum and mesentery
+###
+#KOODI      JAM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transposition av oment
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAM10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för malrotation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAN
+#MUUT_PVM   1997/11/14
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder för peritoneovenös shunt
+#RUOTSI     ---
+#ENGL       Peritoneovenous shunt operations
+###
+#KOODI      JAN00 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av peritonealvenös shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAN10 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av peritonealvenös shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAN20 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av peritonealvenös shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAP
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#SUOMI      Friläggande av adhesioner i peritoneum
+#RUOTSI     ---
+#ENGL       Freeing of adhesions in the peritoneal cavity
+###
+#KOODI      JAP00 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adherenslösning i bukhålan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAP01 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk adherenslösning i bukhålan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAQ00 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omfattande exstirpation av peritoneum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JAQ10 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ hypertermisk kemoterapeutisk genomspolning av bukhålan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på bukvägg, peritoneum, mesenterium och oment
+#RUOTSI     ---
+#ENGL       Other operations on abdominal wall, peritoneum, mesentery and omentum
+###
+#KOODI      JAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på bukvägg, mesenterium, peritoneum eller oment
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på bukvägg, mesenterium, peritoneum eller oment
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på diafragma och vid gastroesofageal reflux
+#RUOTSI     ---
+#ENGL       Diaphragm and gastro-oesophageal reflux
+###
+#KOODI_A    JBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transabdominala ingrepp på diafragma (för ruptur eller lokal förändring)
+#RUOTSI     ---
+#ENGL       Transabdominal operations for rupture or local lesion of diaphragm
+###
+#KOODI      JBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av diafragmaruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk sutur av diafragmaruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi eller exstirpation av förändring i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi eller exstirpation av förändring i diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBA20 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transabdominell resektion av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBA21 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av diafragma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer vid diafragmabråck
+#RUOTSI     ---
+#ENGL       Operations for diaphragmatic hernia
+###
+#KOODI      JBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av paraesofagealt bråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av paraesofagealt bråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation av medfött diafragmabråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation av medfött diafragmabråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation av diafragmabråck
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JBB
+#OHJE_R 
+---
+###
+#KOODI      JBB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation av diafragmabråck
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JBC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer vid gastroesofageal reflux
+#RUOTSI     ---
+#ENGL       Operations for gastro-oesophageal reflux disease
+###
+#KOODI      JBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för gastroesofageal reflux
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JBC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk operation för gastroesofageal reflux
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra transabdominala operationer på diafragma och vid gastroesofageal reflux
+#RUOTSI     ---
+#ENGL       Other transabdominal operations on diaphragm and operations for gastro-oesophageal reflux
+###
+#KOODI      JBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på diafragma eller vid gastroesofageal reflux
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JBW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på diafragma eller vid gastroesofageal reflux
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    JC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på esofagus
+#RUOTSI     ---
+#ENGL       Oesophagus
+###
+#KOODI_A    JCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lokala operationer på esofagus
+#RUOTSI     ---
+#ENGL       Local operations on oesophagus
+###
+#KOODI      JCA00 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Esofagotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk eller torakoskopisk exstirpation av förändring i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk polypektomi i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA08 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt avlägsnande av främmande kropp i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA12 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk divertikuloesofagostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ligatur av esofagusvaricer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk ligatur av esofagusvaricer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk injektionsbehandling i esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl sklerosering av esofagusvaricer
+#OHJE_R 
+---
+###
+#KOODI      JCA35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk koagulation i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA38 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk hemostatisk behandling i esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tilläggskod för användande av diatermi eller värme, se ZXC00-ZXC05, ZXC60
+#OHJE_R 
+---
+###
+#KOODI      JCA45 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk mukosa- eller submukosaresektion i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk diatermi- eller värmebehandling i esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCA
+#OHJE_R 
+---
+###
+#KOODI      JCA55 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transcervikal exstirpation av esofagusdivertikel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan lokal operation på esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCA
+#OHJE_R 
+---
+###
+#KOODI      JCA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk eller laparoskopisk lokal operation på esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCA
+#OHJE_R 
+---
+###
+#KOODI      JCA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk lokal operation på esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCA
+#OHJE_R 
+---
+###
+#KOODI_A    JCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Esofagostomi
+#RUOTSI     ---
+#ENGL       Oesophagostomy
+###
+#KOODI      JCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Esofagostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk eller torakoskopisk esofagostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektion av esofagus
+#RUOTSI     ---
+#ENGL       Resection of oesophagus
+###
+#KOODI      JCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transhiatal resektion av esofagus utan interposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal resektion av esofagus utan interposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCC11 
+#MUUT_PVM   2003/09/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk eller laparoskopisk resektion av esofagus
+#RUOTSI     Torakoskopisk eller laparoskopisk resektion av esofagus
+#LYHENNE    
+###
+#KOODI      JCC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transhiatal resektion av esofagus med interposition av tarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal resektion av esofagus med interposition av tarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion av esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCC
+#OHJE_R 
+---
+###
+#KOODI      JCC97 
+#MUUT_PVM   1996/11/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk resektion av esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCC
+#OHJE_R 
+---
+###
+#KOODI_A    JCD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Anastomosering av esofagus utan resektion
+#RUOTSI     ---
+#ENGL       Anastomosis of oesophagus without resection
+###
+#KOODI      JCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkutan anastomosering av esofagus utan interposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCD03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkutan anastomosering av esofagus med interposition av tarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intratorakal anastomosering av esofagus utan interposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCD11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk eller laparoskopisk anastomosering av esofagus utan interposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCD13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intratorakal anastomosering av esofagus med interposition av tarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsektion av esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan anastomosering av esofagus utan resektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCD
+#OHJE_R 
+---
+###
+#KOODI      JCD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk eller laparoskopisk anastomosering av esofagus utan resektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCD
+#OHJE_R 
+---
+###
+#KOODI_A    JCE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer på esofagus
+#RUOTSI     ---
+#ENGL       Reconstruction of oesophagus
+###
+#KOODI      JCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk eller laparoskopisk sutur av esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk operation för kardiastenos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Esofagogastromyotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk esofagogastromyotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE30 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion vid esofagusatresi eller esofagotrakeal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av förvärvad esofagotrakeal eller esofagobronkial fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av esofagus med lambå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av esofagus med fritt transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JCE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCE
+#OHJE_R 
+---
+###
+#KOODI      JCE97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk eller laparoskopisk rekonstruktion av esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCE
+#OHJE_R 
+---
+###
+#KOODI_A    JCF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggning av stent i esofagus
+#RUOTSI     ---
+#ENGL       Insertion of prosthetic tube into oesphagus
+###
+#KOODI      JCF00 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av stent i esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Celestin eller liknande, inklusive laparatomi och gastrotomi
+#OHJE_R 
+---
+###
+#KOODI      JCF12 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i esofagus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JCW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på esofagus
+#RUOTSI     ---
+#ENGL       Other operations on oesophagus
+###
+#KOODI      JCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JCW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk eller laparoskopisk operation på esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JCW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på ventrikeln och duodenum
+#RUOTSI     ---
+#ENGL       Stomach and duodenal bulb
+###
+#KOODI_A    JDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Gastrotomi och lokala operationer på ventrikeln
+#RUOTSI     ---
+#ENGL       Local operations on stomach
+###
+#KOODI      JDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastrotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk polypektomi i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA08 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt avlägsnande av främmande kropp i ventrikeln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA12 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i ventrikeln
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk ligatur av fundusvaricer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk injektionsbehandling i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk koagulation i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA38 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk hemostatisk åtgärd i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDA
+#OHJE_R 
+---
+###
+#KOODI      JDA45 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk mukosa- eller submukosaresektion i ventrikeln inkl. pylorus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk lokal operation med diatermi eller värme i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDA
+#OHJE_R 
+---
+###
+#KOODI      JDA55 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av ventrikel, pylorus eller ventrikelanastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastrorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA61 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk gastrorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDA63 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i ventrikeln inkl pylorus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JDB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Gastrostomi
+#RUOTSI     ---
+#ENGL       Gastrostomy
+###
+#KOODI      JDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk gastrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan gastrostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+PEG
+#OHJE_R 
+---
+###
+#KOODI_A    JDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ventrikelresektion
+#RUOTSI     ---
+#ENGL       Partial gastrectomy
+###
+#KOODI      JDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikelresektion med gastroduodenostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Billroth I
+#OHJE_R 
+---
+###
+#KOODI      JDC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikelresektion med gastrojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Billroth II Inkl ev. enteroanastomos
+#OHJE_R 
+---
+###
+#KOODI      JDC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ventrikelresektion med gastrojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikelresektion med gastrojejunostomi ad modum Roux-en-Y
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Konvertering efter tidigare ventrieklresektion utan ny resektion, se JDE
+#OHJE_R 
+---
+###
+#KOODI      JDC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikelresektion med jejunuminterposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kardiaresektion med esofagogastrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ventrikelresektion med annan rekonstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDC
+#OHJE_R 
+---
+###
+#KOODI      JDC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ventrikelresektion med annan rekonstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDC
+#OHJE_R 
+---
+###
+#KOODI_A    JDD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total gastrektomi
+#RUOTSI     ---
+#ENGL       Total gastrectomy
+###
+#KOODI      JDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastrektomi med esofagojejunostomi ad modum Roux-en-Y
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastrektomi med annan rekonstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDD
+#OHJE_R 
+---
+###
+#KOODI_A    JDE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ventrikelanastomos utan samtidig resektion
+#RUOTSI     ---
+#ENGL       Anastomosis of stomach without concurrent gastrectomy
+###
+#KOODI      JDE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl ev enteroanastomos
+#OHJE_R 
+---
+###
+#KOODI      JDE01 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk gastroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konvertering av gastroenterostomi till Roux-en-Y anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konvertering av gastroenterostomi till gastroduodenostomi med jejunuminterposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ventrikelanastomos utan samtidig resektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDE
+#OHJE_R 
+---
+###
+#KOODI_A    JDF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Volyminskränkande ingrepp på ventrikeln för obesitet
+#RUOTSI     ---
+#ENGL       Bariatric operations on stomach
+###
+#KOODI      JDF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastroplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk gastroplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gastric bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk gastric bypass
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Magsäcksbandning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk magsäcksbandning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt införande av expanderbar främmande kropp i ventrikel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat volymsinskränkande ingrepp på ventrikel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDF
+#OHJE_R 
+---
+###
+#KOODI      JDF97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat laparoskopiskt volymsinskränkande ingrepp på ventrikel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDF
+#OHJE_R 
+---
+###
+#KOODI      JDF98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat gastroskopiskt volymsinskränkande ingrepp på ventrikel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDF
+#OHJE_R 
+---
+###
+#KOODI_A    JDG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vagotomi
+#RUOTSI     ---
+#ENGL       Vagotomy
+###
+#KOODI      JDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trunkal vagotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDG01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk eller torakoskopisk trunkal vagotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proximal vagotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Parietalcellsvagotomi, selektiv proximal vagotomi
+#OHJE_R 
+---
+###
+#KOODI      JDG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk proximal vagotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan vagotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl selektiv vagotomi
+#OHJE_R 
+---
+###
+#KOODI      JDG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk vagotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDG
+#OHJE_R 
+---
+###
+#KOODI_A    JDH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på pylorus och duodenum
+#RUOTSI     ---
+#ENGL       Operations on pylorus and duodenum
+###
+#KOODI      JDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Duodenotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk polypektomi i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH08 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt avlägsnande av främmande kropp i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk injektionsbehandling i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH18 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk koagulation i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt hemostatiskt ingrepp i duodenum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDH
+#OHJE_R 
+---
+###
+#KOODI      JDH28 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt lokalt ingrepp med diatermi eller värme i duodenum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Destruktion av lokal förändring, incision av stenos etc
+#OHJE_R 
+---
+###
+#KOODI      JDH32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH35 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Duodenostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk duodenostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i bulbus duodeni
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH52 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk mukosa- eller submukosaresektion i duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pyloromyotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH61 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk pyloromyotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH63 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pylorusplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Duodenorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JDH71 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk duodenorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JDW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på ventrikeln och duodenum
+#RUOTSI     ---
+#ENGL       Other operations on stomach and duodenum
+###
+#KOODI      JDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på ventrikeln eller duodenum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JDW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på ventrikeln eller duodenum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JDW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på ventrikeln eller duodenum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på appendix
+#RUOTSI     ---
+#ENGL       Appendix
+###
+#KOODI_A    JEA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Appendektomi
+#RUOTSI     ---
+#ENGL       Appendectomy
+###
+#KOODI      JEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Appendektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JEA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk appendektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Appendektomi med dränage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JEW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på appendix
+#RUOTSI     ---
+#ENGL       Other operations on appendix
+###
+#KOODI      JEW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på appendix
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JEW och JEA
+#OHJE_R 
+---
+###
+#KOODI      JEW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på appendix
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JEW och JEA
+#OHJE_R 
+---
+###
+#KOODI_R    JF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på tunntarm och kolon
+#RUOTSI     ---
+#ENGL       Intestine
+###
+#KOODI_A    JFA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lokala operationer på tunntarm och kolon
+#RUOTSI     ---
+#ENGL       Local operations on intestine
+###
+#KOODI      JFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enterotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl biopsi, exstirpation av främmande kropp, gallsten eller ytlig förändring, koagulation, omstickning, polypektomi
+#OHJE_R 
+---
+###
+#KOODI      JFA02 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk extraktion av främmande kropp i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk polypektomi i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl biopsi, exstirpation av främmande kropp, ytlig förändring, koagulation, omstickning, polypektomi
+#OHJE_R 
+---
+###
+#KOODI      JFA12 
+#MUUT_PVM   2003/10/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk extraktion av främmande kropp i kolon
+#RUOTSI     ---
+#LYHENNE    Endoskopisk extraktion av främmande krop
+###
+#KOODI      JFA15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk polypektomi i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Väggbiopsi av kolon utan kolotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA17 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk väggbiopsi av kolon utan kolotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk injektionsbehandling i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk koagulation i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA28 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt hemostatiskt ingrepp i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI      JFA35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopisk lokalt ingrepp med diatermi eller värme i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI      JFA38 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk injektionsbehandling i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk koagulation i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA48 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt hemostatiskt ingrepp i kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI      JFA55 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt lokalt ingrepp med diatermi eller värme i kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI      JFA58 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA60 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Strikturplastik i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA63 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Strikturplastik i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA65 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA68 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i kolon
+#RUOTSI     ---
+#LYHENNE    Endoskopisk nedläggning av stent i kolon
+###
+#KOODI      JFA70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enterorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA71 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk enterorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA73 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA74 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk exstirpation av lokal förändring i tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA76 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av tunntarmsfistel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl fistlar till hud eller tarm
+#OHJE_R 
+---
+###
+#KOODI      JFA80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA81 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolorafi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA83 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA84 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk exstirpation av lokal förändring i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA85 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk mukosa- eller submukosaresektion i kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA86 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kolonfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan lokal operation på tarm
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI      JFA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk lokal operation på tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI      JFA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk lokal operation på tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI_A    JFB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektion av tunntarm och kolon
+#RUOTSI     ---
+#ENGL       Partial excision of intestine
+###
+#KOODI      JFB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tunntarmsresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk tunntarmsresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reversering av tunntarmssegment
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förlängningsplastik på tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ileocekalresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ileocekalresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Högersidig hemikolektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk högersidig hemikolektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion som omfattar tunntarm och kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB34 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk resektion som omfattar tunntarm och kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av colon transversum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av colon transversum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vänstersidig hemikolektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ordination och uppföljning av enteral nutritionsbehandling (via sond) inkl ev kosttillskott (tillskott av näringsämne i form av tabletter, kapslar eller mixtur)
+#OHJE_R 
+---
+###
+#KOODI      JFB44 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk vänstersidig hemikolektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av colon sigmoideum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hartmann-operation, se JFB60. Med samtidig resektion av del av rektum, se JFB53. Med samtidig resektion av hela rektum, se JGB
+#OHJE_R 
+---
+###
+#KOODI      JFB47 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av colon sigmoideum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Laparoskopisk Hartmann-operation, se JFB61. Med samtidig resektion av del av rektum, se JFB54. Med samtidig resektion av hela rektum, se JGB
+#OHJE_R 
+---
+###
+#KOODI      JFB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan kolonresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk kolonresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB53 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av colon sigmoideum med samtidig resektion av del av rektum
+#RUOTSI     ---
+#LYHENNE    Res av colon sigm med res av del av rekt
+###
+#KOODI      JFB54 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av colon sigmoideum med samtidig resektion av del av rektum
+#RUOTSI     ---
+#LYHENNE    Laparosk res av sigm med delres av rekt
+###
+#KOODI      JFB60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av colon sigmoideum med sigmoideostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB61 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av colon sigmoideum med sigmoideostomi och slutning av rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFB63 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan kolonresektion med kolostomi och slutning av distal stump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB64 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk kolonresektion med kolostomi och slutning av distal stump
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion av tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI      JFB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk resektion av tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFB
+#OHJE_R 
+---
+###
+#KOODI_A    JFC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tarmanastomoser
+#RUOTSI     ---
+#ENGL       Anastomosis of intestine
+###
+#KOODI      JFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enteroanastomos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Exkl vid samtidig ventrikelresektion
+#OHJE_R 
+---
+###
+#KOODI      JFC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk enteroanastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ileotransversostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ileotransversostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan enterokolostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFC
+#OHJE_R 
+---
+###
+#KOODI      JFC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk enterokolostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFC
+#OHJE_R 
+---
+###
+#KOODI      JFC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolokolostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC31 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolokolostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC40 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ileorektal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC41 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ileorektal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC50 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolorektal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFC51 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolorektal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JFD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tarmshuntar mot obesitet och hyperkolesterolemi
+#RUOTSI     ---
+#ENGL       Intestinal bypass operations
+###
+#KOODI      JFD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tarmshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD03 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Duodenal bypass med gallpankreatisk avledning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD04 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk duodenal shunt med gallpankreatisk avledning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av tarmshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD13 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av duodenal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Återställning av tarmshunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD23 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Återställning efter duodenal shunt
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan tarmshuntoperation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFD
+#OHJE_R 
+---
+###
+#KOODI_A    JFE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tunntarmstransplantation
+#RUOTSI     ---
+#ENGL       Transplantation of small intestine and related operations
+###
+#KOODI      JFE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tunntarmstransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med tunntarmstransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JF
+#OHJE_R 
+---
+###
+#KOODI_A    JFF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Framläggning av tunntarm och kolon (exteriorisering), tarmstomier
+#RUOTSI     ---
+#ENGL       Exteriorisation of intestine and creation of intestinal stomas
+###
+#KOODI      JFF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kateterenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kateterenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Loopileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk loopileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enterostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl jejunostomi, ileostomi
+#OHJE_R 
+---
+###
+#KOODI      JFF16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Konvertering av ileoanal anastomos till ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cekostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Med el utan framläggning
+#OHJE_R 
+---
+###
+#KOODI      JFF21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk cekostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transversostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF24 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk transversostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sigmoideostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF27 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk sigmoideostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan kolostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFF
+#OHJE_R 
+---
+###
+#KOODI      JFF31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk kolostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFF
+#OHJE_R 
+---
+###
+#KOODI      JFF40 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Appendikostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF41 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk appendikostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Framläggning av kolonslynga utan primär öppning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk framläggning av kolonslynga utan primär öppning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppning av framlagd kolonslynga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFF96 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan framläggning av tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFF
+#OHJE_R 
+---
+###
+#KOODI      JFF97 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk framläggning av tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFF
+#OHJE_R 
+---
+###
+#KOODI_A    JFG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Revisioner av tarmstomier
+#RUOTSI     ---
+#ENGL       Operations on intestinal stoma or pouch
+###
+#KOODI      JFG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av loopenterostomi utan tarmresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av loopkolostomi utan tarmresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av enterostomi med tarmresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG23 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av enterostomi med anastomos till tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG26 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av enterostomi med anastomos till kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG29 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av enterostomi med anastomos till rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kolostomi med tarmresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG33 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kolostomi med anastomos till kolon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG36 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av kolostomi med anastomos till rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av entero- eller kolostomi utan laparotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi med revision av entero- eller kolostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG53 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av ileum-bäckenreservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG56 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av kolon-bäckenreservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konvertering av konventionell ileostomi till kontinent ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konvertering av kontinent ileostomi till konventionell ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG73 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av ileum-bäckenreservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG76 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av kolon-bäckenreservoar med kolorektal eller koloanal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av ileumreservoar med konstruktion av ny kontinent ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG83 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av kolon-bäckenreservoar och konstruktion av ny reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG86 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av ileum-bäckenreservoar och konstruktion av ny reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på framlagd tarm eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFG
+#OHJE_R 
+---
+###
+#KOODI_A    JFH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kolektomi
+#RUOTSI     ---
+#ENGL       Total colectomy
+###
+#KOODI      JFH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolektomi med ileorektal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFH01 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolektomi med ileorektal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolektomi och ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFH11 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolektomi och ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proktokolektomi med ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolektomi, rektal mukosektomi och ileoanal anastomos utan ileostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFH33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolektomi, rektal mukosektomi, ileoanal anastomos och ileostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl ev konstruktion av ileumreservoar
+#OHJE_R 
+---
+###
+#KOODI      JFH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proktokolektomi med kontinent ileostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kock
+#OHJE_R 
+---
+###
+#KOODI      JFH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan kolektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFH
+#OHJE_R 
+---
+###
+#KOODI_A    JFJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Fixation av tarm till bukväggen
+#RUOTSI     ---
+#ENGL       Fixation of intestine to abdominal wall
+###
+#KOODI      JFJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cekopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFJ01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk cekopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan fixation av tarm till bukvägg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFJ
+#OHJE_R 
+---
+###
+#KOODI      JFJ97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk fixation av tarm till bukvägg
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFJ
+#OHJE_R 
+---
+###
+#KOODI_A    JFK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delning av adherenser vid tarmobstruktion
+#RUOTSI     ---
+#ENGL       Operations on adhesions in intestinal obstruction
+###
+#KOODI      JFK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Delning av brid
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFK01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk delning av brid
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFK10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adherenslösning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFK20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Adherenslösning med fixation av tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFK96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan delning av adherenser vid tarmobstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFK
+#OHJE_R 
+---
+###
+#KOODI      JFK97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk delning av adherenser vid tarmobstruktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFK
+#OHJE_R 
+---
+###
+#KOODI_A    JFL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av tarmobstruktion utan resektion eller adherenslösning
+#RUOTSI     ---
+#ENGL       Operations for intestinal obstruction without resection or freeing of adhesions
+###
+#KOODI      JFL00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi och desinvagination av tarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFL10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparotomi och reposition eller detorsion av tarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFL20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Manipulation av obstruerande tarminnehåll
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JFL96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan behandling av tarmobstruktion utan resektion eller adherenslösning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFL
+#OHJE_R 
+---
+###
+#KOODI_A    JFM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sköljning kolon under operation
+#RUOTSI     ---
+#ENGL       Intraoperative irrigation of colon (DELETED)
+###
+#KOODI      JFM00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroperativt tarmlavage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JFW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på tunntarm och kolon
+#RUOTSI     ---
+#ENGL       Other operations on intestine
+###
+#KOODI      JFW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JFW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JFW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på tunntarm eller kolon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JFX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på rectum
+#RUOTSI     ---
+#ENGL       Rectum
+###
+#KOODI_A    JGA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Proktotomi och lokala ingrepp på rectum
+#RUOTSI     ---
+#ENGL       Proctotomy and local operations on rectum
+###
+#KOODI      JGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proktotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA02 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk extraktion av främmande kropp i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk polypektomi i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk injektionsbehandling i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA28 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk koagulation i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk laserterapi i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt hemostatiskt ingrepp i rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGA
+#OHJE_R 
+---
+###
+#KOODI      JGA52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat endoskopiskt lokalt ingrepp med diatermi eller värme i rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGA
+#OHJE_R 
+---
+###
+#KOODI      JGA58 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA68 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i rektum
+#RUOTSI     ---
+#LYHENNE    Endoskopisk nedläggning av stent i rektu
+###
+#KOODI      JGA70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proktotomi med excision av förändring i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA73 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transanal excision av förändring i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA75 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk mikrokirurgisk excision av förändring i rektum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA76 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Staplad transanal rektalresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan proktotomi eller lokalt ingrepp på rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGA
+#OHJE_R 
+---
+###
+#KOODI      JGA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk proktotomi eller lokalt ingrepp på rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGA
+#OHJE_R 
+---
+###
+#KOODI      JGA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat transluminalt endoskopiskt lokalt ingrepp på rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGA
+#OHJE_R 
+---
+###
+#KOODI_A    JGB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektioner och exstirpationer av rectum
+#RUOTSI     ---
+#ENGL       Excision of rectum
+###
+#KOODI      JGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av rektum med total excision av mesorektum
+#RUOTSI     Resektion av rektum med total excision av mesorektum
+#LYHENNE    
+###
+#KOODI      JGB01 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av rektum med total excision av mesorektum
+#RUOTSI     ---
+#LYHENNE    Laparosk res av rektum + exc av mesorekt
+###
+#KOODI      JGB03 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av rektum med partiell excision av mesorektum
+#RUOTSI     ---
+#LYHENNE    Resektion av rektum med delres av mesore
+#OHJE_S  
+Med primär anastomos. Samtidig framläggning av tarm, se JFF
+#OHJE_R 
+---
+###
+#KOODI      JGB04 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av rektum med partiell excision av mesorektum
+#RUOTSI     ---
+#LYHENNE    Lap.res av rektum med delres av mesore
+#OHJE_S  
+Med primär anastomos. Samtidig framläggning av tarm, se JF
+#OHJE_R 
+---
+###
+#KOODI      JGB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av rektum med sigmoideostomi och förslutning av rektumstump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion av rektum med sigmoideostomi och förslutning av rektumstump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av rektum med abdominoperineal pull-through anastomos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Operation för Mb Hirschsprung a m Soave eller Duhamel
+#OHJE_R 
+---
+###
+#KOODI      JGB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominoperineal rektumamputation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGB31 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk och perineal rektumamputation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGB33 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominoperineal rektumamputation med intersfinkterisk dissektion
+#RUOTSI     ---
+#LYHENNE    Abdominoperineal rektumamputation med in
+#OHJE_S  
+Inkl. kolostomi
+#OHJE_R 
+---
+###
+#KOODI      JGB34 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopiassisterad abdominoperineal rektumamputation med intersfinkterisk dissektion
+#RUOTSI     ---
+#LYHENNE    Laparoskopiassi abdominoperineal rektuma
+#OHJE_S  
+Inkl. kolostomi
+#OHJE_R 
+---
+###
+#KOODI      JGB36 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad excision av rektum
+#RUOTSI     ---
+#LYHENNE    Utvidgad excision av rektum
+#OHJE_S  
+Med eller utan muskulokutant transplantat. Inkl. kolostomi. Samtidig excision av svansbenet, se NEK19. Tilläggskod för specifikation av transplantat och lambå, se ZZ
+#OHJE_R 
+---
+###
+#KOODI      JGB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rektumexstirpation och ileostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Efter tidigare kolektomi och ileostomi
+#OHJE_R 
+---
+###
+#KOODI      JGB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mukosektomi och ileoanal anastomos
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGB60 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av rektum eller ileoanal anastomos
+#RUOTSI     ---
+#LYHENNE    Exstirpation av rektum och ileoanal anas
+#OHJE_S  
+Efter tidigare kolektomi
+Inkl konstruktion av ileoanal reservoar
+#OHJE_R 
+---
+###
+#KOODI      JGB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion eller exstirpation av rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGB
+#OHJE_R 
+---
+###
+#KOODI      JGB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk resektion eller exstirpation av rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGB
+#OHJE_R 
+---
+###
+#KOODI_A    JGC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer på rectum
+#RUOTSI     ---
+#ENGL       Reconstructive operations on rectum
+###
+#KOODI      JGC00 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rektopexi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex Ripstein
+#OHJE_R 
+---
+###
+#KOODI      JGC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk rektopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGC10 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perineal rektopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGC20 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transanal sutur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision och sutur av rektal mukosa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anorektal rekonstruktion vid analatresi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JGC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGC
+#OHJE_R 
+---
+###
+#KOODI      JGC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk rekonstruktion av rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGC
+#OHJE_R 
+---
+###
+#KOODI_A    JGD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på perirektal vävnad
+#RUOTSI     ---
+#ENGL       Operations on perirectal tissue
+###
+#KOODI      JGD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av perinealt tumörrecidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JGW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på rectum
+#RUOTSI     ---
+#ENGL       Other operations on rectum
+###
+#KOODI      JGW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JGW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JGW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på rektum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JGX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på anus och perianal vävnad
+#RUOTSI     ---
+#ENGL       Anus and perianal tissue
+###
+#KOODI_A    JHA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, biopsi och lokal exstirpation i analkanalen och perianalt
+#RUOTSI     ---
+#ENGL       Incision, biopsy and excision of lesion of anus and perianal tissue
+###
+#KOODI      JHA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i analkanalen eller perianal vävnad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av analkanalen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av förändring i analkanalen eller perianal vävnad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Termisk behandling av förändring i analkanalen eller perianal vävnad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JHB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av hemorrojder och analprolaps
+#RUOTSI     ---
+#ENGL       Procedures for haemorrhoids and prolapse of mucosa
+###
+#KOODI      JHB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hemorrojdektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Termisk destruktion av hemorrojder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Injektionsbehandling av hemorrojder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gummiringsligatur av hemorrojder
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHB40 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Staplad hemorrojdopexi av analprolaps
+#RUOTSI     ---
+#LYHENNE    Resektion och staplad sutur av analprola
+#OHJE_S  
+För hemorrojder eller prolaps
+#OHJE_R 
+---
+###
+#KOODI      JHB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan behandling av hemorrojder eller analprolaps
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JHB
+#OHJE_R 
+---
+###
+#KOODI_A    JHC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer på anus
+#RUOTSI     ---
+#ENGL       Reconstructive operations on anus
+#OHJE_S  
+Artificeilla sfinkter-operationer, se JHE
+
+#OHJE_R 
+---
+###
+#KOODI      JHC00 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av analsfinkter med muskeltransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av analsfinkter med muskeltransposition
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Analt cerclage
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av anus vid analatresi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vid låg atresi
+#OHJE_R 
+---
+###
+#KOODI      JHC60 
+#MUUT_PVM   2007/08/22
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transanal submukös eller intersfinkterisk injektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JHD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Dilatation och delning av analsfinkter
+#RUOTSI     ---
+#ENGL       Dilatation and incision of anal sphincter
+###
+#KOODI      JHD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dilatation av analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+a m Gabriel, steg 1
+#OHJE_R 
+---
+###
+#KOODI      JHD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Myotomi av analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+a m Gabriel, steg 2
+#OHJE_R 
+---
+###
+#KOODI      JHD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Klyvning eller excision av analfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inkomplett klyvning eller excision av analfistel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Med seton
+a m Gabriel, steg 1
+#OHJE_R 
+---
+###
+#KOODI      JHD33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kompletterande klyvning eller excision av analfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell excision av intern sfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHD50 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av analfistel med advancement flap av mukosa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHD60 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ocklusion av analfistel med kollagenplugg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHD63 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ocklusion av analfistel med fibrin
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan incision i eller excision av analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JHD
+#OHJE_R 
+---
+###
+#KOODI_A    JHE
+#MUUT_PVM   2000/10/12
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#SUOMI      Inläggande av artificiell analsfinkter och relaterade operationer
+#RUOTSI     ---
+#ENGL       Implantation of artificial anal sphincter and related operations
+###
+#KOODI      JHE10 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggande av artificiell analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHE20 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av artificiell analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHE30 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av artificiell analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JHE96 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation relaterad till inläggande av artificiell analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JHE
+#OHJE_R 
+---
+###
+#KOODI_A    JHW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på anus och perianal vävnad
+#RUOTSI     ---
+#ENGL       Other operations on anus and perianal tissue
+###
+#KOODI      JHW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på anus eller perianal vävnad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JHX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på levern
+#RUOTSI     ---
+#ENGL       Liver
+###
+#KOODI_A    JJA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lokala ingrepp på levern
+#RUOTSI     ---
+#ENGL       Local operations on liver
+###
+#KOODI      JJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av lever
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl ev dränage eller tamponad
+#OHJE_R 
+---
+###
+#KOODI      JJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hepatikotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk biopsi av lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av lever vid laparotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA24 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av lever vid laparoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fenestrering av levercysta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk fenestrering av levercysta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av förändring i lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA41 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk excision av förändring i levern
+#RUOTSI     ---
+#LYHENNE    Laparosk excision av förändring i levern
+#OHJE_S  
+Inkl avlägsnande av främmande kropp
+#OHJE_R 
+---
+###
+#KOODI      JJA43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruktion av förändring i lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA44 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk destruktion av förändring i lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat lokalt ingrepp på lever
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JJA
+#OHJE_R 
+---
+###
+#KOODI      JJA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annat laparoskopiskt lokalt ingrepp på lever
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JJA
+#OHJE_R 
+---
+###
+#KOODI_A    JJB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leverresektion
+#RUOTSI     ---
+#ENGL       Resection of liver
+###
+#KOODI      JJB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kilresektion av lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB10 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Atypisk leverresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av ett leversegment
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av två leversegment
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vänstersidig hemihepatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Högersidig hemihepatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB53 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad högersidig eller utvidgad vänstersidig hemihepatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av tre leversegment
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB71 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk leverresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan leverresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JJB
+#OHJE_R 
+---
+###
+#KOODI_A    JJC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Levertransplantation och härmed sammanhängande operationer
+#RUOTSI     ---
+#ENGL       Transplantation of liver and related operations
+###
+#KOODI      JJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog levertransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog partiell levertransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog levertransplantation, levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heterolog levertransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heterolog partiell levertransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av levertransplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av transplanterad lever
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JJC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med levertransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JJC
+#OHJE_R 
+---
+###
+#KOODI_A    JJW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på levern
+#RUOTSI     ---
+#ENGL       Other operations on liver
+###
+#KOODI      JJW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på lever
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JJX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JJW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på lever
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JJX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på gallvägarna
+#RUOTSI     ---
+#ENGL       Biliary tract
+###
+#KOODI_A    JKA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på gallblåsan
+#RUOTSI     ---
+#ENGL       Operations on gallbladder
+###
+#KOODI      JKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolecystotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolecystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolecystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKA13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan kolecystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolecystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolecystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på gallblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKA
+#OHJE_R 
+---
+###
+#KOODI      JKA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på gallblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKA
+#OHJE_R 
+---
+###
+#KOODI_A    JKB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Cholangiotomi, exploration och andra lokala operationer på gallgångar
+#RUOTSI     ---
+#ENGL       Incision and related operations on bile duct
+###
+#KOODI      JKB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolangiotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolangiotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk stenextraktion från gallgång via ductus cysticus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peroperativ kolangioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolangioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutant transhepatiskt dränage av gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan lokal operation på gallgång
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKB
+#OHJE_R 
+---
+###
+#KOODI      JKB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk lokal operation på gallgång
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKB
+#OHJE_R 
+---
+###
+#KOODI_A    JKC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektioner av gallgångarna inkl papilla Vateri
+#RUOTSI     ---
+#ENGL       Excision of bile duct
+###
+#KOODI      JKC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk exstirpation av lokal förändring i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion och anastomos av gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av gallgång med kolangioduodenostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av gallgång med kolangioenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ductus hepaticus med hepatikoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av papilla Vateri med kolangioenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKC96 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion av gallgång
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKC
+#OHJE_R 
+---
+###
+#KOODI      JKC97 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk resektion av gallgång
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKC
+#OHJE_R 
+---
+###
+#KOODI_A    JKD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      By-pass-operationer på gallvägarna utan resektion
+#RUOTSI     ---
+#ENGL       Biliodigestive anastomosis without excision
+###
+#KOODI      JKD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolecystojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk kolecystojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolangioduodenostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolangiojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrahepatisk hepatikojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrahepatisk kolangiojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hepatikoportoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan biliodigestiv anastomos utan resektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKD
+#OHJE_R 
+---
+###
+#KOODI_A    JKE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Transduodenala operationer på gallgång eller papilla Vateri
+#RUOTSI     ---
+#ENGL       Transduodenal operations on bile duct or ampulla of Vater
+###
+#KOODI      JKE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transduodenal papillotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE02 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk papillotomi eller sfinkterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transduodenal sfinkterplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk stenextraktion i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk litotripsi i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE18 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk extraktion av främmande kropp i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt externt dränage av gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transduodenal operation på gallgång eller papilla Vateri
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKE
+#OHJE_R 
+---
+###
+#KOODI      JKE98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transduodenal endoskopisk operation på gallgång eller papilla Vateri
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKE
+#OHJE_R 
+---
+###
+#KOODI_A    JKF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperationer på gallgångar efter tidigare ingrepp
+#RUOTSI     ---
+#ENGL       Secondary operations on biliary tract
+###
+#KOODI      JKF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ductus cysticus-stump
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan stenextraktion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på gallgång efter tidigare operation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKF
+#OHJE_R 
+---
+###
+#KOODI      JKF97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på gallgång efter tidigare operation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKF
+#OHJE_R 
+---
+###
+#KOODI_A    JKT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extrakorporeal stötvågslitotripsi i gallvägarna
+#RUOTSI     ---
+#ENGL       Extracorporeal shock wave lithotripsy of biliary tract
+###
+#KOODI      JKT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal stötvågslitotripsi i gallblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JKT10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal stötvågslitotripsi i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JKW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra öppna operationer på gallvägarna
+#RUOTSI     ---
+#ENGL       Other operations on biliary tract
+###
+#KOODI      JKW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på gallvägar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JKW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på gallvägar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JKW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på gallvägar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JKX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på pankreas
+#RUOTSI     ---
+#ENGL       Pancreas
+###
+#KOODI_A    JLA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration och biopsi av pankreas
+#RUOTSI     ---
+#ENGL       Exploration and biopsy of pancreas
+###
+#KOODI      JLA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl enukleation av insulinom
+#OHJE_R 
+---
+###
+#KOODI      JLA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktionsbiopsi av pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk punktionsbiopsi av pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JLB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, dränage av pankreas och dilatation av pankreasgångar
+#RUOTSI     ---
+#ENGL       Incision, drainage or dilatation of pancreas
+###
+#KOODI      JLB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pankreatikolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk klyvning av pankreasostiet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk stenextraktion i pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk litotripsi i pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB28 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk inläggning av stent i pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk extraktion av främmande kropp i pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB38 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt externt dränage av pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk dilatation av pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för incision i, dränage eller dilatation av pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLB
+#OHJE_R 
+---
+###
+#KOODI      JLB98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk operation för incision i, dränage eller dilatation av pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLB
+#OHJE_R 
+---
+###
+#KOODI_A    JLC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pankreasresektion och pankreatektomi
+#RUOTSI     ---
+#ENGL       Excision of pancreas
+###
+#KOODI      JLC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av förändring i pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl enukleation av insulinom
+#OHJE_R 
+---
+###
+#KOODI      JLC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Distal pankreasresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pankreatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pankreasresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pankreatikoduodenektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Atypisk pankreasresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex excision av nekrotisk vävnad vid pankreatit
+#OHJE_R 
+---
+###
+#KOODI      JLC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan pankreasresektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLC
+#OHJE_R 
+---
+###
+#KOODI_A    JLD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pankreasanastomos utan resektion
+#RUOTSI     ---
+#ENGL       Anastomosis of pancreas without resection
+###
+#KOODI      JLD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pankreatikojejunostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomosering av pankreaspseudocysta till ventrikeln eller duodenum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLD12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt dränage av pankreaspseudocysta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomos av pankreaspseudocysta till tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLD22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopiskt dränage av pankreaspseudocysta till tunntarm
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JLE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pankreastransplantation och därmed sammanhängande operationer
+#RUOTSI     ---
+#ENGL       Transplantation of pancreas and related operations
+###
+#KOODI      JLE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog pankreastransplantation med pankreatikocystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog pankreastransplantation med pankreatikoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog transplantation av pankreassegment
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog transplantation av pankreassegment från levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog transplantation av ö-celler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heterolog transplantation av ö-celler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av transplanterad pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ocklusion av gång i transplanterad pankreas
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE56 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konvertering av pankreatikocystostomi till pankreatikoenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JLE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med pankreastransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLE
+#OHJE_R 
+---
+###
+#KOODI_A    JLT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extrakorporeal stötvågslitotripsi i pankreasgång
+#RUOTSI     ---
+#ENGL       Extracorporeal shock wave lithotripsy of pancreatic duct
+###
+#KOODI      JLT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal stötvågslitotripsi i pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JLW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Annan operation på pankreas
+#RUOTSI     ---
+#ENGL       Other operations on pancreas
+###
+#KOODI      JLW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLX (X avser anna bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JLW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLX (X avser anna bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JLW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på pankreas
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JLX (X avser anna bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på mjälten
+#RUOTSI     ---
+#ENGL       Spleen
+###
+#KOODI_A    JMA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Splenektomier/resektioner
+#RUOTSI     ---
+#ENGL       Splenectomy
+###
+#KOODI      JMA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mjältresektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JMA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominal splenektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JMA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk splenektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JMA20 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transtorakal splenektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JMB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse operationer på mjälten
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on spleen
+###
+#KOODI      JMB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av mjälte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JMB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk provexcison av mjälte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JMB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reparation av mjältskada
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    JMW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på mjälten
+#RUOTSI     ---
+#ENGL       Other operations on spleen
+###
+#KOODI      JMW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på mjälte
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JMX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JMW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk operation på mjälte
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JMX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    JW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för komplikationer av gastrointestinal kirurgi
+#RUOTSI     ---
+#ENGL       Reoperations in gastroenterological surgery
+###
+#KOODI      JWA00 
+#MUUT_PVM   1996/07/31
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWC01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWD00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWE00 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWE01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWE02 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWF00 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWF01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JWW96 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på gastrointestinalkanalen och därtill hörande organ
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JWW97 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk reoperation på gastrointestinalkanalen och därtill hörande organ
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JWW98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk reoperation på gastrointestinalkanalen och därtill hörande organ
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga JWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      JXA00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intralesionell excision av omfattande tumör i bukvägg (utan definierat ursprung i avsnitt JA)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JXA03 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marginell excision av omfattande tumör i bukvägg (utan definierat ursprung i avsnitt JA)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JXA06 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad excision av omfattande tumör i bukvägg (utan definierat ursprung i avsnitt JA)
+#RUOTSI     ---
+#LYHENNE    Utvidgad exc av omf tumör i bukvägg
+###
+#KOODI      JXA10 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intralesionell excision av omfattande tumör i bukhålan (utan definierat ursprung i kapitel J på avsnittsnivå)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JXA13 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marginell excision av omfattande tumör i bukhålan (utan definierat ursprung i kapitel J på avsnittsnivå)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      JXA16 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad excision av omfattande tumör i bukhålan (utan definierat ursprung i kapitel J på avsnittsnivå)
+#RUOTSI     ---
+#LYHENNE    Utvidgad exciav omf tumör i bukhålan

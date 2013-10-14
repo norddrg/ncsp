@@ -1,0 +1,9012 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU F
+
+@LUVUT_S = KAPITEL F
+
+@SUOMI_L = Sydän ja rintaontelon suuret suonet
+
+@RUOTSI_L = Hjärta och stora intratorakala kärlen
+
+@ENGL_L = Heart and major thoracic vessels
+
+@NOTE_LF = Sydämen magneetti- ja tietokonekuvaukset sekä sädehoito kohdassa GE
+
+@NOTE_LS = MR och CT samt strålbehandling av hjärtat, se GE
+
+@END_L = 
+
+@KOODI_R = FA
+
+@SUOMI_R = Rintaontelon suuret laskimot
+
+@RUOTSI_R = Stora intratorakala vener
+
+@ENGL_R = Major thoracic veins
+
+@NOTE_RF = Muut rintaontelon laskimot kohdassa PH
+
+@NOTE_RF =
+Eteinen ja eteisväliseinä kohdassa FFA-FFW
+
+@NOTE_RF =
+Keuhkolaskimot kohdassa FFF-FFH
+
+@NOTE_RS = Andra torakala vener, se PH
+
+@NOTE_RS =
+Förmak eller förmaksseptum, se FFA - FFW
+
+@NOTE_RS =
+Lungvener, se FFF - FFH
+
+@END = 
+
+@KOODI_A = FAA
+
+@NCSP_A = FASA
+
+@SUOMI_A = Onttolaskimon korjaukset rintaontelossa
+
+@RUOTSI_A = Sutur eller rekonstruktion av intratorakala vena cava
+
+@ENGL_A = Suture or repair of thoracic vena cava
+
+@NOTE_RF = Esim. vamma
+
+@NOTE_RS = T.ex. skada
+
+@END = 
+
+@KOODI = FAA00 
+
+@NCSP = FASA00
+
+@SUOMI = Onttolaskimon ompelu rintaontelossa
+
+@RUOTSI = Sutur av intratorakala vena cava
+
+@END = 
+
+@KOODI = FAA10 
+
+@NCSP = FASA10
+
+@SUOMI = Onttolaskimon korjaus rintaontelossa siirteellä
+
+@RUOTSI = Sutur/rekonstruktion av intratorakala vena cava med implantat
+
+@END = 
+
+@KOODI = FAA96 
+
+@NCSP = FASA96
+
+@SUOMI = Muu onttolaskimon korjausleikkaus rintaontelossa
+
+@RUOTSI = Annan sutur eller rekonstruktion av intratorakala vena cava
+
+@END = 
+
+@KOODI_A = FAB
+
+@NCSP_A = FASB
+
+@SUOMI_A = Onttolaskimon aukaisut rintaontelossa
+
+@RUOTSI_A = Incision och excision av vena cava
+
+@ENGL_A = Incision and excision of thoracic vena cava
+
+@END = 
+
+@KOODI = FAB00 
+
+@NCSP = FASB00
+
+@SUOMI = Onttolaskimon aukaisu rintaontelossa
+
+@RUOTSI = Incision av intratorakala vena cava
+
+@END = 
+
+@KOODI = FAB10 
+
+@NCSP = FASB10
+
+@SUOMI = Onttolaskimon veritulpan poisto rintaontelossa
+
+@RUOTSI = Trombektomi ur intratorakala vena cava
+
+@END = 
+
+@KOODI = FAB20 
+
+@NCSP = FASB20
+
+@SUOMI = Onttolaskimon vierasesineen poisto rintaontelossa
+
+@RUOTSI = Avlägsnande av främmande kropp från intratorakala vena cava
+
+@END = 
+
+@KOODI = FAB22 
+
+@NCSP = FASB22
+
+@SUOMI = Vierasesineen  poisto onttolaskimosta rintaontelossa suljetusti
+
+@RUOTSI = Transkutan avlägsnande av främmande kropp från intratrorakala vena cava
+
+@END = 
+
+@KOODI = FAB30 
+
+@NCSP = FASB30
+
+@SUOMI = Onttolaskimon kasvaimen poisto rintaontelossa
+
+@RUOTSI = Exstirpation av patologisk förändring i intratorakala vena cava
+
+@END = 
+
+@KOODI = FAB96 
+
+@NCSP = FASB96
+
+@SUOMI = Muu onttolaskimon aukaisuleikkaus rintaontelossa
+
+@RUOTSI = Annan incision eller excision av intratorakala vena cava
+
+@END = 
+
+@KOODI_A = FAC
+
+@NCSP_A = FASC
+
+@SUOMI_A = Onttolaskimon poisto- ja korjausleikkaukset rintaontelossa
+
+@RUOTSI_A = Resektion, rekonstruktion och ligatur av intratorakala vena cava
+
+@ENGL_A = Resection, reconstruction or ligature of thoracic vena cava
+
+@END = 
+
+@KOODI = FAC00 
+
+@NCSP = FASC00
+
+@SUOMI = Onttolaskimon sitominen tai poisto rintaontelossa
+
+@RUOTSI = Resektion eller ligatur av intratorakala vena cava
+
+@END = 
+
+@KOODI = FAC10 
+
+@NCSP = FASC10
+
+@SUOMI = Onttolaskimon poisto ja korjaus laskimosiirteellä rintaontelossa
+
+@RUOTSI = Resektion och rekonstruktion av intratorakala vena cava med autologt ventransplantat
+
+@END = 
+
+@KOODI = FAC20 
+
+@NCSP = FASC20
+
+@SUOMI = Onttolaskimon poisto ja korjaus proteesilla rintaontelossa
+
+@RUOTSI = Resektion och rekonstruktion av intratorakala vena cava med protes
+
+@END = 
+
+@KOODI = FAC22 
+
+@NCSP = FASC22
+
+@SUOMI = Yläonttolaskimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Perkutan intravaskulär angioplastik av vena cava
+
+@END = 
+
+@KOODI = PH7AT 
+
+@NCSP = FASC22
+
+@SUOMI = Alaonttolaskimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Perkutan angioplastik av vena cava inferior (PTA)
+
+@END = 
+
+@KOODI = FAC25 
+
+@NCSP = FASC25
+
+@SUOMI = Yläonttolaskimon suonensisäinen laajennushoito (PTA) ja stentin asennus
+
+@RUOTSI = Perkutan intravaskulär angioplastik (PTA) med stent
+
+@END = 
+
+@KOODI = FAC96 
+
+@NCSP = FASC96
+
+@SUOMI = Muu onttolaskimon poisto- tai korjaus rintaontelossa
+
+@RUOTSI = Annan resektion, rekonstruktion eller ligatur av intratorakala vena cava
+
+@END = 
+
+@KOODI_A = FAD
+
+@NCSP_A = FASD
+
+@SUOMI_A = Onttolaskimoiden ohitusleikkaukset rintaontelossa
+
+@RUOTSI_A = By-pass-operationer på intratorakala vena cava
+
+@ENGL_A = Bypass operations on thoracic vena cava
+
+@END = 
+
+@KOODI = FAD00 
+
+@NCSP = FASD00
+
+@SUOMI = Onttolaskimon ohitus rintaontelossa laskimosiirteellä
+
+@RUOTSI = By-pass-operation på intratorakala vena cava med autologt ventransplantat
+
+@END = 
+
+@KOODI = FAD10 
+
+@NCSP = FASD10
+
+@SUOMI = Onttolaskimon ohitus rintaontelossa proteesilla
+
+@RUOTSI = By-pass-operation på intratorakala vena cava med kärlprotes
+
+@END = 
+
+@KOODI = FAD96 
+
+@NCSP = FASD96
+
+@SUOMI = Muu onttolaskimoiden ohitusleikkaus rintaontelossa
+
+@RUOTSI = Annan by-pass-operation på intratorakala vena cava
+
+@END = 
+
+@KOODI_A = FAE
+
+@NCSP_A = FASE
+
+@SUOMI_A = Onttolaskimon ja keuhkovaltimon yhdistämisleikkaukset
+
+@RUOTSI_A = Anastomoser mellan arteria pulmonalis och vena cava
+
+@ENGL_A = Connection to pulmonary artery from superior vena cava
+
+@END = 
+
+@KOODI = FAE00 
+
+@NCSP = FASE00
+
+@SUOMI = Yläonttolaskimon ja oikean keuhkovaltimon yhdistäminen (Glenn)
+
+@RUOTSI = Anastomos mellan v. cava superior och a. pulmonalis dx (Glenn)
+
+@END = 
+
+@KOODI = FAE10 
+
+@NCSP = FASE10
+
+@SUOMI = Yläonttolaskimon ja keuhkovaltimon yhdistäminen
+
+@RUOTSI = Bidirektionell shunt mellan vena cava superior och arteria pulmonalis
+
+@NOTE_F = Sisältää keuhkovaltimon rungon sulun
+
+@NOTE_S = Inkl Tillslutning av arteria pulmonalis huvudstam
+
+@END = 
+
+@KOODI = FAE20 
+
+@NCSP = FASE20
+
+@SUOMI = Täydellinen onttolaskimon ja keuhkovaltimon yhdistäminen (Fontan sovellus)
+
+@RUOTSI = Total cavo-pulmonell förbindelse (modfierad Fontan)
+
+@NOTE_F = Sisältää eteisen sisäisen kanavan rakentamisen tai ASD:n sulun
+
+@END = 
+
+@KOODI = FAE30 
+
+@NCSP = FASE30
+
+@SUOMI = Täydellinen onttolaskimon ja keuhkovaltimon yhdistäminen ikkunapaikalla (Fontan fenestrated)
+
+@RUOTSI = Total cavo-pulmonell förbindelse med fenestrerad patch (Fontan)
+
+@END = 
+
+@KOODI = FAE40 
+
+@NCSP = FASE40
+
+@SUOMI = Täydellinen onttolaskimon ja keuhkovaltimon yhdistäminen käyttäen sydämen ulkopuolista yhteyttä (conduit)
+
+@RUOTSI = Total cavo-pulmonell förbindelse med conduit
+
+@END = 
+
+@KOODI = FAE96 
+
+@NCSP = FASE96
+
+@SUOMI = Muu onttolaskimon ja keuhkovaltimon yhdistäminen
+
+@RUOTSI = Annan cavo-pulmonell anastomosoperation
+
+@END = 
+
+@KOODI_A = FAW
+
+@NCSP_A = FASW
+
+@SUOMI_A = Muut rintaontelon laskimoiden leikkaukset
+
+@RUOTSI_A = Andra operationer på intratorakala vener
+
+@ENGL_A = Other operations on major thoracic veins
+
+@END = 
+
+@KOODI = FAW96 
+
+@NCSP = FASW96
+
+@SUOMI = Muu rintaontelon laskimon leikkaus
+
+@RUOTSI = Annan operation på intratorakal ven
+
+@END = 
+
+@KOODI_R = FB
+
+@SUOMI_R = Keuhkovaltimot
+
+@RUOTSI_R = Arteria pulmonalis och dess grenar
+
+@ENGL_R = Pulmonary artery with branches
+
+@NOTE_RF = Aorta-keuhkovaltimorinnakkaishaarojen sitominen, katso FDF
+
+@NOTE_RF = Keuhkovaltimoläpän leikkaukset kohdassa FJ
+
+@NOTE_RS = Tillslutning av aorto-pulmonella kollateraler, se FDF
+
+@NOTE_RS =
+Operationer på pulmonalisklaffen, se FJ
+
+@END = 
+
+@KOODI_A = FB_
+
+@NCSP_A = FBD
+
+@SUOMI_A = Keuhkovaltimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av lungartärer
+
+@ENGL_A = Diagnostic radiology of pulmonary artery with branches
+
+@END = 
+
+@KOODI = FB1AC 
+
+@NCSP = FBDC1A
+
+@SUOMI = Keuhkovaltimoiden varjoainetutkimus
+
+@RUOTSI = Pulmonal angiografi
+
+@END = 
+
+@KOODI = FB1BC 
+
+@NCSP = FBDC1A
+
+@SUOMI = Keuhkovaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Pulmonal angiografi, omfattande
+
+@END = 
+
+@KOODI = FB1CC 
+
+@NCSP = FBDC1A
+
+@SUOMI = Keuhkovaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Pulmonal angiografi, mycket omfattande
+
+@END = 
+
+@KOODI = FB1AD 
+
+@NCSP = FBDD1A
+
+@SUOMI = Keuhkojen TT-angio
+
+@RUOTSI = Lungkärl, DT
+
+@END = 
+
+@KOODI = FB1BD 
+
+@NCSP = FBDD1A
+
+@SUOMI = Keuhkojen laaja TT-angio
+
+@RUOTSI = Lungkärl, omfattande DT
+
+@END = 
+
+@KOODI = FB1BF 
+
+@NCSP = FBDG1B
+
+@SUOMI = Keuhkovaltimon magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Lungartär, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FB1BG 
+
+@NCSP = FBDG1B
+
+@SUOMI = Keuhkovaltimon magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Lungartär, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FB1CF 
+
+@NCSP = FBDG1B
+
+@SUOMI = Keuhkovaltimon laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Lungartär, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FB1CG 
+
+@NCSP = FBDG1B
+
+@SUOMI = Keuhkovaltimon laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Lungartär, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = FB1DF 
+
+@NCSP = FBDG1B
+
+@SUOMI = Keuhkovaltimon erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Lungartär, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FB1DG 
+
+@NCSP = FBDG1B
+
+@SUOMI = Keuhkovaltimon erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Lungartär, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = FBA
+
+@NCSP_A = FBSA
+
+@SUOMI_A = Keuhkovaltimon korjaukset esim. vamman vuoksi
+
+@RUOTSI_A = Sutur och rekonstruktion av arteria pulmonalis
+
+@ENGL_A = Suture or repair of pulmonary artery
+
+@END = 
+
+@KOODI = FBA00 
+
+@NCSP = FBSA00
+
+@SUOMI = Keuhkovaltimon ompelu
+
+@RUOTSI = Sutur av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBA10 
+
+@NCSP = FBSA10
+
+@SUOMI = Keuhkovaltimon ompelu ja korjaus siirteellä
+
+@RUOTSI = Rekonstruktion av arteria pulmonalis med implantat
+
+@END = 
+
+@KOODI = FBA96 
+
+@NCSP = FBSA96
+
+@SUOMI = Muu keuhkovaltimon korjausleikkaus
+
+@RUOTSI = Annan sutur eller rekonstruktion av arteria pulmonalis
+
+@NOTE_F = esim vamman vuoksi
+
+@NOTE_S = T.ex. vid trauma
+
+@END = 
+
+@KOODI_A = FBB
+
+@NCSP_A = FBSB
+
+@SUOMI_A = Keuhkovaltimon aukaisu- ja tyhjennysleikkaukset
+
+@RUOTSI_A = Incision/utrymning av arteria pulmonalis
+
+@ENGL_A = Incision of pulmonary artery
+
+@END = 
+
+@KOODI = FBB00 
+
+@NCSP = FBSB00
+
+@SUOMI = Keuhkovaltimon aukaisu
+
+@RUOTSI = Incision av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBB10 
+
+@NCSP = FBSB10
+
+@SUOMI = Keuhkoveritulpan poisto keuhkovaltimon kautta
+
+@RUOTSI = Transarteriell extraktion av lungemboli
+
+@END = 
+
+@KOODI = FBB20 
+
+@NCSP = FBSB20
+
+@SUOMI = Keuhkovaltimon sisäkalvon ja kroonisen tukoksen poisto
+
+@RUOTSI = Trombendartärektomi ur arteria pulmonalis vid kronisk obstruktion
+
+@END = 
+
+@KOODI = FBB50 
+
+@NCSP = FBSB50
+
+@SUOMI = Keuhkovaltimon vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp från arteria pulmonalis eller dess grenar
+
+@END = 
+
+@KOODI = FBB52 
+
+@NCSP = FBSB52
+
+@SUOMI = Vierasesineen poisto keuhkovaltimosta suonensisäisesti
+
+@RUOTSI = Perkutan transluminal avlägsnande av främmande kropp från pulmonär artär
+
+@END = 
+
+@KOODI = FBB96 
+
+@NCSP = FBSB96
+
+@SUOMI = Muu keuhkovaltimon aukaisu- ja tyhjennysleikkaus
+
+@RUOTSI = Annan incision av arteria pulmonalis
+
+@END = 
+
+@KOODI_A = FBC
+
+@NCSP_A = FBSC
+
+@SUOMI_A = Keuhkovaltimon ahtauttamisleikkaukset, banding
+
+@RUOTSI_A = Banding-operationer på arteria pulmonalis
+
+@ENGL_A = Banding operations on pulmonary artery
+
+@END = 
+
+@KOODI = FBC00 
+
+@NCSP = FBSC00
+
+@SUOMI = Keuhkovaltimon sidos
+
+@RUOTSI = Banding av arteria pulmonalis
+
+@NOTE_F = Keuhkovaltimon sidos muun sydänleikkauksen yhteydessä kohdasssa FBC10
+
+@NOTE_S = Med samtidig annan åtgärd på hjärtat, se FBC10
+
+@END = 
+
+@KOODI = FBC10 
+
+@NCSP = FBSC10
+
+@SUOMI = Keuhkovaltimon sidos sydänleikkauksen yhteydessä
+
+@RUOTSI = Banding av arteria pulmonalis tillsammans med annat ingrepp för medfött hjärtfel
+
+@END = 
+
+@KOODI = FBC96 
+
+@NCSP = FBSC96
+
+@SUOMI = Muu keuhkovaltimon ahtauttamisleikkaus
+
+@RUOTSI = Annan banding-operation på arteria pulmonalis
+
+@END = 
+
+@KOODI_A = FBD
+
+@NCSP_A = FBSD
+
+@SUOMI_A = Keuhkovaltimon ahtautusten purkuleikkaukset, debanding
+
+@RUOTSI_A = Debanding-operationer på arteria pulmonalis
+
+@ENGL_A = Debanding operations on pulmonary artery
+
+@END = 
+
+@KOODI = FBD00 
+
+@NCSP = FBSD00
+
+@SUOMI = Sidoksen poisto keuhkovaltimosta
+
+@RUOTSI = Avlägsnande av band från arteria pulmonalis
+
+@END = 
+
+@KOODI = FBD10 
+
+@NCSP = FBSD10
+
+@SUOMI = Sidoksen (banding) poisto ja keuhkovaltimon laajentaminen
+
+@RUOTSI = Avlägsnande av band från och dilatation av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBD12 
+
+@NCSP = FBSD12
+
+@SUOMI = Suonensisäinen keuhkovaltimon laajentaminen tai sidoksen katkaisu
+
+@RUOTSI = Perkutan transluminal dilatation eller ruptur av bandage av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBD20 
+
+@NCSP = FBSD20
+
+@SUOMI = Sidoksen (banding) poisto ja keuhkovaltimonkorjaus
+
+@RUOTSI = Avlägsnande band från och rekonstruktion av arteria pulmonalis
+
+@NOTE_F = esim. siirre
+
+@NOTE_S = Inkl implantat
+
+@END = 
+
+@KOODI = FBD96 
+
+@NCSP = FBSD96
+
+@SUOMI = Muu keuhkovaltimon debanding-leikkaus
+
+@RUOTSI = Annan debanding-operation på arteria pulmonalis
+
+@END = 
+
+@KOODI_A = FBE
+
+@NCSP_A = FBSE
+
+@SUOMI_A = Keuhkovaltimon laajennus- tai muovausleikkaukset
+
+@RUOTSI_A = Vidgning eller rekonstruktion av arteria pulmonalis
+
+@ENGL_A = Expansion and reconstruction of pulmonary artery
+
+@END = 
+
+@KOODI = FBE00 
+
+@NCSP = FBSE00
+
+@SUOMI = Keuhkovaltimon laajennus
+
+@RUOTSI = Vidgning av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBE10 
+
+@NCSP = FBSE10
+
+@SUOMI = Keuhkovaltimon laajennus paikkaamalla (patch)
+
+@RUOTSI = Vidgning ehler rekonstruktion av arteria pulmonalis (ev med implantat)
+
+@END = 
+
+@KOODI = FBE20 
+
+@NCSP = FBSE20
+
+@SUOMI = Keuhkovaltimon muovaus putkiproteesilla
+
+@RUOTSI = Rekonstruktion av arteria pulmonalis med rörformad protes
+
+@END = 
+
+@KOODI = FBE32 
+
+@NCSP = FBSE32
+
+@SUOMI = Keuhkovaltimon suonensisäinen angioplastia
+
+@RUOTSI = Perkutan angiopalsti av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBE35 
+
+@NCSP = FBSE35
+
+@SUOMI = Keuhkovaltimon suonensisäinen laajennushoito (PTA) ja stentin asennus
+
+@RUOTSI = Perkutan transluminal angioplastik av arteria pulmonalis med insertion av stent
+
+@END = 
+
+@KOODI = FBE42 
+
+@NCSP = FBSE42
+
+@SUOMI = Keuhkovaltimon tukoksen avaaminen suonensisäisesti
+
+@RUOTSI = Perkutan transluminal rekanalisation av arteria pulmonalis
+
+@NOTE_F = Erityinen leikkaustekniikka ilmaistaan lisäkoodilla ryhmistä ZFX tai ZXC
+
+@NOTE_S = Oprationtekniken kan anges med tilläggskod från grupperna ZFX eller ZXC
+
+@END = 
+
+@KOODI = FBE96 
+
+@NCSP = FBSE96
+
+@SUOMI = Muu keuhkovaltimon laajennusleikkaus
+
+@RUOTSI = Annan vidgning eller rekonstruktion av arteria pulmonalis
+
+@END = 
+
+@KOODI_A = FBF
+
+@NCSP_A = FBSF
+
+@SUOMI_A = Keuhkovaltimon pienennysleikkaukset
+
+@RUOTSI_A = Reduktion av arteria pulmonalis
+
+@ENGL_A = Reduction of pulmonary artery
+
+@END = 
+
+@KOODI = FBF00 
+
+@NCSP = FBSF00
+
+@SUOMI = Keuhkovaltimon osittainen poisto
+
+@RUOTSI = Resektion av arteria pulmonalis
+
+@END = 
+
+@KOODI = FBF10 
+
+@NCSP = FBSF10
+
+@SUOMI = Keuhkovaltimon poisto ja korvaaminen putkiproteesilla
+
+@RUOTSI = Resektion och rekonstruktion av arteria pulmonalis med transplantat
+
+@END = 
+
+@KOODI = FBF20 
+
+@NCSP = FBSF20
+
+@SUOMI = Keuhkovaltimon poisto ja korvaaminen proteesilla sekä keuhkoputken korjaus
+
+@RUOTSI = Resektion och rekonstruktion av arteria pulmonalis med transplantat samt rekonstruktion av luftvägar
+
+@NOTE_S = Inkl användning av transplantat
+
+@END = 
+
+@KOODI = FBF96 
+
+@NCSP = FBSF96
+
+@SUOMI = Muu keuhkovaltimon pienennys
+
+@RUOTSI = Annan reduktion av arteria pulmonalis
+
+@END = 
+
+@KOODI_A = FBG
+
+@NCSP_A = FBSG
+
+@SUOMI_A = Aortopulmonaalisten rinnakkaishaarojen unifokalisoinnit
+
+@RUOTSI_A = Unifokalisering av parallela grenar av arteria pulmonalis
+
+@ENGL_A = Unifocalisation in MAPCA with implantation in
+
+@NOTE_RF = MAPCA = Multiple anomalous pulmonary collateral arteries
+
+@NOTE_RF =
+Aorta-keuhkovaltimorinnakkaishaarojen sitominen, katso FDF
+
+@NOTE_RS = MAPCA = Multiple anomalous pulmonary collateral arteries
+
+@NOTE_RS =
+Tillslutning av aorto-pulmonella kollateraler, se FDF
+
+@END = 
+
+@KOODI = FBG00 
+
+@NCSP = FBSG00
+
+@SUOMI = Anastomoosi suoraan keuhkovaltimoon MAPCA:sta
+
+@RUOTSI = Anastomos till arteria pulmonalis från MAPCA
+
+@END = 
+
+@KOODI = FBG10 
+
+@NCSP = FBSG10
+
+@SUOMI = Anastomoosi proteesiin MAPCA:sta
+
+@RUOTSI = Anastomos till protes från MAPCA
+
+@END = 
+
+@KOODI = FBG96 
+
+@NCSP = FBSG96
+
+@SUOMI = Muu unifokalisointitoimenpide, MAPCA
+
+@RUOTSI = Annan unifokalisering vid MAPCA
+
+@END = 
+
+@KOODI_A = FBH
+
+@NCSP_A = FBSH
+
+@SUOMI_A = Kiertävän vasemman keuhkovaltimon, slingan, korjaamiset
+
+@RUOTSI_A = Rekonstruktion vid pulmonell kärlslynga
+
+@ENGL_A = Repair of pulmonary artery sling
+
+@END = 
+
+@KOODI = FBH00 
+
+@NCSP = FBSH00
+
+@SUOMI = Keuhkovaltimoslingan transpositio
+
+@RUOTSI = Transposition av pulmonell kärlslynga
+
+@END = 
+
+@KOODI = FBH10 
+
+@NCSP = FBSH10
+
+@SUOMI = Keuhkovaltimoslingan transpositio käyttäen henkitorven katkaisua
+
+@RUOTSI = Transposition med delning av luftväg
+
+@END = 
+
+@KOODI = FBH96 
+
+@NCSP = FBSH96
+
+@SUOMI = Muu kiertävän vasemman keuhkovaltimon korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion vid pulmonell kärlslynga
+
+@END = 
+
+@KOODI_A = FBJ
+
+@NCSP_A = FBSJ
+
+@SUOMI_A = Solisvaltimon ja keuhkovaltimon yhdistämiset
+
+@RUOTSI_A = Subklavio-pulmonella shuntoperationer
+
+@ENGL_A = Connection to pulmonary artery from subclavian artery
+
+@END = 
+
+@KOODI = FBJ00 
+
+@NCSP = FBSJ00
+
+@SUOMI = Solisvaltimon ja keuhkovaltimon yhdistäminen (Blalock-Taussig)
+
+@RUOTSI = Subklavio-pulmonell shunt (Blalock-Taussig)
+
+@END = 
+
+@KOODI = FBJ10 
+
+@NCSP = FBSJ10
+
+@SUOMI = Solisvaltimon ja keuhkovaltimon yhdistäminen siirteellä
+
+@RUOTSI = Subklavio-pulmonell shunt med kärlprotes
+
+@END = 
+
+@KOODI = FBJ96 
+
+@NCSP = FBSJ96
+
+@SUOMI = Muu solisvaltimon ja keuhkovaltimon yhdistämisleikkaus
+
+@RUOTSI = Annan subklavio-pulmonell shuntoperation
+
+@END = 
+
+@KOODI_A = FBK
+
+@NCSP_A = FBSK
+
+@SUOMI_A = Solisvaltimon ja keuhkovaltimon välisen liitoksen sulkemiset
+
+@RUOTSI_A = Tillslutning av subklavio-pulmonell anastomos
+
+@ENGL_A = Closure of subclavio-pulmonary connection
+
+@END = 
+
+@KOODI = FBK00 
+
+@NCSP = FBSK00
+
+@SUOMI = Solis- ja keuhkovaltimon välisen Blalock-Taussig -liitoksen sulku
+
+@RUOTSI = Tillslutning av subklavio-pulmonell shunt (Blalock-Taussig)
+
+@NOTE_F = Sisältää suonen katkaisun
+
+@NOTE_S = Inkl delning
+
+@END = 
+
+@KOODI = FBK10 
+
+@NCSP = FBSK10
+
+@SUOMI = Solis- ja keuhkovaltimon välisen proteesin sulku
+
+@RUOTSI = Tillslutning av subklavio-pulmonell protesshunt
+
+@NOTE_F = Sisältään suonen katkaisun
+
+@NOTE_S = Inkl delning
+
+@END = 
+
+@KOODI = FBK96 
+
+@NCSP = FBSK96
+
+@SUOMI = Muu solisvaltimon ja keuhkovaltimon välisen liitoksen sulku
+
+@RUOTSI = Annan operation för tillslutning av subklavio-pulmonell shunt
+
+@END = 
+
+@KOODI_A = FBL
+
+@NCSP_A = FBSL
+
+@SUOMI_A = Aortan ja keuhkovaltimon yhdistämisleikkaukset
+
+@RUOTSI_A = Aorto-pulmonella anastomoser och shuntar
+
+@ENGL_A = Connection to pulmonary artery from aorta
+
+@END = 
+
+@KOODI = FBL00 
+
+@NCSP = FBSL00
+
+@SUOMI = Nousevan aortan ja keuhkovaltimon rungon yhdistäminen
+
+@RUOTSI = Anastomos mellan aorta ascendens och arteria pulmonalis' huvudstam
+
+@END = 
+
+@KOODI = FBL10 
+
+@NCSP = FBSL10
+
+@SUOMI = Aortan ja oikean keuhkovaltimon yhdistäminen (Waterston)
+
+@RUOTSI = Aorto-pulmonell anastomos (Waterston)
+
+@END = 
+
+@KOODI = FBL20 
+
+@NCSP = FBSL20
+
+@SUOMI = Distaalinen aortan ja keuhkovaltimon yhdistäminen (Potts)
+
+@RUOTSI = Distal aorto-pulmonell anastomos (Potts)
+
+@END = 
+
+@KOODI = FBL30 
+
+@NCSP = FBSL30
+
+@SUOMI = Aortan ja keuhkovaltimon yhdistäminen proteesilla
+
+@RUOTSI = Aorto-pulmonell shunt med kärlprotes
+
+@END = 
+
+@KOODI = FBL40 
+
+@NCSP = FBSL40
+
+@SUOMI = Yksikammiosydämen aortta-keuhkovaltimoyhteys
+
+@RUOTSI = Aorto-pulmonell anastomos eller shunt vid univentrikulära hjärtmissbildningar
+
+@NOTE_F = esim. Damus-Kaye-Stansel
+
+@NOTE_S = Damus-Kaye-Stanzel eller liknande
+
+@END = 
+
+@KOODI = FBL50 
+
+@NCSP = FBSL50
+
+@SUOMI = Katkaistun keuhkovaltimon yhdistäminen aorttaan (Mee)
+
+@RUOTSI = Aorto-pulmonary anastomosis med transektion av pulmonary artery (Mee)
+
+@END = 
+
+@KOODI = FBL96 
+
+@NCSP = FBSL96
+
+@SUOMI = Muu aortan ja keuhkovaltimon yhdistämisleikkaus
+
+@RUOTSI = Annan aorto-pulmonell anastomos eller shunt
+
+@END = 
+
+@KOODI_A = FBM
+
+@NCSP_A = FBSM
+
+@SUOMI_A = Aortan ja keuhkovaltimoiden välisten liitosten sulkemiset
+
+@RUOTSI_A = Tillslutning eller delning av anlagda aorto-pulmonella anastomoser och shuntar
+
+@ENGL_A = Closure of artificial aorto-pulmonary connection
+
+@END = 
+
+@KOODI = FBM00 
+
+@NCSP = FBSM00
+
+@SUOMI = Sentraalisen aortan ja keuhkovaltimon välisen anastomoosin sulku
+
+@RUOTSI = Tillslutning av central aorto-pulmonell anastomos
+
+@END = 
+
+@KOODI = FBM10 
+
+@NCSP = FBSM10
+
+@SUOMI = Aortan ja keuhkovaltimon välisen anastomoosin (Waterston) sulku
+
+@RUOTSI = Tillslutning av aorto-pulmonell shunt (Waterston)
+
+@END = 
+
+@KOODI = FBM20 
+
+@NCSP = FBSM20
+
+@SUOMI = Distaalisen aortan ja keuhkovaltimon välisen anastomoosin (Potts) sulku
+
+@RUOTSI = Tillslutning av distal aorto-pulmonell shunt (Potts)
+
+@END = 
+
+@KOODI = FBM30 
+
+@NCSP = FBSM30
+
+@SUOMI = Aortan ja keuhkovaltimon välisen proteesin sulku
+
+@RUOTSI = Tillslutning av aortop-ulmonell protesshunt
+
+@END = 
+
+@KOODI = FBM96 
+
+@NCSP = FBSM96
+
+@SUOMI = Muu aortan ja keuhkovaltimon välisen liitoksen sulkemisleikkaus
+
+@RUOTSI = Annan tillslutning eller delning av anlagd aorto-pulmonell anastomos eller shunt
+
+@END = 
+
+@KOODI_A = FBN
+
+@NCSP_A = FBSN
+
+@SUOMI_A = Keuhkovaltimoavanteen, fistelin, sulku
+
+@RUOTSI_A = Operation för fistel från arteria pulmonalis
+
+@ENGL_A = Closure of fistula of pulmonary artery
+
+@END = 
+
+@KOODI = FBN00 
+
+@NCSP = FBSN00
+
+@SUOMI = Keuhkovaltimon ja oikean eteisen välisen avanteen sulku
+
+@RUOTSI = Tillslutning av fistel från arteria pulmonalis till förmak
+
+@END = 
+
+@KOODI = FBN10 
+
+@NCSP = FBSN10
+
+@SUOMI = Keuhkovaltimon arteriövenöösin avanteen sulku
+
+@RUOTSI = Tillslutning av arteriovenös fistel från arteria pulmonalis
+
+@END = 
+
+@KOODI = FBN96 
+
+@NCSP = FBSN96
+
+@SUOMI = Muu keuhkovaltimoavanteen sulku
+
+@RUOTSI = Annan operation för fistel från arteria pulmonalis
+
+@END = 
+
+@KOODI_A = FBW
+
+@NCSP_A = FBSW
+
+@SUOMI_A = Muut keuhkovaltimon ja sen haarojen leikkaukset
+
+@RUOTSI_A = Övriga operationer på arteria pulmonalis och dess grenar
+
+@ENGL_A = Other operations on pulmonary artery and branches
+
+@END = 
+
+@KOODI = FBW96 
+
+@NCSP = FBSW96
+
+@SUOMI = Muu keuhkovaltimon ja sen haarojen leikkaus
+
+@RUOTSI = Övriga operationer på arteria pulmonalis eller dess grenar
+
+@END = 
+
+@KOODI_A = FB_
+
+@NCSP_A = FBX
+
+@SUOMI_A = Muut keuhkovaltimoiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på lungartärer
+
+@ENGL_A = Other procedures on pulmonary artery and branches
+
+@END = 
+
+@KOODI = TFB00 
+
+@NCSP = FBXX00
+
+@SUOMI = Keuhkovaltimokatetrin asennus
+
+@RUOTSI = Katetrisering av lunartär
+
+@END = 
+
+@KOODI_R = FC
+
+@SUOMI_R = Aortta rintaontelossa
+
+@RUOTSI_R = Torakal och torakoabdominal aorta
+
+@ENGL_R = Thoracic and thoracoabdominal aorta
+
+@NOTE_RF = Anomaliat kohdassa FD
+
+@NOTE_RF =
+Aorttaläppä kohdassa FM
+
+@NOTE_RS = Anomalier, se FD
+
+@NOTE_RS =
+Operationer på aortaklaffen, se FM
+
+@END = 
+
+@KOODI_A = FC_
+
+@NCSP_A = FCD
+
+@SUOMI_A = Rinta-aortan diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av thorakal aorta
+
+@ENGL_A = Diagnostic radiology of thoracal aorta
+
+@NOTE_RF = Vatsa-aortta ja aortta kokonaisuudessaan (mm magneettitutkimukset) kohdassa PC
+
+@NOTE_RS = Bukaorta och aorta som helhet (t.ex MR undersökningar), se PC
+
+@END = 
+
+@KOODI = FC1AC 
+
+@NCSP = FCDC1A
+
+@SUOMI = Rinta-aortan varjoainetutkimus
+
+@RUOTSI = Aortabågen, kontrastundersökning
+
+@NOTE_F = Esim. aneurysman selvittämiseksi
+
+@NOTE_S = T.ex. för att utreda aneurysm
+
+@END = 
+
+@KOODI = FC1BC 
+
+@NCSP = FCDC1A
+
+@SUOMI = Rinta-aortan laaja varjoainetutkimus
+
+@RUOTSI = Aortabågen, omfattande kontrastundersökning
+
+@NOTE_F = Perustutkimus ja 1-2 lisäruiskutusta eri projektioissa
+
+@NOTE_S = Grundundersökning med 1-2 tilläggsinjektioner i olika projektioner
+
+@END = 
+
+@KOODI = FC1CC 
+
+@NCSP = FCDC1A
+
+@SUOMI = Rinta-aortan erittäin laaja varjoainetutkimus
+
+@RUOTSI = Aortabågen, mycket omfattande kontrastundersökning
+
+@NOTE_F = Perustutkimus ja 3 tai useampia lisäruiskutuksia eri projektioissa
+
+@NOTE_S = Grundundersökning med 3 eller mera tilläggsinjektioner i olika projektioner
+
+@END = 
+
+@KOODI = PC1AD 
+
+@NCSP = FCDD1A
+
+@SUOMI = Rinta-aortan TT
+
+@RUOTSI = Bröstaortas DT
+
+@END = 
+
+@KOODI = PC1BD 
+
+@NCSP = FCDD1A
+
+@SUOMI = Rinta-aortan laaja TT
+
+@RUOTSI = Bröstaortas omfattande DT
+
+@END = 
+
+@KOODI_A = FC_
+
+@NCSP_A = FCSA
+
+@SUOMI_A = Rinta- ja rinta-vatsa-aortan ompelu, osittainen poisto ja korjaus paikalla
+
+@RUOTSI_A = Sutur, partiell resektion och rekonstruktion med patch av torakal och torakoabdominal aorta
+
+@ENGL_A = Repair of thoracic aorta
+
+@END = 
+
+@KOODI = FCA00 
+
+@NCSP = FCSA00
+
+@SUOMI = Nousevan aortan ompelu
+
+@RUOTSI = Sutur av aorta ascendens
+
+@END = 
+
+@KOODI = FCA10 
+
+@NCSP = FCSA02
+
+@SUOMI = Nousevan aortan katkaisu ja ompelu
+
+@RUOTSI = Rekonstruktion av aorta ascendens med delning och sutur
+
+@END = 
+
+@KOODI = FCA20 
+
+@NCSP = FCSA04
+
+@SUOMI = Nousevan aortan ympäri tukeminen
+
+@RUOTSI = Förstärkning av aorta ascendens genom "wrapping"
+
+@END = 
+
+@KOODI = FCA30 
+
+@NCSP = FCSA06
+
+@SUOMI = Nousevan aortan seinämän poisto ja ompelu
+
+@RUOTSI = Partiell resektion och sutur av aorta ascendens
+
+@END = 
+
+@KOODI = FCA40 
+
+@NCSP = FCSA08
+
+@SUOMI = Nousevan aortan korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av aorta ascendens med patch
+
+@END = 
+
+@KOODI = FCB00 
+
+@NCSP = FCSA20
+
+@SUOMI = Aortan kaaren korjaus ompelemalla
+
+@RUOTSI = Rekonstruktion av aortabågen med sutur
+
+@END = 
+
+@KOODI = FCB10 
+
+@NCSP = FCSA22
+
+@SUOMI = Aortan kaaren katkaisu ja ompelu
+
+@RUOTSI = Rekonstruktion av aortabågen med delning och sutur
+
+@END = 
+
+@KOODI = FCB20 
+
+@NCSP = FCSA26
+
+@SUOMI = Aortan kaaren seinämän poisto ja ompelu
+
+@RUOTSI = Partiell resektion och sutur av aortabågen
+
+@END = 
+
+@KOODI = FCB30 
+
+@NCSP = FCSA28
+
+@SUOMI = Aortan kaaren vahvistaminen paikkaamalla
+
+@RUOTSI = Rekonstruktion av aortabågen med patch
+
+@END = 
+
+@KOODI = FCC00 
+
+@NCSP = FCSA40
+
+@SUOMI = Laskevan aortan ompelu
+
+@RUOTSI = Rekonstruktion av aorta descendens med sutur
+
+@END = 
+
+@KOODI = FCC10 
+
+@NCSP = FCSA42
+
+@SUOMI = Laskevan aortan vahvistaminen ompelemalla
+
+@RUOTSI = Rekonstruktion av aorta descendens med delning och sutur
+
+@END = 
+
+@KOODI = FCC30 
+
+@NCSP = FCSA46
+
+@SUOMI = Laskevan aortan seinämän poisto ja ompelu
+
+@RUOTSI = Partiell resektion och sutur av aorta descendens
+
+@END = 
+
+@KOODI = FCC40 
+
+@NCSP = FCSA48
+
+@SUOMI = Laskevan aortan korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av aorta descendens med patch
+
+@END = 
+
+@KOODI = FCD00 
+
+@NCSP = FCSA60
+
+@SUOMI = Rinta-vatsa-aortan ompelu
+
+@RUOTSI = Sutur av torakoabdominala aorta
+
+@END = 
+
+@KOODI = FCD10 
+
+@NCSP = FCSA64
+
+@SUOMI = Rinta-vatsa-aortan vahvistaminen ompelemalla
+
+@RUOTSI = Förstärkning av torakoabdominala aorta med sutur
+
+@END = 
+
+@KOODI = FCD40 
+
+@NCSP = FCSA66
+
+@SUOMI = Rinta-vatsa-aortan seinämän poisto ja ompelu
+
+@RUOTSI = Partiell resektion och sutur av torakoabdominala aorta
+
+@END = 
+
+@KOODI = FCD30 
+
+@NCSP = FCSA68
+
+@SUOMI = Rinta-vatsa-aortan korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av torakoabdominala aorta med patch
+
+@END = 
+
+@KOODI_A = FC_
+
+@NCSP_A = FCSB
+
+@SUOMI_A = Rinta- ja rinta-vatsa-aortan korjaus proteesilla, ohitus tai stentin asettaminen
+
+@RUOTSI_A = Resektion och rekonstruktion med protees, by-pass eller stent av torakal och torakoabdominal aorta
+
+@ENGL_A = Repair of aortic arch
+
+@NOTE_RF = Aortan kaaren ohitus laskevaan aorttaan kohdassa FCC70
+
+@NOTE_RS = By-pass av aortabågen till aorta descendens, se FCC70
+
+@END = 
+
+@KOODI = FCA60 
+
+@NCSP = FCSB00
+
+@SUOMI = Aortan tyven korjaaminen, sepelvaltimoistutus ja mekaaninen läppä
+
+@RUOTSI = Resektion av aortaroten och aorta ascendens med reimplantation av koronarartärer och användande av klaffbärande kärlprotes
+
+@NOTE_F = a.m. Bentall-deBono, Cabrol
+
+@END = 
+
+@KOODI = FCA70 
+
+@NCSP = FCSB02
+
+@SUOMI = Aortan tyven korjaaminen, sepelvaltimoistutus ja bioläppä (Bentall-deBono)
+
+@RUOTSI = Resektion av aortaroten och aorta ascendens med reimplantation av koronarartärer och användande av biologisk klaff och kärlprotes
+
+@NOTE_F = a.m. Bentall-deBono, Cabrol
+
+@END = 
+
+@KOODI = FCA50 
+
+@NCSP = FCSB08
+
+@SUOMI = Nousevan aortan korjaus proteesilla
+
+@RUOTSI = Resektion och rekonstruktion av aorta ascendens med kärlprotes
+
+@END = 
+
+@KOODI = FCA45 
+
+@NCSP = FCSB12
+
+@SUOMI = Stentin asentaminen nousevaan aorttaan suonensisäisesti
+
+@RUOTSI = Perkutan insertion av stent i aortta ascendes
+
+@END = 
+
+@KOODI = FCB40 
+
+@NCSP = FCSB20
+
+@SUOMI = Aortan kaaren korjaus proteesilla
+
+@RUOTSI = Resektion och rekonstruktion av aortabågen med kärlprotes
+
+@END = 
+
+@KOODI = FCC70 
+
+@NCSP = FCSB22
+
+@SUOMI = Aortan kaaren ohitus proteesilla
+
+@RUOTSI = By-pass av aortabågen medelst protes
+
+@NOTE_F = Sisältää aortan sitomisen tai resekoinnin
+
+@NOTE_S = Inkl ligatur eller resektion av aorta
+
+@END = 
+
+@KOODI = FCB50 
+
+@NCSP = FCSB26
+
+@SUOMI = Aortan kaaren proteesi ja lähtevien valtimoiden istutus
+
+@RUOTSI = Resektion av aortabågen, rekonstruktion med protes och reimplantation av grenar
+
+@NOTE_F = Sisältää mahdollisen verisuoniproteesiin käytön
+
+@NOTE_S = Inkl användande av kärlprotes
+
+@END = 
+
+@KOODI = FCB35 
+
+@NCSP = FCSB32
+
+@SUOMI = Stentin asentaminen aortan kaareen suonensisäisesti
+
+@RUOTSI = Perkutan insertion av stent i aorttabågen
+
+@END = 
+
+@KOODI = FCC50 
+
+@NCSP = FCSB40
+
+@SUOMI = Laskevan aortan korjaus proteesilla
+
+@RUOTSI = Resektion och rekonstruktion av aorta descendens med kärlprotes
+
+@END = 
+
+@KOODI = FCC76 
+
+@NCSP = FCSB42
+
+@SUOMI = Laskevan aortan ohitus proteesilla
+
+@RUOTSI = By-pass av aorta descendens med protes
+
+@NOTE_F = Sisältää aortan sitomisen tai resekoinnin
+
+@NOTE_S = Inkl ligatur eller resektion av aorta
+
+@END = 
+
+@KOODI = FCC60 
+
+@NCSP = FCSB46
+
+@SUOMI = Laskevan aortan korjaus proteesilla ja haarojen istutus
+
+@RUOTSI = Resektion/rekonstruktion av aorta descendens med reimplantation av grenar
+
+@NOTE_F = Sisältää kaulasuonten ja/tai interkostaaliarterioiden uudelleen istutuksen sekä verisuoniproteesin käytön
+
+@NOTE_S = Inkl reimplantation av halskärl och/eller intercostalartärer samt användande av kärlprotes
+
+@END = 
+
+@KOODI = FCC45 
+
+@NCSP = FCSB52
+
+@SUOMI = Stentin asentaminen laskevaan aorttaan
+
+@RUOTSI = Perkutan insertion av stent i aorta descendens
+
+@END = 
+
+@KOODI = FCD50 
+
+@NCSP = FCSB60
+
+@SUOMI = Rinta-vatsa-aortan korjaus proteesilla
+
+@RUOTSI = Resektion och rekonstruktion av torakoabdominala aorta med kärlprotes
+
+@END = 
+
+@KOODI = FCD70 
+
+@NCSP = FCSB62
+
+@SUOMI = Rinta-vatsa-aortan ohitus proteesilla
+
+@RUOTSI = By-pass av torakoabdominala aorta med kärlprotes
+
+@NOTE_F = Sisältää sisäelinvaltimoiden ja/tai interkostaalivaltimoiden uudelleen istutuksen sekä verisuoniproteesin käytön
+
+@NOTE_F =
+Aortan kaaren ohitus kohdassa FCC70
+
+@NOTE_F =
+Laskevan aortan ohitus kohdassa FCC76
+
+@NOTE_S = Inkl ligatur eller resektion av aorta
+
+@NOTE_S =
+By-pass av aortabågen, se FCC70
+
+@NOTE_S =
+By-pass av aorta descendes, se FCC76
+
+@END = 
+
+@KOODI = FCD60 
+
+@NCSP = FCSB66
+
+@SUOMI = Rinta-vatsa-aortan korjaus proteesilla ja haarojen istutus
+
+@RUOTSI = Resektion/rekonstruktion av torakoabd aorta med reimplantation av grenar
+
+@NOTE_S = Inkl reimplantation av viscerala och/eller intercostala artärer samt användande av kärlprotes
+
+@END = 
+
+@KOODI = FCD35 
+
+@NCSP = FCSB70
+
+@SUOMI = Rinta-vatsa-aortan korjaus stentillä iholta käsin
+
+@RUOTSI = Perkutant inläggande av stent i torakoabdominala aorta
+
+@END = 
+
+@KOODI_A = FC_
+
+@NCSP_A = FCSC
+
+@SUOMI_A = Rinta- ja rinta-vatsa-aortan vierasesineen poistot
+
+@RUOTSI_A = Avlägsnande av främmande föremål från torakal och torakoabdominal aorta
+
+@ENGL_A = Repair of descending aorta
+
+@END = 
+
+@KOODI = FCA83 
+
+@NCSP = FCSC02
+
+@SUOMI = Vierasesineen poisto nousevasta aortasta
+
+@RUOTSI = Avlägsnande av främmande föremål från aorta ascendes
+
+@END = 
+
+@KOODI = FCA84 
+
+@NCSP = FCSC02
+
+@SUOMI = Vierasesineen poisto nousevasta aortasta suonensisäisesti
+
+@RUOTSI = Perkutan avlägsnande av främmande kropp från aorta ascendes
+
+@END = 
+
+@KOODI = FCB80 
+
+@NCSP = FCSC20
+
+@SUOMI = Vierasesineen poisto aortankaaresta
+
+@RUOTSI = Avlägsnande av främmande kropp från aortabågen
+
+@END = 
+
+@KOODI = FCB82 
+
+@NCSP = FCSC22
+
+@SUOMI = Vierasesineen poisto aortankaaresta suonensisäisesti
+
+@RUOTSI = Perkutan avlägsnande av främmande kropp från aortabågen
+
+@END = 
+
+@KOODI = FCC80 
+
+@NCSP = FCSC40
+
+@SUOMI = Vierasesineen poista laskevasta aortasta
+
+@RUOTSI = Avlägsnande av främmande kropp från aorta descendens
+
+@END = 
+
+@KOODI = FCC82 
+
+@NCSP = FCSC42
+
+@SUOMI = Vierasesineen poisto laskevasta aortasta suonensisäisesti
+
+@RUOTSI = Perkutan avlägsnande av främmande kropp från aorta descendes
+
+@END = 
+
+@KOODI = FCD80 
+
+@NCSP = FCSC60
+
+@SUOMI = Vierasesineen poisto rinta-vatsa-aortasta
+
+@RUOTSI = Avlägsnande av främmande kropp från torakoabdominal aorta
+
+@END = 
+
+@KOODI = FCD82 
+
+@NCSP = FCSC62
+
+@SUOMI = Vierasesineen poisto rinta-vatsa-aortasta suonensisäisesti
+
+@RUOTSI = Perkutan avlägsnande av främmande kropp från torakoabdominal aorta
+
+@END = 
+
+@KOODI_A = FC_
+
+@NCSP_A = FCSD
+
+@SUOMI_A = Rinta- ja rinta-vatsa-aortan muut korjaukset
+
+@RUOTSI_A = Andra rekonstruktioner av torakal och torakoabdominal aorta
+
+@ENGL_A = Repair of thoracoabdominal aorta
+
+@END = 
+
+@KOODI = FCA96 
+
+@NCSP = FCSD00
+
+@SUOMI = Muu nousevan aortan korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av aorta ascendens
+
+@END = 
+
+@KOODI = FCB96 
+
+@NCSP = FCSD20
+
+@SUOMI = Muu aortan kaaren korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av aortabågen
+
+@END = 
+
+@KOODI = FCC96 
+
+@NCSP = FCSD40
+
+@SUOMI = Muu laskevan aortan korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av aorta descendens
+
+@END = 
+
+@KOODI = FCD96 
+
+@NCSP = FCSD60
+
+@SUOMI = Muu rinta-vatsa-aortan korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av torakoabdominala aorta
+
+@END = 
+
+@KOODI_A = FC_
+
+@NCSP_A = FCSE
+
+@SUOMI_A = Aortasta lähtevien avanteiden sulkuleikkaukset
+
+@RUOTSI_A = Tillslutning av förvärvad fistel från aorta
+
+@ENGL_A = Closure of acquired fistula from aorta
+
+@END = 
+
+@KOODI = FCE00 
+
+@NCSP = FCSE00
+
+@SUOMI = Revenneen sinus Valsalvan aneurysman sulku
+
+@RUOTSI = Tillslutning av rupturerat sinus Valsalva-aneurysm
+
+@END = 
+
+@KOODI = FCE10 
+
+@NCSP = FCSE10
+
+@SUOMI = Aortan ja laskimon välisen avanteen sulku
+
+@RUOTSI = Tillslutning av aorto-venös fistel
+
+@END = 
+
+@KOODI = FCE20 
+
+@NCSP = FCSE20
+
+@SUOMI = Aortan ja keuhkovaltimon välisen avanteen sulku
+
+@RUOTSI = Tillslutning av aorto-pulmonell fistel
+
+@NOTE_F = Valtimotiehyt kohdassa FDE
+
+@NOTE_S = Ductus arteriosus, se FDE
+
+@END = 
+
+@KOODI = FCE30 
+
+@NCSP = FCSE30
+
+@SUOMI = Aortan ja keuhkoputken välisen avanteen sulku
+
+@RUOTSI = Tillslutning av aorto-bronkial fistel
+
+@END = 
+
+@KOODI = FCE40 
+
+@NCSP = FCSE40
+
+@SUOMI = Aortan ja suolen välisen avanteen sulku
+
+@RUOTSI = Tillslutning av aorto-enterisk fistel
+
+@END = 
+
+@KOODI = FCE96 
+
+@NCSP = FCSE96
+
+@SUOMI = Muun aortan avanteen sulku
+
+@RUOTSI = Annan tillslutning av fistel från aorta
+
+@END = 
+
+@KOODI_A = FCW
+
+@NCSP_A = FCSW
+
+@SUOMI_A = Muut rinta-aortan tai rinta-vatsa-aortan leikkaukset
+
+@RUOTSI_A = Andra operationer på torakala och torakoabdominala aorta
+
+@ENGL_A = Other operations on thoracic or thoracoabdominal aorta
+
+@END = 
+
+@KOODI = FCW96 
+
+@NCSP = FCSW96
+
+@SUOMI = Muu rinta-aortan tai rinta-vatsa-aortan leikkaus
+
+@RUOTSI = Andra operationer på torakala och torakoabdominala aorta
+
+@END = 
+
+@KOODI_R = FD
+
+@SUOMI_R = Aortta rintaontelossa, synnynnäiset viat
+
+@RUOTSI_R = Anomalier och defekter med relation till bröstaorta
+
+@ENGL_R = Malformations relating to thoracic aorta
+
+@NOTE_RF = Keuhkovaltimokiertymä kohdassa FBH
+
+@NOTE_RF =
+Solis-keuhkovaltimoanastomoositoimenpiteet kohdassa FBJ
+
+@NOTE_RF =
+Aortan ja keuhkovaltimon yhdistäminen kohdassa FBL
+
+@NOTE_RF =
+Aortan haaroista lähtevien valtimoiden leikkaukset luvussa P
+
+@NOTE_RS = Pulmonell kärlslynga, se FBH
+
+@NOTE_RS =
+Subklavio-pulmonella shuntoperationer, se FBJ
+
+@NOTE_RS =
+Aorto-pulmonell shunt, se FBL
+
+@NOTE_RS =
+Operationer på artärer avgående från aortabågen, exklusive aorto-pulmonell shunt, se P
+
+@END = 
+
+@KOODI_A = FDA
+
+@NCSP_A = FDSA
+
+@SUOMI_A = Vajaakasvuisen vasemman kammion vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operation för HLHS
+
+@ENGL_A = Operations for hypoplastic left heart syndrome
+
+@NOTE_RF = HLH = Hypoplastic Left Heart
+
+@END = 
+
+@KOODI = FDA00 
+
+@NCSP = FDSA00
+
+@SUOMI = Aortan  muovaus ja yhdystie keuhkovaltimoon
+
+@RUOTSI = Aortaplastik och aorto-pulmonell shunt
+
+@NOTE_F = Norwood I vaihe
+
+@NOTE_S = Norwood steg 1
+
+@END = 
+
+@KOODI = FDA96 
+
+@NCSP = FDSA96
+
+@SUOMI = Muu HLH-oireyhtymän vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation för HLHS
+
+@END = 
+
+@KOODI_A = FDB
+
+@NCSP_A = FDSB
+
+@SUOMI_A = Suurten suonten vaihdot valtasuonten vaihtumisen vuoksi
+
+@RUOTSI_A = Operation för TGA
+
+@ENGL_A = Operations for transposition of the great arteries
+
+@NOTE_RF = TGA = Transpostion of Great Arteries
+
+@NOTE_RF =
+Ns. switch -leikkaukset
+
+@NOTE_RF =
+Eteistason leikkaukset TGA:ssa kohdassa FFJ
+
+@NOTE_RS = Switch -operationer
+
+@NOTE_RS =
+Förmaksoperationer för TGA, se FFJ
+
+@END = 
+
+@KOODI = FDB00 
+
+@NCSP = FDSB00
+
+@SUOMI = Yksinkertaisen TGA:n korjaus
+
+@RUOTSI = Operation för enkel TGA
+
+@NOTE_F = Sisältää duktus arteriosuksen sulkemisen
+
+@NOTE_S = Ink. tillslutning av ductus arteriosus
+
+@END = 
+
+@KOODI = FDB10 
+
+@NCSP = FDSB10
+
+@SUOMI = Vaikean TGA:n korjaus
+
+@RUOTSI = Operation för komplicerad TGA
+
+@NOTE_F = Sisältää esim. VSD:n sulkemisen
+
+@NOTE_S = Inkl tillslutning av VSD etc
+
+@END = 
+
+@KOODI = FDB20 
+
+@NCSP = FDSB20
+
+@SUOMI = Arterial switch-leikkaus synnynnäisen sydänvian vuoksi
+
+@RUOTSI = Switch-operation för annan medfödd hjärtmissbildning
+
+@END = 
+
+@KOODI = FDB96 
+
+@NCSP = FDSB96
+
+@SUOMI = Muu suurten suonten vaihto, switch, valtasuonten vaihtumisen vuoksi
+
+@RUOTSI = Annan operation för TGA
+
+@END = 
+
+@KOODI_A = FDC
+
+@NCSP_A = FDSC
+
+@SUOMI_A = Yhteisen valtimorungon (TA) korjaukset
+
+@RUOTSI_A = Operation för truncus arteriosus communis
+
+@ENGL_A = Repair of persistent truncus arteriosus
+
+@NOTE_RF = Sis. VSD:n sulkemisen
+
+@NOTE_RS = Inkl. tillslutning av VSD
+
+@END = 
+
+@KOODI = FDC00 
+
+@NCSP = FDSC00
+
+@SUOMI = Jakautumattoman yhteisen valtimorungon (truncus arteriosus) korjaus proteesilla oikeasta kammiosta keuhkovaltimoon
+
+@RUOTSI = Korr. av trunc. art. comm. med enkel protes från hö. kammare till a. pulmonalis
+
+@END = 
+
+@KOODI = FDC10 
+
+@NCSP = FDSC10
+
+@SUOMI = Jakautumattoman yhteisen valtimotiehyen (truncus arteriosus) korjaus käyttäen lisäksi läppäproteesia
+
+@RUOTSI = Korrektion av truncus arteriosus communis med klaffbärande protes
+
+@END = 
+
+@KOODI = FDC20 
+
+@NCSP = FDSC20
+
+@SUOMI = Jakautumattoman yhteisen valtimorungon (truncus arteriosus) korjaus yhdistämällä keuhkovaltimo oikeaan kammion
+
+@RUOTSI = Korrektion av truncus arteriosus med anastamos från pulmonal artär till högra kammaren
+
+@END = 
+
+@KOODI = FDC96 
+
+@NCSP = FDSC96
+
+@SUOMI = Muu jakautumattoman yhteisen valtimorungon (truncus arteriosus) korjausleikkaus
+
+@RUOTSI = Annan korrektion av truncus arteriosus communis
+
+@END = 
+
+@KOODI_A = FDD
+
+@NCSP_A = FDSD
+
+@SUOMI_A = Aortasta lähtevän synnynnäisen avanteen korjaukset
+
+@RUOTSI_A = Tillslutning av kongenital fistel från aorta
+
+@ENGL_A = Closure of congenital fistula from aorta
+
+@END = 
+
+@KOODI = FDD00 
+
+@NCSP = FDSD00
+
+@SUOMI = Aortan ja kammion välisen avanteen sulku
+
+@RUOTSI = Tillslutning av aorto-ventrikulär tunnel
+
+@END = 
+
+@KOODI = FDD10 
+
+@NCSP = FDSD10
+
+@SUOMI = Aortan ja keuhkovaltimon välisen avanteen sitominen
+
+@RUOTSI = Ligatur av aorto-pulmonell fistel
+
+@END = 
+
+@KOODI = FDD13 
+
+@NCSP = FDSD13
+
+@SUOMI = Aortan ja keuhkovaltimon välisen avanteen sulku ompeleella
+
+@RUOTSI = Tillslutning av aorto-pulmonellt fönster medelst sutur
+
+@END = 
+
+@KOODI = FDD20 
+
+@NCSP = FDSD20
+
+@SUOMI = Aortan ja keuhkovaltimon välisen avanteen sulku paikkaamalla
+
+@RUOTSI = Tillslutning av aorto-pulmonellt fönster med patch
+
+@END = 
+
+@KOODI = FDD96 
+
+@NCSP = FDSD96
+
+@SUOMI = Muu aortasta lähtevän synnynnäisen avanteen korjausleikkaus
+
+@RUOTSI = Annan operation för kongenital fistel från aorta
+
+@END = 
+
+@KOODI_A = FDE
+
+@NCSP_A = FDSE
+
+@SUOMI_A = Avoimen valtimotiehyeen (DA), sulkemiset
+
+@RUOTSI_A = Tillslutning av ductus arteriosus
+
+@ENGL_A = Closure of patent ductus arteriosus
+
+@END = 
+
+@KOODI = FDE00 
+
+@NCSP = FDSE00
+
+@SUOMI = Valtimotiehyeen sulku keskosella
+
+@RUOTSI = Tillslutning av ductus arteriosus hos prematur
+
+@END = 
+
+@KOODI = FDE10 
+
+@NCSP = FDSE10
+
+@SUOMI = Valtimotiehyeen sitominen
+
+@RUOTSI = Ligatur av ductus arteriosus
+
+@END = 
+
+@KOODI = FDE20 
+
+@NCSP = FDSE20
+
+@SUOMI = Valtimotiehyeen katkaisu
+
+@RUOTSI = Delning av ductus arteriosus
+
+@END = 
+
+@KOODI = FDE31 
+
+@NCSP = FDSE31
+
+@SUOMI = Valtimotiehyeen sulku torakoskooppisesti
+
+@RUOTSI = Torakoskopic tillslutning av ductus arteriosus
+
+@END = 
+
+@KOODI = FDE32 
+
+@NCSP = FDSE32
+
+@SUOMI = Valtimotiehyeen sulku suonensisäisesti
+
+@RUOTSI = Perkutan transluminal tillslutning av ductus arteriosus
+
+@NOTE_F = Sisältää sateenvarjolaitteen käytön
+
+@NOTE_S = Inkluderar användling av paraply apparat
+
+@END = 
+
+@KOODI = FDE96 
+
+@NCSP = FDSE96
+
+@SUOMI = Muu valtimotiehyeen sulkemisleikkaus
+
+@RUOTSI = Annan operation vid ductus arteriosus
+
+@END = 
+
+@KOODI_A = FDF
+
+@NCSP_A = FDSF
+
+@SUOMI_A = Aortta-keuhkovaltimoyhdyshaarojen sulut ilman unifokalisointia
+
+@RUOTSI_A = Tillslutning av aorto-pulmonella kollateraler
+
+@ENGL_A = Closure of aorto-pulmonary collaterals
+
+@NOTE_RF = MAPCA:n unifokalisointi kohdassa FBG
+
+@NOTE_RS = Unifokalisering vid MAPCA, se FBG
+
+@END = 
+
+@KOODI = FDF00 
+
+@NCSP = FDSF00
+
+@SUOMI = Aortta-keuhkovaltimoyhdyshaarojen sulku, ei unifokalisointia
+
+@RUOTSI = Tillslutning av aorto-pulmonella kollateraler
+
+@END = 
+
+@KOODI = FDF05 
+
+@NCSP = FDSF05
+
+@SUOMI = Suonensisäinen aortan ja keuhkovaltimoiden välisten kollateraalien sulkeminen
+
+@RUOTSI = Perkutan transluminal occlusion av aorto-pulmonära kollateraler
+
+@END = 
+
+@KOODI_A = FDG
+
+@NCSP_A = FDSG
+
+@SUOMI_A = Aorttaläpän yläpuolisen ahtauman korjaukset
+
+@RUOTSI_A = Operation vid supravalvulär aortastenos
+
+@ENGL_A = Operations for supravalvular aortic stenosis
+
+@END = 
+
+@KOODI = FDG00 
+
+@NCSP = FDSG00
+
+@SUOMI = Nousevan aortan uudelleen muotoilu aortta-ahtauman vuoksi
+
+@RUOTSI = Rekonstruktion av aorta ascendens vid supravalvulär aortastenos
+
+@END = 
+
+@KOODI = FDG10 
+
+@NCSP = FDSG10
+
+@SUOMI = Nousevan aortan korjaus aortta-ahtauman vuoksi paikkaamalla
+
+@RUOTSI = Rekonstruktion av aorta ascendens med pathc vid supravalvulär aortastenos
+
+@END = 
+
+@KOODI = FDG96 
+
+@NCSP = FDSG96
+
+@SUOMI = Muu läpän yläpuolisen aortta-ahtauman korjausleikkaus
+
+@RUOTSI = Annan operation vid supravalvulär aortastenos
+
+@END = 
+
+@KOODI_A = FDH
+
+@NCSP_A = FDSH
+
+@SUOMI_A = Aortan kaaren atresian tai hypoplasian (IAA) korjaukset
+
+@RUOTSI_A = Rekonstruktion vid hypoplasi eller atresi av aortabågen
+
+@ENGL_A = Operations for interrupted or hypoplastic aortic arch
+
+@NOTE_RF = IAA=Interrupted aortic arch
+
+@END = 
+
+@KOODI = FDH00 
+
+@NCSP = FDSH00
+
+@SUOMI = Aortan kaaren (IAA) korjaus end-to-end
+
+@RUOTSI = End-to-end rekonstruktion av aortabågen
+
+@END = 
+
+@KOODI = FDH10 
+
+@NCSP = FDSH10
+
+@SUOMI = Aortan kaaren (IAA) korjaus paikkaamalla, patch
+
+@RUOTSI = Rekonstruktion av aortabågen med patch
+
+@END = 
+
+@KOODI = FDH30 
+
+@NCSP = FDSH30
+
+@SUOMI = Aortan kaaren (IAA) korjaus putkiproteesilla
+
+@RUOTSI = Rekonstruktion av aortabågen med rörformad protes by-pass
+
+@END = 
+
+@KOODI = FDH40 
+
+@NCSP = FDSH40
+
+@SUOMI = Aortan kaaren (IAA) korjaus ohitusleikkauksella
+
+@RUOTSI = Rekonstruktion av aortabågen medelst by-pass
+
+@END = 
+
+@KOODI = FDH96 
+
+@NCSP = FDSH96
+
+@SUOMI = Muu aortan kaaren (IAA) korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion vid hypoplasi eller atresi av aortabågen
+
+@END = 
+
+@KOODI_A = FDJ
+
+@NCSP_A = FDSJ
+
+@SUOMI_A = Aortan ahtauman korjaukset
+
+@RUOTSI_A = Rekonstruktion vid aortakoarktation
+
+@ENGL_A = Operations for coarctation of aorta
+
+@END = 
+
+@KOODI = FDJ00 
+
+@NCSP = FDSJ00
+
+@SUOMI = Aortan koarktaation korjaus 'end-to-end'
+
+@RUOTSI = End-to-end rekonstruktion vid aortakoarktation
+
+@END = 
+
+@KOODI = FDJ10 
+
+@NCSP = FDSJ10
+
+@SUOMI = Aortan koarktaation korjaus solis- tai kaulavaltimon avulla
+
+@RUOTSI = Aortaplastik med a. subclavia eller a. carotis
+
+@NOTE_F = Waldhausen tai vastaava
+
+@NOTE_S = Waldhausen eller liknande
+
+@END = 
+
+@KOODI = FDJ20 
+
+@NCSP = FDSJ20
+
+@SUOMI = Aortan koarktaation korjaus paikkaamalla
+
+@RUOTSI = Aortaplastik med patch vid koarktation
+
+@NOTE_F = Vosschulte tai vastaava
+
+@NOTE_S = Vosschulte eller liknande
+
+@END = 
+
+@KOODI = FDJ30 
+
+@NCSP = FDSJ30
+
+@SUOMI = Aortan koarktaation korjaus proteesilla
+
+@RUOTSI = Rekonstruktion vid aortakoarktation med kärlprotes
+
+@END = 
+
+@KOODI = FDJ42 
+
+@NCSP = FDSJ42
+
+@SUOMI = Aortan koarktaation suonensisäinen angioplastia
+
+@RUOTSI = Perkutan anioplasti för koarktation av aorta
+
+@END = 
+
+@KOODI = FDJ96 
+
+@NCSP = FDSJ96
+
+@SUOMI = Muu aortan koarktaation korjausleikkaus
+
+@RUOTSI = Annan korrektion av koarktation av aorta
+
+@END = 
+
+@KOODI_A = FDM
+
+@NCSP_A = FDSM
+
+@SUOMI_A = Verisuonirenkaan leikkaukset
+
+@RUOTSI_A = Operation vid kärlring
+
+@ENGL_A = Operation for vascular ring anomalies of aortic arch
+
+@END = 
+
+@KOODI = FDM00 
+
+@NCSP = FDSM00
+
+@SUOMI = Kaksoisaortan kaaren toisen haaran katkaisu
+
+@RUOTSI = Delning av kärlring vid dubbel aortabåge
+
+@END = 
+
+@KOODI = FDM10 
+
+@NCSP = FDSM10
+
+@SUOMI = Muun verisuonirenkaan kuin kaksoisaortan kaaren katkaisu
+
+@RUOTSI = Delning av annan kärlring
+
+@END = 
+
+@KOODI = FDM11 
+
+@NCSP = FDSM11
+
+@SUOMI = Muun verisuonirenkaan kuin kaksoisaortan kaaren katkaisu tähystyksessä
+
+@RUOTSI = Thorakoskopisk delning av annan kärlring
+
+@END = 
+
+@KOODI = FDM20 
+
+@NCSP = FDSM20
+
+@SUOMI = Verisuonen transpositio
+
+@RUOTSI = Transposition av artär
+
+@NOTE_F = esim. truncus brachiocephalicuksen sijainnin vuoksi
+
+@NOTE_S = Inkl av anomal truncus brachiocephalicus
+
+@END = 
+
+@KOODI = FDM96 
+
+@NCSP = FDSM96
+
+@SUOMI = Muu verisuonirenkaan leikkaus
+
+@RUOTSI = Annan operation vid kärlring
+
+@END = 
+
+@KOODI_A = FDN
+
+@NCSP_A = FDSN
+
+@SUOMI_A = Valtimotiehyeen leikkaukset, joilla tiehyt pidetään avoimena
+
+@RUOTSI_A = Operationer av ductus arteriosus att uppehålla d.a. öppen
+
+@ENGL_A = Operations on ductus arteriosus to maintain patency
+
+@END = 
+
+@KOODI = FDN02 
+
+@NCSP = FDSN02
+
+@SUOMI = Suonensisäinen stentin asettaminen valtimotiehyeeseen
+
+@RUOTSI = Perkutan transluminal installering av stent till ductus arteriosus
+
+@END = 
+
+@KOODI_A = FDW
+
+@NCSP_A = FDSW
+
+@SUOMI_A = Muut aortan synnynnäisten vikojen leikkaukset
+
+@RUOTSI_A = Andra operationer för anomalier och defekter med relation till bröstaorta
+
+@ENGL_A = Other operations for malformations of thoracic or thoracoabdominal aorta
+
+@END = 
+
+@KOODI = FDW96 
+
+@NCSP = FDSW96
+
+@SUOMI = Muu aortan synnynnäisen vian leikkaus
+
+@RUOTSI = Annan operation för  medfödd anomali av bröstaorta
+
+@END = 
+
+@KOODI_R = FE
+
+@SUOMI_R = Sydänpussi
+
+@RUOTSI_R = Perikardium
+
+@ENGL_R = Pericardium
+
+@END = 
+
+@KOODI_A = FE_
+
+@NCSP_A = FED
+
+@SUOMI_A = Sydänpussin diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av perikardium
+
+@ENGL_A = Diagnostic radiology of pericardium
+
+@END = 
+
+@KOODI = FE1AE 
+
+@NCSP = FEDE1A
+
+@SUOMI = Sydänpussin UÄ *
+
+@RUOTSI = Hjärtsäck, UL *
+
+@END = 
+
+@KOODI_A = FEA
+
+@NCSP_A = FESA
+
+@SUOMI_A = Sydänpussin kanavoinnit ulos
+
+@RUOTSI_A = Perkutant dränage av perikardiet
+
+@ENGL_A = Closed external drainage of pericardium
+
+@END = 
+
+@KOODI = FEA00 
+
+@NCSP = FESA00
+
+@SUOMI = Sydänpussin kanavointi iholle suljetusti
+
+@RUOTSI = Perkutant dränage av perikardiet
+
+@END = 
+
+@KOODI_A = FEB
+
+@NCSP_A = FESB
+
+@SUOMI_A = Sydänpussin aukaisuleikkaukset
+
+@RUOTSI_A = Perikardiotomi
+
+@ENGL_A = Pericardiotomy
+
+@NOTE_RF = Sydänpussin koepalan otot FEE
+
+@NOTE_RS = Biopsi av perikardium, se FEE
+
+@END = 
+
+@KOODI = FEB00 
+
+@NCSP = FESB00
+
+@SUOMI = Sydänpussin tutkimusleikkaus, eksploraatio
+
+@RUOTSI = Exploration av perikardiet
+
+@END = 
+
+@KOODI = FEB10 
+
+@NCSP = FESB10
+
+@SUOMI = Sydänpussin aukaisu ja kanavointi ulos
+
+@RUOTSI = Dekompression medelst perikardiotomi och dränage av perikardiet
+
+@NOTE_F = esim vamma
+
+@NOTE_S = T. ex. vid trauma
+
+@END = 
+
+@KOODI = FEB51 
+
+@NCSP = FESB51
+
+@SUOMI = Sydänpussin aukaisu rintaontelontähystyksessä
+
+@RUOTSI = Torakoskopisk perikardiotomi
+
+@END = 
+
+@KOODI = FEB96 
+
+@NCSP = FESB96
+
+@SUOMI = Muu sydänpussin aukaisuleikkaus
+
+@RUOTSI = Annan perikardiotomi
+
+@END = 
+
+@KOODI_A = FEC
+
+@NCSP_A = FESC
+
+@SUOMI_A = Sydänpussin kanavoinnit elimiston sisälle
+
+@RUOTSI_A = Intern perikardiostomi
+
+@ENGL_A = Internal pericardiostomy
+
+@END = 
+
+@KOODI = FEC00 
+
+@NCSP = FESC00
+
+@SUOMI = Sydänpussin kanavointi rintaonteloon
+
+@RUOTSI = Perikardio-pleurostomi
+
+@NOTE_F = Esim. vesisydänpussin yhteydessä
+
+@NOTE_S = T.ex. vid hydroperikardium
+
+@END = 
+
+@KOODI = FEC01 
+
+@NCSP = FESC01
+
+@SUOMI = Sydänpussin kanavointi rintaonteloon tähystyksessä
+
+@RUOTSI = Perikardio-pleurostomi vid mediastikopi
+
+@END = 
+
+@KOODI = FEC10 
+
+@NCSP = FESC10
+
+@SUOMI = Sydänpussin kanavointi vatsaonteloon
+
+@RUOTSI = Perikardio-peritoneostomi
+
+@END = 
+
+@KOODI = FEC96 
+
+@NCSP = FESC96
+
+@SUOMI = Muu sydänpussin kanavointileikaus elimistön sisälle
+
+@RUOTSI = Annan intern perikardiostomi
+
+@END = 
+
+@KOODI_A = FED
+
+@NCSP_A = FESD
+
+@SUOMI_A = Sydänpussin leikkaukset
+
+@RUOTSI_A = Operationer på perikardiet
+
+@ENGL_A = Repair of injury
+
+@END = 
+
+@KOODI = FED00 
+
+@NCSP = FESD00
+
+@SUOMI = Sydänpussin ompelu, tarvittaessa sydämen paikalleenpalautus
+
+@RUOTSI = Sutur av perikardiet  (inkl reposition av hjärtat)
+
+@END = 
+
+@KOODI = FED03 
+
+@NCSP = FESD03
+
+@SUOMI = Sydänpussin rekonstruoiminen paikkaa käyttäen
+
+@RUOTSI = Rekonstruktion av perikardium med patch
+
+@END = 
+
+@KOODI = FED10 
+
+@NCSP = FESD10
+
+@SUOMI = Sydänpussin ja pallean ompelu, tarvittaessa sisäelinten paikoilleenpalautus
+
+@RUOTSI = Sutur av perikardiet och diafragma (inkl reposistion av viscera)
+
+@END = 
+
+@KOODI = FED96 
+
+@NCSP = FESD96
+
+@SUOMI = Muu sydänpussin toimenpide
+
+@RUOTSI = Annan operation på perikardiet
+
+@END = 
+
+@KOODI_A = FEE
+
+@NCSP_A = FESE
+
+@SUOMI_A = Koepalan otot tai kasvaimen poistot sydänpussista
+
+@RUOTSI_A = Biopsi eller excision av patologisk förändring i perikardiet
+
+@ENGL_A = Biopsy or excision of lesion of pericardium
+
+@END = 
+
+@KOODI = FEE00 
+
+@NCSP = FESE00
+
+@SUOMI = Koepalan otto sydänpussista
+
+@RUOTSI = Biopsi av perikardiet
+
+@END = 
+
+@KOODI = FEE01 
+
+@NCSP = FESE01
+
+@SUOMI = Koepalan otto sydänpussista rintaontelontähystyksessä
+
+@RUOTSI = Torakoskopisk  biopsi av perikardiet
+
+@END = 
+
+@KOODI = FEE10 
+
+@NCSP = FESE10
+
+@SUOMI = Sydänpussin kasvaimen tai kudosvaurion poisto
+
+@RUOTSI = Excision av patologisk förändring i perikardiet
+
+@NOTE_F = Sisältää vierasesineen poiston
+
+@NOTE_S = Inkluderar avlägsnande av främmande kropp
+
+@END = 
+
+@KOODI = FEE96 
+
+@NCSP = FESE96
+
+@SUOMI = Muu sydänpussin aukaisuleikkaus
+
+@RUOTSI = Annan perikardiotomi
+
+@END = 
+
+@KOODI_A = FEF
+
+@NCSP_A = FESF
+
+@SUOMI_A = Sydänpussin poistoleikkaukset
+
+@RUOTSI_A = Resektion och exstirpation av perikardiet
+
+@ENGL_A = Resection or extirpation of pericardium
+
+@NOTE_RF = Keuhkonpoiston yhteydessä GDD20
+
+@NOTE_RF =
+Välikarsinaleikkauksessa GEB40
+
+@NOTE_RS = I samband med  utvidgad pneumektomi anges med kod GDD20
+
+@NOTE_RS =
+I samband med utvidgad extirpation av mediastinum anges med kod GEG40
+
+@END = 
+
+@KOODI = FEF00 
+
+@NCSP = FESF00
+
+@SUOMI = Sydänpussin osan poisto
+
+@RUOTSI = Partiell perikardektomi
+
+@END = 
+
+@KOODI = FEF10 
+
+@NCSP = FESF10
+
+@SUOMI = Sydänpussin poisto
+
+@RUOTSI = Subtotal perikardektomi
+
+@END = 
+
+@KOODI = FEF20 
+
+@NCSP = FESF20
+
+@SUOMI = Sydänpussin poisto ja kuorinta
+
+@RUOTSI = Perikardektomi med dekortikation av hjärtytan
+
+@END = 
+
+@KOODI = FEF31 
+
+@NCSP = FESF31
+
+@SUOMI = Sydänpussin poisto rintaontelontähystyksessä
+
+@RUOTSI = Torakoskopisk perikardektomi
+
+@END = 
+
+@KOODI = FEF96 
+
+@NCSP = FESF96
+
+@SUOMI = Muu sydänpussin poistoleikkaus
+
+@RUOTSI = Annan resektion eller exstirpation av perikardiet
+
+@END = 
+
+@KOODI_A = FEW
+
+@NCSP_A = FESW
+
+@SUOMI_A = Muut sydänpussin leikkaukset
+
+@RUOTSI_A = Andra operationer på perikardiet
+
+@ENGL_A = Other operations on pericardium
+
+@END = 
+
+@KOODI = FEW96 
+
+@NCSP = FESW96
+
+@SUOMI = Muu sydänpussin leikkaus
+
+@RUOTSI = Annan operation på perikardiet
+
+@END = 
+
+@KOODI_A = FE_
+
+@NCSP_A = FEX
+
+@SUOMI_A = Muut sydänpussin toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på perikardiet
+
+@ENGL_A = Other procedures on pericardium
+
+@END = 
+
+@KOODI = FE1AT 
+
+@NCSP = FEX000
+
+@SUOMI = Sydänpussin punktio UÄ-ohjauksessa
+
+@RUOTSI = Perikardiepunktion, UL-styrd
+
+@END = 
+
+@KOODI = TFE00 
+
+@NCSP = FEX000
+
+@SUOMI = Sydänpussiin pisto
+
+@RUOTSI = Perikardiocentes
+
+@NOTE_F = Sisältää katerin asettamisen sydänpussiin
+
+@NOTE_F =
+Radiologisessa ohjauksessa tehty toimenpide, katso FE1AT, FE2AT, FE2BT, FE2CT tai FE2FT (radiologian luokitus)
+
+@NOTE_S = Inkluderar insättelse av kateter i perikardiet
+
+@NOTE_S =
+Med radiologisk utstyrning, se FE1AT, FE2AT, FE2BT, FE2CT eller FE2FT (klassifikation för radiologi)
+
+@END = 
+
+@KOODI = FE2AT 
+
+@NCSP = FEX002
+
+@SUOMI = Sydänpussin kanavointi UÄ-ohjauksessa
+
+@RUOTSI = Perikardiedränage, UL-styrt
+
+@END = 
+
+@KOODI = FE2BT 
+
+@NCSP = FEX002
+
+@SUOMI = Sydänpussin kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Perikardiedränage, genomlysningsstyrt
+
+@END = 
+
+@KOODI = FE2CT 
+
+@NCSP = FEX002
+
+@SUOMI = Sydänpussin kanavointi TT-ohjauksessa
+
+@RUOTSI = Perikardiedränage, DT-styrt
+
+@END = 
+
+@KOODI = FE2FT 
+
+@NCSP = FEX002
+
+@SUOMI = Sydänpussin katetrin vaihto muussa ohjauksessa
+
+@RUOTSI = Perikardiedrän byte med annan styrning
+
+@END = 
+
+@KOODI_R = FF
+
+@SUOMI_R = Sydämen eteinen, eteisväliseinä ja keuhkolaskimot
+
+@RUOTSI_R = Förmak, förmaksseptum och lungvener
+
+@ENGL_R = Atrium, atrial septum and pulmonary veins
+
+@NOTE_RF = ASD=Atrial septal defect
+
+@NOTE_RF =
+TAPDV=Total anaomalous pulmonary vein drainage
+
+@NOTE_RF =
+TGA=Transposition of the great arteries
+
+@NOTE_RF =
+Onttolaskimon ja keuhkosuonten anastomoosi kohdassa FAE
+
+@NOTE_RF =
+Suurten laskimoiden leikkaukset kohdassa FA
+
+@NOTE_RS = Cavo-pulmonella anastomosoperationer, se FAE
+
+@NOTE_RS =
+Operationer på stora intratorakala vener, se FA
+
+@END = 
+
+@KOODI_A = FFA
+
+@NCSP_A = FFSA
+
+@SUOMI_A = Koepalan otot, kasvaimen tai verihyytymämassan poistot sydäneteisestä
+
+@RUOTSI_A = Biopsi eller excision av patologisk förändring i förmak
+
+@ENGL_A = Biopsy or excision of lesion of atrium
+
+@END = 
+
+@KOODI = FFA00 
+
+@NCSP = FFSA00
+
+@SUOMI = Koepalan otto sydämen eteisen kasvaimesta
+
+@RUOTSI = Biopsi av förmakstumör
+
+@END = 
+
+@KOODI = FFA02 
+
+@NCSP = FFSA02
+
+@SUOMI = Sydämen eteisen suonensisäinen koepalan otto
+
+@RUOTSI = Intravaskulär biopsi från förmak
+
+@END = 
+
+@KOODI = FFA10 
+
+@NCSP = FFSA10
+
+@SUOMI = Sydämen eteisen kasvaimen tai muutoksen poisto
+
+@RUOTSI = Excision av patologisk förändring i förmak
+
+@NOTE_F = Laajennetun keuhkonpoiston yhteydessä GDD20
+
+@NOTE_S = Vid utvidgad pneumektomi anges med kod GDD20
+
+@END = 
+
+@KOODI = FFA20 
+
+@NCSP = FFSA20
+
+@SUOMI = Sydämen eteisen verihyytymän poisto
+
+@RUOTSI = Evakuering av tromber i förmak
+
+@END = 
+
+@KOODI = FFA30 
+
+@NCSP = FFSA30
+
+@SUOMI = Sydämen eteisen vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp i förmak
+
+@END = 
+
+@KOODI = FFA32 
+
+@NCSP = FFSA32
+
+@SUOMI = Vierasesineen poistaminen sydämen eteisestä suonensisäisesti
+
+@RUOTSI = Perkutan transluminal avlägsnande av främmande kropp från förmak
+
+@END = 
+
+@KOODI = FFA96 
+
+@NCSP = FFSA96
+
+@SUOMI = Muu koepalan otto sydämen eteisestä tai eteisen tyhjennysleikkaus
+
+@RUOTSI = Annan biopsi eller excision av patologisk förändring i förmak
+
+@END = 
+
+@KOODI_A = FFB
+
+@NCSP_A = FFSB
+
+@SUOMI_A = Sydämen eteisen vamman korjaukset
+
+@RUOTSI_A = Reparation av skada på förmak
+
+@ENGL_A = Operations on atrium for injury
+
+@END = 
+
+@KOODI = FFB00 
+
+@NCSP = FFSB00
+
+@SUOMI = Eteisen haavan tai repeämän ompelu
+
+@RUOTSI = Sutur av sårskada eller ruptur i förmak
+
+@END = 
+
+@KOODI = FFB10 
+
+@NCSP = FFSB10
+
+@SUOMI = Eteisvamman korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av förmak vid skada (inkl patch)
+
+@END = 
+
+@KOODI = FFB96 
+
+@NCSP = FFSB96
+
+@SUOMI = Muu eteisen vamman vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan reparation av skada på förmak
+
+@END = 
+
+@KOODI_A = FFC
+
+@NCSP_A = FFSC
+
+@SUOMI_A = Eteisväliseinäaukon (ASD) sulkemiset
+
+@RUOTSI_A = Tillslutning av isolerad förmaksseptumdefekt
+
+@ENGL_A = Closure of isolated atrial septal defect
+
+@END = 
+
+@KOODI = FFC00 
+
+@NCSP = FFSC00
+
+@SUOMI = ASD:n ompelu, secundum-tyyppi
+
+@RUOTSI = Sutur av ASD, sekundumtyp
+
+@END = 
+
+@KOODI = FFC10 
+
+@NCSP = FFSC10
+
+@SUOMI = ASD:n ompelu, sinus venosus-tyyppi
+
+@RUOTSI = Sutur av ASD, sinus venosus-typ
+
+@END = 
+
+@KOODI = FFC22 
+
+@NCSP = FFSC22
+
+@SUOMI = ASD sulku suonensisäisesti, ostium secundum -tyyppi
+
+@RUOTSI = Perkutan transluminal tillslutning av ASD, ostium secundum -typ
+
+@NOTE_F = Sisältää sateenvarjolaitteen käytön
+
+@NOTE_S = Innefattar med paraply apparat
+
+@END = 
+
+@KOODI = FFC32 
+
+@NCSP = FFSC32
+
+@SUOMI = ASD sulku suonensisäisesti, sinus venosus -tyyppi
+
+@RUOTSI = Perkutan transluminal tillslutning av ASD, sinus venosus -typ
+
+@NOTE_F = Sisältää sateenvarjolaitteen käytön
+
+@NOTE_S = Innefattar med paraply apparat
+
+@END = 
+
+@KOODI = FFC50 
+
+@NCSP = FFSC50
+
+@SUOMI = ASD:n sulku paikkaamalla, secundum-tyyppi
+
+@RUOTSI = Tillslutning av ASD med patch, sekundumtyp
+
+@END = 
+
+@KOODI = FFC60 
+
+@NCSP = FFSC60
+
+@SUOMI = ASD:n sulku paikkaamalla, sinus venosus -tyyppi
+
+@RUOTSI = Tillslutning av ASD med patch, sinus venosus-typ
+
+@END = 
+
+@KOODI = FFC96 
+
+@NCSP = FFSC96
+
+@SUOMI = Muu eteisväliseinäaukon sulkemisleikkaus
+
+@RUOTSI = Annan operation vid isolerad förmaksseptumdefekt
+
+@END = 
+
+@KOODI_A = FFD
+
+@NCSP_A = FFSD
+
+@SUOMI_A = Eteis-kammioyhteyden, ASD primum, sulku
+
+@RUOTSI_A = Operation vid ostium atrioventriculare commune (ASD primum)
+
+@ENGL_A = Operations for partial atrio-ventricular septal defect
+
+@NOTE_RF = sis. mitraaliläpän halkion ompelun
+
+@NOTE_RS = Innefattar sutur av kluven mitral valv
+
+@END = 
+
+@KOODI = FFD00 
+
+@NCSP = FFSD00
+
+@SUOMI = Osittaisen eteis-kammioyhteyden sulku ompelemalla
+
+@RUOTSI = Sutur av ostium atrioventriculare commune
+
+@END = 
+
+@KOODI = FFD20 
+
+@NCSP = FFSD20
+
+@SUOMI = Osittaisen eteis-kammioyhteyden sulku paikkaamalla
+
+@RUOTSI = Tillslutning av ostium atrioventriculare commune med patch
+
+@END = 
+
+@KOODI = FFD96 
+
+@NCSP = FFSD96
+
+@SUOMI = Muu osittaisen eteis-kammioyhteyden leikkaus
+
+@RUOTSI = Annan operation vid ostium atrioventriculare commune
+
+@END = 
+
+@KOODI_A = FFE
+
+@NCSP_A = FFSE
+
+@SUOMI_A = Eteisväliseinäaukon (ASD) muodostamis- tai laajentamisleikkaukset
+
+@RUOTSI_A = Anläggande eller förstoring av förmaksseptumdefekt
+
+@ENGL_A = Creation or expansion of atrial septal defect
+
+@END = 
+
+@KOODI = FFE00 
+
+@NCSP = FFSE00
+
+@SUOMI = ASD:n muodostaminen (Blalock-Hanlon)
+
+@RUOTSI = Anläggande av ASD, (Blalock-Hanlon)
+
+@END = 
+
+@KOODI = FFE02 
+
+@NCSP = FFSE02
+
+@SUOMI = Eteisväliseinäaukon tekeminen suonensisäisesti (Rashkind)
+
+@RUOTSI = Perkutan transluminal atrial septostomi
+
+@NOTE_F = Sisältää pallolaajennuksen avulla tehty toimenpide
+
+@NOTE_S = Innefattar åtgärd med ballondilatation
+
+@END = 
+
+@KOODI = FFE10 
+
+@NCSP = FFSE10
+
+@SUOMI = ASD:n muodostaminen tai laajentaminen avoimessa leikkauksessa
+
+@RUOTSI = Anläggande eller förstoring av ASD, öppet
+
+@END = 
+
+@KOODI = FFE96 
+
+@NCSP = FFSE96
+
+@SUOMI = Muu eteisväliseinän aukaisuleikkaus
+
+@RUOTSI = Annan atrioseptostomi
+
+@END = 
+
+@KOODI_A = FFF
+
+@NCSP_A = FFSF
+
+@SUOMI_A = Osittain poikkeavan keuhkovaltimopaluun korjaukset
+
+@RUOTSI_A = Transposition av partiellt anomalt mynnande lungvener
+
+@ENGL_A = Operations for partially anomalous pulmonary veins
+
+@NOTE_RF = Sisältää ASD:n sulkemisen
+
+@NOTE_RS = Innefattar tillslutning av ASD
+
+@END = 
+
+@KOODI = FFF00 
+
+@NCSP = FFSF00
+
+@SUOMI = Transpositio käyttäen eteisen sisäistä paikkaa
+
+@RUOTSI = Transposition med intra-atrial patch
+
+@END = 
+
+@KOODI = FFF10 
+
+@NCSP = FFSF10
+
+@SUOMI = ASD:n laajennus tai muodostaminen ja transpositio paikkaamalla
+
+@RUOTSI = Anläggande eller förstoring av ASD inkl transposition med patch
+
+@END = 
+
+@KOODI = FFF20 
+
+@NCSP = FFSF20
+
+@SUOMI = Keuhkolaskimon suora yhdistäminen vasempaan eteiseen
+
+@RUOTSI = Anastomos av v. pulmonnalis till vänster förmak
+
+@END = 
+
+@KOODI = FFF96 
+
+@NCSP = FFSF96
+
+@SUOMI = Muu osittain epämuodostuneiden keuhkolaskimoiden vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation vid partiellt anomalt mynnande lungvener
+
+@END = 
+
+@KOODI_A = FFG
+
+@NCSP_A = FFSG
+
+@SUOMI_A = Poikkeavan keuhkolaskimopaluun (TAPVD) leikkaukset
+
+@RUOTSI_A = Transposition av totalt anomalt mynnande lungvener
+
+@ENGL_A = Correction of total anomalous pulmonary vein drainage
+
+@NOTE_RF = Sisältää ASD:n sulkemisen
+
+@END = 
+
+@KOODI = FFG00 
+
+@NCSP = FFSG00
+
+@SUOMI = Suprakardiaalisen TAPVD korjaus
+
+@RUOTSI = Korrektion vid suprakardiell TAPVD
+
+@END = 
+
+@KOODI = FFG10 
+
+@NCSP = FFSG10
+
+@SUOMI = Kardiaalisen TAPVD korjaus
+
+@RUOTSI = Korrektion vid kardiell TAPVD
+
+@END = 
+
+@KOODI = FFG20 
+
+@NCSP = FFSG20
+
+@SUOMI = Infrakardiaalisen TAPVD korjaus
+
+@RUOTSI = Korrektion vid infrakardiell TAPVD
+
+@END = 
+
+@KOODI = FFG30 
+
+@NCSP = FFSG30
+
+@SUOMI = Sekatyyppisen TAPVD korjaus
+
+@RUOTSI = Korrektion vid blandad TAPVD
+
+@END = 
+
+@KOODI = FFG96 
+
+@NCSP = FFSG96
+
+@SUOMI = Muu poikkeavan keuhkolaskimopaluun korjausleikkaus
+
+@RUOTSI = Annan operation vid totalt anomalt mynnande lungvener
+
+@END = 
+
+@KOODI_A = FFH
+
+@NCSP_A = FFSH
+
+@SUOMI_A = Keuhkolaskimoahtauman leikkaukset
+
+@RUOTSI_A = Operationer för lungvensstenos
+
+@ENGL_A = Operations for stenosis of pulmonary vein
+
+@END = 
+
+@KOODI = FFH00 
+
+@NCSP = FFSH00
+
+@SUOMI = Primaarin keuhkolaskimoahtauman leikkaukset
+
+@RUOTSI = Operation vid primär lungvensstenos
+
+@END = 
+
+@KOODI = FFH10 
+
+@NCSP = FFSH10
+
+@SUOMI = Keuhkolaskimoahtauman korjaus TAPVD:n korjauksen jälkeen
+
+@RUOTSI = Operation vid lungvensstenos efter tidigare korrigerad TAPVD
+
+@END = 
+
+@KOODI = FFH22 
+
+@NCSP = FFSH22
+
+@SUOMI = Keuhkolaskimon suonensisäinen laajennushoito (PTA)
+
+@RUOTSI = Perkutan transluminal angioplastik av vena pulmonalis
+
+@END = 
+
+@KOODI = FFH25 
+
+@NCSP = FFSH25
+
+@SUOMI = Keuhkolaskimon suonensisäinen laajennushoito (PTA) ja stentin asentaminen
+
+@RUOTSI = Perkutan transluminal angioplastik av vena pulmonalis med insertion av stent
+
+@END = 
+
+@KOODI = FFH96 
+
+@NCSP = FFSH96
+
+@SUOMI = Muu keuhkovaltimoahtauman leikkaus
+
+@RUOTSI = Annan operation för lungvensstenos
+
+@END = 
+
+@KOODI_A = FFJ
+
+@NCSP_A = FFSJ
+
+@SUOMI_A = Eteistason transpositioleikkaukset
+
+@RUOTSI_A = Transpositionsoperationer på förmaksnivå
+
+@ENGL_A = Interatrial transposition of venous return
+
+@NOTE_RF = Laskimopaluun ohjaaminen vastakkaisille puolille esim. valtasuonten vaihtumisen (TGA) korjaamiseksi
+
+@NOTE_RS = Åtgärder för att styra flöde från vener till kontralateral sida t.ex. för korrigera transpostion av de stora kärlen (TGA)
+
+@END = 
+
+@KOODI = FFJ00 
+
+@NCSP = FFSJ00
+
+@SUOMI = Eteistason transpositioleikkaus ilman paikkaa (Senning)
+
+@RUOTSI = Interatrial korrektion utan patch (Senning)
+
+@END = 
+
+@KOODI = FFJ10 
+
+@NCSP = FFSJ10
+
+@SUOMI = Eteistason transpositioleikkaus käyttäen paikkaa (Mustard)
+
+@RUOTSI = Interatrial korrektion med patch (Mustard)
+
+@END = 
+
+@KOODI = FFJ96 
+
+@NCSP = FFSJ96
+
+@SUOMI = Muu eteistasolla tapahtuva transpositioleikkaus
+
+@RUOTSI = Annan interatrial korrektion
+
+@END = 
+
+@KOODI_A = FFK
+
+@NCSP_A = FFSK
+
+@SUOMI_A = Eteisen yhdistämiset muuhun rakenteeseen (Fontan modifikatioineen)
+
+@RUOTSI_A = Atrial anastomosoperation (Fontan inkl modifikationer)
+
+@ENGL_A = Atrial anastomosis operations
+
+@NOTE_RS =
+
+@NOTE_RS =
+
+
+@END = 
+
+@KOODI = FFK10 
+
+@NCSP = FFSK10
+
+@SUOMI = Eteisen yhdistäminen oikeaan kammioon
+
+@RUOTSI = Atrio-ventrikulär anastomos
+
+@END = 
+
+@KOODI = FFK20 
+
+@NCSP = FFSK20
+
+@SUOMI = Eteisen yhdistäminen keuhkovaltimoon
+
+@RUOTSI = Atrio-pulmonell anastomos
+
+@END = 
+
+@KOODI = FFK96 
+
+@NCSP = FFSK96
+
+@SUOMI = Muu eteisanastomoosileikkaus
+
+@RUOTSI = Annan atrial anastomosoperation
+
+@END = 
+
+@KOODI_A = FFL
+
+@NCSP_A = FFSL
+
+@SUOMI_A = Kolmieteissydämen leikkaukset
+
+@RUOTSI_A = Rekonstruktion vid cor triatriatum
+
+@ENGL_A = Reconstruction of atrium in cor triatriatum
+
+@END = 
+
+@KOODI = FFL00 
+
+@NCSP = FFSL00
+
+@SUOMI = Eteisten välisen kalvon osittainen poisto
+
+@RUOTSI = Resektion av interatrialt membran
+
+@END = 
+
+@KOODI = FFL10 
+
+@NCSP = FFSL10
+
+@SUOMI = Eteistenvälisen kalvon osittainen poisto ja ASD:n sulku
+
+@RUOTSI = Resektion av membran och tillslutning av ASD
+
+@END = 
+
+@KOODI = FFL96 
+
+@NCSP = FFSL96
+
+@SUOMI = Muu kolmieteissydämen korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion vid cor triatriatum
+
+@END = 
+
+@KOODI_A = FFW
+
+@NCSP_A = FFSW
+
+@SUOMI_A = Muut sydämen eteisten leikkaukset
+
+@RUOTSI_A = Andra operationer på förmak
+
+@ENGL_A = Other operations on atria
+
+@END = 
+
+@KOODI = FFW96 
+
+@NCSP = FFSW96
+
+@SUOMI = Muu sydämen eteisten leikkaus
+
+@RUOTSI = Annan operation på förmak
+
+@END = 
+
+@KOODI_R = FG
+
+@SUOMI_R = Kolmiliuskaläppä
+
+@RUOTSI_R = Trikuspidalklaffen
+
+@ENGL_R = Tricuspid valve
+
+@END = 
+
+@KOODI_A = FGA
+
+@NCSP_A = FGSA
+
+@SUOMI_A = Trikuspidaaliläpän ahtautuman leikkaukset
+
+@RUOTSI_A = Rekonstruktion av trikuspidalklaffen vid stenos
+
+@ENGL_A = Repair of tricuspid valve for stenosis
+
+@END = 
+
+@KOODI = FGA00 
+
+@NCSP = FGSA00
+
+@SUOMI = Läppäpurjeiden irrottaminen toisistaan synnynnäisen trikuspidaalivian vuoksi
+
+@RUOTSI = Kommissurotomi vid kongenital stenos
+
+@END = 
+
+@KOODI = FGA10 
+
+@NCSP = FGSA10
+
+@SUOMI = Läppäpurjeiden irrottaminen toisistaan hankinnaisen trikuspidaalistenoosin vuoksi
+
+@RUOTSI = Kommissurotomi vid förvärvad stenos
+
+@END = 
+
+@KOODI = FGA32 
+
+@NCSP = FGSA32
+
+@SUOMI = Trikuspidaaliläppäaukon laajentaminen suonensisäisesti
+
+@RUOTSI = Perkutan transluminal expansion av trikuspidal klaff
+
+@END = 
+
+@KOODI = FGA96 
+
+@NCSP = FGSA96
+
+@SUOMI = Muu trikuspidaalistenoosin leikkaus
+
+@RUOTSI = Annan rekonstruktion av trikuspidalklaffen vid stenos
+
+@END = 
+
+@KOODI_A = FGB
+
+@NCSP_A = FGSB
+
+@SUOMI_A = Ebsteinin sydänvian korjaukset
+
+@RUOTSI_A = Rekonstruktion vid Ebsteins anomali
+
+@ENGL_A = Repair of Ebstein's anomaly
+
+@END = 
+
+@KOODI = FGB00 
+
+@NCSP = FGSB00
+
+@SUOMI = Ebsteinin sydänvian korjaaminen eteis-kammiopoimutuksella (Hardy)
+
+@RUOTSI = Rekonstruktion med atrioventrikulär plikatur (Hardy)
+
+@END = 
+
+@KOODI = FGB10 
+
+@NCSP = FGSB10
+
+@SUOMI = Ebsteinin sydänvian korjaus, läppäplastia ja kammiopoimutus (Carpentier)
+
+@RUOTSI = Rekonstruktion med mobilisering och ventrikulär plikatur (Carpentier)
+
+@END = 
+
+@KOODI = FGB96 
+
+@NCSP = FGSB96
+
+@SUOMI = Muu Ebsteinin sydänvian leikkaus
+
+@RUOTSI = Annan rekonstruktion vid Ebsteins anomali
+
+@END = 
+
+@KOODI_A = FGC
+
+@NCSP_A = FGSC
+
+@SUOMI_A = Läppärengasmuovaukset trikuspidaalivuodon vuoksi
+
+@RUOTSI_A = Anuloplastik vid trikuspidalinsufficiens
+
+@ENGL_A = Annuloplasty of tricuspid valve for insufficiency
+
+@END = 
+
+@KOODI = FGC00 
+
+@NCSP = FGSC00
+
+@SUOMI = Trikuspidaaliläppärenkaan muovaus ompelemalla
+
+@RUOTSI = Anuloplastik medelst sutur
+
+@NOTE_F = esim. DeVega
+
+@NOTE_S = DeVega e.d.
+
+@END = 
+
+@KOODI = FGC10 
+
+@NCSP = FGSC10
+
+@SUOMI = Trikuspidaaliläppärenkaan muovaus renkaalla
+
+@RUOTSI = Anuloplastik med ring
+
+@NOTE_F = esim. Puig-Massana tai Carpentier
+
+@NOTE_S = Puig-Massana, Carpentier e.d.
+
+@END = 
+
+@KOODI = FGC96 
+
+@NCSP = FGSC96
+
+@SUOMI = Muu trikuspidaaliläpän vajaatoiminnan leikkaus annuloplastialla
+
+@RUOTSI = Annan anuloplastik vid trikuspidalinsufficiens
+
+@END = 
+
+@KOODI_A = FGD
+
+@NCSP_A = FGSD
+
+@SUOMI_A = Trikuspidaaliläpän korjaukset läppävuodon vuoksi
+
+@RUOTSI_A = Rekonstruktion vid trikuspidalinsufficiens
+
+@ENGL_A = Repair of tricuspid valve for insufficiency
+
+@END = 
+
+@KOODI = FGD00 
+
+@NCSP = FGSD00
+
+@SUOMI = Trikuspidaaliläpän korjaaminen ompelemalla läppävuodon vuoksi
+
+@RUOTSI = Rekonstruktion av trikuspidalklaff med sutur
+
+@END = 
+
+@KOODI = FGD03 
+
+@NCSP = FGSD03
+
+@SUOMI = Trikuspidaaliläpän  läppäpurjeen halkio korjaaminen ompelemalla
+
+@RUOTSI = Sutur av defekt i trikuspidalklaffen
+
+@END = 
+
+@KOODI = FGD10 
+
+@NCSP = FGSD10
+
+@SUOMI = Trikuspidaaliläpän vuodon korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av trikuspidalklaff med patch
+
+@END = 
+
+@KOODI = FGD30 
+
+@NCSP = FGSD30
+
+@SUOMI = Papillaarilihaksen tai läppäjänteen ompelu trikuspidaaliläppävuodon vuoksi
+
+@RUOTSI = Rekonstruktion med sutur av papillarmuskel eller chordae
+
+@END = 
+
+@KOODI = FGD40 
+
+@NCSP = FGSD40
+
+@SUOMI = Keinotekoisen läppäjänteen asettaminen trikuspidaaliläppävuodon vuoksi
+
+@RUOTSI = Rekonstruktion med artificiella chordae
+
+@END = 
+
+@KOODI = FGD96 
+
+@NCSP = FGSD96
+
+@SUOMI = Muu kolmiliuskaläppävuodon korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion vid trikuspidalinsufficiens
+
+@END = 
+
+@KOODI_A = FGE
+
+@NCSP_A = FGSE
+
+@SUOMI_A = Trikuspidaalitekoläpän asettamiset
+
+@RUOTSI_A = Implantation av trikuspidalklaffprotes
+
+@ENGL_A = Prosthetic replacement of tricuspid valve
+
+@END = 
+
+@KOODI = FGE00 
+
+@NCSP = FGSE00
+
+@SUOMI = Trikuspidaalitekoläpän asettaminen, mekaaninen
+
+@RUOTSI = Implantation av mekanisk trikuspidalklaffprotes
+
+@END = 
+
+@KOODI = FGE10 
+
+@NCSP = FGSE10
+
+@SUOMI = Trikuspidaalitekoläpän asettaminen, biologinen
+
+@RUOTSI = Implantation av biologisk trikuspidalklaffprotes
+
+@END = 
+
+@KOODI = FGE20 
+
+@NCSP = FGSE20
+
+@SUOMI = Trikuspidaaliläppäsiirteen asettaminen, homografti
+
+@RUOTSI = Implantation av trikuspidalklaff, homograft
+
+@END = 
+
+@KOODI = FGE96 
+
+@NCSP = FGSE96
+
+@SUOMI = Muu trikuspidaaliläpän asettaminen
+
+@RUOTSI = Annan implantation av tricupidalklaffprotes
+
+@END = 
+
+@KOODI_A = FGW
+
+@NCSP_A = FGSW
+
+@SUOMI_A = Muut trikuspidaaliläppäleikkaukset
+
+@RUOTSI_A = Övriga operationer på trikuspidalklaffen
+
+@ENGL_A = Other operations on tricuspid valve
+
+@END = 
+
+@KOODI = FGW96 
+
+@NCSP = FGSW96
+
+@SUOMI = Muu trikuspidaaliläppäleikkaus
+
+@RUOTSI = Övriga operationer på trikuspidalklaffen
+
+@END = 
+
+@KOODI_R = FH
+
+@SUOMI_R = Sydämen kammioväliseinä
+
+@RUOTSI_R = Ventrikelseptum
+
+@ENGL_R = Ventricular septum
+
+@NOTE_RF = VSD=Ventricular septal defect
+
+@NOTE_RF =
+VSR=Ventricular septal rupture
+
+@NOTE_RF =
+DOLV=Double outlet left ventricle
+
+@NOTE_RF =
+DORV= Double outlet right ventricle
+
+@NOTE_RF =
+A-V=Atrio-Ventriculare
+
+@END = 
+
+@KOODI_A = FHA
+
+@NCSP_A = FHSA
+
+@SUOMI_A = Kammioväliseinärepeämän (VSR) korjaukset
+
+@RUOTSI_A = Tillslutning av förvärvad ventrikelseptumdefekt
+
+@ENGL_A = Closure of acquired ventricular septal defect
+
+@END = 
+
+@KOODI = FHA00 
+
+@NCSP = FHSA00
+
+@SUOMI = VSR:n korjaus, vamman aiheuttama
+
+@RUOTSI = Tillslutning av VSR efter skada
+
+@END = 
+
+@KOODI = FHA10 
+
+@NCSP = FHSA10
+
+@SUOMI = VSR:n korjaus, anteroseptaalisen infarktin aiheuttama
+
+@RUOTSI = Tillslutning av VSR efter anteroseptal infarkt
+
+@END = 
+
+@KOODI = FHA20 
+
+@NCSP = FHSA20
+
+@SUOMI = VSR:n korjaus, posteroseptaalisen infarktin aiheuttama
+
+@RUOTSI = Tillslutning av VSR efter posteroseptal infarkt
+
+@END = 
+
+@KOODI = FHA96 
+
+@NCSP = FHSA96
+
+@SUOMI = Muu VSR:n korjausleikkaus
+
+@RUOTSI = Annan tillslutning av förvärvad ventrikelseptumdefekt/ruptur
+
+@END = 
+
+@KOODI_A = FHB
+
+@NCSP_A = FHSB
+
+@SUOMI_A = Synnynnäisen kammioväliseinäaukon (VSD) korjaukset
+
+@RUOTSI_A = Tillslutning av isolerad kongenital ventrikelseptumdefekt
+
+@ENGL_A = Closure of isolated congenital ventricular septal defect
+
+@END = 
+
+@KOODI = FHB00 
+
+@NCSP = FHSB00
+
+@SUOMI = VSD:n ompelu eteisen kautta
+
+@RUOTSI = Transatrial direktsutur av VSD
+
+@END = 
+
+@KOODI = FHB10 
+
+@NCSP = FHSB10
+
+@SUOMI = VSD:n ompelu kammion kautta
+
+@RUOTSI = Transventrikulär direktsutur av VSD
+
+@END = 
+
+@KOODI = FHB20 
+
+@NCSP = FHSB20
+
+@SUOMI = VSD:n ompelu keuhkovaltimon kautta
+
+@RUOTSI = Transpulmonell direktsutur av VSD
+
+@END = 
+
+@KOODI = FHB30 
+
+@NCSP = FHSB30
+
+@SUOMI = VSD:n ompelu aortan kautta
+
+@RUOTSI = Transaortal direktsutur av VSD
+
+@END = 
+
+@KOODI = FHB42 
+
+@NCSP = FHSB42
+
+@SUOMI = VSD:n sulku suonensisäisesti
+
+@RUOTSI = Perkutan transluminal tillslutning av VSD
+
+@END = 
+
+@KOODI = FHB50 
+
+@NCSP = FHSB50
+
+@SUOMI = VSD:n sulku paikkaamalla eteisen kautta
+
+@RUOTSI = Transatrial tillslutning av VSD med patch
+
+@END = 
+
+@KOODI = FHB60 
+
+@NCSP = FHSB60
+
+@SUOMI = VSD:n sulku paikkaamalla kammion kautta
+
+@RUOTSI = Transventrikulär tillslutning av VSD med patch
+
+@END = 
+
+@KOODI = FHB70 
+
+@NCSP = FHSB70
+
+@SUOMI = VSD:n sulku paikkaamalla keuhkovaltimon kautta
+
+@RUOTSI = Transpulmonell tillslutning av VSD med patch
+
+@END = 
+
+@KOODI = FHB80 
+
+@NCSP = FHSB80
+
+@SUOMI = VSD:n sulku paikkaamalla aortan kautta
+
+@RUOTSI = Transaortal tillslutning av VSD med patch
+
+@END = 
+
+@KOODI = FHB96 
+
+@NCSP = FHSB96
+
+@SUOMI = Muu synnynnäisen VSD:n korjausleikkaus
+
+@RUOTSI = Annan tillslutning av isolerad kongenital ventrikelseptumdefekt
+
+@END = 
+
+@KOODI_A = FHC
+
+@NCSP_A = FHSC
+
+@SUOMI_A = Moniaukkoisen kammioväliseinäaukon (MVSD) korjaukset
+
+@RUOTSI_A = Tillslutning av multipla ventrikelseptumdefekter
+
+@ENGL_A = Closure of multiple congenital ventricular septal defects
+
+@END = 
+
+@KOODI = FHC00 
+
+@NCSP = FHSC00
+
+@SUOMI = MVSD:n sulku eteisen kautta
+
+@RUOTSI = Transatrial tillslutning av multipla VSD
+
+@END = 
+
+@KOODI = FHC10 
+
+@NCSP = FHSC10
+
+@SUOMI = MVSD:n sulku oikean kammion kautta
+
+@RUOTSI = Tillslutning av multipla VSD genom högersidig ventrikulotomi
+
+@END = 
+
+@KOODI = FHC20 
+
+@NCSP = FHSC20
+
+@SUOMI = MVSD:n sulku vasemman kammion kautta
+
+@RUOTSI = Tillslutning av multipla VSD genom vänstersidig ventrikulotomi
+
+@END = 
+
+@KOODI = FHC30 
+
+@NCSP = FHSC30
+
+@SUOMI = MVSD:n sulku yhdistetyn eteis-kammioavauksen kautta
+
+@RUOTSI = Tillslutning av multipla VSD med kombinerad atriotomi och ventrikulotomi
+
+@END = 
+
+@KOODI = FHC96 
+
+@NCSP = FHSC96
+
+@SUOMI = Muu MVSD:n sulkemisleikkaus
+
+@RUOTSI = Annan tillslutning av multipla ventrikelseptumdefekter
+
+@END = 
+
+@KOODI_A = FHD
+
+@NCSP_A = FHSD
+
+@SUOMI_A = Eteiskammioväliseinäaukon (AVSD), AV-communiksen, korjaukset
+
+@RUOTSI_A = Korrektion vid komplett ostium A-V commune
+
+@ENGL_A = Repair of complete atrio-ventricular septal defect
+
+@NOTE_RF = Sisältää läppäplastian
+
+@NOTE_RF =
+Osittainen av-septumdefekti kohdassa FFD
+
+@NOTE_RS = Inkl korrektion av klaff
+
+@NOTE_RS =
+Delvis av-septumdefekt, se FFD
+
+@END = 
+
+@KOODI = FHD00 
+
+@NCSP = FHSD00
+
+@SUOMI = AVSD:n korjaus eteis-kammiopaikalla
+
+@RUOTSI = Korrektion vid komplett ostium A-V commune med A-V-patch
+
+@END = 
+
+@KOODI = FHD10 
+
+@NCSP = FHSD10
+
+@SUOMI = AVSD:n korjaus kaksipaikkatekniikalla
+
+@RUOTSI = Korrektion vid komplett ostium A-V commune med två-patch-teknik
+
+@END = 
+
+@KOODI = FHD30 
+
+@NCSP = FHSD30
+
+@SUOMI = AVSD:n ja pulmonaalistenoosin korjaus
+
+@RUOTSI = Korrektion vid komplett ostium A-V commune med resektion av pulmonalisstenos
+
+@END = 
+
+@KOODI = FHD96 
+
+@NCSP = FHSD96
+
+@SUOMI = Muu AVSD:n korjausleikkaus
+
+@RUOTSI = Annan korrektion vid komplett ostium A-V commune
+
+@END = 
+
+@KOODI_A = FHE
+
+@NCSP_A = FHSE
+
+@SUOMI_A = Fallotin tetralogian korjaukset, VSD:n sulku, pulmonaalistenoosin korjaus ym.
+
+@RUOTSI_A = Korrektion av Fallots tetrad
+
+@ENGL_A = Repair of tetralogy of Fallot
+
+@END = 
+
+@KOODI = FHE00 
+
+@NCSP = FHSE00
+
+@SUOMI = Fallotin tetralogian korjaus eteisen kautta
+
+@RUOTSI = Transatrial korrektion av Fallots tetrad
+
+@END = 
+
+@KOODI = FHE10 
+
+@NCSP = FHSE10
+
+@SUOMI = Fallotin tetralogian korjaus kammion kautta
+
+@RUOTSI = Transventrikulär korrektion av Fallots tetrad
+
+@END = 
+
+@KOODI = FHE20 
+
+@NCSP = FHSE20
+
+@SUOMI = Fallotin tetralogian korjaus kammion kautta, ulosvirtauskanavan paikkaus
+
+@RUOTSI = Transventrikulär korrektion av Fallots tetrad med utflödespatch
+
+@END = 
+
+@KOODI = FHE30 
+
+@NCSP = FHSE30
+
+@SUOMI = Fallotin tetralogian korjaus transannulaarisella paikalla
+
+@RUOTSI = Korrektion Fallots tetrad med transanulär patch
+
+@NOTE_F = sis. yksipurjeläpän
+
+@NOTE_S = inkl  "monocuspklaff"
+
+@END = 
+
+@KOODI = FHE40 
+
+@NCSP = FHSE40
+
+@SUOMI = Fallotin tetralogian korjaus, kammio-keuhkovaltimoproteesi tai homografti
+
+@RUOTSI = Korrektion av Fallots tetrad med ventrikulo-pulmonell conduit eller homograft
+
+@END = 
+
+@KOODI = FHE96 
+
+@NCSP = FHSE96
+
+@SUOMI = Muu Fallotin tetralogian korjaus
+
+@RUOTSI = Annan korrektion av Fallots tetrad
+
+@END = 
+
+@KOODI_A = FHF
+
+@NCSP_A = FHSF
+
+@SUOMI_A = Keuhkovaltimoatresian korjaukset
+
+@RUOTSI_A = Korrektion av pulmonalisatresi
+
+@ENGL_A = Repair of pulmonary atresia
+
+@END = 
+
+@KOODI = FHF00 
+
+@NCSP = FHSF00
+
+@SUOMI = Keuhkovaltimoatresian korjaus transannulaarisesti
+
+@RUOTSI = Korrektion av pulmonalisatresi med transanulär patch
+
+@NOTE_F = sis. yksipurjeläpän
+
+@NOTE_S = Inkl användande av  monocuspklaff
+
+@END = 
+
+@KOODI = FHF10 
+
+@NCSP = FHSF10
+
+@SUOMI = Keuhkovaltimoatresiakorjaus, kammio-keuhkovaltimoproteesi tai homografti
+
+@RUOTSI = Korr. av pulmonalisatresi med ventrikulo-pulmonell conduit eller homograft
+
+@END = 
+
+@KOODI = FHF20 
+
+@NCSP = FHSF20
+
+@SUOMI = Keuhkovaltimoatresiakorjaus, transannulaarinen paikka ja VSD:n sulku
+
+@RUOTSI = Korrektion av pulmonalisatresi med transanulär patch och tillslutning av VSD
+
+@END = 
+
+@KOODI = FHF30 
+
+@NCSP = FHSF30
+
+@SUOMI = Keuhkovaltimoatresiakorjaus, kammio-keuhkovaltimoproteesi ja VSD:n sulku
+
+@RUOTSI = Korr. av pulmonalisatresi med ventrikulo-pulm. conduit och tillslutning av VSD
+
+@END = 
+
+@KOODI = FHF96 
+
+@NCSP = FHSF96
+
+@SUOMI = Muu keuhkovaltimoatresian leikkaus
+
+@RUOTSI = Annan korrektion av pulmonalisatresi
+
+@END = 
+
+@KOODI_A = FHG
+
+@NCSP_A = FHSG
+
+@SUOMI_A = VSD:n sulku ja kammionsisäinen transpositio, double outlet ventricle
+
+@RUOTSI_A = Tillslutning av VSD med intraventrikulär transposition (double outlet ventricle)
+
+@ENGL_A = Closure of VSD with concurrent intraventricular transposition for double outlet ventricle
+
+@END = 
+
+@KOODI = FHG00 
+
+@NCSP = FHSG00
+
+@SUOMI = DOLV:n korjaus
+
+@RUOTSI = Korrektion av DOLV
+
+@END = 
+
+@KOODI = FHG10 
+
+@NCSP = FHSG10
+
+@SUOMI = DORV:n korjaus
+
+@RUOTSI = Korrektion av DORV
+
+@END = 
+
+@KOODI = FHG96 
+
+@NCSP = FHSG96
+
+@SUOMI = Muu double outlet ventricle-korjausleikkaus
+
+@RUOTSI = Annan operation vid "double outlet ventricle"
+
+@END = 
+
+@KOODI_A = FHH
+
+@NCSP_A = FHSH
+
+@SUOMI_A = Kammioväliseinäaukon (VSD) muodostamiset tai laajentamiset
+
+@RUOTSI_A = Anläggande eller vidgning av VSD
+
+@ENGL_A = Creation or expansion of VSD
+
+@END = 
+
+@KOODI = FHH00 
+
+@NCSP = FHSH00
+
+@SUOMI = VSD:n laajennus yksikammioisessa sydämessä
+
+@RUOTSI = Utvidgning av VSD vid "single ventricle"
+
+@END = 
+
+@KOODI = FHH10 
+
+@NCSP = FHSH10
+
+@SUOMI = VSD:n laajennus, double outlet kammiossa
+
+@RUOTSI = Utvidgning av VSD vid "double outlet ventricle"
+
+@END = 
+
+@KOODI = FHH20 
+
+@NCSP = FHSH20
+
+@SUOMI = VSD:iin asetetun paikan fenestrointi
+
+@RUOTSI = Fenestrering av anlagd patch i VSD
+
+@END = 
+
+@KOODI = FHH96 
+
+@NCSP = FHSH96
+
+@SUOMI = Muu VSD:n laajennusleikkaus
+
+@RUOTSI = Annat anläggande eller utvidgande av VSD
+
+@END = 
+
+@KOODI_A = FHJ
+
+@NCSP_A = FHSJ
+
+@SUOMI_A = Kammioväliseinän muodostamiset yksikammiosydämessä
+
+@RUOTSI_A = Rekonstruktion av septum vid "common ventricle"
+
+@ENGL_A = Construction of septum in common ventricle
+
+@END = 
+
+@KOODI = FHJ00 
+
+@NCSP = FHSJ00
+
+@SUOMI = Yksikammioisen sydämen väliseinän korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av septum med patch
+
+@END = 
+
+@KOODI = FHJ10 
+
+@NCSP = FHSJ10
+
+@SUOMI = Yksikammioisen sydämen väliseinän korjaus ikkunapaikalla
+
+@RUOTSI = Rekonstruktion av septum med fenestrerad patch
+
+@END = 
+
+@KOODI = FHJ96 
+
+@NCSP = FHSJ96
+
+@SUOMI = Muu yksikammioisen sydämen korjausleikkaus
+
+@RUOTSI = Annan operation vid "common ventricle"
+
+@END = 
+
+@KOODI_A = FHW
+
+@NCSP_A = FHSW
+
+@SUOMI_A = Muut kammioväliseinän leikkaukset
+
+@RUOTSI_A = Andra operationer på ventrikelseptum
+
+@ENGL_A = Other operations on ventriclular septum
+
+@END = 
+
+@KOODI = FHW96 
+
+@NCSP = FHSW96
+
+@SUOMI = Muu kammioväliseinän leikkaus
+
+@RUOTSI = Annan operation på ventrikelseptum
+
+@END = 
+
+@KOODI_R = FJ
+
+@SUOMI_R = Sydämen oikea kammio ja keuhkovaltimoläppä
+
+@RUOTSI_R = Höger kammare och pulmonalisklaff
+
+@ENGL_R = Right ventricle and pulmonary valve
+
+@NOTE_RF = Kammioväliseinän leikkaukset kohdassa FHA-FHW
+
+@NOTE_RS = Operationer på ventrikelseptum, se FHA-FHW
+
+@END = 
+
+@KOODI_A = FJA
+
+@NCSP_A = FJSA
+
+@SUOMI_A = Koepalan otot oikeasta kammiosta
+
+@RUOTSI_A = Biopsi av höger kammare
+
+@ENGL_A = Biopsy of right ventricle
+
+@NOTE_RF = Esim sydämen siirron jälkeen
+
+@NOTE_RS = T. ex. efter hjärttransplantation
+
+@END = 
+
+@KOODI = FJA00 
+
+@NCSP = FJSA00
+
+@SUOMI = Koepalan otto oikeasta kammiosta; avoin
+
+@RUOTSI = Öppen biopsi av höger kammare
+
+@END = 
+
+@KOODI = FJA10 
+
+@NCSP = FJSA12
+
+@SUOMI = Koepalan otto laskimoteitse oikeasta kammiosta
+
+@RUOTSI = Transvenös biopsi av höger kammare
+
+@END = 
+
+@KOODI = FJA96 
+
+@NCSP = FJSA96
+
+@SUOMI = Muu koepalan otto sydämestä
+
+@RUOTSI = Annan biopsi av höger kammare
+
+@END = 
+
+@KOODI_A = FJB
+
+@NCSP_A = FJSB
+
+@SUOMI_A = Sydämen oikean kammion leikkaukset vamman tai vierasesineen vuoksi
+
+@RUOTSI_A = Reparation av skada på höger kammare (inkl främmande kropp)
+
+@ENGL_A = Repair of right ventricle for injury
+
+@END = 
+
+@KOODI = FJB00 
+
+@NCSP = FJSB00
+
+@SUOMI = Oikean kammion seinämän ompelu vamman vuoksi
+
+@RUOTSI = Sutur av höger kammare vid skada
+
+@END = 
+
+@KOODI = FJB10 
+
+@NCSP = FJSB10
+
+@SUOMI = Oikean kammion seinämän korjaus paikalla vamman vuoksi
+
+@RUOTSI = Rekonstruktion av höger kammare med patch vid skada
+
+@END = 
+
+@KOODI = FJB96 
+
+@NCSP = FJSB96
+
+@SUOMI = Muu oikean kammion korjaus vamman vuoksi
+
+@RUOTSI = Annan reparation av skada på höger kammare
+
+@END = 
+
+@KOODI_A = FJC
+
+@NCSP_A = FJSC
+
+@SUOMI_A = Oikean kammion kasvaimien, muutosten tai vierasesineiden poistot
+
+@RUOTSI_A = Exstirpation av patologisk förändring eller främmande kropp i höger kammare
+
+@ENGL_A = Excision of lesion of right ventricle
+
+@END = 
+
+@KOODI = FJC00 
+
+@NCSP = FJSC00
+
+@SUOMI = Oikean kammion kasvaimen tai muutoksen poisto
+
+@RUOTSI = Excision av patologisk vävnad i höger kammare
+
+@END = 
+
+@KOODI = FJC10 
+
+@NCSP = FJSC10
+
+@SUOMI = Oikean kammion vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp från höger kammare
+
+@END = 
+
+@KOODI = FJC12 
+
+@NCSP = FJSC12
+
+@SUOMI = Vierasesineen poistaminen sydämen oikeasta kammiosta suonensisäisesti
+
+@RUOTSI = Perkutan transluminal avlägsnande av främmand kropp från höger kammare
+
+@END = 
+
+@KOODI_A = FJD
+
+@NCSP_A = FJSD
+
+@SUOMI_A = Oikean kammion ulosvirtauskanavan ahtauman korjaukset
+
+@RUOTSI_A = Op. på höger kammares utflödesregion vid medfödd eller förvärvad obstruktion
+
+@ENGL_A = Operations on right ventricle outlet for congenital or acquired obstruction
+
+@END = 
+
+@KOODI = FJD00 
+
+@NCSP = FJSD00
+
+@SUOMI = Fibromuskulaarisen infundibuläärisen keuhkovaltimoahtauman poisto
+
+@RUOTSI = Resektion av fibromuskulär, infundibulär pulmonalisstenos
+
+@END = 
+
+@KOODI = FJD10 
+
+@NCSP = FJSD10
+
+@SUOMI = Oikean kammion laajennus paikalla
+
+@RUOTSI = Vidgning av höger kammare med patch
+
+@NOTE_F = sis. kudoksen poiston
+
+@NOTE_S = Inkl ev resektion av infundibulär stenos
+
+@END = 
+
+@KOODI = FJD20 
+
+@NCSP = FJSD20
+
+@SUOMI = Keuhkovaltimoläpän ohitus, kammio-keuhkovaltimoproteesi tai homografti
+
+@RUOTSI = By-pass av arteria pulmonalis med conduit eller homograft
+
+@END = 
+
+@KOODI = FJD96 
+
+@NCSP = FJSD96
+
+@SUOMI = Muu oikean kammion ulosvirtausaukon ahtauman korjausleikkaus
+
+@RUOTSI = Annan operation på höger kammares utflödesregion
+
+@END = 
+
+@KOODI_A = FJE
+
+@NCSP_A = FJSE
+
+@SUOMI_A = Erillisen keuhkovaltimoläppäahtauman leikkaukset
+
+@RUOTSI_A = Operation av isolerad pulmonalisstenos
+
+@ENGL_A = Operations on pulmonary valve for isolated stenosis
+
+@END = 
+
+@KOODI = FJE00 
+
+@NCSP = FJSE00
+
+@SUOMI = Keuhkovaltimoläppäahtauman laajennus
+
+@RUOTSI = Dilatation av pulmonalisstenos
+
+@END = 
+
+@KOODI = FJE10 
+
+@NCSP = FJSE10
+
+@SUOMI = Keuhkovaltimoläpän avaus
+
+@RUOTSI = Valvulotomi vid pulmonalisstenos
+
+@END = 
+
+@KOODI = FJE20 
+
+@NCSP = FJSE20
+
+@SUOMI = Keuhkovaltimoläpän poisto ja läppärenkaan laajennus paikkaamalla
+
+@RUOTSI = Excision av pulmonalisklaffen och vidgning av anulus med patch
+
+@END = 
+
+@KOODI = FJE30 
+
+@NCSP = FJSE30
+
+@SUOMI = Transannulaarinen keuhkovaltimon aukaisu ja yksipurjeläpän asettaminen
+
+@RUOTSI = Transanulär patch med monocuspklaff
+
+@END = 
+
+@KOODI = FJE42 
+
+@NCSP = FJSE42
+
+@SUOMI = Keuhkovaltimoläpän aukon laajentaminen suonensisäisesti
+
+@RUOTSI = Perkutan transluminal expansion av pulmonal klaff
+
+@END = 
+
+@KOODI = FJE96 
+
+@NCSP = FJSE96
+
+@SUOMI = Muu keuhkovaltimoläppäahtautuman leikkaus
+
+@RUOTSI = Annan operation för isolerad pulmonalisstenos
+
+@END = 
+
+@KOODI_A = FJF
+
+@NCSP_A = FJSF
+
+@SUOMI_A = Keuhkovaltimotekoläpän asettamisleikkaukset
+
+@RUOTSI_A = Implantation av pulmonalisklaffprotes
+
+@ENGL_A = Prosthetic replacement of pulmonary valve
+
+@END = 
+
+@KOODI = FJF00 
+
+@NCSP = FJSF00
+
+@SUOMI = Keuhkovaltimotekoläpän asettaminen, mekaaninen
+
+@RUOTSI = Implantation av mekanisk pulmonalisklaffprotes
+
+@END = 
+
+@KOODI = FJF10 
+
+@NCSP = FJSF10
+
+@SUOMI = Keuhkovaltimotekoläpän asettaminen, biologinen
+
+@RUOTSI = Implantation av biologisk pulmonalisklaffprotes
+
+@END = 
+
+@KOODI = FJF20 
+
+@NCSP = FJSF20
+
+@SUOMI = Keuhkovaltimosiirteen asettaminen, homografti
+
+@RUOTSI = Implantation av pulmonalisklaffprotes, homograft
+
+@END = 
+
+@KOODI = FJF96 
+
+@NCSP = FJSF96
+
+@SUOMI = Muu keuhkovaltimotekoläpän asettamisleikkaus
+
+@RUOTSI = Annan implantation av pulmonalisklaffprotes
+
+@END = 
+
+@KOODI_A = FJW
+
+@NCSP_A = FJSW
+
+@SUOMI_A = Muut sydämen oikean kammion ja keuhkovaltimoläpän leikkaukset
+
+@RUOTSI_A = Andra operationer på höger kammare och pulmonalisklaffen
+
+@ENGL_A = Other operations on right ventricle and pulmonary valve
+
+@END = 
+
+@KOODI = FJW96 
+
+@NCSP = FJSW96
+
+@SUOMI = Muu sydämen oikean kammion ja keuhkovaltimoläpän leikkaus
+
+@RUOTSI = Annan operation på höger kammare och pulmonalisklaffen
+
+@END = 
+
+@KOODI_R = FK
+
+@SUOMI_R = Hiippaläppä
+
+@RUOTSI_R = Mitralisklaff
+
+@ENGL_R = Mitral valve
+
+@NOTE_RF = AVSD kohdassa FFD ja FHD
+
+@NOTE_RS = Partiellt eller komplett ostium atrioventriculare commune, se FFD eller FHD
+
+@END = 
+
+@KOODI_A = FKA
+
+@NCSP_A = FKSA
+
+@SUOMI_A = Hiippaläppäahtauman korjaukset
+
+@RUOTSI_A = Rekonstruktiva operationer vid mitralisstenos
+
+@ENGL_A = Repair of mitral valve for stenosis
+
+@END = 
+
+@KOODI = FKA00 
+
+@NCSP = FKSA00
+
+@SUOMI = Mitraaliläppäpurjeiden irrottaminen toisistaan
+
+@RUOTSI = Kommisurotomi vid mitralisstenos
+
+@END = 
+
+@KOODI = FKA10 
+
+@NCSP = FKSA10
+
+@SUOMI = Mitraaliläppäpurjeiden irrottaminen toisistaan ja kalkkeutumien poisto
+
+@RUOTSI = Kommisurotomi med avlägsnande av förkalkningar vid mitralisstenos
+
+@END = 
+
+@KOODI = FKA20 
+
+@NCSP = FKSA20
+
+@SUOMI = Mitraaliläppäpurjeiden irrottaminen toisistaan ja yhteenkasvaneiden läppäjänteiden vapautus
+
+@RUOTSI = Kommisurotomi och separering av chordae tendinae vid mitralisstenos
+
+@END = 
+
+@KOODI = FKA32 
+
+@NCSP = FKSA32
+
+@SUOMI = Mitraaliläppäaukon laajentaminen suonensisäisesti
+
+@RUOTSI = Perkutan transluminal expansion av mitralklaff
+
+@END = 
+
+@KOODI = FKA96 
+
+@NCSP = FKSA96
+
+@SUOMI = Muu mitraaliläppäahtaumien korjausleikkaus
+
+@RUOTSI = Annan operation vid mitralisstenos
+
+@END = 
+
+@KOODI_A = FKB
+
+@NCSP_A = FKSB
+
+@SUOMI_A = Läppärenkaan korjaukset hiippaläppävuodon vuoksi
+
+@RUOTSI_A = Anuloplastik vid mitralisinsufficiens
+
+@ENGL_A = Annuloplasty of mitral valve for insufficiency
+
+@END = 
+
+@KOODI = FKB00 
+
+@NCSP = FKSB00
+
+@SUOMI = Mitraaliläpän korjaus ompelemalla läppävuodon vuoksi
+
+@RUOTSI = Anuloplastik medelst sutur vid mitralisinsufficiens
+
+@NOTE_F = esim. Kay
+
+@NOTE_S = T.ex. Kay
+
+@END = 
+
+@KOODI = FKB10 
+
+@NCSP = FKSB10
+
+@SUOMI = Mitraaliläpän korjaus renkaalla, läppävuoto
+
+@RUOTSI = Anuloplastik med ring vid mitralisinsufficiens
+
+@NOTE_F = Esim. Carpentier tai Puig-Massana
+
+@NOTE_S = T.ex. Carpentier, Puig-Massana
+
+@END = 
+
+@KOODI = FKB96 
+
+@NCSP = FKSB96
+
+@SUOMI = Muu mitraaliläppärenkaan korjaus läppävuodon vuoksi
+
+@RUOTSI = Annan anuloplastik vid mitralisinsufficiens
+
+@END = 
+
+@KOODI_A = FKC
+
+@NCSP_A = FKSC
+
+@SUOMI_A = Hiippaläpän korjaukset läppävuodon vuoksi
+
+@RUOTSI_A = Klaffrekonstruktion vid mitralisinsufficiens
+
+@ENGL_A = Repair of mitral valve for insufficiency
+
+@END = 
+
+@KOODI = FKC00 
+
+@NCSP = FKSC00
+
+@SUOMI = Mitraaliläpän korjaus ompelemalla läppävuodon vuoksi
+
+@RUOTSI = Rekonstruktion av insufficient mitralisklaff medelst sutur
+
+@END = 
+
+@KOODI = FKC10 
+
+@NCSP = FKSC10
+
+@SUOMI = Mitraaliläpän korjaus ompelemalla läppäpurjeen halkio läppävuodon vuoksi
+
+@RUOTSI = Sutur av kluven, insufficient mitralisklaff
+
+@END = 
+
+@KOODI = FKC20 
+
+@NCSP = FKSC20
+
+@SUOMI = Mitraaliläppäpurjeen muovaus läppävuodon vuoksi
+
+@RUOTSI = Kuspidalplastik vid mitralisinsufficiens
+
+@NOTE_F = sis. kalkin poiston
+
+@NOTE_S = Inkl dekalcifiering och/eller patch
+
+@END = 
+
+@KOODI = FKC30 
+
+@NCSP = FKSC30
+
+@SUOMI = Mitraaliläppäjänteen pidentäminen tai lyhentäminen
+
+@RUOTSI = Förkortning eller förlängning av chordae vid mitralisinsufficiens
+
+@END = 
+
+@KOODI = FKC40 
+
+@NCSP = FKSC40
+
+@SUOMI = Mitraaliläppäjänteen tai papillaarilihaksen ompelu
+
+@RUOTSI = Sutur av chordae eller papillarmuskel vid mitralisinsufficiens
+
+@END = 
+
+@KOODI = FKC50 
+
+@NCSP = FKSC50
+
+@SUOMI = Keinotekoisen mitraaliläppäjänteen asettaminen
+
+@RUOTSI = Rekonstruktion av mitralisklaff med artificiella chordae
+
+@END = 
+
+@KOODI = FKC60 
+
+@NCSP = FKSC60
+
+@SUOMI = Mitraaliläppäpurjeen osittainen poisto ja korjaus läppävuodon vuoksi
+
+@RUOTSI = Resektion av mitraliskusp med rekonstruktion vid insufficiens
+
+@END = 
+
+@KOODI = FKC96 
+
+@NCSP = FKSC96
+
+@SUOMI = Muu mitraaliläppävuodon leikkaus
+
+@RUOTSI = Annan klaffrekonstruktion vid mitralisinsufficiens
+
+@END = 
+
+@KOODI_A = FKD
+
+@NCSP_A = FKSD
+
+@SUOMI_A = Hiippatekoläpän asettamisleikkaukset
+
+@RUOTSI_A = Implantation av mitralisklaffprotes
+
+@ENGL_A = Prosthetic replacement of mitral valve
+
+@END = 
+
+@KOODI = FKD00 
+
+@NCSP = FKSD00
+
+@SUOMI = Mitraalitekoläpän asettaminen, mekaaninen
+
+@RUOTSI = Implantation av mekanisk mitrahisklaffprotes
+
+@END = 
+
+@KOODI = FKD10 
+
+@NCSP = FKSD10
+
+@SUOMI = Mitraalitekoläpän asettaminen, biologinen
+
+@RUOTSI = Implantation av biologisk mitralisklaffprotes
+
+@END = 
+
+@KOODI = FKD20 
+
+@NCSP = FKSD20
+
+@SUOMI = Mitraaliläppäsiirteen asettaminen, homografti
+
+@RUOTSI = Implantation av mitralisklaffprotes, homograft
+
+@END = 
+
+@KOODI = FKD96 
+
+@NCSP = FKSD96
+
+@SUOMI = Muu mitraalitekoläpän asettaminen
+
+@RUOTSI = Annan implantation  av mitralisklaffprotes
+
+@END = 
+
+@KOODI_A = FKW
+
+@NCSP_A = FKSW
+
+@SUOMI_A = Muut hiippaläppäleikkaukset
+
+@RUOTSI_A = Andra operationer på mitralisklaffen
+
+@ENGL_A = Other operations on mitral valve
+
+@END = 
+
+@KOODI = FKW96 
+
+@NCSP = FKSW96
+
+@SUOMI = Muu mitraaliläppäleikkaus
+
+@RUOTSI = Annan operation på mitralisklaffen
+
+@END = 
+
+@KOODI_R = FL
+
+@SUOMI_R = Sydämen vasen kammio
+
+@RUOTSI_R = Vänster kammare av hjärta
+
+@ENGL_R = Left ventricle of heart
+
+@NOTE_RF = Aorta-aukon laajennus kohdassa FMB
+
+@NOTE_RS = Vidgning av aortaostiet, se FMB
+
+@END = 
+
+@KOODI_A = FLA
+
+@NCSP_A = FLSA
+
+@SUOMI_A = Koepalan otot vasemmasta kammiosta
+
+@RUOTSI_A = Biopsi av vänster kammare
+
+@ENGL_A = Biopsy of left ventricle
+
+@END = 
+
+@KOODI = FLA00 
+
+@NCSP = FLSA00
+
+@SUOMI = Koepalan otto vasemmasta kammiosta; avoin
+
+@RUOTSI = Biopsi av vänster kammare
+
+@END = 
+
+@KOODI = FLA12 
+
+@NCSP = FLSA12
+
+@SUOMI = Suonensisäinen sydämen vasemman kammion koepalan otto
+
+@RUOTSI = Perkutan transluminal biopsi från höger kammare
+
+@END = 
+
+@KOODI = FLA96 
+
+@NCSP = FLSA96
+
+@SUOMI = Muu koepalan otto vasemmasta kammiosta
+
+@RUOTSI = Annan biopsi av vänster kammare
+
+@END = 
+
+@KOODI_A = FLB
+
+@NCSP_A = FLSB
+
+@SUOMI_A = Vasemman kammion kasvainten, muutosten tai vierasesineiden poistot
+
+@RUOTSI_A = Exstirpation av patologisk förändring/främmande kropp ur vänster kammare
+
+@ENGL_A = Excision of lesion of left ventricle
+
+@END = 
+
+@KOODI = FLB00 
+
+@NCSP = FLSB00
+
+@SUOMI = Vasemman kammion kasvaimen tai muutoksen poisto
+
+@RUOTSI = Excision av patologisk vävnad i vänster kammare
+
+@END = 
+
+@KOODI = FLB10 
+
+@NCSP = FLSB10
+
+@SUOMI = Vasemman kammion vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp ur vänster kammare
+
+@END = 
+
+@KOODI = FLB12 
+
+@NCSP = FLSB12
+
+@SUOMI = Vierasesineen poistaminen sydämen vasemmasta kammiosta suonensisäisesti
+
+@RUOTSI = Perkutan transluminal avlägsnande av främmande kropp från vänstra kammare
+
+@END = 
+
+@KOODI_A = FLC
+
+@NCSP_A = FLSC
+
+@SUOMI_A = Muut vasemman kammion korjaukset, esim. infarktin tai vaurion vuoksi
+
+@RUOTSI_A = Rekonstruktion av vänster kammare (t.ex. vid trauma eller infarkt)
+
+@ENGL_A = Repair of left ventricle
+
+@END = 
+
+@KOODI = FLC00 
+
+@NCSP = FLSC00
+
+@SUOMI = Vasemman kammion korjaus ompelemalla
+
+@RUOTSI = Sutur av vänster kammares vägg
+
+@END = 
+
+@KOODI = FLC10 
+
+@NCSP = FLSC10
+
+@SUOMI = Vasemman kammion korjaus paikkaamalla
+
+@RUOTSI = Rekonstruktion av vänster kammares vägg med patch
+
+@END = 
+
+@KOODI = FLC96 
+
+@NCSP = FLSC96
+
+@SUOMI = Muu vasemman kammion korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av vänster kammare
+
+@END = 
+
+@KOODI_A = FLD
+
+@NCSP_A = FLSD
+
+@SUOMI_A = Vasemman kammion laajentaminen tai supistaminen
+
+@RUOTSI_A = Utvidgande eller reduktion av vänsterkammare
+
+@ENGL_A = Expansion and reduction of left ventricle
+
+@NOTE_RF = Leikauksen vasemman kammion aneurysman takia
+
+@NOTE_RS = Operationer för aneurysm av vänster kammare
+
+@END = 
+
+@KOODI = FLD00 
+
+@NCSP = FLSD00
+
+@SUOMI = Vasemman kammion pullistuman korjaus poimuttamalla
+
+@RUOTSI = Plikatur vid vänsterkammaraneurysm
+
+@END = 
+
+@KOODI = FLD10 
+
+@NCSP = FLSD10
+
+@SUOMI = Vasemman kammion pullistuman poisto
+
+@RUOTSI = Resektion vid vänsterkammaraneurysm
+
+@END = 
+
+@KOODI = FLD20 
+
+@NCSP = FLSD20
+
+@SUOMI = Vasemman kammion pullistuman poisto ja paikkaus
+
+@RUOTSI = Resektion och rekonstruktion med patch vid vänsterkammaraneurysm
+
+@NOTE_F = sis. väliseinäkorjauksen
+
+@NOTE_S = Inkl ventrikelseptumplastik
+
+@END = 
+
+@KOODI = FLD30 
+
+@NCSP = FLSD30
+
+@SUOMI = Sydämen vasemman kammion pienentäminen (Batista)
+
+@RUOTSI = Reduktion ventrikulopasti av vänster kammare
+
+@NOTE_F = Vaikean sydämen toiminnanvajauksen helpottamiseksi
+
+@NOTE_S = För att underlätta end stage kardiomyopati
+
+@END = 
+
+@KOODI = FLD50 
+
+@NCSP = FLSD50
+
+@SUOMI = Sydämen vasemman kammion laajentaminen
+
+@RUOTSI = Plastisk expansion av vänster kammare
+
+@END = 
+
+@KOODI = FLD96 
+
+@NCSP = FLSD96
+
+@SUOMI = Muu vasemman kammion laajentaminen tai pienentäminen
+
+@RUOTSI = Annan operation för utvidga eller förminska vänster kammare
+
+@END = 
+
+@KOODI_A = FLE
+
+@NCSP_A = FLSE
+
+@SUOMI_A = Vasemman kammion ulosvirtauskanavan ahtauman korjaukset
+
+@RUOTSI_A = Rekonstruktion vid utflödesobstruktion i vänster kammare
+
+@ENGL_A = Repair of outlet obstruction of left ventricle
+
+@END = 
+
+@KOODI = FLE00 
+
+@NCSP = FLSE00
+
+@SUOMI = Membraanin poisto aortaläpän alapuolelta
+
+@RUOTSI = Excision av subvalvulärt membran i vänster kammare
+
+@END = 
+
+@KOODI = FLE10 
+
+@NCSP = FLSE10
+
+@SUOMI = Vasemman kammion lihaksen poisto ja ompelu ahtauman vuoksi
+
+@RUOTSI = Myektomi och sutur av vänster kammare
+
+@NOTE_F = Sisältää kardiomyopatian ja läpän alapuolisen ahtauman leikkaukset
+
+@NOTE_S = Inkl operationer vid kardiomyopati och subvalvulär stenos
+
+@END = 
+
+@KOODI = FLE20 
+
+@NCSP = FLSE20
+
+@SUOMI = Vasemman kammion lihaksen poisto ja väliseinäpaikalla ulosvirtauskanavan korjaaminen (Konno muokattu)
+
+@RUOTSI = Myektomi av vänster kammare för utflödesobstruktion med patch
+
+@END = 
+
+@KOODI = FLE96 
+
+@NCSP = FLSE96
+
+@SUOMI = Muu vasemman kammion ulosvirtauskanavan korjausleikkaus
+
+@RUOTSI = Annan operation vid utflödesobstruktion i vänster kammare
+
+@END = 
+
+@KOODI_A = FLF
+
+@NCSP_A = FLSF
+
+@SUOMI_A = Sydämen revaskularisointi vasemman kammion seinämän läpi laser-tekniikalla
+
+@RUOTSI_A = Revaskularisation av hjärta genom väbben av vänster kammare med laser
+
+@ENGL_A = Transmyocardial laser revascularisation from left ventricle
+
+@END = 
+
+@KOODI = FLF00 
+
+@NCSP = FLSF00
+
+@SUOMI = Sydämen revaskularisointi leikkauksessa vasemman kammion seinämän läpi laser-tekniikalla
+
+@RUOTSI = Revaskularisation av hjärta genom väbben av vänster kammare med laser, öppen åtgärd
+
+@END = 
+
+@KOODI = FLF12 
+
+@NCSP = FLSF12
+
+@SUOMI = Sydämen revaskularisointi vasemman kammion seinämän läpi laser-tekniikalla suonensisäisesti
+
+@RUOTSI = Transkutan transluminal revaskularisation av hjärta genom väbben av vänster kammare med laser
+
+@END = 
+
+@KOODI_A = FLW
+
+@NCSP_A = FLSW
+
+@SUOMI_A = Muut vasemman kammion leikkaukset
+
+@RUOTSI_A = Andra operationer på vänster kammare
+
+@ENGL_A = Other operations on left ventricle
+
+@END = 
+
+@KOODI = FLW96 
+
+@NCSP = FLSW96
+
+@SUOMI = Muu vasemman kammion leikkaus
+
+@RUOTSI = Annan operation på vänster kammare
+
+@END = 
+
+@KOODI_R = FM
+
+@SUOMI_R = Aorttaläppä
+
+@RUOTSI_R = Aortaklaff
+
+@ENGL_R = Aortic valve
+
+@NOTE_RF = Aneurysma kohdassa FCC
+
+@NOTE_RF =
+Hypoplastinen vasen kammio -oireyhtymä kohdassa FDA
+
+@NOTE_RF =
+Supravalvulaarinen stenoosi kohdassa FDG
+
+@NOTE_RF =
+Subvalvulaarinen stenoosi kohdassa FLE
+
+@NOTE_RS = Implantation av klaff vid aorta-aneurysm, se FCA
+
+@NOTE_RS =
+Aneurysma i aorta, se FCC
+
+@NOTE_RS =
+HLHS, se FDA
+
+@NOTE_RS =
+Supravalvulär stenos, se FDG
+
+@NOTE_RS =
+Subvalvulär stenos, se FLE
+
+@END = 
+
+@KOODI_A = FMA
+
+@NCSP_A = FMSA
+
+@SUOMI_A = Aorttaläppäahtauman korjaukset
+
+@RUOTSI_A = Operationer på aortaklaffen för stenos
+
+@ENGL_A = Repair of aortic valve for stenosis
+
+@END = 
+
+@KOODI = FMA00 
+
+@NCSP = FMSA00
+
+@SUOMI = Aorttaläppäahtauman laajennus
+
+@RUOTSI = Dilatation av stenotisk aortaklaff
+
+@END = 
+
+@KOODI = FMA10 
+
+@NCSP = FMSA10
+
+@SUOMI = Aortaläpän liuskojen irrottaminen toisistaan
+
+@RUOTSI = Kommisurotomi på aortaklaffen
+
+@END = 
+
+@KOODI = FMA20 
+
+@NCSP = FMSA20
+
+@SUOMI = Aorttaläpän muovausleikkaus ahtauman vuoksi
+
+@RUOTSI = Valvuloplastik på aortaklaffen för stenos
+
+@END = 
+
+@KOODI = FMA32 
+
+@NCSP = FMSA32
+
+@SUOMI = Aorttaläppäaukon laajentaminen suonensisäisesti
+
+@RUOTSI = Transkutan transluminal expansion av aorttaklaff
+
+@END = 
+
+@KOODI = FMA96 
+
+@NCSP = FMSA96
+
+@SUOMI = Muu aorttaläppäahtauman korjausleikkaus
+
+@RUOTSI = Annan operation för valvulär aortastenos
+
+@END = 
+
+@KOODI_A = FMB
+
+@NCSP_A = FMSB
+
+@SUOMI_A = Aortta-aukon laajennukset
+
+@RUOTSI_A = Vidgning av aortaostiet
+
+@ENGL_A = Expansion of aortic ostium
+
+@END = 
+
+@KOODI = FMB00 
+
+@NCSP = FMSB00
+
+@SUOMI = Aortta-aukon laajentaminen paikkaamalla läppätason yläpuolelta (Nick)
+
+@RUOTSI = Supravalvulär vidgning av aorta med patch (Nick)
+
+@END = 
+
+@KOODI = FMB10 
+
+@NCSP = FMSB10
+
+@SUOMI = Aortta-aukon laajennus läppärenkaan läpi, transannulaarisesti (Manougian)
+
+@RUOTSI = Transanulär vidgning av aortaostiet (Manougian)
+
+@END = 
+
+@KOODI = FMB20 
+
+@NCSP = FMSB20
+
+@SUOMI = Aortoseptaalinen aorta-aukon laajennus (Konno)
+
+@RUOTSI = Aortoseptal vidgning av aortaostiet (Konno)
+
+@END = 
+
+@KOODI = FMB96 
+
+@NCSP = FMSB96
+
+@SUOMI = Muu aortta-aukon muotoiluleikkaus
+
+@RUOTSI = Annan vidgning av aortaostiet
+
+@END = 
+
+@KOODI_A = FMC
+
+@NCSP_A = FMSC
+
+@SUOMI_A = Aorttaläpän muovausleikkaukset läppävuodon vuoksi
+
+@RUOTSI_A = Klaffplastiker för aortaklaffinsufficiens
+
+@ENGL_A = Repair of aortic valve for insufficiency
+
+@END = 
+
+@KOODI = FMC00 
+
+@NCSP = FMSC00
+
+@SUOMI = Aorttaläppärenkaan korjaus
+
+@RUOTSI = Anuloplastik på aortaklaffen
+
+@END = 
+
+@KOODI = FMC10 
+
+@NCSP = FMSC10
+
+@SUOMI = Aorttaläppäliuskan pienentäminen
+
+@RUOTSI = Kuspreduktion/excision på aortaklaffen
+
+@NOTE_F = Sisältää ekskiision
+
+@NOTE_S = Inkl excision
+
+@END = 
+
+@KOODI = FMC20 
+
+@NCSP = FMSC20
+
+@SUOMI = Aorttaläppäliuskan ompelu tai paikkaaminen
+
+@RUOTSI = Kuspsutur på  aortaklaffen (inkl patch)
+
+@END = 
+
+@KOODI = FMC96 
+
+@NCSP = FMSC96
+
+@SUOMI = Muu aorttaläpän muovausleikkaus läppävuodon vuoksi
+
+@RUOTSI = Annan plastisk operation för aortaklaffinsufficiens
+
+@END = 
+
+@KOODI_A = FMD
+
+@NCSP_A = FMSD
+
+@SUOMI_A = Aorttaläpän proteesileikkaukset
+
+@RUOTSI_A = Implantation av aortaklaffprotes
+
+@ENGL_A = Replacement of aortic valve
+
+@END = 
+
+@KOODI = FMD00 
+
+@NCSP = FMSD00
+
+@SUOMI = Aorttatekoläpän asettaminen, mekaaninen
+
+@RUOTSI = Implantation av mekanisk aortaklaffprotes
+
+@END = 
+
+@KOODI = FMD10 
+
+@NCSP = FMSD10
+
+@SUOMI = Aorttatekoläpän asettaminen, biologinen
+
+@RUOTSI = Implantation av biologisk aortaklaffprotes
+
+@END = 
+
+@KOODI = FMD20 
+
+@NCSP = FMSD20
+
+@SUOMI = Aorttaläppäsiirteen asettaminen, homografti
+
+@RUOTSI = Implantation av aortaklaff, homograft
+
+@END = 
+
+@KOODI = FMD30 
+
+@NCSP = FMSD30
+
+@SUOMI = Aortan tyven korjaus homograftilla ja sepelvaltimoiden istutus
+
+@RUOTSI = Implantation av aortaklaff, homograft med koronar reimplantation
+
+@END = 
+
+@KOODI = FMD40 
+
+@NCSP = FMSD40
+
+@SUOMI = Aortan tyven korjaus keuhkovaltimosiirteellä ja sepelvaltimoiden istutus (Ross)
+
+@RUOTSI = Implantation av pulmonellt autotransplantat inkl koronar reimplantation (Ross)
+
+@NOTE_F = Aortan tyven korjaus käyttäen keuhkovaltimosiirrettä. Keuhkovaltimoaukko korjataan vieraskudossiirteellä. Sepelvaltimot siirretään muodostettuun aortantyveen.
+
+@NOTE_S = Aortta korrigeras med pulmonellt autotransplantat. Pulmonal ostium korrigeras med homograft. Koronarer reimplanteras till aortta.
+
+@END = 
+
+@KOODI = FMD96 
+
+@NCSP = FMSD96
+
+@SUOMI = Muu aorttaläppäproteesileikkaus
+
+@RUOTSI = Annan implantation av aortaklaffprotes
+
+@END = 
+
+@KOODI_A = FMW
+
+@NCSP_A = FMSW
+
+@SUOMI_A = Muut aortaläpän leikkaukset
+
+@RUOTSI_A = Andra operationer på aortaklaffen
+
+@ENGL_A = Other operations on aortic valve
+
+@END = 
+
+@KOODI = FMW96 
+
+@NCSP = FMSW96
+
+@SUOMI = Muu aortaläpän leikkaus
+
+@RUOTSI = Annan operation på aortaklaffen
+
+@END = 
+
+@KOODI_R = FN
+
+@SUOMI_R = Sepelvaltimot
+
+@RUOTSI_R = Koronarartärer
+
+@ENGL_R = Coronary arteries
+
+@END = 
+
+@KOODI_A = FN_
+
+@NCSP_A = FND
+
+@SUOMI_A = Sepelvaltimoiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av kranskärl
+
+@ENGL_A = Diagnostic radiology of coranary arteries
+
+@END = 
+
+@KOODI = FN1AC 
+
+@NCSP = FNDC1A
+
+@SUOMI = Sydämen ja/tai sepelvaltimoiden varjoainetutkimus
+
+@RUOTSI = Angiografi av hjärta och/eller koronarkärl
+
+@NOTE_F = Yhden sepelvaltimon tutkimus
+
+@NOTE_S = Undersökning av en koronarkärl
+
+@END = 
+
+@KOODI = FN1BC 
+
+@NCSP = FNDC1A
+
+@SUOMI = Sydämen ja/tai sepelvaltimoiden laaja varjoainetutkimus
+
+@RUOTSI = Angiografi av hjärta och/eller koronarkärl, omfattande
+
+@NOTE_F = Sisältää sydämen molempien puolien kuvauksen
+
+@NOTE_S = Innefattar biltareral undersökning av hjärtat
+
+@END = 
+
+@KOODI = FN1CC 
+
+@NCSP = FNDC1A
+
+@SUOMI = Sydämen ja/tai sepelvaltimoiden erittäin laaja varjoainetutkimus
+
+@RUOTSI = Angiografi an hjärta och/eller koronarkärl, mycket omfattande
+
+@NOTE_F = Sepelvaltimoiden, vasemman kammion ja subclaaviavaltimoiden tutkimus
+
+@NOTE_S = Undersökoning av koronarkärlen, vänster kammare och båda arteria subclavia
+
+@END = 
+
+@KOODI = FN1AD 
+
+@NCSP = FNDD1A
+
+@SUOMI = Sepelvaltimoiden TT
+
+@RUOTSI = Kranskärlen, DT
+
+@END = 
+
+@KOODI = FN1BD 
+
+@NCSP = FNDD1A
+
+@SUOMI = Sepelvaltimoiden laaja TT
+
+@RUOTSI = Kranskärl, omfattande DT
+
+@END = 
+
+@KOODI = FN1CD 
+
+@NCSP = FNDD1A
+
+@SUOMI = Sepelvaltimoiden erittäin laaja TT
+
+@RUOTSI = Kranskärl,  mycket omfattande DT
+
+@END = 
+
+@KOODI = FN1AE 
+
+@NCSP = FNDE1A
+
+@SUOMI = Sepelvaltimoiden UÄ iholta
+
+@RUOTSI = Kransartärer, perkutan UL
+
+@END = 
+
+@KOODI = FN1BE 
+
+@NCSP = FNDE1B
+
+@SUOMI = Sepelvaltimoiden UÄ katetrin kautta
+
+@RUOTSI = Kransartärer, UL med kateterteknik
+
+@END = 
+
+@KOODI = FN1KE 
+
+@NCSP = FNDE1K
+
+@SUOMI = Sepelvaltimokierron reservimittaus UÄ varjoainetta käyttäen
+
+@RUOTSI = Kransartärförloppets reservkapacitetets mätning med UL kontrastmedel
+
+@END = 
+
+@KOODI = FN1LE 
+
+@NCSP = FNDE1K
+
+@SUOMI = Sepelvaltimokierron reservimittaus UÄ iv vasodilataattoreita käyttäen
+
+@RUOTSI = Kransartärförloppets reservkapacitetets med UL kontrastmedel efter iv vasodilatatorer
+
+@END = 
+
+@KOODI = FN1BF 
+
+@NCSP = FNDG1B
+
+@SUOMI = Sepelvaltimoiden rakenteen ja virtausolosuhteiden arviointi keskikenttämagneettitutkimuksessa
+
+@RUOTSI = Utvärdering av kranskärlstruktur och flödesförhållanden med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FN1BG 
+
+@NCSP = FNDG1B
+
+@SUOMI = Sepelvaltimoiden rakenteen ja virtausolosuhteiden arviointi vahvakenttämagneettitutkimuksessa
+
+@RUOTSI = Utvärdering av kranskärlstruktur och flödesförhållanden med högfältsmagnet
+
+@END = 
+
+@KOODI_A = FNA
+
+@NCSP_A = FNSA
+
+@SUOMI_A = Sepelvaltimoiden ja rintakehän sisävaltimoiden (ITA) liittämiset
+
+@RUOTSI_A = Anastomos mellan arteria mammaria interna och koronarartärer
+
+@ENGL_A = Connection to coronary artery from internal mammary artery
+
+@END = 
+
+@KOODI = FNA01 
+
+@NCSP = FNSA01
+
+@SUOMI = Sepelvaltimoiden ja rintakehän sisävaltimon (ITA) liittäminen, yksi distaalinen anastomoosi
+
+@RUOTSI = Anastomos mellan a. mammaria int. och koronarartär, en distal anastomos
+
+@END = 
+
+@KOODI = FNA02 
+
+@NCSP = FNSA02
+
+@SUOMI = Sepelvaltimoiden ja rintakehän sisävaltimon (ITA) liittäminen, kaksi distaalista anastomoosia
+
+@RUOTSI = Anast. mellan a. mammaria int. och koronarartärer, två distala anastomoser
+
+@END = 
+
+@KOODI = FNA03 
+
+@NCSP = FNSA03
+
+@SUOMI = Sepelvaltimoiden ja rintakehän sisävaltimon (ITA) liittäminen, kolme distaalista anastomoosia
+
+@RUOTSI = Anast. mellan a. mammaria int. och koronarartärer, tre distala anastomoser
+
+@END = 
+
+@KOODI = FNA04 
+
+@NCSP = FNSA04
+
+@SUOMI = Sepelvaltimoiden ja rintakehän sisävaltimon (ITA) liittäminen, neljä distaalista anastomoosia
+
+@RUOTSI = Anast. mellan a. mammaria int. och koronarartärer, fyra distala anastomoser
+
+@END = 
+
+@KOODI = FNA05 
+
+@NCSP = FNSA05
+
+@SUOMI = Sepelvaltimoiden ja rintakehän sisävaltimon (ITA) liittäminen, viisi tai useampia distaalisia anastomooseja
+
+@RUOTSI = Anast. mellan a. mammaria int. och koronarart., fem eller flera distala anast.
+
+@END = 
+
+@KOODI = FNA10 
+
+@NCSP = FNSA10
+
+@SUOMI = Sepelvaltimoiden ja rintakehän sisävaltimoiden (ITA) sekventiaalinen liittäminen, distaalisten anastomoosien määrää ei eritelty
+
+@RUOTSI = Sekventiella anastomoser mellan arteria mammaria interna och koronarartärer
+
+@END = 
+
+@KOODI = FNA20 
+
+@NCSP = FNSA20
+
+@SUOMI = Sepelvaltimoiden ja molempien rintakehän sisävaltimoiden (ITA) liitos
+
+@RUOTSI = Anastomoser mellan båda arteria mammaria interna och koronarartärer
+
+@NOTE_F = Distaalisten anastomoosien määrää ei eritelty
+
+@NOTE_S = Antalet distala anastomoser är inte bestämd
+
+@END = 
+
+@KOODI = FNA96 
+
+@NCSP = FNSA96
+
+@SUOMI = Muu rintakehän sisävaltimoiden (ITA) ja sepelvaltimoiden liittäminen
+
+@RUOTSI = Annan anastomosoperation mellan arteria mammaria interna och koronarartärer
+
+@END = 
+
+@KOODI_A = FNB
+
+@NCSP_A = FNSB
+
+@SUOMI_A = Maha-vatsapaitavaltimon (GEA) ja sepelvaltimoiden yhdistämiset
+
+@RUOTSI_A = Anastomos mellan arteria gastroepiploica och koronarartärer
+
+@ENGL_A = Connection to coronary artery from gastroepiploic artery
+
+@END = 
+
+@KOODI = FNB01 
+
+@NCSP = FNSB01
+
+@SUOMI = GEA-valtimon ja sepelvaltimoiden liittäminen, yksi distaalinen anastomoosi
+
+@RUOTSI = Anastomos mellan arteria gastroepiploica och koronarartärer, en distal anast.
+
+@END = 
+
+@KOODI = FNB02 
+
+@NCSP = FNSB02
+
+@SUOMI = GEA-valtimon ja sepelvaltimoiden liittäminen, kaksi tai useampia distaalisia anastomooseja
+
+@RUOTSI = Anastomos mellan a. gastroepiploica och koronarart., två eller flera distala anast.
+
+@END = 
+
+@KOODI = FNB20 
+
+@NCSP = FNSB20
+
+@SUOMI = GEA-valtimon ja sepelvaltimoiden sekventiaalinen liittäminen
+
+@RUOTSI = Sekventiella anastomoser mellan arteria gastroepiploica och koronarartärer
+
+@END = 
+
+@KOODI = FNB96 
+
+@NCSP = FNSB96
+
+@SUOMI = Muu GEA-valtimon ja sepelvaltimoiden liittäminen
+
+@RUOTSI = Annan anastomosoperation mellan arteria gastroepiploica och koronarartärer
+
+@END = 
+
+@KOODI_A = FNC
+
+@NCSP_A = FNSC
+
+@SUOMI_A = Sepelvaltimoiden ohitusleikkaukset laskimosiirteellä
+
+@RUOTSI_A = Aorto-koronara by-pass-operationer med ventransplantat
+
+@ENGL_A = Aorto-coronary venous bypass
+
+@END = 
+
+@KOODI = FNC10 
+
+@NCSP = FNSC10
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, yksi distaalinen anastomoosi
+
+@RUOTSI = Aortokoronar by-pass-operation med enkelt ventransplantat
+
+@END = 
+
+@KOODI = FNC20 
+
+@NCSP = FNSC20
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, kaksi distaalista anastomoosia
+
+@RUOTSI = Aortokoronar by-pass-operation med två ventransplantat
+
+@END = 
+
+@KOODI = FNC30 
+
+@NCSP = FNSC30
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, kolme distaalista anastomoosia
+
+@RUOTSI = Aortokoronar by-pass-operation med tre ventransplantat
+
+@END = 
+
+@KOODI = FNC40 
+
+@NCSP = FNSC40
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, neljä distaalista anastomoosia
+
+@RUOTSI = Aortokoronar by-pass-operation med fyra ventransplantat
+
+@END = 
+
+@KOODI = FNC50 
+
+@NCSP = FNSC50
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, viisi distaalista anastomoosia
+
+@RUOTSI = Aortokoronar by-pass-operation med fem ventransplantat
+
+@END = 
+
+@KOODI = FNC60 
+
+@NCSP = FNSC60
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, kuusi distaalista anastomoosia
+
+@RUOTSI = Aortokoronar by-pass-operation med sex ventransplantat
+
+@END = 
+
+@KOODI = FNC96 
+
+@NCSP = FNSC96
+
+@SUOMI = Muu sepelvaltimoiden ohitusleikkaus laskimosiirteellä
+
+@RUOTSI = Annan aortokoronar by-pass-operation med ventransplantat
+
+@END = 
+
+@KOODI_A = FND
+
+@NCSP_A = FNSD
+
+@SUOMI_A = Sepelvaltimoiden ohitusleikkaukset proteesisiirteellä
+
+@RUOTSI_A = Aorto-koronar by-pass-operation med kärlprotes
+
+@ENGL_A = Aorto-coronary bypass using prosthetic graft
+
+@END = 
+
+@KOODI = FND10 
+
+@NCSP = FNSD10
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, yksi proteesisiirre
+
+@RUOTSI = Aortokoronar by-pass-operation med ett protestransplantat
+
+@END = 
+
+@KOODI = FND20 
+
+@NCSP = FNSD20
+
+@SUOMI = Sepelvaltimoiden ohitusleikkaus, kaksi proteesisiirrettä
+
+@RUOTSI = Aortokoronar by-pass-operation med två protestransplantat
+
+@END = 
+
+@KOODI = FND96 
+
+@NCSP = FNSD96
+
+@SUOMI = Muu aortan ja sepelvaltimoiden väliset ohitusleikkaus proteesisiirteellä
+
+@RUOTSI = Annan koronar by-pass-operation med kärlprotes
+
+@END = 
+
+@KOODI_A = FNE
+
+@NCSP_A = FNSE
+
+@SUOMI_A = Sepelvaltimoiden ohitusleikkaukset vapaalla valtimosiirteellä
+
+@RUOTSI_A = Koronar by-pass med fritt artärtransplantat
+
+@ENGL_A = Coronary bypass using free arterial graft
+
+@NOTE_RF = ITA = Intrathoracic artery l. rintakehän sisäinen valtimo
+
+@NOTE_RF =
+GEA= Gastroepiploic artery  l. maha-vatsapaitavaltimo
+
+@END = 
+
+@KOODI = FNE01 
+
+@NCSP = FNSE01
+
+@SUOMI = Sepelvaltimoiden ja vapaan ITA-valtimosiirteen liittäminen, yksi siirre
+
+@RUOTSI = Anastamos av koronarartär till fritt ITA-artärtransplant, en transplant
+
+@END = 
+
+@KOODI = FNE02 
+
+@NCSP = FNSE02
+
+@SUOMI = Sepelvaltimoiden ja vapaan ITA-valtimosiirteen liittäminen, kaksi siirrettä
+
+@RUOTSI = Anastamos av koronarartär till fritt ITA-artärtransplant, två transplant
+
+@END = 
+
+@KOODI = FNE03 
+
+@NCSP = FNSE03
+
+@SUOMI = Sepelvaltimoiden ja vapaan ITA-valtimosiirteen sekventiaalinen liittäminen
+
+@RUOTSI = Sekventiella koronaranastomoser till fritt mammaria interna-transplantat
+
+@END = 
+
+@KOODI = FNE10 
+
+@NCSP = FNSE10
+
+@SUOMI = Sepelvaltimoiden ja vapaan GEA-valtimosiirteen liittäminen
+
+@RUOTSI = Koronaranastomos med fritt arteria gastroepiploica-transplantat
+
+@END = 
+
+@KOODI = FNE11 
+
+@NCSP = FNSE11
+
+@SUOMI = Sepelvaltimoiden ja vapaan GEA-valtimosiirteen sekventiaalinen liittäminen
+
+@RUOTSI = Sekventiella koronaranastomoser till fritt arteria gastroepiploica-transplantat
+
+@END = 
+
+@KOODI = FNE20 
+
+@NCSP = FNSE20
+
+@SUOMI = Sepelvaltimoiden ja a. radialis -valtimosiirteen liittäminen
+
+@RUOTSI = Koronaranastomoser till a. radialis-transplantat
+
+@END = 
+
+@KOODI = FNE21 
+
+@NCSP = FNSE21
+
+@SUOMI = Sepelvaltimoiden ja a. radialis -valtimosiirteen sekventiaalinen liittäminen
+
+@RUOTSI = Sekventiella koronaranastomoser till a. radialis-transplantat
+
+@END = 
+
+@KOODI = FNE96 
+
+@NCSP = FNSE96
+
+@SUOMI = Muu sepelvaltimoiden ohitusleikkaus vapaalla valtimosiirteellä
+
+@RUOTSI = Koronar by-pass-operation med annat fritt artärtransplantat
+
+@END = 
+
+@KOODI_A = FNF
+
+@NCSP_A = FNSF
+
+@SUOMI_A = Sepelvaltimoiden sisäkalvon ja tukosten poistot, trombendarterektomiat
+
+@RUOTSI_A = Koronar trombendartärektomi
+
+@ENGL_A = Coronary thrombendarterectomy
+
+@END = 
+
+@KOODI = FNF00 
+
+@NCSP = FNSF00
+
+@SUOMI = Oikean sepelvaltimon sisäkalvon ja tukosten poisto
+
+@RUOTSI = Trombendarterektomi på höger koronarartär
+
+@END = 
+
+@KOODI = FNF10 
+
+@NCSP = FNSF10
+
+@SUOMI = Vasemman sepelvaltimon laskevan etuhaaran (LAD) sisäkalvon ja tukosten poisto
+
+@RUOTSI = Trombendarterektomi på ramus descendens anterior
+
+@END = 
+
+@KOODI = FNF20 
+
+@NCSP = FNSF20
+
+@SUOMI = Vasemman sepelvaltimon kiertävän haaran (LCX) sisäkalvon ja tukosten poisto
+
+@RUOTSI = Trombendarterektomi på ramus cirkumflexus
+
+@END = 
+
+@KOODI = FNF30 
+
+@NCSP = FNSF30
+
+@SUOMI = Vasemman sepelvaltimon rungon sisäkalvon ja tukosten poisto, tarvittaessa paikkaus
+
+@RUOTSI = Trombendarterektomi på vänster koronarartärs huvudstam (inkl patch)
+
+@END = 
+
+@KOODI = FNF96 
+
+@NCSP = FNSF96
+
+@SUOMI = Muu sepelvaltimoiden sisäkalvon ja tukosten poistoleikkaus
+
+@RUOTSI = Annan koronar trombendarterektomi
+
+@END = 
+
+@KOODI_A = FNG
+
+@NCSP_A = FNSG
+
+@SUOMI_A = Sepelvaltimoiden avaamiset ja laajentamiset
+
+@RUOTSI_A = Rekanalisering och utvidning av koronarartärer
+
+@ENGL_A = Recanalisation of coronary artery
+
+@END = 
+
+@KOODI = FNG00 
+
+@NCSP = FNSG00
+
+@SUOMI = Sepelvaltimoiden laajennus
+
+@RUOTSI = Dilatation av koronarartär(er)
+
+@NOTE_F = Suonen sisäinen laajennus kohdassa FN1AT/FN1BT/FN1BT
+
+@NOTE_S = Intravaskulär dilatation, se FN1AT/FN1BT/FN1YT
+
+@END = 
+
+@KOODI = FN1AT 
+
+@NCSP = FNSG02
+
+@SUOMI = Sepelvaltimon suonensisäinen laajennushoito (PCTA)
+
+@RUOTSI = Kranskärl intravaskulär angioplastik (PTCA)
+
+@END = 
+
+@KOODI = FN1BT 
+
+@NCSP = FNSG02
+
+@SUOMI = Sepelvaltimon suonensisäinen laajennushoito (PTCA), laaja
+
+@RUOTSI = Kranskärl intravaskulär angioplastik (PTCA) , omfattande
+
+@END = 
+
+@KOODI = FN1YT 
+
+@NCSP = FNSG05
+
+@SUOMI = Sepelvaltimon suonensisäinen laajennus stentillä
+
+@RUOTSI = Kranskärlsdilatation med stent
+
+@END = 
+
+@KOODI = FNG10 
+
+@NCSP = FNSG10
+
+@SUOMI = Sepelvaltimoiden tukoksen poisto
+
+@RUOTSI = Embolektomi från koronarartär(er)
+
+@END = 
+
+@KOODI = FNG20 
+
+@NCSP = FNSG20
+
+@SUOMI = Sepelvaltimon vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp från koronarartär
+
+@END = 
+
+@KOODI = FNG22 
+
+@NCSP = FNSG22
+
+@SUOMI = Vierasesineen poistaminen sepelvaltimosta suonensisäisesti
+
+@RUOTSI = Transkutan transluminal avlägsnande av främmande kropp från koronar artär
+
+@END = 
+
+@KOODI = FNG30 
+
+@NCSP = FNSG30
+
+@SUOMI = Sepelvaltimon avarrus paikkaamalla
+
+@RUOTSI = Vidgning av koronarartär med patch
+
+@END = 
+
+@KOODI = FNG96 
+
+@NCSP = FNSG96
+
+@SUOMI = Muu sepelvaltimoiden avaamisleikkaus
+
+@RUOTSI = Annan rekanalisering av koronarartär(er)
+
+@END = 
+
+@KOODI_A = FNH
+
+@NCSP_A = FNSH
+
+@SUOMI_A = Sepelvaltimoiden korjaukset
+
+@RUOTSI_A = Rekonstruktion av koronarartär
+
+@ENGL_A = Repair of coronary artery
+
+@NOTE_RF = Esim vamman vuoksi
+
+@NOTE_RS = T.ex. efter trauma
+
+@END = 
+
+@KOODI = FNH00 
+
+@NCSP = FNSH00
+
+@SUOMI = Sepelvaltimon ompelu
+
+@RUOTSI = Sutur av koronarartär
+
+@END = 
+
+@KOODI = FNH10 
+
+@NCSP = FNSH10
+
+@SUOMI = Sepelvaltimon ompelu ja paikkaus
+
+@RUOTSI = Sutur av koronarartär med patch
+
+@END = 
+
+@KOODI = FNH20 
+
+@NCSP = FNSH20
+
+@SUOMI = Vaurioituneen sepelvaltimon korjaus ohituksella
+
+@RUOTSI = Sutur av koronarartär med by-pass
+
+@END = 
+
+@KOODI = FNH96 
+
+@NCSP = FNSH96
+
+@SUOMI = Muu sepelvaltimovamman korjausleikkaus
+
+@RUOTSI = Annan rekonstruktion av koronarartär
+
+@END = 
+
+@KOODI_A = FNJ
+
+@NCSP_A = FNSJ
+
+@SUOMI_A = Sepelvaltimoavanteiden sulkemiset
+
+@RUOTSI_A = Tillslutning av koronarfistel
+
+@ENGL_A = Closure of coronary fistula
+
+@END = 
+
+@KOODI = FNJ00 
+
+@NCSP = FNSJ00
+
+@SUOMI = Poikkeavan sepelvaltimon sitominen
+
+@RUOTSI = Ligatur av anomal koronarartär
+
+@END = 
+
+@KOODI = FNJ02 
+
+@NCSP = FNSJ02
+
+@SUOMI = Anomaalisen sepelvaltimon tukkiminen suonensisäisesti
+
+@RUOTSI = Perkutan transluminal occlusion av koronar artär
+
+@END = 
+
+@KOODI = FNJ10 
+
+@NCSP = FNSJ10
+
+@SUOMI = Sepelvaltimoavanteen tukkiminen
+
+@RUOTSI = Obliteration av koronarfistel
+
+@NOTE_F = Sisältää metallikierukoiden käytön (coiling)
+
+@NOTE_S = Innefattar coiling
+
+@END = 
+
+@KOODI = FNJ12 
+
+@NCSP = FNSJ12
+
+@SUOMI = Sepelvaltimofistelin sulkeminen suonensisäisesti
+
+@RUOTSI = Perkutan transluminal occlusion av koronar fistel
+
+@END = 
+
+@KOODI = FNJ96 
+
+@NCSP = FNSJ96
+
+@SUOMI = Muu sepelvaltimoavanteiden sulkemisleikkaus
+
+@RUOTSI = Annan operation vid koronarfistel
+
+@END = 
+
+@KOODI_A = FNK
+
+@NCSP_A = FNSK
+
+@SUOMI_A = Sepelvaltimon tyviosan poikkeavuuden tai sijainnin korjaukset
+
+@RUOTSI_A = Rekonstruktion vid anomal koronarartäravgång
+
+@ENGL_A = Repair of anomalous origin of coronary artery
+
+@END = 
+
+@KOODI = FNK00 
+
+@NCSP = FNSK00
+
+@SUOMI = Sepelvaltimon siirto
+
+@RUOTSI = Transposition av koronarartär
+
+@END = 
+
+@KOODI = FNK10 
+
+@NCSP = FNSK10
+
+@SUOMI = Sepelvaltimon lähtökohdan siirto keuhkovaltimosta aorttaan
+
+@RUOTSI = Förflyttning av koronaravgång från a. pulmonalis till aorta (inkl patch)
+
+@END = 
+
+@KOODI = FNK20 
+
+@NCSP = FNSK20
+
+@SUOMI = Epämuodostuneen sepelvaltimon sitominen ja ohitusleikkaus
+
+@RUOTSI = Ligatur och by-pass-rekonstruktion vid anomal koronarartär
+
+@END = 
+
+@KOODI = FNK96 
+
+@NCSP = FNSK96
+
+@SUOMI = Muu sepelvaltimon tyviosan poikkeavuuden korjausleikkaus
+
+@RUOTSI = Annan operation vid anomal koronarartär
+
+@END = 
+
+@KOODI_A = FNW
+
+@NCSP_A = FNSW
+
+@SUOMI_A = Muut sepelvaltimoleikkaukset
+
+@RUOTSI_A = Andra operationer på koronartärerna
+
+@ENGL_A = Other operations on coronary arteries
+
+@END = 
+
+@KOODI = FNW96 
+
+@NCSP = FNSW96
+
+@SUOMI = Muu sepelvaltimoleikkaus
+
+@RUOTSI = Annan operation på koronarärterna
+
+@END = 
+
+@KOODI = FNW97 
+
+@NCSP = FNSW97
+
+@SUOMI = Muu tähystysteitse tehty sepelvaltimoleikkaus
+
+@RUOTSI = Annan endoskopisk koronaroperation
+
+@END = 
+
+@KOODI = FNW98 
+
+@NCSP = FNSW98
+
+@SUOMI = Muu suonensisäisesti tehty sepelvaltimotoimenpide
+
+@RUOTSI = Annan perkutan transluminal operation på koronarartärerna
+
+@END = 
+
+@KOODI_A = FN_
+
+@NCSP_A = FNX
+
+@SUOMI_A = Muut sepelvaltimotoimenpiteet
+
+@RUOTSI_A = Andra åtgärder på koronartärerna
+
+@ENGL_A = Other procedures on coronary arteries
+
+@END = 
+
+@KOODI = XFN02 
+
+@NCSP = FNX002
+
+@SUOMI = Sepelvaltimoiden tähystäminen leikkauksen aikana
+
+@RUOTSI = Intraoperativ koronar angioskopi
+
+@END = 
+
+@KOODI = XFN96 
+
+@NCSP = FNX096
+
+@SUOMI = Muu leikkauksen aikainen sydämen  tähystystutkimus
+
+@RUOTSI = Annan intraoperativ angioskopisk undersökning
+
+@END = 
+
+@KOODI = FN1ST 
+
+@NCSP = FNXT1S
+
+@SUOMI = Sepelvaltimon selektiivinen liuotushoito
+
+@RUOTSI = Kransartär, selektiv trombolys
+
+@END = 
+
+@KOODI = FN1XT 
+
+@NCSP = FNXT1X
+
+@SUOMI = Sepelvaltimon muu toimenpide katetrin kautta
+
+@RUOTSI = Kransartär, annan perkutant ingrepp
+
+@END = 
+
+@KOODI = TFN10 
+
+@NCSP = FNXX10
+
+@SUOMI = Sepelvaltimoiden paikallinen trombolyysi
+
+@RUOTSI = Katetrisering av hjärtat med lokal trombolys av koronärartär
+
+@END = 
+
+@KOODI = TFN99 
+
+@NCSP = FNXX99
+
+@SUOMI = Muu sepelvaltimon toimenpide katerin kautta
+
+@RUOTSI = Katetrisering av hjärtat med anna koronaråtgärd
+
+@END = 
+
+@KOODI_R = FP
+
+@SUOMI_R = Sydämen rytmi- ja johtumishäiriöt
+
+@RUOTSI_R = Hjärtarytmi och överledningsrubbningar
+
+@ENGL_R = Arhythmias and disturbances of impulse propagation
+
+@END = 
+
+@KOODI_A = FP_
+
+@NCSP_A = FPF
+
+@SUOMI_A = Sydämen rytmi- ja johtumishäiriöiden diagnostiset toimenpiteet
+
+@RUOTSI_A = Diagnostiska åtgärder för arytmier och störningar i impulse ledning
+
+@ENGL_A = Diagnostic procedures for arhythmias and disturbances of impulse propagation
+
+@END = 
+
+@KOODI = XFP00 
+
+@NCSP = FPF000
+
+@SUOMI = Ektooppisten lisälyöntien lähteen tai ektooppisen johtoradan kartoitus leikkauksen aikana
+
+@RUOTSI = Intraoperativ kartläggning av ektopiskt fokus/ektopisk retledningsbana
+
+@END = 
+
+@KOODI = XFP96 
+
+@NCSP = FPF009
+
+@SUOMI = Muu elektrofysiologinen tutkimus
+
+@RUOTSI = Annan intraoperativ elektrofysiologisk undersökning
+
+@END = 
+
+@KOODI_A = FPA
+
+@NCSP_A = FPSA
+
+@SUOMI_A = Supraventrikulaaristen rytmihäiriöiden vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operation för supraventrikulär arytmi
+
+@ENGL_A = Operations for supraventricular arythmia
+
+@END = 
+
+@KOODI = FPA00 
+
+@NCSP = FPSA00
+
+@SUOMI = Anteroseptaalisen oikoradan haaran katkaisu
+
+@RUOTSI = Delning av anteroseptal ledningsskänkel
+
+@END = 
+
+@KOODI = FPA10 
+
+@NCSP = FPSA10
+
+@SUOMI = Posteroseptaalisen oikoradan haaran katkaisu
+
+@RUOTSI = Delning av posteroseptal ledningsskänkel
+
+@END = 
+
+@KOODI = FPA20 
+
+@NCSP = FPSA20
+
+@SUOMI = Oikeanpuoleisen oikoradan haaran katkaisu
+
+@RUOTSI = Delning av högersidig ledningsskänkel
+
+@END = 
+
+@KOODI = FPA30 
+
+@NCSP = FPSA30
+
+@SUOMI = Vasemmanpuoleisen oikoradan haaran katkaisu
+
+@RUOTSI = Delning av vänstersidig ledningsskänkel
+
+@END = 
+
+@KOODI = FPA40 
+
+@NCSP = FPSA40
+
+@SUOMI = Useiden oikoratojen haarojen katkaisu
+
+@RUOTSI = Delning av multipla ledningsskänklar
+
+@END = 
+
+@KOODI = FPA96 
+
+@NCSP = FPSA96
+
+@SUOMI = Muu supraventrikulaarisen oikoradan vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation för supraventrikulär arytmi
+
+@END = 
+
+@KOODI_A = FPB
+
+@NCSP_A = FPSB
+
+@SUOMI_A = Muiden supraventrikulaaristen rytmihäiriörakenteiden poistotoimenpiteet
+
+@RUOTSI_A = Excision eller ablation av aberrant hjärtfokus
+
+@ENGL_A = Excision or ablation of aberrant pathway or focus of heart
+
+@END = 
+
+@KOODI = FPB00 
+
+@NCSP = FPSB00
+
+@SUOMI = Rytmihäiriörakenteen poisto leikkaamalla, muu supraventrikulaari häiriö
+
+@RUOTSI = Excision av aberrant hjärtfokus
+
+@END = 
+
+@KOODI = FPB10 
+
+@NCSP = FPSB10
+
+@SUOMI = Rytmihäiriörakenteen jäädytys, muu supraventrikulaari häiriö
+
+@RUOTSI = Kryoablation av aberrant hjärtfokus
+
+@END = 
+
+@KOODI = FPB20 
+
+@NCSP = FPSB20
+
+@SUOMI = Poikkeavan johtoradan tai muun rytmihäiriörakenteen poltto radio- tai mikroaalloilla
+
+@RUOTSI = Radiofrekvens- eller mikrovågablation av aberrant hjärtfokus eller ledningsskänkel
+
+@END = 
+
+@KOODI = FPB22 
+
+@NCSP = FPSB22
+
+@SUOMI = Poikkeavan johtoradan tai muun rytmihäiriörakenteen suonensisäinen poltto radio- tai mikroaalloilla
+
+@RUOTSI = Transkutan transluminal radiofrekvens- eller mikrovågablation av aberrant hjärtfokus eller ledningsskänkel
+
+@END = 
+
+@KOODI = FPB96 
+
+@NCSP = FPSB96
+
+@SUOMI = Muu rytmihäiriörakenteen poistotoimenpide, muu supraventrikulaari häiriö
+
+@RUOTSI = Annan excision eller ablation av aberrant hjärtfokus
+
+@END = 
+
+@KOODI_A = FPC
+
+@NCSP_A = FPSC
+
+@SUOMI_A = Kammioperäisten rytmihäiriöiden vuoksi tehtävät toimenpiteet
+
+@RUOTSI_A = Endokardiell myotomi för ventrikulära arytmier
+
+@ENGL_A = Endocardial myotomy for ventricular arythmia
+
+@END = 
+
+@KOODI = FPC00 
+
+@NCSP = FPSC00
+
+@SUOMI = Endokardiaalinen osittainen lihaksen katkaisu, myotomia, kammioarytmiassa
+
+@RUOTSI = Partiell endokardiell myotomi för ventrikulära arytmier
+
+@END = 
+
+@KOODI = FPC10 
+
+@NCSP = FPSC10
+
+@SUOMI = Endokardiaalinen lihaksen katkaisu, totaali myotomia, kammioarytmiassa
+
+@RUOTSI = Total endokardiell myotomi för ventrikulära arytmier
+
+@END = 
+
+@KOODI = FPC96 
+
+@NCSP = FPSC96
+
+@SUOMI = Muu endokardiaalinen toimenpide kammioperäisten rytmihäiriöiden vuoksi
+
+@RUOTSI = Annan endokardiell myotomi för ventrikulära arytmier
+
+@END = 
+
+@KOODI_A = FPD
+
+@NCSP_A = FPSD
+
+@SUOMI_A = Eteisvärinän vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Operation för förmaksflimmer
+
+@ENGL_A = Operations for atrial fibrillation
+
+@END = 
+
+@KOODI = FPD00 
+
+@NCSP = FPSD00
+
+@SUOMI = Eteisvärinän vuoksi tehtävä labyrinttileikkaus (Maze)
+
+@RUOTSI = Labyrintoperation för förmaksflimmer (Maze)
+
+@END = 
+
+@KOODI = FPD96 
+
+@NCSP = FPSD96
+
+@SUOMI = Muu eteisvärinän vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation för förmaksflimmer
+
+@END = 
+
+@KOODI_A = FPE
+
+@NCSP_A = FPSE
+
+@SUOMI_A = Pysyvän tahdistimen ja johtimen asettamiset laskimotietä
+
+@RUOTSI_A = Inläggande eller byte av permanent pacemaker och transvenös elektrod
+
+@ENGL_A = Implantation or replacement of permanent transvenous cardiac pacemaker
+
+@END = 
+
+@KOODI = FPE00 
+
+@NCSP = FPSE00
+
+@SUOMI = Pysyvän tahdistimen asettaminen, kammiojohdin laskimotietä
+
+@RUOTSI = Inläggande av permanent pacemaker, transvenös ventrikelelektrod
+
+@END = 
+
+@KOODI = FPE02 
+
+@NCSP = FPSE02
+
+@SUOMI = Pysyvän tahdistimen asettaminen laskimotietä, kammiotahdistus ja eteistunnistus
+
+@RUOTSI = Inläggande av permanent pacemaker, transvenös ventrikelelektrod med förmaksensor
+
+@NOTE_F = VDD
+
+@END = 
+
+@KOODI = FPE10 
+
+@NCSP = FPSE10
+
+@SUOMI = Pysyvän tahdistimen asettaminen, eteisjohdin laskimotietä
+
+@RUOTSI = Inläggande av permanent pacemaker, transvenös förmakselektrod
+
+@END = 
+
+@KOODI = FPE20 
+
+@NCSP = FPSE20
+
+@SUOMI = Pysyvän tahdistimen asettaminen eteis- ja kammiojohdin laskimotietä
+
+@RUOTSI = Inläggande av permanent pacemaker, transvenös förmaks- och ventrikelelektrod
+
+@END = 
+
+@KOODI = FPE30 
+
+@NCSP = FPSE30
+
+@SUOMI = Pysyvän tahdistimen pulssigeneraattorin vaihto
+
+@RUOTSI = Byte av pulsgenerator vid permanent transvenös pacemaker
+
+@END = 
+
+@KOODI = FPE40 
+
+@NCSP = FPSE40
+
+@SUOMI = Pysyvän tahdistimen elektrodin vaihto laskimotietä
+
+@RUOTSI = Byte av transvenös elektrod för permanent pacemaker
+
+@END = 
+
+@KOODI = FPE96 
+
+@NCSP = FPSE96
+
+@SUOMI = Muu pysyvän tahdistimen ja johtimen asettaminen laskimotietä
+
+@RUOTSI = Annat inläggande eller byte av pacemaker med transvenös elektrod
+
+@END = 
+
+@KOODI_A = FPF
+
+@NCSP_A = FPSF
+
+@SUOMI_A = Pysyvän epimyokardiaalisen tahdistimen asettamiset
+
+@RUOTSI_A = Inläggande eller byte av permanent epikardiell pacemaker
+
+@ENGL_A = Implantation or replacement of permanent epicardial pacemaker
+
+@END = 
+
+@KOODI = FPF00 
+
+@NCSP = FPSF00
+
+@SUOMI = Epimyokardiaalisen tahdistimen ja kammioelektrodin asettaminen
+
+@RUOTSI = Inläggande av epikardiell pacemaker med ventrikelelektrod
+
+@END = 
+
+@KOODI = FPF10 
+
+@NCSP = FPSF10
+
+@SUOMI = Epimyokardiaalisen tahdistimen ja eteiselektrodin asettaminen
+
+@RUOTSI = Inläggande av epikardiell pacemaker med förmakselektrod
+
+@END = 
+
+@KOODI = FPF20 
+
+@NCSP = FPSF20
+
+@SUOMI = Epimyokardiaalisen tahdistimen ja eteis- ja kammioelektrodien asettaminen
+
+@RUOTSI = Inläggande av epikardiell pacemaker med förmaks-och ventrikelelektrod
+
+@END = 
+
+@KOODI = FPF30 
+
+@NCSP = FPSF30
+
+@SUOMI = Epimyokardiaalisen tahdistimen pulssigeneraattorin vaihto
+
+@RUOTSI = Byte av pulsgenerator vid epikardiell pacemaker
+
+@END = 
+
+@KOODI = FPF40 
+
+@NCSP = FPSF40
+
+@SUOMI = Epimyokardiaalisen tahdistimen elektrodin vaihto
+
+@RUOTSI = Byte av elektrod vid epikardiell pacemaker
+
+@END = 
+
+@KOODI = FPF96 
+
+@NCSP = FPSF96
+
+@SUOMI = Muu epimyokardiaalisen tahdistimen asettaminen tai vaihto
+
+@RUOTSI = Annat inläggande eller byte av permanent epikardiell pacemaker
+
+@END = 
+
+@KOODI_A = FPG
+
+@NCSP_A = FPSG
+
+@SUOMI_A = Pysyvän defibrillaattorin asettamiset
+
+@RUOTSI_A = Inläggande av permanent intern cardioverter-defibrillator
+
+@ENGL_A = Implantation of permanent cardioverter-defibrillator
+
+@NOTE_RF = Tahdistimen vaihto kohdassa FPJ00
+
+@NOTE_RF =
+Sydämen rytminsiirto väliaikaisella defibrillaattorilla kohdassa TFP20
+
+@NOTE_RS = Revison av defibrillator, se TPJ00
+
+@NOTE_RS =
+Defibrillation med temporär defibrillator, se TFP20
+
+@END = 
+
+@KOODI = FPG02 
+
+@NCSP = FPSG02
+
+@SUOMI = Sisäisen defibrillaattorin asettaminen, eteiselektrodi
+
+@RUOTSI = Inläggande av transvenös intern defibrillator, förmakselektrod
+
+@END = 
+
+@KOODI = FPG04 
+
+@NCSP = FPSG04
+
+@SUOMI = Sisäisen defibrillaattorin asettaminen, eteis- ja kammioelektrodi
+
+@RUOTSI = Inläggande av transvenös intern defibrillator, förmaks- och kammarelektrod
+
+@END = 
+
+@KOODI = FPG10 
+
+@NCSP = FPSG10
+
+@SUOMI = Avoin epikardiaalisen defibrillaattorin asettamisleikkaus
+
+@RUOTSI = Öppet inläggande av epikardiell cardioverter-defibrillator
+
+@END = 
+
+@KOODI = FPG20 
+
+@NCSP = FPSG20
+
+@SUOMI = Epikardiaalisen defibrillaattorin asettaminen sydänleikkauksen aikana
+
+@RUOTSI = Inläggande av epikardiell cardioverter-defibrillator vid samtidig hjärtkirurgi
+
+@END = 
+
+@KOODI = FPG30 
+
+@NCSP = FPSG30
+
+@SUOMI = Defibrillaattorin asentaminen, kammiojohdin laskimoteitse
+
+@RUOTSI = Inläggande av transvenous cardioverter-defibrillator med generator och ventrikularelektroder
+
+@END = 
+
+@KOODI = FPG32 
+
+@NCSP = FPSG33
+
+@SUOMI = Defibrillaattorin asentaminen, kammio- ja eteisjohdin laskimoteitse
+
+@RUOTSI = Inläggande av transvenous cardioverter-defibrillator med generator, atrial- och ventrikularelektroder
+
+@END = 
+
+@KOODI = FPG40 
+
+@NCSP = FPSG40
+
+@SUOMI = Defibrillaattorin vaihto, johtimet asennettu laskimoteitse
+
+@RUOTSI = Byte av transvenous cardioverter-defibrillator med generator, atrial- och ventrikularelektroder
+
+@END = 
+
+@KOODI = FPG42 
+
+@NCSP = FPSG43
+
+@SUOMI = Defibrillaattorin laskimoteitse asennetun johtimen/johtimien vaihto
+
+@RUOTSI = Byte av elektroder vid transvenous cardioverter-defibrillator
+
+@END = 
+
+@KOODI = FPG96 
+
+@NCSP = FPSG96
+
+@SUOMI = Muu pysyvän defibrillaattorin asettamisleikkaus
+
+@RUOTSI = Annat inläggande av permanent cardioverter-defibrillator
+
+@END = 
+
+@KOODI_A = FPH
+
+@NCSP_A = FPSH
+
+@SUOMI_A = Tahdistimen tai sisäisen debrillaattorin poistot
+
+@RUOTSI_A = Avlägsnande av pacemaker, defibrillator eller pulsgenerator
+
+@ENGL_A = Removal of permanent cardiac pacemaker or cardioverter-defibrillator
+
+@END = 
+
+@KOODI = FPH00 
+
+@NCSP = FPSH00
+
+@SUOMI = Tahdistimen tai sisäisen debrillaattorin johtimen poisto laskimosta ilman leikkausta
+
+@RUOTSI = Extraktion av transvenöst system utan öppen operation
+
+@END = 
+
+@KOODI = FPH10 
+
+@NCSP = FPSH10
+
+@SUOMI = Tahdistimen tai sisäisen debrillaattorin johtimen poisto leikkauksella
+
+@RUOTSI = Öppet avlägsnande av transvenöst pacemaker/defibrillator-system
+
+@END = 
+
+@KOODI = FPH20 
+
+@NCSP = FPSH20
+
+@SUOMI = Epimyokardiaalisen tahdistimen tai defibrihlaattorin poisto
+
+@RUOTSI = Öppet avlägsnande av epikardiellt pacemaker/defibrillator-system
+
+@END = 
+
+@KOODI = FPH96 
+
+@NCSP = FPSH96
+
+@SUOMI = Muu tahdistimen tai sisäisen defibrillaattorin poisto
+
+@RUOTSI = Annan operation för avlägsnande av pacemaker, defibrillator eller pulsgenerator
+
+@END = 
+
+@KOODI_A = FPJ
+
+@NCSP_A = FPSJ
+
+@SUOMI_A = Tahdistimen tai sisäisen defibrillaattorin laitteen tai elektrodin tarkastus ja vaihto
+
+@RUOTSI_A = Revision av pacemaker pulsgenerator eller electrod
+
+@END = 
+
+@KOODI = FPJ00 
+
+@NCSP = FPSJ00
+
+@SUOMI = Tahdistimen tai sisäisen defibrillaattorin laitteen tai elektrodin tarkastus tai vaihto
+
+@RUOTSI = Revision av pacemaker pulsgenerator eller electrod
+
+@END = 
+
+@KOODI_A = FPW
+
+@NCSP_A = FPSW
+
+@SUOMI_A = Muut sydämen rytmi- ja johtumishäiriöiden vuoksi tehtävät leikkaukset
+
+@RUOTSI_A = Andra operationer för arytmi och överledningsrubbningar
+
+@ENGL_A = Other operations for arhythmias and disturbances of impulse propagation
+
+@END = 
+
+@KOODI = FPW96 
+
+@NCSP = FPSW96
+
+@SUOMI = Muu sydämen rytmi- ja johtumishäiriöiden vuoksi tehtävä leikkaus
+
+@RUOTSI = Annan operation för arytmi och överledningsrubbningar
+
+@END = 
+
+@KOODI_A = FP_
+
+@NCSP_A = FPX
+
+@SUOMI_A = Muut sydämen rytmi- ja johtumishäiriöiden vuoksi tehtävät toimenpiteet
+
+@RUOTSI_A = Andra åtgärder för arytmi och överledningsrubbningar
+
+@ENGL_A = Other procedures for arhythmias and disturbances of impulse propagation
+
+@END = 
+
+@KOODI = FK1BT 
+
+@NCSP = FPXA00
+
+@SUOMI = Sydämen tahdistimen asennus läpivalaisuohjauksessa
+
+@RUOTSI = Pacemaker insättning, genomlysningsstyrd
+
+@END = 
+
+@KOODI = TFP00 
+
+@NCSP = FPXX00
+
+@SUOMI = Tilapäisen laskimonsisäisen tai epikardiaalinen tahdistimen asettaminen
+
+@RUOTSI = Temporär användning av transvenös eller epikardiell pacemaker
+
+@END = 
+
+@KOODI = TFP20 
+
+@NCSP = FPXX20
+
+@SUOMI = Sydämen rytminsiirto
+
+@RUOTSI = Cardioversion av hjärtat
+
+@NOTE_F = Pysyvän defibrillaattorin asennus kohdassa FPG
+
+@NOTE_S = Inläggande av permanent defibrillatro, se FPG
+
+@END = 
+
+@KOODI = TFP30 
+
+@NCSP = FPXX30
+
+@SUOMI = Sydämen rytmihäiriön katetritutkimus
+
+@RUOTSI = Kateterundersökning av arytmier i hjärtat
+
+@END = 
+
+@KOODI = TFP31 
+
+@NCSP = FPXX31
+
+@SUOMI = Sydämen kammioiden katetritutkimus rytmihäiriön takia
+
+@RUOTSI = Ventrikulär kateterundersökning av arytmier i hjärtat
+
+@END = 
+
+@KOODI = TFP32 
+
+@NCSP = FPXX32
+
+@SUOMI = Sydämen rytmihäiriön katetrihoito
+
+@RUOTSI = Kateter behandling av arytmeir i hjärtat
+
+@END = 
+
+@KOODI_R = FQ
+
+@SUOMI_R = Sydän- ja sydänkeuhkosiirrot
+
+@RUOTSI_R = Hjärt- eller hjärtlungtransplantationer
+
+@ENGL_R = Transplantation of heart or heart and lung
+
+@NOTE_RF = Sydämen ja keuhkojen poisto elintensiirtoa varten kohdassa YFA
+
+@NOTE_RF =
+Pelkkä keuhkojensiirto kohdassa GDG
+
+@NOTE_RF =
+Biopsia siirretystä sydämestä kohdassa FJA
+
+@NOTE_RF =
+Bronkoskooppinen koepalan otto siirretystä keuhkosta, ks UGD
+
+@NOTE_RS = Operationer på donator, se YFA
+
+@NOTE_RS = Transplantation av endast lunga, se GDG
+
+@NOTE_RS = Biopsi av transplanterat hjärta, se FJA
+
+@NOTE_RS = Transbronkiell biopsi av transplanterad lunga, se GDA12
+
+@END = 
+
+@KOODI_A = FQA
+
+@NCSP_A = FQSA
+
+@SUOMI_A = Sydämensiirrot
+
+@RUOTSI_A = Transplantation av hjärta
+
+@ENGL_A = Transplantation of heart
+
+@END = 
+
+@KOODI = FQA00 
+
+@NCSP = FQSA00
+
+@SUOMI = Ortotooppinen sydämensiirto
+
+@RUOTSI = Ortotop hjärttransplantation
+
+@END = 
+
+@KOODI = FQA10 
+
+@NCSP = FQSA10
+
+@SUOMI = Ortotooppinen sydämensiirto, liittäminen bikavaalisesti
+
+@RUOTSI = Ortotop hjärttransplantation med bikaval anastomos
+
+@END = 
+
+@KOODI = FQA20 
+
+@NCSP = FQSA20
+
+@SUOMI = Ortotooppinen sydämensiirto ja saajan eteisten ja systeemilaskimoiden muovaus
+
+@RUOTSI = Ortotop hjärttranspl. med plastik av mottagarens förmak eller systemvener
+
+@END = 
+
+@KOODI = FQA30 
+
+@NCSP = FQSA30
+
+@SUOMI = Heterotooppinen sydämensiirto
+
+@RUOTSI = Heterotop hjärttransplantation
+
+@END = 
+
+@KOODI = FQA40 
+
+@NCSP = FQSA40
+
+@SUOMI = Sydämensiirto, jossa elävä luovuttaja, dominotransplantaatio
+
+@RUOTSI = Hjärttransplantation med levande donator (dominotransplantation)
+
+@END = 
+
+@KOODI = FQA96 
+
+@NCSP = FQSA96
+
+@SUOMI = Muu sydämensiirtotoimenpide
+
+@RUOTSI = Annan hjärttransplantation
+
+@END = 
+
+@KOODI_A = FQB
+
+@NCSP_A = FQSB
+
+@SUOMI_A = Sydämen ja keuhkojen siirrot
+
+@RUOTSI_A = Transplantation av hjärta och lungor
+
+@ENGL_A = Transplantation of heart and lung
+
+@END = 
+
+@KOODI = FQB00 
+
+@NCSP = FQSB00
+
+@SUOMI = Sydämen ja keuhkojen siirto
+
+@RUOTSI = Hjärt-lungtransplantation
+
+@END = 
+
+@KOODI = FQB10 
+
+@NCSP = FQSB10
+
+@SUOMI = Sydämen ja keuhkojen siirto, liittäminen bikavaalisesti
+
+@RUOTSI = Hjärt-lungtransplantation med bikaval anastomos
+
+@END = 
+
+@KOODI = FQB20 
+
+@NCSP = FQSB20
+
+@SUOMI = Sydämen ja keuhkojen siirto ja saajan eteisten ja systeemilaskimoiden muovaus
+
+@RUOTSI = Hjärt-lungtransplantation med plastik av mottagarens förmak eller systemvener
+
+@END = 
+
+@KOODI = FQB30 
+
+@NCSP = FQSB30
+
+@SUOMI = Sydämen ja keuhkojen siirto ja keuhkoputkivaltimoiden uudelleenvaskularisointi
+
+@RUOTSI = Hjärt-lungtransplantation med anastomos av bronkialartärer
+
+@END = 
+
+@KOODI = FQB96 
+
+@NCSP = FQSB96
+
+@SUOMI = Muu sydän- ja keuhkosiirtoleikkaus
+
+@RUOTSI = Annan hjärt-lungtransplantation
+
+@END = 
+
+@KOODI_A = FQW
+
+@NCSP_A = FQSW
+
+@SUOMI_A = Muut sydän- tai sydän- ja keuhkosiirtoleikkaukset
+
+@RUOTSI_A = Andra operationer vid hjärt- eller hjärtlungtransplantation
+
+@ENGL_A = Other procedures in transplantation of heart and lung
+
+@END = 
+
+@KOODI = FQW96 
+
+@NCSP = FQSW96
+
+@SUOMI = Muu sydän- tai sydän- ja keuhkosiirtoleikkaus
+
+@RUOTSI = Annan operation vid hjärt- eller hjärtlungtransplantation
+
+@END = 
+
+@KOODI_R = FW
+
+@SUOMI_R = Sydämen ja rintaontelosuonien haavakomplikaatio- ja uusintatoimenpiteet
+
+@RUOTSI_R = Reoperationer för sårkomplikationer av operationer på hjärtat och de stora intratorakala kärlen
+
+@ENGL_R = Reoperations on heart and major thoracic vessels
+
+@END = 
+
+@KOODI = FWA00 
+
+@NCSP = FWSA00
+
+@SUOMI = Auenneen tai tulehtuneen sydän- tai rintaontelon verisuonileikkauksen haavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/infektion efter hjärtoperation eller torakal kärlkirurgi
+
+@END = 
+
+@KOODI = FWC00 
+
+@NCSP = FWSC00
+
+@SUOMI = Sydän- tai rintaontelosuonileikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Incision och dränage för sårinfektion efter hjärtoperation eller torakal kärlkirurgi
+
+@END = 
+
+@KOODI = FWD00 
+
+@NCSP = FWSD00
+
+@SUOMI = Sydän- tai rintaontelosuonileikkauksen uusintaleikkaus vuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter hjärtoperation eller torakal kärlkirurgi
+
+@END = 
+
+@KOODI = FWF00 
+
+@NCSP = FWSF00
+
+@SUOMI = Sydän- tai rintaontelosuonileikkauksen uusintaleikkaus liitosompeleiden pettämisen vuoksi
+
+@RUOTSI = Reoperation för anastomosruptur efter hjärtoperation eller torakal kärlkirurgi
+
+@END = 
+
+@KOODI = FWG00 
+
+@NCSP = FWSG00
+
+@SUOMI = Sydän- tai rintaontelosuonileikkauksen uusintaleikkaus veritulpan vuoksi
+
+@RUOTSI = Reoperation för trombos efter hjärtoperation eller torakal kärlkirurgi
+
+@END = 
+
+@KOODI = FWW96 
+
+@NCSP = FWSW96
+
+@SUOMI = Muu sydän- tai rintaontelosuonileikkauksen komplikaatioleikkaus
+
+@RUOTSI = Annan reoperation för komplikation efter hjärtoperation eller torakal kärlkirurgi
+
+@NOTE_F = Sisältää aikaisen sydän- ja rintaontelosuonileikkauksen uusinta- tai komplikaatioleikkauksen
+
+@NOTE_F =
+Myöhäinen suunniteltu komplikaatio- tai uusintaleikkaus ilmaistaan lisäkoodilla ZSF00
+
+@NOTE_S = Inkl tidig reoperation efter hjärtoperation eller operation på torakala kärl
+
+@NOTE_S = Sen, elektiv reoperation eller revision p.g.a. komplikation anges med tilläggskoden ZSF00
+
+@END = 
+
+@KOODI = TFW99 
+
+@NCSP = FWXX99
+
+@SUOMI = Muu sydämen ja suurten verisuonien pientoimenpide
+
+@RUOTSI = Annat mindre ingrepp på hjärtat eller de stora kärlen
+
+@END = 
+
+@KOODI_R = FX
+
+@SUOMI_R = Muut sydämen ja suurten suonten toimenpiteet
+
+@RUOTSI_R = Andra åtgärder på hjärta och stora kärlen
+
+@ENGL_R = Other procedures of heart and great vessels
+
+@END = 
+
+@KOODI_A = FX_
+
+@NCSP_A = FXD
+
+@SUOMI_A = Sydämen ja suurten suonten diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av hjärta och stora kärlen
+
+@ENGL_A = Diagnostic radiology of heart and great vessels
+
+@NOTE_RF = Sikiön sydämen tutkimukset kohdassa MAD
+
+@NOTE_RS = Undersökning av fosterhjärta, se MAD
+
+@END = 
+
+@KOODI = FA1AC 
+
+@NCSP = FXDC1A
+
+@SUOMI = Yläonttolaskimon varjoainetutkimus
+
+@RUOTSI = Kavografi, övre hålvenen
+
+@END = 
+
+@KOODI = FK1AC 
+
+@NCSP = FXDC2A
+
+@SUOMI = Sydämen oikean puolen varjoainetutkimus (kardioangiografia)
+
+@RUOTSI = Höger hjärthalva, kontrastundersökning
+
+@END = 
+
+@KOODI = FL1AC 
+
+@NCSP = FXDC3A
+
+@SUOMI = Sydämen vasemman puolen varjoainetutkimus (kardioangiografia)
+
+@RUOTSI = Vänster hjärthalva, kontrastundersökning
+
+@END = 
+
+@KOODI = FM1AD 
+
+@NCSP = FXDD1A
+
+@SUOMI = Sydämen TT
+
+@RUOTSI = Hjärta, DT
+
+@END = 
+
+@KOODI = FM1BD 
+
+@NCSP = FXDD1A
+
+@SUOMI = Sydämen laaja TT
+
+@RUOTSI = Hjärta, omfattande DT
+
+@END = 
+
+@KOODI = FM1CD 
+
+@NCSP = FXDD1A
+
+@SUOMI = Sydämen erittäin laaja TT
+
+@RUOTSI = Hjärta, mycket omfattande DT
+
+@END = 
+
+@KOODI = FM1PD 
+
+@NCSP = FXDD1P
+
+@SUOMI = Sydämen perfuusio-TT
+
+@RUOTSI = Hjärtperfusionsundersökning med DT
+
+@END = 
+
+@KOODI = FM1AE 
+
+@NCSP = FXDE1A
+
+@SUOMI = Sydämen yleinen UÄ
+
+@RUOTSI = Hjärta, UL
+
+@END = 
+
+@KOODI = FM1DE 
+
+@NCSP = FXDE1A
+
+@SUOMI = Sydämen Doppler-UÄ
+
+@RUOTSI = Hjärta, UL med dopplerteknik
+
+@NOTE_F = Sisältää minuuttivolyymin, shuntin ja painegradientin mittauksen
+
+@NOTE_S = Innefttar mätning av minutvolym, shunt och tryckgradient
+
+@END = 
+
+@KOODI = FM1EE 
+
+@NCSP = FXDE1A
+
+@SUOMI = Sydämen kattava rakenteellinen ja toiminnallinen UÄ
+
+@RUOTSI = Härta, omfattande strukturell och funktionell UL
+
+@END = 
+
+@KOODI = FM1LE 
+
+@NCSP = FXDE1A
+
+@SUOMI = Rasitus-UKG
+
+@RUOTSI = Belastnings-UKG
+
+@END = 
+
+@KOODI = FM1KE 
+
+@NCSP = FXDE1K
+
+@SUOMI = Sydämen UÄ varjoainetta käyttäen
+
+@RUOTSI = Hjärta, UL med kontrastmedel
+
+@END = 
+
+@KOODI = FM1BE 
+
+@NCSP = FXDE4B
+
+@SUOMI = Sydämen UÄ ruokatorven kautta (transesofageaalinen UÄ)
+
+@RUOTSI = Hjärta, UL med transesofagealteknik
+
+@END = 
+
+@KOODI = FM1CE 
+
+@NCSP = FXDE6C
+
+@SUOMI = Sydämen sisäosien UÄ katetrin kautta
+
+@RUOTSI = Hjärtat inre delar, UL via kateter
+
+@END = 
+
+@KOODI = XFE00 
+
+@NCSP = FXDE7B
+
+@SUOMI = Ultraäänitutkimus sydämen pinnalta
+
+@RUOTSI = Epikardiell ultraljudsundersökning
+
+@END = 
+
+@KOODI = XFE01 
+
+@NCSP = FXDE7C
+
+@SUOMI = Ultraäänitutkimus sydämen pinnalta tähystyksessä
+
+@RUOTSI = Torakoskopisk epikardiell ultraljudsundersökning
+
+@END = 
+
+@KOODI = FM1RE 
+
+@NCSP = FXDE7D
+
+@SUOMI = Sydämen peroperatiivinen UÄ
+
+@RUOTSI = Hjärta, peroperativ UL
+
+@END = 
+
+@KOODI = FM1PE 
+
+@NCSP = FXDE8P
+
+@SUOMI = Valtimotiehyeen UÄ (ductus UÄ) *
+
+@RUOTSI = Ductus Botalli, UL *
+
+@END = 
+
+@KOODI = FM1BF 
+
+@NCSP = FXDG1B
+
+@SUOMI = Sydämen magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärta, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FM1BG 
+
+@NCSP = FXDG1B
+
+@SUOMI = Sydämen magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärta, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = FM1CF 
+
+@NCSP = FXDG1B
+
+@SUOMI = Sydämen laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärta, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FM1CG 
+
+@NCSP = FXDG1B
+
+@SUOMI = Sydämen laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärta, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = FM1DF 
+
+@NCSP = FXDG1B
+
+@SUOMI = Sydämen erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Hjärta, mycket omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = FM1DG 
+
+@NCSP = FXDG1B
+
+@SUOMI = Sydämen erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Hjärta, mycket omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI = FM1AK 
+
+@NCSP = FXDK1A
+
+@SUOMI = Sydämen spektroskopia
+
+@RUOTSI = Spektroskopi av hjärtat
+
+@END = 
+
+@KOODI = FM1AL 
+
+@NCSP = FXDL1A
+
+@SUOMI = Sydämen magneettikenttämittaus (magnetokardiografia, MCG)
+
+@RUOTSI = Magnetkardiografi MCG
+
+@END = 
+
+@KOODI_A = FX_
+
+@NCSP_A = FXF0
+
+@SUOMI_A = Elektrokardiografia
+
+@RUOTSI_A = Elektrokardiografi
+
+@ENGL_A = Electrocardiography
+
+@END = 
+
+@KOODI = XF400 
+
+@NCSP = FXF000
+
+@SUOMI = 12-kytkentäinen EKG
+
+@RUOTSI = EKG med 12 led
+
+@END = 
+
+@KOODI = XF402 
+
+@NCSP = FXF002
+
+@SUOMI = Kuormituskoe
+
+@RUOTSI = Belastnings test
+
+@NOTE_F = Sisältää rasitus EKG:n ja siihen liittyvät oheismittaukset
+
+@NOTE_S = Innefattar alla mätningar i samband med belastnings EKG
+
+@END = 
+
+@KOODI = XF404 
+
+@NCSP = FXF004
+
+@SUOMI = EKG:n pitkäaikaisrekisteröinti
+
+@RUOTSI = Ambulatorisk EKG
+
+@NOTE_F = Sisältää tulkinnan
+
+@NOTE_S = Inkl tolkning
+
+@END = 
+
+@KOODI = XF405 
+
+@NCSP = FXF005
+
+@SUOMI = Oire-EKG
+
+@RUOTSI = Symtom-EKG
+
+@END = 
+
+@KOODI = XF406 
+
+@NCSP = FXF006
+
+@SUOMI = Herkkyys EKG
+
+@RUOTSI = Storresolution EKG
+
+@NOTE_F = Suurresoluutio EKG
+
+@END = 
+
+@KOODI = XF408 
+
+@NCSP = FXF008
+
+@SUOMI = Ruokatorvi EKG
+
+@RUOTSI = Esophageal EKG
+
+@END = 
+
+@KOODI = XF409 
+
+@NCSP = FXF009
+
+@SUOMI = Muu erityisrekisteröinti EKG
+
+@RUOTSI = Annan speciell EKG
+
+@END = 
+
+@KOODI = TFP04 
+
+@NCSP = FXF030
+
+@SUOMI = Kallistuskoe
+
+@RUOTSI = Lutningstest
+
+@END = 
+
+@KOODI = XFP20 
+
+@NCSP = FXF030
+
+@SUOMI = Sydämen tahdistinlaitteen kontrolli
+
+@RUOTSI = Kontrol av pacemaker i hjärtat
+
+@END = 
+
+@KOODI_A = FX_
+
+@NCSP_A = FXF1
+
+@SUOMI_A = Muut sydämen toiminnan tutkimustoimenpiteet
+
+@RUOTSI_A = Andra undersökningar av hjärtats funktion
+
+@ENGL_A = Other investigations of hearth function
+
+@END = 
+
+@KOODI = XF600 
+
+@NCSP = FXF100
+
+@SUOMI = Verenpaineen mittaus
+
+@RUOTSI = Blodtrycksmätning
+
+@NOTE_F = Sisältää noninvasiiviset ääreisverenpaineen mittaukset varmistusmenetelmineen (isovarvas, ABI,PVR)
+
+@NOTE_S = Innefattar noninvasiva perfifera blodtrycksmätningar med sina försäkrginsmetoder (stortå, ABI, PVR)
+
+@END = 
+
+@KOODI = XF601 
+
+@NCSP = FXF101
+
+@SUOMI = Verenpaineen mittaus Doppler-ultraäänilaitteen avulla
+
+@RUOTSI = Blodtrycksmätning med Doppler-ultraljuds metod
+
+@END = 
+
+@KOODI = XF602 
+
+@NCSP = FXF102
+
+@SUOMI = Verenpaineen pitkäaikaisseuranta
+
+@RUOTSI = Monitorering av blodtrycket
+
+@END = 
+
+@KOODI = XF603 
+
+@NCSP = FXF103
+
+@SUOMI = Suora valtimopaineen mittaus
+
+@RUOTSI = Direkt blodtrycksmätning
+
+@END = 
+
+@KOODI = XF604 
+
+@NCSP = FXF104
+
+@SUOMI = Barorefleksin herkkyyden mittaus
+
+@RUOTSI = Baroreflex sensitivtätsbestämning
+
+@END = 
+
+@KOODI = XF606 
+
+@NCSP = FXF106
+
+@SUOMI = Ortostaattinen koe
+
+@RUOTSI = Ortostatisk test
+
+@END = 
+
+@KOODI = XF610 
+
+@NCSP = FXF110
+
+@SUOMI = Sykevaihtelun mittaaminen
+
+@RUOTSI = Mätning av pulsvarians
+
+@END = 
+
+@KOODI = XF612 
+
+@NCSP = FXF112
+
+@SUOMI = Keskuslaskimopainen mittaus
+
+@RUOTSI = Mätning av ventralt venöst tryck
+
+@END = 
+
+@KOODI = XF614 
+
+@NCSP = FXF114
+
+@SUOMI = Kiilapaineen mittaus
+
+@RUOTSI = Mätning av tryck i arteria pulmonalis
+
+@END = 
+
+@KOODI = XF619 
+
+@NCSP = FXF119
+
+@SUOMI = Muu fysikaalinen sydäntutkimus
+
+@RUOTSI = Annan fysikalisk undersökning av hjärtat
+
+@NOTE_F = Kinotokardiografia
+
+@NOTE_F =
+Apex-kardiografia
+
+@NOTE_F =
+Kaulalaskimon pulssikäyrät
+
+@NOTE_F =
+A. carotiksen pulssikäyrä
+
+@NOTE_S = Kinotokardiografi
+
+@NOTE_S =
+Apex-kardiografi
+
+@NOTE_S =
+Pulsmätning av halsvener
+
+@NOTE_S =
+Pulsmätning av a. carotis
+
+@END = 
+
+@KOODI = XF620 
+
+@NCSP = FXF120
+
+@SUOMI = Verenkierron värilaimennos tutkimus
+
+@RUOTSI = Undersökning av cirkulation med färg
+
+@END = 
+
+@KOODI = XF622 
+
+@NCSP = FXF122
+
+@SUOMI = Sydämen minuuttivoluumin mittaus
+
+@RUOTSI = Undersökning av hjärtats minutvolym
+
+@NOTE_F = Fick'in mentelemä
+
+@NOTE_F =
+Termodiluutio
+
+@NOTE_S = Fick's metod
+
+@NOTE_S =
+Termodilution
+
+@END = 
+
+@KOODI = XF645 
+
+@NCSP = FXF145
+
+@SUOMI = Sydämen ultraäänitutkimus rasituksessa
+
+@RUOTSI = Ultraljudsundersökning av hjärtat vid belastning
+
+@END = 
+
+@KOODI = XF650 
+
+@NCSP = FXF150
+
+@SUOMI = Sydämen supistustoiminnan isotooppitutkimus levossa
+
+@RUOTSI = Funktionell isotopundersökning av hjärtat utan belastning
+
+@NOTE_F = MUGA
+
+@END = 
+
+@KOODI = XF651 
+
+@NCSP = FXF151
+
+@SUOMI = Sydämen supistustoiminnan isotooppitutkimus kuormituksen aikana
+
+@RUOTSI = Funktionell isotopundersökning av hjärtat med belastning
+
+@END = 
+
+@KOODI = XF652 
+
+@NCSP = FXF152
+
+@SUOMI = Sydänlihaksen verenvirtauksen isotooppitutkimus levossa
+
+@RUOTSI = Undersökning av hjärtmuskelns perfusion med isotopteknik utan belastning
+
+@END = 
+
+@KOODI = XF655 
+
+@NCSP = FXF155
+
+@SUOMI = Sydänlihaksen verenvirtauksen isotooppitutkimus kuormituksen aikana
+
+@RUOTSI = Undersökning av hjärtmuskelns perfusion med isotopteknik och belastning
+
+@END = 
+
+@KOODI = XF659 
+
+@NCSP = FXF159
+
+@SUOMI = Sydänlihaksen muu isotooppitutkimus
+
+@RUOTSI = Annan isotopundersökning av härtat
+
+@END = 
+
+@KOODI = XF660 
+
+@NCSP = FXF160
+
+@SUOMI = Sydämen oikovirtauksen isotooppitutkimus
+
+@RUOTSI = Isotopundersökning av intrakardiell shunt
+
+@END = 
+
+@KOODI_A = FX_
+
+@NCSP_A = FXF2
+
+@SUOMI_A = Sydämen katetrisointi
+
+@RUOTSI_A = Katerisering av hjärtat
+
+@ENGL_A = Cardiac cathetrisation
+
+@END = 
+
+@KOODI = TFC00 
+
+@NCSP = FXF200
+
+@SUOMI = Sydämen oikean eteisen ja/tai kammion katetrointi
+
+@RUOTSI = Katetrisering av högerhjärtat
+
+@NOTE_F = Varjoainetutkimus, katso FK1AC
+
+@NOTE_S = Med angiografi, se FK1AC
+
+@END = 
+
+@KOODI = TFC10 
+
+@NCSP = FXF210
+
+@SUOMI = Sydämen vasemman eteisen ja/tai kammion  katetrointi
+
+@RUOTSI = Katetrisering av vänsterhjärtat
+
+@NOTE_F = Varjoainetutkimus, katso FL1AC
+
+@NOTE_S = Med angiografi, se FL1AC
+
+@END = 
+
+@KOODI = TFC20 
+
+@NCSP = FXF220
+
+@SUOMI = Katetrointi sydämen molemmille puolille
+
+@RUOTSI = Katetrisering av både höger- och vänsterhjärtat
+
+@NOTE_F = Eteis- tai kammioväliseinän aukon läpi
+
+@NOTE_S = Genom öppning i förmaks- eller kammaseptum
+
+@END = 
+
+@KOODI = TFC25 
+
+@NCSP = FXF225
+
+@SUOMI = Sydämen vasemman puolen katetrointi eteisväliseinäaukon lävitse
+
+@RUOTSI = Transseptal katetrisering av vänsterhjärtat
+
+@END = 
+
+@KOODI = TFC30 
+
+@NCSP = FXF230
+
+@SUOMI = Aortan koarktaation pallolaajennus
+
+@RUOTSI = Ballongutvidgning av koarktation av aortta
+
+@END = 
+
+@KOODI = TFC99 
+
+@NCSP = FXF299
+
+@SUOMI = Sydämen katetrointi ja muu toimenpide
+
+@RUOTSI = Katetrisering av hjärtat med annan åtgärd
+
+@END = 
+
+@KOODI_A = FX_
+
+@NCSP_A = FXX
+
+@SUOMI_A = Muut sydämen ja suurten suonten pientoimenpiteet
+
+@RUOTSI_A = Andra mindre åtgärder på hjärta och stora kärlen
+
+@ENGL_A = Other minor procedures on heart and great vessels
+
+@END = 
+
+@KOODI = TFJ00 
+
+@NCSP = FXX000
+
+@SUOMI = Sydämen tai suurten suonten punktio
+
+@RUOTSI = Punktion av hjärtat eller de stora kärlen
+
+@END = 
+
+@KOODI = XFX97 
+
+@NCSP = FXX001
+
+@SUOMI = Muu sydämen tai suurten suonten tutkimuksellinen pisto tähystyksessä
+
+@RUOTSI = Annan diagnostisk endoskopisk punktion av hjärtat eller de stora kärlen
+
+@END = 
+
+@KOODI = XFX00 
+
+@NCSP = FXX002
+
+@SUOMI = Sydämen tai suurten suonten punktio ja verinäytteen otto
+
+@RUOTSI = Intraoperativ punktion av hjärtat eller de stora kärlen (blodprovstagning)
+
+@END = 
+
+@KOODI = XFX10 
+
+@NCSP = FXX004
+
+@SUOMI = Sydämen tai suurten suonten pisto ja paineen mittaus
+
+@RUOTSI = Intraoperativ punktion av hjärtat eller de stora kärlen (manometri)
+
+@END = 
+
+@KOODI = TFJ02 
+
+@NCSP = FXX010
+
+@SUOMI = Sydänlihasbiopsia
+
+@RUOTSI = Hjärtmuskelbiopsi
+
+@END = 
+
+@KOODI = XFX20 
+
+@NCSP = FXX020
+
+@SUOMI = Sydämen ja/tai suurten suonten virtausmittaus
+
+@RUOTSI = Intraoperativ flödesmätning i hjärtat eller de stora kärlen
+
+@END = 
+
+@KOODI_R = FZ
+
+@SUOMI_R = Kehonulkoisen tai avustetun verenkierron toimenpiteet
+
+@RUOTSI_R = Åtgärder i samband med extrakorporeal eller assisterad cirkulation
+
+@ENGL_R = Procedures relating to extracorporeal or assisted circulation
+
+@NOTE_RF = ECHLA = Extra corporeal heart-lung assist - avustava sydänkeuhkokone
+
+@NOTE_RF =
+ECMO = Extra corporeal membrane oxygenation - verta hapettava laite
+
+@NOTE_RF =
+IABP = Intra aortic balloon pump - sydämen vasemman kammion toimintaa tukeva laite
+
+@NOTE_RF =
+PABP = Pulmonary artery balloon pump - sydämen oikean kammion toimintaa tukeva laite
+
+@NOTE_RF =
+TAH = Total artificial heart - keinosydän
+
+@NOTE_RF =
+VAD = Ventricular assist device - jompaa kumpaa kammiota avustava laite ilman kehonulkoista hapetusta
+
+@END = 
+
+@KOODI_A = FXA
+
+@NCSP_A = FZS
+
+@SUOMI_A = Kehonulkoinen verenkierto
+
+@RUOTSI_A = Intraoperativ total kardiopulmonell förbiledning (by-pass)
+
+@ENGL_A = Intraoperative total cardiopulmonary bypass
+
+@END = 
+
+@KOODI = FXA00 
+
+@NCSP = FZSA00
+
+@SUOMI = Täydellinen sydämen ja keuhkojen ohitus normotermia, tai lievä hypotermia
+
+@RUOTSI = Total kardiopulmonell förbiledning i normotermi eller moderat hypotermi
+
+@END = 
+
+@KOODI = FXA10 
+
+@NCSP = FZSA10
+
+@SUOMI = Täydellinen sydämen ja keuhkojen ohitus, syvä hypotermia
+
+@RUOTSI = Total kardiopulmonell förbiledning (by-pass) i djup hypotermi
+
+@END = 
+
+@KOODI = FXA20 
+
+@NCSP = FZSA20
+
+@SUOMI = Täydellinen sydämen ja keuhkojen ohitus, syvä hypotermia ja verenkierron pysäytys
+
+@RUOTSI = Total kardiopulmonell förbiledning i djup hypotermi och med kardioplegi
+
+@END = 
+
+@KOODI = FXA96 
+
+@NCSP = FZSA96
+
+@SUOMI = Muu sydämen ja keuhkojen ohitus leikkauksessa
+
+@RUOTSI = Annan intraoperativ total kardiopulmonell förbiledning (by-pass)
+
+@END = 
+
+@KOODI = FXB00 
+
+@NCSP = FZSB00
+
+@SUOMI = Osittainen sydämen ja keuhkojen ohitus leikkauksessa
+
+@RUOTSI = Partiell intraoperativ kardiopulmonell förbiledning
+
+@END = 
+
+@KOODI = FXC00 
+
+@NCSP = FZSC00
+
+@SUOMI = Osittainen sydämen ja keuhkojen ohitus ilman hapettajaa
+
+@RUOTSI = Partiell intraoperativ kardiopulmonell förbiledning utan oxygenator
+
+@END = 
+
+@KOODI = FXD00 
+
+@NCSP = FZSD00
+
+@SUOMI = Sydänkeuhkokoneen  käyttö ilman kirurgista toimenpidettä
+
+@RUOTSI = Bruk av hjärt-lungmaskin utan samtidig hjärt/lungkirurgi
+
+@END = 
+
+@KOODI = FXE00 
+
+@NCSP = FZSE00
+
+@SUOMI = Sydänkeuhkokoneen  käyttö kaasujen vaihdon tukemiseen ilman kirurgista toimenpidettä
+
+@RUOTSI = Bruk av hjärt-lungmaskin för att underlätta gasutbyte utan samtidig hjärt/lungkirurgi
+
+@NOTE_F = Veri johdetaan koneeseen tavallisesti laskimosta ja palautetaan toiseen laskimoon (esim. reisilaskimot)
+
+@NOTE_S = Blod utförs vanligen från en ven och pumpas tillbaka till en annan (t.ex. femoralvener)
+
+@END = 
+
+@KOODI = FXF00 
+
+@NCSP = FZSF00
+
+@SUOMI = Kanyylin poisto sydänkeuhkokoneen käytön jälkeen
+
+@RUOTSI = Avlägsnande av kanyl(er) efter hjärt-lungmaskin
+
+@NOTE_F = Esim. ECMO-hoidon jälkeen
+
+@NOTE_S = T. ex. efter ECMO-behandling
+
+@END = 
+
+@KOODI = FXG00 
+
+@NCSP = FZSG00
+
+@SUOMI = IABP:n asettaminen ja käyttö
+
+@RUOTSI = Applikation av IABP
+
+@END = 
+
+@KOODI = FXH00 
+
+@NCSP = FZSH00
+
+@SUOMI = IABP:n poisto
+
+@RUOTSI = Avlägsnande av IABP
+
+@END = 
+
+@KOODI = FXJ00 
+
+@NCSP = FZSJ00
+
+@SUOMI = PABP:n asettaminen ja käytön seuranta
+
+@RUOTSI = Applikation av PABP
+
+@END = 
+
+@KOODI = FXK00 
+
+@NCSP = FZSK00
+
+@SUOMI = PABP:n poisto
+
+@RUOTSI = Avlägsnande av PABP
+
+@END = 
+
+@KOODI = FXL00 
+
+@NCSP = FZSL00
+
+@SUOMI = Ekstra-/para-/intrakorporeaalisen VAD:n asettaminen ja käyttö
+
+@RUOTSI = Applikation och bruk av ECMO
+
+@END = 
+
+@KOODI = FXM00 
+
+@NCSP = FZSM00
+
+@SUOMI = Ekstra-/para-/intrakorporeaalisen VAD:n poisto
+
+@RUOTSI = Avlägsnande av ektra-/para-/intrakorporeal VAD
+
+@END = 
+
+@KOODI = FXN00 
+
+@NCSP = FZSN00
+
+@SUOMI = Keinosydämen käyttöön liittyvät toimenpiteet
+
+@RUOTSI = Ingrepp i samband med konstgjord hjärta
+
+@NOTE_F = TAH
+
+@END = 
+
+@KOODI = FXP00 
+
+@NCSP = FZSP00
+
+@SUOMI = Hemodialyysi tai hemofiltraatio sydämen ja keuhkojen kehonulkoisen ohituksen aikana
+
+@RUOTSI = Hemodialys/hemofiltration under kardiopulmonell förbiledning
+
+@END = 

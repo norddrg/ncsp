@@ -1,0 +1,2363 @@
+
+###
+#KOODI_L    D
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korvan, nenän ja kurkunpään toimenpiteet
+#RUOTSI     Åtgärder på öron, näsa, hals och struphuvud
+#ENGL       Ear, nose and larynx procedures
+#OHJE_S  
+Punktiot ja neulabiosiat kohdassa TD
+Trakeostomia kohdassa GBC
+Trakeoskopiat kohdassa UGA
+#OHJE_R 
+Punktion och punktionsbiopsi , se TD
+Trakeotomiingrepp, se GBC
+Trakeoskopi, se UGA
+###
+#KOODI_R    DA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ulkokorvan toimenpiteet
+#RUOTSI     Operationer på ytterörat
+#ENGL       Auricle
+#OHJE_S  
+Koepalat pään ihosta luvussa Q
+Koepalat ulkokorvasta luvussa T
+#OHJE_R 
+Biopsi av huvudets hud, se Q
+Biopsi av ytterörat, se T
+###
+#KOODI_A    DA0
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Korvan sädehoito
+#RUOTSI     Strålbehandling av örat
+#ENGL       
+#OHJE_S  
+Sisältää korvalehden, korvakäytävän, välikorvanontelon ja sisäkorvan
+#OHJE_R 
+Uppfattar ytre örat, mellanörat och inre örat
+###
+#KOODI      DA001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito korvan primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i örat
+#LYHENNE    
+###
+#KOODI      DA002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali korvan primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i örat
+#LYHENNE    
+###
+#KOODI      DA003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito korvan primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i örat
+#LYHENNE    
+###
+#KOODI      DA004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito korvan primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i örat
+#LYHENNE    
+###
+#KOODI      DA029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito korvan paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i örat
+#LYHENNE    
+###
+#KOODI      DA049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito korvassa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i örat
+#LYHENNE    
+###
+#KOODI      DA090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito korvan profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av örat
+#LYHENNE    Sädehoito korvan profylaktisena hoitona
+###
+#KOODI      DA099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu korvan sädehoito
+#RUOTSI     Annan strålbehandling av örat
+#LYHENNE    Muu korvan sädehoito
+###
+#KOODI      DAA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4102      
+#SUOMI      Korvalehden paikallisen muutoksen aukaisu
+#RUOTSI     Incision av auricle
+#LYHENNE    Ulkokorvan paikallisen muutoksen aukaisu
+#OHJE_S  
+Sisältää korvakäytävän paikallisen muutoksen aukaisun
+#OHJE_R 
+Inkl incision av hörselgången
+###
+#KOODI      DAB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4103      
+#SUOMI      Ulkokorvan paikallisen muutoksen poisto
+#RUOTSI     Resektion av  lokal förändring i ytterörat
+#LYHENNE    Ulkokorvan paikallisen muutoksen poisto
+###
+#KOODI      DAB10
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ulkokorvan poisto osittain
+#RUOTSI     Delresektion av ytterörat
+#LYHENNE    Ulkokorvan poisto osittain
+###
+#KOODI      DAB15
+#MUUT_PVM   1996/04/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4103      
+#SUOMI      Ulkokorvan poisto kokonaan
+#RUOTSI     Totalexstirpation av ytterörat
+#LYHENNE    Ulkokorvan poisto kokonaan
+###
+#KOODI      DAB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4106      
+#SUOMI      Ulkokorvan avanteen leikkaus
+#RUOTSI     Operation av preaurikulär fistel
+#LYHENNE    Ulkokorvan avanteen leikkaus
+###
+#KOODI      DAD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4101      
+#SUOMI      Ulkokorvan ompelu
+#RUOTSI     Sutur av ytterörat
+#LYHENNE    Ulkokorvan ompelu
+###
+#KOODI      DAD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4105+     
+#SUOMI      Ulkokorvan korjaaminen
+#RUOTSI     Rekonstruktion av ytterörat
+#LYHENNE    Ulkokorvan korjaaminen
+###
+#KOODI      DAD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4109      
+#SUOMI      Ulkokorvaproteesin kiinnittäminen
+#RUOTSI     Fixering av aurikelprotes
+#LYHENNE    Ulkokorvaproteesin kiinnittäminen
+###
+#KOODI      DAD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4104      
+#SUOMI      Ulkokorvan muodon tai asennon muuttaminen
+#RUOTSI     Plastikoperation på ytterörat
+#LYHENNE    Ulkokorvan plastia
+#OHJE_S  
+esim. hörökorva
+#OHJE_R 
+Inkl plastik för utstående öron
+###
+#KOODI      DAW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4109      
+#SUOMI      Muu ulkokorvan leikkaus
+#RUOTSI     Annan operation på ytterörat
+#LYHENNE    Muu ulkokorvan leikkaus
+###
+#KOODI_R    DB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korvakäytävän toimenpiteet
+#RUOTSI     Operationer på hörselgången
+#ENGL       External auditory canal
+#OHJE_S  
+Koepalan otto luvussa T
+Paikallisen muutoksen aukaisu, katso DAA00
+#OHJE_R 
+Incision av hörselgången, se DAA00
+Biopsi, se T
+###
+#KOODI      DBA00
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korvakäytävän paikallisen muutoksen aukaisu
+#RUOTSI     Incision av örongånget
+#LYHENNE    Korvakäytävän paikallisen muutoksen auka
+###
+#KOODI      DBB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4112      
+#SUOMI      Korvakäytävän paikallisen muutoksen poisto
+#RUOTSI     Exstirpation av lokal förändring från hörselgången
+#LYHENNE    Korvakäytävän muutoksen eksisio
+#OHJE_S  
+Sis. mm. eksostoosin poiston
+#OHJE_R 
+Inkl bl.a. avlägsnande av exostos
+###
+#KOODI      DBB02
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4112      
+#SUOMI      Korvakäytävän kasvaimen poisto
+#RUOTSI     Exstirpation av tumör från hörselgången
+#LYHENNE    Korvakäytävän kasvaimen poisto
+###
+#KOODI      DBD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4119      
+#SUOMI      Korvakäytävän haavan ompeleminen
+#RUOTSI     Sutur av sår i yttre hörselgången
+#LYHENNE    Korvakäytävän haavan ompeleminen
+###
+#KOODI      DBD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4119      
+#SUOMI      Korvakäytävän korjaamisleikkaus
+#RUOTSI     Rekonstruktion av yttre hörselgången
+#LYHENNE    Korvakäytävän korjaamisleikkaus
+###
+#KOODI      DBD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4111+     
+#SUOMI      Korvakäytävän muovausleikkaus
+#RUOTSI     Plastikoperation på yttre hörselgången
+#LYHENNE    Korvakäytävän muovausleikkaus
+#OHJE_S  
+esim ahtauma
+#OHJE_R 
+T.ex. åtgärdande av förträngning
+###
+#KOODI      DBD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4113      
+#SUOMI      Korvakäytävän umpeuman korjaamisleikkaus
+#RUOTSI     Operation för hörselgångsatresi
+#LYHENNE    Korvakäytävän umpeuman korjaamisleikkaus
+###
+#KOODI      DBW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4119      
+#SUOMI      Muu korvakäytävän leikkaus
+#RUOTSI     Annan operation på hörselgången
+#LYHENNE    Muu korvakäytävän leikkaus
+###
+#KOODI_R    DC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Tärykalvon ja välikorvan toimenpiteet
+#RUOTSI     Operationer på trumhinnan och mellanörat
+#ENGL       Eardrum and middle ear
+#OHJE_S  
+Tähystykset (mm. otomikroskopia) luvussa U
+#OHJE_R 
+Skopier inkl otomikroskopi, se U
+###
+#KOODI      DC1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5169      
+#SUOMI      Korvan natiiviröntgen
+#RUOTSI     Temporalbenet, röntgen
+#LYHENNE    Korvan rtg
+###
+#KOODI      DC1AD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5865      
+#SUOMI      Korvan natiivi-TT
+#RUOTSI     DT av temporalben utan kontrast
+#LYHENNE    Korvan natiivi-TT
+###
+#KOODI      DC1BA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5169      
+#SUOMI      Korvan laaja natiiviröntgen
+#RUOTSI     Temporalbenet, omfattande röntgen
+#LYHENNE    Korvan rtg, laaja
+###
+#KOODI      DC1BD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5866      
+#SUOMI      Korvan varjoaine-TT
+#RUOTSI     DT av temporalben med kontrast
+#LYHENNE    Korvan varjoaine-TT
+###
+#KOODI      DC1CD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5867      
+#SUOMI      Korvan natiivi- ja varjoaine-TT
+#RUOTSI     DT av temporalben utan och med kontrast
+#LYHENNE    Korvan nat+v.a-TT
+###
+#KOODI      DC1DA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5169      
+#SUOMI      Korvien natiiviröntgen
+#RUOTSI     Temporalbenen, bilateral röntgen
+#LYHENNE    Korvan rtg, molemmat
+###
+#KOODI      DC1XD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5868      
+#SUOMI      Korvan muu TT
+#RUOTSI     DT av temporalben (övrig)
+#LYHENNE    Korvan muu TT
+###
+#KOODI      DCA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4169      
+#SUOMI      Koepalan otto tärykalvosta tai välikorvasta
+#RUOTSI     Biopsi av trumhinnan eller mellanörat
+#LYHENNE    Biopsia tärykalvosta tai välikorvasta
+###
+#KOODI      DCA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4121      
+#SUOMI      Tärykalvopisto
+#RUOTSI     Paracentes av trumhinnan
+#LYHENNE    Tärykalvopisto
+###
+#KOODI      DCA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4122      
+#SUOMI      Ilmastointiputken asettaminen, tympanostomia
+#RUOTSI     Anläggande av mellanöredränage tympanostomi
+#LYHENNE    Tympanostomia/putki
+###
+#KOODI      DCA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4161      
+#SUOMI      Välikorvan aukaisu tutkimustarkoituksessa
+#RUOTSI     Exploration av mellanörat
+#LYHENNE    Välikorvan eksploratio
+###
+#KOODI      DCB00
+#MUUT_PVM   1996/10/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      4163      
+#SUOMI      Kasvaimen tai kudosmuutoksen poisto välikorvasta
+#RUOTSI     Evulsio av förändring i mellanörat
+#LYHENNE    Kasvain/kudosmuutospoisto välikorvasta
+#OHJE_S  
+
+#OHJE_R 
+Polyp, granulation m.m.
+###
+#KOODI      DCB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4159      
+#SUOMI      Kiinnikkeiden irrottelu välikorvassa
+#RUOTSI     Adherenslösning i mellanörat
+#LYHENNE    Kiinnikkeiden irrottelu välikorvassa
+###
+#KOODI      DCC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4169      
+#SUOMI      Vierasesineen poisto välikorvasta
+#RUOTSI     Avlägsnande av främmande kropp från mellanörat
+#LYHENNE    Vierasesineen poisto välikorvasta
+###
+#KOODI      DCD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4141      
+#SUOMI      Tärykalvon korjaamisleikkaus
+#RUOTSI     Myringoplastik
+#LYHENNE    Tärykalvon korjaamisleikkaus
+###
+#KOODI      DCD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4150      
+#SUOMI      Tärykalvon ja kuuloluiden korjaamisleikkaus
+#RUOTSI     Tympanoplastik
+#LYHENNE    Tympanoplastia
+###
+#KOODI      DCW00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4129      
+#SUOMI      Ilmastointiputken poisto välikorvasta
+#RUOTSI     Avlägsnande av ventilationsrör från mellanörat
+#LYHENNE    Ilmastointiputken poisto välikorvasta
+###
+#KOODI      DCW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4169+     
+#SUOMI      Muu tärykalvon ja välikorvan leikkaus
+#RUOTSI     Annan operation på trumhinnan eller mellanörat
+#LYHENNE    Muu tärykalvon ja välikorvan leikkaus
+###
+#KOODI_R    DD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuuloluiden toimenpiteet
+#RUOTSI     Operationer på hörselbenskedjan
+#ENGL       Ossicles of ear
+###
+#KOODI      DDA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4139+     
+#SUOMI      Jalustimen levyn aukaisu
+#RUOTSI     Stapedotomi
+#LYHENNE    Jalustimen levyn aukaisu
+###
+#KOODI      DDA10
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuuloluuketjun tutkimusleikkaus
+#RUOTSI     Eploration av hörselben
+#LYHENNE    Kuuloluuketjun tutkimusleikkaus
+###
+#KOODI      DDB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4133      
+#SUOMI      Jalustimen poisto
+#RUOTSI     Stapedektomi
+#LYHENNE    Jalustimen poisto
+###
+#KOODI      DDC00
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuuloluuketjun proteesin poisto
+#RUOTSI     Avlägsnande av protes i hörselsbenskädjan
+#LYHENNE    Kuuloluuketjun proteesin poisto
+###
+#KOODI      DDD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4139+     
+#SUOMI      Jalustimen irroittelu
+#RUOTSI     Mobilisering av stapes
+#LYHENNE    Jalustimen irroittelu
+###
+#KOODI      DDD05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4139+     
+#SUOMI      Kuuloluiden muovausleikkaus
+#RUOTSI     Hörselbensplastik
+#LYHENNE    Kuuloluiden muovausleikkaus
+###
+#KOODI      DDD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4150      
+#SUOMI      Vasaran ja jalustimen yhdistäminen
+#RUOTSI     Interposition mellan malleus och stapes
+#LYHENNE    Vasaran ja jalustimen yhdistäminen
+###
+#KOODI      DDD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4150      
+#SUOMI      Tärykalvon ja jalustimen levyn yhdistäminen
+#RUOTSI     Interposition mellan trumhinna och stapesplatta
+#LYHENNE    Tärykalvon/jalustimen levyn yhdistäminen
+###
+#KOODI      DDD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4150      
+#SUOMI      Tärykalvon ja jalustimen välinen kiinnitys
+#RUOTSI     Pexi mellan trumhinna och stapes
+#LYHENNE    Tärykalvon/jalustimen peksia
+###
+#KOODI      DDD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4150      
+#SUOMI      Tärykalvon ja jalustimen levyn välinen kiinnitys
+#RUOTSI     Pexi mellan trumhinna och stapesplatta
+#LYHENNE    Tärykalvon/jalustinlevyn peksia
+###
+#KOODI      DDW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4150      
+#SUOMI      Muu kuuloluiden leikkaus
+#RUOTSI     Annan operation på hörselbenskedjan
+#LYHENNE    Muu kuuloluiden leikkaus
+###
+#KOODI_R    DE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kartiolisäkkeen ja ohimoluun toimenpiteet
+#RUOTSI     Operationer på processus mastoideus och os temporale
+#ENGL       Mastoid and temporal bone
+#OHJE_S  
+Kallon murtumat kohdassa AAD
+#OHJE_R 
+Skallfrakturer, se AAD
+###
+#KOODI      DE2AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5170      
+#SUOMI      Kuulohermon luukanavan natiiviröntgen (porusrtg)
+#RUOTSI     Porus acusticus, röntgen
+#LYHENNE    Poruksen rtg
+###
+#KOODI      DE2BF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8106      
+#SUOMI      Kuulohermon kanavan magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av porus med mellanfältsmagnet
+#LYHENNE    Porusten KKMT
+###
+#KOODI      DE2BG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8206      
+#SUOMI      Kuulohermon kanavan magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av porus med högfältsmagnet
+#LYHENNE    Porusten VKMT
+###
+#KOODI      DE3AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5181      
+#SUOMI      Puikkolisäkkeen natiiviröntgen
+#RUOTSI     Processus styloideus, röntgen
+#LYHENNE    Styloideuksen rtg
+###
+#KOODI      DEA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4169      
+#SUOMI      Koepalan otto kartiolisäkkeestä tai ohimoluusta
+#RUOTSI     Biopsi av processus mastoideus eller os temporale
+#LYHENNE    Biopsia kartiolisäkkeestä/ohimoluusta
+###
+#KOODI      DEA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4143      
+#SUOMI      Välikorvaontelon aukaisu
+#RUOTSI     Endaural attiko-antrotomi
+#LYHENNE    Välikorvaontelon aukaisu
+###
+#KOODI      DEB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4144      
+#SUOMI      Kartiolisäkkeen aukaisu
+#RUOTSI     Kortikal mastoidektomi
+#LYHENNE    Kartiolisäkkeen aukaisu
+###
+#KOODI      DEB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4144      
+#SUOMI      Välikorvaontelon ja kartiolisäkkeen aukaisu
+#RUOTSI     Attiko-antro-mastoidektomi
+#LYHENNE    Tympanoantromastoidektomia
+###
+#KOODI      DEB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4145+     
+#SUOMI      Välikorva-kartiolisäke-täryonteloaukaisu
+#RUOTSI     Attiko-antro-mastoidektomi och tympanotomi
+#LYHENNE    Välikorva-kartiolisäke-täryonteloaukaisu
+###
+#KOODI      DEB25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4159      
+#SUOMI      Välikorvaontelo-kartiolisäkeaukaisu sekä kuuloluukorjaus
+#RUOTSI     Attiko-antro-mastoidektomi och tympanoplastik
+#LYHENNE    Tympanoantromastoidektomia+tympanoplast
+###
+#KOODI      DEB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4146      
+#SUOMI      Kartiolisäkkeen laaja aukaisu
+#RUOTSI     Radikal mastoidektomi
+#LYHENNE    Kartiolisäkkeen laaja aukaisu
+###
+#KOODI      DEB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4159      
+#SUOMI      Kartiolisäkkeen poisto osittain
+#RUOTSI     Resektion av processus mastoideus
+#LYHENNE    Kartiolisäkkeen poisto osittain
+###
+#KOODI      DEB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4159      
+#SUOMI      Ohimoluun poisto osittain
+#RUOTSI     Resektion av os temporale
+#LYHENNE    Ohimoluun poisto osittain
+###
+#KOODI      DEB60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4159      
+#SUOMI      Ohimoluun poisto kokonaan
+#RUOTSI     Totalexstirpation av os temporale
+#LYHENNE    Ohimoluun poisto kokonaan
+###
+#KOODI      DED00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4147      
+#SUOMI      Ontelon täyttö kartiolisäkkeen poiston jälkeen
+#RUOTSI     Obliteration av radikalhåla
+#LYHENNE    Ontelon täyttö kartiolisäkepoiston jälke
+###
+#KOODI      DEE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4169      
+#SUOMI      Luuankkuroidun kuulokojeen asettaminen
+#RUOTSI     Anbringande av benförankrad hörapparat
+#LYHENNE    Luuankkuroidun kuulokojeen asettaminen
+###
+#KOODI      DEW99
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4169      
+#SUOMI      Muu ohimoluun tai kartiolisäkkeen leikkaus
+#RUOTSI     Annan operation på processus mastoideus och os temporale
+#LYHENNE    Muu ohimoluun/kartiolisäkkeen leikkaus
+###
+#KOODI_R    DF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sisäkorvan toimenpiteet
+#RUOTSI     Operationer på innerörat
+#ENGL       Inner ear
+#OHJE_S  
+Akustikusneurinooman poisto AAE32
+Kuulo- ja  tasapainohermon leikkaukset AAE34
+Kasvohermon leikkaukset AAH
+#OHJE_R 
+Exstirpation av acusticusneurinom AAE32Operationer på nervus vestibulocochlearis AAE34Operationer på nervus facialis, se AAH
+###
+#KOODI      DFA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4173      
+#SUOMI      Endolymfarakkulan aukaisu
+#RUOTSI     Saccotomi
+#LYHENNE    Endolymfarakkulan aukaisu
+###
+#KOODI      DFA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4172+     
+#SUOMI      Pyramidin tutkimusleikkaus labyrintin läpi
+#RUOTSI     Translabyrintär exploration av pyramiden
+#LYHENNE    Pyramidin eksploraatio labyrintin läpi
+###
+#KOODI      DFB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4171      
+#SUOMI      Labyrintin poistoleikkaus
+#RUOTSI     Labyrintektomi
+#LYHENNE    Habyrintin poistoleikkaus
+###
+#KOODI      DFB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4171      
+#SUOMI      Labyrintin tuhoaminen
+#RUOTSI     Labyrintdestruktion
+#LYHENNE    Labyrintin tuhoaminen
+###
+#KOODI      DFC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4179      
+#SUOMI      Vierasesineen poisto sisäkorvasta
+#RUOTSI     Avlägsnande av främmande kropp från innerörat
+#LYHENNE    Vierasesineen poisto sisäkorvasta
+###
+#KOODI      DFD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4131      
+#SUOMI      Kaarikäytävän ikkunointi
+#RUOTSI     Fenestration av båggång
+#LYHENNE    Kaarikäytävän ikkunointi
+###
+#KOODI      DFD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4179+     
+#SUOMI      Soikean ikkunan korjaaminen
+#RUOTSI     Rekonstruktion av ovala fönstret
+#LYHENNE    Soikean ikkunan korjaaminen
+###
+#KOODI      DFD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4179+     
+#SUOMI      Pyöreän ikkunan korjaaminen
+#RUOTSI     Rekonstruktion av runda fönstret
+#LYHENNE    Pyöreän ikkunan korjaaminen
+###
+#KOODI      DFD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4131      
+#SUOMI      Perilymfaattisen avanteen sulku
+#RUOTSI     Slutning av perilymfatisk fistel
+#LYHENNE    Perilymfaattisen avanteen sulku
+###
+#KOODI      DFE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4179      
+#SUOMI      Istutteen asettaminen korvasimpukkaan
+#RUOTSI     Anbringande av cochleärt implantat
+#LYHENNE    Istutteen asettaminen korvasimpukkaan
+###
+#KOODI      DFW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4179      
+#SUOMI      Muu sisäkorvan leikkaus
+#RUOTSI     Annan operation på innerörat
+#LYHENNE    Muu sisäkorvan leikkaus
+###
+#KOODI_R    DG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korvatorven toimenpiteet
+#RUOTSI     Operation på tuba Eustachii
+#ENGL       Eustachian tube
+###
+#KOODI      DGA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4473      
+#SUOMI      Koepalan otto korvatorvesta, tuba Eustachiista
+#RUOTSI     Biopsi av örontrumpeten
+#LYHENNE    Biopsia korvatorvesta,tuba Eustachii
+###
+#KOODI      DGB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4473      
+#SUOMI      Korvatorven tukkiminen
+#RUOTSI     Obliteration av örontrumpeten
+#LYHENNE    Korvatorven tukkiminen
+###
+#KOODI      DGW00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4473      
+#SUOMI      Korvatorven laajentaminen
+#RUOTSI     Dilatation av örontrumpeten
+#LYHENNE    Korvatorven laajentaminen
+###
+#KOODI      DGW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4473      
+#SUOMI      Muu korvatorven leikkaus
+#RUOTSI     Annan operation på tuba Eustachii
+#LYHENNE    Muu korvatorven leikkaus
+###
+#KOODI_R    DH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nenän toimenpiteet
+#RUOTSI     Operationer på näsan (exkl septum)
+#ENGL       Nose
+#OHJE_S  
+Nenän tähystykset luvussa U
+#OHJE_R 
+Skopier, se U
+###
+#KOODI_A    DH0
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Nenän sädehoito
+#RUOTSI     Strålbehandling av näsan
+#ENGL       
+#OHJE_S  
+Sisältää nenän ja nenäontelon hoidot choana-tasoon asti. Nenänielu choana-tason alapuolella, katso EX0.
+#OHJE_R 
+---
+###
+#KOODI      DH001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenän primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i näsan
+#LYHENNE    
+###
+#KOODI      DH002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali nenän primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i näsan
+#LYHENNE    
+###
+#KOODI      DH003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenän primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i näsan
+#LYHENNE    
+###
+#KOODI      DH004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenän primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i näsan
+#LYHENNE    
+###
+#KOODI      DH029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenän paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i näsan
+#LYHENNE    
+###
+#KOODI      DH049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenässä ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i näsan
+#LYHENNE    
+###
+#KOODI      DH090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenän profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av näsan
+#LYHENNE    Sädehoito nenän profylaktisena hoitona
+###
+#KOODI      DH099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu nenän sädehoito
+#RUOTSI     Annan strålbehandling av näsan
+#LYHENNE    Muu nenän sädehoito
+###
+#KOODI      DH1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5182      
+#SUOMI      Nenän natiiviröntgen
+#RUOTSI     Näsbenet, röntgen
+#LYHENNE    Nenän rtg
+###
+#KOODI      DHA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4209      
+#SUOMI      Ulkonenän paikallisen muutoksen aukaisu
+#RUOTSI     Incision av lokal förändring i näsan
+#LYHENNE    Ulkonenän paikallisen muutoksen aukaisu
+###
+#KOODI      DHA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4209      
+#SUOMI      Koepalan otto nenäontelosta
+#RUOTSI     Biopsi ur näshålan
+#LYHENNE    Koepalan otto nenäontelosta
+###
+#KOODI      DHB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4201      
+#SUOMI      Paikallisen muutoksen poisto ulkonenästä
+#RUOTSI     Exstirpation (av t.ex. tumör) från näsan
+#LYHENNE    Paikallisen muutoksen poisto ulkonenästä
+###
+#KOODI      DHB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4256      
+#SUOMI      Paikallisen muutoksen poisto nenäontelosta
+#RUOTSI     Exstirpation av endonasal tumör
+#LYHENNE    Paikallisen muutoksen poisto,nenäontelo
+###
+#KOODI      DHB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Polyypin poisto nenäontelosta
+#RUOTSI     Polypevulsion
+#LYHENNE    Polyypin poisto nenäontelosta
+###
+#KOODI      DHB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Polyypin poisto nenänielusta poskiontelon kautta
+#RUOTSI     Avlägsnande av polyp från nasofarynx via sinus maxillaris
+#LYHENNE    Polypektomia nenänielusta,poskiontelotie
+###
+#KOODI      DHB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4252      
+#SUOMI      Nenäkuorikon poisto
+#RUOTSI     Konkotomi
+#LYHENNE    Nenäkuorikon poisto
+#OHJE_S  
+
+#OHJE_R 
+Turbinektomi
+###
+#KOODI      DHB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4252      
+#SUOMI      Nenäkuorikon muovaus
+#RUOTSI     Turbinoplastik
+#LYHENNE    Nenäkuorikon muovaus
+###
+#KOODI      DHB60
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4249      
+#SUOMI      Ozaenan leikkaushoito
+#RUOTSI     Opertion för ozaena
+#LYHENNE    Ozaenan leikkaushoito
+###
+#KOODI      DHC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Vierasesineen poisto nenästä
+#RUOTSI     Avlägsnande av främmande kropp från näshålan
+#LYHENNE    Vierasesineen poisto nenästä
+###
+#KOODI      DHC10
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Istutteen poisto nenäluusta
+#RUOTSI     Uttagning av implant från näsbenet
+#LYHENNE    Istutteen poisto nenäluusta
+###
+#KOODI      DHD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Nenän limakalvon  ompelu
+#RUOTSI     Sutur av näsans slemhinna
+#LYHENNE    Nenän limakalvon  ompelu
+#OHJE_S  
+Nenän ompelu ulkoa QAB 00
+#OHJE_R 
+Sutur av näsans hud, se QAB00
+###
+#KOODI      DHD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4821      
+#SUOMI      Nenän murtuman korjaaminen suljetusti
+#RUOTSI     Sluten reposition av näsfraktur
+#LYHENNE    Nenän murtuman korjaaminen suljetusti
+###
+#KOODI      DHD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4822      
+#SUOMI      Nenän murtuman korjaaminen avoimesti
+#RUOTSI     Öppen reposition av näsfraktur
+#LYHENNE    Nenän murtuman korjaaminen avoimesti
+#OHJE_S  
+
+#OHJE_R 
+Inkl osteosyntes
+###
+#KOODI      DHD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4822+     
+#SUOMI      Nenäluun murtuman liittäminen
+#RUOTSI     Osteosyntes vid näsfraktur
+#LYHENNE    Nenäluun murtuman liittäminen
+#OHJE_S  
+Ns. blow out -murtuma silmävamman seurauksena EEC20-35.
+Frontobasaalisen murtuman hoito  AAD42
+#OHJE_R 
+ Sk blow out -fraktur vid ögonskada, se EEC20-35
+ Behandling av frontobasalfraktur, se AAD42
+###
+#KOODI      DHW00
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4251      
+#SUOMI      Koanaaliatresian korjaaminen
+#RUOTSI     Ingrepp för koanalatresi
+#LYHENNE    Koanaaliatresian korjaaminen
+###
+#KOODI      DHW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Muu nenän leikkaus
+#RUOTSI     Annan operation på näsan
+#LYHENNE    Muu nenän leikkaus
+###
+#KOODI_R    DJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nenän väliseinän toimenpiteet
+#RUOTSI     Operationer på nässeptum
+#ENGL       Septum of nose
+###
+#KOODI      DJA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4219      
+#SUOMI      Nenän väliseinän aukaisu
+#RUOTSI     Incision av nässeptum
+#LYHENNE    Nenän väliseinän aukaisu
+###
+#KOODI      DJA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4219      
+#SUOMI      Koepalan otto nenän väliseinästä
+#RUOTSI     Biopsi av nässeptum
+#LYHENNE    Koepalan otto nenän väliseinästä
+###
+#KOODI      DJA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4231      
+#SUOMI      Kitaontelon aukaisu nenän väliseinän kautta
+#RUOTSI     Öppnande av sinus sphenoidalis transseptalt
+#LYHENNE    Kitaontelon aukaisu septumin kautta
+###
+#KOODI      DJB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4211+     
+#SUOMI      Nenän väliseinän poisto
+#RUOTSI     Resektion eller exstirpation av nässeptum
+#LYHENNE    Nenän väliseinän poisto
+###
+#KOODI      DJD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4213+     
+#SUOMI      Nenän väliseinän ompelu
+#RUOTSI     Sutur av nässeptum
+#LYHENNE    Nenän väliseinän ompelu
+###
+#KOODI      DJD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4213      
+#SUOMI      Nenän väliseinän reiän tukkiminen
+#RUOTSI     Tillslutning av nässeptumperforation
+#LYHENNE    Nenän väliseinän reiän tukkiminen
+###
+#KOODI      DJD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4212      
+#SUOMI      Nenän väliseinän muovausleikkaus
+#RUOTSI     Plastikoperation av nässeptum
+#LYHENNE    Nenän väliseinän muovausleikkaus
+###
+#KOODI      DJD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4821      
+#SUOMI      Nenän väliseinämurtuman korjaaminen suljetusti
+#RUOTSI     Sluten reposition av nässeptumfraktur
+#LYHENNE    Nenän septummurtuman korjaus suljetusti
+###
+#KOODI      DJD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4822      
+#SUOMI      Nenän väliseinämurtuman korjaaminen avoimesti
+#RUOTSI     Öppen reposition av nässeptumfraktur
+#LYHENNE    Nenän septummurtuman korjaus avoimesti
+###
+#KOODI      DJW00
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4219      
+#SUOMI      Nenän väliseinän paikallisen muutoksen poisto
+#RUOTSI     Resektion av lokal förändring i nässeptum
+#LYHENNE    Paikallisen muutoksen poisto,nenäseptum
+###
+#KOODI      DJW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4219      
+#SUOMI      Muu nenän väliseinän leikkaus
+#RUOTSI     Annan operation på nässeptum
+#LYHENNE    Muu nenän väliseinän leikkaus
+###
+#KOODI_R    DK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nenäverenvuotojen tyrehdyttämiset
+#RUOTSI     Ingrepp vid näsblod
+#ENGL       Control of epistaxis
+###
+#KOODI      DKW00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4253      
+#SUOMI      Nenän limakalvovuodon hyydytys
+#RUOTSI     Koagulering av blodkärl vid näsblod
+#LYHENNE    Nenän limakalvovuodon hyydytys
+###
+#KOODI      DKW10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4253      
+#SUOMI      Nenän etutamponaatio
+#RUOTSI     Främre nästamponad
+#LYHENNE    Nenän etutamponaatio
+###
+#KOODI      DKW20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4253      
+#SUOMI      Nenän takatamponaatio
+#RUOTSI     Bakre nästamponad
+#LYHENNE    Nenän takatamponaatio
+###
+#KOODI      DKW30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4253      
+#SUOMI      Nenävaltimoiden polttaminen
+#RUOTSI     Elektrokoagulation vid näsblod
+#LYHENNE    Nenävaltimoiden polttaminen
+###
+#KOODI      DKW40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4254      
+#SUOMI      Nenävaltimoiden sitominen
+#RUOTSI     Ligatur av artär vid näsblod
+#LYHENNE    Nenävaltimoiden sitominen
+###
+#KOODI      DKW90
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Nenäverenvuodon embolisaatio
+#RUOTSI     Embolisering vid näsblod
+#LYHENNE    Nenäverenvuodon embolisaatio
+###
+#KOODI      DKW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Muu nenäverenvuodon tyrehdytystoimenpide
+#RUOTSI     Annat ingrepp vid näsblod
+#LYHENNE    Muu nenäverenvuodon tyrehdytystoimenpide
+###
+#KOODI_R    DL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nenän muotoilut ja uudelleen rakentamiset
+#RUOTSI     Rinoplastik
+#ENGL       Plastic repair of nose
+###
+#KOODI      DLD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4202+     
+#SUOMI      Rustoisen nenän korjaaminen
+#RUOTSI     Korrektionsplastik av näsans broskskelett
+#LYHENNE    Rustoisen nenän korjaaminen
+#OHJE_S  
+Nenähalkion leikkaus, ks DLW00
+#OHJE_R 
+Operation för nässpalta, se DLW00
+###
+#KOODI      DLD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4203      
+#SUOMI      Rustoisen ja luisen nenän korjaaminen
+#RUOTSI     Korrektionsplastik av näsans brosk- och benskelett
+#LYHENNE    Rustoisen ja luisen nenän korjaaminen
+#OHJE_S  
+Mobilisaatio ja repositio
+#OHJE_R 
+Mobilisering och reposition
+###
+#KOODI      DLD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4204+     
+#SUOMI      Ulkonenän muotoilu, rinoplastia
+#RUOTSI     Yttre näsplastik, rinoplastik
+#LYHENNE    Ulkonenän muotoilu, rinoplastia
+#OHJE_S  
+Sisältää am Goldmanin yms
+#OHJE_R 
+Inkl a m Goldman etc
+###
+#KOODI      DLD25
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Synnynnäisen nenänieluaukkojen umpeuman avausleikkaus
+#RUOTSI     Operation för koanalatresi
+#LYHENNE    Choana atresian leikkaus
+###
+#KOODI      DLD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4209      
+#SUOMI      Puuttuvan nenän muodostaminen
+#RUOTSI     Rekonstruktionsoperation vid avsaknad av näsa
+#LYHENNE    Puuttuvan nenän muodostaminen
+###
+#KOODI      DLW00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4365      
+#SUOMI      Nenähalkion, cleft nose , korjaaminen
+#RUOTSI     Korrektionsoperation för nässpalta, cleft nose
+#LYHENNE    Nenähalkion, cleft nose , korjaaminen
+###
+#KOODI      DLW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4209      
+#SUOMI      Muu nenän muotoiluleikkaus
+#RUOTSI     Annan rinoplastikoperation
+#LYHENNE    Muu nenän muotoiluleikkaus
+###
+#KOODI_R    DM
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Poskionteloiden  toimenpiteet
+#RUOTSI     Operationer på sinus maxillaris
+#ENGL       Maxillary antrum
+#OHJE_S  
+Kystan ikkunointi kohdassa EFA
+Muut yläleukaleikkaukset kohdassa EE
+Tähystykset luvussa U
+#OHJE_R 
+Fenestration av käkcysta, se EFAAndra operationer på sinus maxillaris, inkl frakturbehandling, se EE
+###
+#KOODI_A    DM0
+#MUUT_PVM   1996/06/05
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Nenänsivuonteloiden sädehoito
+#RUOTSI     Strålbehandling av näsans bihålor
+#ENGL       
+#OHJE_S  
+Yläleuan sädehoito kohdassa NV0
+#OHJE_R 
+Strålbehandling av maxilla, se NV0
+###
+#KOODI      DM001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito nenän sivuonteloiden primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito  nenän sivuonteloiden primaarikasvaimen perushoitona
+#RUOTSI     Radikal strålbehandling av primärtumör i näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito  nenän sivuonteloiden primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito  nenän sivuonteloiden primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito  nenän sivuonteloiden paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokal recidivtumör i näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito  nenän sivuonteloiden ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM090
+#MUUT_PVM   1996/05/25
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito poskionteloiden profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av näsans bihålor
+#LYHENNE    
+###
+#KOODI      DM099
+#MUUT_PVM   1996/05/25
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu poskionteloiden sädehoito
+#RUOTSI     Annan strålbehandling av näsans bihålor
+#LYHENNE    Muu poskionteloiden sädehoito
+###
+#KOODI      DM1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5166      
+#SUOMI      Nenän sivuonteloiden natiiviröntgen
+#RUOTSI     Näsans bihålor, röntgen
+#LYHENNE    NSO-rtg
+###
+#KOODI      DM1AD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5870      
+#SUOMI      Nenän sivuonteloiden ja kasvojen natiivi-TT
+#RUOTSI     DT av bihålor och ansiktsskelett utan kontrast
+#LYHENNE    Sinusten natiivi-TT
+###
+#KOODI      DM1BD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5871      
+#SUOMI      Nenän sivuonteloiden ja kasvojen varjoaine-TT
+#RUOTSI     DT av bihålor och ansiktsskelett med kontrast
+#LYHENNE    Sinusten varjoaineTT
+###
+#KOODI      DM1BE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6365      
+#SUOMI      Nenän sivuonteloiden UÄ
+#RUOTSI     UL av bihålor
+#LYHENNE    Nenän sivuontelot,UÄ
+###
+#KOODI      DM1BF
+#MUUT_PVM   1998/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ja kasvojen magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av bihålor och ansiktsskelett med mellanfältsmagnet
+#LYHENNE    Kasvojen KKMT
+###
+#KOODI      DM1BG
+#MUUT_PVM   1998/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ja kasvojen magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av bihålor och ansiktsskelett med högfältsmagnet
+#LYHENNE    Kasvojen VKMT
+###
+#KOODI      DM1CD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Nenän sivuonteloiden ja kasvojen natiivi- ja varjoaine-TT
+#RUOTSI     DT av bihålor och ansiktsskelett utan och med kontrast
+#LYHENNE    Sinusten nat+v.a-TT
+###
+#KOODI      DM1CF
+#MUUT_PVM   1998/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ja kasvojen laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av bihålor och ansiktsskelett med mellanfältsmagnet, omfattande
+#LYHENNE    Kasvojen l.KKMT
+###
+#KOODI      DM1CG
+#MUUT_PVM   1998/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ja kasvojen laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av bihålor och ansiktsskelett med högfältsmagnet, omfattande
+#LYHENNE    Kasvojen l.VKMT
+###
+#KOODI      DM1DF
+#MUUT_PVM   1998/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ja kasvojen erittäin laaja magneettitutkimus keskikenttälait
+#RUOTSI     MR av bihålor och ansiktsskelett med mellanfältsmagnet, mycket omfattande
+#LYHENNE    Kasvojen er.l.KKMT
+###
+#KOODI      DM1DG
+#MUUT_PVM   1998/11/14
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenän sivuonteloiden ja kasvojen erittäin laaja magneettitutkimus vahvakenttälait
+#RUOTSI     MR av bihålor och ansiktsskelett med högfältsmagnet, mycket omfattande
+#LYHENNE    Kasvojen er.l.VKMT
+###
+#KOODI      DM1QA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5166      
+#SUOMI      Nenän sivuonteloiden natiiviröntgen, yksi suunta (esimerkiksi kuutamokuva)
+#RUOTSI     Näsans bihålor, röntgen (t.ex. frontalbild i PA-projektion)
+#LYHENNE    Kuutamokuva
+###
+#KOODI      DM1XD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5873      
+#SUOMI      Nenän sivuonteloiden ja kasvojen muu TT
+#RUOTSI     DT av bihålor och ansiktsskelett (övrig)
+#LYHENNE    Sinusten muu TT
+###
+#KOODI      DMA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4221      
+#SUOMI      Koepalan otto poskiontelosta
+#RUOTSI     Biopsi ur käkhåla
+#LYHENNE    Koepalan otto poskiontelosta
+###
+#KOODI      DMA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4225      
+#SUOMI      Poskiontelon tutkimusleikkaus
+#RUOTSI     Exploration av käkhåla
+#LYHENNE    Poskiontelon tutkimusleikkaus
+###
+#KOODI      DMB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4224      
+#SUOMI      Poskeontelon ja nenän välisen seinämän poisto, alakäytäväantrostomia
+#RUOTSI     Endonasal öppning av sinus maxillaris
+#LYHENNE    Alakäytäväantrostomia
+#OHJE_S  
+Claoué
+#OHJE_R 
+---
+###
+#KOODI      DMB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4226      
+#SUOMI      Poskionteloleikkaus
+#RUOTSI     Bred öppning av käkhålan/radikaloperation
+#LYHENNE    Poskionteloleikkaus
+#OHJE_S  
+ Caldwell-Luc
+#OHJE_R 
+---
+###
+#KOODI      DMB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Poskiontelon aukaisu tähystyksessä, FESS
+#RUOTSI     Endoskopisk öppning av sinus maxillaris, FESS
+#LYHENNE    Poskiontelon aukaisu tähystyksessä, FESS
+#OHJE_S  
+FESS = Functional endoscopic sinus surgery
+#OHJE_R 
+---
+###
+#KOODI      DMB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4256      
+#SUOMI      Poskiontelon muutoksen tai kasvaimen poisto yläleukaluun kautta
+#RUOTSI     Transmaxillär operation, t.ex. tumörexstirpation
+#LYHENNE    Poskiontelokasvainpoisto maxillatietä
+#OHJE_S  
+Denker
+#OHJE_R 
+---
+###
+#KOODI      DMB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4256      
+#SUOMI      Poskiontelon muutoksen tai kasvaimen poisto nenän sivulta aukaisten
+#RUOTSI     Lateral rinotomi
+#LYHENNE    Poskiontelokasvainpoisto nenän sivulta
+###
+#KOODI      DMC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4225+     
+#SUOMI      Vierasesineen poisto poskiontelosta
+#RUOTSI     Avlägsnande av främmande kropp från sinus maxillaris
+#LYHENNE    Vierasesineen poisto poskiontelosta
+###
+#KOODI      DMW00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4225+     
+#SUOMI      Poskionteloputken asettaminen
+#RUOTSI     Anläggande av dränage i sinus maxillaris
+#LYHENNE    Poskionteloputken asettaminen
+###
+#KOODI      DMW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Muu poskionteloiden leikkaus
+#RUOTSI     Annan operation på sinus maxillaris och överkäken
+#LYHENNE    Muu poskionteloiden leikkaus
+###
+#KOODI_R    DN
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Seulalokeroiden ja seulaluun toimenpiteet
+#RUOTSI     Åtgärder på sinus ethmoidalis och os ethmoidale
+#ENGL       Ethmoidal sinus and bone
+###
+#KOODI      DNA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259+     
+#SUOMI      Koepalan otto seulalokeroista
+#RUOTSI     Biopsi ur sinus ethmoidalis
+#LYHENNE    Koepalan otto seulalokeroista
+###
+#KOODI      DNB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4223      
+#SUOMI      Seulalokeroiden aukaisu ulkokautta
+#RUOTSI     Yttre ethmoidektomi
+#LYHENNE    Seulalokeroiden aukaisu ulkokautta
+###
+#KOODI      DNB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4222      
+#SUOMI      Seulalokeroiden aukaisu nenäontelon kautta
+#RUOTSI     Endonasal ethmoidektomi
+#LYHENNE    Sisäinen etmoidektomia
+###
+#KOODI      DNB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Seulalokeroiden aukaisu tähystyksessä, FESS
+#RUOTSI     Endoskopisk ethmoidektomi, FESS
+#LYHENNE    Seulalokeroaukaisu tähystyksessä, FESS
+#OHJE_S  
+FESS = Functional endoscopic sinus surgery
+#OHJE_R 
+FESS = Functional endoscopic sinus surgery
+###
+#KOODI      DNB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4256      
+#SUOMI      Seulalokeromuutoksen tai kasvaimen poisto
+#RUOTSI     Exstirpation av lokal förändring i sinus ethmoidalis
+#LYHENNE    Seulalokeromuutos/ kasvainpoisto
+###
+#KOODI      DNB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4259      
+#SUOMI      Nenän aukaisu huulen alta
+#RUOTSI     Sublabial rinotomi
+#LYHENNE    Nenän aukaisu huulen alta
+###
+#KOODI      DNC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Vierasesineen poisto seulalokerostosta
+#RUOTSI     Avlägsnande av främmande kropp från sinus ethmoidalis
+#LYHENNE    Vierasesineen poisto seulalokerostosta
+###
+#KOODI      DNW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Muu seulalokeroiden ja seulaluun leikkaus
+#RUOTSI     Annan operation på sinus ethmoidalis och os ethmoidale
+#LYHENNE    Muu seulalokeroiden/seulaluun leikkaus
+###
+#KOODI_R    DP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Otsaontelon ja kitaontelon toimenpiteet
+#RUOTSI     Operationer på frontal- och sphenoidalsinus
+#ENGL       Frontal and sphenoidal sinuses
+#OHJE_S  
+Nenän sivuonteloiden, suun ja korvan kautta tehtävät leikkaukset AAE
+Aivolisäkekasvaimen poisto nenän kautta AAE10
+Kitaontelon aukaisu nenän väliseinän kautta DJA 20
+#OHJE_R 
+Operationer via näsans bihålor, munnen eller örat, se AAETransnasal exstirpation av hypofystumör AAE10Öppnande av sinus sphenoidale transseptalt DJA20
+###
+#KOODI      DPA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4229      
+#SUOMI      Koepalan otto otsaontelosta
+#RUOTSI     Biopsi ur sinus frontalis
+#LYHENNE    Koepalan otto otsaontelosta
+###
+#KOODI      DPA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4229      
+#SUOMI      Koepalan otto kitaontelosta
+#RUOTSI     Biopsi ur sinus sphenoidalis
+#LYHENNE    Koepalan otto kitaontelosta
+###
+#KOODI      DPA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4227      
+#SUOMI      Otsaontelon aukaisu
+#RUOTSI     Trepanation av sinus frontalis
+#LYHENNE    Otsaontelon aukaisu
+###
+#KOODI      DPA25
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4227      
+#SUOMI      Otsaontelon aukaisu nenään
+#RUOTSI     Öppning av frontalsinus till näshålan
+#LYHENNE    Otsaontelon aukaisu nenään
+###
+#KOODI      DPA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4231      
+#SUOMI      Kitaontelon aukaisu
+#RUOTSI     Sphenotomi
+#LYHENNE    Kitaontelon aukaisu
+###
+#KOODI      DPB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4228+     
+#SUOMI      Otsaontelon poisto osittain
+#RUOTSI     Resektion av sinus frontalis (inkl mucocele, pyocele och osteom)
+#LYHENNE    Otsaontelon poisto osittain
+###
+#KOODI      DPB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239+     
+#SUOMI      Kitaontelon poisto osittain
+#RUOTSI     Delresektion av sinus ethmoidalis
+#LYHENNE    Kitaontelon poisto osittain
+###
+#KOODI      DPB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4230      
+#SUOMI      Otsaontelon täyttö
+#RUOTSI     Obliteration av frontalsinus
+#LYHENNE    Otsaontelon täyttö
+###
+#KOODI      DPW00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Otsaonteloputken asettaminen
+#RUOTSI     Inläggande av frontonasalt dränage
+#LYHENNE    Otsaonteloputken asettaminen
+###
+#KOODI      DPW10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Kitaonteloputken asettaminen
+#RUOTSI     Dränage av sinus sphenoidalis
+#LYHENNE    Kitaonteloputken asettaminen
+###
+#KOODI      DPW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4239      
+#SUOMI      Muu otsa- tai kitaontelon leikkaus
+#RUOTSI     Annan operation på frontal- och sphenoidalsinus
+#LYHENNE    Muu otsa- tai kitaontelon leikkaus
+###
+#KOODI_R    DQ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kurkunpään toimenpiteet
+#RUOTSI     Operationer på larynx
+#ENGL       Larynx
+#OHJE_S  
+Kurkunpään ja nielun poisto kohdassa ENB30
+Kaulan imusolmukkeiden radikaali poisto kohdassa PJD
+#OHJE_R 
+Laryngektomi/faryngektomi ENB30Exstirpation/radikal utrymning av cervikala lymfkörtlar, se PJD
+###
+#KOODI_A    DQ0
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kurkunpään sädehoito
+#RUOTSI     Strålbehandling av struphuvudet
+#ENGL       
+###
+#KOODI      DQ001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kurkunpään primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali kurkunpään primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kurkunpään primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kurkunpään primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kurkunpään paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokal recidivtumör i struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kurkunpäässä ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kurkunpään profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av struphuvudet
+#LYHENNE    
+###
+#KOODI      DQ099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kurkunpään sädehoito
+#RUOTSI     Annan strålbehandling av struphuvudet
+#LYHENNE    Muu kurkunpään sädehoito
+###
+#KOODI      DQA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Kurkunpään aukaisu
+#RUOTSI     Incision av larynx
+#LYHENNE    Kurkunpään aukaisu
+#OHJE_S  
+Sis. krikotyreoideamembraanin avauksen eli koniotomian
+Trakeostomia kohdassa GBB
+#OHJE_R 
+Inkl krikotyreotomi och koniotomiTrakeostomi, se GBB
+###
+#KOODI      DQA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Koepalan otto kurkunpäästä
+#RUOTSI     Biopsi av larynx
+#LYHENNE    Koepalan otto kurkunpäästä
+###
+#KOODI      DQA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4502      
+#SUOMI      Kurkunpään aukaisu tutkimus- ja hoitotarkoituksessa
+#RUOTSI     Explorativ laryngofissur
+#LYHENNE    Laryngofissuura
+###
+#KOODI      DQB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Paikallisen muutoksen poisto kurkunpäästä epäsuoralla menetelmällä
+#RUOTSI     Exstirpation eller resektion av larynxtumör, indirekt
+#LYHENNE    Muutoksen poisto kurkunpäästä,epäsuora
+###
+#KOODI      DQB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Paikallisen muutoksen poisto kurkunpäästä laryngomikroskopiassa
+#RUOTSI     Endoskopisk exstirpation av t.ex. stämbandspolyp eller tumör
+#LYHENNE    Muutoksen poisto laryngomikroskopiassa
+#OHJE_S  
+Laserin käyttö lisäkoodilla ZXC10
+#OHJE_R 
+Laserexstirpation anges med tilläggskod ZXC10
+###
+#KOODI      DQB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4503      
+#SUOMI      Kurkunpään poisto osittain
+#RUOTSI     Delesektion av larynx
+#LYHENNE    Kurkunpään poisto osittain
+###
+#KOODI      DQB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4504      
+#SUOMI      Kurkunpään poisto
+#RUOTSI     Total laryngektomi
+#LYHENNE    Kurkunpään poisto
+###
+#KOODI      DQB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4503      
+#SUOMI      Kurkunpään poisto äänihuulitason yläpuolelta
+#RUOTSI     Supraglottisk laryngektomi
+#LYHENNE    Supraglottinen kurkunpään poisto
+###
+#KOODI      DQB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4503      
+#SUOMI      Kurkunpään puoliskon poisto
+#RUOTSI     Hemilaryngektomi
+#LYHENNE    Kurkunpään puoliskon poisto
+###
+#KOODI      DQB60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4501      
+#SUOMI      Kannuruston poisto
+#RUOTSI     Arytenoidektomi
+#LYHENNE    Kannuruston poisto
+###
+#KOODI      DQB70
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Äänijänteen poisto, chordectomia vocalis
+#RUOTSI     Exstirpation av stämband
+#LYHENNE    Äänijänteen poisto, chordectomia vocalis
+###
+#KOODI      DQB80
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Äänihuulikurouman korjaaminen
+#RUOTSI     Operation för stämbandsstriktur
+#LYHENNE    Äänihuulikurouman korjaaminen
+###
+#KOODI      DQC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Vierasesineen poisto kurkunpäästä
+#RUOTSI     Avlägsnande av främmande kropp ur struphuvudet
+#LYHENNE    Vierasesineen poisto kurkunpäästä
+###
+#KOODI      DQC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Vierasesineen poisto kurkunpäästä tähystyksessä
+#RUOTSI     Endoskopiskt avlägsnande av främmande kropp ur struphuvudet
+#LYHENNE    Vierasesinepoisto kurkunpäästä,suora
+###
+#KOODI      DQD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4501      
+#SUOMI      Äänihuulen kiinnitys sivulle
+#RUOTSI     Laterofixation av stämband
+#LYHENNE    Äänihuulen kiinnitys sivulle
+###
+#KOODI      DQD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4842      
+#SUOMI      Kurkunpään ompelu
+#RUOTSI     Sutur av larynx
+#LYHENNE    Kurkunpään ompelu
+###
+#KOODI      DQD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4502      
+#SUOMI      Kurkunpään korjaaminen vapaalla limakalvosiirteellä
+#RUOTSI     Rekonstruktion av larynx med fritt slemhinnetransplantat
+#LYHENNE    Kurkunpään korjaus limakalvosiirteellä
+###
+#KOODI      DQD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4502      
+#SUOMI      Kurkunpään korjaaminen varrellisella kielekkeellä
+#RUOTSI     Rekonstruktion av larynx med stjälkad lambå
+#LYHENNE    Kurkunpään korjaus varsikielekkeellä
+###
+#KOODI      DQD32
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Äänihuulen limakalvon plastia äänen parantamiseksi
+#RUOTSI     Plastik av stämbandsmukosan för röstförbättring
+#LYHENNE    Äänihuulen limakalvoplastia äänen parant
+###
+#KOODI      DQD34
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Spasmodisen dysfonian hoito
+#RUOTSI     Åtgärd mot spasmodisk dysfoni
+#LYHENNE    Spasmodisen dysfonian hoito
+###
+#KOODI      DQD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Kurkunpään muovausleikkaus
+#RUOTSI     Laryngoplastik
+#LYHENNE    Kurkunpään muovausleikkaus
+###
+#KOODI      DQD42
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Muu ääntä parantava rustoon kohdistuva leikkaus
+#RUOTSI     Annan röstförbättrande operation på broskvävnad
+#LYHENNE    Muu ääntä parantava rustoleikkaus
+#OHJE_S  
+Thyroplastiat
+Ishiki tyyppi 1-4
+#OHJE_R 
+Thyroplastik
+Ishiki typ 1-4
+###
+#KOODI      DQD50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Kurkunpääputken asettaminen tähystyksessä
+#RUOTSI     Endoskopiskt inläggande av stent i larynx
+#LYHENNE    Kurkunpäästentin asettaminen,tähystys
+###
+#KOODI      DQE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Puheproteesin asettaminen
+#RUOTSI     Inläggande av larynxprotes (talprotes)
+#LYHENNE    Puheproteesin asettaminen
+###
+#KOODI      DQE10
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Vieraan materiaalin ruiskutus äänihuuliin
+#RUOTSI     Injektion av främmande material i stämband
+#LYHENNE    Teflonin/muun ruiskutus äänihuuliin
+#OHJE_S  
+Sisältää teflonin ja parafiinin ruiskuttamisen
+#OHJE_R 
+Inkl injektion av teflon, paraffin
+###
+#KOODI      DQE20
+#MUUT_PVM   1995/10/04
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Äänihuulen asennon korjaaminen vierasaineistutteella
+#RUOTSI     Implantation av främmande material i stämband
+#LYHENNE    Äänihuuliasennonkorjaus vierasaineimplan
+#OHJE_S  
+Thyroplastia type I
+#OHJE_R 
+Tyroplastik typ I
+###
+#KOODI      DQW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4509      
+#SUOMI      Muu kurkunpään leikkaus
+#RUOTSI     Annan operation på larynx
+#LYHENNE    Muu kurkunpään leikkaus
+###
+#KOODI_R    DW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Korva-, nenä-, kaula- ja kurkunpääleikkausten haavakomplikaatioleikkaukset
+#RUOTSI     Reoperationer för sårkomplikationer av ögon-, näs- och halskirurgi
+#ENGL       Reoperations in surgery of ear, nose and larynx
+###
+#KOODI      DWA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4901      
+#SUOMI      Auenneen tai tulehtuneen korva-, nenä-, kaula- tai kurkunpääleikkaushaavan tarkistaminen
+#RUOTSI     Revision p.g.a. komplikation i ÖNH-operationssår
+#LYHENNE    Korva/nenä/kurkunpääleikk revisio,infek
+###
+#KOODI      DWD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4901      
+#SUOMI      Uusintaleikkaus korva-, nenä-, kaula- tai kurkunpääleikkauksen haavan vuodon vuoksi
+#RUOTSI     Revision av ÖNH-operationssår p.g.a. blödning
+#LYHENNE    Korva/nenä/kurkunpääleikk revisio,vuoto
+###
+#KOODI      DWW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4901      
+#SUOMI      Muu korva-, nenä-, kaula- ja kurkunpääleikkausten haavakomplikaatioleikkaus
+#RUOTSI     Revision av ÖNH-operationssår p.g.a. andra komplikationer
+#LYHENNE    Korva/nenä/kurkunpääleikk revisio,muu

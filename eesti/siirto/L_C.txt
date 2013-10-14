@@ -1,0 +1,3956 @@
+
+###
+#KOODI_L    C
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmän alueen toimenpiteet ja erikoistutkimukset
+#RUOTSI     Åtgärder och speciella undersökningar i ögonregionen
+#ENGL       Eye and adjacent structures procedures
+#OHJE_S  
+Punktiot, neulabiopsiat ja ohutneulabiopsiat kohdassa TC
+#OHJE_R 
+Punktion, punktionsbiopsi och andra mindre operationer, se TC
+###
+#KOODI_R    CA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäkuopan toimenpiteet
+#RUOTSI     Operationer på/i orbita
+#ENGL       Orbit
+###
+#KOODI      CA1AA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5168      
+#SUOMI      Silmäkuopan ja näköhermon luukanavan natiiviröntgen
+#RUOTSI     Orbita och optikuskanal, röntgen
+#LYHENNE    Orbitan rtg
+###
+#KOODI      CA1AD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5860      
+#SUOMI      Silmäkuopan natiivi-TT
+#RUOTSI     DT av orbita utan kontrast
+#LYHENNE    Orbitan natiivi-TT
+###
+#KOODI      CA1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6242      
+#SUOMI      Silmän ja silmäkuopan UÄ
+#RUOTSI     UL av orbita
+#LYHENNE    Silmän UÄ
+###
+#KOODI      CA1BD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5861      
+#SUOMI      Silmäkuopan varjoaine-TT
+#RUOTSI     DT av orbita med kontrast
+#LYHENNE    Orbitan varjoaine-TT
+###
+#KOODI      CA1BF
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8105      
+#SUOMI      Silmän ja silmäkuopan magneettitutkimus keskikenttälaitteella
+#RUOTSI     MR av ögonen och orbita med mellanfältsmagnet
+#LYHENNE    Orbitan KKMT
+###
+#KOODI      CA1BG
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8205      
+#SUOMI      Silmän ja silmäkuopan magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av ögonen och orbita med högfältsmagnet
+#LYHENNE    Orbitan VKMT
+###
+#KOODI      CA1CD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5862      
+#SUOMI      Silmäkuopan natiivi- ja varjoaine-TT
+#RUOTSI     DT av orbita utan och med kontrast
+#LYHENNE    Orbitan nat+v.a-TT
+###
+#KOODI      CA1EA
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5841      
+#SUOMI      Silmän vierasesineen paikannus röntgenillä
+#RUOTSI     Lokalisation av främmande kropp i orbita, röntgen
+#LYHENNE    Silmävierasesine-rtg
+###
+#KOODI      CA1ME
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6244      
+#SUOMI      Silmän mittaus UÄ:llä (oculometria)
+#RUOTSI     UL av ögonen, okulometri
+#LYHENNE    Oculometr.mittaus,UÄ
+###
+#KOODI      CA1XD
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5863      
+#SUOMI      Silmäkuopan muu TT
+#RUOTSI     DT av orbita (övrig)
+#LYHENNE    Orbitan muu TT
+###
+#KOODI_A    CAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäkuopan aukaisut, pistot ja koepalan otot
+#RUOTSI     Punktion, incision och biopsi av/ur orbita
+#ENGL       Puncture, incision and biopsy of orbit
+###
+#KOODI      CAA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3111      
+#SUOMI      Silmäkuopan märkäpesäkkeen tyhjennys
+#RUOTSI     Utrymning av orbita-abscess
+#LYHENNE    Silmäkuopan märkäpesäkkeen tyhjennys
+###
+#KOODI      CAA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3112      
+#SUOMI      Silmäkuopan aukaisu tutkimustarkoituksessa etukautta
+#RUOTSI     Explorativ anterior orbitotomi
+#LYHENNE    Silmäkuopan eksploraatio etukautta
+###
+#KOODI      CAA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3112      
+#SUOMI      Silmäkuopan aukaisu tutkimustarkoituksessa sivulta
+#RUOTSI     Explorativ lateral orbitotomi
+#LYHENNE    Silmäkuopan eksploraatio sivulta
+###
+#KOODI      CAA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3112      
+#SUOMI      Koepalan otto silmäkuopan alueelta
+#RUOTSI     Biopsi ur orbita
+#LYHENNE    Koepalan otto silmäkuopan alueelta
+#OHJE_S  
+Neulabiopsia ks TCA
+#OHJE_R 
+Nålbiopsi, se TCA
+###
+#KOODI_A    CAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäkuopan kudoksen ja vierasesineiden poistoleikkaukset
+#RUOTSI     Exstirpation av patologisk förändring från orbita
+#ENGL       Excision of lesion of orbit
+###
+#KOODI      CAB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3119+     
+#SUOMI      Kudoksen poisto silmäkuopasta etukautta
+#RUOTSI     Vävnadsexstirpation via anterior orbitotomi
+#LYHENNE    Kudoksen poisto silmäkuopasta etukautta
+###
+#KOODI      CAB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3116      
+#SUOMI      Kudoksen poisto silmäkuopasta sivulta käsin
+#RUOTSI     Vävnadsexstirpation via lateral orbitotomi
+#LYHENNE    Kudoksen poisto silmäkuopasta temporaali
+###
+#KOODI      CAB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3116      
+#SUOMI      Kudoksen poisto silmäkuopan katon kautta
+#RUOTSI     Vävnadsexstirpation via orbitataket
+#LYHENNE    Kudoksen poisto silmäkuopan katon kautta
+###
+#KOODI      CAB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3112      
+#SUOMI      Silmäkuopan aukaisu ja vierasesineen poisto
+#RUOTSI     Orbitotomi med avlägsnande av främmande kropp
+#LYHENNE    Silmäkuopan aukaisu/vierasesinepoisto
+###
+#KOODI_A    CAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäkuopan seinämien leikkaukset
+#RUOTSI     Operationer på orbitaväggen
+#ENGL       Operations on orbital walls
+###
+#KOODI      CAC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3114      
+#SUOMI      Silmäkuopan seinämän korjaaminen ilman siirrettä
+#RUOTSI     Rekonstruktion av orbitaväggen utan transplantat
+#LYHENNE    Silmäkuopan seinämän korjaus,ei siirrett
+###
+#KOODI      CAC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3114      
+#SUOMI      Silmäkuopan seinämän korjaaminen luusiirrettä tai levyä käyttäen
+#RUOTSI     Rekonstruktion av orbitaväggen med ben- eller hudtransplantat
+#LYHENNE    Silmäkuoppaseinämäkorjaus,luusiirre/levy
+#OHJE_S  
+Esim. blow-out murtuman korjaus
+#OHJE_R 
+---
+###
+#KOODI      CAC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3115      
+#SUOMI      Silmäkuopan seinämän aukaisu temporaalisesti paineen alentamiseksi
+#RUOTSI     Dekompressiv lateral orbitotomi
+#LYHENNE    Silmäkuopan dekompressio temporaalisesti
+###
+#KOODI      CAC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3115      
+#SUOMI      Silmäkuopan aukaisu paineen alentamiseksi poskiontelon suuntaan
+#RUOTSI     Dekompressiv orbitotomi till sinus maxillaris
+#LYHENNE    Silmäkuopan dekompressio sinus maxillari
+###
+#KOODI      CAC40
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Silmäkuopan katon tai silmähermonkanavan aukaisu kallonsisältä paineen alentamiseksi
+#RUOTSI     Tränskranial öppning av orbita eller optisk kanal för underlätta trycket
+#LYHENNE    Orbitan tai optik.kanavan auk. transkran
+###
+#KOODI      CAC42
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Silmäkuopan avaaminen sivulta paineen alentamiseksi
+#RUOTSI     Coronal öppning av orbita eller optisk kanal för underlätta trycket
+#LYHENNE    Silmäkuopan avaaminen sivulta paineen al
+###
+#KOODI      CAC44
+#MUUT_PVM   1998/11/01
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Silmäkuopan paineen alentaminen eri tekniikoita yhdistäen
+#RUOTSI     Öppning av orbita med diversa metoder för att underlätta trycket
+#LYHENNE    Silmäkuopan paineen al. eri tekn. yhdist
+###
+#KOODI      CAC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3114      
+#SUOMI      Silmäkuopan seinämän synnynnäisen epämuodostuman korjaaminen
+#RUOTSI     Korrektion av medfödd missbildning av orbitaväggen
+#LYHENNE    Silmäkuopan synnynn epämuodostumakorjaus
+###
+#KOODI_A    CAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäkuopan tyhjennys
+#RUOTSI     Utrymning, exenteration av orbita
+#ENGL       Exenteration of orbit
+###
+#KOODI      CAD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3113      
+#SUOMI      Silmäkuopan tyhjennys, eksenteraatio, korjaaminen siirteellä tai kielekkeellä
+#RUOTSI     Exenteration av orbita, täckning med transplantat eller lambå
+#LYHENNE    Silmäkuopan eksenteraatio+siirre/kieleke
+#OHJE_S  
+Käytetyt siirteet tai kielekkeet ilmaistaan lisäkoodilla kohdasta ZZ
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+###
+#KOODI_A    CAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmän poiston jälkeen tehtävät leikkaukset
+#RUOTSI     Operationer efter enukleation eller evisceration av ögat
+#ENGL       Operations for anophthalmia after enucleation or evisceration of eye
+###
+#KOODI      CAE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3109      
+#SUOMI      Orbitaistutteen poisto
+#RUOTSI     Avlägsnande av implantat ur orbita
+#LYHENNE    Orbitaistutteen poisto
+###
+#KOODI      CAE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3104      
+#SUOMI      Silmäkuopan tarkistaminen ja orbitaistutteen myöhäisasettaminen
+#RUOTSI     Revision och sekundärt inläggande av implantat i orbita
+#LYHENNE    Silmäkuopan revisio/istuteasettaminen
+###
+#KOODI      CAE20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3104      
+#SUOMI      Silmäkuopan sidekalvopussin korjaaminen siirteellä
+#RUOTSI     Revision av konjunktivalsäcken med transplantat
+#LYHENNE    Silmäkuopan sidekalvopussin siirrekorjau
+###
+#KOODI_A    CAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut silmäkuopan leikkaukset
+#RUOTSI     Andra operationer på orbita
+#ENGL       Other operations on orbit
+###
+#KOODI      CAW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3119      
+#SUOMI      Muu silmäkuopan leikkaus
+#RUOTSI     Annan operation på orbita
+#LYHENNE    Muu silmäkuopan leikkaus
+###
+#KOODI_R    CB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomien toimenpiteet
+#RUOTSI     Operationer på ögonlocken
+#ENGL       Eyelid
+#OHJE_S  
+Molempien silmien leikkaus lisäkoodilla ZXA10
+#OHJE_R 
+Operationer på båda ögonen indikeras med tilläggskoden ZXA10
+###
+#KOODI_A    CBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomien muutosten aukaisut ja koepalan otot
+#RUOTSI     Incision och biopsi av ögonlock
+#ENGL       Incision and biopsy of eyelid
+###
+#KOODI      CBA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3209      
+#SUOMI      Silmäluomen paikallinen aukaisu
+#RUOTSI     Incision av ögonlock
+#LYHENNE    Silmäluomen paikallinen aukaisu
+###
+#KOODI      CBA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3201      
+#SUOMI      Koepalan otto silmäluomesta
+#RUOTSI     Biopsi av ögonlock
+#LYHENNE    Koepalan otto silmäluomesta
+###
+#KOODI_A    CBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomien paikallisten muutosten poistot
+#RUOTSI     Excision eller destruktion av lokal förändring i ögonlock
+#ENGL       Excision or destruction of lesion of eyelid
+#OHJE_S  
+
+#OHJE_R 
+Rekonstruktiva operationer, se CCD
+###
+#KOODI      CBB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3202      
+#SUOMI      Luomirakkulan poisto tai tyhjennys
+#RUOTSI     Excision eller exkokleation av chalazion
+#LYHENNE    Luomirakkulan poisto tai tyhjennys
+###
+#KOODI      CBB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3261      
+#SUOMI      Silmäluomen löyhän ihon  poisto
+#RUOTSI     Excision av ögonlockshud, operation för dermatochalasis
+#LYHENNE    Silmäluomen löyhän ihon  poisto
+###
+#KOODI      CBB15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3261      
+#SUOMI      Silmäluomen rasvatyrän poisto
+#RUOTSI     Resektion av fettprolaps i ögonlock
+#LYHENNE    Silmäluomen rasvatyrän poisto
+###
+#KOODI      CBB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3261      
+#SUOMI      Silmäluomen löyhän ihon ja rasvatyrän, hernian, poisto
+#RUOTSI     Resektion av hud och fettprolaps
+#LYHENNE    Silmäluomi-ihon/rasvahernian poisto
+###
+#KOODI      CBB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3201      
+#SUOMI      Silmäluomen kystan, arven tai kasvaimen poisto
+#RUOTSI     Exstirpation av tumör eller lokal förändring i ögonlock
+#LYHENNE    Silmäluomikystan/arven/kasvaimen poisto
+#OHJE_S  
+
+#OHJE_R 
+Exkl chalazion, se TCB30
+###
+#KOODI      CBB35
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3201      
+#SUOMI      Silmäluomen kasvaimen jäädytys
+#RUOTSI     Kryoterapi av tumör eller lokal förändring i ögonlock
+#LYHENNE    Silmäluomen kasvaimen jäädytys
+###
+#KOODI      CBB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3201      
+#SUOMI      Silmäluomen kasvaimen poltto
+#RUOTSI     Elektrokoagulation av tumör eller lokal förändring i ögonlock
+#LYHENNE    Silmäluomen kasvaimen poltto
+###
+#KOODI      CBB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3203      
+#SUOMI      Silmäluomen kasvaimen poisto ja korjaaminen siirteellä tai kielekkeellä
+#RUOTSI     Exstirpation av tumör eller hokal förändring i ögonlock; rekonstruktion med transplantat eller lambå
+#LYHENNE    Silmäluomen kasvainpoisto+siirre/kieleke
+#OHJE_S  
+Siirteet ja kielekkeet kohdassa ZZ
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+###
+#KOODI      CBB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3209      
+#SUOMI      Muu silmäluomen paikallisen muutoksen leikkaus
+#RUOTSI     Annat avlägsnande av tumör eller lokal förändring i ögonlock
+#LYHENNE    Muu paikallisen silmämuutoksen leikkaus
+###
+#KOODI_A    CBC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomien vammojen leikkaukset
+#RUOTSI     Operationer vid skador på ögonlock
+#ENGL       Operations on eyelid for injury
+###
+#KOODI      CBC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3801      
+#SUOMI      Silmäluomen haavan ompelu
+#RUOTSI     Sutur av ögonlock
+#LYHENNE    Silmäluomen haavan ompelu
+#OHJE_S  
+Sisältää haavan puhdistuksen
+#OHJE_R 
+Inkl revision
+###
+#KOODI      CBC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3809      
+#SUOMI      Vierasesineen poisto silmäluomesta
+#RUOTSI     Avlägsnande av främmande kropp i ögonlock
+#LYHENNE    Vierasesineen poisto silmäluomesta
+###
+#KOODI      CBC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3809      
+#SUOMI      Muu silmäluomen vamman leikkaus
+#RUOTSI     Annan operation vid skador på ögonlock
+#LYHENNE    Muu silmäluomen vamman leikkaus
+###
+#KOODI_A    CBD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomien korjaamisleikkaukset
+#RUOTSI     Rekonstruktion av ögonlock
+#ENGL       Plastic reconstruction of eyelid
+###
+#KOODI      CBD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3281,     
+#SUOMI      Silmäluomen muovaus ompelemalla
+#RUOTSI     Korrektion av ögonlock med primärsutur
+#LYHENNE    Silmäluomen muovaus ompelemalla
+###
+#KOODI      CBD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3281,     
+#SUOMI      Silmäluomen korjaaminen kielekkeellä tai siirteellä.
+#RUOTSI     Rekonstruktion av ögonlock med transplantat eller lambå
+#LYHENNE    Silmäluomen korjaus,kiele/siirre
+#OHJE_S  
+Siirteet tai kielekkeet, katso ZZ
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+###
+#KOODI      CBD99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289      
+#SUOMI      Muu silmäluomien korjaamisleikkaus
+#RUOTSI     Annan rekonstruktion av ögonlock
+#LYHENNE    Muu silmäluomien korjaamisleikkaus
+###
+#KOODI_A    CBE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomen sisäänkääntymän, entropiumin, leikkaukset
+#RUOTSI     Operationer för entropium
+#ENGL       Operations for entropion
+###
+#KOODI      CBE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3229      
+#SUOMI      Ompeleiden asettaminen entropiumin korjaamiseksi
+#RUOTSI     Sutur för entropium
+#LYHENNE    Entropiumin korjaus ompelein
+###
+#KOODI      CBE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3222      
+#SUOMI      Silmäluomien sulkijalihaksen kiristäminen entropiumin korjaamiseksi
+#RUOTSI     Flyttning och sträckning av m. orbicularis oculi vid entropium
+#LYHENNE    Entropiumin korjaus sulkijalihaskiristyk
+###
+#KOODI      CBE20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3222      
+#SUOMI      Silmäluomen retraktorien kiristys entropiumin korjaamiseksi
+#RUOTSI     Sträckning av ögonlocksretraktorer för entropium
+#LYHENNE    Entropiumin korjaus retraktorikiristykse
+###
+#KOODI      CBE30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3223      
+#SUOMI      Vaakasuora kiristys entropiumin korjaamiseksi
+#RUOTSI     Horisontell sträckning för entropium
+#LYHENNE    Entropiumin korjaus vaakasuorakiristykse
+###
+#KOODI      CBE40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3223      
+#SUOMI      Kombinoitu entropiumin korjaamisleikkaus
+#RUOTSI     Kombinerad korrektion av entropium
+#LYHENNE    Kombinoitu entropiumin korjaamisleikkaus
+###
+#KOODI      CBE99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3223      
+#SUOMI      Muu silmäluomen sisäänkääntymän korjaamisleikkaus
+#RUOTSI     Annan operation för entropium
+#LYHENNE    Muu entropium korjausleikkaus
+###
+#KOODI_A    CBF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäluomen uloskääntymän, ektropiumin, leikkaukset
+#RUOTSI     Operationer för ektropium
+#ENGL       Operations for ectropion
+###
+#KOODI      CBF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3239      
+#SUOMI      Silmäluomen elektrokoagulaatio ektropiumin korjaamiseksi
+#RUOTSI     Elektrokoagulation för ektropium
+#LYHENNE    Ektropiumkorjaus,elektrokoagulaatio
+###
+#KOODI      CBF10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3231      
+#SUOMI      Luomikulman jänteen lyhentäminen ektropiumin korjaamiseksi
+#RUOTSI     Uppstramning av kantusligament
+#LYHENNE    Ektropiumkorjaus,kantusligamenttilyhenny
+###
+#KOODI      CBF20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3231      
+#SUOMI      Luomituen poisto ektropiumin korjaamiseksi
+#RUOTSI     Excision av tarsus för ektropium
+#LYHENNE    Ektropiumkorjaus,tarsuksen poisto
+###
+#KOODI      CBF30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3232      
+#SUOMI      Luomituen ja ihon poisto ektropiumin korjaamiseksi
+#RUOTSI     Excision av tarsus och hud för ektropium
+#LYHENNE    Ektropiumkorjaus,luomituen+ihon poisto
+###
+#KOODI      CBF40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3239      
+#SUOMI      Arpiektropiumin korjaamisleikkaus
+#RUOTSI     Rekonstruktion för ärrektropium
+#LYHENNE    Arpiektropiumin korjaamisleikkaus
+###
+#KOODI      CBF99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3239      
+#SUOMI      Muu silmäluomen uloskääntymän korjaamisleikkaus
+#RUOTSI     Annan operation för ektropium
+#LYHENNE    Muu ektropiumin korjausleikkaus
+###
+#KOODI_A    CBG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Hankaavien silmäripsien korjaamiset
+#RUOTSI     Operationer för trikiasis och distikiasis
+#ENGL       Operations for trichiasis
+###
+#KOODI      CBG00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3211      
+#SUOMI      Silmäripsien elektroepilaatio
+#RUOTSI     Elektroepilation av cilier
+#LYHENNE    Silmäripsien elektroepilaatio
+#OHJE_S  
+Yksinkertainen silmäripsien poisto kohdassa TCB10
+#OHJE_R 
+Enkel epilation, se TCB10
+###
+#KOODI      CBG10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3219      
+#SUOMI      Silmäripsien jäädytyskäsittely
+#RUOTSI     Kryobehandling för trikiasis
+#LYHENNE    Silmäripsien jäädytyskäsittely
+###
+#KOODI      CBG20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3212      
+#SUOMI      Silmäluomen reunan korjaaminen trikiaasin vuoksi
+#RUOTSI     Rekonstruktion av ögonlockskanten vid trikiasis
+#LYHENNE    Silmäluomireunakorjaus trikiaasin vuoksi
+###
+#KOODI      CBG99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3219      
+#SUOMI      Muu silmäripsien virheasennon korjaamisleikkaus
+#RUOTSI     Annan operation för trikiasis
+#LYHENNE    Muu silmäripsien virheasennon korjaus
+###
+#KOODI_A    CBH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Luomikulman ja silmäluomen reunan leikkaukset
+#RUOTSI     Operationer på kantus och ögonlockskanten
+#ENGL       Operations on canthus
+###
+#KOODI      CBH00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3271      
+#SUOMI      Luomikulman aukaisu
+#RUOTSI     Kantotomi
+#LYHENNE    Luomikulman aukaisu
+###
+#KOODI      CBH05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3279      
+#SUOMI      Luomikulman ripustus
+#RUOTSI     Kantopexi
+#LYHENNE    Luomikulman ripustus
+###
+#KOODI      CBH10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3271      
+#SUOMI      Huomikulman korjaamisleikkaus
+#RUOTSI     Rekonstruktion av kantus
+#LYHENNE    Luomikulman korjaamisleikkaus
+#OHJE_S  
+Myös siirrettä käyttäen
+#OHJE_R 
+Inkluderar eventuell transplantation
+###
+#KOODI      CBH20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3283      
+#SUOMI      Luomiraon ompeleminen keskeltä
+#RUOTSI     Central tarsorafi
+#LYHENNE    Luomiraon ompeleminen keskeltä
+###
+#KOODI      CBH30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3283      
+#SUOMI      Luomiraon ompeleminen nasaali- tai temporaalikulmasta
+#RUOTSI     Lateral eller medial tarsorafi
+#LYHENNE    Tarsorafia,nasaali-  tai temporaalikulma
+###
+#KOODI      CBH40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289      
+#SUOMI      Kiinniommellun luomen aukaisu
+#RUOTSI     Uppklippning av tarsorafi
+#LYHENNE    Kiinniommellun luomen aukaisu
+###
+#KOODI      CBH50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3272      
+#SUOMI      Silmäluomen poimun, epikantuksen, korjaamisleikkaus
+#RUOTSI     Rekonstruktiv operation för epikantus
+#LYHENNE    Epikantuksen korjausleikkaus
+###
+#KOODI      CBH99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3279      
+#SUOMI      Muu luomikulman ja silmäluomen reunan leikkaus
+#RUOTSI     Annan operation på kantus och ögonlockskanten
+#LYHENNE    Muu luomikulma/silmäluomireunaleikkaus
+###
+#KOODI_A    CBJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Riippuluomen leikkaukset
+#RUOTSI     Operationer för ptos
+#ENGL       Operations for ptosis
+###
+#KOODI      CBJ00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3241      
+#SUOMI      Ompeleiden asettaminen riippuluomen korjaamiseksi
+#RUOTSI     Lyftning av ögonlock med suturslinga
+#LYHENNE    Ptoosin korjaus ompeleilla
+###
+#KOODI      CBJ10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3241      
+#SUOMI      Riippuluomen ripustus faskiaa käyttäen
+#RUOTSI     Lyftning av ögonlock med fasciestrimla
+#LYHENNE    Riippuluomen ripustus faskiaa käyttäen
+###
+#KOODI      CBJ20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3244      
+#SUOMI      Tarsomyektomia, luomituen ja kohottajalihaksen lyhennys, ptoosin vuoksi
+#RUOTSI     Tarsomyektomi på ögonlock
+#LYHENNE    Ptoosin korjaus,tarsomyektomia
+###
+#KOODI      CBJ30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3242      
+#SUOMI      Kohottajalihaksen aponeuroosin korjaaminen riippuluomen korjaamiseksi
+#RUOTSI     Rekonstruktion av levatormuskelns aponeuros
+#LYHENNE    Ptoosin korjaus,kohottajalihasaponeuroos
+###
+#KOODI      CBJ40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3242      
+#SUOMI      Yläluomen kohottajalihaksen lyhennys riippuluomen korjaamiseksi
+#RUOTSI     Resektion av levatormuskeln
+#LYHENNE    Ptoosin korjaus,yläluomen kohottajalihas
+###
+#KOODI      CBJ50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3249      
+#SUOMI      Kulmakarvojen kohotusleikkaus
+#RUOTSI     Lyftning av ögonbryn
+#LYHENNE    Kulmakarvojen kohotusleikkaus
+###
+#KOODI      CBJ90
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289      
+#SUOMI      Riippuluomiompeleiden poisto
+#RUOTSI     Borttagning av ptos-suturer
+#LYHENNE    Riippuluomiompeleiden poisto
+###
+#KOODI      CBJ99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3249      
+#SUOMI      Muu riippuluomen korjaamisleikkaus
+#RUOTSI     Annan operation för ptos
+#LYHENNE    Muu riippuluomen korjaamisleikkaus
+###
+#KOODI_A    CBK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avoluomen ja luomen vetäytymän leikkaukset
+#RUOTSI     Operationer för lagoftalmi och ögonlocksretraktion
+#ENGL       Operations for lagophthalmus and retraction of eyelid
+###
+#KOODI      CBK00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3251      
+#SUOMI      Luomilihaksen/luomenkohottajalihaksen katkaisu luomiretraktion vuoksi
+#RUOTSI     Myotomi vid ögonlocksretraktion (tarsalmuskel, levatormuskel)
+#LYHENNE    Luomilihas/kohottajalihaskatkaisu,retrak
+###
+#KOODI      CBK10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3251      
+#SUOMI      Avoluomen korjaamisleikkaus
+#RUOTSI     Korrigering av lagoftalmi
+#LYHENNE    Avoluomen korjaamisleikkaus
+#OHJE_S  
+Ei sisällä implantin käyttöä (CBK11)
+#OHJE_R 
+Excluderar implant (CBK11)
+###
+#KOODI      CBK11
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3252      
+#SUOMI      Avoluomen korjaaminen implantin avulla
+#RUOTSI     Korrigering av lagoftalmi medels transplantat
+#LYHENNE    Avoluomen korjaaminen implantin avulla
+###
+#KOODI      CBK99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3259      
+#SUOMI      Muu luomen vetäytymän korjaamisleikkaus
+#RUOTSI     Annan operation för lagoftalmi och ögonlocksretraktion
+#LYHENNE    Muu luomen vetäytymän korjaamisleikkaus
+###
+#KOODI_A    CBL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Luomikouristuksen leikkaukset
+#RUOTSI     Operationer vid blefarospasm
+#ENGL       Operations for blepharospasm
+###
+#KOODI      CBL00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289      
+#SUOMI      Lihaksen/hermon katkaisu, (myektomia/neurotomia), blefarospasmin vuoksi
+#RUOTSI     Myotomi eller neurotomi vid blefarospasm
+#LYHENNE    Blefarospasmikorjaus,myektomia/neurotomi
+###
+#KOODI      CBL99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289      
+#SUOMI      Muu luomikouristuksen leikkaus
+#RUOTSI     Annan operation vid blefarospasm
+#LYHENNE    Muu luomikouristuksen leikkaus
+###
+#KOODI_A    CBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut silmäluomien leikkaukset
+#RUOTSI     Andra operationer på ögonlocken
+#ENGL       Other operations on eyelid
+###
+#KOODI      CBW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3289      
+#SUOMI      Muu silmäluomien leikkaus
+#RUOTSI     Annan operation på ögonlocken
+#LYHENNE    Muu silmäluomien leikkaus
+###
+#KOODI_R    CC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kyynelrauhasten ja kyynelteiden toimenpiteet
+#RUOTSI     Operationer på tårkörtlarna och tårkanalerna
+#ENGL       Lacrimal apparatus
+###
+#KOODI      CC1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6243      
+#SUOMI      Kyynelteiden UÄ
+#RUOTSI     UL av tårkanal
+#LYHENNE    Kyynelteiden UÄ
+###
+#KOODI      CC1CB
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5842      
+#SUOMI      Kyyneltien varjoainetutkimus (dakryokystografia)
+#RUOTSI     Dakryocystografi (kontrastundersökning av tårkanalen)
+#LYHENNE    Dakryokystografia
+###
+#KOODI_A    CCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kyynelrauhasen tai kyynelteiden aukaisut ja koepalan otot
+#RUOTSI     Incision och biopsi av tårkörtel och tårkanal
+#ENGL       Incision and biopsy of lacrimal gland and passages
+#OHJE_S  
+Kyynelkanavien pientoimenpiteitä kohdassa TCC.
+#OHJE_R 
+Mindre åtgärder på tårkanaler, se TCC
+###
+#KOODI      CCA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Kyynelrauhasen aukaisu
+#RUOTSI     Incision av tårkörtel
+#LYHENNE    Kyynelrauhasen aukaisu
+###
+#KOODI      CCA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Koepalan otto kyynelrauhasesta
+#RUOTSI     Biopsi av tårkörtel
+#LYHENNE    Koepalan otto kyynelrauhasesta
+###
+#KOODI      CCA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Kyynelpisteen tai -tiehyeen  aukaisu
+#RUOTSI     Klyvning av tårpunkt eller -kanal, dakryotomi
+#LYHENNE    Kyynelpisteen tai -tiehyeen  aukaisu
+###
+#KOODI      CCA30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3313      
+#SUOMI      Kyynelpussin aukaisu
+#RUOTSI     Öpnande av tårsäck, dakryocystotomi
+#LYHENNE    Kyynelpussin aukaisu
+###
+#KOODI      CCA40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Koepalan otto kyynelteistä
+#RUOTSI     Biopsi av tårkanal
+#LYHENNE    Koepalan otto kyynelteistä
+###
+#KOODI_A    CCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kyynelrauhasen leikkaukset
+#RUOTSI     Andra operationer på tårkörtel
+#ENGL       Other operations on lacrimal gland
+#OHJE_S  
+Korjaavat leikkauset CCD
+#OHJE_R 
+---
+###
+#KOODI      CCB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3311      
+#SUOMI      Kyynelrauhasen poisto osittain
+#RUOTSI     Resektion av tårkörtel
+#LYHENNE    Kyynelrauhasen poisto osittain
+###
+#KOODI      CCB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3311      
+#SUOMI      Kyynelrauhasen poisto kokonaan
+#RUOTSI     Totalexstirpation av tårkörtel
+#LYHENNE    Kyynelrauhasen poisto kokonaan
+###
+#KOODI      CCB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Muu kyynelrauhasen leikkaus
+#RUOTSI     Annan operation på tårkörtel
+#LYHENNE    Muu kyynelrauhasen leikkaus
+###
+#KOODI_A    CCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kyynelteiden leikkaukset
+#RUOTSI     Andra operationer på tårkanalerna
+#ENGL       Other operations on lacrimal passages
+#OHJE_S  
+Korjaavat leikkaukset CCD
+Kyynelteiden sondeeraukset ja kyyneltieputken asettaminen TCC
+#OHJE_R 
+Rekonstruktiva operationer, se CCD
+Sondering och intubation av tårvägar, se TCC
+###
+#KOODI      CCC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Kyyneltiehyeen sulkeminen
+#RUOTSI     Tillslutning av tårkanal
+#LYHENNE    Kyyneltiehyeen sulkeminen
+###
+#KOODI      CCC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3315      
+#SUOMI      Kyynelpussin poisto
+#RUOTSI     Exstirpation av tårsäck
+#LYHENNE    Kyynelpussin poisto
+###
+#KOODI      CCC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Muu kyynelteiden leikkaus
+#RUOTSI     Annan operation på tårkanalerna
+#LYHENNE    Muu kyynelteiden leikkaus
+###
+#KOODI_A    CCD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kyynelrauhasten ja kyynelteiden korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på tårkörtlar/tårkanaler
+#ENGL       Reconstructive operations on lacrimal apparatus
+###
+#KOODI      CCD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Kyyneltieavanteen sulkeminen
+#RUOTSI     Exstirpation/tillslutning av tårfistel
+#LYHENNE    Kyyneltieavanteen sulkeminen
+###
+#KOODI      CCD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3802      
+#SUOMI      Kyyneltiehyeen ompelu
+#RUOTSI     Sutur av tårkanal
+#LYHENNE    Kyyneltiehyeen ompelu
+###
+#KOODI      CCD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Kyyneltiehyeen ompelu ja putken asettaminen
+#RUOTSI     Sutur av tårkanal med intubation
+#LYHENNE    Kyyneltiehyeen ompelu+putken asettaminen
+###
+#KOODI      CCD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3316      
+#SUOMI      Kyyneltiehyeen korjaamisleikkaus
+#RUOTSI     Rekonstruktion av tårkanal
+#LYHENNE    Kyyneltiehyeen korjaamisleikkaus
+###
+#KOODI      CCD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3317      
+#SUOMI      Kyynelpussi-nenäavanne ihon läpi
+#RUOTSI     Perkutan dakryocystorinostomi
+#LYHENNE    Kyynelpussi-nenäavanne ihon läpi
+###
+#KOODI      CCD50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3317      
+#SUOMI      Kyynelpussi-nenäavanne ja putken asettaminen
+#RUOTSI     Dakryocystorinostomi med intubation
+#LYHENNE    Dakryokystorinostomia putken avulla
+###
+#KOODI      CCD60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3318      
+#SUOMI      Kyynelpussi-nenäavanne nenän kautta
+#RUOTSI     Transnasal dakryocystorinostomi
+#LYHENNE    Kyynelpussi-nenäavanne nenän kautta
+###
+#KOODI      CCD70
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3321      
+#SUOMI      Sidekalvo-kyynelpussi-nenäavanne Jonesin putkea käyttäen
+#RUOTSI     Konjunktivocystorinostomi med inläggande av Jones' rör
+#LYHENNE    Konjunktivokanalikulorinostomia,Jonesput
+###
+#KOODI      CCD99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Muu kyynelrauhasten ja kyynelteiden korjaamisleikkaus
+#RUOTSI     Annan rekonstruktiv operation på tårkanalerna
+#LYHENNE    Muu kyynelrauhas/kyyneltiekorjaus
+###
+#KOODI_A    CCW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kyynelrauhasten ja kyynelteiden leikkaukset
+#RUOTSI     Andra operationer på tårkörtlar/tårkanaler
+#ENGL       Other operations on lacrimal apparatus
+###
+#KOODI      CCW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3329      
+#SUOMI      Muu kyynelrauhasten ja kyynelteiden leikkaus
+#RUOTSI     Annan operation på tårkörtlar och tårkanaler
+#LYHENNE    Muu kyynelrauhas/kyyneltieleikkaus
+#OHJE_S  
+Muu kyynelrauhasen leikkaus CCB99
+Muu kyynelteiden leikkaus CCC99
+#OHJE_R 
+Annan operation på tårkörtlarna CCB99Annan operation på tårkanalerna CCC99
+###
+#KOODI_R    CD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmämunan toimenpiteet
+#RUOTSI     Operationer på ögongloben
+#ENGL       Eyeball
+#OHJE_S  
+Koepalat asianomaisen kudoksen kohdalla
+#OHJE_R 
+Biopsier: se nedan under respektiva strukturer
+###
+#KOODI      CD1AE
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6241      
+#SUOMI      Silmän muu UÄ
+#RUOTSI     UL av ögonen (övrig)
+#LYHENNE    Silmän muu UÄ
+###
+#KOODI_A    CDB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmämunan sisäisten vierasesineiden poistot
+#RUOTSI     Avlägsnande av intrabulbär främmande kropp
+#ENGL       Removal of intraocular foreign body
+###
+#KOODI      CDB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3833,     
+#SUOMI      Silmämunan sisäisen vierasesineen poisto ilman magneettia
+#RUOTSI     Avlägsnande av intrabulbär främmande kropp utan magnet
+#LYHENNE    Silmävierasesinepoisto ilman magneettia
+###
+#KOODI      CDB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3832,     
+#SUOMI      Silmämunan sisäisen vierasesineen poisto magneetin avulla
+#RUOTSI     Avlägsnande av intrabulbär främmande kropp med magnet
+#LYHENNE    Silmävierasesinepoisto magneetin avulla
+###
+#KOODI      CDB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3849      
+#SUOMI      Muu leikkaus silmämunan sisäisen vierasesineen takia
+#RUOTSI     Annan operation vid intrabulbär främmande kropp
+#LYHENNE    Muu silmävierasesinepoistoleikkaus
+###
+#KOODI_A    CDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmän poisto- ja tyhjennysleikkaukset
+#RUOTSI     Enukleation och evisceration av ögat
+#ENGL       Enucleation and evisceration of eye
+###
+#KOODI      CDC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3102      
+#SUOMI      Silmän poisto
+#RUOTSI     Enukleation av ögat
+#LYHENNE    Silmän poisto
+###
+#KOODI      CDC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3103      
+#SUOMI      Silmän poisto ja istutteen asettaminen Tenonin kapseliin
+#RUOTSI     Enukleation av ögat med implantation av protes i Tenon´s kapsel
+#LYHENNE    Silmän poisto+istute Tenonin kapseliin
+###
+#KOODI      CDC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3103      
+#SUOMI      Silmän poisto ja rasva/ihosiirteen asettaminen Tenonin kapseliin
+#RUOTSI     Enukleation av ögat med vävnadsimplantat i Tenon´s kapsel
+#LYHENNE    Silmänpoisto+rasva/ihosiirre Tenonin kap
+#OHJE_S  
+Käytetty siirremateriaali lisäkoodilla ryhmästä ZZ
+#OHJE_R 
+Material av transplantat eller lambå bör anges med tilläggskod, se ZZ
+###
+#KOODI      CDC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3101      
+#SUOMI      Silmän tyhjennys
+#RUOTSI     Evisceration av ögat
+#LYHENNE    Silmän tyhjennys
+###
+#KOODI      CDC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3101      
+#SUOMI      Silmän tyhjennys ja istutteen asettaminen
+#RUOTSI     Evisceration av ögat med implantation av protes
+#LYHENNE    Silmän tyhjennys+istutteen asettaminen
+###
+#KOODI      CDC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3101      
+#SUOMI      Silmän tyhjennys ja rasva/ihosiirteen asettaminen
+#RUOTSI     Evisceration av ögat med vävnadsimplantat
+#LYHENNE    Silmän tyhjennys+rasva/ihosiirteen asett
+#OHJE_S  
+Siirteet tai kielekkeet kohdassa ZZ
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+###
+#KOODI_A    CDW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut silmämunan leikkaukset
+#RUOTSI     Övriga operationer på ögongloben
+#ENGL       Other operations on eyeball
+###
+#KOODI      CDW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3109      
+#SUOMI      Muu silmämunan leikkaus
+#RUOTSI     Annan operation på bulben som helhet
+#LYHENNE    Muu silmämunan leikkaus
+###
+#KOODI_R    CE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihaksien toimenpiteet
+#RUOTSI     Operationer på ögonmusklerna
+#ENGL       Extraocular muscles
+#OHJE_S  
+Molempien silmien leikkaus lisäkoodilla ZXA10
+#OHJE_R 
+Operationer på båda ögonen indikeras med tilläggskoden ZXA10
+###
+#KOODI_A    CEA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihasten koepalan otot
+#RUOTSI     Biopsi av ögonmuskel
+#ENGL       Biopsy of extraocular muscle
+###
+#KOODI      CEA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Koepalan otto silmälihaksesta
+#RUOTSI     Biopsi av ögonmuskel
+#LYHENNE    Koepalan otto silmälihaksesta
+###
+#KOODI_A    CEB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihasten poistot ja katkaisut
+#RUOTSI     Myektomi, myotomi, tenotomi av ögonmuskel
+#ENGL       Myectomy, myotomy, tenotomy of extraocular muscle
+###
+#KOODI      CEB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Silmälihaksen poisto
+#RUOTSI     Myektomi av ögonmuskel
+#LYHENNE    Silmälihaksen poisto
+###
+#KOODI      CEB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3501      
+#SUOMI      Silmälihaksen osittainen katkaisu
+#RUOTSI     Partiell myotomi av ögonmuskel
+#LYHENNE    Silmälihaksen osittainen katkaisu
+###
+#KOODI      CEB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3501      
+#SUOMI      Silmälihaksen täydellinen katkaisu
+#RUOTSI     Total myotomi av ögonmuskel
+#LYHENNE    Silmälihaksen täydellinen katkaisu
+###
+#KOODI      CEB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3501      
+#SUOMI      Silmälihaksen jänneosan katkaisu
+#RUOTSI     Tenotomi av ögonmuskel
+#LYHENNE    Silmälihaksen jänneosan katkaisu
+###
+#KOODI_A    CEC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihasten kiinnityspisteiden siirtoleikkaukset
+#RUOTSI     Transposition av ögonmuskel
+#ENGL       Transposition of extraocular muscle
+###
+#KOODI      CEC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3503,     
+#SUOMI      Silmälihaksen tai -lihasten retropositio
+#RUOTSI     Retroposition av ögonmuskel
+#LYHENNE    Silmälihaksen tai -lihasten retropositio
+###
+#KOODI      CEC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3507      
+#SUOMI      Silmälihaksen tai -lihasten retropositio ja resektio
+#RUOTSI     Retroposition och resektion av ögonmuskel
+#LYHENNE    Silmälihaksen/-lihasten retropos+resekti
+###
+#KOODI      CEC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Silmälihaksen tai -lihasten retropositio ja antepositio
+#RUOTSI     Retroposition och anteposition av ögonmuskel/-muskler
+#LYHENNE    Silmälihaksen/-lihasten retropos+antepos
+###
+#KOODI      CEC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3505,     
+#SUOMI      Silmälihaksen tai -lihasten resektio
+#RUOTSI     Resektion av ögonmuskel
+#LYHENNE    Silmälihaksen tai -lihasten resektio
+###
+#KOODI      CEC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Silmälihaksen tai -lihasten resektio ja antepositio
+#RUOTSI     Resektion och anteposition av ögonmuskel/-muskler
+#LYHENNE    Silmälihaksen/-lihasten resektio+antepos
+###
+#KOODI      CEC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3508      
+#SUOMI      Silmälihaksen tai -lihasten antepositio
+#RUOTSI     Anteposition av ögonmuskel/-muskler
+#LYHENNE    Silmälihaksen tai -lihasten antepositio
+###
+#KOODI      CEC60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3508      
+#SUOMI      Silmälihaksen transpositio säätöompeleella
+#RUOTSI     Transposition av ögonmuskel med justerbar sutur
+#LYHENNE    Silmälihaksen transpositio,säätöommel
+###
+#KOODI      CEC70
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3508      
+#SUOMI      Silmälihaksen tai -lihasten transpositio nystagmuksen vuoksi
+#RUOTSI     Transposition av ögonmuskel/-muskler p.g.a. nystagmus
+#LYHENNE    Silmälihaksen/-lihastranspositio,nystagm
+###
+#KOODI      CEC80
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3508      
+#SUOMI      Silmälihaksen osittainen muu transpositio
+#RUOTSI     Partiell flyttning av ögonmuskel
+#LYHENNE    Silmälihaksen ositt muu transpositio
+###
+#KOODI      CEC90
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3508      
+#SUOMI      Silmälihaksen täydellinen muu transpositio
+#RUOTSI     Total transposition av ögonmuskel
+#LYHENNE    Silmälihaksen täydell muu transpositio
+###
+#KOODI_A    CED
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihasten lyhennykset poimuttamalla, plikaatiot
+#RUOTSI     Veckning av ögonmuskel, plikation
+#ENGL       Plication of extraocular muscle
+###
+#KOODI      CED00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3502      
+#SUOMI      Silmälihasten poimutus
+#RUOTSI     Veckning av ögonmuskel/-muskler
+#LYHENNE    Silmälihasten poimutus
+###
+#KOODI_A    CEE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihasten kiinnitykset, fiksaatiot
+#RUOTSI     Fixering av ögonmuskel
+#ENGL       Fixation of extraocular muscle
+###
+#KOODI      CEE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Silmälihaksen kiinnitys ompelemalla
+#RUOTSI     Fixationssutur i ögonmuskel
+#LYHENNE    Silmälihaksen kiinnitys ompelemalla
+###
+#KOODI      CEE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Silmälihaksen ankkurointi taaemmaksi
+#RUOTSI     Fixering av ögonmuskel med ankarsutur
+#LYHENNE    Silmälihaksen ankkurointi taaemmaksi
+###
+#KOODI_A    CEF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmälihasleikkaukset vamman tai kiinnikkeiden vuoksi
+#RUOTSI     Operation på ögonmuskel vid skada eller efter tidigare operation
+#ENGL       Operation on extraocular muscle for injury or after previous operation
+###
+#KOODI      CEF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Silmälihaskiinnikkeiden irrottaminen
+#RUOTSI     Lösning av fastlödd ögonmuskel
+#LYHENNE    Silmälihaskiinnikkeiden irrotus
+###
+#KOODI      CEF10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3809      
+#SUOMI      Silmälihaksen tai Tenonin kapselin vamman ompeleminen
+#RUOTSI     Sutur av skadad ögonmuskel eller Tenons kapsel
+#LYHENNE    Silmälihaksen/Tenonin kapselin vammakorj
+###
+#KOODI_A    CEW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut silmälihasten leikkaukset
+#RUOTSI     Andra operationer på ögonmusklerna
+#ENGL       Other operations on extraocular muscle
+###
+#KOODI      CEW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3519      
+#SUOMI      Muu silmälihasten leikkaus
+#RUOTSI     Annan operation på ögonmusklerna
+#LYHENNE    Muu silmälihasten leikkaus
+###
+#KOODI_R    CF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sidekalvon toimenpiteet
+#RUOTSI     Operationer på bindehinnan
+#ENGL       Conjunctiva
+###
+#KOODI_A    CFA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sidekalvon aukaisut ja koepalan otot
+#RUOTSI     Incision och biopsi av bindehinnan
+#ENGL       Incision and biopsy of conjunctiva
+###
+#KOODI      CFA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3409      
+#SUOMI      Sidekalvon aukaisu
+#RUOTSI     Incision av bindehinnan
+#LYHENNE    Sidekalvon aukaisu
+###
+#KOODI      CFA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3409      
+#SUOMI      Sidekalvon irroitus sarveiskalvon reunasta, peritomia
+#RUOTSI     Peritomi av bindehinnan
+#LYHENNE    Sidekalvon peritomia
+###
+#KOODI      CFA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3401      
+#SUOMI      Koepalan otto sidekalvosta
+#RUOTSI     Biopsi av bindehinnan
+#LYHENNE    Koepalan otto sidekalvosta
+###
+#KOODI_A    CFB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sidekalvon ompelemiset ja vierasesineiden poistoleikkaukset
+#RUOTSI     Sutur och avlägsnande av främmande kropp i bindehinnan
+#ENGL       Suture and removal of foreign body of conjunctiva
+###
+#KOODI      CFB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3811      
+#SUOMI      Sidekalvon ompeleminen
+#RUOTSI     Sutur av sår i bindehinnan
+#LYHENNE    Sidekalvon ompeleminen
+###
+#KOODI      CFB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3831      
+#SUOMI      Sidekalvon vierasesineen poisto
+#RUOTSI     Avlägsnande av främmande kropp i bindehinnan
+#LYHENNE    Sidekalvon vierasesineen poisto
+###
+#KOODI_A    CFC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sidekalvomuutosten poistoleikkaukset
+#RUOTSI     Avlägsnande av tumör eller lokal förändring
+#ENGL       Removal of lesion of conjunctiva
+###
+#KOODI      CFC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3402      
+#SUOMI      Sidekalvomuutoksen poisto
+#RUOTSI     Exstirpation av tumör i bindehinnan
+#LYHENNE    Sidekalvomuutoksen poisto
+###
+#KOODI      CFC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3409      
+#SUOMI      Sidekalvomuutoksen laserkäsittely
+#RUOTSI     Laserterapi av förändring i bindehinnan
+#LYHENNE    Sidekalvomuutoksen laserkäsittely
+###
+#KOODI      CFC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3409      
+#SUOMI      Sidekalvomuutoksen jäädytyshoito
+#RUOTSI     Kryoterapi av förändringar i bindehinnan
+#LYHENNE    Sidekalvomuutoksen jäädytyshoito
+###
+#KOODI      CFC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3403      
+#SUOMI      Trakoomakyhmyjen tai rakkuloiden poisto
+#RUOTSI     Exstirpation av trakomkorn/folliklar
+#LYHENNE    Trakoomakyhmyjen tai rakkuloiden poisto
+###
+#KOODI_A    CFD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sidekalvon korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på bindehinnan
+#ENGL       Repair of conjunctiva
+###
+#KOODI      CFD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3402      
+#SUOMI      Sidekalvon korjaaminen ilman siirrettä
+#RUOTSI     Rekonstruktion av bindehinnan utan transplantat
+#LYHENNE    Sidekalvon korjaaminen ilman siirrettä
+###
+#KOODI      CFD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3404      
+#SUOMI      Sidekalvon korjaaminen siirrettä käyttäen
+#RUOTSI     Rekonstruktion av bindehinnan med transplantat
+#LYHENNE    Sidekalvon korjaus siirrettä käyttäen
+###
+#KOODI_A    CFW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut sidekalvon leikkaukset
+#RUOTSI     Övriga operationer på bindehinnan
+#ENGL       Other operations on conjunctiva
+###
+#KOODI      CFW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3409      
+#SUOMI      Muu sidekalvon leikkaus
+#RUOTSI     Annan operation på bindehinnan
+#LYHENNE    Muu sidekalvon leikkaus
+###
+#KOODI_R    CG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sarveiskalvon ja kovakalvon toimenpiteet
+#RUOTSI     Operationer på hornhinna och sklera
+#ENGL       Cornea and sclera
+###
+#KOODI_A    CGA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Koepalan otot sarveis- ja kovakalvosta
+#RUOTSI     Biopsi av hornhinna eller sklera
+#ENGL       Biopsy of cornea or sclera
+###
+#KOODI      CGA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Koepalan otto sarveiskalvosta
+#RUOTSI     Biopsi av hornhinna
+#LYHENNE    Koepalan otto sarveiskalvosta
+###
+#KOODI      CGA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3719      
+#SUOMI      Koepalan otto kovakalvosta
+#RUOTSI     Biopsi av sklera
+#LYHENNE    Koepalan otto kovakalvosta
+###
+#KOODI_A    CGB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sarveis- ja kovakalvon aukaisuleikkaukset
+#RUOTSI     Incision i hornhinna eller sklera
+#ENGL       Incision of cornea or sclera
+###
+#KOODI      CGB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvon aukaisu
+#RUOTSI     Keratotomi
+#LYHENNE    Sarveiskalvon aukaisu
+###
+#KOODI      CGB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3719      
+#SUOMI      Kovakalvon aukaisu
+#RUOTSI     Sklerotomi
+#LYHENNE    Kovakalvon aukaisu
+###
+#KOODI_A    CGC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vierasesineiden poistot sarveis- ja kovakalvosta
+#RUOTSI     Avlägsnande av främmande kropp i hornhinna eller sklera
+#ENGL       Removal of foreign body from cornea or sclera
+###
+#KOODI      CGC10
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      3831      
+#SUOMI      Vierasesineen poisto sarveiskalvosta
+#RUOTSI     Avlägsnande av främmande kropp i hornhinna
+#LYHENNE    Vierasesineen poisto sarveiskalvosta
+###
+#KOODI      CGC20
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      3831      
+#SUOMI      Vierasesineen poisto sarveiskalvosta magneettia käyttäen
+#RUOTSI     Avlägsnande av främmande kropp i hornhinna med magnet
+#LYHENNE    Vierasesinepoisto sarveiskalvosta magnee
+###
+#KOODI      CGC30
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      3849      
+#SUOMI      Vierasesineen poisto kovakalvosta
+#RUOTSI     Avlägsnande av främmande kropp i sklera
+#LYHENNE    Vierasesineen poisto kovakalvosta
+###
+#KOODI      CGC40
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      3849      
+#SUOMI      Vierasesineen poisto kovakalvosta magneettia käyttäen
+#RUOTSI     Avlägsnande av främmande kropp i sklera med magnet
+#LYHENNE    Vierasesinepoisto kovakalvosta magneetil
+###
+#KOODI_A    CGD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Taittovirheen korjaamisleikkaukset
+#RUOTSI     Operationer för refraktionsanomali
+#ENGL       Operations for errors of refraction
+###
+#KOODI      CGD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvoleikkaus taittovirheen korjaamiseksi
+#RUOTSI     Keratotomi för refraktionsanomali
+#LYHENNE    Keratotomia taittovirheen vuoksi
+###
+#KOODI      CGD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Laserkäsittely taittovirheen korjaamiseksi
+#RUOTSI     Laserbehandling för refraktionsanomali
+#LYHENNE    Laserkäsittely taittovirheen vuoksi
+###
+#KOODI      CGD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3605      
+#SUOMI      Keratomileusis
+#RUOTSI     Keratomileusis
+#LYHENNE    Keratomileusis
+###
+#KOODI      CGD99
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Muu taittovirheen korjaamisleikkaus
+#RUOTSI     Annan operation för refraktionsanomali
+#LYHENNE    Muu taittovirheen korjaamisleikkaus
+###
+#KOODI_A    CGE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sarveis- ja kovakalvon kudosmuutosten vuoksi tehtävät leikkaukset
+#RUOTSI     Behandling av vävnadsförändringar i hornhinna eller sklera
+#ENGL       Operations for lesion of cornea and sclera
+###
+#KOODI      CGE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvon osan poisto
+#RUOTSI     Keratektomi
+#LYHENNE    Sarveiskalvon osan poisto
+###
+#KOODI      CGE15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvon laserhoito
+#RUOTSI     Laserbehandling av hornhinna
+#LYHENNE    Sarveiskalvon laserhoito
+###
+#KOODI      CGE20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3602      
+#SUOMI      Sarveiskalvon elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av hornhinna
+#LYHENNE    Sarveiskalvon elektrokoagulaatio
+#OHJE_S  
+Kartiopullistuman korjaus, katso CGG10
+#OHJE_R 
+---
+###
+#KOODI      CGE25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3602      
+#SUOMI      Sarveiskalvon jäädytyshoito
+#RUOTSI     Kryoterapi av hornhinna
+#LYHENNE    Sarveiskalvon jäädytyshoito
+###
+#KOODI      CGE30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3761      
+#SUOMI      Kovakalvon osan poisto
+#RUOTSI     Sklerektomi
+#LYHENNE    Kovakalvon osan poisto
+###
+#KOODI      CGE35
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Kovakalvon laserhoito
+#RUOTSI     Laserbehandling av sklera
+#LYHENNE    Kovakalvon laserhoito
+###
+#KOODI      CGE40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Kovakalvon elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av sklera
+#LYHENNE    Kovakalvon elektrokoagulaatio
+###
+#KOODI      CGE50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3402      
+#SUOMI      Siipikalvon poisto
+#RUOTSI     Excision av pterygium
+#LYHENNE    Siipikalvon poisto
+###
+#KOODI      CGE55
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3402      
+#SUOMI      Siipikalvon poisto ja sidekalvon korjaaminen siirrettä käyttäen
+#RUOTSI     Excision av pterygium med transplantatrekonstruktion av konjunktiva
+#LYHENNE    Siipikalvon poisto/korjaus siirteellä
+###
+#KOODI      CGE99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Muu sarveis- tai kovakalvon kudosmuutosten leikkaus
+#RUOTSI     Annan operation för vävnadsförändringar i hornhinna eller sklera
+#LYHENNE    Muu sarveis/kovakalvokudosmuutosleikkaus
+###
+#KOODI_A    CGF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lävistävien sarveis- tai kovakalvohaavojen leikkaukset
+#RUOTSI     Behandling av perforerande sår i hornhinna eller sklera
+#ENGL       Operations on cornea and sclera for perforating injury
+###
+#KOODI      CGF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3829      
+#SUOMI      Sarveiskalvohaavan liimaaminen
+#RUOTSI     Limning av sår i hornhinna
+#LYHENNE    Sarveiskalvohaavan liimaaminen
+###
+#KOODI      CGF10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3812      
+#SUOMI      Sarveiskalvohaavan ompeleminen
+#RUOTSI     Sutur av sår i hornhinna
+#LYHENNE    Sarveiskalvohaavan ompeleminen
+###
+#KOODI      CGF20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3812,     
+#SUOMI      Sarveiskalvohaavan ompeleminen ja sidekalvon korjaaminen
+#RUOTSI     Sutur av sår i hornhinna med reparation av bindehinna
+#LYHENNE    Sarveiskalvon ompelu+sidekalvon korjaus
+###
+#KOODI      CGF25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3817      
+#SUOMI      Sarveiskalvohaavan ompeleminen ja uvean prolapsin poisto
+#RUOTSI     Sutur av sår i hornhinna med avlägsnande av prolaberad uveavävnad
+#LYHENNE    Sarveiskalvo-ompelu+uveaprolapsin poisto
+###
+#KOODI      CGF30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3829      
+#SUOMI      Sarveiskalvon peittäminen sidekalvolla
+#RUOTSI     Täckning av hornhinna med konjunktiva
+#LYHENNE    Sarveiskalvon peittäminen sidekalvolla
+###
+#KOODI      CGF40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3829      
+#SUOMI      Kovakalvohaavan liimaaminen
+#RUOTSI     Himning av sår i sklera
+#LYHENNE    Kovakalvohaavan liimaaminen
+###
+#KOODI      CGF45
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3829      
+#SUOMI      Kovakalvohaavan ompeleminen
+#RUOTSI     Sutur av sår i sklera
+#LYHENNE    Kovakalvohaavan ompeleminen
+###
+#KOODI      CGF50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3813      
+#SUOMI      Kovakalvohaavan ompeleminen ja sidekalvon korjaaminen
+#RUOTSI     Sutur av sår i sklera med rekonstruktion av bindehinna
+#LYHENNE    Kovakalvohaavan ompelu+sidekalvokorjaus
+###
+#KOODI      CGF55
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3817      
+#SUOMI      Kovakalvohaavan ompeleminen ja uvean prolapsin poisto
+#RUOTSI     Sutur av sår i sklera med avlägsnande av prolaberad uveavävnad
+#LYHENNE    Kovakalvohaavaompelu+uveaprolapsipoisto
+###
+#KOODI      CGF99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3829      
+#SUOMI      Muu perforoivan sarveis- tai kovakalvohaavan leikkaus
+#RUOTSI     Annan operation vid perforerande sår i hornhinna eller sklera
+#LYHENNE    Muu sarveis-/kovakalvoperforatioleikkaus
+###
+#KOODI_A    CGG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sarveis-tai kovakalvon korjaamisleikkaukset
+#RUOTSI     Rekonstruktiva ingrepp på hornhinna och sklera
+#ENGL       Reconstructive operations on cornea and sclera
+###
+#KOODI      CGG00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Sarveiskalvon tatuointi
+#RUOTSI     Tatuering av hornhinna
+#LYHENNE    Sarveiskalvon tatuointi
+###
+#KOODI      CGG10
+#MUUT_PVM   2001/11/13
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3602      
+#SUOMI      Sarveiskalvon kartiopullistuman korjaus elektrokoagulaatiolla
+#RUOTSI     Termokauterisering av keratoconus i hornhinna
+#LYHENNE    Sarveiskalvon kartiopullistuman korjaus
+###
+#KOODI      CGG20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3606      
+#SUOMI      Epikeratofakia, keratofakia
+#RUOTSI     Epikeratofaki, keratofaki
+#LYHENNE    Epikeratofakia, keratofakia
+###
+#KOODI      CGG30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3603      
+#SUOMI      Sarveiskalvon lamellaarinen siirto
+#RUOTSI     Lamellär hornhinnetransplantation
+#LYHENNE    Sarveiskalvon lamellaarinen siirto
+###
+#KOODI      CGG40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3604      
+#SUOMI      Sarveiskalvon siirto omaa kudosta käyttäen
+#RUOTSI     Hornhinnetransplantation med autograft
+#LYHENNE    Sarveiskalvon siirto,oma kudos
+###
+#KOODI      CGG45
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3604      
+#SUOMI      Sarveiskalvon siirto vainajan kudosta käyttäen
+#RUOTSI     Hornhinnetransplantation med homograft
+#LYHENNE    Sarveiskalvon siirto,homografti
+###
+#KOODI      CGG50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3607      
+#SUOMI      Keratoproteesin asettaminen
+#RUOTSI     Implantation av keratoprotes
+#LYHENNE    Keratoproteesin asettaminen
+###
+#KOODI      CGG60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Kovakalvon vahvistaminen siirteellä
+#RUOTSI     Förstärkning av sklera med transplantat
+#LYHENNE    Kovakalvon vahvistaminen siirteellä
+###
+#KOODI      CGG99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619      
+#SUOMI      Muu sarveis- tai kovakalvon korjaamisleikkaus
+#RUOTSI     Annat rekonstruktivt ingrepp på hornhinna eller sklera
+#LYHENNE    Muu sarveis-/kovakalvon korjausleikkaus
+###
+#KOODI_A    CGW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut sarveis-tai kovakalvon leikkaukset
+#RUOTSI     Andra operationer på hornhinna eller sklera
+#ENGL       Other operations on cornea and sclera
+###
+#KOODI      CGW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3619,     
+#SUOMI      Muu sarveis- tai kovakalvon leikkaus
+#RUOTSI     Annan operation på hornhinna eller sklera
+#LYHENNE    Muu sarveis- tai kovakalvon leikkaus
+###
+#KOODI_R    CH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Etukammion, kammiokulman, värikalvon ja sädekehän toimenpiteet
+#RUOTSI     Operationer i främre kammaren, kammarvinkeln, iris och ciliarkroppen
+#ENGL       Anterior chamber, anterior chamber angle, iris and ciliary body
+###
+#KOODI_A    CHA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Etukammion, kammiokulman, värikalvon ja sädekehän tutkimusleikkaukset
+#RUOTSI     Biopsi av främre kammaren, kammarvinkeln, iris och ciliarkroppen
+#ENGL       Biopsy of anterior chamber, anterior chamber angle, iris and ciliary body
+###
+#KOODI      CHA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Koepalan otto värikalvosta
+#RUOTSI     Biopsi av iris
+#LYHENNE    Koepalan otto värikalvosta
+#OHJE_S  
+Neulanäytteen otto värikalvosta TCH20
+#OHJE_R 
+Nålbiopsi av iris TCH20
+###
+#KOODI      CHA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Koepalan otto sädekehästä
+#RUOTSI     Biopsi av ciliarkroppen
+#LYHENNE    Koepalan otto sädekehästä
+#OHJE_S  
+Neulanäytteen otto sädekehästä TCH30
+#OHJE_R 
+Nålbiopsi av ciliarkroppen TCH30
+###
+#KOODI_A    CHB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kammiokulman ja etukammion leikkaukset
+#RUOTSI     Ingrepp i främre kammaren och kammarvinkeln
+#ENGL       Operations on anterior chamber and anterior chamber angle
+###
+#KOODI      CHB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3765      
+#SUOMI      Etukiinnikkeiden katkaisu laserilla
+#RUOTSI     Delning av främre synekier med laser
+#LYHENNE    Etukiinnikkeiden katkaisu laserilla
+###
+#KOODI      CHB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Etukammiopisto ja -huuhtelu
+#RUOTSI     Kammarpunktion med sköljning
+#LYHENNE    Etukammiopisto ja -huuhtelu
+###
+#KOODI      CHB15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Etukammiopisto ja kaasun ruiskuttaminen
+#RUOTSI     Kammarpunktion med insprutning gas
+#LYHENNE    Etukammiopisto ja kaasun ruiskuttaminen
+#OHJE_S  
+Ilma tai muu kaasu tai vastaava toimenpide
+#OHJE_R 
+Insufflation af luft eller annat gas eller motsvarande åtgärd
+###
+#KOODI      CHB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3701      
+#SUOMI      Kammiokulmapisto
+#RUOTSI     Goniopunktion
+#LYHENNE    Kammiokulmapisto
+###
+#KOODI      CHB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3701      
+#SUOMI      Kammiokulman aukaisu
+#RUOTSI     Goniotomi
+#LYHENNE    Kammiokulman aukaisu
+###
+#KOODI      CHB40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3765      
+#SUOMI      Kammiokulman kiinnikkeiden irroitus
+#RUOTSI     Lösning av goniosynekier
+#LYHENNE    Kammiokulman kiinnikkeiden irroitus
+###
+#KOODI      CHB50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3702      
+#SUOMI      Trabekulotomia
+#RUOTSI     Trabekulotomi
+#LYHENNE    Trabekulotomia
+###
+#KOODI      CHB60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3765      
+#SUOMI      Etukiinnikkeiden irroitus
+#RUOTSI     Lösning av främre synekier
+#LYHENNE    Etukiinnikkeiden irroitus
+###
+#KOODI      CHB65
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3765      
+#SUOMI      Takakiinnikkeiden irroitus
+#RUOTSI     Lösning av bakre synekier
+#LYHENNE    Takakiinnikkeiden irroitus
+###
+#KOODI      CHB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu kammiokulman ja etukammion leikkaus
+#RUOTSI     Annan operation i främre kammaren och kammarvinkeln
+#LYHENNE    Muu kammiokulman ja etukammion leikkaus
+###
+#KOODI_A    CHC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Värikalvon aukaisu, iridotomia, tai poisto, iridektomia
+#RUOTSI     Iridotomi och iridektomi
+#ENGL       Iridotomy and iridectomy
+###
+#KOODI      CHC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3705      
+#SUOMI      Iridotomia
+#RUOTSI     Iridotomi
+#LYHENNE    Iridotomia
+###
+#KOODI      CHC05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3705      
+#SUOMI      Iridotomia laseria käyttäen
+#RUOTSI     Iridotomi med laser
+#LYHENNE    Iridotomia laseria käyttäen
+###
+#KOODI      CHC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3704      
+#SUOMI      Perifeerinen iridektomia
+#RUOTSI     Perifer iridektomi
+#LYHENNE    Perifeerinen iridektomia
+###
+#KOODI      CHC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3704      
+#SUOMI      Sektori-iridektomia
+#RUOTSI     Sektoriridektomi
+#LYHENNE    Sektori-iridektomia
+###
+#KOODI      CHC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3704      
+#SUOMI      Sentraalinen iridektomia, sfinkterotomia
+#RUOTSI     Central iridektomi, sfinkterotomi
+#LYHENNE    Sentraalinen iridektomia, sfinkterotomia
+###
+#KOODI_A    CHD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kammionesteen ulosvirtausta muuttavat leikkaukset
+#RUOTSI     Operationer för att reglera utflödet av kammarvätska
+#ENGL       Filtering operations
+###
+#KOODI      CHD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3703      
+#SUOMI      Lasertrabekuloplastia, LTP
+#RUOTSI     Lasertrabekuloplastik
+#LYHENNE    Lasertrabekuloplastia, LTP
+###
+#KOODI      CHD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3708      
+#SUOMI      Trabekulektomia
+#RUOTSI     Trabekulektomi
+#LYHENNE    Trabekulektomia
+###
+#KOODI      CHD15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3708      
+#SUOMI      Trabekulektomia ja iridektomia
+#RUOTSI     Trabekulektomi med iridektomi
+#LYHENNE    Trabekulektomia ja iridektomia
+###
+#KOODI      CHD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3706      
+#SUOMI      Kovakalvon trepanaatio
+#RUOTSI     Trepanation av sklera
+#LYHENNE    Kovakalvon trepanaatio
+###
+#KOODI      CHD25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3706      
+#SUOMI      Kovakalvon trepanaatio ja iridektomia
+#RUOTSI     Trepanation av sklera med iridektomi
+#LYHENNE    Kovakalvon trepanaatio ja iridektomia
+###
+#KOODI      CHD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3708      
+#SUOMI      Trabekulektomia laseria käyttäen
+#RUOTSI     Lasertrabekulektomi
+#LYHENNE    Trabekulektomia laseria käyttäen
+###
+#KOODI      CHD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3707      
+#SUOMI      Iridenkleisi
+#RUOTSI     Iridenkleisis
+#LYHENNE    Iridenkleisi
+###
+#KOODI      CHD50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3719      
+#SUOMI      Suntin asennus etukammioon
+#RUOTSI     Implantation av kateter till främre kammaren
+#LYHENNE    Suntin asennus etukammioon
+###
+#KOODI      CHD99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3719      
+#SUOMI      Muu kammionesteen ulosvirtausta muuttava leikkaus
+#RUOTSI     Annan operation för att reglera utflödet av kammarvätska
+#LYHENNE    Muu kammionesteulosvirtaus leikkaus
+###
+#KOODI_A    CHE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Värikalvon muutosten leikkaukset
+#RUOTSI     Operationer för tumör eller lokal förändring i iris
+#ENGL       Operations for lesion of iris
+###
+#KOODI      CHE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3765      
+#SUOMI      Mustuaisen aukaisu muulla tavalla kuin laserilla
+#RUOTSI     Öppning av pupill
+#LYHENNE    Mustuaisen aukaisu muuten kuin laserilla
+#OHJE_S  
+
+#OHJE_R 
+Exkl. laseroperation ändast
+###
+#KOODI      CHE05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3763      
+#SUOMI      Mustuaisen aukaisu laserilla
+#RUOTSI     Öppning av pupill med laser
+#LYHENNE    Mustuaisen aukaisu laserilla
+###
+#KOODI      CHE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3766      
+#SUOMI      Värikalvon osittainen poisto kasvaimen takia
+#RUOTSI     Delresektion av iris för tumör
+#LYHENNE    Värikalvon resektio kasvaimen takia
+###
+#KOODI      CHE20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3766      
+#SUOMI      Värikalvon kasvaimen laserhoito
+#RUOTSI     Laserbehandling av tumör i iris
+#LYHENNE    Värikalvon kasvaimen laserhoito
+###
+#KOODI      CHE99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu värikalvon kasvaimen vuoksi tehtävä leikkaus
+#RUOTSI     Annan operation för tumör eller lokal förändring i iris
+#LYHENNE    Muu värikalvokasvainleikkaus
+###
+#KOODI_A    CHF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sädekehän leikkaukset
+#RUOTSI     Operationer på ciliarkroppen
+#ENGL       Operations on ciliary body
+###
+#KOODI      CHF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3766      
+#SUOMI      Sädekehän kasvaimen poisto
+#RUOTSI     Exstirpation av tumör i ciliarkroppen
+#LYHENNE    Sädekehän kasvaimen poisto
+###
+#KOODI      CHF05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Sädekehän laser/fotokoagulaatio kovakalvon läpi
+#RUOTSI     Transskleral laser/fotokoagulation av ciliarkroppen
+#LYHENNE    Sädekehän laser/fotokoag kovakalvon läpi
+###
+#KOODI      CHF10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Sädekehän laser/fotokoagulaatio mustuaisen läpi
+#RUOTSI     Transpupillär laser/fotokoagulation av ciliarkroppen
+#LYHENNE    Sädekehän laser/fotokoag mustuaisen läpi
+###
+#KOODI      CHF15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3711      
+#SUOMI      Sädekehän jäädytyshoito, kryokoagulaatio
+#RUOTSI     Kryoterapi av ciliarkroppen
+#LYHENNE    Sädekehän jäädytyshoito, kryokoagulaatio
+###
+#KOODI      CHF20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3711      
+#SUOMI      Sädekehän elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av ciliarkroppen
+#LYHENNE    Sädekehän elektrokoagulaatio
+###
+#KOODI      CHF30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3710      
+#SUOMI      Syklodialyysi
+#RUOTSI     Cyklodialys
+#LYHENNE    Syklodialyysi
+###
+#KOODI      CHF99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu sädekehän leikkaus
+#RUOTSI     Annan operation på ciliarkroppen
+#LYHENNE    Muu sädekehän leikkaus
+###
+#KOODI_A    CHW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut etukammion, kammiokulman, värikalvon ja sädekehän leikkaukset
+#RUOTSI     Andra operationer i främre kammaren, kammarvinkeln, på iris och ciliarkroppen
+#ENGL       Other operations on anterior chamber, anterior chamber angle, iris and ciliary body
+###
+#KOODI      CHW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu etukammion, kammiokulman, värikalvon ja sädekehän leikkaus
+#RUOTSI     Annan operation i främre kammaren, kammarvinkeln, på iris och ciliarkroppen
+#LYHENNE    Muu etuk/kammiokulm/iris/ciliareleikkaus
+###
+#KOODI_R    CJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mykiön toimenpiteet
+#RUOTSI     Operationer på linsen
+#ENGL       Lens
+#OHJE_S  
+Vitrektomialle oma koodi kohdassa CKD
+#OHJE_R 
+Samtidig vitrektomi anges med tilläggskod, se CKD
+###
+#KOODI_A    CJB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Jälkikaihin vuoksi tehtävät leikkaukset
+#RUOTSI     Operationer vid sekundär katarakt
+#ENGL       Operations on lens for secondary cataract
+###
+#KOODI      CJB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3621      
+#SUOMI      Jälkikaihin avaus veitsellä
+#RUOTSI     Discission av sekundär katarakt eller membran med kniv
+#LYHENNE    Jälkikaihin avaus veitsellä
+###
+#KOODI      CJB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3621      
+#SUOMI      Jälkikaihin avaus laserilla, laserkapsulotomia
+#RUOTSI     Laserdiscission av sekundär katarakt eller membran, kapsulotomi
+#LYHENNE    Jälkikaihin laserkapsulotomia
+###
+#KOODI      CJB20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3621      
+#SUOMI      Jälkikaihin poisto imulla ja takakapselin kiillotus
+#RUOTSI     Evakuering av sekundär katarakt och polering av bakre kapseln
+#LYHENNE    Jälkikaihipoisto imulla+takakapselikiill
+###
+#KOODI      CJB30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3630      
+#SUOMI      Jälkikaihin poisto
+#RUOTSI     Excision av sekundär katarakt
+#LYHENNE    Jälkikaihin poisto
+###
+#KOODI      CJB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu jälkikaihin vuoksi tehtävä leikkaus
+#RUOTSI     Annan operation vid sekundär katarakt
+#LYHENNE    Muu jälkikaihin vuoksi tehtävä leikkaus
+###
+#KOODI_A    CJC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kaihimykiön poistoleikkaukset, intrakapsulaariset
+#RUOTSI     Intrakapsulär kataraktextraktion
+#ENGL       Intracapsular cataract operations
+###
+#KOODI      CJC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3627      
+#SUOMI      Intrakapsulaarinen kaihileikkaus
+#RUOTSI     Intrakapsulär kataraktextraktion
+#LYHENNE    Intrakapsulaarinen kaihileikkaus
+###
+#KOODI      CJC05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3627      
+#SUOMI      Intrakapsulaarinen kaihileikkaus ja iridektomia/iridotomia
+#RUOTSI     Intrakapsulär kataraktextraktion med iridektomi eller iridotomi
+#LYHENNE    Intrakaps kaihileikk+iridektomia/-otomia
+###
+#KOODI      CJC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Intrakapsulaarinen kaihileikkaus, etukammiotekomykiö
+#RUOTSI     Intrakapsulär kataraktextraktion med  linsprotes i främre kammaren
+#LYHENNE    Intrakaps kaihileikk,etukammiotekomykiö
+###
+#KOODI      CJC15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Intrakapsulaarinen kaihileikkaus, etukammiotekomykiö, iridektomia/-otomia
+#RUOTSI     Intrakapsulär kataraktextraktion med iridektomi / iridotomi och med linsprotes i främre kammaren
+#LYHENNE    IK kaihil,etuk mykiö+iridektomia/-otomia
+###
+#KOODI      CJC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Intrakapsulaarinen kaihileikkaus, takakammiotekomykiö
+#RUOTSI     Intrakapsulär kataraktextraktion och med linsprotes i bakre kammaren
+#LYHENNE    IK kaihileikkaus,takakammiotekomykiö
+###
+#KOODI      CJC25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Intrakapsulaarinen kaihileikkaus, takakammiotekomykiö, iridektomia/iridotomia
+#RUOTSI     Intrakapsulär kataraktextraktion med iridektomi / iridotomi och med linsprotes i bakre kammaren
+#LYHENNE    IKkaihil,takak mykiö+iridektomia/-otomia
+###
+#KOODI      CJC40
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrakapsulaarinen kaihileikkaus, takakammiotekomykiö kovakalvoon kiinnitettynä
+#RUOTSI     Intrakapsulär kataraktextraktion med linsprotes i bakre kammaren fixerad till sklera
+#LYHENNE    IKkaihil,scleral fixed takak mykiö
+###
+#KOODI      CJC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu intrakapsulaarinen kaihileikkaus
+#RUOTSI     Annan intrakapsulär kataraktoperation
+#LYHENNE    Muu intrakapsulaarinen kaihileikkaus
+###
+#KOODI_A    CJD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kaihimykiön poistoleikkaukset, ekstrakapsulaariset
+#RUOTSI     Extrakapsulär kataraktoperation
+#ENGL       Extracapsular cataract operations
+###
+#KOODI      CJD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3625      
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus
+#RUOTSI     Extrakapsulär kataraktextraktion
+#LYHENNE    Ekstrakapsulaarinen kaihileikkaus
+###
+#KOODI      CJD05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3625      
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus ja iridektomia/iridotomia
+#RUOTSI     Extrakapsulär kataraktextraktion med iridektomi eller iridotomi
+#LYHENNE    EKkaihileikkaus+iridektomia/iridotomia
+###
+#KOODI      CJD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3626      
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus, etukammiotekomykiö
+#RUOTSI     Extrakapsulär kataraktextraktion med linsprotes i främre kammaren
+#LYHENNE    EKkaihileikkaus,etukammiotekomykiö
+###
+#KOODI      CJD15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3626      
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus, etukammiotekomykiö, iridektomia/-dotomia
+#RUOTSI     Extrakapsulär kataraktextraktion med iridektomi / iridotomi och med linsprotes i främre kammaren
+#LYHENNE    EKkaihil,etuk mykiö+iridektomia/-dotomia
+###
+#KOODI      CJD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3626      
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus, takakammiotekomykiö
+#RUOTSI     Extrakapsulär kataraktextraktion med linsprotes i bakre kammaren
+#LYHENNE    Ekstrakaps kaihileikkaus,takakammiomykiö
+###
+#KOODI      CJD25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3626      
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus, takakammiotekomykiö, iridektomia/-otomia
+#RUOTSI     Extrakapsulär kataraktextraktion med iridektomi / iridotomi och med  linsprotes i bakre kammaren
+#LYHENNE    EKkaihil,takak mykiö+iridektomia/-otomia
+###
+#KOODI      CJD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3633      
+#SUOMI      Mykiön poisto pars planan kautta
+#RUOTSI     Linsextraktion via pars plana
+#LYHENNE    Mykiön poisto pars planan kautta
+###
+#KOODI      CJD40
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstrakapsulaarinen kaihileikkaus, takakammiotekomykiö kovakalvoon kiinnitettynä
+#RUOTSI     Extrakapsulär kataraktextraktion med skleral fixerad linsprotes i bakre kammaren
+#LYHENNE    EKkaihil,scleral fixed takak mykiö
+###
+#KOODI      CJD99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu ekstrakapsulaarinen kaihileikkaus
+#RUOTSI     Annan extrakapsulär kataraktoperation
+#LYHENNE    Muu ekstrakapsulaarinen kaihileikkaus
+###
+#KOODI_A    CJE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kaihileikkaukset ultraäänitekniikalla ja niihin liittyvät toimenpiteet
+#RUOTSI     Extrakapsulär kataraktoperation med fakoemulsifikation
+#ENGL       Extracapsular cataract operations using phakoemulsification technique
+###
+#KOODI      CJE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3625      
+#SUOMI      Kaihimykiön poisto ultraäänitekniikalla
+#RUOTSI     Fakoemulsifikation
+#LYHENNE    Kaihimykiön poisto ultraäänitekniikalla
+###
+#KOODI      CJE05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3625      
+#SUOMI      Kaihimykiön poisto ultraäänitekniikalla ja iridektomia/iridotomia
+#RUOTSI     Fakoemulsifikation med iridektomi eller iridotomi
+#LYHENNE    Fakoemulsifikaatio+iridektomia/-otomia
+###
+#KOODI      CJE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3526      
+#SUOMI      Kaihimykiön poisto ultraäänitekniikalla, etukammiotekomykiö
+#RUOTSI     Fakoemulsifikation med implantation av linsprotes i främre kammaren
+#LYHENNE    Fakoemulsifikaatio,etukammiotekomykiö
+###
+#KOODI      CJE15
+#MUUT_PVM   2000/03/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3526      
+#SUOMI      Kaihimykiön poisto ultraäänitekniikalla, etukammiotekomykiö ja  iridektomia/iridotomia
+#RUOTSI     Fakoemulsifikation med iridektomi / iridotomi med linsprotes i främre kammaren
+#LYHENNE    Fakoemulsifikaatio, etukammiotekomykiö
+###
+#KOODI      CJE20
+#MUUT_PVM   2000/03/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3526      
+#SUOMI      Kaihimykiön ultraäänipoisto, takakammiotekomykiö
+#RUOTSI     Fakoemulsifikation med implantation av linsprotes i bakre kammaren
+#LYHENNE    Fakoemulsif,etuk mykiö,iridektomia/-otom
+###
+#KOODI      CJE25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3526      
+#SUOMI      Kaihimykiön ultraäänipoisto, takakammiotekomykiö ja iridektomia/iridotomia
+#RUOTSI     Fakoemulsifikation med iridektomi / iridotomi och med linsprotes i bakre kammaren
+#LYHENNE    Fakoemuls,takak mykiö,iridektomia/-otom
+###
+#KOODI      CJE40
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kaihimykiön ultraäänipoisto, takakammiotekomykiö kovakalvoon kiinnitettynä
+#RUOTSI     Fakoemulsifikation med implantation av skleralt fixerad linsprotes i bakre kammaren
+#LYHENNE    Fakoemulsif,takak mykiö,iridektomia/-oto
+###
+#KOODI      CJE99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu kaihileikkaus ultraäänitekniikkaa käyttäen
+#RUOTSI     Annan extrakapsulär kataraktoperation med fakoemulsifikation
+#LYHENNE    Muu fakoemulsifikaatiokaihileikkaus
+###
+#KOODI_A    CJF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut tekomykiöleikkaukset
+#RUOTSI     Andra operationer med linsprotes
+#ENGL       Other operations on artificial lens
+###
+#KOODI      CJF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3631      
+#SUOMI      Tekomykiön myöhäisasettaminen etukammioon
+#RUOTSI     Sekundär implantation av linsprotes i främre kammaren
+#LYHENNE    Tekomykiön myöhäisasetus etukammioon
+###
+#KOODI      CJF10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3631      
+#SUOMI      Tekomykiön myöhäisasettaminen takakammioon
+#RUOTSI     Sekundär implantation av linsprotes i bakre kammaren
+#LYHENNE    Tekomykiön myöhäisasetus takakammioon
+###
+#KOODI      CJF15
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tekomykiön myöhäisasettaminen takakammioon kovakalvoon kiinnitettynä
+#RUOTSI     Sekundär implantation av linsprotes fixerad i sklera och  i bakre kammaren
+#LYHENNE    Scleral fixed tekomykiön myöhäisasetus t
+###
+#KOODI      CJF20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3632      
+#SUOMI      Tekomykiön poisto
+#RUOTSI     Extraktion av linsprotes
+#LYHENNE    Tekomykiön poisto
+###
+#KOODI      CJF30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Tekomykiön asennon korjaamisleikkaus
+#RUOTSI     Reposition av linsprotes
+#LYHENNE    Tekomykiön asennon korjaamisleikkaus
+###
+#KOODI      CJF40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Tekomykiön poisto, uusi etukammiotekomykiö
+#RUOTSI     Extraktion av linsprotes och insättning av ny linsprotes i främre kammaren
+#LYHENNE    Tekomykiön poisto+uusi etukammiomykiö
+###
+#KOODI      CJF45
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Tekomykiön poisto, uusi etukammiotekomykiö, iridektomia/iridotomia
+#RUOTSI     Extraktion av linsprotes med iridektomi / iridotomi och med ny linsprotes i främre kammaren
+#LYHENNE    Tekomykiöpoisto,uusi etuk mykiö+iridekto
+###
+#KOODI      CJF50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Tekomykiön poisto, uusi takakammiotekomykiö
+#RUOTSI     Extraktion av linsprotes och insättning av ny linsprotes i bakre kammaren
+#LYHENNE    Tekomykiöpoisto,uusi takakammiomykiö
+###
+#KOODI      CJF55
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Tekomykiön poisto, uusi takakammiomykiö, iridektomia/iridotomia
+#RUOTSI     Extraktion av linsprotes med iridektomi / iridotomi och med ny linsprotes i bakre kammaren
+#LYHENNE    Tekomykiöpoisto,uusi takak mykiö+iridekt
+###
+#KOODI      CJF99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu tekomykiöleikkaus
+#RUOTSI     Annan operation med linsprotes
+#LYHENNE    Muu tekomykiöleikkaus
+###
+#KOODI_A    CJG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mykiön sijoiltaanmenon, luksaation, vuoksi tehtävät leikkaukset
+#RUOTSI     Operationer vid luxerad lins
+#ENGL       Operations on dislocated lens
+###
+#KOODI      CJG00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3627      
+#SUOMI      Huksoituneen mykiön poisto
+#RUOTSI     Extraktion av luxerad lins
+#LYHENNE    Luksoituneen mykiön poisto
+###
+#KOODI      CJG05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3627      
+#SUOMI      Luksoituneen mykiön poisto ja iridektomia/iridotomia
+#RUOTSI     Extraktion av luxerad lins med iridektomi eller iridotomi
+#LYHENNE    Huksatiomykiöpoisto+iridektomia/-otomia
+###
+#KOODI      CJG10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Luksoituneen mykiön poisto, uusi etukammiotekomykiö
+#RUOTSI     Extraktion av luxerad lins med implantation av linsprotes i främre kammaren
+#LYHENNE    Luksoitiomykiöpoisto,uusi etukammiomykiö
+###
+#KOODI      CJG15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Luksoituneen mykiön poisto, etukammiotekomykiö, iridektomia/iridotomia
+#RUOTSI     Extraktion av luxerad lins med dektomi / iridotomi och med linsprotes i främre kammaren
+#LYHENNE    Luks mykiöpoisto,ek-mykiö+iridekt/-otomi
+###
+#KOODI      CJG20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Luksoituneen mykiön poisto, takakammiotekomykiö
+#RUOTSI     Extraktion av luxerad lins med implantation av linsprotes i bakre kammaren
+#LYHENNE    Luksatiomykiöpoisto,uusi takakammiomykiö
+###
+#KOODI      CJG25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3628      
+#SUOMI      Luksoituneen mykiön poisto, takakammiotekomykiö, iridektomia/-otomia
+#RUOTSI     Extraktion av luxerad lins med  iridektomi / iridotomi och med linsprotes i bakre kammaren
+#LYHENNE    Luks mykiöpoisto,tk-mykiö+iridekt/-otomi
+###
+#KOODI      CJG40
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luksoituneen mykiön poisto, takakammiotekomykiö kovakalvoon kiinnitettynä
+#RUOTSI     Extraktion av luxerad lins med  linsprotes i bakre kammaren, skleralt fixerad lens
+#LYHENNE    Luks mykiöpoisto,tk-mykiö, scleral fixoi
+###
+#KOODI      CJG99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu mykiön sijoiltaanmenon vuoksi tehtävä leikkaus
+#RUOTSI     Annan operation vid luxerad (naturlig) lins
+#LYHENNE    Muu mykiöluksaation leikkaus
+###
+#KOODI_A    CJW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut mykiöleikkaukset
+#RUOTSI     Andra operationer på linsen
+#ENGL       Other operations on lens
+###
+#KOODI      CJW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3639      
+#SUOMI      Muu mykiöleikkaus
+#RUOTSI     Annan operation på linsen
+#LYHENNE    Muu mykiöleikkaus
+###
+#KOODI_R    CK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suonikalvon, verkkokalvon tai lasiaisen toimenpiteet
+#RUOTSI     Ågärder på åderhinnan, näthinnan och i glaskroppen
+#ENGL       Choroid, retina and vitreous body
+###
+#KOODI_A    CKA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Koepalan otot suonikalvosta, lasiaisesta ja verkkokalvosta
+#RUOTSI     Biopsi av åderhinna, näthinna och glaskropp
+#ENGL       Biopsy of choroid, vitreous body and retina
+###
+#KOODI      CKA00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Koepalan otto suonikalvosta
+#RUOTSI     Biopsi av åderhinna
+#LYHENNE    Koepalan otto suonikalvosta
+#OHJE_S  
+Neulanäytteen otto suonikalvosta TCK10
+#OHJE_R 
+Nålbiopsi av åderhinnan TCK10
+###
+#KOODI      CKA10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Lasiaisnäytteen otto
+#RUOTSI     Biopsi av glaskropp
+#LYHENNE    Lasiaisnäytteen otto
+#OHJE_S  
+Neulanäytteen otto lasiaisesta TCK20
+#OHJE_R 
+Nålbiopsi av glaskroppen TCK20
+###
+#KOODI      CKA20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Koepalan otto verkkokalvosta
+#RUOTSI     Biopsi av näthinna
+#LYHENNE    Koepalan otto verkkokalvosta
+#OHJE_S  
+Neulanäytteen otto verkkokalvosta TCK30
+#OHJE_R 
+Nålbiopsi av näthinnan TCK30
+###
+#KOODI_A    CKB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suonikalvon irtoamisen vuoksi tehtävät leikkaukset
+#RUOTSI     Operationer vid korioidalavlossning
+#ENGL       Operations on chorioid for detachment
+###
+#KOODI      CKB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Suonikalvon alaisen nesteen tyhjennys neulalla
+#RUOTSI     Punktion och tömning av subkorioidal vätska
+#LYHENNE    Suonikalvon alaisen nesteen punktio
+###
+#KOODI      CKB10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Suonikalvon alaisen nesteen poisto ja hasiaistilan täyttö
+#RUOTSI     Punktion och tömning av subkorioidal vätska och fyllning av glaskroppsrummet
+#LYHENNE    Suonikalvonalaisnestepoisto+lasiaiskorvi
+###
+#KOODI      CKB99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA       -        
+#SUOMI      Muu suonikalvon irtoaman vuoksi tehtävä leikkaus
+#RUOTSI     Annan operation vid korioidalavlossning
+#LYHENNE    Muu suonikalvon irtoaman leikkaus
+###
+#KOODI_A    CKC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmän ulkopuolelta tehtävät lasiais- ja verkkokalvoleikkaukset
+#RUOTSI     "Extraokulära" åtgärder på åderhinna, näthinna och i glaskroppen
+#ENGL       Extraocular operations on vitreous body and retina
+###
+#KOODI      CKC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA       -        
+#SUOMI      Lasiaissäikeiden katkaisu laserilla
+#RUOTSI     Laserdiscission i glaskroppen
+#LYHENNE    Lasiaissäikeiden katkaisu laserilla
+###
+#KOODI      CKC10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3721      
+#SUOMI      Verkkokalvon paikallinen fotokoagulaatio
+#RUOTSI     Fotokoagulation av näthinna, lokal
+#LYHENNE    Verkkokalvon paikallinen fotokoagulaatio
+###
+#KOODI      CKC15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3724      
+#SUOMI      Panretinaalinen fotokoagulaatio
+#RUOTSI     Fotokoagulation av näthinna, panretinal
+#LYHENNE    Panretinaalinen fotokoagulaatio
+###
+#KOODI      CKC20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3722      
+#SUOMI      Kiinni olevan verkkokalvon jäädytys, kryokoagulaatio
+#RUOTSI     Kryopexi på anliggande näthinna
+#LYHENNE    Kiinni olevan retinan kryokoagulaatio
+###
+#KOODI      CKC30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3742      
+#SUOMI      Irronneen verkkokalvon jäädytys
+#RUOTSI     Kryopexi på avlöst näthinna
+#LYHENNE    Irronneen verkkokalvon jäädytys
+###
+#KOODI      CKC40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3723      
+#SUOMI      Verkkokalvon elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av näthinna
+#LYHENNE    Verkkokalvon elektrokoagulaatio
+###
+#KOODI      CKC50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA       -        
+#SUOMI      Kovakalvon läpi annettu laserhoito
+#RUOTSI     Transskleral laserbehandling
+#LYHENNE    Kovakalvon läpi annettu laserhoito
+###
+#KOODI      CKC60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3744      
+#SUOMI      Kovakalvon paikallinen indentaatio, plombi
+#RUOTSI     Anläggande av plomb
+#LYHENNE    Kovakalvon indentaatio,plombi
+###
+#KOODI      CKC65
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3759      
+#SUOMI      Plombin poisto
+#RUOTSI     Avlägsnande av plomb
+#LYHENNE    Plombin poisto
+###
+#KOODI      CKC70
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3745      
+#SUOMI      Kovakalvon vyöttäminen
+#RUOTSI     Anläggande av cerclage
+#LYHENNE    Kovakalvon vyöttäminen
+###
+#KOODI      CKC75
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3759      
+#SUOMI      Kovakalvon vyön poistaminen
+#RUOTSI     Avlägsnande av cerclage
+#LYHENNE    Kovakalvon vyön poistaminen
+###
+#KOODI      CKC80
+#MUUT_PVM   1996/10/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kovakalvon läpi annettu sädehoito
+#RUOTSI     Transskleral strålbehandling
+#LYHENNE    Kovakalvon läpi annettu sädehoito
+###
+#KOODI      CKC99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3759      
+#SUOMI      Muu lasiais- ja verkkokalvoleikkaus silmän ulkopuolelta
+#RUOTSI     Annan extraokulär operation på åderhinna, näthinna och i glaskroppen
+#LYHENNE    Muu lasiais-/retinaleikkaus ulkopuolelta
+###
+#KOODI_A    CKD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmän sisällä tehtävät lasiais- ja verkkokalvotoimenpiteet
+#RUOTSI     Intraokulära operationer på åderhinna, näthinna och i glaskroppen
+#ENGL       Intraocular operations on vitreous body and retina
+###
+#KOODI      CKD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Lasiaisen paineen alentaminen neulalla tyhjentämällä
+#RUOTSI     Dekompressiv punktion av glaskroppen
+#LYHENNE    Lasiaispaineen alentaminen neulalla
+###
+#KOODI      CKD05
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Lääkkeen ruiskutus lasiaiseen
+#RUOTSI     Injektion av läkemedel i glaskroppen
+#LYHENNE    Lääkkeen ruiskutus lasiaiseen
+###
+#KOODI      CKD10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Ilman tai kaasun ruiskutus lasiaiseen
+#RUOTSI     Injektion av luft eller gas i glaskroppen
+#LYHENNE    Ilman tai kaasun ruiskutus lasiaiseen
+###
+#KOODI      CKD15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3641      
+#SUOMI      Silikonin, viskoelastisen aineen tms. ruiskutus lasiaiseen
+#RUOTSI     Injektion av silikon m.m. i glaskroppen
+#LYHENNE    Silikoni/viskoel ruiskutus lasiaiseen
+###
+#KOODI      CKD20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3649      
+#SUOMI      Lasiaiskorvikkeen poisto
+#RUOTSI     Avlägsnande av glaskroppssubstitut
+#LYHENNE    Lasiaiskorvikkeen poisto
+###
+#KOODI      CKD25
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA       -        
+#SUOMI      Verkkokalvon alaisen nestekertymän kanavointi ulos
+#RUOTSI     Externt dränage av subretinal vätska
+#LYHENNE    Verkkokalvonalaisnesteen kanavointi ulos
+###
+#KOODI      CKD30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA       -        
+#SUOMI      Verkkokalvon alaisen nestekertymän kanavointi silmän sisälle
+#RUOTSI     Internt dränage av subretinal vätska
+#LYHENNE    Retinan alaisnesteen kanavointi sisään
+###
+#KOODI      CKD40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3721, 3724
+#SUOMI      Verkkokalvon endofotokoagulaatio
+#RUOTSI     Endofotokoagulation av näthinna
+#LYHENNE    Verkkokalvon endofotokoagulaatio
+###
+#KOODI      CKD45
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3722, 3724
+#SUOMI      Verkkokalvon endokryokoagulaatio
+#RUOTSI     Endokryokoagulation av näthinna
+#LYHENNE    Verkkokalvon endokryokoagulaatio
+###
+#KOODI      CKD50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3723      
+#SUOMI      Verkkokalvon endodiatermia
+#RUOTSI     Endodiatermi av näthinna
+#LYHENNE    Verkkokalvon endodiatermia
+###
+#KOODI      CKD60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3642      
+#SUOMI      Lasiaisen poisto etukautta
+#RUOTSI     Främre vitrektomi
+#LYHENNE    Lasiaisen poisto etukautta
+###
+#KOODI      CKD65
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3643      
+#SUOMI      Lasiaisen poisto pars planan/pars plicatan kautta
+#RUOTSI     Vitrektomi genom pars plana eller pars plicata
+#LYHENNE    Lasiaispoisto, pars plana/pars plicata
+###
+#KOODI      CKD70
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3747+     
+#SUOMI      Preretinaalisen (epiretinaalisen) kalvon/juosteen poisto
+#RUOTSI     Excision av preretinalt eller epiretinalt membran/stråk
+#LYHENNE    Pre(epi)retinaalikalvon/juosteen poisto
+###
+#KOODI      CKD75
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3747+     
+#SUOMI      Verkkokalvon aukaisu
+#RUOTSI     Retinotomi
+#LYHENNE    Verkkokalvon aukaisu
+###
+#KOODI      CKD80
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3747+     
+#SUOMI      Verkkokalvon osittainen poisto
+#RUOTSI     Retinektomi
+#LYHENNE    Verkkokalvon osittainen poisto
+###
+#KOODI      CKD85
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3747+     
+#SUOMI      Verkkokalvon alaisen juosteen/arpikudoksen poisto
+#RUOTSI     Avlägsnande av subretinalt membran/ärr
+#LYHENNE    Verkkokalvon alaisjuosteen/arven poisto
+###
+#KOODI      CKD90
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3747+     
+#SUOMI      Verkkokalvon alaisen verihyytymän poisto
+#RUOTSI     Avlägsnande av subretinalt hematom
+#LYHENNE    Verkkokalvon alaisen verihyytymän poisto
+###
+#KOODI      CKD91
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja lasiaisenpoistotoimenpide pars planan kautta
+#RUOTSI     Omfattande vitrektomi genom pars plana
+#LYHENNE    Laaja vitrektomia pars planan kautta
+#OHJE_S  
+CKD65 yhdistettynä  muihin CKD-ryhmän toimenpiteisiin
+#OHJE_R 
+CKD65 tillsammans med andra åtgärder i gruppen CKD
+###
+#KOODI      CKD92
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhdistetty lasiais- ja verkkokalvotoimenpide
+#RUOTSI     Kombinerad vitrektomi och näthinneåtgärd
+#LYHENNE    Yhdistetty lasiais- ja verkkokalvotoimen
+#OHJE_S  
+CKD65 yhdistettynä koodeihin CKC60 ja/tai CKC70, CKC20 ja/tai CKC30 sekä CKD25 ja/tai CKD10.
+#OHJE_R 
+CKD65 tilsammans med CKC60 och/eller CKC70, CKC20 och/eller CKC30 samt CKD25  och/eller CKD10.
+###
+#KOODI      CKD93
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja yhdistetty lasiais- ja verkkokalvotoimenpide
+#RUOTSI     Omfattande kompinerad operation på näthinnan och i glasgroppen
+#LYHENNE    Laaja yhdistetty lasiais- ja verkkokalvo
+#OHJE_S  
+Koodin CKD92 toimenpiteet yhdistettynä muihin CKC- ja/tai CKD-ryhmän toimenpiteisiin
+#OHJE_R 
+Åtgrärder från kod CKD92 tillsammans med andra åtgärder i grupperna CKC och CKD
+###
+#KOODI      CKD94
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhdistetty mykiötoimenpide ja lasiaisenpoisto pars planan kautta
+#RUOTSI     Kombinerad vitrektomi och åtgärd på lens genom pars plana
+#LYHENNE    Yhdistetty vitrektomia ja mykiötp pars p
+#OHJE_S  
+ CKD65 yhdistettynä CJ-ryhmän toimenpiteisiin
+#OHJE_R 
+ CKD65 tillsammans med åtgärder i CJ-gruppen
+###
+#KOODI      CKD95
+#MUUT_PVM   1998/01/21
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja yhdistetty mykiötoimenpide ja lasiaisenpoisto pars planan kautta
+#RUOTSI     Omfattande kombinerad vitrektomi och lens åtgärd genom pars plana
+#LYHENNE    Laaja yhd. mykiötp ja vitrektomia pars p
+###
+#KOODI      CKD99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3747+     
+#SUOMI      Muu silmän sisällä tehtävä lasiais- ja verkkokalvoleikkaus
+#RUOTSI     Annan intraokulär operation på näthinnan och i glaskroppen
+#LYHENNE    Muu silmän sis lasiais/verkkokalvoleikka
+###
+#KOODI_A    CKE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Suoni- ja verkkokalvon kasvainten vuoksi tehtävät leikkaukset
+#RUOTSI     Operationer vid vävnadsförändring (t ex tumörer) i åderhinnan och näthinnan
+#ENGL       Operations for lesion of choroid and retina
+###
+#KOODI      CKE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3766      
+#SUOMI      Suonikalvon kasvaimen poisto
+#RUOTSI     Exstirpation av tumör i åderhinna
+#LYHENNE    Suonikalvon kasvaimen poisto
+###
+#KOODI      CKE10
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Suonikalvon kasvaimen fotokoagulaatio mustuaisen läpi
+#RUOTSI     Fotokoagulation (genom pupillen) av tumör i åderhinna
+#LYHENNE    Suonikalvo kasvainfotokoag mustuaistietä
+#OHJE_S  
+Edeltävä valoherkistys, katso TCK00
+#OHJE_R 
+Föregående fotosensibilisering, se TCK00
+###
+#KOODI      CKE15
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Suonikalvon kasvaimen endofotokoagulaatio
+#RUOTSI     Endofotokoagulation av tumör i åderhinna
+#LYHENNE    Suonikalvokasvaimen endofotokoagulaatio
+#OHJE_S  
+Edeltävä valoherkistys, katso TCK00
+#OHJE_R 
+Föregående fotosensibilisering, se TCK00
+###
+#KOODI      CKE20
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Suonikalvon kasvaimen jäädytyshoito
+#RUOTSI     Kryoterapi av tumör i åderhinna
+#LYHENNE    Suonikalvon kasvaimen jäädytyshoito
+###
+#KOODI      CKE30
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3766      
+#SUOMI      Verkkokalvon kasvaimen poisto
+#RUOTSI     Exstirpation av tumör i näthinna
+#LYHENNE    Verkkokalvon kasvaimen poisto
+###
+#KOODI      CKE40
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3721      
+#SUOMI      Verkkokalvon kasvaimen fotokoagulaatio mustuaisen läpi
+#RUOTSI     Fotokoagulation (genom pupillen) av tumör i näthinna
+#LYHENNE    Verkkokalvokasvainfotokoag mustuaistietä
+#OHJE_S  
+Edeltävä valoherkistys, katso TCK00
+#OHJE_R 
+Föregående fotosensibilisering, se TCK00
+###
+#KOODI      CKE45
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3721      
+#SUOMI      Verkkokalvon kasvaimen endofotokoagulaatio
+#RUOTSI     Endofotokoagulation av tumör i näthinna
+#LYHENNE    Verkkokalvokasvainendofotokoagulaatio
+#OHJE_S  
+Edeltävä valoherkistys, katso TCK00
+#OHJE_R 
+Föregående fotosensibilisering, se TCK00
+###
+#KOODI      CKE50
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3722      
+#SUOMI      Verkkokalvon kasvaimen jäädytyshoito
+#RUOTSI     Kryoterapi av tumör i näthinna
+#LYHENNE    Verkkokalvon kasvaimen jäädytyshoito
+###
+#KOODI      CKE60
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3770      
+#SUOMI      Säteilevän levyn asettaminen
+#RUOTSI     Strålbehandling av intraokulär tumör (inläggande av strålkälla)
+#LYHENNE    Säteilevän levyn asettaminen
+###
+#KOODI      CKE65
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Säteilevän levyn poisto
+#RUOTSI     Avlägsnande av strålkälla
+#LYHENNE    Säteilevän levyn poisto
+###
+#KOODI      CKE99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu suoni- ja verkkokalvon kudosmuutoksen leikkaus
+#RUOTSI     Annan operation vid vävnadsförändring i åderhinnan eller näthinnan
+#LYHENNE    Muu suoni/verkkokalvokudosmuutosleikkaus
+###
+#KOODI_A    CKW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut suonikalvon, lasiaisen ja verkkokalvon sairauksien leikkaukset
+#RUOTSI     Andra operationer på åderhinnan, näthinnan och i glaskroppen
+#ENGL       Other operations on choroid, vitreous body and retina
+###
+#KOODI      CKW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3779      
+#SUOMI      Muu suonikalvon, lasiaisen ja verkkokalvon toimenpide
+#RUOTSI     Annan operation på åderhinnan, näthinnan och i glaskroppen
+#LYHENNE    Muu korioidea/lasiais/retinasairausleik
+###
+#KOODI_R    CW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmäleikkausten haavakomplikaatioiden toimenpiteet
+#RUOTSI     Åtgärder för komplikationer av ögonkirurgi
+#ENGL       Reoperations for complications in surgery of eye and adjacent structures
+###
+#KOODI      CWB00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3851      
+#SUOMI      Auenneen tai tulehtuneen silmäleikkaushaavan tarkistaminen
+#RUOTSI     Revision av sårruptur/sårinfektion i ögat
+#LYHENNE    Silmäleikkaushaavarevisio,auenn/tulehdus
+###
+#KOODI      CWC00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3852      
+#SUOMI      Silmäleikkauksen jälkeisen syvän tulehduksen vaatima uusintaleikkaus
+#RUOTSI     Reoperation för djuptliggande infektion efter ögonoperation
+#LYHENNE    Silmäleikkausrevisio,syvä tulehdus
+###
+#KOODI      CWD00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3851      
+#SUOMI      Vuotavan silmäleikkaushaavan tarkistaminen
+#RUOTSI     Revision av postoperativ blödning i ögat
+#LYHENNE    Vuotavan silmäleikkaushaavan revisio
+###
+#KOODI      CWE00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3852      
+#SUOMI      Silmäleikkauksen jälkeisen syvän vuodon vaatima uusintaleikkaus
+#RUOTSI     Reoperation för djuptliggande blödning efter ögonoperation
+#LYHENNE    Syvän vuodon revisio silmäleikk jälkeen
+###
+#KOODI      CWF00
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3852      
+#SUOMI      Silmäleikkauksen liitosompeleiden tarkistaminen
+#RUOTSI     Revision av ögonsuturer
+#LYHENNE    Silmäleikkausompeleiden tarkistaminen
+###
+#KOODI      CWW99
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      3852      
+#SUOMI      Muu silmäleikkauksen haavakomplikaatioleikkaus
+#RUOTSI     Annan operation för sårkomplikation efter ögonoperation
+#LYHENNE    Muu silmäleikkaushaavakomplikaatioleikk
+###
+#KOODI_A    CX0
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Silmän ja silmäkuopan ulkoinen sädehoito
+#RUOTSI     Ytre strålbehandling av ögonregionen
+#ENGL       
+###
+#KOODI      CX001
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito silmän ja silmäkuopan primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av intraorbitalt primärtumör
+#LYHENNE    
+###
+#KOODI      CX002
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali silmän ja silmäkuopan primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av intraorbitalt primärtumör
+#LYHENNE    
+###
+#KOODI      CX003
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito silmän ja silmäkuopan primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av intraorbitalt primärtumör
+#LYHENNE    
+###
+#KOODI      CX004
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito silmän ja silmäkuopan primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av intraorbitalt primärtumör
+#LYHENNE    
+###
+#KOODI      CX029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito silmän ja silmäkuopan paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av intraorbitalt lokalt recidivtumör
+#LYHENNE    
+###
+#KOODI      CX049
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito silmässä tai silmäkuopassa ihmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av intraorbital metastas
+#LYHENNE    
+###
+#KOODI      CX090
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito silmän ja silmäkuopan profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av intraorbitala organ
+#LYHENNE    
+###
+#KOODI      CX099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu silmän ja silmäkuopansädehoito
+#RUOTSI     Annan strålbehandling av intraorbitala organ
+#LYHENNE    Muu silmän ja silmäkuopansädehoito

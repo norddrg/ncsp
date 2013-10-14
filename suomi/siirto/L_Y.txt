@@ -1,0 +1,843 @@
+
+###
+#KOODI_L    Y
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Elinten ja kudosten irrottaminen siirtoa varten
+#RUOTSI     Uttagning av organ för transplantationer
+#ENGL       Procurement of organs or tissue for transplantation
+#OHJE_S  
+Sisältää irrotettujen elinten tarkastamisen ja jälkikäsittelyn
+#OHJE_R 
+Innefattar inspektion och åtgärder efter uttagning
+###
+#KOODI      YA1AD 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5952      
+#SUOMI      Pään ja kaulan annossuunnittelu-TT
+#RUOTSI     Huvud- och halsregionens DT för dosplanering
+#LYHENNE    Pää+kaula,annos-TT
+###
+#KOODI      YA1BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään ja kaulan laaja annossuunnittelu-TT
+#RUOTSI     Huvud- och halsregionens omfattande DT för dosplanerings
+#LYHENNE    Pään ja kaulan laaja annossuunnittelu-TT
+###
+#KOODI      YA1CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään ja kaulan erittäin laaja annossuunnittelu-TT
+#RUOTSI     Huvud- och halsregion, mycket omfattande DT för dosplanering
+#LYHENNE    Pään ja kaulan eritt laaja annossuunn TT
+###
+#KOODI      YA1VF 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään ja kaulan sädehoidon annossuunnittelu keskikenttämagneettilaitteella
+#RUOTSI     Huvud- och halsregion, MR för dosplanering, mellanfältsmagnet
+#LYHENNE    Pään annoss. KKMT
+###
+#KOODI      YA1VG 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään ja kaulan sädehoidon annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Huvud- och halsregion, MR för dosplanering, högfältsmagnet
+#LYHENNE    Pään annoss. VKMT
+###
+#KOODI      YCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sarveiskalvon irrottaminen siirtoa varten
+#RUOTSI     Uttagning av hornhinna för transplantation
+#LYHENNE    Sarveiskalvon irrotus siirtoa varten
+###
+#KOODI      YEA00 
+#MUUT_PVM   2003/11/20
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Limakalvosiirteen irrottaminen suusta
+#RUOTSI     Uttackning av slämhinnetransplant från munnen
+#LYHENNE    Limakalvosiirteen irrottaminen suusta
+###
+#KOODI      YEA05 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ien- tai sidekudossiirteen irrotus
+#RUOTSI     Uttagning av gingiva och bindevävnad för trasnplantation
+#LYHENNE    Ien- tai sidekudossiirteen irrotus
+###
+#KOODI      YF1VF 
+#MUUT_PVM   1999/12/16
+#KAYTPVM    2000/01/01
+#POISTPVM   2002/08/20
+#POISTETTU
+#VANHA                
+#SUOMI      Rintakehän alueen sädehoidon annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     MR av toraxregion för dosplanering, högfältsmagnet
+#LYHENNE    Thorax al säd.hoid ann.suunn. vahvak MR
+###
+#KOODI      YFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen irrottaminen elinsiirtoa varten
+#RUOTSI     Uttagning av hjärta för transplantation
+#LYHENNE    Sydämen irrottaminen elinsiirtoa varten
+###
+#KOODI      YFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5244      
+#SUOMI      Sydämen irrottaminen  domino -siirtoa varten
+#RUOTSI     Uttagning av hjärta för domino-transplantation
+#LYHENNE    Sydämen irrotus  domino -siirtoa varten
+###
+#KOODI      YFA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydän-keuhkoblokin irrottaminen elinsiirtoa varten
+#RUOTSI     Uttagning av hjärt-lung-block för transplantation
+#LYHENNE    Sydän-keuhkoblokin irrotus
+###
+#KOODI      YFA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen irrottaminen  homografti - siirtoa varten
+#RUOTSI     Uttagning av hjärta för användning som homograft
+#LYHENNE    Sydämen irrotus  homograft-siirtoon
+###
+#KOODI      YFA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimenpide liittyen sydämen/ sydämen ja keuhkojen irrotukseen elinsiirtoa varten
+#RUOTSI     Andra operationer i samband med uttagning av hjärta/lungor för hjärt- eller hjärt-lungtransplantation
+#LYHENNE    Muu sydän/keuhkoirrotustmp
+###
+#KOODI      YG1AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5953      
+#SUOMI      Rintakehän annossuunnittelu-TT
+#RUOTSI     Toraxregionens  DT för dosplanering
+#LYHENNE    Thorax,annos-TT
+###
+#KOODI      YG1BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintakehän laaja annossuunnittelu-TT
+#RUOTSI     Toraxregionens  omfattande DT för dosplanering
+#LYHENNE    Rintakehän laaja annossuunnittelu-TT
+###
+#KOODI      YG1CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintakehän erittäin laaja annossuunnittelu-TT
+#RUOTSI     Torax, mycket omfattande DT för dosplanering
+#LYHENNE    Rintakehän eritt laaja annossuunn TT
+###
+#KOODI      YG1VF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintakehän alueen annossuunnittelu keskikenttämagneettilaitteella
+#RUOTSI     Thoraxregion, MR för dosplanering med mellanfältsmagnet
+#LYHENNE    Thorax-annoss. KKMT
+###
+#KOODI      YG1VG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintakehän alueen annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Thoraxregion, MR för dosplanering med högfältsmagnet
+#LYHENNE    Thorax-annoss. VKMT
+###
+#KOODI      YGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkojen irrottaminen kuolleelta luovuttajalta elinsiirtoa varten
+#RUOTSI     Uttagning av lunga/lungor för transplantation från nekrodonator
+#LYHENNE    Keuhkojen irrotus kuolleelta
+###
+#KOODI      YGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkon irrottaminen elävältä luovuttajalta elinsiirtoa varten
+#RUOTSI     Uttagning av lunga för transplantation från levande donator
+#LYHENNE    Keuhkon irrotus elävältä
+###
+#KOODI      YGA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkonosan irrottaminen elävältä luovuttajalta elinsiirtoa varten
+#RUOTSI     Uttagning av lunglob/del av lunga för transplantation från levande donator
+#LYHENNE    Keuhkonosan irrotus elävältä
+###
+#KOODI      YGA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu toimenpide liittyen keuhkojen irrotukseen elinsiirtoa varten
+#RUOTSI     Andra operationer i samband med uttagning av lunga/lungor för transplantation
+#LYHENNE    Muu keuhkojen irrotustmp
+###
+#KOODI      YJ1AD 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5954      
+#SUOMI      Vatsan annossuunnittelu-TT
+#RUOTSI     Bukens DT för dosplanering
+#LYHENNE    Abdomen,annos-TT
+###
+#KOODI      YJ1BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsan laaja annossuunnittelu-TT
+#RUOTSI     Bukens omfattande DT för dosplanering
+#LYHENNE    Vatsan laaja annossuunnittelu-TT
+###
+#KOODI      YJ1CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsan erittäin laaja annossuunnittelu-TT
+#RUOTSI     Buk, mycket omfattande DT för dosplanering
+#LYHENNE    Vatsan erit laaja annossuunnittelu-TT
+###
+#KOODI      YJ2VF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantion annossuunnittelu keskikenttämagneettilaitteella
+#RUOTSI     Bäckenregion, MR för dosplanering med mellanfältsmagnet
+#LYHENNE    Lantio,annoss. KKMT
+###
+#KOODI      YJ2VG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantion annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Bäckenregion, MR för dosplanering med högfältsmagnet
+#LYHENNE    Lantio,annoss. VKMT
+###
+#KOODI      YJ3VF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsan annossuunnittelu keskikenttämagneettilaitteella
+#RUOTSI     Buk, MR för dosplanering med mellanfältsmagnet
+#LYHENNE    Abdomen annoss. KKMT
+#OHJE_S  
+Sisältää ylävatsan annossuunnittelun
+#OHJE_R 
+---
+###
+#KOODI      YJ3VG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsan annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Buk, MR för dosplanering med högfältsmagnet
+#LYHENNE    Abdomen annoss. VKMT
+###
+#KOODI      YJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Maksan osan irrottaminen elinsiirtoa varten elävältä luovuttajalta
+#RUOTSI     Uttagning av del av lever för transplantation från levande donator
+#LYHENNE    Maksanosanirrotus elävältä
+###
+#KOODI      YJA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Maksan irrottaminen elinsiirtoa varten kuolleelta luovuttajalta
+#RUOTSI     Uttagning av lever för transplantation från nekrodonator
+#LYHENNE    Maksan irrotus kuolleelta
+#OHJE_S  
+sisältää mahdollisen jälkikäsittelyn siirtoa varten kuten jakamisen useammalle elinsiirron saajalle.
+#OHJE_R 
+Innefattar resektion och delning av levern (till flera patienter)
+###
+#KOODI      YJB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ohutsuolen irrottaminen elinsiirtoa varten
+#RUOTSI     Uttagning av tunntarm för transplantation
+#LYHENNE    Ohutsuolen irrotus
+###
+#KOODI      YJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mahalaukun ja ohutsuolen irrottaminen elinsiirtoa varten
+#RUOTSI     Uttagning av magsäck och tunntarm (en bloc) för transplantation
+#LYHENNE    Mahalaukun+ohutsuolen irrotus
+###
+#KOODI      YJD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Haiman osan irrottaminen saarekesolusiirtoa varten
+#RUOTSI     Uttagning av pankreassegment för transplantation av ö-celler
+#LYHENNE    Haiman osan irrotus saarekesolusiirtoon
+###
+#KOODI      YJD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Haiman osan irrottaminen elinsiirtoa varten elävältä luovuttajalta
+#RUOTSI     Uttagning av del av pankreas för transplantation från levande donator
+#LYHENNE    Haiman osan irrotus elävältä
+###
+#KOODI      YJD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Haiman osan irrottaminen elinsiirtoa varten kuolleelta luovuttajalta
+#RUOTSI     Uttagning av del av pankreas för transplantation från nekrodonator
+#LYHENNE    Haiman osan irrotus  kuolleelta
+###
+#KOODI      YJD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Haiman irrottaminen elinsiirtoa varten kuolleelta luovuttajalta
+#RUOTSI     Uttagning av hela pankreas för transplantation från nekrodonator
+#LYHENNE    Haiman irrotus kuolleelta luovuttajalta
+###
+#KOODI      YKA00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen irrottaminen elävältä luovuttajalta
+#RUOTSI     Uttagning av en njure för transplantation från levande donator
+#LYHENNE    Munuaisen irrotus elävältä luovuttajalta
+###
+#KOODI      YKA01 
+#MUUT_PVM   2002/09/26
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisen irrottaminen elävältä luovuttajalta tähystyksessä iholta
+#RUOTSI     Endoskopisk uttagning av en njure för transplantation från levande donator
+#LYHENNE    Mun luovuttaminen tähystysteitse
+###
+#KOODI      YKA02 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munuaisten irrottaminen siirtoa varten
+#RUOTSI     Uttagning av båda njurarna för transplantation från nekrodonator
+#LYHENNE    Munuaisten irrottaminen siirtoa varten
+###
+#KOODI      YL1AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5955      
+#SUOMI      Lantion annossuunnittelu-TT
+#RUOTSI     Bäckenets DT för dosplanering
+#LYHENNE    Lantio,annos-TT
+###
+#KOODI      YL1BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantion laaja annossuunnittelu-TT
+#RUOTSI     Bäckenets omfattande DT för dosplanering
+#LYHENNE    Lantion laaja annossuunnittelu-TT
+###
+#KOODI      YL1CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lantion erittäin laaja annossuunnittelu-TT
+#RUOTSI     Bäcken, mycket omfattande DT för dosplanering
+#LYHENNE    Lantion erittäin laaja annossuunn-TT
+###
+#KOODI      YN1AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Raajan annossuunnittelu-TT
+#RUOTSI     Extremitetets DT för dosplanering
+#LYHENNE    Raaja,annos-TT
+###
+#KOODI      YN1BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Raajan laaja annossuunnittelu-TT
+#RUOTSI     Extremitetets omfattande DT för dosplanering
+#LYHENNE    Raajan laaja annossuunnittelu-TT
+###
+#KOODI      YN1CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Raajan erittäin laaja annossuunnittelu-TT
+#RUOTSI     Extremitet, mycket omfattande DT för dosplanering
+#LYHENNE    Raajan erittäin laaja annossuunn-TT
+###
+#KOODI      YN7AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5956      
+#SUOMI      Selkärangan annossuunnittelu-TT
+#RUOTSI     Ryggradens DT för dosplanering
+#LYHENNE    Selkäranka,annos-TT
+###
+#KOODI      YN7BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkärangan laaja annossuunnittelu-TT
+#RUOTSI     Ryggradens omfattande DT för dosplanering
+#LYHENNE    Selkärangan laaja annossuunnittelu-TT
+###
+#KOODI      YN7CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkärangan erittäin laaja annossuunnittelu-TT
+#RUOTSI     Ryggrad, mycket omfattande DT för dosplanering
+#LYHENNE    Selkärangan eritt laaja annossuunn-TT
+###
+#KOODI      YN7VF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkärangan annossuunnittelu keskikenttämagneettilaittella
+#RUOTSI     Ryggrad, MR för dosplanering med mellanfältsmagnet
+#LYHENNE    Selkär.annoss. KKMT
+###
+#KOODI      YN7VG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkärangan annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Ryggrad, MR för dosplanering med högfältsmagnet
+#LYHENNE    Selkär.annoss. VKMT
+###
+#KOODI      YNA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hohkaluun ottaminen lantiosta luunsiirtoa varten
+#RUOTSI     Uttagning av spongiöst ben från bäcken för transplantation
+#LYHENNE    Hohkaluun ottaminen lantiosta
+###
+#KOODI      YNA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hohka-kortikalisluu kappaleen ottaminen lantiosta luunsiirtoa varten
+#RUOTSI     Uttagning av kortiko-spongiöst ben från bäcken för transplantation
+#LYHENNE    Hohka-kortikalisluun oto lantiosta
+###
+#KOODI      YNA02 
+#MUUT_PVM   2003/11/20
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hohkaluun ottaminen muualta kuin lantiosta luunsiirtoa varten
+#RUOTSI     Uttagning av spongiöst ben från annan lokalisation för transplantation
+#LYHENNE    Hohkaluun otto muualta kuin lantiosta
+###
+#KOODI      YNA03 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hohka-kortikalisluu kappaleen ottaminen muualta kuin lantiosta luunsiirtoa varten
+#RUOTSI     Uttagning av kortiko-spongiöst ben från annan lokalisation för transplantation
+#LYHENNE    Hohka-kortikalisluun otto,ei lantio
+###
+#KOODI      YNA04 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko luun irrottaminen siirtoa varten
+#RUOTSI     Uttagning av helt ben för transplantation
+#LYHENNE    Koko luun irrottaminen siirtoa varten
+###
+#KOODI      YNA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verisuonitetun luusiirteen irrottaminen siirtoa varten
+#RUOTSI     Uttagning av vaskulariserat bentransplantat för transplantation
+#LYHENNE    Verisuonitetun luusiirteen irrotus
+###
+#KOODI      YNA06 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun ja siihen liittyvän ruston irrottaminen siirtoa varten
+#RUOTSI     Uttagning av ben med brosk för transplantation
+#LYHENNE    Luun ja siihen liittyvän ruston irrottam
+###
+#KOODI      YNA09 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luun irrottaminen luunsiirtoa varten, ei tarkempaa määrittelyä
+#RUOTSI     Uttagning av annan benvävnad (UNS) för transplantation
+#LYHENNE    Luun irrotus luunsiirtoa varten
+###
+#KOODI      YNA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jänteen irrottaminen siirtoa varten
+#RUOTSI     Uttagning av sena för transplantation
+#LYHENNE    Jänteen irrottaminen siirtoa varten
+###
+#KOODI      YNA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ruston irrottaminen siirtoa varten
+#RUOTSI     Uttagning av brosk för transplantation
+#LYHENNE    Ruston irrottaminen siirtoa varten
+###
+#KOODI      YNA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luukalvon irrottaminen siirtoa varten
+#RUOTSI     Uttagning av periost för transplantation
+#LYHENNE    Luukalvon irrottaminen siirtoa varten
+###
+#KOODI      YNA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lihaksen irrottaminen siirtoa varten
+#RUOTSI     Uttagning av muskel för transplantation
+#LYHENNE    Lihaksen irrottaminen siirtoa varten
+###
+#KOODI      YNA45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verisuonitetun lihaksen irrottaminen siirtoa varten
+#RUOTSI     Uttagning av muskel för transplantation med kärlanastomos
+#LYHENNE    Verisuonitetun lihaksen irrotus
+###
+#KOODI      YNA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muun tukikudoksen irrottaminen siirtenä käytettäväksi
+#RUOTSI     Annan operation i samband med uttagning av muskuloskeletal vävnad för transplantation
+#LYHENNE    Muun tukikudoksen irrotus siirteeksi
+###
+#KOODI      YNB00 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuydinsiirrännäisen keräys
+#RUOTSI     Insamling av benmärg för transplantation
+#LYHENNE    Luuydinsiirrännäisen keräys
+###
+#KOODI      YNB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Luuytimen keruu siirtoa varten
+#RUOTSI     Uttagning av benmärg för transplantation
+#LYHENNE    Luuytimen keruu siirtoa varten
+###
+#KOODI      YNB02 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuydinsiirrännäisen käsittely
+#RUOTSI     Hantering av benmärg för transplantation
+#LYHENNE    Luuydinsiirrännäisen käsittely
+###
+#KOODI      YNB10 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siirteen selekointi ja käsittely
+#RUOTSI     Selektering och hantering av celler från perifert blod frö transplantation
+#LYHENNE    Siirteen selekointi ja käsittely
+###
+#KOODI      YNB10 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kantasolujen keruu siirtoa varten
+#RUOTSI     Insamling av stammceller för transplantation
+#LYHENNE    Kantasolujen keruu siirtoa varten
+###
+#KOODI      YNB12 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kantasolusiirteen immunologinen käsittely
+#RUOTSI     Immunologisk behandling av stamcelltransplantat
+#LYHENNE    Kantasolusiirteen immunologinen käsittel
+###
+#KOODI      YNB20 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kantasolusiirteen säilytys
+#RUOTSI     Förvaring av stamceller för transplantation
+#LYHENNE    Kantasolusiirteen säilytys
+###
+#KOODI      YNB40 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Veren lymfosyyttien käsittely ja säilytys, kotimainen luovuttaja
+#RUOTSI     Lymfocyter från blod, förvaring och manipulering, inhemsk donator
+#LYHENNE    Veren lymf käs ja säil, kotim luov
+###
+#KOODI      YNB42 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Veren lymfosyyttien käsittely ja säilytys, omaisluovuttaja
+#RUOTSI     Lymfocyter från blod, förvaring och manipulering, relaterad donator
+#LYHENNE    Veren lymf käs ja säil, omaisluov
+###
+#KOODI      YNB44 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Veren lymfosyyttien käsittely ja säilytys, ulkomainen luovuttaja
+#RUOTSI     Lymfocyter från blod, förvaring och manipulering, utländsk donator
+#LYHENNE    Veren lymf käs ja säil, ulkom luov
+###
+#KOODI      YNB90 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perifeerisen veren solujen varastointi
+#RUOTSI     Förvaring av celler från perifert blod
+#LYHENNE    Perifeerisen veren solujen varastointi
+###
+#KOODI      YPA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verisuonen irrottaminen siirteenä käytettäväksi
+#RUOTSI     Uttagning av kärl för transplantation
+#LYHENNE    Verisuonen irrotus siirteeksi
+###
+#KOODI      YQA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon irrottaminen myöhempää omakudossiirtoa varten
+#RUOTSI     Excision av hud för senare autotransplantation
+#LYHENNE    Ihon irrotus myöh omakudossiirtoa varten
+###
+#KOODI      YQA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon irrottaminen vieraskudossiirtoa varten elävältä luovuttajalta
+#RUOTSI     Excision av hud för allotransplantation (homotranspl) från levande donator
+#LYHENNE    Ihon irrotus vierassiirtoon elävältä
+###
+#KOODI      YQA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon irrottaminen siirtoa varten kuolleelta luovuttajalta
+#RUOTSI     Excision av hud för allotransplantation (homotranspl) från nekrodonator
+#LYHENNE    Ihon irrotus siirtoon kuolleelta
+###
+#KOODI      YX8AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktinen annossuunnittelu-TT
+#RUOTSI     Stereotaktisk dosplanering med DT
+#LYHENNE    Stereotakt. annos-TT
+###
+#KOODI      YX8BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktinen laaja annossuunnittelu-TT
+#RUOTSI     Stereotaktisk dosplanering med omfattande DT
+#LYHENNE    Stereotaktinen laaja annossuunnittelu-TT
+###
+#KOODI      YX8CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktinen erittäin laaja annossuunnittelu-TT
+#RUOTSI     Stereotaktisk dosplanering med mycket omfattande DT
+#LYHENNE    Stereotaktinen eritt laaja annossuunn-TT
+###
+#KOODI      YX8VF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktinen annossuunnittelu keskikenttämagneettilaitteella
+#RUOTSI     Stereotaktisk dosplanering med mellanfältsmagnet
+#LYHENNE    Stereot.annoss. KKMT
+###
+#KOODI      YX8VG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktinen annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Stereotaktisk dosplanering med högfältsmagnet
+#LYHENNE    Stereot.annoss. VKMT
+###
+#KOODI      YX9AD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5959      
+#SUOMI      Annossuunnittelun muu TT
+#RUOTSI     Annan DT för dosplanering
+#LYHENNE    Annosuunn. muu TT
+###
+#KOODI      YX9BD 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annossuunnittelun muu laaja TT
+#RUOTSI     Annan omfattande DT för dosplanering
+#LYHENNE    Annossuunnittelun muu laaja TT
+###
+#KOODI      YX9CD 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annossuunnittelun muu erittäin laaja TT
+#RUOTSI     Annan mycket omfattande DT för dosplanering
+#LYHENNE    Annossuunnittelun muu erittäin laaja TT
+###
+#KOODI      YX9VF 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu annossuunnittelu keskikenttämagneettilaitteella
+#RUOTSI     Annan MR för dosplanering med mellanfältsmagnet
+#LYHENNE    Muu annossuunn. KKMT
+###
+#KOODI      YX9VG 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu annossuunnittelu vahvakenttämagneettilaitteella
+#RUOTSI     Annan MR för dosplanering med högfältsmagnet
+#LYHENNE    Muu annossuunn. VKMT

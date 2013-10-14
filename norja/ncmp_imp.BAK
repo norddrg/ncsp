@@ -1,0 +1,27 @@
+Procedure ncmp_imp
+select ncsp_koo
+set filter to 
+select ncmp2007
+goto top
+do while not eof()
+  select ncsp_koo
+  seek trim(ncmp2007.code)
+  if found()
+    replace released with .f.
+    replace reldate with ctod(space(8))
+    if trim(text)<>trim(ncmp2007.text)
+       replace text with ncmp2007.text
+       replace chadate with date()
+    endif
+  else
+    append blank
+    replace code with ncmp2007.code
+    replace text with ncmp2007.text
+    replace usedate with ctod('2007/01/01')
+  endif
+  select ncmp2007
+  skip
+enddo
+select ncmp2007
+use
+return

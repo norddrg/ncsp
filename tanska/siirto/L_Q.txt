@@ -1,0 +1,2086 @@
+
+###
+#KOODI_L    Q
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Iho ja ihonalaiskudos
+#RUOTSI     Hud och subkutana vävnader
+#ENGL       Skin and subcutaneous tissue
+#OHJE_S  
+Siirteet ja kielekkeet kohdassa ZZ
+#OHJE_R 
+Transplantat och lambåer, se ZZ
+###
+#KOODI_R    QA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Pään ja kaulan iho ja ihonalaiskudos
+#RUOTSI     Hud och subkutana vävnader i huvud-halsregionen
+#ENGL       Skin and sucutaneous tissue of head and neck
+#OHJE_S  
+Sis. kasvojen ihon toimenpiteet
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+#OHJE_R 
+Inkl ansiktet
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgärd på flera regioner kan då anges med tillägskod, se ZQZ00.
+###
+#KOODI      QA001 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään ja kaulan ihon paikallinen sädehoito
+#RUOTSI     Lokal strålbehandling av hud i huvud-halsregionen
+#LYHENNE    Pään ja kaulan ihon paikallinen sädehoit
+###
+#KOODI      QAA00 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Pään tai kaulan ihon pisto
+#RUOTSI     Punktion i huvud-halsregionen
+#LYHENNE    Pään tai kaulan ihon pisto
+#OHJE_S  
+esim. verenpurkauman, haavanesteen tms
+#OHJE_R 
+Inkl evakuering av hematom, serom etc
+###
+#KOODI      QAA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Koepalan otto pään tai kaulan ihosta tai subkutiksesta
+#RUOTSI     Biopsi av hud/subkutan vävnad i huvud-halsregionen
+#LYHENNE    Biopsia pään/kaulan ihosta/subkutiksesta
+###
+#KOODI      QAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Pään tai kaulan ihon aukaisu ja kanavointi
+#RUOTSI     Incision/dränage i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihon aukaisu,insisio/kanavo
+#OHJE_S  
+
+#OHJE_R 
+Inkl dränage
+###
+#KOODI      QAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Pään tai kaulan ihomuutoksen elektrokoagulaatio
+#RUOTSI     Koagulation av hudförändring i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihomuutoksen elektrokoagulaa
+###
+#KOODI      QAA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Pään tai kaulan ihomuutoksen laserkäsittely tai fotokoagulaatio
+#RUOTSI     Laserbehandling eller fotokoagulation av hudförändring i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihomuutoksen laser/fotokoag
+###
+#KOODI      QAA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9732      
+#SUOMI      Pään tai kaulan ihomuutoksen jäädytyshoito
+#RUOTSI     Kryoterapi av hudförändring i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihomuutoksen jäädytyshoito
+###
+#KOODI      QAA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Muu pään tai kaulan ihon koepalan otto, aukaisu tai paikallinen käsittely
+#RUOTSI     Annan punktion, incision, biopsi eller destruktion vid hudförändring i huvud-halsregionen
+#LYHENNE    Muu pään/kaulan ihon biopsia,aukaisu/ym
+###
+#KOODI      QAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Pään tai kaulan ihohaavan ompelu
+#RUOTSI     Hudsutur i huvud-halsregionen
+#LYHENNE    Pään tai kaulan ihohaavan ompelu
+#OHJE_S  
+Laajuus ilmaistaan tarvittaessa lisäkoodilla, katso ZQX
+#OHJE_R 
+---
+###
+#KOODI      QAB05 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9762      
+#SUOMI      Pään tai kaulan ihon ja ihonalaiskudoksen haavan revisio ja mahdollinen sulku
+#RUOTSI     Revision och vid behov sutur av djupt sår i huvud-halsregionen
+#LYHENNE    Pään tai kaulan syvän ihohaavan revisio
+#OHJE_S  
+Muiden kudosten toimenpiteet koodataan eri koodilla kyseisen toimenpiteen mukaisesti.
+#OHJE_R 
+Åtgärd på andra vävnader koderas enligt åtgärden.
+###
+#KOODI      QAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9881      
+#SUOMI      Pään tai kaulan ihohaavan tarkistus ja siteenvaihto
+#RUOTSI     Inspektion/förbandsbyte för sår i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihohaavan tarkistus/sidevaih
+#OHJE_S  
+Palovamma kohdassa QAD
+#OHJE_R 
+Brännskador, se QAD
+###
+#KOODI      QAB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Muu pään tai kaulan ihohaavan ompelu tai siteenvaihto
+#RUOTSI     Annan sårbehandling i huvud-halsregionen
+#LYHENNE    Muu pään/kaulan ihohaavan ompelu/sidevai
+###
+#KOODI      QAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Vierasesineen poisto pään tai kaulan ihosta
+#RUOTSI     Avlägsnande av kutan främmande kropp i huvud-halsregionen
+#LYHENNE    Vierasesinepoisto pään/kaulan iho/subkut
+###
+#KOODI      QAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Pään tai kaulan palovamman siteiden vaihto
+#RUOTSI     Omläggning vid brännskada i huvud-halsregionen
+#LYHENNE    Pään/kaulan palovamman siteiden vaihto
+###
+#KOODI      QAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Pään tai kaulan palovamman puhdistusleikkaus
+#RUOTSI     Revision av brännskada i huvud-halsregionen, débridement
+#LYHENNE    Pään/kaulan palovamman débridement
+###
+#KOODI      QAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9782+     
+#SUOMI      Pään tai kaulan palovamman poistoleikkaus ja peittäminen siirteellä
+#RUOTSI     Excision och täckning med transplantat av brännskada i huvud-halsregionen
+#LYHENNE    Pään/kaulan palovammaeksisio+peitto siir
+#OHJE_S  
+Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+###
+#KOODI      QAE00 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään tai kaulan ihopoimun tai ylimääräisen ihon poisto
+#RUOTSI     Excision av hudveck eller överflödig hud i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihopoimun / ylimäär ihon poi
+###
+#KOODI      QAE00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9734      
+#SUOMI      Pään tai kaulan ihon poisto
+#RUOTSI     Hudexcision i huvud-halsregionen
+#LYHENNE    Pään tai kaulan ihon poisto
+#OHJE_S  
+Esteettisistä syistä kohdassa QBJ
+#OHJE_R 
+Som estetisk operation, se QBJ
+###
+#KOODI      QAE10 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään tai kaulan ihon ja ihonalaiskudoksen ihon paikallisen muutoksen poisto koko ihon paksuudelta
+#RUOTSI     Excision av kutan/subkutan förändring från all skikter av hud i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihon/subcut muutospoisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QAE10 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9733      
+#SUOMI      Pään tai kaulan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto
+#RUOTSI     Excision av kutan/subkutan förändring i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihon/subkutis muutospoisto
+###
+#KOODI      QAE15 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään tai kaulan ihon pintakerroksen paikallisen muutoksen poisto
+#RUOTSI     Excision av ytlig hudförändring i huvud-halsregionen
+#LYHENNE    Pään / kaulan ihon pintak paik muut pois
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Pään tai kaulan ihon arven tai kurouman poisto ja korjaus
+#RUOTSI     Excision av ärr i huvud-halsregionen
+#LYHENNE    Pään/kaulan arven/kurouman poisto/korjau
+#OHJE_S  
+Ei sisällä palovamma-arpea QAE25 eikä  leikkausarpea QAE30
+#OHJE_R 
+Exkl ärr efter brännskador (QAE25) och postoperativa ärr (QAE30)
+###
+#KOODI      QAE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9782+     
+#SUOMI      Pään tai kaulan palovamma-arven poisto ja korjaus
+#RUOTSI     Excision/revision av ärr efter brännskada i huvud-halsregionen
+#LYHENNE    Pään/kaulan palovamma-arven poisto/korja
+###
+#KOODI      QAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Pään tai kaulan leikkausarven poisto ja korjaus
+#RUOTSI     Excision/revision av operationsärr i huvud-halsregionen
+#LYHENNE    Pään/kaulan leikkausarven poisto/korjaus
+###
+#KOODI      QAE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Pään tai kaulan leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+#RUOTSI     Rekonstruktion p.g.a. huddefekt efter skada eller operation i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihopuutoksen korjaus
+#OHJE_S  
+Krooninen haava, katso QAG
+#OHJE_R 
+Kroniskt sår, se QAG
+###
+#KOODI      QAE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Pään tai kaulan ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+#RUOTSI     Rekonstruktion vid missbildning eller hudsjukdom i huvud-halsregionen
+#LYHENNE    Pään/kaulan ihon epämuod/sairauden korja
+#OHJE_S  
+Sisältää kasvohermonhalvauksen takia tehtävän rekonstruktiivisen leikkauksen
+Lihas ja hermoleikkaukset kasvohermonhalvauksen vuoksi, katso AAH
+#OHJE_R 
+Inkl rekonstruktiv operation vid facialispares
+Nerv och muskeloperationer vid facialispares, se AAH
+###
+#KOODI      QAE50 
+#MUUT_PVM   1998/12/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pään ja kaulan pinnallisen ihomuutoksen hiominen
+#RUOTSI     Dermabrasion av ytlig hudföränding i huvud-halsregionen
+#LYHENNE    Pään/kaulan pinn. ihom. hiominen
+###
+#KOODI      QAE99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9733      
+#SUOMI      Muu pään ja kaulan ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+#RUOTSI     Annan kutan / subkutan excision eller rekonstruktion i huvud-halsregionen
+#LYHENNE    Muu pään/kaulan muutoksen poisto/korjaus
+###
+#KOODI      QAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Hiuspohjan korjaus vapaalla hiussiirteellä
+#RUOTSI     Rekonstruktion av kapillitiet med hårbärande transplantat
+#LYHENNE    Hiuspohjakorjaus vapaalla hiussiirteellä
+#OHJE_S  
+esim  punch grafts
+Siirteet ja kielekkeet kohdassa ZZ
+#OHJE_R 
+T.ex. "punch grafts"Transplantat och lambåer, se ZZ
+###
+#KOODI      QAF10 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Silmäripsien  korjaus iholla, jossa on karvoitus
+#RUOTSI     Rekonstruktion av ögonbryn med hårbärande transplantat
+#LYHENNE    Silmäripsikorjaus karvaisella iholla
+###
+#KOODI      QAF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Muu hiuspohjan leikkaus
+#RUOTSI     Annan operation på kapillitiet
+#LYHENNE    Muu hiuspohjan leikkaus
+###
+#KOODI      QAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Pään tai kaulan kroonisen haavan poisto ja korjaus
+#RUOTSI     Excision av kroniskt sår i huvud-halsregionen
+#LYHENNE    Pään/kaulan kroonisen haavan poisto/korj
+###
+#KOODI      QAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Pään tai kaulan ihon leikkaushaavan suunniteltu myöhäissulku
+#RUOTSI     Planerad sekundärsutur av hud i huvud-halsregionen
+#LYHENNE    Pään/kaulan leikkaushaavan myöhäissulku
+###
+#KOODI      QAG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Muu pään tai kaulan ihon kroonisen haavan leikkaus
+#RUOTSI     Annan operation för kroniskt sår i huvud-halsregionen
+#LYHENNE    Muu pään/kaulan kroonisen haavan leikkau
+###
+#KOODI      QAJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9879      
+#SUOMI      Pään tai kaulan rasvaimu
+#RUOTSI     Fettsugning i huvud-halsregionen
+#LYHENNE    Pään tai kaulan rasvaimu
+###
+#KOODI      QAJ05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Pään ja kaulan liian ihon poisto ulkonäön vuoksi
+#RUOTSI     Estetiskt betingad hudresektion i huvud-halsregionen
+#LYHENNE    Pään/kaulan liian ihon poisto
+###
+#KOODI      QAJ10 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759+     
+#SUOMI      Kulmakarvojen kohotus
+#RUOTSI     Lyftning av ögonbryn
+#LYHENNE    Kulmakarvojen kohotus
+###
+#KOODI      QAJ15 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759+     
+#SUOMI      Kulmakarvojen kohotus tähystyksessä
+#RUOTSI     Endoskopisk lyftning av ögonbryn
+#LYHENNE    Kulmakarvojen kohotus tähystyksessä
+###
+#KOODI      QAJ20 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759+     
+#SUOMI      Subperiostaalinen kasvojen kohotus
+#RUOTSI     Subperiostal ansiktslyftning
+#LYHENNE    Subperiostaalinen kasvojen kohotus
+###
+#KOODI      QAJ25 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759+     
+#SUOMI      Kasvojen kohotus tähystyksessä
+#RUOTSI     Endoskopisk ansiktslyftning
+#LYHENNE    Kasvojen kohotus tähystyksessä
+###
+#KOODI      QAJ30 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759+     
+#SUOMI      Avoin kasvojenkohotus
+#RUOTSI     Annan ansiktslyftning
+#LYHENNE    Avoin kasvojenkohotus
+#OHJE_S  
+Konventionaalisella tekniikalla tehty toimenpide.
+#OHJE_R 
+Operation med konventionell teknik
+###
+#KOODI      QAJ35 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759+     
+#SUOMI      Muu pään ja niskan löysän ihon korjaus
+#RUOTSI     Annan korrektion av hudöverskott i huvud-halsregionen
+#LYHENNE    Muu pään ja niskan löysän ihon korjaus
+###
+#KOODI      QAJ99 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Muu ulkonäköa muuttava, esteettisistä syistä tehtävä pään tai kaulan ihon toimenpide
+#RUOTSI     Annan estetiskt betingad operation i huvud-halsregionen
+#LYHENNE    Muu esteettinen pään/kaulan ihon tmp
+###
+#KOODI_R    QB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Vartalon iho ja ihonalaiskudos
+#RUOTSI     Åtgärder på huden på bålen
+#ENGL       Skin and subcutaneous tissue of trunk
+#OHJE_S  
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+Kivespussin iho kohdassa KF ja peniksen iho kohdassa KG
+#OHJE_R 
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+Hud på skrotum och penis, se KF, KG
+###
+#KOODI      QB001 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vartalon ihon paikallinen sädehoito
+#RUOTSI     Lokal strålbehandling av hud på bålen
+#LYHENNE    Vartalon ihon paikallinen sädehoito
+###
+#KOODI      QBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Vartalon ihon pisto
+#RUOTSI     Punktion på bålen
+#LYHENNE    Vartalon ihon pisto
+#OHJE_S  
+Esim, verenpurkauma, haavaneste jne
+#OHJE_R 
+Inkl evakuering av hematom, serom etc
+###
+#KOODI      QBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Vartalon ihon aukaisu, insisio, ja kanavointi
+#RUOTSI     Incision/dränage på bålen
+#LYHENNE    Vartalon ihon aukaisu,insisio/kanavointi
+###
+#KOODI      QBA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon ihomuutoksen elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av hudförändring på bålen
+#LYHENNE    Vartalon ihomuutoksen elektrokoagulaatio
+###
+#KOODI      QBA40 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon ihomuutoksen laserkäsittely tai fotokoagulaatio
+#RUOTSI     Laserbehandling eller fotokoagulation av hudförändring på bålen
+#LYHENNE    Vartalon ihomuutoksen laser/fotokoagulaa
+###
+#KOODI      QBA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9732      
+#SUOMI      Vartalon ihomuutoksen jäädytyshoito
+#RUOTSI     Kryoterapi av hudförändring på bålen
+#LYHENNE    Vartalon ihomuutoksen jäädytyshoito
+###
+#KOODI      QBA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Muu vartalon ihon aukaisu tai koepalan otto
+#RUOTSI     Annan punktion, incision, biopsi eller destruktion  vid hudförändring på bålen
+#LYHENNE    Muu vartalon ihon aukaisu/biopsia
+###
+#KOODI      QBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Vartalon ihohaavan ompelu
+#RUOTSI     Hudsutur på bålen
+#LYHENNE    Vartalon ihohaavan ompelu
+###
+#KOODI      QBB05 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1224      
+#SUOMI      Vartalon syvän ihohaavan revisio ja mahdollinen sulku
+#RUOTSI     Revision och sutur av djupt sår på bålen
+#LYHENNE    Vartalon syvän ihohaavan revisio+sulku
+###
+#KOODI      QBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9881      
+#SUOMI      Vartalon ihohaavan tarkistus ja siteenvaihto
+#RUOTSI     Inspektion/förbandsbyte vid sår på bålen
+#LYHENNE    Vartalon ihohaavan tarkistus/sidevaihto
+#OHJE_S  
+Palovamma kohdassa QBD
+#OHJE_R 
+Brännskador, se QBD
+###
+#KOODI      QBB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Muu vartalon ihohaavan ompelu tai siteenvaihto
+#RUOTSI     Annan sårbehandling på bålen
+#LYHENNE    Muu vartalon ihohaavan ompelu/sidevaihto
+###
+#KOODI      QBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Vartalon ihon vierasesineen poisto
+#RUOTSI     Avlägsnande av kutan/subkutan främmande kropp från bålen
+#LYHENNE    Vartalon ihon vierasesineen poisto
+###
+#KOODI      QBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Vartalon palovamman siteiden vaihto
+#RUOTSI     Förbandsbyte vid brännskada på bålen
+#LYHENNE    Vartalon palovamman siteiden vaihto
+###
+#KOODI      QBD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Vartalon palovamman puhdistusleikkaus, débridement
+#RUOTSI     Revision av brännskada på bålen, débridement
+#LYHENNE    Vartalon palovamman débridement
+###
+#KOODI      QBD20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9782+     
+#SUOMI      Vartalon palovamman poistoleikkaus ja peittäminen
+#RUOTSI     Excision och täckning av brännskada på bålen
+#LYHENNE    Vartalon palovammaeksisio+omaihosiirto
+#OHJE_S  
+Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+###
+#KOODI      QBE00 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vartalon ihopoimun tai ylimääräisen ihon poisto
+#RUOTSI     Excision av hudveck eller överflödig hud på bålen
+#LYHENNE    Vartalon ihopoimun / ylimäär ihon poisto
+###
+#KOODI      QBE00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9734      
+#SUOMI      Vartalon ihomuutoksen poisto
+#RUOTSI     Hudexcision på bålen
+#LYHENNE    Vartalon ihomuutoksen poisto
+###
+#KOODI      QBE05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9752      
+#SUOMI      Hikirauhasten tai ihon ja hikirauhasten poisto vartalolta
+#RUOTSI     Excision av svettkörtlar eller hud med svettkörtlar från bålen
+#LYHENNE    Kainalohikirauhas/vastaavan ihon poisto
+#OHJE_S  
+Tavallisesti kainalosta
+#OHJE_R 
+Vanligen från armhålan
+###
+#KOODI      QBE10 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vartalon ihon tai ihonalaiskudoksen paikallisen muutoksen poisto koko ihon paksuudelta
+#RUOTSI     Excision av kutan/subkutan förändring från all skikter av hud på bålen
+#LYHENNE    Vart iho/subcutis muutoksen poisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QBE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9733      
+#SUOMI      Vartalon ihon tai ihonalaiskudoksen paikallisen muutoksen poisto
+#RUOTSI     Excision av kutan/subkutan förändring från bålen
+#LYHENNE    Vartalon ihon/subkutis muutoksen poisto
+###
+#KOODI      QBE15 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vartalon ihon pintakerroksen paikallisen muutoksen poisto
+#RUOTSI     Excision av ytlig hudförändring på bålen
+#LYHENNE    Vartalon ihon pintakerr paik muut poisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QBE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Vartalon ihon arven tai kurouman poisto ja korjaus
+#RUOTSI     Excision av ärr på bålen
+#LYHENNE    Vartalon arven/kurouman poisto/korjaus
+#OHJE_S  
+Ei sisällä palovamma-arpea QBE25 eikä leikkausarpea QBE30
+#OHJE_R 
+Exkl ärr efter brännskador (QBE25) och postoperativa ärr (QBE30)
+###
+#KOODI      QBE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Vartalon palovamma-arven poisto ja korjaus
+#RUOTSI     Excision/revision av ärr efter brännskada på bålen
+#LYHENNE    Vartalon palovamma-arven poisto/korjaus
+###
+#KOODI      QBE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Vartalon leikkausarven poisto ja korjaus
+#RUOTSI     Excision/revision av operationsärr på bålen
+#LYHENNE    Vartalon leikkausarven poisto ja korjaus
+###
+#KOODI      QBE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+#RUOTSI     Rekonstruktion av huddefekt efter skada eller operation på bålen
+#LYHENNE    Vartalon leikk/vammaihopuutoksen korjaus
+#OHJE_S  
+Krooninen haava, katso QBG
+#OHJE_R 
+Kroniskt sår, se QBG
+###
+#KOODI      QBE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+#RUOTSI     Rekonstruktion vid missbildning eller hudsjukdom på bålen
+#LYHENNE    Vartalon ihoepämuod/sair vauriokorjaus
+###
+#KOODI      QBE50 
+#MUUT_PVM   1998/12/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vartalon pinnallisen ihomuutoksen hiominen
+#RUOTSI     Dermabrasion av ytlig förändring på bålen
+#LYHENNE    Vartalon pinnallisen ihomuutoksen hiomin
+###
+#KOODI      QBE99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9733      
+#SUOMI      Muu vartalon ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+#RUOTSI     Annan kutan/subkutan excision eller rekonstruktion på bålen
+#LYHENNE    Muu vartalon ihomuutospoisto/korjaus
+###
+#KOODI      QBG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon painehaavan puhdistusleikkaus, débridement
+#RUOTSI     Revision av liggsår på bålen, débridement
+#LYHENNE    Vartalon painehaavan débridement
+###
+#KOODI      QBG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9737      
+#SUOMI      Vartalon painehaavan poisto ja korjaus
+#RUOTSI     Excision med rekonstruktion vid liggsår på bålen
+#LYHENNE    Vartalon painehaavan poisto ja korjaus
+###
+#KOODI      QBG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon kroonisen haavan poisto ja korjaus
+#RUOTSI     Excision/revision av kroniskt sår på bålen
+#LYHENNE    Vartalon kroonisen haavan poisto/korjaus
+###
+#KOODI      QBG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Vartalon ihon leikkaushaavan suunniteltu myöhäissulku
+#RUOTSI     Planerad sekundärsutur av operationssår i hud på bålen
+#LYHENNE    Vartalon leikkaushaavan myöhäissulku
+#OHJE_S  
+Syvemmällä sijaitsevan elimen leikkaushaavan uudelleen sulku koodataan kyseisen elinryhmän kohdalle
+#OHJE_R 
+Vid sårruptur efter operation. på djupareliggande organ, se resp kapitel
+###
+#KOODI      QBG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Muu vartalon kroonisen haavan leikkaus
+#RUOTSI     Annan operation för kroniskt sår på bålen
+#LYHENNE    Muu vartalon kroonisen haavan leikkaus
+###
+#KOODI      QBJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9879      
+#SUOMI      Vartalon rasvaimu
+#RUOTSI     Fettsugning på bålen
+#LYHENNE    Vartalon rasvaimu
+###
+#KOODI      QBJ05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Vartalon löysän ihon poisto ulkonäön vuoksi
+#RUOTSI     Estetiskt betingad hudreduktion på bålen
+#LYHENNE    Vartalon löysän ihon poisto
+###
+#KOODI      QBJ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9873      
+#SUOMI      Riippuvatsan korjaus
+#RUOTSI     Korrektion av hängbuk
+#LYHENNE    Riippuvatsan korjaus
+###
+#KOODI      QBJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Muu esteettisistä syistä tehtävä vartalon ihon tai ihonalaiskudoksen toimenpide
+#RUOTSI     Annan operation av estetiska orsaker på bålens hud/underhudsvävnader
+#LYHENNE    Muu esteettiset vartalon iho/subkut tmp
+###
+#KOODI_R    QC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Yläraajojen iho ja ihonalaiskudos
+#RUOTSI     Hud och subkutan vävnad på övre extremitet
+#ENGL       
+#OHJE_S  
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+#OHJE_R 
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+###
+#KOODI      QC001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläraajojen ihon paikallinen sädehoito
+#RUOTSI     Lokal strålbehandling av hud på övre extremiteten
+#LYHENNE    Yläraajojen ihon paikallinen sädehoito
+###
+#KOODI      QCA00 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Yläraajan ihon pisto
+#RUOTSI     Punktion, övre extremiteten
+#LYHENNE    Yläraajan ihon pisto
+#OHJE_S  
+esim, verenpurkauma, haavaneste jne
+#OHJE_R 
+Inkl evakuering av hematom, serom etc
+###
+#KOODI      QCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Yläraajan ihon aukaisu ja kanavointi
+#RUOTSI     Incision/dränage, övre extremiteten
+#LYHENNE    Yläraajan ihon aukaisu ja kanavointi
+###
+#KOODI      QCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan ihomuutoksen elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av hudförändring, övre extremiteten
+#LYHENNE    Yläraajan ihomuutoksen elektrokoagulaat
+###
+#KOODI      QCA40 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan ihomuutoksen laserkäsittely tai fotokoagulaatio
+#RUOTSI     Laserbehandling eller fotokoagulation av hudförändring, övre extremiteten
+#LYHENNE    Yläraajan laser/fotokoagulaatio
+###
+#KOODI      QCA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9732      
+#SUOMI      Yläraajan ihomuutoksen jäädytyshoito
+#RUOTSI     Kryoterapi av hudförändring, övre extremiteten
+#LYHENNE    Yläraajan ihomuutoksen jäädytyshoito
+###
+#KOODI      QCA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Muu yläraajan ihon aukaisu tai koepalan otto
+#RUOTSI     Annan punktion, incision eller biopsi vid hudförändring, övre extremiteten
+#LYHENNE    Muu yläraajan ihon aukaisu tai biopsia
+###
+#KOODI      QCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Yläraajan ihohaavan ompelu
+#RUOTSI     Hudsutur, övre extremiteten
+#LYHENNE    Yläraajan ihohaavan ompelu
+###
+#KOODI      QCB05 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1224      
+#SUOMI      Yläraajan syvän ihohaavan revisio ja mahdollinen sulku
+#RUOTSI     Revision och sutur av djupt sår på övre etremiteten
+#LYHENNE    Yläraajan syvän ihohaavan puhdistus+sulk
+###
+#KOODI      QCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9881      
+#SUOMI      Yläraajan ihohaavan tarkistus ja siteenvaihto
+#RUOTSI     Inspektion/förbandsbyte vid sår på övre extremiteten
+#LYHENNE    Yläraajan ihohaavatarkistus/sidevaihto
+#OHJE_S  
+Palovamma kohdassa QCD
+#OHJE_R 
+Brännskador, se QCD
+###
+#KOODI      QCB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Muu yläraajan ihon haavan ompelu tai siteenvaihto
+#RUOTSI     Annan sårbehandling, övre extremiteten
+#LYHENNE    Muu yläraajaihon haavan ompelu/sidevaiht
+###
+#KOODI      QCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Yläraajan ihon vierasesineen poisto
+#RUOTSI     Avlägsnande av kutan/subkutan främmande kropp, övre extremiteten
+#LYHENNE    Yläraajan ihon vierasesineen poisto
+###
+#KOODI      QCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Yläraajan palovamman siteiden vaihto
+#RUOTSI     Förbandsbyte vid brännskada, övre extremiteten
+#LYHENNE    Yläraajan palovamman siteiden vaihto
+###
+#KOODI      QCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Yläraajan palovamman puhdistusleikkaus, débridement
+#RUOTSI     Revision av brännskada, övre extremiteten, débridement
+#LYHENNE    Yläraajan palovamman débridement
+###
+#KOODI      QCD20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9782+     
+#SUOMI      Yläraajan palovamman poistoleikkaus ja peittäminen
+#RUOTSI     Excision och täckning av brännskada, övre extremiteten
+#LYHENNE    Yläraajan palovammaeksisio+omaihosiirto
+#OHJE_S  
+Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+###
+#KOODI      QCE00 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläraajan ihopoimun tai ylimääräisen ihon poisto
+#RUOTSI     Excision av hudveck eller överflödig hud, övre extremiteten
+#LYHENNE    Yläraajan ihopoimun tai ylimääräisen iho
+###
+#KOODI      QCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9734      
+#SUOMI      Yläraajan ihon poisto
+#RUOTSI     Hudexcision, övre extremiteten
+#LYHENNE    Yläraajan ihon poisto
+###
+#KOODI      QCE10 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläraajan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto koko ihon paksuudelta
+#RUOTSI     Excision av kutan/subkutan förändring från all skikter av hud, övre extremiteten
+#LYHENNE    Yläraajan iho/subcutis muutos poisto
+#OHJE_S  
+
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QCE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9733      
+#SUOMI      Yläraajan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto
+#RUOTSI     Excision av lokal kutan/subkutan förändring, övre extremiteten
+#LYHENNE    Yläraajan iho/subkutismuutoksen poisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+---
+###
+#KOODI      QCE15 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläraajan ihon pintakerroksen paikallisen muutoksen poisto
+#RUOTSI     Excision av ytlig hudförändring, övre extremiteten
+#LYHENNE    Yläraajan ihon pintak muut poisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QCE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Yläraajan ihon arven tai kurouman poisto ja korjaus
+#RUOTSI     Excision av ärr eller hudkontraktur, övre extremiteten
+#LYHENNE    Yläraajaihon arpi/kuroumapoisto/korjaus
+#OHJE_S  
+Ei sisällä palovamma-arpea QDE25 eikä leikkausarpea QDE30
+#OHJE_R 
+Exkl ärr efter brännskador (QCE25) och postoperativa ärr (QCE30)
+###
+#KOODI      QCE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Yläraajan palovamma-arven poisto ja korjaus
+#RUOTSI     Excision/revision av ärr efter brännskada, övre extremiteten
+#LYHENNE    Yläraajaihon palomma-arpipoisto/korjaus
+###
+#KOODI      QCE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan leikkausarven poisto ja korjaus
+#RUOTSI     Excision/revision av operationsärr, övre extremiteten
+#LYHENNE    Yläraajan leikkausarven poisto/korjaus
+###
+#KOODI      QCE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+#RUOTSI     Rekonstruktion av huddefekt efter skada eller operation, övre extremiteten
+#LYHENNE    Yläraajan leikk/vamma ihopuutoskorjaus
+#OHJE_S  
+Krooninen haava, katso QCG
+#OHJE_R 
+Kroniskt sår, se QCG
+###
+#KOODI      QCE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+#RUOTSI     Rekonstruktion vid missbildning eller hudsjukdom, övre extremiteten
+#LYHENNE    Yläraajaihon epämuod/sair vauriokorjaus
+###
+#KOODI      QCE50 
+#MUUT_PVM   1998/12/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläraajan pinnallisen ihomuutoksen hiominen
+#RUOTSI     Dermabrasion av ytlig hudförändring, övre extremiteten
+#LYHENNE    Yläraajan pinnallisen ihomuutoksen hiomi
+###
+#KOODI      QCE99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9733      
+#SUOMI      Muu yläraajan ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+#RUOTSI     Annan kutan / subkutan excision eller rekonstruktion, övre extremiteten
+#LYHENNE    Muu yläraajaihon paik poisto/korjaus
+###
+#KOODI      QCG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan kroonisen haavan poisto ja korjaus
+#RUOTSI     Operation för kroniskt sår, övre extremiteten
+#LYHENNE    Yläraajan kroonisen haavan poisto/korjau
+###
+#KOODI      QCG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Yläraajan leikkaushaavan myöhäissulku
+#RUOTSI     Sekundärsutur av oiperationssår, övre extremiteten
+#LYHENNE    Yläraajan leikkaushaavan myöhäissulku
+###
+#KOODI      QCG99 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Muu yläraajan kroonisen haavan tai avanteen leikkaus
+#RUOTSI     Annan operation för kroniskt sår eller fistel, övre extremiteten
+#LYHENNE    Muu yläraajan erittävän haava/avanneleik
+###
+#KOODI      QCH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9751      
+#SUOMI      Sormen kynnen poisto
+#RUOTSI     Avlägsnande av fingernagel
+#LYHENNE    Sormen kynnen poisto
+###
+#KOODI      QCH01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Sormen kynsialustan korjaus
+#RUOTSI     Revision av fingernagelbädd
+#LYHENNE    Sormen kynsialustan korjaus
+#OHJE_S  
+esim sisään kasvavassa kynnessä
+#OHJE_R 
+T.ex. vid unguis incarnatus
+###
+#KOODI      QCH05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Sormen kynnen epämuotoisuuden korjaus
+#RUOTSI     Revision av fingernageldeformitet
+#LYHENNE    Sormen kynnen epämuotoisuuden korjaus
+###
+#KOODI      QCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Sormen kynnen siirto, mikrokirurginen
+#RUOTSI     Mikrokirurgisk transplantation av fingernagel
+#LYHENNE    Sormen kynnen siirto, mikrokirurginen
+###
+#KOODI      QCJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9871      
+#SUOMI      Yläraajan rasvaimu
+#RUOTSI     Fettsugning, övre extremiteten
+#LYHENNE    Yläraajan rasvaimu
+###
+#KOODI      QCJ05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Yläraajan löysän ihon poisto ulkonäön vuoksi
+#RUOTSI     Resektion av hudöverskott, övre extremiteten
+#LYHENNE    Yläraajan löysän ihon poisto
+###
+#KOODI      QCJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Muu esteettisistä syistä tehtävä yläraajan ihon leikkaus
+#RUOTSI     Annan estetiskt betingad operation på övre extremitetens hud/underhudsvävnader
+#LYHENNE    Muu esteettinen yläraajan ihon leikkaus
+###
+#KOODI_R    QD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Alaraajojen iho ja ihonalaiskudos
+#RUOTSI     Hud och subkutan vävnad på nedre extremiteten
+#ENGL       Skin and subcutaneous tissue of lower limb
+#OHJE_S  
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+#OHJE_R 
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+###
+#KOODI      QD001 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajojen ihon paikallinen sädehoito
+#RUOTSI     Lokal strålbehandling av hud på nedre extemiteten
+#LYHENNE    Alaraajojen ihon paikallinen sädehoito
+###
+#KOODI      QDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Alaraajan ihon pisto
+#RUOTSI     Punktion, nedre extremiteten
+#LYHENNE    Alaraajan ihon pisto
+#OHJE_S  
+esim, verenpurkauma, haavaneste jne
+#OHJE_R 
+Inkl evakuering av hematom, serom etc
+###
+#KOODI      QDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Alaraajan ihon aukaisu ja kanavointi
+#RUOTSI     Incision/dränage, nedre extremiteten
+#LYHENNE    Alaraajan ihon aukaisu ja kanavointi
+###
+#KOODI      QDA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan ihomuutoksen elektrokoagulaatio
+#RUOTSI     Elektrokoagulation av hudförändring, nedre extremiteten
+#LYHENNE    Alaraajan ihomuutoksen elektrokoagulaati
+###
+#KOODI      QDA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan ihomuutoksen laserkäsittely tai fotokoagulaatio
+#RUOTSI     Laserbehandling eller fotokoagulation av hudförändring, nedre extremiteten
+#LYHENNE    Alaraajaihon laser/fotokoagulaatio
+###
+#KOODI      QDA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9732      
+#SUOMI      Alaraajan ihomuutoksen jäädytyshoito
+#RUOTSI     Kryoterapi av hudförändring, nedre extremiteten
+#LYHENNE    Alaraajan ihomuutoksen jäädytyshoito
+###
+#KOODI      QDA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Muu alaraajan ihon aukaisu tai koepalan otto
+#RUOTSI     Annan punktion, incision, biopsi eller destruktion vid hudförändring, nedre extremiteten
+#LYHENNE    Muu alaraajan ihon aukaisu tai biopsia
+###
+#KOODI      QDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Alaraajan ihohaavan ompelu
+#RUOTSI     Hudsutur, nedre extremiteten
+#LYHENNE    Alaraajan ihohaavan ompelu
+###
+#KOODI      QDB05 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1224      
+#SUOMI      Alaraajan syvän haavan revisio ja mahdollinen sulku
+#RUOTSI     Revision och sutur av djupt sår på övre etremiteten
+#LYHENNE    Alaraajan syvän ihohaavan puhdistus+sulk
+###
+#KOODI      QDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9881      
+#SUOMI      Alaraajan ihohaavan tarkistus ja siteenvaihto
+#RUOTSI     Inspektion/förbandsbyte vid sår på nedre extremiteten
+#LYHENNE    Alaraajan ihohaavan tarkistus/sidevaihto
+#OHJE_S  
+Palovamma kohdassa QDD
+#OHJE_R 
+Brännskador, se QDD
+###
+#KOODI      QDB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9761      
+#SUOMI      Muu alaraajan ihon haavan ompelu tai siteenvaihto
+#RUOTSI     Annan sårbehandling, nedre extremiteten
+#LYHENNE    Muu alaraajaihohaavan ompelu/sidevaihto
+###
+#KOODI      QDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9731      
+#SUOMI      Alaraajan ihon vierasesineen poisto
+#RUOTSI     Avlägsnande av kutan/subkutan främmande kropp, nedre extremiteten
+#LYHENNE    Alaraajan ihon vierasesineen poisto
+###
+#KOODI      QDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9881      
+#SUOMI      Alaraajan palovamman siteiden vaihto
+#RUOTSI     Omläggning vid brännskada, nedre extremiteten
+#LYHENNE    Alaraajan palovamman siteiden vaihto
+###
+#KOODI      QDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9781      
+#SUOMI      Alaraajan palovamman puhdistusleikkaus, débridement
+#RUOTSI     Revision av brännskada, nedre extremiteten, débridement
+#LYHENNE    Alaraajan palovamman débridement
+###
+#KOODI      QDD20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9782+     
+#SUOMI      Alaraajan palovamman poistoleikkaus ja peittäminen
+#RUOTSI     Excision och täckning av brännskada, nedre extremiteten
+#LYHENNE    Alaraajan palovammaeksisio+omaihosiirto
+#OHJE_S  
+Peittämiseen käytetty siirre koodataan kohdasta ZZA, ZZQ tai ZZR
+#OHJE_R 
+Tilläggskoder för specifikation av transplantat eller lambå, se ZZA, ZZQ och ZZR
+###
+#KOODI      QDE00 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajan ihopoimun tai ylimääräisen ihon poisto
+#RUOTSI     Excision av hudveck eller överflödig hud, nedre extremiteten
+#LYHENNE    Alaraajan ihopoimun tai ylim ihon poisto
+###
+#KOODI      QDE00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9731      
+#SUOMI      Alaraajan ihon poisto
+#RUOTSI     Hudexcision, nedre extremiteten
+#LYHENNE    Alaraajan ihon poisto
+###
+#KOODI      QDE10 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto koko ihon paksuudelta
+#RUOTSI     Excision av kutan/subkutan förändring från all skikter av hud, nedre extremiteten
+#LYHENNE    Alaraajan iho/subcutis muutos poisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+---
+###
+#KOODI      QDE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   2003/09/26
+#POISTETTU
+#VANHA      9733      
+#SUOMI      Alaraajan ihon tai ihonalaiskudoksen paikallisen muutoksen poisto
+#RUOTSI     Excision av kutan/subkutan förändring, nedre extremiteten
+#LYHENNE    Alaraajaihon/subkutiksen muutoksen poist
+#OHJE_S  
+
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QDE15 
+#MUUT_PVM   2004/09/08
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajan ihon pintakerroksen paikallisen muutoksen poisto
+#RUOTSI     Excision av ytlig hudförändring, nedre extremiteten
+#LYHENNE    Alaraajan ihon pintakerr muut poisto
+#OHJE_S  
+Ei sisällä erilaisten arpien poistamista
+#OHJE_R 
+Exkluderar excision av olika ärr
+###
+#KOODI      QDE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Alaraajan ihon arven tai kurouman poisto ja korjaus
+#RUOTSI     Excision av ärr eller hudkontraktur, nedre extremiteten
+#LYHENNE    Alaraajan arven/kurouman poisto/korjaus
+#OHJE_S  
+Ei sisällä palovamma-arpea QDE25 eikä leikkausarpea QDE30
+#OHJE_R 
+Exkl ärr efter brännskador (QDE25) och postoperativa ärr (QDE30)
+###
+#KOODI      QDE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Alaraajan palovamma-arven poisto ja korjaus
+#RUOTSI     Excision/revision av ärr efter brännskada, nedre extremiteten
+#LYHENNE    Alaraajan palovamma-arven poisto/korjaus
+###
+#KOODI      QDE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9734      
+#SUOMI      Alaraajan leikkausarven poisto ja korjaus
+#RUOTSI     Excision/revision av operationsärr, nedre extremiteten
+#LYHENNE    Alaraajan leikkausarven poisto/korjaus
+###
+#KOODI      QDE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan leikkauksen tai vamman jälkeisen ihopuutoksen korjaus
+#RUOTSI     Rekonstruktion av huddefekt efter skada eller operation, nedre extremiteten
+#LYHENNE    Alaraajaihon leikk/vammapuutoskorjaus
+#OHJE_S  
+Krooninen haava, katso QDG
+#OHJE_R 
+Kroniskt sår, se QDE35
+###
+#KOODI      QDE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus
+#RUOTSI     Rekonstruktion vid missbildning eller hudsjukdom, nedre extremiteten
+#LYHENNE    Alaraajaihon epämuod/sair vauriokorjaus
+###
+#KOODI      QDE50 
+#MUUT_PVM   1998/12/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajan pinnallisen ihomuutoksen hiominen
+#RUOTSI     Dermabrasion av ytlig hudfändring, nedre etremiteten
+#LYHENNE    Alaraajan pinnallisen ihomuutoksen hiomi
+###
+#KOODI      QDE99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9733      
+#SUOMI      Muu alaraajan ihon ja ihonalaiskudoksen poisto tai korjaava leikkaus
+#RUOTSI     Annan kutan / subkutan excision eller rekonstruktion, nedre extremiteten
+#LYHENNE    Muu alaraajaihon paik muutospoisto/korja
+###
+#KOODI      QDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan painehaavan puhdistusleikkaus, débridement
+#RUOTSI     Revision av liggsår, nedre extremiteten, débridement
+#LYHENNE    Alaraajan painehaavan débridement
+###
+#KOODI      QDG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9737      
+#SUOMI      Alaraajan painehaavan poisto ja korjaus
+#RUOTSI     Excision med rekonstruktion vid liggsår, nedre extremiteten
+#LYHENNE    Alaraajan painehaavan poisto ja korjaus
+###
+#KOODI      QDG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan kroonisen haavan leikkaus
+#RUOTSI     Operation för kroniskt sår, nedre extremiteten
+#LYHENNE    Alaraajan kroonisen haavan
+#OHJE_S  
+esim. säärihaavan, poisto ja korjaus
+#OHJE_R 
+Inkl bensår
+###
+#KOODI      QDG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Alaraajan ihon leikkaushaavan suunniteltu myöhäissulku
+#RUOTSI     Planerad sekundärsutur av operationssår i hud av nedre extremiteten
+#LYHENNE    Alaraajan leikkaushaavan myöhäissulku
+###
+#KOODI      QDG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9749      
+#SUOMI      Muu alaraajan kroonisen haavan tai avanteen leikkaus
+#RUOTSI     Annan operation för kroniskt sår eller fistel, nedre extremiteten
+#LYHENNE    Muu alaraajan kroon haava/avanneleikkaus
+###
+#KOODI      QDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9751      
+#SUOMI      Varpaan kynnen poisto
+#RUOTSI     Extraktion av tånagel
+#LYHENNE    Varpaan kynnen poisto
+###
+#KOODI      QDH01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Varpaan kynsialustan korjaus
+#RUOTSI     Revision av tånagelbädd
+#LYHENNE    Varpaan kynsialustan korjaus
+#OHJE_S  
+esim sisään kasvavassa kynnessä
+#OHJE_R 
+T.ex. vid unguis incarnatus
+###
+#KOODI      QDH05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Varpaan kynnen korjaus
+#RUOTSI     Revision av tånagel
+#LYHENNE    Varpaan kynnen korjaus
+###
+#KOODI      QDH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9759      
+#SUOMI      Varpaan kynnen siirto, mikrokirurginen
+#RUOTSI     Mikrokirurgisk transplantation av tånagel
+#LYHENNE    Varpaan kynnen siirto, mikrokirurginen
+###
+#KOODI      QDJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9872      
+#SUOMI      Alaraajan rasvaimu
+#RUOTSI     Fettsugning, nedre extremiteten
+#LYHENNE    Alaraajan rasvaimu
+###
+#KOODI      QDJ05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Alaraajan löysän ihon poisto ulkonäön vuoksi
+#RUOTSI     Resektion av hudöverskott, nedre extremiteten
+#LYHENNE    Alaraajan löysän ihon poisto
+###
+#KOODI      QDJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9869      
+#SUOMI      Muu esteettisistä syistä tehtävä alaraajan ihon leikkaus
+#RUOTSI     Annan operation av estetiska orsaker, nedre extremiteten
+#LYHENNE    Muu esteettinen alaraajaihon leikkaus
+###
+#KOODI_R    QW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ihon ja ihonalaiskudoksen leikkausten haavakomplikaatioleikkaukset
+#RUOTSI     Operationer för komplikationer av hudkirurgi
+#ENGL       Reoperations on skin
+#OHJE_S  
+Hoidetun ihoalueen laajuus ilmaistaan lisäkoodilla, katso ZQX
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista lisäkoodilla, ks. ZQZ00
+#OHJE_R 
+Storlek av behandlade hudarealen anges med tilläggskod, se ZQX.
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det området som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med tillägskod, se ZQZ00.
+###
+#KOODI      QWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9889      
+#SUOMI      Auenneen tai tulehtuneen iho- ja ihonalaiskudosleikkauksen leikkaushaavan tarkistaminen
+#RUOTSI     Revision för sårruptur/sårinfektion efter operation på hud/subkutan vävnad
+#LYHENNE    Iho-/subkutisleik haavarevisio,auenn/inf
+###
+#KOODI      QWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9889      
+#SUOMI      Iho- ja ihonalaiskudosleikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+#RUOTSI     Incision/dränage av infekterad sårhåla efter operation på hud/subkutan vävnad
+#LYHENNE    Iho-/subkutisleik ontelorevisio,infektio
+###
+#KOODI      QWD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9889      
+#SUOMI      Uusintaleikkaus iho- ja ihonalaiskudoksen leikkaushaavan vuodon vuoksi
+#RUOTSI     Reoperation för blödning efter operation på hud/subkutan vävnad
+#LYHENNE    Iho-/subkutisleik haavarevisio,vuoto
+###
+#KOODI      QWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9889      
+#SUOMI      Mikrovaskulaarisiirteen verisuoniliitoksen tarkistaminen
+#RUOTSI     Revision av mikrovaskulär anastomos i samband med transplantation av hud/subkutan vävnad
+#LYHENNE    Mikrovaskulaariverisuoniliitosrevisio
+###
+#KOODI      QWH99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9889      
+#SUOMI      Muu iho- ja ihonalaiskudosleikkauksen komplikaatioleikkaus
+#RUOTSI     Annan reoperation för komplikation efter operation på hud/subkutan vävnad
+#LYHENNE    Muu iho-/subkutisleikkauksen kompl tmp
+###
+#KOODI      QWW99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu iho-tai ihonalaiskudosleikkauksen uusintaleikkaus
+#RUOTSI     Annan reoperation för hud och subkutan åtgärd
+#LYHENNE    Muu iho-tai ihonalaiskudosleikkauksen uu
+###
+#KOODI_R    QX
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Määrittelemättömän alueen iho ja ihonalaiskudos
+#RUOTSI     Hud och subkutan vävnad utan specifikation av kroppsdel
+#ENGL       Skin and subcutaneus tissue of unspecified region
+###
+#KOODI      QX099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko ihon sädehoito
+#RUOTSI     Strålbehandling av hela huden
+#LYHENNE    Koko ihon sädehoito
+###
+#KOODI      QX1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6364      
+#SUOMI      Ihon UÄ
+#RUOTSI     Hud, UL
+#LYHENNE    Ihon UÄ
+###
+#KOODI      QX2CB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5200      
+#SUOMI      Fistelin varjoainetutkimus (fistulografia)
+#RUOTSI     Fistulografi
+#LYHENNE    Fistulografia
+###
+#KOODI      QX2XA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5299      
+#SUOMI      Pehmytosan muu röntgentutkimus
+#RUOTSI     Övrig mjukdelsröntgen
+#LYHENNE    Pehmytosan rtg
+###
+#KOODI      QX2XE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6369      
+#SUOMI      Pehmytosan muu UÄ
+#RUOTSI     Annan UL av mjukdelar
+#LYHENNE    Pehmytosan muu UÄ
+###
+#KOODI      QX2ZT 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pinnallisen vierasesineen poisto radiologisessa ohjauksessa
+#RUOTSI     Avläggsnade av ytligt belägen främmande kropp med radiologisk styrning
+#LYHENNE    Pinn.esinepoisto, UÄ
+###
+#KOODI      QX3AT 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihonalaisen kudoksen kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Subkutan vävnadsbiopsi, UL-styrd
+#LYHENNE    Ihonal kud kudosnäytteen otto UÄ-ohj
+###
+#KOODI      QX3HE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6367      
+#SUOMI      Pinnallisen resistenssin UÄ
+#RUOTSI     Ytlig resistens, UL
+#LYHENNE    Pinnall.resist.UÄ
+###
+#KOODI      QX4AT 
+#MUUT_PVM   2002/11/15
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihonalaisen kudoksen solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Subkutan finnålsbiopsi, UL-styrd
+#LYHENNE    Ihonal kud solunäytteen otto UÄ-ohj
+###
+#KOODI      QXA00 
+#MUUT_PVM   2003/12/03
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon pisto, paikkaa ei määritelty
+#RUOTSI     Punktion av hud, ospecificerad lokalisation
+#LYHENNE    Ihon pisto, paikkaa ei määritelty
+###
+#KOODI      QXA05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon aukaisu, paikkaa ei määritelty
+#RUOTSI     Hudinkision, ospecificerad region
+#LYHENNE    Ihon aukaisu, paikkaa ei määritelty
+###
+#KOODI      QXA20 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon hionta, paikkaa ei määritelty
+#RUOTSI     Dermabrasion, ospecificerad region
+#LYHENNE    Ihon hionta, paikkaa ei määritelty
+###
+#KOODI      QXA30 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon elektrokoagulaatio, paikkaa ei määritelty
+#RUOTSI     Hud elektrokoagulation, ospecificerad region
+#LYHENNE    Ihon elektrokoagulaatio, paikkaa ei määr
+###
+#KOODI      QXA40 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon laserkäsittely tai fotokoagulaatio, paikkaa ei määritelty
+#RUOTSI     Hud laser behandling eller fotokoagulaiton, ospecifeserad region
+#LYHENNE    Ihon laser/fotokoagul, paikkaa ei määr
+###
+#KOODI      QXA50 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon jäädytyskäsittely, paikkaa ei määritelty
+#RUOTSI     Kryobehandling av hud, ospecifeserad region
+#LYHENNE    Ihon jäädytyskäsittely, paikkaa ei määri
+###
+#KOODI      QXA99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ihon aukaisu, koepalan otto tai paikallinen tuhoaminen, paikkaa ei määritelty
+#RUOTSI     Annan inkision, biopsi eller lokal destruktion, ospecifeserad region
+#LYHENNE    Muu iho auk/biops/destr, määrtön sij
+###
+#KOODI      QXB00 
+#MUUT_PVM   2003/12/03
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihohaavan ompelu, paikkaa ei määritelty
+#RUOTSI     Sutur av ospecificerad hudregion
+#LYHENNE    Ihohaavan ompelu, paikkaa ei määritelty
+###
+#KOODI      QXB05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihohaavan tarkistaminen, paikkaa ei määritelty
+#RUOTSI     Sårrevision, ospecificerad region
+#LYHENNE    Ihohaavan tarkistaminen, paikkaa ei määr
+###
+#KOODI      QXB10 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suuren ihohaavansidevaihto, paikkaa ei määritelty
+#RUOTSI     Omläggning eller förbandsbyte, ospecificerad hudregion
+#LYHENNE    Suuren ihohaavansidevaihto, paikkaa ei m
+###
+#KOODI      QXB99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ihohaavan hoitotoimenpide, paikkaa ei määritelty
+#RUOTSI     Annan åtgärd för sårbehandling i huden, ospecificerad hudregion
+#LYHENNE    Muu ihohaavan hoitotoimenpide, paikkaa e
+###
+#KOODI      QXC00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pinnallisen vierasesineen poisto, paikkaa ei määritelty
+#RUOTSI     Avlägsnande av subkutan främmande kropp, ospecificerad region
+#LYHENNE    Pinn vier.esin poisto, paikka määrtön
+###
+#KOODI_A    QX_
+#MUUT_PVM   2002/08/29
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Ihon ja ihonalaiskudoksen diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av hud och subkutan vävnad
+#ENGL       Diagnostic radiology of skin and subcutaneous tissue
+###
+#KOODI      QXD00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palovamman siteiden vaihto, paikkaa ei määritelty
+#RUOTSI     Omläggning vid brännskada, ospecificerad hudregion
+#LYHENNE    Palovamman sit vaihto, paikkaa määrtön
+###
+#KOODI      QXD10 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palovamman puhdistusleikkaus, débridement, paikkaa ei määritelty
+#RUOTSI     Revision av brännskada i ospecificerad hudregion, débridement
+#LYHENNE    Palovamman débridement, paikka määrtön
+###
+#KOODI      QXD20 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palovamman poistoleikkaus ja peittäminen, paikkaa ei määritelty
+#RUOTSI     Excision och täckning med transplantat av brännskada i huvud-halsregionen
+#LYHENNE    Palov.eksisio+peitto siir, paikka määrtö
+###
+#KOODI      QXE05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hikirauhasten tai ihon ja hikirauhasten poisto, paikkaa ei määritelty
+#RUOTSI     Excision av svettkörtlar eller hud med svettkörtlar, ospecificerad hudregion
+#LYHENNE    Hikir ja ihon poisto, paikka määrtön
+#OHJE_S  
+Poisto kainalosta kohdassa QBE05
+#OHJE_R 
+Excision från armhålan, se QBE05
+###
+#KOODI      QXE20 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon arven tai kurouman poisto ja korjaus, paikkaa ei määritelty
+#RUOTSI     Excision av ärr på ospecificerad hudregion
+#LYHENNE    Ihon arv/kur poist&korj, paikka määrtön
+###
+#KOODI      QXE25 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palovamma-arven poisto ja korjaus, paikkaa ei määritelty
+#RUOTSI     Excision/revision av ärr efter brännskada på ospecificerad hudregion
+#LYHENNE    Palov-arven poist&korj, paikka määrtön
+###
+#KOODI      QXE30 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leikkausarven poisto ja korjaus, paikkaa ei määritelty
+#RUOTSI     Excision/revision av operationsärr på ospecificerad hudregion
+#LYHENNE    Leikkausarven poist&korj, paikka määrtön
+###
+#KOODI      QXE35 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leikkauksen tai vamman jälkeisen ihopuutoksen korjaus, paikkaa ei määritelty
+#RUOTSI     Rekonstruktion av huddefekt efter skada eller operation på ospecificerad hudregion
+#LYHENNE    Leikk/vamm jälk ihop korj, paikk määrtön
+###
+#KOODI      QXE40 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon epämuodostuman tai sairauden aiheuttaman vaurion korjaus, paikkaa ei määritelty
+#RUOTSI     Rekonstruktion vid missbildning eller hudsjukdom på ospecificerad region
+#LYHENNE    Ihon epäm/sair vaur korj, paikka määrtön
+###
+#KOODI      QXE99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu ihon tai ihonalaiskudoksen poisto tai korjaus, paikkaa ei määritelty
+#RUOTSI     Annan kutan / subkutan excision eller rekonstruktion, oscpecificerad hudregion
+#LYHENNE    Ihomuutoksen poisto, paikkaa ei määritel
+###
+#KOODI      QXG00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Painehaavan puhdistusleikkaus, débridement, paikkaa ei määritelty
+#RUOTSI     Revision av liggsår på ospecificerad hudregion, débridement
+#LYHENNE    Painehaav débridem, paikka määrtön
+###
+#KOODI      QXG10 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Painehaavan poisto ja korjaus, paikkaa ei määritelty
+#RUOTSI     Excision med rekonstruktion vid liggsår på ospecificerad hudregion
+#LYHENNE    Painehaav poist&korj, paikka määrtön
+###
+#KOODI      QXG20 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kroonisen haavan poisto ja korjaus, paikkaa ei määritelty
+#RUOTSI     Excision/revision av kroniskt sår på opesificerad hudregion
+#LYHENNE    Kroon haavan poist&korj, paikka määrtön
+###
+#KOODI      QXG30 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon leikkaushaavan suunniteltu myöhäissulku, paikkaa ei määritelty
+#RUOTSI     Planerad sekundärsutur av operationssår i hud på ospecificerad hudregion
+#LYHENNE    Leikk. suunn myöh.sulk, paikka määrtön
+###
+#KOODI      QXG99 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kroonisen haavan leikkaus, paikkaa ei määritelty
+#RUOTSI     Annan operation för kroniskt sår på ospecificerad hudregion
+#LYHENNE    Muu kroon haav leikk, paikka määrtön
+###
+#KOODI      QXJ00 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rasvaimu, paikkaa ei määritelty
+#RUOTSI     Fettsugning på ospecificerad hudregion
+#LYHENNE    Rasvaimu, paikkaa ei määritelty
+###
+#KOODI      QXJ05 
+#MUUT_PVM   2003/09/26
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Löysän ihon poisto ulkonäön vuoksi, paikkaa ei määritelty
+#RUOTSI     Estetiskt betingad hudreduktion på ospecificerad hudregion
+#LYHENNE    Löysän ihon kosm poist, paikka määrtön

@@ -1,0 +1,1330 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU R
+
+@LUVUT_S = KAPITEL R
+
+@SUOMI_L = Kuntoutuspalvelut
+
+@RUOTSI_L = Rehabilitations service
+
+@ENGL_L = Rehabilitation services
+
+@END_L = 
+
+@KOODI_R = R1
+
+@SUOMI_R = Kuntoutustarpeen ja -mahdollisuuksien arviointi
+
+@RUOTSI_R = Uppskattning av rehabilitationsbehov och -potential
+
+@ENGL_R = Evaluation of the need and prospects for rehabilitation
+
+@END = 
+
+@KOODI_A = R11
+
+@NCSP_A = R1R1
+
+@SUOMI_A = Kuntoutuksen yleisarvio
+
+@RUOTSI_A = Allmän bedömning av rehabiliteringsbehovet
+
+@ENGL_A = General overview of the need for rehabilitation
+
+@END = 
+
+@KOODI = R1100 
+
+@NCSP = R1R100
+
+@SUOMI = Yleisarvio kuntoutustarpeesta
+
+@RUOTSI = Allmän bedömning av rehabiliteringsbehovet
+
+@NOTE_F = Kuntoutustyötä tekevän orientoiva kartoitus ja yleisarvio kuntoutustarpeesta kuntoutuksen vireillepanoksi, kuntoutuksen käynnistämiseksi, alustavan kuntoutussuunnitelman laatimiseksi tai tilanteen tarkistamiseksi.
+
+@NOTE_F =
+Sisältää alustavan kuntoutusta koskevan lausunnon.
+
+@NOTE_F =
+Ei sisällä  (laajempaa) kuntoutussuunnitelmaa (R1400), jossa tehdään kokonaisvaltainen pitkäntähtäimen kuntoutussuunnitelma.
+
+@NOTE_S = En orienterande kartläggning och allmän bedömning av rehabiliteringsbehovet, gjord av en person som arbetar med rehabilitering. Utgående från denna kartläggning och bedömning kan en preliminär rehabiliteringsplan uppgöras eller en granskning av
+situationen utföras.
+
+@NOTE_S =
+Underklassen innehåller också ett preliminärt utlåtande om rehabiliteringsbehovet.
+
+@NOTE_S =
+När en övergripande rehabiliteringsplan för en längre period uppgörs tillämpas klass R1400
+
+@END = 
+
+@KOODI_A = R12
+
+@NCSP_A = R1R2
+
+@SUOMI_A = Kuntoutustutkimus
+
+@RUOTSI_A = Rehabiliteringsundersökning
+
+@ENGL_A = Examination to settle the need for rehabilitation
+
+@NOTE_RF = Kuntoutustutkimus on laaja eri alojen asiantuntijoiden suorittamaan tutkimukseen perustuva arviointi tutkittavan toimintakyvystä, voimavaroista sekä kuntoutusedellytyksistä. Kuntoutustutkimukseen kuuluu tutkittavan tarpeiden mukaisesti eri
+asiantuntijoiden suorittamia arvioita (R1210 - 1280). Kuntoutustutkimuksen tuloksena laaditaan yksilöllinen ja perusteltu kuntoutussuunnitelma (R1400).
+
+@NOTE_RS = En bred utvärdering baserad på undersökning av rehabilitandens funktionsförmåga, resurser och förutsättningar för rehabilitering av mångsidig expertis. I rehabiliteringsundersökningen ingår enligt behov olika experters bedömningar (R1210-1280). 
+Som ett resultat av rehabiliteringsundersökningen uppgörs en individuell rehabiliteringsplan, som beskriver också argumentationen (R1400).
+
+@END = 
+
+@KOODI = R1210 
+
+@NCSP = R1R210
+
+@SUOMI = Lääketieteellinen arvio kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = Medicinsk bedömning av behov och möjligheter till rehabilitering
+
+@NOTE_F = Lääketieteelliseen tutkimukseen perustuva arvio, jossa selvitetään, miten sairaus tai vamma vaikuttaa ja tulee todennäköisesti vaikuttamaan tutkittavan toiminta-, oppimis- ja työkykyyn sekä kuntoutumismahdollisuuksiin.
+
+@NOTE_S = Bedömning som grundar sig på en medicinsk undersökning. Vid undersökningen utreds, hur en sjukdom eller ett handikapp inverkar och sannolikt kommer att inverka  på rehabilitandens funktions-, inlärnings- och arbetsförmåga samt på
+rehabiliteringsmöjligheterna.
+
+@END = 
+
+@KOODI = R1220 
+
+@NCSP = R1R220
+
+@SUOMI = Psykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = Psykologisk bedömning av behov och möjligheter till rehabilitering
+
+@NOTE_F = Psykologiseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan psyykkiset rajoitukset, edellytykset sekä motivaatio työntekoon, koulutukseen ja kuntoutukseen, sekä arviot tarvittavista oman elämän hallintaa tukevista
+kuntoutustoimenpiteistä.
+
+@NOTE_S = En bedömning som grundar sig på en psykologisk undersökning. Vid undersökningen utreds rehabilitandens psykiska begränsningar, förutsättningar och motivation att arbeta, utbilda sig och rehabiliteras samt rehabiliteringsåtgärder som behövs för
+att stöda rehabilitandens möjligheter att leva ett självständigt liv.
+
+@END = 
+
+@KOODI = R1230 
+
+@NCSP = R1R230
+
+@SUOMI = Neuropsykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = Neuropsykologisk bedömning av behov och möjligheter till rehabilitering
+
+@NOTE_F = Neuropsykologiseen tutkimukseen perustuva arvio, jossa selvitetään aivosairauteen ja -vaurioon liittyvien henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden merkitys tutkittavan työ- ja toimintakykyyn ja kuntoutumismahdollisuuksiin.
+
+@NOTE_S = En bedömning som grundar sig på en neuropsykologisk undersökning. Vid undersökningen utreds betydelsen av allmänna och speciella störningar som uppstår i de andliga funktionerna i anslutning till hjärnsjukdomar och -skador för rehabilitandens
+rehabiliteringsmöjligheter.
+
+@END = 
+
+@KOODI = R1240 
+
+@NCSP = R1R240
+
+@SUOMI = Sosiaalinen arvio kuntoutustarpeesta ja -mahdollisuuksista
+
+@RUOTSI = Social bedömning av behov och möjligheter till rehabilitering
+
+@NOTE_F = Sosiaaliseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan sosiaalinen tausta ja nykytilanne sekä arvioidaan kuntoutumisen edellyttämät sosiaaliturvaratkaisut ja muiden elämänhallintaa tukevien toimenpiteiden tarve.
+
+@NOTE_S = En bedömning som grundar sig på en social undersökning. Vid undersökningen utreds rehabilitandens sociala bakgrund och sociala situation samt utvärderas de socialskyddslösningar som rehabiliteringen förutsätter samt behov av andra åtgärder som
+befrämjar och stödjer den sociala funktionsförmågan.
+
+@END = 
+
+@KOODI = R1250 
+
+@NCSP = R1R250
+
+@SUOMI = Toimintakyvyn arviointi
+
+@RUOTSI = Utvärdering av funktionsförmågan
+
+@NOTE_F = Fysio- ja toimintaterapeuttiseen tutkimukseen perustuva tai muu asiantuntija-arvio, jossa selvitetään tutkittavan toimintakyvyn vahvuudet ja rajoitukset sekä toiminnalliset valmiudet. Sisältää tarpeen mukaan fyysisen suorituskyvyn ja liikkumisen 
+arvioinnin sekä päivittäisissä toimissa, työssä ja asuin- sekä elinympäristössä selviytymisen arvioinnin.
+
+@NOTE_S = En på fysio- eller ergoterapeutisk undersökning baserad undersökning eller annan expertbedömning, i vilken rehabilitandens starka sidor och begränsningar samt funktionella färdigheter utreds. Underklassen innehåller vid behov en utvärdering av
+den fysiska prestations- och rörelseförmågan samt en utvärdering av hur rehabilitanden klarar av dagliga sysslor, klarar sig i arbetet eller i boende- och levnadsmiljön.
+
+@END = 
+
+@KOODI = R1260 
+
+@NCSP = R1R260
+
+@SUOMI = Kommunikaatiokyvyn arviointi
+
+@RUOTSI = Utvärdering av kommunikationsförmågan
+
+@NOTE_F = Asiantuntijoiden tutkimukseen perustuva arvio, jossa selvitetään tutkittavan vuorovaikutustaitoihin ja sosiaaliseen kommunikointiin vaikuttavat kielen, puheen, äänen, kuulon ja näön rajoitukset ja häiriöt. Tutkimusten pohjalta selvitetään
+kuntoutuksen edellytykset ja mahdollisuudet.
+
+@NOTE_S = En på experters undersökningar baserad bedömning, i vilken utreds, hur rehabilitandens begränsningar i kommunikation och i social interaktion påverkas av språk-, tal-, röst-, hörsel- och synbegränsningar och -störningar. Utgående från
+undersökningarna utreds förutsättningarna för och möjligheterna till rehabilitering.
+
+@END = 
+
+@KOODI = R1270 
+
+@NCSP = R1R270
+
+@SUOMI = Kasvatuksellisen kuntoutuksen tarpeen arviointi
+
+@RUOTSI = Utvärdering av behovet av fostrande rehabilitering
+
+@NOTE_F = Opetuksen ja kasvatuksen asiantuntijoiden arvio tutkittavan oppimisen edellytyksistä ja erityisopetuksen tarpeesta.
+
+@NOTE_S = Undervisnings- och uppfostringsexperters bedömning av rehabilitandens förutsättningar för inlärning och behov av specialundervisning.
+
+@END = 
+
+@KOODI = R1280 
+
+@NCSP = R1R280
+
+@SUOMI = Ammatillisen kuntoutuksen tarpeen arviointi
+
+@RUOTSI = Utvärdering av behovet av yrkesinriktad rehabilitering
+
+@NOTE_F = Asiantuntijan arvio tutkittavan mahdollisuuksista ja tarvittavista toimenpiteistä työllistyä, selviytyä nykyisessä työssään tai siirtyä uusiin tehtäviin. Arvioijina muun muassa erityistyövoimaneuvojat, kuntoutusohjaajat tai työklinikat.
+
+@NOTE_S = En experts bedömning av rehabilitandens möjligheter att börja arbeta eller av nödvändiga åtgärder för att personen skall klara av det nuvarande arbetet eller övergå till nya uppgifter. Bedömningen ges bl. a. av specialarbetskraftsrådgivarna,
+rehabiliteringshandledarna eller arbetsklinikerna.
+
+@END = 
+
+@KOODI_A = R13
+
+@NCSP_A = R1R3
+
+@SUOMI_A = Kuntoutuskokeilut
+
+@RUOTSI_A = Rehabilitateringsförsök
+
+@ENGL_A = Trial periods
+
+@NOTE_RF = Käytännön tilanteissa tai vastaavissa toimintaympäristöissä suoritetut, ajallisesti rajatut kokeilut sekä niihin liittyvät tutkimukset ja arvioinnit henkilön kuntoutumismahdollisuuksista.
+
+@NOTE_RF =
+Kokeiluissa määrä ilmoitetaan kokeilupäivinä eikä kertoina.
+
+@NOTE_RS = Tidsmässigt begränsade försök, utförda i praktiska situationer eller i motsvarande verksamhetsmiljöer samt undersökningar och utvärderingar i anslutning till dem om en persons rehabiliteringsmöjligheter.
+
+@NOTE_RS =
+När det gäller försöken anges mängden i antalen försöksdagar, inte i gånger.
+
+@END = 
+
+@KOODI = R1310 
+
+@NCSP = R1R310
+
+@SUOMI = Päivähoitokokeilu
+
+@RUOTSI = Dagvårdsförsök
+
+@NOTE_F = Kuntoutusta tarvitsevan lapsen päivähoidon järjestämiseen liittyvä kokeilu sisältäen myös henkilöstön ja vanhempien ohjauksen.
+
+@NOTE_S = Ett försök i anslutning till organisering av dagvård för barnet i behov av rehabilitering. Innefattar även handledningen av personal och föräldrar.
+
+@END = 
+
+@KOODI = R1320 
+
+@NCSP = R1R320
+
+@SUOMI = Koulutuskokeilu
+
+@RUOTSI = Utbildningsförsök
+
+@NOTE_F = Kuntoutusta tarvitsevan henkilön koulunkäynnin, ammatillisen tai muun opiskelun järjestämiseen liittyvä kokeilu, jossa selvitetään hänen mahdollisuutensa suorittaa opintoja sekä selviytyä niistä. Sisältää myös henkilöstön ja vanhempien ohjauksen.
+
+@NOTE_S = Försök att arrangera skolgång, yrkesutbildning eller andra studier med utredning om rehabilitandens förmåga att framgångsrikt genomföra studier. Innefattar handledning av personal och föräldrar.
+
+@END = 
+
+@KOODI = R1330 
+
+@NCSP = R1R330
+
+@SUOMI = Työkokeilu työklinikalla
+
+@RUOTSI = Arbetsförsök på arbetsklinik
+
+@NOTE_F = Kokeilu, jossa selvitetään kuntoutujan edellytyksiä ja mahdollisuuksia suoriutua työelämässä.Työkokeilussa kokeillaan työtehtävistä suoritutumista joko työklinikalla tai työklinikan ohjauksessa normaalissa työpaikassa.
+
+@NOTE_S = Försök att utreda rehabilitandens förutsättningar och möjligheter att klara sig i arbetslivet. Vid arbetsförsöket testas arbetsupgifter antingen på arbetskliniken eller under handledning av arbetskliniken på en normal arbetsplats.
+
+@END = 
+
+@KOODI = R1340 
+
+@NCSP = R1R340
+
+@SUOMI = Työkokeilu työpaikalla
+
+@RUOTSI = Arbetsförsök på arbetsplats
+
+@NOTE_F = Kokeilu, jossa selvitetään kuntoutujan mahdollisuudet suoriutua työtehtävistä ja sopeutua työympäristöön ja sen asettamiin ehtoihin normaaleissa työolosuhteissa.
+
+@NOTE_F =
+Toteutetaan yleensä yhteistyössä työvoimatoimiston kanssa.
+
+@NOTE_S = Försök att utreda rehabilitandens möjligheter att klara av arbetsupgifter och anpassa sig i omgivningen och krav i normala arbetsförhållanden.
+
+@NOTE_S =
+Försöket genomförs i allmänhet i samarbete med arbetskraftsbyrån.
+
+@END = 
+
+@KOODI = R1350 
+
+@NCSP = R1R350
+
+@SUOMI = Asumiskokeilu
+
+@RUOTSI = Boendeförsök
+
+@NOTE_F = Kokeilu, jossa selvitetään kuntoutujan edellytykset itsenäiseen asumiseen ja siihen tarvittavat tukitoimenpiteet. Kokeilu voidaan toteuttaa sairaalan tai kuntoutuslaitoksen yhteydessä olevissa asumiskokeiluun varatuissa tiloissa,
+palvelutaloissa, ryhmäkodissa tai itsenäisessä asumisessa.
+
+@NOTE_S = Försök att utreda rehabilitandens förutsättningar till självständig boende  och de stödåtgärder som möjligen behövs. Försöket kan genomföras i utrymmen reserverade för boendeförsök på sjukhus eller rehabiliteringsinrättning, servicehemm,
+grupphemm eller i självständigt boende.
+
+@END = 
+
+@KOODI_A = R14
+
+@NCSP_A = R1R4
+
+@SUOMI_A = Kuntoutussuunnitelma
+
+@RUOTSI_A = Rehabiliteringsplan
+
+@ENGL_A = Rehabilitation plan
+
+@END = 
+
+@KOODI = R1410 
+
+@NCSP = R1R400
+
+@SUOMI = Kuntoutussuunnitelman laatiminen
+
+@RUOTSI = Utarbetandet av rehabiliteringsplanen
+
+@NOTE_F = Kuntoutussuunnitelma perustuu yleensä moniammatilliseen arvioon kuntoutustarpeesta ja - mahdollisuuksista, kuntoutuksen tavoitteista, tarvittavista kuntoutustoimenpiteistä sekä kuntoutuksen järjestämisestä ja seurannasta. Kuntoutussuunnitelma on 
+samalla kuntoutujan kanssa tehty sopimus kuntoutuksen tavoitteista ja menetelmistä.
+
+@NOTE_F =
+Kuntoutussuunnitelma on ainoa luokka, jota voidaan käyttää yksittäisen käynnin yhteydessä muiden luokkien rinnalla.
+
+@NOTE_S = Rehabiliteringsplanen grundar sig i allmänhet på en  bedömning av rehabiliteringsbehov och  möjligheter, målsättningar, nödvändiga rehabiliteringsåtgärder, organiseringen och uppföljningen av rehabiliteringen, som är gjord med mångsidig
+expertis. Rehabiliteringsplanen är samtidigt ett avtal som ingåtts med rehabilitanden om rehabiliteringens mål och metoder.
+
+@NOTE_S =
+Rehabiliteringsplaneringsklassen är den enda underklassen som kan användas vid sidan av en annan klass, till exempel när  innehållet i besök registreras samtidigt som rehabiliteringsplanen utarbetas.
+
+@END = 
+
+@KOODI_R = R2
+
+@SUOMI_R = Kuntoutumista tukeva ohjaus
+
+@RUOTSI_R = Handledning som stöd för rehabilitatering
+
+@ENGL_R = Guidance supporting rehabilitation
+
+@END = 
+
+@KOODI_A = R21
+
+@NCSP_A = R2R1
+
+@SUOMI_A = Kuntoutusneuvonta ja kuntoutusohjaus
+
+@RUOTSI_A = Rehabiliteringsrådgivning och rehabiliteringshandledning
+
+@ENGL_A = Counselling and guidance in rehabilitation
+
+@NOTE_RF = Kuntoutujan, hänen perheensä ja lähiyhteisönsä tukemista, jonka tavoitteena on neuvonnan ja ohjauksen keinoin turvata kuntoutusprosessin tarkoituksenmukainen eteneminen ja lisätä vajaakuntoisen henkilön toimintamahdollisuuksia ja mahdollisimman 
+itsenäistä elämän hallintaa.
+
+@NOTE_RS = Stöd till rehabilitanden, dennas familj och närstående personer med syfte att genom rådgivning och handledning trygga att rehabiliteringsprocessen framskrider på ett ändamålsenligt sätt och öka den handikappade personens funktionsmöjligheter så 
+att denna får en så självständig kontroll över sitt liv som möjligt.
+
+@END = 
+
+@KOODI = R2110 
+
+@NCSP = R2R110
+
+@SUOMI = Ensitiedon antaminen
+
+@RUOTSI = Avgivande av första information
+
+@NOTE_F = Alkuvaiheen neuvontaa ja ohjausta, jossa vasta vammautuneelle tai pitkäaikaiseen sairauteen sairastuneelle sekä hänen perheelleen ja lähiyhteisölleen annetaan tietoa ja tukea. Tavoitteena on luoda edellytyksiä kuntoutumiselle sekä rohkaista
+omaisia sairastuneen tukemiseen.
+
+@NOTE_S = Rådgivning och handledning i begynnelseskedet för rehabilitanden som nyligen blivit handikappad eller insjuknat i en långvarig sjukdom. Innefattar också information och stöd för familj och närmaste krets. Syftet är att skapa förutsättningar för
+rehabilitering samt uppmuntra de anhöriga att stödja den insjuknade.
+
+@END = 
+
+@KOODI = R2120 
+
+@NCSP = R2R120
+
+@SUOMI = Kuntoutuspalveluita ja toimeentulon turvaamista koskeva neuvonta ja ohjaus
+
+@RUOTSI = Information och handledning angående rehabiliteringstjänster och social skydd
+
+@NOTE_F = Vammautuneelle tai pitkäaikaissairaalle annetaan tietoa kuntoutumismahdollisuuksista sekä kuntoutuspalveluista ja niihin hakeutumisesta. Neuvonta voi koskea myös sosiaaliturvaa ja muuta taloudellista tukea. Voi sisältää myös konkreettisen
+ohjauksen palvelujen piiriin ja avustamisen esimerkiksi lomakkeiden täyttämisessä tai viranomaisten kanssa asioitaessa.
+
+@NOTE_S = Den handikappade eller långtidssjuka ges information om rehabiliteringsmöjligheter samt rehabiliteringstjänster och hur man söker dem. Rådgivningen kan också gälla socialskydd och annat ekonomiskt stöd. Kan också innehålla konkret handledning i
+att använda sig av tjänster och assistens exempelvis i att fylla i blanketter eller uträtta ärenden hos myndigheter.
+
+@END = 
+
+@KOODI = R2130 
+
+@NCSP = R2R130
+
+@SUOMI = Itsenäistä selviytymistä edistävä neuvonta ja ohjaus
+
+@RUOTSI = Rådgivning och handledning om självständig levande
+
+@NOTE_F = Elinympäristössä selviytymiseen, itsestä huolehtimiseen, ravintoon, liikkumiseen ja elintapoihin liittyvä neuvonta. Voi sisältää myös asumiseen, asioimiseen, palvelujen käyttöön, apuvälineiden käyttöön, kommunikaatiotaitojen hallintaan sekä
+muihin elämänhallintaa ja sosiaalista toimintakykyä edistäviin tekijöihin sekä omien voimavarojen hyödyntämiseen liittyvän neuvonnan ja ohjauksen. Sisältää myös päiväkotien, koulujen, oppilaitosten ja työpaikkojen henkilöstön neuvonnan ja ohjauksen
+silloin kun se koskee yhtä kuntoutujaa.
+
+@NOTE_S = Att hjälpa rehabilitanden att klara sig i sin levnadsmiljö, ta hand om sig själv, ge råd om föda, motion eller levnadssätt. Kan också innehålla rådgivning och handledning angående boende, uträttande av ärenden, användning av tjänster, användning 
+av hjälpmedel,  kommunikationsförmågan samt övriga faktorer med avsikt att förbättra rehabilitandens kontroll över sitt liv och den sociala funktionsförmågan samt att hjälpa rehabilitanden att utnyttja sina egna resurser. Innehåller även rådgivning och
+handledning  av personalen i daghem, skolor, läroinrättningar och på arbetsplatser,  då det gäller verksamhet p.g.a. en rehabilitand.
+
+@END = 
+
+@KOODI_A = R22
+
+@NCSP_A = R2R2
+
+@SUOMI_A = Kasvatukselliseen kuntoukseen ohjaus
+
+@RUOTSI_A = Handledning i fostrande rehabilitering
+
+@ENGL_A = Guidance to educational rehabilitation
+
+@END = 
+
+@KOODI = R2210 
+
+@NCSP = R2R200
+
+@SUOMI = Kasvatukselliseen kuntoutukseen ohjaus
+
+@RUOTSI = Handledning i fostrande rehabilitering
+
+@NOTE_F = Kuntoutettavan oppimisen edellytysten vahvistamista ja erilaisten koulutukseen liittyvien vaihtoehtojen selvittämistä ja ohjausta koulutusvaihtoehtojen valintaan.
+
+@NOTE_S = Att stärka en handikappad eller långtidssjuk rehabilitands förutsättningar för inlärning i skol  eller närmiljö samt förklaring av olika möjligheter i anslutning till utbildningen.
+
+@END = 
+
+@KOODI_A = R23
+
+@NCSP_A = R2R3
+
+@SUOMI_A = Ammattiin ja työelämään ohjaus
+
+@RUOTSI_A = Handledning i rehabilitering till yrke och arbetsliv
+
+@ENGL_A = Guidance to occupation and working life
+
+@END = 
+
+@KOODI = R2310 
+
+@NCSP = R2R310
+
+@SUOMI = Ammatinvalinnanohjaus
+
+@RUOTSI = Yrkesvägledning
+
+@NOTE_F = Kuntoutujan auttamista selvittämään eri työaloja koskevaa soveltuvuuttaan ja henkilökohtaisia edellytyksiään.
+
+@NOTE_S = Att hjälpa rehabilitanden att reda ut sin lämplighet och personliga förutsättningar för olika arbetsförhållanden.
+
+@END = 
+
+@KOODI = R2320 
+
+@NCSP = R2R320
+
+@SUOMI = Työvoimaneuvonta
+
+@RUOTSI = Arbetshandledning
+
+@NOTE_F = Kuntoutujan työssä selviytymistä, elinkeinon harjoittamista sekä työllistymistä koskeva neuvonta.
+
+@NOTE_S = Rådgivning i hur rehabilitanden skall klara av att arbeta, utöva näring eller träda in i arbetslivet.
+
+@END = 
+
+@KOODI_R = R3
+
+@SUOMI_R = Kuntoutumista tukeva valmennus
+
+@RUOTSI_R = Träning som stöd för rehabilitatering
+
+@ENGL_R = Training that supports rehabilitation
+
+@END = 
+
+@KOODI_A = R31
+
+@NCSP_A = R3R1
+
+@SUOMI_A = Sopeutumisvalmennus
+
+@RUOTSI_A = Anpassningsträning
+
+@ENGL_A = Adaptation training
+
+@NOTE_RF = Kuntoutujan, hänen perheensä ja lähiyhteisönsä valmentamista selviämään sairastumisen ja vammautumisen aiheuttamassa elämäntilanteessa. Tavoitteena on fyysisen, psyykkisen ja sosiaalisen toimintakyvyn edistäminen. Sopeutumisvalmennukseen kuuluu 
+psykososiaalisen valmennuksen lisäksi myös muuta valmennusta (R3120 - R3160) kuntoutujan tarpeiden mukaisesti.
+
+@NOTE_RS = Träning av rehabilitanden, dennas familj och närstående personer att klara av den livssituation som förorsakats av att personen insjuknat eller blivit handikappad. Syftet är att befrämja rehabilitandens fysiska, psykiska och sociala
+funktionsförmåga.
+
+@NOTE_RS =
+I anpassningsträningen ingår förutom psykosocial träning även annan träning (R3120-R3160) enligt rehabilitandens behov.
+
+@END = 
+
+@KOODI = R3110 
+
+@NCSP = R3R110
+
+@SUOMI = Psykososiaalinen valmennus
+
+@RUOTSI = Psykosocial träning
+
+@NOTE_F = Kuntoutujan henkisten ja sosiaalisten edellytysten vahvistamista, jotta hän pystyisi elämään mahdollisimman täysipainoista elämää.
+
+@NOTE_F =
+Sisältää tarpeen mukaan myös kuntoutujan valmentamisen toimimaan vuorovaikutuksessa perhe-, työ- ja muissa arkielämän yhteisöissä sekä ohjauksen vammaan ja haittaan liittyvissä seksuaaliongelmissa.
+
+@NOTE_S = Förstärkning av rehabilitandens psykiska och sociala förutsättningar för att denna med sitt handikapp skall förmå leva ett så fullvärdigt liv som möjligt. Innehåller vid behov också träning av rehabilitanden att fungera i växelverkan i
+familjegemenskapen samt i arbets  och övriga gemenskaper i det vardagliga livet. Underklassen innefattar också handledning vid sexuella problem till följd av sjukdom eller skada.
+
+@END = 
+
+@KOODI = R3120 
+
+@NCSP = R3R120
+
+@SUOMI = Liikkumistaitojen valmennus
+
+@RUOTSI = Träning i rörelseförmåga
+
+@NOTE_F = Kuntoutujan opettamista ja valmentamista liikkumaan pyörätuolilla tai muun erityistä harjoittelua vaativan liikkumisvälineen (esimerkiksi auto) avulla.
+
+@NOTE_F =
+Sisältää myös esimerkiksi alaraajaproteesin käyttöön valmentamisen, halvauspotilaan liikkumisen harjoittamisen sekä näkövammaisen liikkumistaidon ohjauksen.
+
+@NOTE_S = Inlärning och träning av rehabilitanden att röra sig med hjälp av rullstol eller annan rörelseutrustning (t.ex. bil) som kräver särskild övning. Innehåller också exempelvis träning i att använda protes på nedre extremiteterna,
+förlamningspatienters övning i att röra sig samt mobility training för synskadade.
+
+@END = 
+
+@KOODI = R3130 
+
+@NCSP = R3R130
+
+@SUOMI = Päivittäisissä toimissa tarvittavien taitojen valmennus
+
+@RUOTSI = Träning i vardagsaktiviteter
+
+@NOTE_F = Kuntoutujan valmentamista arkipäivän elämässä tarvittavien taitojen, kuten pukeutumisen, peseytymisen, syömisen ja kodinhoidon hallintaan joko apuvälinein tai ilman.
+
+@NOTE_F =
+Sisältää myös esimerkiksi yläraajaproteesin käyttöön valmentamisen ja kehityksessä viivästyneiden lasten motoriikan harjoittamista.
+
+@NOTE_S = Träning av rehabilitanden i att behärska färdigheter som behövs i vardagslivet, som att klä på sig, tvätta sig, äta och sköta hemmet antingen med eller utan hjälpmedel. Underklassen innehåller också till exempel träning i att använda protes för
+övre extremiteterna och träning av motoriken hos barn med fördröjd utveckling.
+
+@NOTE_S =
+
+
+@END = 
+
+@KOODI = R3140 
+
+@NCSP = R3R140
+
+@SUOMI = Kommunikaatiotaitojen valmennus
+
+@RUOTSI = Träning av kommunikationsfärdigheterna
+
+@NOTE_F = Kuntoutujan tarvitsemien kommunikaatiotaitojen, kuten puheen, huulioluvun, pistekirjoituksen ja viittomakielen opetuksen ja harjoittelun sekä korvaavien kommunikaatiotaitojen (esimerkiksi symbolikielet, atk-apuvälineet) valmennuksen.
+
+@NOTE_F =
+Sisältää myös näkövammaisten näönkäytön opetuksen ja laajasti vuorovaikutustaitojen ohjauksen.
+
+@NOTE_S = Övning och träning i de kommunikationsfärdigheter rehabilitanden behöver eller kommunikationsfärdigheter som ersätter eller stöder talet eller undervisning i läppavläsning eller teckenspråk. Talersättande kommunikationsmedel är exempelvis
+användning av symbolspråk samt adb hjälpmedel. Genom träning stöds också synskadades kommunikationsfärdigheter, bl.a. användningen av adb eller punktskrift. Underklassen innehåller också annan stöd för kommunikationsfärdigheter.
+
+@END = 
+
+@KOODI = R3150 
+
+@NCSP = R3R150
+
+@SUOMI = Elinympäristön hallintaan valmentaminen
+
+@RUOTSI = Träning i att  bemästra levnadsmiljön
+
+@NOTE_F = Elinympäristön hallintaan ja siinä tarvittavien laitteiden käyttöön liittyvä valmennus.
+
+@NOTE_S = Träning i att kunna bemästra levnadsmiljön och den utrustning som behövs för ändamålet.
+
+@END = 
+
+@KOODI = R3160 
+
+@NCSP = R3R160
+
+@SUOMI = Koulutus- ja oppimistaitojen valmennus
+
+@RUOTSI = Träning av utbildnings  och inlärningsfärdigheter
+
+@NOTE_F = Koulunkäyntiin ja opiskeluun liittyvien taitojen valmennusta ja ohjausta.
+
+@NOTE_F =
+Sisältää mm. atk-välineiden käytön harjoitusta opiskelun apuvälineeksi.
+
+@NOTE_S = Träning av och handledning i färdigheter angående skolgång och studier. Innehåller bl.a. övning i att använda adb utrustning som hjälpmedel i studierna.
+
+@END = 
+
+@KOODI_A = R32
+
+@NCSP_A = R3R2
+
+@SUOMI_A = Yhteisövalmennus
+
+@RUOTSI_A = Träning i att leva i gemenskap
+
+@ENGL_A = Communal training
+
+@END = 
+
+@KOODI = R3210 
+
+@NCSP = R3R200
+
+@SUOMI = Yhteisövalmennus
+
+@RUOTSI = Träning i att leva i gemenskap
+
+@NOTE_F = Hoito- tai asuinyhteisössä tapahtuvaa, esimerkiksi mielenterveys- ja päihdehuollon potilaiden sekä kehitysvammaisten kokonaisvaltaista valmentamista.
+
+@NOTE_F =
+Sisältää myös perheen ja lähiyhteisön ohjauksen.
+
+@NOTE_F =
+Yhteisövalmennus perustuu kuntoutussuunnitelmaan.
+
+@NOTE_F =
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+
+@NOTE_S = Helhetsbetonad träning av personen i avsikt att lära denna att klara sig i samhället.  Gäller exempelvis mentalvårds  och missbrukspatienter och utvecklingsstörda. Innehåller även handledning av familj och närastående personer. Träningen grundar 
+sig på rehabiliteringsplanen.
+
+@NOTE_S =
+Vid tillämpning av underklassen i registreringen används antal träningsdagar, inte gånger för att beskriva mängden.
+
+@END = 
+
+@KOODI_A = R33
+
+@NCSP_A = R3R3
+
+@SUOMI_A = Asumisvalmennus
+
+@RUOTSI_A = Boendeträning
+
+@ENGL_A = Housing training
+
+@END = 
+
+@KOODI = R3310 
+
+@NCSP = R3R300
+
+@SUOMI = Asumisvalmennus
+
+@RUOTSI = Boendeträning
+
+@NOTE_F = Yksilöllisesti tai ryhmässä tapahtuvaa valmennusta itsenäiseen asumiseen. Valmennus koskee selviytymistä kotona, kun yhteisövalmennus (R3200) koskee laajemmin selviytymistä myös sosiaalisen ympäristön kanssa.
+
+@NOTE_F =
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+
+@NOTE_S = Individuell träning eller träning i grupp för självständigt boende. Träningen går ut på att klara sig hemma, medan samhällsträningen (R3210) går ut på att rehabilitanden bättre ska klara sig i den sociala miljön. Vid tillämpning av underklassen
+i registreringen används antal träningsdagar, inte gånger för att beskriva mängden.
+
+@END = 
+
+@KOODI_A = R34
+
+@NCSP_A = R3R4
+
+@SUOMI_A = Kuntoutumista tukeva koulutus
+
+@RUOTSI_A = Utbildning som stöd för rehabilitering
+
+@ENGL_A = Education supporting rehabilitation
+
+@END = 
+
+@KOODI = R3410 
+
+@NCSP = R3R410
+
+@SUOMI = Erityisopetus peruskoulussa, lukiossa tai kansanopistossa
+
+@RUOTSI = Undervisning i specialklass i grundskola eller gymnasium
+
+@END = 
+
+@KOODI = R3420 
+
+@NCSP = R3R420
+
+@SUOMI = Koulutus yleisissä ammatillisissa oppilaitoksissa
+
+@RUOTSI = Utbildning vid allmänna yrkesläroanstalter
+
+@END = 
+
+@KOODI = R3430 
+
+@NCSP = R3R430
+
+@SUOMI = Koulutus ammattikorkea- ja korkeakouluissa sekä yliopistoissa
+
+@RUOTSI = Utbildning vid yrkeshögskolor och högskolor samt universitet
+
+@END = 
+
+@KOODI = R3440 
+
+@NCSP = R3R440
+
+@SUOMI = Koulutus aikuiskoulutuskeskuksissa tai ammattikursseilla
+
+@RUOTSI = Utbildning vid vuxenutbildningscentraler eller yrkeskurser
+
+@END = 
+
+@KOODI = R3450 
+
+@NCSP = R3R450
+
+@SUOMI = Koulutus ammatillisissa erityisoppilaitoksissa
+
+@RUOTSI = Utbildning vid yrkesinriktade specialläroanstalter
+
+@END = 
+
+@KOODI = R3460 
+
+@NCSP = R3R460
+
+@SUOMI = Oppisopimuskoulutus
+
+@RUOTSI = Läroavtalsutbildning
+
+@END = 
+
+@KOODI = R3470 
+
+@NCSP = R3R470
+
+@SUOMI = Muu koulutus
+
+@RUOTSI = Annan utbildning
+
+@NOTE_F = Sisältää myös yksityiset oppilaitokset
+
+@NOTE_S = Innesluter även privata läroinrättningar.
+
+@END = 
+
+@KOODI_A = R35
+
+@NCSP_A = R3R5
+
+@SUOMI_A = Ammatillista kuntoutumista tukeva valmennus
+
+@RUOTSI_A = Träning som stöd för yrkesinriktad rehabilitering
+
+@ENGL_A = Training that supports vocational rehabilitation
+
+@NOTE_RF = Kuntoutujan valmentamista ja hänen fyysisten, psyykkisten ja sosiaalisten edellytystensä vahvistamista nykyisissä tai uusissa työtehtävissä selviytymiseen.
+
+@NOTE_RS = Träning av rehabilitanden och stärkande av dennas fysiska, psykiska och sociala förutsättningar för att klara av nuvarande eller nya arbetsuppgifter.
+
+@END = 
+
+@KOODI = R3510 
+
+@NCSP = R3R510
+
+@SUOMI = Työhön valmennus
+
+@RUOTSI = Träning för arbete
+
+@NOTE_F = Työssä tarvittavien valmiuksien hankkimista työpaikalla toteutettavan yksilöllisen ohjelman puitteissa.
+
+@NOTE_S = Träning på arbetsplatsen av färdigheterna för arbetet enligt ett individuellt program
+
+@END = 
+
+@KOODI = R3520 
+
+@NCSP = R3R520
+
+@SUOMI = Työkykyä ylläpitävä ja parantava valmennus
+
+@RUOTSI = Träning i avsikt att upprätthålla och förbättra arbetsförmågan
+
+@NOTE_F = Toimintaa, jonka avulla työnantaja ja työntekijä sekä työpaikan yhteistoimintaorganisaatiot yhteistyössä pyrkivät edistämään ja tukemaan työelämässä olevan työ- ja toimintakykyä hänen työuransa kaikissa vaiheissa.
+
+@NOTE_S = Verksamhet, genom vilken arbetsgivaren och arbetstagaren samt samarbetsorganisationer på arbetsplatsen i samarbete försöker befrämja rehabilitandens arbets  och funktionsförmåga i dennas arbete.
+
+@END = 
+
+@KOODI = R3530 
+
+@NCSP = R3R530
+
+@SUOMI = Ammatillisesti syventävä lääkinnällinen kuntoutus
+
+@RUOTSI = Medicinsk rehabilitering i avsikt att fördjupa yrkeskunskaperna
+
+@NOTE_F = Toimintaa, jonka avulla tuetaan ammattiryhmäkohtaisesti vajaakuntoisen työntekijän fyysisiä ja henkisiä voimavaroja työssä selviytymiseksi.
+
+@NOTE_S = Verksamhet planerad för olika yrkesgrupper genom vilken man stöder en handikappad arbetares fysiska och psykiska resurser för att klara sig i arbetet.
+
+@END = 
+
+@KOODI = R3540 
+
+@NCSP = R3R540
+
+@SUOMI = Kuntouttava työtoiminta
+
+@RUOTSI = Rehabiliterande arbetsverksamhet
+
+@NOTE_F = Työkeskuksissa ja vastaavissa toteutettavaa työtoimintaa, jonka tavoitteena on sosiaalisen toimintakyvyn ylläpitäminen ja elämänsisällön hankkiminen ilman ansiotulon hankkimistarkoitusta.
+
+@NOTE_S = Arbetsverksamhet i arbetscentraler eller andra liknande inrättningar för att upprätthålla rehabilitandens sociala funktionsförmåga och ge rehabilitanden innehåll i livet utan att syftet är förvärvsinkomst.
+
+@END = 
+
+@KOODI_A = R36
+
+@NCSP_A = R3R6
+
+@SUOMI_A = Harrastus- ja vapaa-aikatoiminnan tukeminen
+
+@RUOTSI_A = Träning i hobby  och fritidsverksamhet
+
+@ENGL_A = Supporting recreational and other free-time activities
+
+@END = 
+
+@KOODI = R3610 
+
+@NCSP = R3R600
+
+@SUOMI = Harrastus- ja vapaa-aikatoiminnan ohjaus
+
+@RUOTSI = Träning i hobby  och fritidsverksamhet
+
+@NOTE_F = Kuntoutussuunnitelmaan sisältyvää ohjattua harrastus- ja vapaa-ajan toiminnan harjoittelua, jonka tavoitteena on lisätä kuntoutujan elämän sisältöä sekä elämänlaatua.
+
+@NOTE_S = Rådgivning och träning med syfte att öka rehabilitandens livsinnehåll och livskvalitet med hjälp av hobby- och fritidsverksamhet. Träningen skall ingå i rehabiliteringsplanen.
+
+@END = 
+
+@KOODI_R = R4
+
+@SUOMI_R = Kuntoutumista edistävät terapiat
+
+@RUOTSI_R = Terapier för befrämjande av rehabilitering
+
+@ENGL_R = Therapies enhancing rehabilitation
+
+@NOTE_RF = Ei sisällä aiempiin ryhmiin (R1-R3) sisältyviä toimintoja. Esimerkiksi fysioterapian käyttö sopeutumisvalmennuksen osana tulee koodata ryhmään R3120.
+
+@NOTE_RS = Innefattar ej funktioner i föregående grupper (R1-R3). T.ex. fysioterapi för träning av anpassningsförmåga bör anges med kod R3120.
+
+@END = 
+
+@KOODI_A = R41
+
+@NCSP_A = R4R1
+
+@SUOMI_A = Kuntoutumista tukevat terapiat
+
+@RUOTSI_A = Terapier som stöd för rehabilitering
+
+@ENGL_A = Therapies as part of rehabilitation
+
+@NOTE_RF = Terapioiden tulee perustua kuntoutussuunnitelmaan ja vastata sisällöltään kyseisen ammatillisen koulutuksen saaneen henkilön toteuttamaa terapiaa.
+
+@NOTE_RS = Terapierna bör grunda sig på rehabiliteringsplanen och till innehållet motsvara den terapi som ges av en person som fått ifrågavarande yrkesutbildning.
+
+@END = 
+
+@KOODI = R4110 
+
+@NCSP = R4R110
+
+@SUOMI = Fysioterapia
+
+@RUOTSI = Fysioterapi
+
+@NOTE_F = Kuntoutujan liikkumis- ja toimintakyvyn edistämistä sekä ylläpitämistä.
+
+@NOTE_S = Befrämjande och upprätthållande av rehabilitandens rörelse  och funktionsförmåga med hjälp av terapi.
+
+@END = 
+
+@KOODI = R4120 
+
+@NCSP = R4R120
+
+@SUOMI = Toimintaterapia
+
+@RUOTSI = Ergoterapi
+
+@NOTE_F = Kuntoutujan toimintakyvyn edistämistä ja ylläpitämistä.
+
+@NOTE_S = Befrämjande och upprätthållande av rehabilitandens funktionsförmåga med hjälp av terapi.
+
+@END = 
+
+@KOODI = R4130 
+
+@NCSP = R4R130
+
+@SUOMI = Puheterapia
+
+@RUOTSI = Talterapy
+
+@NOTE_F = Kuntoutujan puhe-, ääni- ja kommunikaatio-ongelmien parantamista tai helpottamista. Puheterapiassa pyritään vaikuttamaan niihin perusvalmiuksiin, jotka ovat puheen ymmärtämisen ja tuottamisen edellytyksiä.
+
+@NOTE_F =
+
+
+@NOTE_S = Eliminering och underlättande av rehabilitandens språk , tal , röst  och kommunikationsstörningar. I talterapin försöker man påverka de färdigheter som är förutsättningar för den verbala och icke-verbala kommunikationsförmågan.
+
+@END = 
+
+@KOODI = R4140 
+
+@NCSP = R4R140
+
+@SUOMI = Psykoterapia
+
+@RUOTSI = Psykoterapi
+
+@NOTE_F = Kuntoutujan psyykkisen toimintakyvyn vahvistamista ja lisäämistä. Kuntoutus kohdistuu ihmisen ajatteluun, tunteisiin ja toimintaan sekä näiden välisiin yhteyksiin.
+
+@NOTE_S = Stärkande och förbättring av rehabilitandens psykiska funktionsförmåga. Psykoterapi är en förhand planerad serie av diskussioner individuellt eller i grupp tillsammans med en expert.
+
+@END = 
+
+@KOODI = R4150 
+
+@NCSP = R4R150
+
+@SUOMI = Neuropsykologinen kuntoutus
+
+@RUOTSI = Neuropsykologisk rehabilitering
+
+@NOTE_F = Aivosairauksien ja -vaurioiden jälkeisten henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden lieventämistä, henkisen toimintakykyisyyden parantamista sekä sairauteen tai vammaan sopeutumisen edistämistä.
+
+@NOTE_S = Rehabiliteringen går ut på att lindra allmänna störningar och specialstörningar i psykiska funktioner till följd av hjärnsjukdomar och hjärnskador, förbättra den psykiska funktionsförmågan samt hjälpa rehabilitanden att anpassa sig till
+sjukdomen eller handikappet.
+
+@END = 
+
+@KOODI = R4160 
+
+@NCSP = R4R160
+
+@SUOMI = Muu kuntoutumista edistävä terapia
+
+@RUOTSI = Övrig rehabiliteringsfrämjande terapi
+
+@NOTE_F = Kuntoutumisen toteuttamisessa voidaan käyttää myös muita kuin lääkinnällisen kuntoutuksen asetuksessa (1991/1015) mainittuja terapiamuotoja, jotka edistävät kuntoutujan toimintakykyä ja lisäävät hänen elämänlaatuaan sekä -hallintaansa. Tällaisia 
+terapiamuotoja ovat asiantuntijan ohjauksessa toteutettuina mm. kuvataideterapia, musiikkiterapia sekä ratsastusterapia. Näiden terapiamuotojen käyttö kuntoutuksessa edellyttää, että ne on sisällytetty kuntoutussuunnitelmaan ja niiden tuloksia seurataan
+ja arvioidaan.
+
+@NOTE_S = Vid rehabiliteringen kan också tillämpas andra än i förordningen för medicinsk rehabilitering nämnda terapiformer och -funktioner, som främjar rehabilitandens funktionsförmåga och ökar livskvaliteten och livskontrollen. Terapiformer av detta
+slag, (bl.a. bildkonstterapi, musikterapi och ridterapi) är, genomförda under handledning av en sakkunnig. I underklassen ingår även arbetsterapin, som har för avsikt att befrämja den sociala funktionsförmågan. En förutsättning för att de här
+terapiformerna ska kunna tillämpas vid rehabiliteringen är att de inneslutits i rehabiliteringsplanen och att resultaten av dem följs upp och utvärderas.
+
+@END = 
+
+@KOODI = R4170 
+
+@NCSP = R4R170
+
+@SUOMI = Kasvatuksellisen kuntoutuksen terapiamuodot
+
+@RUOTSI = Terapiformer i  fostrande rehabilitering
+
+@NOTE_F = Yksilön kasvun, kehittymisen ja oppimisen tueksi annettavaa terapiaa.
+
+@NOTE_S = Handledning som ges vid uppfostrings  och familjerådgivning för att stöda individens uppväxt, utveckling och inlärning.
+
+@END = 
+
+@KOODI_R = R5
+
+@SUOMI_R = Muut kuntoutuspalvelut
+
+@RUOTSI_R = Övriga rehabiliteringstjänster
+
+@ENGL_R = Other rehabilitation services
+
+@END = 
+
+@KOODI_A = R51
+
+@NCSP_A = R5R1
+
+@SUOMI_A = Apuvälinepalvelut
+
+@RUOTSI_A = Hjälpmedelstjänster
+
+@ENGL_A = Aids services
+
+@NOTE_RF = Apuvälineillä tarkoitetaan toimintavajavuuden korvaamiseen tai lieventämiseen tarkoitettu ja välineitä, laitteita tai vastaavia, joita vajaakuntoinen tai vammainen tarvitsee selviytyäk- seen päivittäisessä elämässään. Apuvälineisiin luetaan
+myös kuntoutuksessa tarvittavat hoito- ja harjoitusvälineet, vammaisen auttamisessa tarvittavat välineet sekä vammaispal- velulain mukaiset välineet.
+
+@NOTE_RS = Med hjälpmedel menas redskap, apparater eller motsvarande, avsedda att ersätta eller lindra funktionsbrister, som den handikappade behöver för att klara sig i det dagliga livet. Till hjälpmedel räknas också i rehabiliteringen nödvändiga vård-,
+övnings  och kommunikationsmedel, hjälpmedel som behövs för att hjälpa den handikappade samt hjälpmedel i enlighet med lagen om handikappservice
+
+@END = 
+
+@KOODI = R5110 
+
+@NCSP = R5R110
+
+@SUOMI = Apuvälinetarpeen arviointi, apuvälineen valinta, kokeilu ja sovitus sekä käytön opetus ja luovutus
+
+@RUOTSI = Bedömning av behov av hjälpmedel, utprovning, försök med och val av hjälpmedel samt skolning i användning av hjälpmedel och överlåtelse av detsamma
+
+@END = 
+
+@KOODI = R5120 
+
+@NCSP = R5R120
+
+@SUOMI = Apuvälineen valmistus
+
+@RUOTSI = Tillverkning av hjälpmedel
+
+@END = 
+
+@KOODI = R5130 
+
+@NCSP = R5R130
+
+@SUOMI = Apuvälineen korjaus ja huolto
+
+@RUOTSI = Reparation och service av hjälpmedel
+
+@END = 
+
+@KOODI = R5140 
+
+@NCSP = R5R140
+
+@SUOMI = Apuvälineen käytön seuranta
+
+@RUOTSI = Uppföljning av hjälpmedlets användning
+
+@END = 
+
+@KOODI_A = R52
+
+@NCSP_A = R5R2
+
+@SUOMI_A = Asumiseen ja elinympäristön hallintaan liittyvät muutostyöt
+
+@RUOTSI_A = Ändringsarbeten i anslutning till boendet och bemästrandet av levnadsmiljön
+
+@ENGL_A = Improvements concerning housing and environment
+
+@END = 
+
+@KOODI = R5210 
+
+@NCSP = R5R210
+
+@SUOMI = Arvio elinympäristössä tarvittavista muutostöistä
+
+@RUOTSI = Bedömning av nödvändiga ändringsarbeten i livsmiljön
+
+@NOTE_F = Arvio ja suositus asuin- ja elinympäristössä tarvittavista muutostöistä.
+
+@NOTE_S = Bedömning och rekommendation av nödvändiga ändringsarbeten i boende- och levnadsmiljön.
+
+@END = 
+
+@KOODI = R5220 
+
+@NCSP = R5R220
+
+@SUOMI = Elinympäristön muutostyöt
+
+@RUOTSI = Ändringsarbeten i levnadsmiljön
+
+@NOTE_F = Asunnon- ja asuinympäristön muutostyöt sekä työpaikan muutostyöt.
+
+@NOTE_S = Ändringsarbeten i bostaden, levnadsmiljön och på arbetsplatsen.
+
+@END = 
+
+@KOODI = R5230 
+
+@NCSP = R5R230
+
+@SUOMI = Ympäristön hallintaa tukevat muut muutostyöt
+
+@RUOTSI = Övriga ändringsarbeten med avsikt att förbättra kontrollen över levnadsmiljön
+
+@NOTE_F = Ympäristönhallintalaitteiden sekä liikkumisvälineiden (esimerkiksi auto) käyttöön sekä hankintaan liittyvät muutostyöt.
+
+@NOTE_S = Ändringsarbeten i anslutning till användning och anskaffning av apparater för kontroll av miljön eller fortskaffningsmedel för rörelsehindrade (exempelvis bil).
+
+@END = 
+
+@KOODI_A = R53
+
+@NCSP_A = R5R3
+
+@SUOMI_A = Työllistymisen tukeminen
+
+@RUOTSI_A = Stöd av sysselsättning
+
+@ENGL_A = Supporting the person's becoming employed
+
+@END = 
+
+@KOODI = R5310 
+
+@NCSP = R5R310
+
+@SUOMI = Työhönsijoitus ilman taloudellisia tukitoimia
+
+@RUOTSI = Utplacering i arbete utan ekonomiska stödåtgärder
+
+@NOTE_F = Kuntoutujan työllistyminen työnvälityspalvelun avulla ilman taloudellisia tukitoimia.
+
+@NOTE_S = Sysselsättning av rehabilitanden med hjälp av arbetsförmedlingstjänsten utan ekonomiska stödåtgärder.
+
+@END = 
+
+@KOODI = R5320 
+
+@NCSP = R5R320
+
+@SUOMI = Työhönsijoitus taloudellisten tukitoimien avulla
+
+@RUOTSI = Utplacering i arbete med hjälp av ekonomiska stödåtgärder
+
+@NOTE_F = Kuntoutujan työhönsijoitus työnantajalle maksettavan työolosuhteiden järjestelytuen perusteella. Työhönsijoitus voi tapahtua työkokeilun, työharjoittelun tai laajemman palvelukokonaisuuden tuella.
+
+@NOTE_S = Utplacering av rehabilitanden på basis av organisationsstöd som betalas till arbetsgivaren. Utplaceringen kan ske med stöd av arbetsförsök, arbetspraktik eller en mera omfattande servicehelhet.
+
+@END = 
+
+@KOODI = R5330 
+
+@NCSP = R5R330
+
+@SUOMI = Oman elinkeinon harjoittamisen tukeminen
+
+@RUOTSI = Stöd för utövande av egen näring
+
+@END = 
+
+@KOODI = R5340 
+
+@NCSP = R5R340
+
+@SUOMI = Työelämässä pysymisen tukitoimet
+
+@RUOTSI = Stödåtgärder för att hålla kvar rehabilitanden i arbetslivet
+
+@END = 
+
+@KOODI = R5350 
+
+@NCSP = R5R350
+
+@SUOMI = Suojatyö
+
+@RUOTSI = Skyddsarbete
+
+@END = 
+
+@KOODI_A = R54
+
+@NCSP_A = R5R4
+
+@SUOMI_A = Henkilökohtaiset palvelut ja tukitoimet
+
+@RUOTSI_A = Personliga tjänster och stödåtgärder
+
+@ENGL_A = Personal services and supportive measures
+
+@NOTE_RF = Henkilökohtaiset palvelut ja tukitoimet ovat jatkuvaluonteisia palveluita, joita myönnetään vammaiselle henkilölle selviytymisen edistämiseksi ja tukemiseksi.
+
+@NOTE_RS = Personliga tjänster och stödåtgärder är till naturen fortlöpande tjänster, som beviljas handikappade personer för att befrämja och stödja dessa i att reda sig på egen hand.
+
+@NOTE_RS =
+
+
+@END = 
+
+@KOODI = R5410 
+
+@NCSP = R5R410
+
+@SUOMI = Kuljetus- ja saattajapalvelut
+
+@RUOTSI = Färd  och färdledartjänster
+
+@NOTE_F = Vammaisen henkilön liikkumisessa tarvittavia, jatkuvaluonteisia kuljetus- ja saattajapalveluja, jotka järjestetään vammaispalvelulain (380/1987) mukaisena toimintana.
+
+@NOTE_S = Nödvändiga, fortlöpande transport  och färdledartjänster för att en handikappad person skall kunna förflytta sig, och som arrangeras i enlighet med lagen om handikapptjänster.
+
+@END = 
+
+@KOODI = R5420 
+
+@NCSP = R5R420
+
+@SUOMI = Opaskoirapalvelut
+
+@RUOTSI = Ledarhundtjänster
+
+@NOTE_F = Lääkinnällisenä kuntoutuksena tai vastaavin järjestelyin toteutetut opas- ja avustajakoirapalvelut sekä niihin liittyvä taloudellinen tuki.
+
+@NOTE_S = Ledarhund  och assistenthundtjänster samt ekonomiskt stöd i anslutning till dessa som genomförts i form av medicinsk rehabilitering eller motsvarande arrangemang.
+
+@END = 
+
+@KOODI = R5430 
+
+@NCSP = R5R430
+
+@SUOMI = Tulkkipalvelut
+
+@RUOTSI = Tolktjänster
+
+@NOTE_F = Kuulovammaisten, kuurosokeiden ja puhevammaisten tulkkipalvelut.
+
+@NOTE_S = Tolktjänster för döva, dövblinda och personer med talsvårigheter.
+
+@END = 
+
+@KOODI = R5440 
+
+@NCSP = R5R440
+
+@SUOMI = Koulunkäynti- ja opiskeluavustajan palvelut
+
+@RUOTSI = Skolgångsbiträde  och studiebiträdetjänster
+
+@NOTE_F = Koulunkäynnissä ja opiskelussa tarvittavat avustajan palvelut.
+
+@NOTE_S = Tjänster givna av biträde  som behövs vid skolgång och studier.
+
+@END = 
+
+@KOODI = R5450 
+
+@NCSP = R5R450
+
+@SUOMI = Henkilökohtaisen avustajan palvelut
+
+@RUOTSI = Personlig assistent
+
+@NOTE_F = Vammaispalvelulain (380/1987) mukaiset, jatkuvaluonteiset palvelut.
+
+@NOTE_S = Tjänster av fortgående karaktär, i enlighet med lagen om handikappservice (380/1987).
+
+@END = 
+
+@KOODI = R5460 
+
+@NCSP = R5R460
+
+@SUOMI = Palveluasumiseen liittyvät tukitoimet
+
+@RUOTSI = Stödåtgärder i anslutning till serviceboende
+
+@NOTE_F = Vaikeavammaisen palveluasuminen omassa kodissa, palveluasuntoryhmässä tai vaikeavammaisten palvelutalossa asumiseen liittyvine tukitoimineen, joiden kustannuksista kunta vastaa täysimääräisesti vammaispalvelulain mukaisena toimintana.
+
+@NOTE_S = Serviceboende för svårt handikappade i det egna hemmet, i servicebostadsgrupp eller servicehus jämte däri ingående stödåtgärder, för vars kostnader kommunen svarar till fullt belopp som verksamhet avsedd i lagen om handikappservice (1987/380).
+
+@NOTE_S =
+
+
+@END = 
+
+@KOODI_A = R55
+
+@NCSP_A = R5R5
+
+@SUOMI_A = Muut kuntoutuspalvelut
+
+@RUOTSI_A = Övriga rehabiliteringstjänster
+
+@ENGL_A = Other rehabilitation services
+
+@END = 
+
+@KOODI = R5599 
+
+@NCSP = R5R599
+
+@SUOMI = Muu kuntoutuspalvelu
+
+@RUOTSI = Annan rehabiliteringstjänst
+
+@NOTE_F = Tätä luokkaa voi käyttää vain tilanteissa, jossa annettu palvelu ei sovi mihinkään muuhun luokkaan.
+
+@NOTE_S = Klassen tillämpas bara i speciella situationer, om den givna rehabiliteringsservicen inte passar in i någon annan klass.
+
+@END = 

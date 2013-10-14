@@ -1,0 +1,987 @@
+
+###
+#KOODI_L    H
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mammary gland
+#RUOTSI     ---
+#ENGL       Mammary gland
+###
+#KOODI_R    HA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on mammary gland
+#RUOTSI     ---
+#ENGL       Operations on mammary gland
+###
+#KOODI_A    HAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision, suture and biopsy of mammary gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      HAA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAA01  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Partial excision of mammary gland
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Reconstruction, see: HAE
+#OHJE_R 
+---
+###
+#KOODI      HAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstirpasjon av lesjon i mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Microductektomi i mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mikroductektomi i mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikroductektomi i mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av melkegang
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av mamille eller areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brystvorte eller areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brystvorte eller areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kilereseksjon av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reseksjon av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HAC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Mastectomy
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      HAC10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Subkutan mastektomi med bevarelse av mamille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Subkutan mastektomi med bevaring av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkutan mastektomi med bevaring av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Subkutan mastektomi med eksisjon av mamille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC15  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Subkutan mastektomi med eksisjon av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC15  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkutan mastektomi med eksisjon av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total mastektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikal mastektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av overtallig mamma eller mamille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av overtallig mamma eller brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av overtallig mamma eller brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAC99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen mastektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HAD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Plastic operations on breast
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Reconstruction after mastectomy
+#OHJE_R 
+---
+###
+#KOODI      HAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Augmentasjonsmammoplastikk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Augmentasjon av mamma med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsuging i mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduksjonsmammoplastikk med transposisjon av areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduksjonsmammoplastikk med transplantasjon av areola
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mastopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD40  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mastopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD40  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mastopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mastopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mastopeksi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD45  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eversjon av mamille
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD45  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eversjon av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD45  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eversjon av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD45  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eversjon av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD45  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eversjon av brystvorte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD55  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av fibrøs kapsel rundt mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD57  
+#MUUT_PVM   2008/10/21
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av fibrøs kapsel rundt mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD60  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskiftning av mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD60  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskifting av mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD60  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskifting av mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD60  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utskifting av mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD60  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utskifting av mammaprotese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAD99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen plastisk operasjon på mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HADE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HAE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reconstruction of breast
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+After mastectomy or in aplasiaAdditional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      HAE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med bløtvev og protese
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av areola og mamille med transplantat el lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE20  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr areola og brystvorte med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE20  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr areola og brystvorte med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av areola og brystvorte med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av areola og brystvorte med transplantat eller lapp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen rekonstruksjon av mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HAF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for local recurrence of breast cancer
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Additional code for specification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      HAF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av lokalrecidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF00  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF00  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr mamma m/transpl/lapp etter exisj lokalt ca-recidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF10  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr mamma m transpl/lapp e/ eksisj lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF10  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr mamma m transpl/lapp e/ eksisj lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med transplantat eller lapp etter eksisjon av lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF10  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med transplantat eller lapp etter eksisjon av lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr mamma m/protese etter eksisjon av lokalt ca-recidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF20  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr mamma m protese e/ eksisjon lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF20  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr mamma m protese e/ eksisjon lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med protese etter eksisjon av lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av mamma med protese etter eksisjon av lokalt cancerresidiv
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for lokalrecidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF99  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF99  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAF99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for lokalresidiv av mammacancer
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      HAOB72 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi i mamma
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    HW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations on mammary gland
+#RUOTSI     ---
+#ENGL       Reoperations on mammary gland
+#OHJE_S  
+Puncture, needle biopsy and other minor procedures, see: THA
+#OHJE_R 
+---
+###
+#KOODI_A    HWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      HWA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial infection in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Wound infection
+#OHJE_R 
+---
+###
+#KOODI      HWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HWC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep infection in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Infection at the site of target structures
+#OHJE_R 
+---
+###
+#KOODI      HWC00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp infeksjon ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      HWD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk blødning ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HWE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for deep haemorrhage in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Haemorrhage or haematoma at the site of target structures
+#OHJE_R 
+---
+###
+#KOODI      HWE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for dyp blødning ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HWF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for insufficiency of anastomosis or suture in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      HWF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for suturinsuffisiens ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    HWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperation in surgery of mammary gland
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      HWW99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon ved mammakirurgi
+#RUOTSI     ---
+#LYHENNE    

@@ -1,0 +1,3034 @@
+
+###
+#KOODI_L    L
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Naisen sukupuoliemet
+#RUOTSI     Kvinnliga genitalier
+#ENGL       Female genital organs
+#OHJE_S  
+Vatsaontelon toimenpiteet ks. luku J. - esim.  tähystys kohdassa JAH01
+Vatsaontelon elimiin levinneiden muutosten (metastaasi, endometrioosi) toimenpiteet koodataan ko elimen mukaisesti.
+#OHJE_R 
+Åtgärder i bukhålan, se kapitel J t.ex laparoskopi JAH01
+Spridda lokala förändringar (metastas, endometrios) i abdominala organ koderas till organet i fråga
+###
+#KOODI_R    LA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Munasarjat
+#RUOTSI     Ovarier
+#ENGL       Ovary
+###
+#KOODI      LA001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munasarjojen ja munajohtimien primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i äggstocket eller äggledare
+#LYHENNE    Sädeh ovar/tuban prim.kasv. preop hoiton
+###
+#KOODI      LA002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali munasarjojen ja munajohtimien primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i äggstocket eller äggledare
+#LYHENNE    Radik ovar/tuban prim.kasv. sädehoito
+###
+#KOODI      LA003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munasarjojen ja munajohtimien primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i äggstocket eller äggledare
+#LYHENNE    Sädeh ovar/tuban prim.kasv. liit.hoiton
+###
+#KOODI      LA004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munasarjojen ja munajohtimien primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i äggstocket eller äggledare
+#LYHENNE    Sädeh ovar/tuban prim.kasv. palliat hoit
+###
+#KOODI      LA029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munasarjojen ja munajohtimien paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt primärtumör i äggstocket eller äggledare
+#LYHENNE    Sädeh ovar/tuban paik uus.kasv hoitona
+###
+#KOODI      LA049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munasarjoissa tai munajohtimissa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i äggstocket eller äggledare
+#LYHENNE    Sädeh ovar/tuban metastaasin hoitona
+###
+#KOODI      LA090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito munasarjojen ja munajohtimien profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av äggstocket eller äggledare
+#LYHENNE    Sädeh ovar/tuban prim.kasv. profyl hoito
+###
+#KOODI      LA099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu munasarjojen sädehoito
+#RUOTSI     Annan strålbehandling av ovarium
+#LYHENNE    Muu munasarjojen sädehoito
+###
+#KOODI      LA1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9061      
+#SUOMI      Munasarjapunktio UÄ-ohjauksessa
+#RUOTSI     Ovariepunktion, UL-styrd
+#LYHENNE    Munasarjapunk,UÄ-ohj
+###
+#KOODI      LA2AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6189      
+#SUOMI      Munasarjarakkulan UÄ (follikkelin UÄ)
+#RUOTSI     Follikel UL av äggstockar
+#LYHENNE    Follikkelin UÄ
+###
+#KOODI      LA2HE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6191      
+#SUOMI      Munasarjarakkulan uudelleen mittaus
+#RUOTSI     Upprepad mätning av follilkel i äggstockarna med UL
+#LYHENNE    Follikkeli,mitta-UÄ
+###
+#KOODI      LA2JE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6188      
+#SUOMI      Kuukautiskierron kartoitus toistetulla follikkelin UÄ-mittauksella
+#RUOTSI     Precisering av menstruationcykeln med upprepade UL follikelmätningar
+#LYHENNE    Follik.kartoitus-UÄ
+###
+#KOODI      LAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjarakkulan tyhjennys neulalla
+#RUOTSI     Punktion av ovarialcysta vid laparotomi
+#LYHENNE    Munasarjarakkulan tyhjennys neulalla
+###
+#KOODI      LAA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1411      
+#SUOMI      Munasarjarakkulan tyhjennys neulalla vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk punktion av ovarialcysta
+#LYHENNE    Munasarjarakkulan punktio LAP
+###
+#KOODI      LAA03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209+     
+#SUOMI      Munasarjarakkulan tyhjennys neulalla iholta
+#RUOTSI     Perkutan punktion av ovarialcysta
+#LYHENNE    Munasarjarakkulan punktio iholta
+###
+#KOODI      LAA06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209+     
+#SUOMI      Munasarjarakkulan tyhjennys neulalla emättimestä
+#RUOTSI     Transvaginal punktion av ovarialcysta
+#LYHENNE    Munasarjarakkulan punktio emättimestä
+###
+#KOODI      LAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209+     
+#SUOMI      Munasolun ottaminen munasarjasta iholta käsin tai emättimestä
+#RUOTSI     Perkutan eller transvaginal punktion med uthämtning av ägg
+#LYHENNE    Munasolun otto ovariosta iholta/emättime
+###
+#KOODI      LAA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1411      
+#SUOMI      Munasolun ottaminen munasarjasta tähystysteitse
+#RUOTSI     Laparoskopisk uthämtning av ägg
+#LYHENNE    Munasolun ottaminen ovariosta,tähystys
+###
+#KOODI      LAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Lääkeen ruiskuttaminen munasarjaraskauteen iholta käsin tai emättimestä
+#RUOTSI     Perkutan eller transvaginal injektion av läkemedel för behandling av ovarialgraviditet
+#LYHENNE    Hääkeruiske ovarioraskauteen iholta/emät
+###
+#KOODI      LAA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Munasarjantähystys
+#RUOTSI     Ovarioskopi
+#LYHENNE    Munasarjantähystys
+###
+#KOODI      LAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209+     
+#SUOMI      Muu iholta tai emättimestä käsin tehty munasarjapisto
+#RUOTSI     Annan perkutan eller transvaginal punktion av ovarium
+#LYHENNE    Muu munasarjapisto iholta/emättimestä
+###
+#KOODI      LAA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1411      
+#SUOMI      Muu munasarjan pisto tähystyksessä
+#RUOTSI     Annan laparoskopisk punktion av ovarium
+#LYHENNE    Muu munasarjan pisto tähystyksessä
+###
+#KOODI      LAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjan aukaisu
+#RUOTSI     Öppen ovariotomi
+#LYHENNE    Munasarjan aukaisu
+#OHJE_S  
+Sisältää vierasesineen poiston
+#OHJE_R 
+Inkluderar avlägsnande av främmande kropp
+###
+#KOODI      LAB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjan aukaisu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk ovariotomi
+#LYHENNE    Munasarjan aukaisu LAP
+#OHJE_S  
+Sisältää vierasesineen poiston
+#OHJE_R 
+Inkluderar avlägsnande av främmande kropp
+###
+#KOODI      LAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Koepalan otto munasarjasta
+#RUOTSI     Öppen biopsi av ovarium
+#LYHENNE    Koepalan otto munasarjasta
+###
+#KOODI      LAB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Koepalan otto munasarjasta vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk biopsi av ovarium
+#LYHENNE    Biopsia munasarjasta LAP
+###
+#KOODI      LAB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Kudosnäytteen otto munasarjasta neulalla vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk punktionsbiopsi av ovarium
+#LYHENNE    Neulakudosnäytteen otto munasarjasta LAP
+###
+#KOODI      LAB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201+     
+#SUOMI      Muu munasarjan aukaisu tai kudosnäytteen otto
+#RUOTSI     Annan öppen incision eller biopsi av ovarium
+#LYHENNE    Muu munasarjan aukaisu/biopsia
+###
+#KOODI      LAB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Muu munasarjan aukaisu tai kudosnäytteen otto vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk incision eller biopsi av ovarium
+#LYHENNE    Muu munasarjan aukaisu/biopsia LAP
+###
+#KOODI      LAC00 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjarakkulan poisto
+#RUOTSI     Öppen enukleation av ovarialcysta
+#LYHENNE    Munasarjarakkulan poisto
+###
+#KOODI      LAC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjarakkulan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk enukleation av ovarialcysta
+#LYHENNE    Munasarjarakkulan poisto LAP
+###
+#KOODI      LAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjarakkulan aukaisu ja reunan ompelu
+#RUOTSI     Öppen fenestrering eller marsupialisation av ovarialcysta
+#LYHENNE    Ovariokystan fenestr/marsupialisaatio
+###
+#KOODI      LAC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjarakkulan aukaisu ja reunan ompelu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk fenestrering eller marsupialisation av ovarialcysta
+#LYHENNE    Ovariokystafenestr/marsupialisaatio LAP
+###
+#KOODI      LAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjamuutosten poisto
+#RUOTSI     Destruktion av förändring i ovarium (öppen operation)
+#LYHENNE    Munasarjamuutosten poisto
+#OHJE_S  
+Esim. endometrioosin poltto, polykystisen munasarjan kapselin pisto
+#OHJE_R 
+Inkl koagulation av endometrios, kapselpunktioner vid polycystiskt ovarium (PCO)
+###
+#KOODI      LAC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjamuutosten poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk destruktion av förändring i ovarium
+#LYHENNE    Munasarjamuutosten poisto LAP
+###
+#KOODI      LAC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8206      
+#SUOMI      Munajohdinliepeen rakkulan poisto
+#RUOTSI     Öppen exstirpation av parovarialcysta
+#LYHENNE    Munajohdinliepeen rakkulan poisto
+###
+#KOODI      LAC31 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munajohdinliepeen rakkulan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk exstirpation av parovarialcysta
+#LYHENNE    Parovariaalirakkulan poisto LAP
+###
+#KOODI      LAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Muu munasarjamuutosten poistoleikkaus tai vastaava
+#RUOTSI     Annan öppen resektion av ovarium eller destruktion av förändring i ovarium
+#LYHENNE    Muu munasarjamuutospoisto/vastaava
+###
+#KOODI      LAC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munasarjamuutosten poistoleikkaus tai vastaava tähystyksessä ihon läpi
+#RUOTSI     Annan laparoskopisk resektion av ovarium eller destruktion av förändring i ovarium
+#LYHENNE    Muu munasarjamuutospoisto/vastaava LAP
+###
+#KOODI_A    LA_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Munasarjan diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av ovarium
+#ENGL       Diagnostic radiology of ovary
+###
+#KOODI      LAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munasarjan osan poisto
+#RUOTSI     Delresektion av ovarium
+#LYHENNE    Munasarjan osan poisto
+###
+#KOODI      LAD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjan osan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk delresektion av ovarium
+#LYHENNE    Munasarjan osan poisto LAP
+###
+#KOODI      LAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8202      
+#SUOMI      Toisen munasarjan poisto
+#RUOTSI     Öppen unilateral ooforektomi
+#LYHENNE    Toisen munasarjan poisto
+###
+#KOODI      LAE11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Toisen munasarjan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk unilateral ooforektomi
+#LYHENNE    Toisen munasarjan poisto LAP
+###
+#KOODI      LAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8202      
+#SUOMI      Munasarjojen poisto
+#RUOTSI     Öppen bilateral ooforektomi
+#LYHENNE    Munasarjojen poisto
+###
+#KOODI      LAE21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjojen poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk bilateral ooforektomi
+#LYHENNE    Munasarjojen poisto LAP
+###
+#KOODI      LAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8204      
+#SUOMI      Toisen munanjohtimen ja munasarjan poisto
+#RUOTSI     Öppen unilateral salpingo-ooforektomi
+#LYHENNE    Toisen munanjohtimen+munasarjan poisto
+###
+#KOODI      LAF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Toisen munanjohtimen ja munasarjan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk unilateral salpingo-ooforektomi
+#LYHENNE    Toisen tuban/ovarion poisto LAP
+###
+#KOODI      LAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8204+     
+#SUOMI      Molempien munanjohtimien ja munasarjojen poisto
+#RUOTSI     Öppen bilateral salpingo-ooforektomi
+#LYHENNE    Molempien tuubien+ovarioiden poisto
+###
+#KOODI      LAF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Molempien munanjohtimien ja munasarjojen poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk bilateral salpingo-ooforektomi
+#LYHENNE    Molempien tuubien+ovarioiden poisto LAP
+###
+#KOODI      LAF16 
+#MUUT_PVM   1996/12/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8205+     
+#SUOMI      Kohdun, sivuelimien, suoliliepeen ja lantio- ja aorttaimusolmukkeiden poisto munasarjasyövän takia
+#RUOTSI     Excision av uterus, adenex, oment och lymfkörtlar i bäcken och para-aortalt för ovarial cancer
+#LYHENNE    Kohtu&sivuelin poisto munasarjasyövässä
+###
+#KOODI      LAF20 
+#MUUT_PVM   2006/09/15
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munasarjan ja munajohtimen toispuolinen poisto emättimen kautta
+#RUOTSI     Transvaginal unilateral salpingo-oophorectomi
+#LYHENNE    Transvagin unilat.salpingo-oophorektomia
+###
+#KOODI      LAF30 
+#MUUT_PVM   2006/09/15
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munasarjan ja munajohtimen molemmin puolinen poisto emättimen kautta
+#RUOTSI     Transvaginal bilateral salpingo-oophorectomi
+#LYHENNE    Transvagin bilat.salpingo-oophorektomia
+###
+#KOODI      LAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8211      
+#SUOMI      Munasarjakiinnikkeiden irroittelu
+#RUOTSI     Ovariolys (öppen operation)
+#LYHENNE    Munasarjakiinnikkeiden irroittelu
+###
+#KOODI      LAG01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjakiinnikkeiden irroittelu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk ovariolys
+#LYHENNE    Munasarjakiinnikkeiden irroittelu LAP
+###
+#KOODI      LAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munasarjan kiinnitys
+#RUOTSI     Öppen ooforopexi
+#LYHENNE    Munasarjan kiinnitys
+###
+#KOODI      LAG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjan kiinnitys vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk ooforopexi
+#LYHENNE    Munasarjan kiinnitys LAP
+###
+#KOODI      LAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munasarjan kiertymän oikaisu
+#RUOTSI     Öppen detorkvering av ovarialtorsion
+#LYHENNE    Munasarjan kiertymän oikaisu
+#OHJE_S  
+Sisältää munatorven samanaikaisen kiertymän oikaisun
+#OHJE_R 
+Inkl ev detorkverering av tuba
+###
+#KOODI      LAG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munasarjan kiertymän oikaisu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk detorkvering av ovarialtorsion
+#LYHENNE    Munasarjan kiertymän oikaisu LAP
+###
+#KOODI      LAG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Muu korjaava munasarjatoimenpide
+#RUOTSI     Annan öppen rekonstruktiv operation på ovarium
+#LYHENNE    Muu korjaava munasarjatoimenpide
+###
+#KOODI      LAG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu korjaava munasarjatoimenpide vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk rekonstruktiv operation på ovarium
+#LYHENNE    Muu korjaava munasarjatoimenpide LAP
+###
+#KOODI      LAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Muu munasarjaleikkaus
+#RUOTSI     Annan öppen operation på ovarium
+#LYHENNE    Muu munasarjaleikkaus
+###
+#KOODI      LAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munasarjaleikkaus vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk operation på ovarium
+#LYHENNE    Muu munasarjaleikkaus HAP
+###
+#KOODI_R    LB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Munanjohtimet
+#RUOTSI     Äggledare
+#ENGL       Fallopian tube
+#OHJE_S  
+Sterilisaatiot kohdassa LG
+#OHJE_R 
+Sterilisationsoperationer, se LG
+###
+#KOODI      LB1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Munajohtimen punktio UÄ-ohjauksessa
+#RUOTSI     Äggledarpunktion  UL-styrd
+#LYHENNE    Munajoht.punk,UÄ-ohj
+###
+#KOODI      LB1GB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5644      
+#SUOMI      Kohdun ja munajohdinten varjoainetutkimus (hysterosalpingograf)
+#RUOTSI     Hysterosalpingografi
+#LYHENNE    Hysterosalpingograf.
+###
+#KOODI      LB1LB 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5651      
+#SUOMI      Sukupuolitiehyiden varjoainetutkimus (genitografia)
+#RUOTSI     Genitografi
+#LYHENNE    Genitografia
+###
+#KOODI      LB1YT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9290      
+#SUOMI      Munajohtimen katetrisaatio radiologisessa ohjauksessa
+#RUOTSI     Äggledarkatetrisring, radiologiskt styrd
+#LYHENNE    Tubakatetrisaatio
+###
+#KOODI      LBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munanjohtimen pisto ihon läpi
+#RUOTSI     Perkutan punktion av äggledare
+#LYHENNE    Munanjohtimen pisto ihon läpi
+###
+#KOODI      LBA01 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Munajohtimien pisto vatsaontelontähystyksessä
+#RUOTSI     Laparoskopisk punktion av äggledare
+#LYHENNE    Munajohtimien pisto vatsaontelontähystyk
+###
+#KOODI      LBA03 
+#MUUT_PVM   1997/12/20
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8119      
+#SUOMI      Munajohtimen pisto emättimen kautta
+#RUOTSI     Transvaginal punktion av äggledare
+#LYHENNE    Munasarjan pisto emättimen kautta
+###
+#KOODI      LBA07 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Munanjohtimen tähystys vatsaontelon kautta
+#RUOTSI     Salpingoskopi
+#LYHENNE    Salpingoskopia
+###
+#KOODI      LBA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1998/11/06
+#POISTETTU
+#VANHA      8209      
+#SUOMI      Muu munanjohtimen pisto tai tähystys
+#RUOTSI     Annan punktion av äggledare eller salpingoskopisk operation på äggledare
+#LYHENNE    Muu munanjohtimen pisto tai tähystys
+###
+#KOODI      LBA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/02/05
+#POISTETTU
+#VANHA      1413      
+#SUOMI      Muu munanjohtimen pisto vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk punktion av äggledare
+#LYHENNE    Muu munanjohtimen pisto LAP
+###
+#KOODI      LBA98 
+#MUUT_PVM   1997/12/20
+#KAYTPVM    1996/01/01
+#POISTPVM   1999/02/05
+#POISTETTU
+#VANHA      1549+     
+#SUOMI      Munanjohtimen pisto tähystyksessä kohdun sisätilan läpi
+#RUOTSI     Punktion av ägglädare i transuteral skopi
+#LYHENNE    Tuban pisto tähystyksessä kohdun läpi
+###
+#KOODI      LBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Koepalan otto munanjohtimesta
+#RUOTSI     Öppen biopsi av äggledare
+#LYHENNE    Koepalan otto munanjohtimesta
+###
+#KOODI      LBB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Koepalan otto munanjohtimesta vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk biopsi av äggledare
+#LYHENNE    Biopsia munanjohtimestaLAP
+###
+#KOODI      LBB04 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1549      
+#SUOMI      Koepalan otto munanjohtimen sisältä tähystyksessä vatsaontelon kautta
+#RUOTSI     Salpingoskopisk biopsi av äggledare
+#LYHENNE    Biopsia munanjohtimesta salpingoskopiass
+###
+#KOODI      LBB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Neulakudosnäytteen otto munanjohtimesta vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk punktionsbiopsi av äggledare
+#LYHENNE    Neulakudosnäyte munanjohtimesta LAP
+###
+#KOODI      LBB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Muu kudosnäytteen otto munanjohtimesta
+#RUOTSI     Annan biopsi av äggledare
+#LYHENNE    Muu kudosnäytteen otto munanjohtimesta
+###
+#KOODI      LBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8239      
+#SUOMI      Lääkkeen ruiskuttaminen munatorviraskauteen iholta käsin
+#RUOTSI     Perkutan injektion av läkemedel för behandling av tubargraviditet
+#LYHENNE    Lääkeruiske munatorviraskauteen iholta
+###
+#KOODI      LBC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8239      
+#SUOMI      Lääkkeen ruiskuttaminen munatorviraskauteen emättimestä käsin
+#RUOTSI     Transvaginal injektion av läkemedel för behandling av tubargraviditet
+#LYHENNE    Lääkeruiske munatorviraskauteen emättime
+###
+#KOODI      LBC07 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Lääkkeen ruiskuttaminen munatorviraskauteen vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk injektion av läkemedel för behandling av tubargraviditet
+#LYHENNE    Hääkeruiske munatorviraskauteen LAP
+###
+#KOODI      LBC08 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8239      
+#SUOMI      Lääkkeen ruiskuttaminen munatorviraskauteen munanjohtimen sisätilan tähystyksessä
+#RUOTSI     Falloposkopisk injektion av läkemedel för behandling av tubargraviditet
+#LYHENNE    Hääkeruiske tubaraskauteen falloposkopi
+###
+#KOODI      LBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8235      
+#SUOMI      Raskauden poisto munanjohtimesta ilman munanjohtimen aukaisua
+#RUOTSI     Utrymning av tubargraviditet utan salpingotomi (öppen operation)
+#LYHENNE    Raskauden poisto tubasta ilman aukaisua
+###
+#KOODI      LBC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Raskauden poisto munanjohtimesta ilman munanjohtimen aukaisua vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk utrymning av tubargraviditet utan salpingotomi
+#LYHENNE    Raskauden poisto tubasta avaamatta LAP
+###
+#KOODI      LBC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8234      
+#SUOMI      Raskauden poisto munanjohdinaukaisusta
+#RUOTSI     Öppen salpingotomi med utrymning av tubargraviditet
+#LYHENNE    Raskauden poisto munanjohdinaukaisusta
+###
+#KOODI      LBC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Raskauden poisto munanjohdinaukaisusta vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk salpingotomi med utrymning av tubargraviditet
+#LYHENNE    Raskauden poisto,munanjohdinaukaisu LAP
+###
+#KOODI      LBC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8239      
+#SUOMI      Muu avoin säästävä munanjohdinraskauden poisto
+#RUOTSI     Annan öppen behandling av tubargraviditet utan resektion
+#LYHENNE    Muu avoin säästävä tubaraskauden poisto
+###
+#KOODI      LBC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu vatsaontelon tähystyksessä tehty säästävä munanjohdinraskauden poisto
+#RUOTSI     Annan laparoskopisk behandling av tubargraviditet utan resektion
+#LYHENNE    Muu säästävä tubaraskauden poisto LAP
+###
+#KOODI      LBC98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu synnytyskanavan sisätilan tähystyksessä tehty säästävä munanjohdinraskauden poisto
+#RUOTSI     Annan transluminal endoskopisk behandling av tubargraviditet utan resektion
+#LYHENNE    Muu sääst tubaraskauspoisto falloposkopi
+###
+#KOODI_A    LB_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Munajohtimien diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av äggledare
+#ENGL       Diagnostic radiology of fallopian tube
+###
+#KOODI      LBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munanjohtimen osan poisto
+#RUOTSI     Delresektion av tuba (öppen operation)
+#LYHENNE    Munanjohtimen osan poisto
+###
+#KOODI      LBD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen osan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk delresektion av tuba
+#LYHENNE    Munanjohtimen osan poisto LAP
+###
+#KOODI_A    LB_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Munajohtimien tähystys
+#RUOTSI     Endoskopi av äggledare
+#ENGL       Endoscopy of fallopian tube
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      LBE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8203      
+#SUOMI      Munanjohtimen poisto
+#RUOTSI     Salpingektomi (öppen operation)
+#LYHENNE    Munanjohtimen poisto
+###
+#KOODI      LBE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk salpingektomi
+#LYHENNE    Munanjohtimen poisto LAP
+###
+#KOODI      LBF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8117      
+#SUOMI      Munanjohtimen huuhtelu
+#RUOTSI     Genomspolning av äggledare, pertubation (öppen operation)
+#LYHENNE    Munanjohtimen huuhtelu
+#OHJE_S  
+Pertubatio
+#OHJE_R 
+---
+###
+#KOODI      LBF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Munanjohtimen huuhtelu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk genomspolning av äggledare
+#LYHENNE    Munanjohtimen huuhtelu LAP
+###
+#KOODI      LBF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1219      
+#SUOMI      Keinohedelmöitys vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk konstgjord befruktning
+#LYHENNE    Keinohedelmöitys LAP
+#OHJE_S  
+esim. GIFT
+#OHJE_R 
+T.ex. GIFT
+###
+#KOODI      LBF12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8219      
+#SUOMI      Keinohedelmöitys kohduntähystyksessä
+#RUOTSI     Hysteroskopisk konstgjord befruktning
+#LYHENNE    Keinohedelmöitys kohduntähystyksessä
+#OHJE_S  
+esim. GIFT
+#OHJE_R 
+T.ex. vid GIFT
+###
+#KOODI      LBF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munanjohtimen laajennus katetrin avulla, TCSP
+#RUOTSI     Transcervikal tubardilatation med kateter, TCSP
+#LYHENNE    Munanjohtimen laajennus katetrilla,TCSP
+###
+#KOODI      LBF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8211      
+#SUOMI      Munanjohtimen kiinnikkeiden irrottelu
+#RUOTSI     Öppen salpingolys
+#LYHENNE    Munanjohtimen kiinnikkeiden irrottelu
+###
+#KOODI      LBF31 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen kiinnikeiden irrottelu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk salpingolys
+#LYHENNE    Salpingolysis HAP
+###
+#KOODI      LBF40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8211      
+#SUOMI      Munanjohtimen ulokkeiden irrottelu
+#RUOTSI     Fimbriolys
+#LYHENNE    Munanjohtimen ulokkeiden irrottelu
+###
+#KOODI      LBF41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen ulokkeiden irrottelu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk fimbrieplastik
+#LYHENNE    Fimbriolyysi LAP
+###
+#KOODI      LBF50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8201      
+#SUOMI      Munanjohtimen aukaisu
+#RUOTSI     Öppen salpingostomi
+#LYHENNE    Munanjohtimen aukaisu
+###
+#KOODI      LBF51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen aukaisu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk salpingostomi
+#LYHENNE    Salpingostomia LAP
+###
+#KOODI      LBF60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munanjohtimen osan poisto ja päiden liittäminen
+#RUOTSI     Öppen tubarresektion med anastomos
+#LYHENNE    Munanjohtimen osan poisto/liittäminen
+###
+#KOODI      LBF61 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen osan poisto ja päiden liittäminen vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk tubarresektion med anastomos
+#LYHENNE    Munanjohtimen osan poisto/liitos LAP
+###
+#KOODI      LBF70 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Munanjohtimen osan poisto ja uudelleen liittäminen kohtuun
+#RUOTSI     Tubarresektion med reimplantation i uterus (öppen operation)
+#LYHENNE    Munanjohtimen osan poisto+liitos kohtuun
+###
+#KOODI      LBF71 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Munanjohtimen osan poisto ja uudelleen liittäminen kohtuun vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk tubarresektion med reimplantation i uterus
+#LYHENNE    Tuban osan poisto+liitos kohtuun LAP
+###
+#KOODI      LBF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Muu munanjohtimen korjausleikkaus
+#RUOTSI     Annan öppen operation på äggledare vid infertilitet
+#LYHENNE    Muu munanjohtimen korjausleikkaus
+###
+#KOODI      LBF97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munanjohtimen korjausleikkaus vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk operation på äggledare vid infertilitet
+#LYHENNE    Muu munanjohtimen korjausleikkaus LAP
+###
+#KOODI      LBW96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Muu munajohtimen leikkaus
+#RUOTSI     Annan öppen operation på äggledare
+#LYHENNE    Muu munajohtimen leikkaus
+###
+#KOODI      LBW97 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munajohtimen leikkaus vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk operation på äggledare
+#LYHENNE    Muu munajohtimen leikkaus LAP
+###
+#KOODI      LBW98 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu munajohtimen leikkaus kohduntähystyksessä
+#RUOTSI     Annan transluminal endoskopisk operation på äggledare
+#LYHENNE    Muu munajohtimen leikkaus,hysteroskopia
+###
+#KOODI_R    LC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kohtu ja sen kannatinsiteet
+#RUOTSI     Uterus och dess upphängningsapparat
+#ENGL       Uterus and uterine ligaments
+#OHJE_S  
+Kohdun kaulaosa kohdassa LD
+Emättimen kautta tehtävät laskeumaleikkaukset kohdassa LEF
+Sterilisaatio kohduntähystyksessä kohdassa LG
+Raskaudenaikaiset kohduntähystystoimenpiteet kohdassa MAA
+#OHJE_R 
+Operationer på cervix uteri, se LD
+Vaginala operationer för uterusprolaps, se LEF
+Hysteroskopisk sterilisation, se LG
+Hysteroskopiska operationer under graviditet, se MAA
+###
+#KOODI      LC001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i uterus eller parametriet
+#LYHENNE    Sädeh kohdun+ymp prim. kasv preop hoiton
+###
+#KOODI      LC002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali kohdun ja sen kannatinsiteiden  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i uterus eller parametriet
+#LYHENNE    Radik kohdun+ymp prim. kasv sädehoito
+###
+#KOODI      LC003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i uterus eller parametriet
+#LYHENNE    Sädeh kohdun+ymp prim. kasv liit.hoiton
+###
+#KOODI      LC004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kohdun ja sen kannatinsiteiden  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i uterus eller parametriet
+#LYHENNE    Sädeh kohdun+ymp prim. kasv palliat hoit
+###
+#KOODI      LC029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kohdun ja sen kannatinsiteiden  paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i uterus eller parametriet
+#LYHENNE    Sädeh kohdun+ymp paik.uus kasv hoitona
+###
+#KOODI      LC049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kohdussa tai sen kannatinsiteissä ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i uterus eller parametriet
+#LYHENNE    Sädeh kohdun+ymp metastaasin hoitona
+###
+#KOODI      LC090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito kohdun ja sen kannatinsiteiden  profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av uterus och parametriet
+#LYHENNE    Sädeh kohdun+ymp prim. kasv profyl hoito
+###
+#KOODI      LC099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kohdun ja sen kannatinsiteiden sädehoito
+#RUOTSI     Annan strålbehandling av uterus och parametriet
+#LYHENNE    Muu kohdun+ymp sädehoito
+###
+#KOODI      LC2AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6182      
+#SUOMI      Kohdun ja sivuelinten UÄ
+#RUOTSI     Livmoder och parametrier, UL
+#LYHENNE    Kohdun UÄ
+###
+#KOODI      LC2BE 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6187      
+#SUOMI      Kohdun, sivuelinten ja alavatsan UÄ emättimen kautta
+#RUOTSI     Livmoder, parametrier och nedre delen av buken, transvaginal UL
+#LYHENNE    Kohdun, sivuelinten ja alavatsan UÄ
+###
+#KOODI      LC2DE 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kohdun, sivuelinten ja alavatsan vaativa UÄ erikoistekniikoin
+#RUOTSI     Livmoder, parametrier och nedre delen av buken, UL med speciell teknik
+#LYHENNE    Gyn&alavats. vaat. UÄ
+###
+#KOODI      LC2HE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6190      
+#SUOMI      Kohdun ja munajohtimien UÄ varjoainetta käyttäen (HSG-UÄ)
+#RUOTSI     Livmoder och äggledarna, UL med kontrast
+#LYHENNE    HSG-UÄ
+###
+#KOODI      LC3AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6181      
+#SUOMI      Ehkäisykierukan paikantaminen tai muu yksittäisen gynekologisen kohteen UÄ
+#RUOTSI     Spiral (IUD) lokalisering eller undersökning av annan gynekologisk objekt med UL
+#LYHENNE    Ehk.kier.paikant. UÄ
+###
+#KOODI      LCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8101      
+#SUOMI      Koepalan otto kohdun seinämästä tai vieruskudoksesta
+#RUOTSI     Öppen biopsi av uterus eller parametrium
+#LYHENNE    Bipsia kohdun seinästä/vieruskudoksesta
+###
+#KOODI      LCA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1410      
+#SUOMI      Koepalan otto kohdun seinämästä tai vieruskudoksesta vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk biopsi av uterus eller parametrium
+#LYHENNE    Bipsia kohdun seinästä/vieruskud LAP
+###
+#KOODI      LCA06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8114      
+#SUOMI      Koepalan otto kohdun limakalvosta
+#RUOTSI     Biopsi av endometriet
+#LYHENNE    Koepalan otto kohdun limakalvosta
+#OHJE_S  
+Näytteen ottokohdun kaulaosasta kohdassa LDA
+#OHJE_R 
+Abrasio av enbart cervix, se LDAHysteroskopisk biopsi, se ULC
+###
+#KOODI      LCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8113      
+#SUOMI      Kohdun runko-osan kaavinta
+#RUOTSI     Abrasio av corpus uteri
+#LYHENNE    Kohdun runko-osan kaavinta
+#OHJE_S  
+Sisältää kohdunkaulan laajennuksen
+#OHJE_R 
+Inkl cervixdilatation
+###
+#KOODI      LCA13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8113      
+#SUOMI      Kohdun runko-osan ja kaulan kaavinta
+#RUOTSI     Abrasio av cervix och corpus uteri
+#LYHENNE    Kohdun runko-osan ja kaulan kaavinta
+#OHJE_S  
+Sisältää kohdunkaulan laajennuksen
+#OHJE_R 
+Inkl cervixdilatation
+###
+#KOODI      LCA16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Kohdun limakalvon tuhoaminen
+#RUOTSI     Destruktion av endometrium
+#LYHENNE    Kohdun limakalvon tuhoaminen
+#OHJE_S  
+Esim lämpökäsittelyllä
+#OHJE_R 
+T.ex. genom värmekoagulation
+###
+#KOODI      LCA17 
+#MUUT_PVM   1996/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM   2003/11/04
+#POISTETTU
+#VANHA                
+#SUOMI      Kohdun limakalvon lämpöhoito
+#RUOTSI     Värmebehandling av endometrium
+#LYHENNE    Kohdun limakalvon lämpöhoito
+###
+#KOODI      LCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8321      
+#SUOMI      Vierasesineen poisto kohdusta
+#RUOTSI     Extraktion av främmande kropp från uterus
+#LYHENNE    Vierasesineen poisto kohdusta
+#OHJE_S  
+Ei sisällä yksinkertaista kierukan poistoa, ks TLC02
+#OHJE_R 
+Exkl. enkel extraktion av IUD, se TLC02
+###
+#KOODI      LCA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Vierasesineen poisto kohdusta kohduntähystyksessä
+#RUOTSI     Hysteroskopisk extraktion av främmande kropp
+#LYHENNE    Vierasesinepoisto kohdusta tähystyksessä
+#OHJE_S  
+Ei sisällä yksinkertaista kierukan poistoa, ks TLC02
+Kierukan poisto raskauden aikana kohdassa MAA22
+#OHJE_R 
+Exkl. enkel extraktion av IUD, se TLC02
+Extraktion av IUD under graviditet, se MAA22
+###
+#KOODI      LCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8216+     
+#SUOMI      Munasolun tai alkion siirto kohtuun keinohedelmöityksessä
+#RUOTSI     Transfer av ägg eller embryo till uterus vid assisterad befruktning
+#LYHENNE    Munasolun/alkion siirto kohtuun
+###
+#KOODI      LCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Muu kohdun sisätoimenpide, kaavinta tai koepalan otto
+#RUOTSI     Annan intrauterin operation (abrasion, biopsi)
+#LYHENNE    Muu kohdun sisätmp,kaavinta tai biopsia
+###
+#KOODI      LCA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu kohdun sisätoimenpide, kaavinta tai koepalan otto kohduntähystyksessä
+#RUOTSI     Annan transluminal endoskopisk operation på uterus
+#LYHENNE    Muu  sisätmp/kaavinta/biopsia hysterosko
+###
+#KOODI      LCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8301      
+#SUOMI      Kohdun aukaisu
+#RUOTSI     Hysterotomi (öppen operation)
+#LYHENNE    Kohdun aukaisu
+#OHJE_S  
+Raskauden keskeyttämiseksi LCH 20
+#OHJE_R 
+Vid avbrytande av graviditet, se LCH20
+###
+#KOODI      LCB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdun aukaisu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk hysterotomi
+#LYHENNE    Hysterotomia,LAP
+###
+#KOODI      LCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8302      
+#SUOMI      Kohdun lihaskasvaimen poisto
+#RUOTSI     Myomexstirpation
+#LYHENNE    Kohdun lihaskasvaimen poisto
+#OHJE_S  
+Enukleaatio
+Keisarileikkauksen yhteydessä kohdassa MCA
+#OHJE_R 
+I samband med kejsarsnitt, se MCA
+###
+#KOODI      LCB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8302      
+#SUOMI      Kohdun lihaskasvaimen poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk myomexstirpation
+#LYHENNE    Myooman poisto LAP
+###
+#KOODI      LCB14 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Kohdun lihaskasvaimen poisto kohduntähystyksessä
+#RUOTSI     Hysteroskopisk myomexstirpation
+#LYHENNE    Myooman poisto kohduntähystyksessä
+###
+#KOODI      LCB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8302      
+#SUOMI      Kohdun lihaskasvaimen poisto emättimen kautta
+#RUOTSI     Vaginal myomexstipation
+#LYHENNE    Myooman poisto emättimen kautta
+###
+#KOODI      LCB25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Kohdun muutoksen poisto kohduntähystyksessä
+#RUOTSI     Hysteroskopi med exstirpation av förändring
+#LYHENNE    Kohdun muutoksen poisto kohduntähystykse
+#OHJE_S  
+esim. myoma, polyyppi
+#OHJE_R 
+T.ex. polyp
+###
+#KOODI      LCB28 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Kohdun limakalvon poisto kohduntähystyksessä
+#RUOTSI     Hysteroskopi med resektion av endometrium
+#LYHENNE    Kohdun limakalvon poisto kohduntähystyks
+###
+#KOODI      LCB32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Kohdun limakalvon tuhoaminen kohduntähystyksessä
+#RUOTSI     Hysteroskopi med destruktion av endometrium
+#LYHENNE    Kohdun limakalvon tuhoaminen kohduntähys
+###
+#KOODI      LCB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Muu kohdun muutoksen poisto
+#RUOTSI     Annan öppen excision eller destruktion av förändring i uterus
+#LYHENNE    Muu kohdun muutoksen poisto
+###
+#KOODI      LCB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu kohdun muutoksen poisto vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk excision eller destruktion av förändring i uterus
+#LYHENNE    Muu kohdun muutoksen poisto LAP
+###
+#KOODI      LCB98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu kohdun muutoksen poisto kohduntähystyksessä
+#RUOTSI     Annan transluminal endoskopisk excision eller destruktion av förändring i uterus
+#LYHENNE    Muu kohdun muutoksen poisto kohduntähyst
+###
+#KOODI      LCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Osittainen kohdun poisto
+#RUOTSI     Öppen resektion av uterus
+#LYHENNE    Osittainen kohdun poisto
+###
+#KOODI      LCC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Osittainen kohdun poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk resektion av uterus
+#LYHENNE    Osittainen kohdun poisto LAP
+###
+#KOODI      LCC05 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Kohdunseinän poisto kohduntähystyksessä
+#RUOTSI     Hysteroskopisk resektion av uterusvägg
+#LYHENNE    Kohdunseinän poisto kohduntähystyksessä
+#OHJE_S  
+Esim. septumin poisto
+#OHJE_R 
+Inkl delning av septum
+###
+#KOODI      LCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8305      
+#SUOMI      Kohdun runko-osan poisto
+#RUOTSI     Öppen supravaginal uterusamputation
+#LYHENNE    Kohdun runko-osan poisto
+#OHJE_S  
+Kohdun amputoiminen emättimen yläpuolelta sektiossa, ks MCA30
+#OHJE_R 
+Supravaginal uterusamputation vid kejsarsnitt, se MCA30
+###
+#KOODI      LCC11 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdun runko-osan poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk subtotal hysterektomi (LSH)
+#LYHENNE    Amputatio supravaginalis LAP
+###
+#KOODI      LCC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8305+     
+#SUOMI      Kohdun runko-osan poisto, emättimen kautta
+#RUOTSI     Supravaginal uterusamputation via vagina
+#LYHENNE    Amputatio supravaginalis alakautta
+###
+#KOODI      LCC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Muu osittainen kohdun poisto
+#RUOTSI     Annan öppen uterusresektion
+#LYHENNE    Muu osittainen kohdun poisto
+###
+#KOODI      LCC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu osittainen kohdun poisto vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk uterusresektion
+#LYHENNE    Muu osittainen kohdun poisto LAP
+###
+#KOODI_A    LC_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Kohdun ja sen kannatinsiteiden diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av uterus och dess upphängningsapparat
+#ENGL       Diagnostic radiology of uterus and uterine ligaments
+###
+#KOODI      LCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8306      
+#SUOMI      Kohdunpoisto
+#RUOTSI     Öppen hysterektomi
+#LYHENNE    Kohdunpoisto
+###
+#KOODI      LCD01 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdunpoisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk hysterektomi
+#LYHENNE    Kohdunpoisto vatsaontelon tähystyksessä
+###
+#KOODI      LCD04 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdunpoisto vatsaontelon tähystyksessä emättimen kautta avustaen
+#RUOTSI     Laparoskopiassisterad hysterektomi via vagina
+#LYHENNE    Kohdunpoisto emättimen kautta + LAP
+###
+#KOODI      LCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8436+     
+#SUOMI      Kohdunpoisto emättimen kautta
+#RUOTSI     Vaginal hysterektomi
+#LYHENNE    Kohdunpoisto emättimen kautta
+###
+#KOODI      LCD11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413+     
+#SUOMI      Kohdunpoisto emättimen kautta vatsaontelon tähystystimellä avustaen
+#RUOTSI     Laparoskopiskt assisterad vaginal hysterektomi
+#LYHENNE    LAP avusteinen kohdunpoisto alakautta
+#OHJE_S  
+LAVH
+#OHJE_R 
+---
+###
+#KOODI      LCD30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8310      
+#SUOMI      Laajennettu kohdunpoisto
+#RUOTSI     Radikal hysterektomi
+#LYHENNE    Laajennettu kohdunpoisto
+###
+#KOODI      LCD31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Laajennettu kohdunpoisto vatsaontelon tähystyksessä
+#RUOTSI     Radikal laparoskopisk hysterektomi
+#LYHENNE    Laajennettu kohdunpoisto LAP
+###
+#KOODI      LCD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8310+     
+#SUOMI      Laajennettu kohdunpoisto emättimen kautta
+#RUOTSI     Radikal vaginal hysterektomi
+#LYHENNE    Laajennettu kohdunpoisto alakautta
+#OHJE_S  
+Kohdun poisto emättimen kautta, kohdunsivuelinten poisto, regionaalisten imusolmukkeiden poisto ja emättimen osapoisto
+#OHJE_R 
+Vaginal hysterektomi, exstipation av parametrier, körtelutrymning, resektion av vagina
+###
+#KOODI      LCD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Muu kohdunpoisto
+#RUOTSI     Annan öppen hysterektomi
+#LYHENNE    Muu kohdunpoisto
+###
+#KOODI      LCD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu kohdunpoisto vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk hysterektomi
+#LYHENNE    Muu kohdunpoisto LAP
+###
+#KOODI_A    LC_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Kohdun tähystykset
+#RUOTSI     Endoskopi av uterus
+#ENGL       Endoscopy of uterus and uterine ligaments
+#OHJE_S  
+Kepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      LCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8311+     
+#SUOMI      Lantion etuosan tyhjennys, exenteratio
+#RUOTSI     Främre bäckenevisceration hos kvinna
+#LYHENNE    Lantion etuosan tyhjennys, exenteratio
+###
+#KOODI      LCE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8311      
+#SUOMI      Lantion takaosan tyhjennys
+#RUOTSI     Bakre bäckenevisceration hos kvinna
+#LYHENNE    Lantion takaosan tyhjennys
+###
+#KOODI      LCE20 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8311      
+#SUOMI      Lantion täydellinen tyhjennys
+#RUOTSI     Total bäckenutrymning hos kvinna
+#LYHENNE    Lantion täydellinen tyhjennys
+###
+#KOODI      LCE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Muu lantion tyhjennysleikkaus
+#RUOTSI     Annan bäckenutrymning hos kvinna
+#LYHENNE    Muu lantion tyhjennysleikkaus
+###
+#KOODI      LCF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8202      
+#SUOMI      Kohdunvieruskudoksen kasvaimen poisto
+#RUOTSI     Öppen exstirpation av intraligamentär tumör (i parametrium)
+#LYHENNE    Kohdunvieruskudoksen kasvaimen poisto
+###
+#KOODI      LCF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdunvieruskudoksen muutoksen poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk exstirpation av intraligamentär tumör (i parametrium)
+#LYHENNE    Kohdunvieruskudosmuutoksen poisto LAP
+###
+#KOODI      LCF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Laskimolaajentuman poisto lantion sisältä
+#RUOTSI     Öppen exstirpation av varicocele hos kvinna
+#LYHENNE    Varicocele feminae poisto
+###
+#KOODI      LCF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Laskimolaajentuman poisto lantion sisältä vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk exstirpation av varicocele hos kvinna
+#LYHENNE    Varicocele feminae poisto LAP
+###
+#KOODI      LCF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Muu kohdusvieruskudoksen muutoksen poisto
+#RUOTSI     Annan öppen exstirpation av förändring i parametrium
+#LYHENNE    Muu kohdusvieruskudosmuutospoisto
+###
+#KOODI      LCF97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu kohdusvieruskudoksen muutoksen poisto vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk exstirpation av förändring i parametrium
+#LYHENNE    Muu kohdusvieruskudosmuutospoisto LAP
+###
+#KOODI      LCG02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Kohtukiinnikkeiden irroittelu kohduntähystyksessä
+#RUOTSI     Hysteroskopi med adherenslösning
+#LYHENNE    Kohtukiinnikeirroittelu kohduntähystykse
+###
+#KOODI      LCG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Kohdun ompelu
+#RUOTSI     Öppen sutur av uterus
+#LYHENNE    Kohdun ompelu
+#OHJE_S  
+Synnytykseen liittyen MCC00
+#OHJE_R 
+Efter förlossning, MCC00
+###
+#KOODI      LCG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdun ompelu vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk sutur av uterus
+#LYHENNE    Kohdun ompelu vatsaontelon tähystyksessä
+###
+#KOODI      LCG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Kohdun ripustus
+#RUOTSI     Öppen uteropexi
+#LYHENNE    Kohdun ripustus
+###
+#KOODI      LCG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdun kiinnitys vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk uteropexi
+#LYHENNE    Kohdun kiinnitys LAP
+###
+#KOODI      LCG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8342      
+#SUOMI      Kohtu-ristiluusiteen katkaisu tai poisto
+#RUOTSI     Öppen delning eller resektion av sacrouterinligament
+#LYHENNE    Kohtu-ristiluusiteen katkaisu tai poisto
+###
+#KOODI      LCG31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohtu-ristiluusiteen katkaisu tai poisto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk delning eller resektion av sacrouterinligament
+#LYHENNE    Sakrouteriinasiteen katkaisu/poisto LAP
+###
+#KOODI      LCG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8303      
+#SUOMI      Kohdun korjaaminen
+#RUOTSI     Öppen rekonstruktion av uterus
+#LYHENNE    Kohdun korjaaminen
+#OHJE_S  
+esim. Strassmannin leikkaus
+#OHJE_R 
+T. ex. Strassmann
+###
+#KOODI      LCG41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdun korjaaminen vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk rekonstruktion av uterus
+#LYHENNE    Kohdun korjaaminen LAP
+###
+#KOODI      LCG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8319      
+#SUOMI      Muu korjaava kohtuleikkaus
+#RUOTSI     Annan öppen rekonstruktiv operation på uterus
+#LYHENNE    Muu korjaava kohtuleikkaus
+###
+#KOODI      LCG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu korjaava kohtuleikkaus vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk rekonstruktiv operation på uterus
+#LYHENNE    Muu korjaava kohtuleikkaus LAP
+###
+#KOODI      LCG98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu korjaava kohtuleikkaus kohduntähystyksessä
+#RUOTSI     Annan transluminal endoskopisk rekonstruktiv operation på uterus
+#LYHENNE    Muu korjaava kohtuleikkaus kohduntähysty
+###
+#KOODI      LCH00 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8511      
+#SUOMI      Kohdun tyhjennys imulla raskauden keskeyttämiseksi
+#RUOTSI     Exeres med vakuumaspiration
+#LYHENNE    Kohdun tyhjennys imulla AAP
+#OHJE_S  
+Sisältää kohdunkaulan laajennuksen
+#OHJE_R 
+Inkl ev cervixdilatation
+###
+#KOODI      LCH03 
+#MUUT_PVM   1996/06/07
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8512      
+#SUOMI      Kohdun tyhjennys ja kaavinta raskauden keskeyttämiseksi
+#RUOTSI     Exeres med curettage
+#LYHENNE    Kohdun tyhjennys/kaavinta AAP
+#OHJE_S  
+Sisältää kohdunkaulan laajentamisen
+#OHJE_R 
+Inkl ev cervixdilatation
+###
+#KOODI      LCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8514+     
+#SUOMI      Raskauden keskeytys amniononteloon annostellulla lääkkeellä
+#RUOTSI     Intrauterin instillation av abortframkallande ämne
+#LYHENNE    Lääkeruiske kohtuun/kaavinta AAP
+###
+#KOODI      LCH11 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Raskauden keskeytys amnionontelon ulkopuolelle annostellulla lääkkellä
+#RUOTSI     Extra-amniotic instillation av abortframkallande ämne
+#LYHENNE    Raskauden keskeytys lääkkeellä
+#OHJE_S  
+Esim. prostasykliinillä
+Kaavinta lääkkeellisen keskeytyksen jälkeen kohdassa LCH13
+#OHJE_R 
+T.ex. prostasyklin
+Exeres efter medikamentellt abort, se  LCH13
+###
+#KOODI      LCH13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8519      
+#SUOMI      Kohdun tyhjennys imulla lääkkeellä tehdyn keskeyttämisen jälkeen
+#RUOTSI     Exeres med vakuumaspiration efter medikamentellt inducerad abort
+#LYHENNE    Kohdun imutyhjennys lääkeAAP:n jälkeen
+###
+#KOODI      LCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8301      
+#SUOMI      Kohdun aukaisu ja raskauden tyhjennys, vatsaontelon tai emättimen kautta
+#RUOTSI     Hysterotomi och exeres (ingrepp via bukhålan eller via vagina)
+#LYHENNE    HysterotomiaAAP,vatsaontelon/alakautta
+###
+#KOODI      LCH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8519      
+#SUOMI      Muu raskauden keskeytys
+#RUOTSI     Annan operation för avbrytande av graviditet
+#LYHENNE    Muu raskauden keskeytys
+###
+#KOODI      LCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8209      
+#SUOMI      Muu avoin kohdun ja sen vieruskudoksien leikkaus
+#RUOTSI     Annan öppen operation på uterus eller dess upphängningsapparat
+#LYHENNE    Muu avoin kohtu/vieruskudosleikk.
+###
+#KOODI      LCW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu kohdun ja sen vieruskudoksien leikkaus vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk operation på uterus eller dess upphängningsapparat
+#LYHENNE    Muu kohtu/vieruskudosleikk. laparosk.
+###
+#KOODI      LCW98 
+#MUUT_PVM   1996/11/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu kohdun ja sen vieruskudoksien leikkaus kohduntähystyksessä
+#RUOTSI     Annan hysteroskopisk operation på uterus eller dess upphängningsapparat
+#LYHENNE    Muu kohtu/vieruskudosleikk. hysterosk.
+###
+#KOODI_R    LD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kohdun kaulaosa
+#RUOTSI     Cervix uteri
+#ENGL       Cervix uteri
+###
+#KOODI      LDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8322      
+#SUOMI      Kohdun kaulan laajennus
+#RUOTSI     Cervixdilatation
+#LYHENNE    Kohdun kaulan laajennus
+###
+#KOODI      LDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8112      
+#SUOMI      Kohdun kaulan kaavinta
+#RUOTSI     Abrasio av cervix uteri
+#LYHENNE    Kohdun kaulan kaavinta
+#OHJE_S  
+Sisältää näytteenoton
+Koepalan otto kohduntähystyksessä kohdassa ULC
+#OHJE_R 
+Innefattar provtagningen
+Hysteroskopisk biopsi, se ULC
+###
+#KOODI      LDA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8111      
+#SUOMI      Koepalan otto kohdun napukasta
+#RUOTSI     Biopsi av portio
+#LYHENNE    Koepalan otto kohdun napukasta
+###
+#KOODI      LDA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM   1997/12/31
+#POISTETTU
+#VANHA      8111      
+#SUOMI      Muu kohdun napukan tai kohdun kaulan kudosnäytteen otto
+#RUOTSI     Annan biopsi av portio eller cervix uteri
+#LYHENNE    Muu kohdun napukan/kaulan kudosnäyte
+###
+#KOODI      LDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8339      
+#SUOMI      Paikallisen muutoksen poisto kohdun kaulasta
+#RUOTSI     Exstirpation av förändring i portio eller cervix uteri
+#LYHENNE    Paikall muutoksen poisto kohdun kaulasta
+#OHJE_S  
+Esim. polyypin poisto
+Sisältää kudoksen tunkeutuneen vierasesineen poiston
+Vierasesineen poisto kohdunkaulan kanavasta ja kohdusta kohdasa LCA22
+#OHJE_R 
+T.ex. av polyp
+Inkluderar avlägsnande av penetrerande främmande kropp
+Avlägsnande av främmande kropp från cervix kanal, se LCA22
+###
+#KOODI      LDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8325      
+#SUOMI      Kohdun kaulan jäädytyshoito
+#RUOTSI     Kryoterapi av portio eller cervix uteri
+#LYHENNE    Kohdun kaulan jäädytyshoito
+###
+#KOODI      LDB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8325      
+#SUOMI      Kohdun kaulan laserhoito tai poltto
+#RUOTSI     Elektrokoagulation eller laservaporation av portio eller cervix uteri
+#LYHENNE    Kohdun kaulan laserhoito tai poltto
+###
+#KOODI      LDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8326      
+#SUOMI      Kohdunkaulan kartiopoisto veitsellä
+#RUOTSI     Konisation med kniv
+#LYHENNE    Kohdunkaulan kartiopoisto veitsellä
+###
+#KOODI      LDC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8326      
+#SUOMI      Kohdunkaulan kartiopoisto diatermialla tai laserilla
+#RUOTSI     Konisation med diatermi eller laser
+#LYHENNE    Konisaatio diatermialla tai laserilla
+#OHJE_S  
+Diatermia lisäkoodilla ZXC00
+Laser lisäkoodilla ZXC10
+#OHJE_R 
+Diatermi anges med tilläggskoden ZXC00Laser anges med tilläggskoden ZXC10
+###
+#KOODI      LDC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8327      
+#SUOMI      Kohdunkaulan poisto osittain
+#RUOTSI     Delresektion av cervix uteri
+#LYHENNE    Kohdunkaulan poisto osittain
+###
+#KOODI      LDC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8339      
+#SUOMI      Muu kohdunkaulan osittainen poisto
+#RUOTSI     Annan cervixresektion
+#LYHENNE    Muu kohdunkaulan osittainen poisto
+###
+#KOODI      LDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8324      
+#SUOMI      Kohdunkaulan ompelu
+#RUOTSI     Sutur av cervix uteri
+#LYHENNE    Kohdunkaulan ompelu
+#OHJE_S  
+Synnytyksen jälkeen kohdassa MBA
+#OHJE_R 
+Vid förlossningsskada, se MBA
+###
+#KOODI      LDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8339      
+#SUOMI      Kohdunkaulan muovausleikkaus
+#RUOTSI     Plastik på cervix uteri
+#LYHENNE    Kohdunkaulan muovausleikkaus
+#OHJE_S  
+Sulkuommel raskauden aikana kohdassa MAB
+#OHJE_R 
+Cerclage under graviditet, se MAB
+###
+#KOODI      LDD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8703      
+#SUOMI      Kohdunkaulan sulkuompeleen poisto
+#RUOTSI     Avlägsnande av cervixcerclage (icke gravid uterus)
+#LYHENNE    Kohdunkaulan sulkuompeleen poisto
+#OHJE_S  
+Poisto raskauden aikana kohdassa MAB
+#OHJE_R 
+Avlägsnande av cerclage under graviditet, se MAB
+###
+#KOODI      LDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8339      
+#SUOMI      Muu kohdunkaulan leikkaus
+#RUOTSI     Annan operation på cervix uteri
+#LYHENNE    Muu kohdunkaulan leikkaus
+###
+#KOODI_R    LE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Emättin
+#RUOTSI     Vagina
+#ENGL       Vagina
+###
+#KOODI      LE001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito emättimen ja ulkosynnyttimien primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i vulva eller vagina
+#LYHENNE    Sädeh emätt&ulkosynn prim.kasv preop hot
+###
+#KOODI      LE002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali emättimen ja ulkosynnyttimien primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i vulva eller vagina
+#LYHENNE    Radik emätt&ulkosynn prim.kasv sädehoito
+###
+#KOODI      LE003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito emättimen ja ulkosynnyttimien primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i vulva eller vagina
+#LYHENNE    Sädeh emätt&ulkosynn prim.kasv liit.hoit
+###
+#KOODI      LE004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito emättimen ja ulkosynnyttimien primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i vulva eller vagina
+#LYHENNE    Sädeh emätt&ulkosynn prim.kasv palliat h
+###
+#KOODI      LE029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito emättimen ja ulkosynnyttimien paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i vulva eller vagina
+#LYHENNE    Sädeh emätt&ulkosynn paik uus kasv hoito
+###
+#KOODI      LE049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito emättimessä tai ulkosynnyttimissä ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i vulva eller vagina
+#LYHENNE    Sädeh emätt&ulkosynn metstaasin hotona
+###
+#KOODI      LE090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito emättimen ja ulkosynnyttimien profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av vulva och vagina
+#LYHENNE    Sädeh emätt&ulkosynn prim.kasv profyl ho
+###
+#KOODI      LE099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu emättimen sädehoito
+#RUOTSI     Annan strålbehandling av vulva och vagina
+#LYHENNE    Muu emättimen sädehoito
+###
+#KOODI      LEA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1400      
+#SUOMI      Lantiontähystys emättimen pohjan kautta
+#RUOTSI     Kuldoskopi
+#LYHENNE    Lantiontähystys emättimen pohjan kautta
+#OHJE_S  
+Sisältää mahdollisen koepalan oton
+#OHJE_R 
+Inkl ev biopsi
+###
+#KOODI      LEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8401      
+#SUOMI      Emättimen pohjan aukaisu
+#RUOTSI     Kolpotomi
+#LYHENNE    Emättimen pohjan aukaisu
+#OHJE_S  
+Esim. fossa Douglasin kanavointi
+#OHJE_R 
+Inkl ev dränage av fossa Douglasi
+###
+#KOODI      LEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8411      
+#SUOMI      Koepalan otto emättimestä
+#RUOTSI     Biopsi av vagina
+#LYHENNE    Koepalan otto emättimestä
+###
+#KOODI      LEB10 
+#MUUT_PVM   2002/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8412      
+#SUOMI      Emätimen kasvaimen tai kudosvaurion poisto
+#RUOTSI     Exstirpation av förändring i vagina
+#LYHENNE    Emätimen kasvaimen tai kudosvaurion pois
+#OHJE_S  
+Sisältää haavauman, rakkulan tai vierasesineen poiston
+Vierasesineen poistaminen lapsen emättimestä kohdasa TLE10
+#OHJE_R 
+Inkl av ulceration, cysta eller tumör
+Inkl avlägsnande av främmande kropp
+Avlägsnande av främmande kropp från vagina hos barn, se TLE10
+###
+#KOODI      LEB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8412      
+#SUOMI      Emättimen kystan aukaisu ja reunan ompelu
+#RUOTSI     Marsupialisation av vaginalcysta
+#LYHENNE    Emättimen kystan marsupialisaatio
+###
+#KOODI      LEB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8411      
+#SUOMI      Emättimen limakalvomuutoksen hävittäminen
+#RUOTSI     Destruktion av slemhinneförändring i vagina
+#LYHENNE    Emättimen limakalvon jäädytys tai laser
+#OHJE_S  
+Menetelmä, poltto, jäädytys tai laser voidaan ilmaista lisäkoodilaa ryhmästä ZXC
+#OHJE_R 
+Metod, diatermi, kryo eller laser kan anges med tilläggskod, se ZXC
+###
+#KOODI      LEC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8412      
+#SUOMI      Osittainen emättimen poisto
+#RUOTSI     Delresektion av vagina
+#LYHENNE    Osittainen emättimen poisto
+###
+#KOODI      LEC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8415      
+#SUOMI      Emätinväliseinän poisto
+#RUOTSI     Excision av vaginalseptum
+#LYHENNE    Emätinväliseinän poisto
+###
+#KOODI      LED00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8429      
+#SUOMI      Emättimen poisto
+#RUOTSI     Kolpektomi
+#LYHENNE    Emättimen poisto
+###
+#KOODI_A    LE_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Emättimen tähystys
+#RUOTSI     Endoskopi av vagina
+#ENGL       Endoscopy  of vagina
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      LEE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8414      
+#SUOMI      Emättimen ompelu
+#RUOTSI     Sutur av vagina
+#LYHENNE    Emättimen ompelu
+#OHJE_S  
+Synnytysvaurion yhteydessä kohdassa MBC
+#OHJE_R 
+Vid förlossningsskada, se MBC
+###
+#KOODI      LEE10 
+#MUUT_PVM   2003/11/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8416      
+#SUOMI      Emättimen korjaus siirteellä tai kielekkeellä
+#RUOTSI     Rekonstruktion av vagina med transplantat eller lambå
+#LYHENNE    Emättimen korjaus,siirre tai kieleke
+###
+#KOODI      LEE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8417      
+#SUOMI      Emättimen ja suolen välisen avanteen sulku, siirre tai kieleke
+#RUOTSI     Tillslutning av enterovaginal fistel med transplantat eller lambå
+#LYHENNE    Emätin-suolifistelin sulku,siirre/kielek
+###
+#KOODI      LEE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7353      
+#SUOMI      Emättimen ja virtsateiden välisen avanteen sulku, siirre tai kieleke
+#RUOTSI     Tillslutning av urovaginal fistel med transplantat eller lambå
+#LYHENNE    Emätin-virtsatiefistelisulku,siirre/kiel
+#OHJE_S  
+Avanteen sulku poistamalla kyseinen suolen osa koodataan ryhmään JFB
+#OHJE_R 
+Tillslutning genom resektion av tarm anges med kod från grupp JFB
+###
+#KOODI      LEE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8429      
+#SUOMI      Emättimen muodostaminen sukupuolen vaihdoksen vuoksi
+#RUOTSI     Konstruktion av vagina vid könsbyte
+#LYHENNE    Emättimen muodostaminen,sukupuolen vaiht
+###
+#KOODI      LEE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8429      
+#SUOMI      Muu emättimen korjaava leikkaus
+#RUOTSI     Annan rekonstruktiv operation på vagina
+#LYHENNE    Muu emättimen korjaava leikkaus
+###
+#KOODI      LEF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8432      
+#SUOMI      Emättimen etuseinänkiristys
+#RUOTSI     Främre kolporafi
+#LYHENNE    Emättimen etuseinänkiristys
+#OHJE_S  
+sis. välilihan kiristämisen
+#OHJE_R 
+Inkl ev perineorafi
+###
+#KOODI      LEF03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8432      
+#SUOMI      Emättimen takaseinän kiristys
+#RUOTSI     Bakre kolporafi
+#LYHENNE    Emättimen takaseinän kiristys
+#OHJE_S  
+sis. kohottajalihaksen ja välilihan kiristämisen
+#OHJE_R 
+Inkl ev levatorsutur och perineorafi
+###
+#KOODI      LEF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8433      
+#SUOMI      Emättimen ja välilihan muovaus
+#RUOTSI     Fullständig prolapsplastik
+#LYHENNE    Emättimen ja välilihan muovaus
+#OHJE_S  
+Kolpoperineoplastia
+Sisältää kohdunkaulan poiston, kohottajalihaksenja välilihan kiristämisen
+#OHJE_R 
+ Inkl främre och bakre kolporafi, cervixamputation, ev levatorsutur och perineorafi
+###
+#KOODI      LEF13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8436      
+#SUOMI      Emättimen ja välilihan muovaus ja kohdunpoisto
+#RUOTSI     Fullständig prolapsplastik med vaginal hysterektomi
+#LYHENNE    Emättimen/välilihan muovaus+kohdunpoisto
+#OHJE_S  
+Sisältää kohdunpoiston emättimen kautta sekä kohottajalihaksen ja välilihan kiristämisen
+#OHJE_R 
+Inkl. hysterektomi samt  strämning av höjande muskel och parametrium
+###
+#KOODI      LEF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8434      
+#SUOMI      Osittainen emättimen sulkeminen
+#RUOTSI     Partiell förslutning av vagina
+#LYHENNE    Osittainen emättimen sulkeminen
+#OHJE_S  
+Kolpokleisis
+#OHJE_R 
+---
+###
+#KOODI      LEF23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8434      
+#SUOMI      Emättimen sulkeminen
+#RUOTSI     Total kolpokleisis
+#LYHENNE    Emättimen sulkeminen
+###
+#KOODI      LEF30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Kohdun kiinnitys virtsarakon ja emättimen väliin
+#RUOTSI     Interposition av uterus mellan urinblåsa och vagina
+#LYHENNE    Kohdun interpositio kystovaginaalisesti
+###
+#KOODI      LEF40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8435      
+#SUOMI      Suolikohjun korjausleikkaus emättimen kautta
+#RUOTSI     Vaginal operation av enterocele
+#LYHENNE    Enteroseelen korjaus emättimen kautta
+###
+#KOODI      LEF41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Suolikohjun korjausleikkaus vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk operation av enterocele
+#LYHENNE    Suolikohjun korjausleikkaus LAP
+###
+#KOODI      LEF50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8431      
+#SUOMI      Kohdun poiston jälkeisen emättimen pohjukan laskeuman korjaus
+#RUOTSI     Öppen operation för vaginaltoppsprolaps, efter tidigare hysterektomi
+#LYHENNE    Hysterektomian jälkeisen laskeuman korj
+###
+#KOODI      LEF51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Kohdun poiston jälkeisen emättimen pohjukan laskeuman korjaus vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk operation för vaginaltoppsprolaps efter tidigare hysterektomi
+#LYHENNE    Hysterektomian jälk laskeuman korj LAP
+###
+#KOODI      LEF53 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8432      
+#SUOMI      Kohdun poiston jälkeisen emättimen pohjukan laskeuman korjaus emättimen kautta
+#RUOTSI     Vaginal operation för vaginaltoppsprolaps efter tidigare hysterektomi
+#LYHENNE    Hysterektomian jälk laskeumakorj alakaut
+###
+#KOODI      LEF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8449      
+#SUOMI      Muu kohdun ja emättimen laskeutuman leikkaus
+#RUOTSI     Annan öppen prolapsoperation på uterus eller vagina
+#LYHENNE    Muu kohtu/emätinlaskeutumaleikkaus
+###
+#KOODI      LEF97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu kohdun ja emättimen laskeutuman leikkaus vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk prolapsoperation på uterus eller vagina
+#LYHENNE    Muu kohtu/emätinlaskeutumaleikkaus LAP
+###
+#KOODI      LEG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7432      
+#SUOMI      Virtsaputken ja virtsarakon kohotus emättimen kautta
+#RUOTSI     Enkel vaginal uretrocystopexi
+#LYHENNE    Virtsaputken/-rakon kohotus emätintietä
+#OHJE_S  
+Kelly, Kennedy etc.
+#OHJE_R 
+---
+###
+#KOODI      LEG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7436      
+#SUOMI      Virtsaputken ja virtsarakon kohotus emättimen kautta slingan avulla
+#RUOTSI     Vaginal uretrocystopexi (med slynga)
+#LYHENNE    Virtsaputken/-rakon slinga emätintietä
+###
+#KOODI      LEG13 
+#MUUT_PVM   2006/09/15
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsaputken kohotus emättimen kautta obturatoriustietä (TVU)
+#RUOTSI     Vaginal transobturatorisk uretropexi
+#LYHENNE    Vagin transobturat uretropexia
+###
+#KOODI      LEG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7437      
+#SUOMI      Lantionpohjan korjausleikkaus virtsankarkailun korjaamiseksi, levatorplastia
+#RUOTSI     Bäckenbottenplastik hos kvinna med fullständig delning av levatorerna
+#LYHENNE    Levatorplastia virtsankarkailun vuoksi
+###
+#KOODI      LEG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      7449      
+#SUOMI      Muu emättimen kautta tehtävä virtsankarkailun korjausleikkaus
+#RUOTSI     Annan vaginal inkontinensoperation
+#LYHENNE    Muu irtsankarkailuleikkaus emätintietä
+###
+#KOODI      LEW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8429      
+#SUOMI      Muu emättimen leikkaus
+#RUOTSI     Annan öppen operation på vagina
+#LYHENNE    Muu emättimen leikkaus
+###
+#KOODI      LEW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu emättimen leikkaus vatsantähystyksessä
+#RUOTSI     Annan laparoskopisk operation på vagina
+#LYHENNE    Muu emättimen leikkaus LAP
+###
+#KOODI_R    LF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Ulkosynnyttimet ja väliliha
+#RUOTSI     Vulva och perineum
+#ENGL       Vulva and perineum
+###
+#KOODI      LFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8471      
+#SUOMI      Ulkosynnyttimien ja välilihan aukaisu ja kanavointi
+#RUOTSI     Incision av vulva eller perineum (inkl ev dränage)
+#LYHENNE    Ulkosynnytin/väliliha-aukaisu/kanavoi
+###
+#KOODI      LFA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8472      
+#SUOMI      Immenkalvon aukaisu
+#RUOTSI     Discission av hymenrest eller hymen imperforatus
+#LYHENNE    Immenkalvon aukaisu
+###
+#KOODI      LFB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8474      
+#SUOMI      Koepalan otto ulkosynnyttimistä tai välilihasta
+#RUOTSI     Biopsi av vulva eller perineum
+#LYHENNE    Biopsia  ulkosynnyttimistä/välilihasta
+###
+#KOODI      LFB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8474      
+#SUOMI      Ulkosynnyttimien tai välilihan paikallisen muutoksen poisto leikkaamalla
+#RUOTSI     Excision av lokal förändring i vulva och perineum
+#LYHENNE    Vulva/perineum,paik muutoksen poisto
+#OHJE_S  
+Sisältää kasvaimen tai haavauman
+#OHJE_R 
+Inkl av tumör eller ulceration
+###
+#KOODI      LFB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8474      
+#SUOMI      Ulkosynnyttimien tai välilihan paikallisen muutoksen muu poisto
+#RUOTSI     Destruktion av lokal förändring i vulva och perineum
+#LYHENNE    Vulva/perin,paikmuutos poltto/jääd/laser
+#OHJE_S  
+Menetelmä (poltto, jäädytys tai laser) voidaan ilmaista lisäkoodilla ryhmästä ZXC
+#OHJE_R 
+Metod (diatermi, kryo, laser) kan anges med tilläggskod, se ZXC
+###
+#KOODI      LFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8476      
+#SUOMI      Ulkosynnyttimien osittainen poisto
+#RUOTSI     Vulvaresektion
+#LYHENNE    Ulkosynnyttimien osittainen poisto
+###
+#KOODI      LFC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8489      
+#SUOMI      Muu ulkosynnyttimien ja välilihan osittainen poistoleikkaus
+#RUOTSI     Annan resektion av vulva eller perineum
+#LYHENNE    Muu vulva/perineum osittainen poisto
+###
+#KOODI      LFD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8477      
+#SUOMI      Ulkosynnyttimien poisto kokonaan
+#RUOTSI     Vulvektomi
+#LYHENNE    Ulkosynnyttimien poisto kokonaan
+###
+#KOODI      LFD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8477+     
+#SUOMI      Ulkosynnyttimien ja paikallisten imusolmukkeiden poisto
+#RUOTSI     Vulvektomi med utrymning av lymfkörtlar
+#LYHENNE    Ulkosynnytin-/imusolmukepoisto
+###
+#KOODI      LFE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8489      
+#SUOMI      Ulkosynnyttimien ompelu
+#RUOTSI     Sutur av vulva
+#LYHENNE    Ulkosynnyttimien ompelu
+###
+#KOODI      LFE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8475      
+#SUOMI      Ulkosynnyttimien muovaus
+#RUOTSI     Vulvaplastik
+#LYHENNE    Ulkosynnyttimien muovaus
+###
+#KOODI      LFE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8489      
+#SUOMI      Välilihan ompelu
+#RUOTSI     Perineorafi
+#LYHENNE    Välilihan ompelu
+#OHJE_S  
+Synnytyksen jälkeen kohdassa MBA
+#OHJE_R 
+Efter förlossning, se MBA
+###
+#KOODI      LFE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8489      
+#SUOMI      Muu ulkosynnyttimien tai välilihan korjaava leikkaus
+#RUOTSI     Annan rekonstruktion av vulva eller perineum
+#LYHENNE    Muu vulva/perineum korjaamisleikkaus
+###
+#KOODI      LFF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8473      
+#SUOMI      Bartholinin rauhasen aukaisu ja reunan ompelu
+#RUOTSI     Marsupialisation av Bartholin's körtel (glandula vestibularis major)
+#LYHENNE    Bartholinin rauhasen marsupialisaatio
+###
+#KOODI      LFF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8473      
+#SUOMI      Bartholinin rauhasen poisto
+#RUOTSI     Exstirpation av glandula Bartholini
+#LYHENNE    Bartholinin rauhasen poisto
+###
+#KOODI      LFF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8473      
+#SUOMI      Muu Bartholinin rauhasen leikkaus
+#RUOTSI     Annan operation på glandula Bartholini
+#LYHENNE    Muu Bartholinin rauhasen leikkaus
+###
+#KOODI      LFW96 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8499      
+#SUOMI      Muu ulkosynnyttimien ja välilihan leikkaus
+#RUOTSI     Annan operation på vulva/perineum
+#LYHENNE    Muu vulva/perineum leikkaus
+###
+#KOODI_R    LG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Naisen sterilisaatio ja hedelmättömyyshoidot
+#RUOTSI     Sterilisation och fertilisaation på kvinnor
+#ENGL       Female sterilisation and fertilisation
+###
+#KOODI      LGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8221      
+#SUOMI      Munanjohtimien sitominen
+#RUOTSI     Tubarligatur för sterilisation
+#LYHENNE    Munanjohtimien sitominen
+###
+#KOODI      LGA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8221      
+#SUOMI      Munanjohtimien katkaisu tai poltto
+#RUOTSI     Öppen koagulation och/eller delning av tubor för sterilisation
+#LYHENNE    Munanjohtimien katkaisu tai poltto
+###
+#KOODI      LGA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1412      
+#SUOMI      Munanjohtimien katkaisu tai poltto vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk koagulation och/eller delning av tubor för sterilisation,
+#LYHENNE    Tubien katkaisu tai poltto LAP
+###
+#KOODI      LGA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8221      
+#SUOMI      Munanjohtimien tukkiminen puristusrenkaalla tai klipsillä
+#RUOTSI     Förslutning av tubor för sterilisation medelst kompressionsringar eller clips
+#LYHENNE    Tubien puristusrenkaat/klipsit
+###
+#KOODI      LGA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1412      
+#SUOMI      Munanjohtimien tukkiminen puristusrenkaalla tai klipsillä vatsaontelon tähystyksessä
+#RUOTSI     Laparoskopisk förslutning av tubor för sterilisation (ringar,clips)
+#LYHENNE    Tubien puristusrenkaat/klipsit LAP
+###
+#KOODI      LGA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Munanjohtimien tukkiminen kohduntähystyksessä
+#RUOTSI     Hysteroskopisk sterilisation (pluggning, polymerinjektion,etc.)
+#LYHENNE    Tubien tukkiminen kohduntähystyksessä
+###
+#KOODI      LGA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8221      
+#SUOMI      Muu munanjohtimien tukkiminen
+#RUOTSI     Annan obliteration av tuborna
+#LYHENNE    Muu munanjohtimien tukkiminen
+###
+#KOODI      LGA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1412      
+#SUOMI      Muu naisten sterilisaatio vatsaontelon tähystyksessä
+#RUOTSI     Annan laparoskopisk sterilisation av kvinna
+#LYHENNE    Muu naisten sterilisaatio LAP
+###
+#KOODI      LGA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu naisten sterilisaatio kohduntähystyksessä
+#RUOTSI     Annan transluminal hysteroskopisk sterilisation
+#LYHENNE    Muu naisten sterilisaatio kohduntähystyk
+###
+#KOODI_R    LW
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Gynekologisen kirurgian komplikaatioleikkaukset
+#RUOTSI     Operationer för komplikationer av gynekologisk kirurgi
+#ENGL       Reoperations on female genital organs
+###
+#KOODI      LWA00 
+#MUUT_PVM   1995/12/06
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8601      
+#SUOMI      Auenneen tai tulehtuneen naisen sukupuolielinleikkausken haavan tarkistaminen
+#RUOTSI     Revision av sårruptur/infektion efter operation på kvinnliga genitalia
+#LYHENNE    Gyn revisioleikk,auenn/inf haava
+###
+#KOODI      LWC00 
+#MUUT_PVM   1995/12/06
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8602      
+#SUOMI      Naisen sukupuolielinleikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+#RUOTSI     Öppning och dränering av infekterad sårhåla efter operation på kvinnliga genitalia
+#LYHENNE    Gyn revisioleikk, syvä inf
+###
+#KOODI      LWE00 
+#MUUT_PVM   1995/12/06
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8602      
+#SUOMI      Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen haava(ontelo)n vuodon vuoksi
+#RUOTSI     Reoperation för blödning efter operation på kvinnliga genitalia
+#LYHENNE    Gyn revisioleikk,vuoto
+###
+#KOODI      LWE01 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen vuodon vuoksi vatsaontelon tähytyksessä
+#RUOTSI     Perkutan endoskopisk reoperation för blödning  efter operation på kvinnliga genitalia
+#LYHENNE    Gyn laparosk revisioleikk, vuoto
+###
+#KOODI      LWF00 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8602      
+#SUOMI      Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen ompeleiden pettämisen vuoksi
+#RUOTSI     Reoperation för suturruptur efter operation på kvinnliga genitalia
+#LYHENNE    Gyn revisioleikk, ommelpett
+###
+#KOODI      LWF01 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uusintaleikkaus naisen sukupuolielinleikkauksen jälkeisen ompeleiden pettämisen vuoksi vatsaontelon tähytyksessä
+#RUOTSI     Perkutan endoskopisk reoperation för suturruptur efter operation på kvinnliga genitalia
+#LYHENNE    Gyn laparosk revisioleikk, ommelpett
+###
+#KOODI      LWW96 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8609      
+#SUOMI      Muu uusintaleikkaus naisen sukupuolielinleikkauksen komplikaation vuoksi
+#RUOTSI     Annan laparoskopisk reoperation för komplikation efter operation på kvinnliga genitalia
+#LYHENNE    Muu gyn revisioleikk
+###
+#KOODI      LWW97 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu uusintaleikkaus naisen sukupuolielinleikkauksen komplikaation vuoksi vatsaontelon tähystyksessä
+#RUOTSI     Annan reoperation för komplikation efter operation på kvinnliga genitalia
+#LYHENNE    Muu gyn laparosk revisioleikk
+###
+#KOODI_R    LX
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Tarkemmin paikantamattomat gynegologiset toimenpiteet
+#RUOTSI     Gynegologiska åtgärder utan närmare lokalisation
+#ENGL       Other procedures on female genital organs
+###
+#KOODI      LX1AE 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gynekologinen UÄ kliinisen tutkimuksen yhteydessä
+#RUOTSI     Gynekologiskt UL i samband med klinisk undersökning
+#LYHENNE    Gynek.UÄ,kl.tutk.yht
+#OHJE_S  
+Ilman erillistä lausuntoa
+#OHJE_R 
+Utan separat utlåtande
+###
+#KOODI      LX1LT 
+#MUUT_PVM   2006/10/08
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Synnytyselinten lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Obstetriska organ, värmekoagulation med radiologisk styrning
+#LYHENNE    Synnytysel lämpökoagulaatio radi ohj
+###
+#KOODI      LX1XE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6199      
+#SUOMI      Gynekologinen muu UÄ
+#RUOTSI     Annan gynekologiskt UL
+#LYHENNE    Gynekologinen muu UÄ

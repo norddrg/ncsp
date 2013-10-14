@@ -1,0 +1,2277 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU S
+
+@LUVUT_S = KAPITEL S
+
+@SUOMI_L = Suun ja hampaiston avohoidon toimenpiteet
+
+@RUOTSI_L = Tand- och munåtgärder i öppenvård
+
+@ENGL_L = Non-surgical procedures of mouth and teeth
+
+@NOTE_LF = Sisältää tavallisesti avohoidossa tehtävät suun ja hampaiston hoitotoimenpiteet.
+
+@NOTE_LF =
+Kirurgiset toimenpiteet kohdassa E
+
+@NOTE_LF =
+Seulontatutkimus kohdassa WYA00
+
+@NOTE_LF =
+Kudosten irrottaminen siirtoa varten kohdassa Y
+
+@NOTE_LS = Inkl. de mun- och tandvårdsåtgärder som vanligen görs i öppenvård
+
+@NOTE_LS =
+Kirugiska åtgärder, se kapitel E
+
+@NOTE_LS =
+Screening, se WYA00
+
+@NOTE_LS =
+Uttagning av vävnad för transplantation, se Y
+
+@END_L = 
+
+@KOODI_R = SA
+
+@SUOMI_R = Suun ja hampaiston tutkimus tai tarkastus
+
+@RUOTSI_R = Undersökning eller granskning av mun och tänder
+
+@ENGL_R = Examination of mouth and teeth
+
+@NOTE_RF = Tutkimustoimenpiteet ovat kokonaisuuksia, joihin sisältyy aina anamneesi, diagnoosi,  hoitosuunnitelma ja kustannusarvio.
+
+@NOTE_RS = Undersökningsåtgärderna bildar en helhet som alltid inkluderar anamnes, diagnos, terapiplan och kostnadsförslag.
+
+@END = 
+
+@KOODI = SAA01 
+
+@NCSP = SAFA01
+
+@SUOMI = Suun tutkimus, suppea
+
+@RUOTSI = Begränsad undersökning av munnen
+
+@NOTE_F = Esim. särkypotilaat päivystyksessä, erilaiset kontrollit
+
+@NOTE_F = Kesto enintään 10 min
+
+@NOTE_S = T.ex. värkpatient vid jour, olika efterkontroller
+
+@NOTE_S = Tar högst 10 min
+
+@END = 
+
+@KOODI = SAB01 
+
+@NCSP = SAFA01
+
+@SUOMI = Hammasterveystarkastus
+
+@RUOTSI = Granskning av tändernas hälsotillstånd
+
+@NOTE_F = Hammashuoltajan tai hammashoitajan tekemä hammastarkastus, joka sisätlää hampaiden terveyden ja puhkeamisen määrityksen
+
+@NOTE_F =
+Ei sisällä taudinmääritystä
+
+@NOTE_S = Av tandhygienist eller tandskötare utförd tandgranskning, som inkluderar tandhälsokontroll och uppföljning av tandframbrytning
+
+@NOTE_S =
+Exkluderar diagnostiken
+
+@END = 
+
+@KOODI = SAA02 
+
+@NCSP = SAFA02
+
+@SUOMI = Suun perustutkimus
+
+@RUOTSI = Grundundersökning av munnen
+
+@NOTE_F = Esim. järjestelmällisessä hoidossa olevan potilaan purentaelimen määräaikaistutkimus
+
+@NOTE_F = Kesto enintään 20 min
+
+@NOTE_S = T.ex. regelbunden undersökning av tuggorganet på patient i systematisk vård
+
+@NOTE_S =
+Tar högst 20 min.
+
+@END = 
+
+@KOODI = SAA03 
+
+@NCSP = SAFA03
+
+@SUOMI = Suun tutkimus, laaja
+
+@RUOTSI = Omfattande undersökning av munnen
+
+@NOTE_F = Esim. uuden potilaan tutkimus sisältäen purentaelimen, hampaiston ja  limakalvojen tutkimuksen
+
+@NOTE_F =
+Kesto enintään 30 min
+
+@NOTE_S = T.ex undersökning av ny patient, inklusive undersökning  av tuggorganet, tänderna och lemhinnorna
+
+@NOTE_S =
+Tar högst 30 min
+
+@END = 
+
+@KOODI = SAA04 
+
+@NCSP = SAFA04
+
+@SUOMI = Suun erityistutkimus
+
+@RUOTSI = Special undersökning av munnen
+
+@NOTE_F = Sisältää kliinisen tutkimuksen ja perustuu lisäksi röntgen- ja laboratoriotutkimuksiin ja/tai kipsimalleihin
+
+@NOTE_F =
+Kesto yli 30 min
+
+@NOTE_F =
+Laaja erikoisalakohtainen kirjallinen konsultaatio kohdassa WZC10
+
+@NOTE_S = Omfattar klinisk undersökning samt röntgenbilder och laboratorieprov och/eller gipsmodeller.
+
+@NOTE_S =
+Tar över 30 min.
+
+@NOTE_S =
+Omfattande skriftlig specialist konsultation, se WZC10
+
+@END = 
+
+@KOODI_R = SB
+
+@SUOMI_R = Täydentävät tutkimukset
+
+@RUOTSI_R = Kompletterande undersökningar
+
+@END = 
+
+@KOODI_A = SB_
+
+@NCSP_A = SBD
+
+@SUOMI_A = Suun diagnostinen radiologia hoitokäynnin yhteydessä
+
+@RUOTSI_A = Diagnostisk radiologi av munnen  under vårdbesök
+
+@ENGL_A = Diagnostic radiology of mouth at patient visit
+
+@END = 
+
+@KOODI = SBB20 
+
+@NCSP = SBDAB2
+
+@SUOMI = Hammasröntgenkuva  hoitokäynnin yhteydessä
+
+@RUOTSI = Tandröntgen under vårdbesöket
+
+@NOTE_F = Esim. Bite-wing -kuva
+
+@NOTE_F =
+Juurihoidon kontrollikuva
+
+@NOTE_S = T.ex. Bite-wing -bild
+
+@NOTE_S =
+kontrollbild vid rotbehandling
+
+@END = 
+
+@KOODI_A = SBA
+
+@NCSP_A = SBFA
+
+@SUOMI_A = Syljen ja syljenerityksen tutkiminen ja mikrobiolignen näytteenotto suusta
+
+@RUOTSI_A = Testing av saliva och salivavsöndring och mikrobiolisk provtagning från munnen
+
+@ENGL_A = Sampling and locally performed tests och other corresponding tests
+
+@NOTE_RF = Sisältää sylkinäytteen oton, eritysmittauksen, puskurikapasiteetin määrityksen, näytteen viljelyn sekä näiden tulosten tulkinnan
+
+@NOTE_RS = Innehåller salivprov, mätning av sekretion och bufferkapacitet, inkubation och avläsning av resultat
+
+@END = 
+
+@KOODI = SBA00 
+
+@NCSP = SBFA00
+
+@SUOMI = Mikrobiologinen näytteenotto suusta
+
+@RUOTSI = Mikrobiologiskt provtagning från munnen
+
+@NOTE_F = Laktobasillistesti, mutans-streptokokkitesti, hiivasienitesti, biokemialliset tutkimukset tai muut vastaavat tutkimukset syvistä ientaskuista ja hammasjuurista
+
+@NOTE_S = Laktobacilltest, Streptococcus Mutans-test, svamptest, mikrobiologisk eller motsvarande test av djupa tandköttsfickor eller rotkanaler
+
+@END = 
+
+@KOODI = SBA10 
+
+@NCSP = SBFA10
+
+@SUOMI = Syljen eritysnopeuden määritys
+
+@RUOTSI = Bestämning av salivavsöndringshastighet
+
+@NOTE_F = Ei sisällä muita määrityksiä
+
+@NOTE_S = Innehåller inte andra mätningar
+
+@END = 
+
+@KOODI = SBA20 
+
+@NCSP = SBFA20
+
+@SUOMI = Syljen puskurikapasiteetin määritys
+
+@RUOTSI = Bestämning av buffertkapacitet av saliv
+
+@END = 
+
+@KOODI_A = SBB
+
+@NCSP_A = SBFB
+
+@SUOMI_A = Muut suun tutkimustoimenpiteet
+
+@RUOTSI_A = Andra undersökningar i munnen
+
+@ENGL_A = Other examinations of mouth
+
+@END = 
+
+@KOODI = SBB00 
+
+@NCSP = SBFB00
+
+@SUOMI = Suun ja hampaiston valokuvaus
+
+@RUOTSI = Fotografering av mun och tänder
+
+@NOTE_F = Kliinisen löydöksen nykytilan dokumentointi valokuvaamalla
+
+@NOTE_F = Kirjataan kerran käyntikerralla
+
+@NOTE_S = Fotografisk dokumentering av nuläget för kliniskt fynd
+
+@NOTE_S =
+Antecknas en gång per besök
+
+@END = 
+
+@KOODI = SBB10 
+
+@NCSP = SBFB10
+
+@SUOMI = Hampaiston jäljennökset
+
+@RUOTSI = Avtryck av tänderna
+
+@NOTE_F = Sisältää hoidossa käytettävät kipsimallit
+
+@NOTE_S = Inkluderar gipsmodeller för vård
+
+@END = 
+
+@KOODI_R = SC
+
+@SUOMI_R = Ehkäisevä hammashoito
+
+@RUOTSI_R = Preventiv tandvård
+
+@NOTE_RF = Ehkäisevään hoitoon ei luokitella kiinnityskudossairauksien hoitoa kuten esimerkiksi subgingivaalisen hammaskiven poistoa (katso SD)
+
+@NOTE_RF =
+Merkitään sen alueen mukaan, mille ehkäisevä toimenpide kohdistuu ensisijaisesti
+
+@NOTE_RS = Vård av stödjevävnadssjukdomar, såsom avlägsnande av subgingival tandsten, klassificeras inte som preventiv vård (se SD)
+
+@NOTE_RS =
+Kod bör väljas enligt det område som primärt berörs av det preventiva åtgärdet
+
+@END = 
+
+@KOODI_A = SCA
+
+@NCSP_A = SCXA
+
+@SUOMI_A = Hammashoitoon liittyvä ravintoanalyysi ja neuvonta
+
+@RUOTSI_A = Näringsanalys och rådgivning i anslutning till tandvård
+
+@NOTE_RF = Edellyttää selostusta potilasasiakirjaan
+
+@NOTE_RS = Förutsätter redogörelse i patientjournal
+
+@END = 
+
+@KOODI = SCA01 
+
+@NCSP = SCXA01
+
+@SUOMI = Hammashoitoon liittyvä ravintoanalyysi ja neuvonta, suppea
+
+@RUOTSI = Begränsad näringsanalys och rådgivning i anslutning till tandvård
+
+@NOTE_F = Kesto vähintään 10 min
+
+@NOTE_S = Tar minst 10 min.
+
+@END = 
+
+@KOODI = SCA02 
+
+@NCSP = SCXA02
+
+@SUOMI = Hammashoitoon liittyvä ravintoanalyysi ja neuvonta
+
+@RUOTSI = Näringsanalys och rådgivning i anslutning till tandvård
+
+@NOTE_F = Kesto vähintään 20 min
+
+@NOTE_S = Tar minst 20 min.
+
+@END = 
+
+@KOODI_A = SCB
+
+@NCSP_A = SCXB
+
+@SUOMI_A = Kotihoidon opetus
+
+@RUOTSI_A = Undervisning i hemvård
+
+@NOTE_RF = Edellyttää selostusta potilasasiakirjaan
+
+@NOTE_RS = Förutsätter redogörelse i patientjournal
+
+@END = 
+
+@KOODI = SCB01 
+
+@NCSP = SCXB01
+
+@SUOMI = Suun kotihoidon opetus, suppea
+
+@RUOTSI = Begränsad undervisning i hemvård av munnen
+
+@NOTE_F = Kesto vähintään 10 min
+
+@NOTE_S = Tar minst 10 min.
+
+@END = 
+
+@KOODI = SCB02 
+
+@NCSP = SCXB02
+
+@SUOMI = Suun kotihoidon opetus
+
+@RUOTSI = Undervisning i hemvård av munnen
+
+@NOTE_F = Kesto vähintään 20 min
+
+@NOTE_S = Tar minst 20 min.
+
+@END = 
+
+@KOODI_A = SCC
+
+@NCSP_A = SCXC
+
+@SUOMI_A = Fluori tai muu vastaava käsittely
+
+@RUOTSI_A = Fluorbehandling eller motsvarande
+
+@END = 
+
+@KOODI = SCC01 
+
+@NCSP = SCXC01
+
+@SUOMI = Fluori- tai muu vastaava käsittely, suppea
+
+@RUOTSI = Fluorbehandling av munnen eller motsvarande, begränsad
+
+@NOTE_F = Sisältää puhdistuksen
+
+@NOTE_S = Inkluderar rengöring
+
+@END = 
+
+@KOODI = SCC02 
+
+@NCSP = SCXC02
+
+@SUOMI = Suun fluori tai muu vastaava käsittely
+
+@RUOTSI = Fluorbehandling av munnen eller motsvarande
+
+@NOTE_F = Kesto vähintään 20 min
+
+@NOTE_S = Tar minst 20 min.
+
+@END = 
+
+@KOODI_A = SCD
+
+@NCSP_A = SCXD
+
+@SUOMI_A = Plakin ja näkyvän hammaskiven poisto
+
+@RUOTSI_A = Borttagning av plack och synlig tandsten
+
+@END = 
+
+@KOODI = SCD01 
+
+@NCSP = SCXD01
+
+@SUOMI = Plakin ja/tai näkyvän hammaskiven poisto, suppea
+
+@RUOTSI = Begränsad avlägsnande av plack och synlig tandsten
+
+@NOTE_F = Kesto vähintään 10 min
+
+@NOTE_S = Tar minst 10 min.
+
+@END = 
+
+@KOODI = SCD02 
+
+@NCSP = SCXD02
+
+@SUOMI = Plakin ja/tai näkyvän hammaskiven poisto
+
+@RUOTSI = Avlägsnande av plack och synlig tandsten
+
+@NOTE_F = Kesto vähintään 20 min
+
+@NOTE_S = Tar minst 20  min.
+
+@END = 
+
+@KOODI_A = SCE
+
+@NCSP_A = SCXE
+
+@SUOMI_A = Hampaiden pinnoitus
+
+@RUOTSI_A = Fissurförsegling
+
+@NOTE_RF = Pinnoituksella tarkoitetaan ehjän, vastapuhjenneen hampaan uurteiden pinnoittamista. Jos pinnoituksen yhteydessä on kuitenkin poistettu hampaan kovakudosta ja se on korvattu jollakin täyteaineella, käytetään paikkauskoodia SFA00.
+
+@NOTE_RS = Med fissurförsegling avses försegling av fissurerna på en hel, nyerupterad tand.  Om ingreppet även innefattar avlägsnande av hårdvävnad som ersätts med en fyllning användes fyllningskod SFA00.
+
+@END = 
+
+@KOODI = SCE00 
+
+@NCSP = SCXE00
+
+@SUOMI = Hampaan pinnoitus
+
+@RUOTSI = Fissurförsegling av tand
+
+@NOTE_F = Käyntikerralla tilastoidaan korkeintaan yksi toimenpide leuanpuoliskoa kohden
+
+@NOTE_S = Koden används högst en gång per besök och käkhalva
+
+@END = 
+
+@KOODI_R = SD
+
+@SUOMI_R = Ikenen ja hampaan kiinnityskudossairauksien hoito
+
+@RUOTSI_R = Vård av tandkött och tändernas stödjevävnader
+
+@END = 
+
+@KOODI_A = SDA
+
+@NCSP_A = SDXA
+
+@SUOMI_A = Parodontologinen hoito
+
+@RUOTSI_A = Parodontologisk vård
+
+@NOTE_RF = Kaikki samalla käyntikerralla tehty sekä tulehdukseen että
+
+@NOTE_RF =
+kiinnityskudoksiin kohdistunut hoito
+
+@NOTE_RF =
+
+
+@NOTE_RS = All vård av både infektion och stödjevävnader som utförs
+
+@NOTE_RS =
+under ett besök
+
+@END = 
+
+@KOODI = SDA01 
+
+@NCSP = SDXA01
+
+@SUOMI = Parodontologinen hoito, suppea
+
+@RUOTSI = Parodontologisk vård, begränsad
+
+@NOTE_F = Esim. vähäisen hammaskiven ja/tai plakin ientaskuista käyntikerralta
+
+@NOTE_F =
+Kesto enintään 10 min
+
+@NOTE_S = T.ex. avlägsnande av mindre mängd tandsten och/eller plack från tandköttsfickor, per besök
+
+@NOTE_S =
+Tar högst 10 min.
+
+@END = 
+
+@KOODI = SDA02 
+
+@NCSP = SDXA02
+
+@SUOMI = Parodontologinen hoito
+
+@RUOTSI = Parodontologisk vård
+
+@NOTE_F = Esim. hammaskiven poisto ja ientaskujen hoito käyntikerralta
+
+@NOTE_F =
+Kesto enintään 20 min
+
+@NOTE_S = T.ex. avlägsnande av tandsten och behandling av tandköttsfickor, per besök
+
+@NOTE_S =
+Tar högst 20 min.
+
+@END = 
+
+@KOODI = SDA03 
+
+@NCSP = SDXA03
+
+@SUOMI = Parodontologinen hoito, vaativa
+
+@RUOTSI = Parodontologisk vård, krävande
+
+@NOTE_F = Esim. hammaskiven poisto, kyretointi tai syvien ientaskujen hoito
+
+@NOTE_F =
+Kesto enintään 30 min
+
+@NOTE_S = T.ex. avlägsnande av tandsten, kyrettage eller behandling av djupa tandköttsfickor
+
+@NOTE_S =
+Tar högst 30 min.
+
+@END = 
+
+@KOODI = SDA04 
+
+@NCSP = SDXA04
+
+@SUOMI = Parodontologinen hoito, erittäin vaativa
+
+@RUOTSI = Parodontologisk vård, mycket krävande
+
+@NOTE_F = Esim laaja ja vaativa kyretointi, hammaskiven poisto, syventyneiden ientaskujen hoito tai parodontologinen kiskotus
+
+@NOTE_F =
+Kesto enintään 45 min
+
+@NOTE_S = T.ex. omfattande och krävande kyrettage, avlägsnande av tandsten, behandling av fördjupade tandköttsfickor eller parodontologisk fixering
+
+@NOTE_S =
+Tar högst  45 min.
+
+@END = 
+
+@KOODI = SDA05 
+
+@NCSP = SDXA05
+
+@SUOMI = Parodontologinen hoito, erittäin vaativa ja pitkäkestoinen
+
+@RUOTSI = Parodontologisk vård, mycket krävande, långvarig
+
+@NOTE_F = Kesto yli 45 min
+
+@NOTE_S = Tar över 45 min
+
+@END = 
+
+@KOODI = SDA10 
+
+@NCSP = SDXA10
+
+@SUOMI = Pitkälle edenneitä ja komplisoituneita alveoliluumuutoksia käsittävän parodontiitin hoito
+
+@RUOTSI = Parodontisk behandling av avancerade och komplicerade benförändringar i alveolarutskottet
+
+@NOTE_F = Erityistoimenpiteitä vaativien syvien ientaskujen (yli 6mm) tai furkaatiomuutosten yli 30 minuuttia kestävä hoito
+
+@NOTE_S = Djupa tandköttsfickor (över  6mm) eller furcatioförändringar som krävar speciel behandling som tar över 30 min
+
+@END = 
+
+@KOODI_A = SDC
+
+@NCSP_A = SDXC
+
+@SUOMI_A = Parodontologinen kiskoitus
+
+@RUOTSI_A = Parodontologisk fixering
+
+@ENGL_A = Parodontolic fixation
+
+@END = 
+
+@KOODI = SDC10 
+
+@NCSP = SDXC10
+
+@SUOMI = Parodontologinen kiskotus, suppea
+
+@RUOTSI = Parontologisk fixering, begränsad
+
+@NOTE_F = Korkeintaan 6 hammasta
+
+@NOTE_S = Högst 6 tänder
+
+@END = 
+
+@KOODI = SDC20 
+
+@NCSP = SDXC20
+
+@SUOMI = Parodontologinen kiskoitus, laaja
+
+@RUOTSI = Parontologisk fixering, omfattande
+
+@NOTE_F = Vähintään 7 hammasta
+
+@NOTE_S = Minst 7 tänder
+
+@END = 
+
+@KOODI_A = SDX
+
+@NCSP_A = SDXX
+
+@SUOMI_A = Muu parodontologinen hoito
+
+@RUOTSI_A = Annat parodontologiskt vård
+
+@ENGL_A = Other parodontologic therapy
+
+@END = 
+
+@KOODI = SDX10 
+
+@NCSP = SDXX10
+
+@SUOMI = Parodontologinen hionta
+
+@RUOTSI = Parodontologisk slipning
+
+@NOTE_F = Voidaan liittää SDA-ryhmän toimenpiteisiin
+
+@NOTE_S = Kan kombineras med åtgärder från SDA-gruppen
+
+@END = 
+
+@KOODI_R = SF
+
+@SUOMI_R = Paikkaushoidot
+
+@RUOTSI_R = Fyllningsterapi
+
+@NOTE_RF = Paikkaushoidon toimenpiteeseen sisältyy vanhan täytteen purkaminen, kaviteetin valmistus, eristyksen ja alustäytteen laittaminen, valmiin täytteen viimeistely ja kiillotus.
+
+@NOTE_RF =
+Paikkaushoidon toimenpiteet ovat hammaspintakohtaisia.
+
+@NOTE_RF =
+Yhdessä hampaassa on näissä toimenpiteissä viisi hammaspintaa.
+
+@NOTE_RS = I en fyllningsåtgärd ingår avlägsnandet av gammal fyllning, preparering av kaviteten, isolering och underfyllning och finisering av färdiga fyllningen
+
+@NOTE_RS =
+Fyllningåtgärderna är tandytsrelaterade
+
+@NOTE_RS =
+En tand har vid dessa åtgärder fem tandytor
+
+@END = 
+
+@KOODI_A = SFA
+
+@NCSP_A = SFXA
+
+@SUOMI_A = Paikkaushoito suoralla menetelmällä
+
+@RUOTSI_A = Direkt fyllningsterapi
+
+@END = 
+
+@KOODI = SFA00 
+
+@NCSP = SFXA00
+
+@SUOMI = Pieni hammastäyte
+
+@RUOTSI = Liten tandfyllning
+
+@NOTE_F = Pieni korjaus tai lisäys
+
+@NOTE_F = Käytetään myöskin silloin, kun pinnoite ulottuu hammasluuhun (kts. Ehkäisevä hammashoito SCE)
+
+@NOTE_S = Liten reparation eller litet tillägg
+
+@NOTE_S =
+Användes också då fissurförsegling når in till dentinet (se preventiv tandvård SCE)
+
+@END = 
+
+@KOODI = SFA10 
+
+@NCSP = SFXA10
+
+@SUOMI = Yhden pinnan täyte
+
+@RUOTSI = Fyllning på en yta
+
+@NOTE_F = Täyte korvaa huomattavan osan yhdestä pinnasta
+
+@NOTE_F = Jos samalle pinnalle tehdään saman hoitojakson aikana useampia täytteitä, merkitään koodi vain kerran
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av en tandyta
+
+@NOTE_S = Om flera fyllningar görs på samma yta under samma behandling antecknas koden bara en gång.
+
+@END = 
+
+@KOODI = SFA20 
+
+@NCSP = SFXA20
+
+@SUOMI = Kahden pinnan täyte
+
+@RUOTSI = Fyllning på två ytor
+
+@NOTE_F = Täyte korvaa huomattavan osan kahdesta hampaan pinnasta
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av två tandytor   
+
+@END = 
+
+@KOODI = SFA30 
+
+@NCSP = SFXA30
+
+@SUOMI = Kolmen tai useamman pinnan täyte
+
+@RUOTSI = Fyllning på tre eller flera ytor
+
+@NOTE_F = Täyte korvaa huomattavan osan kolmesta hampaan pinnasta
+
+@NOTE_F =
+Sisältää väli- ja poskihampaaseen tunnelipreparoinnilla tehdyn täytteen
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av tre tandytor
+
+@NOTE_S = Innefattar fyllning gjord med tunnelpreparation i molar eller premolar
+
+@END = 
+
+@KOODI = SFA40 
+
+@NCSP = SFXA40
+
+@SUOMI = Hammasterä tai kruunu
+
+@RUOTSI = Krona
+
+@NOTE_F = Täyte korvaa huomattavan osan ainakin neljästä hampaan pinnasta
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av åtminstone fyra tandytor
+
+@END = 
+
+@KOODI_A = SFB
+
+@NCSP_A = SFXB
+
+@SUOMI_A = Paikkaushoito epäsuoralla menetelmällä
+
+@RUOTSI_A = Indirekt fyllningsterapi
+
+@NOTE_RF = Vähintään kaksi käyntikertaa edellyttäviä toimenpiteitä, kirjataan ja laskutetaan vain kerran
+
+@NOTE_RS = Åtgärder som förutsätter minst två besök, registreras och debiteras bara en gång
+
+@END = 
+
+@KOODI = SFB10 
+
+@NCSP = SFXB10
+
+@SUOMI = Suun ulkopuolella valmistettu yhden pinnan täyte
+
+@RUOTSI = Fyllning på en yta, tillverkad utanför munnen
+
+@NOTE_F = Täyte korvaa huomattavan osan hampaan yhdestä pinnasta
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av en tandyta
+
+@END = 
+
+@KOODI = SFB20 
+
+@NCSP = SFXB20
+
+@SUOMI = Suun ulkopuolella valmistettu kahden pinnan täyte
+
+@RUOTSI = Fyllning på två ytor, tillverkad utanför munnen
+
+@NOTE_F = Täyte korvaa huomattavan osan hampaan kahdesta pinnasta
+
+@NOTE_F =
+Sisältää etuhampaan fasadin, joka ei ulotu hampaan kärjen yli
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av två tandytor
+
+@NOTE_S = Innefattar framtandsfasader som inte når över incisalkanten
+
+@END = 
+
+@KOODI = SFB30 
+
+@NCSP = SFXB30
+
+@SUOMI = Suun ulkopuolella valmistettu kolmen pinnan täyte
+
+@RUOTSI = Fyllning på tre ytor, tillverkad utanför munnen
+
+@NOTE_F = Täyte korvaa huomattavan osan hampaan kolmesta pinnasta
+
+@NOTE_F =
+Sisältää etuhampaan fasadin, joka ulottuu hampaan kärjen yli
+
+@NOTE_S = Fyllningen ersätter en avsevärd del av tre tandytor
+
+@NOTE_S = Innefattar framtandsfasader som når över incisalkanten
+
+@END = 
+
+@KOODI_A = SFC
+
+@NCSP_A = SFXC
+
+@SUOMI_A = Paikkaushoidon tukitoimenpiteet
+
+@RUOTSI_A = Underfyllning
+
+@END = 
+
+@KOODI = SFC00 
+
+@NCSP = SFXC00
+
+@SUOMI = Alustäytepilari
+
+@RUOTSI = Pelare av fyllningsmaterial
+
+@NOTE_F = Toimenpide liittyy kruunun tai terän valmistukseen
+
+@NOTE_S = Åtgärden görs i anslutning till kronterapi
+
+@END = 
+
+@KOODI = SFC01 
+
+@NCSP = SFXC01
+
+@SUOMI = Paikkaushoidon tukitoimenpide
+
+@RUOTSI = Stödåtgärd för fyllningsterapi
+
+@NOTE_F = Kesto enintään 10 min
+
+@NOTE_F =
+Sisältää esim. parapulpaalinastan asettamisen tai alustäytteen valmistamisen erillisellä käyntikerralla
+
+@NOTE_S = Tar högst 10 min.
+
+@NOTE_S =
+Innehåller t.ex. användning av parapulpal stift eller fyllning vid ett separat besök
+
+@END = 
+
+@KOODI = SFC92 
+
+@NCSP = SFXC92
+
+@SUOMI = Muu vaativa paikkaushoidon tukitoimenpide
+
+@RUOTSI = Annan krävnande stödåtgärd för fyllningsterapi
+
+@NOTE_F = Kesto yli 10 min
+
+@NOTE_S = Tar över 10 min
+
+@END = 
+
+@KOODI_R = SG
+
+@SUOMI_R = Hampaan juurenhoito
+
+@RUOTSI_R = Rotbehandling av tand
+
+@NOTE_RF = Toimenpiteet ovat aikaperusteisiä ja hammaskohtaisia
+
+@NOTE_RS = Åtgärder är tidsbaserade och antecknas per tand
+
+@END = 
+
+@KOODI_A = SGA
+
+@NCSP_A = SGXA
+
+@SUOMI_A = Hampaan juurikanavien avaus ja laajennus
+
+@RUOTSI_A = Preparation och expandering av rotkanaler
+
+@NOTE_RF = Sisältää mahdollisen lääkehoidon
+
+@NOTE_RS = Inkluderar eventuell medicinering
+
+@END = 
+
+@KOODI = SGA02 
+
+@NCSP = SGXA02
+
+@SUOMI = Hampaan juurikanavien avaus ja laajennus
+
+@RUOTSI = Upprensning och preparation av tandens rotkanaler
+
+@NOTE_F = Kesto enintään 20 min
+
+@NOTE_F =
+1-kanavaisen hampaan juurihoito kuuluu usein tähän ryhmään
+
+@NOTE_S = Tar högst 20 min,
+
+@NOTE_S =
+Hit hör ofta preparation av tand med en rotkanal
+
+@END = 
+
+@KOODI = SGA03 
+
+@NCSP = SGXA03
+
+@SUOMI = Hampaan juurikanavien avaus ja laajennus, vaativa
+
+@RUOTSI = Krävande upprensning och preparation av rotkanaler
+
+@NOTE_F = Kesto enintään 30 min
+
+@NOTE_F =
+2-kanavaisen hampaan juurihoito kuuluu usein tähän ryhmään
+
+@NOTE_S = Tar högst 30 min.
+
+@NOTE_S =
+Hit hör ofta preparation av tand med två rotkanaler
+
+@END = 
+
+@KOODI = SGA04 
+
+@NCSP = SGXA04
+
+@SUOMI = Hampaan juurikanavien avaus ja laajennus, erittäin vaativa
+
+@RUOTSI = Mycket krävande upprensning och preparation av rotkanaler
+
+@NOTE_F = Kesto enintään 45 min
+
+@NOTE_F =
+3-kanavaisen hampaan juurihoito kuuluu usein tähän ryhmään
+
+@NOTE_S = Tar högst 45 min.
+
+@NOTE_S =
+Hit hör oftast preparation av tand med tre rotkanaler
+
+@END = 
+
+@KOODI = SGA05 
+
+@NCSP = SGXA05
+
+@SUOMI = Hampaan juurikanavien  avaus ja laajennus, erittäin vaativa ja pitkäkestoinen
+
+@RUOTSI = Mycket krävande upprensning och preparation av rotkanaler, långvarig
+
+@NOTE_F = Kesto yli 45 min
+
+@NOTE_S = Tar över 45 min
+
+@END = 
+
+@KOODI_A = SGB
+
+@NCSP_A = SGXB
+
+@SUOMI_A = Hampaan juurentäyttö
+
+@RUOTSI_A = Fyllning av rotkanaler
+
+@END = 
+
+@KOODI = SGB00 
+
+@NCSP = SGXB00
+
+@SUOMI = Osittainen hammasytimen poisto (amputaatio)
+
+@RUOTSI = Partiell exstirpation av pulpan (amputation)
+
+@NOTE_F = Hammaspulpan  osittainen poisto ja pulpaontelon täyttäminen
+
+@NOTE_S = Partiell exstirpation och fyllning av pulpacavum
+
+@END = 
+
+@KOODI = SGB10 
+
+@NCSP = SGXB10
+
+@SUOMI = Hampaan juurentäyttö, 1-juurikanavainen hammas
+
+@RUOTSI = Rotfyllning, tand med en rotkanal
+
+@END = 
+
+@KOODI = SGB20 
+
+@NCSP = SGXB20
+
+@SUOMI = Hampaan juurentäyttö, 2-juurikanavainen hammas
+
+@RUOTSI = Rotfyllning, tand med två rotkanaler
+
+@END = 
+
+@KOODI = SGB30 
+
+@NCSP = SGXB30
+
+@SUOMI = Muu vaativa juurentäyttö
+
+@RUOTSI = Annan krävande rotfyllning
+
+@NOTE_F = Sisältää 3- tai useampijuurikanavaisen hampaan juurentäytön
+
+@NOTE_S = Innefattar rotfyllning av tand med tre eller flera rotkanaler
+
+@END = 
+
+@KOODI_A = SGC
+
+@NCSP_A = SGXC
+
+@SUOMI_A = Muut juurenhoitotoimenpiteet
+
+@RUOTSI_A = Övriga rotbehandlingsåtgärder
+
+@END = 
+
+@KOODI = SGC00 
+
+@NCSP = SGXC00
+
+@SUOMI = Juurikanavien lääkehoito
+
+@RUOTSI = Lokal medicinering av rotkanaler
+
+@NOTE_F = Aikaisemmin avattujen juurikanavien lääkehoito erillisellä käynnillä
+
+@NOTE_S = Behandling av tidigare preparerade rotkanaler vid separat besök
+
+@END = 
+
+@KOODI = SGC10 
+
+@NCSP = SGXC10
+
+@SUOMI = Hammasytimen (pulpan) kattaminen
+
+@RUOTSI = Överkappning av pulpan
+
+@NOTE_F = Pulpan kattamistoimenpide erillisellä käynnillä
+
+@NOTE_F =
+Sisältää mahdollisen väliaikaisen täytteen
+
+@NOTE_S = Överkappning av pulpan vid separat besök
+
+@NOTE_S =
+Inkluderar eventuell provisorisk fyllning
+
+@END = 
+
+@KOODI_R = SH
+
+@SUOMI_R = Purentafysiologia
+
+@RUOTSI_R = Bettfysiologi
+
+@NOTE_RF = Purentafysiologinen hoito edellyttää diagnosoitua toimintahäiriötä, purennan sairautta tai vammaa. Tavanomainen kontrolli muun hammashoidon yhteydessä ei ole tässä tarkoitettua purentafysiologista hoitoa
+
+@NOTE_RS = Bettfysiologisk behandling förutsätter en diagnostiserad funktionsstörning, bettanomali eller skada.  En normal kontroll i samband med annan tandvård utgör inte sådan bettfysiologisk vård som här avses
+
+@END = 
+
+@KOODI_A = SHA
+
+@NCSP_A = SHXA
+
+@SUOMI_A = Purentafysiologinen hoitokäynti
+
+@RUOTSI_A = Bettfysiologisk behandling
+
+@NOTE_RF = Kaikki yhdellä käyntikerralla suoritetut purentafysiologiset toimenpiteet, joita ei ole muualla erikseen luokiteltu, ilmaistaan yhdellä koodilla
+
+@NOTE_RS = Alla  de bettfysiologiska åtgärder som utförts vid samma besök, och som inte har en egen kod i ett annat sammanhang, betecknas med en enda kod
+
+@END = 
+
+@KOODI = SHA01 
+
+@NCSP = SHXA01
+
+@SUOMI = Purentafysiologinen hoitokäynti, suppea
+
+@RUOTSI = Begränsad bettfysiologisk behandling
+
+@NOTE_F = Kesto enintään 10 min
+
+@NOTE_S = Tar högst 10 min.
+
+@END = 
+
+@KOODI = SHA02 
+
+@NCSP = SHXA02
+
+@SUOMI = Purentafysiologinen hoitokäynti
+
+@RUOTSI = Bettfysiologisk behandling
+
+@NOTE_F = Kesto enintään 20 min
+
+@NOTE_S = Tar högst 20 min.
+
+@END = 
+
+@KOODI = SHA03 
+
+@NCSP = SHXA03
+
+@SUOMI = Purentafysiologinen hoitokäynti, vaativa
+
+@RUOTSI = Krävande bettfysiologisk behandling
+
+@NOTE_F = Kesto enintään 30 min
+
+@NOTE_S = Tar högst 30 min.
+
+@END = 
+
+@KOODI = SHA04 
+
+@NCSP = SHXA04
+
+@SUOMI = Purentafysiologinen hoitokäynti, erittäin vaativa
+
+@RUOTSI = Mycket krävande bettfysiologisk behandling
+
+@NOTE_F = Kesto yli 30 min
+
+@NOTE_S = Tar över 30 min.
+
+@END = 
+
+@KOODI_A = SHB
+
+@NCSP_A = SHXB
+
+@SUOMI_A = Purentakisko
+
+@RUOTSI_A = Bettskena
+
+@END = 
+
+@KOODI = SHB00 
+
+@NCSP = SHXB00
+
+@SUOMI = Purentakiskon valmistus ja suuhun sovitus
+
+@RUOTSI = Tillverkning och inprovning av bettskena
+
+@NOTE_F = Toimenpide on hoitokokonaisuus, joka käsittää purentakiskon valmistuksen jäljennöksineen ja käyttöohjeineen
+
+@NOTE_F =
+Uniapneakisko
+
+@NOTE_F =
+Leukanivelen sijoiltaan menon reponointi kts. TED00
+
+@NOTE_S = Åtgärden är en helhet som innefattar hela tillverkningen av en bettskena inklusive avtryck och patienthandledning
+
+@NOTE_S =
+Uniapneskena
+
+@NOTE_S =
+Reponering av luxerad käkled se TED00
+
+@END = 
+
+@KOODI_R = SJ
+
+@SUOMI_R = Oikomishoito
+
+@RUOTSI_R = Ortodontisk vård
+
+@END = 
+
+@KOODI_A = SJA
+
+@NCSP_A = SJXA
+
+@SUOMI_A = Oikomishoidon suunnittelu
+
+@RUOTSI_A = Planering av ortodontisk vård
+
+@NOTE_RF = Tähän sisältyy oikomiskojeen suunnittelu kirjallisine hoitosuunnitelmineen tai muu vastaava toimenpide
+
+@NOTE_RS = Innefattar planering av ortodonktisk apparatur med skriftlig dokument och anna motsvarande åtgärd
+
+@END = 
+
+@KOODI = SJA01 
+
+@NCSP = SJXA01
+
+@SUOMI = Oikomishoidon tarpeen arviointi
+
+@RUOTSI = Uppskattning av behov av ortodontisk vård
+
+@NOTE_F = Hammaslääkärin tekemä seulontatutkimus
+
+@NOTE_F =
+Hoidon tuloksen arviointi ja lopputarkastus
+
+@NOTE_S = Screeningundersäkning utförd av tandläkare
+
+@NOTE_S =
+Utvärdering av vårdresultat och slutgranskning
+
+@END = 
+
+@KOODI = SJA02 
+
+@NCSP = SJXA02
+
+@SUOMI = Oikomishoidon työsuunnittelu
+
+@RUOTSI = Planering av ortodontisk apparatur
+
+@NOTE_F = Enintään 20 min
+
+@NOTE_S = Högst 20 min
+
+@END = 
+
+@KOODI = SJA03 
+
+@NCSP = SJXA03
+
+@SUOMI = Vaativa oikomishoidon työsuunnittelu
+
+@RUOTSI = Krävande planering av ortodontisk apparatur
+
+@NOTE_F = Enintään 30 min
+
+@NOTE_S = Högst 30 min.
+
+@END = 
+
+@KOODI = SJA04 
+
+@NCSP = SJXA04
+
+@SUOMI = Erittäin vaativa oikomishoidon työsuunnittelu
+
+@RUOTSI = Mycket krävande planering av ortodontisk apparatur
+
+@NOTE_F = Yli 30 min
+
+@NOTE_F =
+Esim. kasvokaarianalyysi ja konstruktiopurennan hoito
+
+@NOTE_S = Över 30 min
+
+@NOTE_S =
+T.ex. analys med hjälp av ansiktsbåge och registrering av konstruktionsbett
+
+@END = 
+
+@KOODI_A = SJB
+
+@NCSP_A = SJXB
+
+@SUOMI_A = Oikomishoito irtokojeilla
+
+@RUOTSI_A = Ortodontisk vård med löstagbar apparatur
+
+@END = 
+
+@KOODI = SJB00 
+
+@NCSP = SJXB00
+
+@SUOMI = Irtokojeen sovitus ja käytön opetus
+
+@RUOTSI = Inprovning av ortodontisk apparatur samt patienthandledning
+
+@END = 
+
+@KOODI = SJB10 
+
+@NCSP = SJXB10
+
+@SUOMI = Vaativa irtokojeen sovitus ja käytön opetus
+
+@RUOTSI = Inproving av ortodontisk apparatur samt patienthandledning, krävande
+
+@NOTE_F = Oraalimotorinen laite tai aktivaattori, sisältää konstruktiopurennan määrittämisen
+
+@NOTE_S = Oralmotorisk apparat eller aktivator som inkluderar definition av konstruktionsbett
+
+@END = 
+
+@KOODI = SJB30 
+
+@NCSP = SJXB30
+
+@SUOMI = Ekstraoraalijärjestelyt ja käytön opetus
+
+@RUOTSI = Extraoral apparatur samt patienthandledning
+
+@END = 
+
+@KOODI = SJB60 
+
+@NCSP = SJXB60
+
+@SUOMI = Irtokojeen hionnat ja säätö
+
+@RUOTSI = Slipning och justering av löstagbar apparatur
+
+@END = 
+
+@KOODI_A = SJC
+
+@NCSP_A = SJXC
+
+@SUOMI_A = Oikomishoito kiinteillä kojeilla
+
+@RUOTSI_A = Ortodontisk vård med fast apparatur
+
+@END = 
+
+@KOODI = SJC00 
+
+@NCSP = SJXC00
+
+@SUOMI = Etsattava tai muu vastaava kiinnike
+
+@RUOTSI = Bracket fäst med resin, plastcement eller motsvarande
+
+@END = 
+
+@KOODI = SJC05 
+
+@NCSP = SJXC00
+
+@SUOMI = Etsattava vaativa kiinnike
+
+@RUOTSI = Krävande brakett som etsas
+
+@NOTE_F = Esim. keraaminen kiinnike tai takahmpaan kiinnike
+
+@NOTE_S = T.ex. keramisk brakett eller brakett i baktand
+
+@END = 
+
+@KOODI = SJC10 
+
+@NCSP = SJXC10
+
+@SUOMI = Rengaskiinnike / hammas
+
+@RUOTSI = Ortodontiskt band / tand
+
+@END = 
+
+@KOODI = SJC20 
+
+@NCSP = SJXC20
+
+@SUOMI = Ekstraoraalivetojärjestelyt ja käytön opetus
+
+@RUOTSI = Extraoralt drag och patienthandledning
+
+@END = 
+
+@KOODI = SJC40 
+
+@NCSP = SJXC40
+
+@SUOMI = Kiinteän oikomiskojeen purkaminen - enintään 6 kiinnikettä
+
+@RUOTSI = Uttagning av fast ortodontisk apparatur - högst 6 brackets
+
+@NOTE_F = Leukaa kohden
+
+@NOTE_S = Per käke
+
+@END = 
+
+@KOODI = SJC50 
+
+@NCSP = SJXC50
+
+@SUOMI = Kiinteän oikomiskojeen purkaminen - vähintään 7 kiinnikettä
+
+@RUOTSI = Uttagning av fast ortodontisk apparatur - minst 7 brackets
+
+@NOTE_F = Leukaa kohden
+
+@NOTE_S = Per käke
+
+@END = 
+
+@KOODI_A = SJD
+
+@NCSP_A = SJXD
+
+@SUOMI_A = Oikomiskojeen kaaret
+
+@RUOTSI_A = Ortodontiska bågar
+
+@END = 
+
+@KOODI = SJD00 
+
+@NCSP = SJXD00
+
+@SUOMI = Kiinteän oikomiskojeen kaaren irroitus ja/tai uudelleen aktivointi ja kiinnitys
+
+@RUOTSI = Uttagning och/eller återaktivering och fastsättning av båge på fast ortodontisk apparatur
+
+@END = 
+
+@KOODI = SJD10 
+
+@NCSP = SJXD10
+
+@SUOMI = Kiinteän oikomiskojeen kaari
+
+@RUOTSI = Båge till fast ortodontisk apparatur
+
+@END = 
+
+@KOODI = SJD20 
+
+@NCSP = SJXD20
+
+@SUOMI = Muotoiltava kiinteän oikomiskojeen kaari
+
+@RUOTSI = Individuellt formbar båge till fast ortodontisk apparatur
+
+@END = 
+
+@KOODI = SJD30 
+
+@NCSP = SJXD30
+
+@SUOMI = Vaativa kiinteän oikomiskojeen kaari
+
+@RUOTSI = Krävande båge till fast ortodontisk apparatur
+
+@END = 
+
+@KOODI = SJD40 
+
+@NCSP = SJXD40
+
+@SUOMI = Tehdas- tai laboratoriovalmisteisen  palatinaali- tai lingualikaaren etsauskiinnitys tai sementointi
+
+@RUOTSI = Cementering av prefabricerad palatinal- eller lingualbåge
+
+@END = 
+
+@KOODI = SJD50 
+
+@NCSP = SJXD50
+
+@SUOMI = Hammaslääkärin tekemä palatinaali- tai lingualikaari juotoksineen
+
+@RUOTSI = Palatinal- eller lingualbåge tillverkad av tandläkaren, inkl. lödningar
+
+@END = 
+
+@KOODI_A = SJE
+
+@NCSP_A = SJXE
+
+@SUOMI_A = Oikomishoitoon liittyvä hionta
+
+@RUOTSI_A = Slipning i samband med ortodontisk vård
+
+@END = 
+
+@KOODI = SJE90 
+
+@NCSP = SJXE90
+
+@SUOMI = Hampaiston oikomishoidon viimeistely
+
+@RUOTSI = Avslutande åtgärder i samband med ortodontisk vård
+
+@NOTE_F = Sisältää purennan tasapainoitushionnan ja hampaiston välien hionnan
+
+@NOTE_S = Innefattar balanserande bettslipning
+
+@END = 
+
+@KOODI_A = SJX
+
+@NCSP_A = SJXX
+
+@SUOMI_A = Muu oikomishoito
+
+@RUOTSI_A = Övrig ortodontisk vård
+
+@END = 
+
+@KOODI = SJX00 
+
+@NCSP = SJXX00
+
+@SUOMI = Hammaslääkärin tekemä oikomiskojeen korjaus
+
+@RUOTSI = Reparation av ortodontisk apparatur utförd av tandläkare
+
+@END = 
+
+@KOODI = SJX10 
+
+@NCSP = SJXX10
+
+@SUOMI = Hampaiston oikomishoitoon liittyvä lyhyt hoito- tai kontrollikäynti
+
+@RUOTSI = Kort behandlings- eller kontrollbesök i samband med ortodontisk vård
+
+@NOTE_F = Käytetään vain silloin kun ei tehdä muuta oikomistoimenpidettä
+
+@NOTE_F =
+Jäljennökset ja kipsimallit ks. täydentävät tutkimukset kohdassa SB
+
+@NOTE_S = Används bara då inga andra ortodontiska behandlingsåtgärder görs
+
+@NOTE_S = Avtryck och gipsmodeller: se kompletterande undersökningar
+
+@END = 
+
+@KOODI = SJX20 
+
+@NCSP = SJXX20
+
+@SUOMI = Hampaiston oikomishoitoon liittyvä hoito- tai kontrollikäynti
+
+@RUOTSI = Behandlings- eller kontrollbesök i samband med ortodontisk vård
+
+@NOTE_F = Käytetään vain silloin kun ei tehdä muuta oikomistoimenpidettä
+
+@NOTE_F =
+Jäljennökset ja kipsimallit kts. täydentävät tutkimukset kohdassa SB
+
+@NOTE_S = Används bara då inga andra ortodontiska behandlingsåtgärder görs
+
+@NOTE_S =
+Avtryck och gipsmodeller: se kompletterande undersökningar
+
+@END = 
+
+@KOODI_R = SP
+
+@SUOMI_R = Hammasprotetiikka
+
+@RUOTSI_R = Tandprotetik
+
+@NOTE_RF = Protetiikan toimenpiteiden nimikkeeksi on turhan toistamisen välttämiseksi useimmiten valittu vain toimenpiteen lopputulos. Täten esimerksi Kokoproteesi' tarkoittaa kaikkia niitä toimenpiteitä, joita potilaan kokoproteesin tekemiseksi
+tarvitaan. Hammasteknikon työ ei kuitenkaan sisälly toimenpiteisiin.
+
+@NOTE_RS = För undvikande av upprepningar anger benämningarna på de protetiska åtgärderna i allmänhet bara behandlingens slutresultat.  Beteckningen "Helprotes" innefattar alltså alla de åtgärder som krävs för att framställa en helprotes åt patienten. Det 
+tandtekniska arbetet ingår dock inte i åtgärderna.
+
+@END = 
+
+@KOODI_A = SPA
+
+@NCSP_A = SPXA
+
+@SUOMI_A = Hammasprotetiikkaa valmistelevat toimenpiteet
+
+@RUOTSI_A = Förberedande åtgärder vid protetisk vård
+
+@END = 
+
+@KOODI = SPA00 
+
+@NCSP = SPXA00
+
+@SUOMI = Hampaiston muotoilu proteettista työtä varten
+
+@RUOTSI = Korrigering av tändernas form inför protetisk behandling
+
+@NOTE_F = Sisältää proteesin valmistukseen liittyviä valmistelutöitä, joita ovat esim. okkluusion ja purentatason hionta, tukia tai pinteitä varten tehtävät upotukset tai materiaalilisäykset sekä täytteen tai aluspilarin valmistus proteesityön yhteydessä
+tai vastaava paikkaustoimenpide.
+
+@NOTE_S = Inkluderar förberedande arbeten i samband med protes, som t.ex. slipning av ocklusion, bettnivån och protes eller slipningar och materialtillsatser för stöd och klamrar samt fyllning eller stödspelare i samband med protesarbete eller motsvarande
+
+@END = 
+
+@KOODI = SPA05 
+
+@NCSP = SPXA05
+
+@SUOMI = Ohjauskisko
+
+@RUOTSI = Styrskena
+
+@NOTE_F = Sisältää jäljennöksen oton, suuhun sovituksen ja suunniteltujen implantointikohtien merkitsemisen
+
+@NOTE_S = Inkl. model, sken anpassning i munnen samt markering av planerade implantställen
+
+@END = 
+
+@KOODI = SPA10 
+
+@NCSP = SPXA10
+
+@SUOMI = Tarkkuuskiinnikkeet hampaisiin, implantteihin tai  implantti-kiskorakenteisiin
+
+@RUOTSI = Attachments på tänder, implantat eller implantatbaserade konstruktioner
+
+@NOTE_F = Koodataan hammas- tai implanttikohtaisesti
+
+@NOTE_S = Kodning per tand eller implant
+
+@END = 
+
+@KOODI = SPA20 
+
+@NCSP = SPXA20
+
+@SUOMI = Implanttijatkeen valinta ja asettaminen
+
+@RUOTSI = Valet och placering av implantatdistans
+
+@END = 
+
+@KOODI_A = SPB
+
+@NCSP_A = SPXB
+
+@SUOMI_A = Hammasprotetiikan tilapäiset rakenteet
+
+@RUOTSI_A = Provisoriska protetiska konstruktioner
+
+@END = 
+
+@KOODI = SPB00 
+
+@NCSP = SPXB10
+
+@SUOMI = Tilapäinen tehdasvalmisteinen hammaskruunu
+
+@RUOTSI = Prefabricerad provisorisk tandkrona
+
+@END = 
+
+@KOODI = SPB10 
+
+@NCSP = SPXB10
+
+@SUOMI = Tilapäisen hammaskruunun valmistaminen vastaanotolla
+
+@RUOTSI = Framställning av provisorisk tandkrona på mottagningen
+
+@END = 
+
+@KOODI = SPB20 
+
+@NCSP = SPXB20
+
+@SUOMI = Tilapäinen hammassilta
+
+@RUOTSI = Provisorisk tandbro
+
+@NOTE_F = Väliaikaisen sillan valmistustoimenpide kutakin hammaskruunua kohden
+
+@NOTE_S = Framställning av provisorisk bro; för varje enskild krona i bron
+
+@END = 
+
+@KOODI = SPB30 
+
+@NCSP = SPXB30
+
+@SUOMI = Tilapäinen hammasosaproteesi
+
+@RUOTSI = Provisorisk delprotes av tänder
+
+@END = 
+
+@KOODI_A = SPC
+
+@NCSP_A = SPXC
+
+@SUOMI_A = Kiinteät hammasproteesit
+
+@RUOTSI_A = Fasta tandproteser
+
+@END = 
+
+@KOODI = SPC10 
+
+@NCSP = SPXC10
+
+@SUOMI = Tavallinen hammaskruunu
+
+@RUOTSI = Vanlig tandkrona
+
+@NOTE_F = Myös sillan tukihampaana
+
+@NOTE_S = Också stödtand i bro
+
+@END = 
+
+@KOODI = SPC20 
+
+@NCSP = SPXC20
+
+@SUOMI = Implanttikantoinen hammaskruunu
+
+@RUOTSI = Implantatburen tandkrona
+
+@NOTE_F = Myös sillan tukihampaana
+
+@NOTE_S = Också stödtand i bro
+
+@END = 
+
+@KOODI = SPC25 
+
+@NCSP = SPXC25
+
+@SUOMI = Muu vaativa hammaskruunu
+
+@RUOTSI = Annan krävande tandkrona
+
+@NOTE_F = Käyttäen parapulpaalinastaupotuksia tai muita vastaavia erillisiä toimenpiteitä
+
+@NOTE_F =
+Hionnaltaan, sijainniltaan tai kiinnitykseltään tai muutoin vaativan erityistason kruunun valmistus
+
+@NOTE_F =
+Toimenpide voi  tarkoittaa myös yksittäistä kruunua
+
+@NOTE_S = Med hjälp av parapulbärbefästningar eller motsvarande andra åtgärder
+
+@NOTE_S =
+Slipning, plats eller fixering eller annars krävande krona, specialnivån
+
+@NOTE_S =
+Åtgärden kan avse även en enskild krona
+
+@END = 
+
+@KOODI = SPC30 
+
+@NCSP = SPXC30
+
+@SUOMI = Pintakiinnitteinen silta
+
+@RUOTSI = Resinfästad bro
+
+@NOTE_F = Sisältää väliosat ja kiinnitykset tukihampaisiin
+
+@NOTE_F =
+Pintakiinnitteinen tai in lay -kiinnitteinen ura
+
+@NOTE_S = Inkl. mellanleden och befästningarna på stödtänderna
+
+@NOTE_S =
+In lay -befästningar
+
+@END = 
+
+@KOODI = SPC35 
+
+@NCSP = SPXC35
+
+@SUOMI = Vastaanotolla valmistettu silta (per siltayksikkö)
+
+@RUOTSI = På mottagningen tillverkad bro/broenhet
+
+@END = 
+
+@KOODI = SPC40 
+
+@NCSP = SPXC40
+
+@SUOMI = Hammasillan 1. tai 2. välihammas
+
+@RUOTSI = Tandbro, 1. eller 2. pontic (mellanled)
+
+@NOTE_F = Kuhunkin välihampaaseen liittyvä työ koodataan erikseen
+
+@NOTE_F =
+Ei koske pintakiinnitteistä siltaa (SPC30)
+
+@NOTE_S = Koden anges separat för varje mellanled i bro
+
+@NOTE_S =
+Innefattar ej resinfästad bro (SPC30)
+
+@END = 
+
+@KOODI = SPC45 
+
+@NCSP = SPXC45
+
+@SUOMI = Sillan 3. tai sitä seuraava välihammas
+
+@RUOTSI = Tandbro, 3. eller följande pontic (mellanled)
+
+@NOTE_F = Välihampaat koodataan lukumäärän mukaan
+
+@NOTE_S = Mellan lederna kodas enligt antal
+
+@END = 
+
+@KOODI = SPC50 
+
+@NCSP = SPXC50
+
+@SUOMI = Nastapilari
+
+@RUOTSI = Stiftpelare
+
+@NOTE_F = Tähän sisältyy hammasteknisessä laboratoriossa valmistettuun nastapilariin liittyvät toimenpiteet.
+
+@NOTE_F =
+Vastaanotolla valmistettu nastapilari sisältyy paikkaushoitoon kohdassa SFC00
+
+@NOTE_F =
+Etuhampaan fasadi sisältyy paikkaushoitoon kohdissa SFB20 ja  SFB30
+
+@NOTE_S = Innefattar alla åtgärder i anslutning till en guld- eller motsvarande pelare tillverkad på laboratorium
+
+@NOTE_S =
+På mottagningen gjord stiftpelare gjord av tandläkaren ingår i fyllningsterapin, se SFC00
+
+@NOTE_S =
+Fasad på framtand ingår i fyllningsterapin, se SFB20, SFB30
+
+@END = 
+
+@KOODI = SPC60 
+
+@NCSP = SPXC60
+
+@SUOMI = Parapulpaalinastan upotus
+
+@RUOTSI = Fästning parapulbarstifft
+
+@NOTE_F = Nastakohtainen
+
+@NOTE_S = Kodas per stifft
+
+@END = 
+
+@KOODI_A = SPD
+
+@NCSP_A = SPXD
+
+@SUOMI_A = Hammasprotetiikan irrotettavat kokoproteesit
+
+@RUOTSI_A = Löstagbara helproteser
+
+@END = 
+
+@KOODI = SPD00 
+
+@NCSP = SPXD00
+
+@SUOMI = Limakalvokantoinen kokoproteesi
+
+@RUOTSI = Helprotes
+
+@END = 
+
+@KOODI = SPD05 
+
+@NCSP = SPXD05
+
+@SUOMI = Vaativa limakalvokantoinen kokoproteesi
+
+@RUOTSI = Krävande helprotes
+
+@NOTE_F = Esim. pitkälle mennyt alveoliatrofia tai leukojen epäsuhde
+
+@NOTE_S = T.ex. vid framskriden alveolatrofi eller diskrepans mellan över- och underkäke
+
+@END = 
+
+@KOODI = SPD10 
+
+@NCSP = SPXD10
+
+@SUOMI = Implantti- ja limakalvokantoinen kokoproteesi
+
+@RUOTSI = Implantat- och slemhinneburen helprotes
+
+@NOTE_F = Peittoproteesi on implantti- ja limakalvokantoinen
+
+@NOTE_S = Täckprotes stödd på slemhinna och implantat
+
+@END = 
+
+@KOODI = SPD20 
+
+@NCSP = SPXD20
+
+@SUOMI = Implanttikantoinen kokoproteesi
+
+@RUOTSI = Implantatburen helprotes
+
+@END = 
+
+@KOODI_A = SPE
+
+@NCSP_A = SPXE
+
+@SUOMI_A = Hammasprotetiikan irrotettavat osaproteesit
+
+@RUOTSI_A = Löstagbara delproteser
+
+@END = 
+
+@KOODI = SPE00 
+
+@NCSP = SPXE00
+
+@SUOMI = Metallirunkoinen osaproteesi
+
+@RUOTSI = Partiell protes med gjutet skelett
+
+@END = 
+
+@KOODI = SPE05 
+
+@NCSP = SPXE05
+
+@SUOMI = Vaativa metallirunkoinen osaproteesi
+
+@RUOTSI = Krävande partiell protes med gjutet skelett
+
+@NOTE_F = Vaatii esim. purennan muuttamista
+
+@NOTE_S = Fordrar t.ex. ändring av bettförhållandet
+
+@END = 
+
+@KOODI = SPE10 
+
+@NCSP = SPXE10
+
+@SUOMI = Implanttikantoinen osaproteesi
+
+@RUOTSI = Implantatburen delprotes
+
+@NOTE_F = Hammasosa täysin implanttikantoinen
+
+@NOTE_S = Proteständerna helt implantatburna
+
+@END = 
+
+@KOODI = SPE90 
+
+@NCSP = SPXE90
+
+@SUOMI = Muu hampaisto osaproteesi
+
+@RUOTSI = Annan partiell tandprotes
+
+@NOTE_F = Sisältää akryyliosaproteesin
+
+@NOTE_S = Innefattar partiell protes av akrylat
+
+@END = 
+
+@KOODI_A = SPF
+
+@NCSP_A = SPXF
+
+@SUOMI_A = Hammasproteettiset korjaustoimenpiteet
+
+@RUOTSI_A = Reparationer av tandproteser
+
+@END = 
+
+@KOODI = SPF00 
+
+@NCSP = SPXF00
+
+@SUOMI = Hammasproteesin korjaus
+
+@RUOTSI = Reparation av tandprotes
+
+@NOTE_F = Pieni proteesin pohjaus ilman jäjennöstä
+
+@NOTE_S = Mindre rebasering av protes, utan avtryck
+
+@END = 
+
+@KOODI = SPF10 
+
+@NCSP = SPXF10
+
+@SUOMI = Vaativa proteesin korjaus
+
+@RUOTSI = Krävande reparation av protes
+
+@NOTE_F = Proteesin korjaus, joka edellyttää jäljennöstä
+
+@NOTE_S = Reparation som förutsätter avtryck
+
+@END = 
+
+@KOODI = SPF20 
+
+@NCSP = SPXF20
+
+@SUOMI = Väliaikainen pohjaus
+
+@RUOTSI = Provisorisk rebasering
+
+@NOTE_F = Immediaattiproteesin valmistuksen jälkeen tapahtuva väliaikainen pohjaus tai muu väliaikainen pohjaus
+
+@NOTE_S = Provisorisk rebasering, t.ex. efter inprovning av immediatprotes
+
+@END = 
+
+@KOODI = SPF30 
+
+@NCSP = SPXF30
+
+@SUOMI = Proteesin pohjaus
+
+@RUOTSI = Rebasering av protes
+
+@NOTE_F = Sisältää reunojen ja ulkopintojen muotoilun, okkluusion korjauksen sekä yhden jälkikäynnin
+
+@NOTE_S = Innefattar trimming av kanter och yttre ytor, korrigering av ocklusionen och en efterkontroll
+
+@END = 
+
+@KOODI = SPF40 
+
+@NCSP = SPXF40
+
+@SUOMI = Hammaskruunun tai pienen sillan irrottaminen ja uudelleen sementointi
+
+@RUOTSI = Uttagning och återcementering av tandkrona eller mindre bro
+
+@END = 
+
+@KOODI = SPF50 
+
+@NCSP = SPXF50
+
+@SUOMI = Hammassillan irrottaminen, korjaus ja uudelleen sementointi
+
+@RUOTSI = Uttagning, reparation och återcementering av tandbro
+
+@NOTE_F = Kesto yli 30 min.
+
+@NOTE_S = Tar över 30 min
+
+@END = 
+
+@KOODI = SPF60 
+
+@NCSP = SPXF60
+
+@SUOMI = Fasadin korjaus
+
+@RUOTSI = Reparation av fasad
+
+@NOTE_F = Fasadin korjaus vastaanotolla täyteaineella
+
+@NOTE_S = Reparation av fasad med fyllningsmaterial på mottagningen
+
+@END = 
+
+@KOODI_A = SPG
+
+@NCSP_A = SPXG
+
+@SUOMI_A = Kasvoproteesit ja muut suun alueen erityisproteesit
+
+@RUOTSI_A = Ansiktsproteser och andra speciala proteser för munområdet
+
+@END = 
+
+@KOODI = SPG00 
+
+@NCSP = SPXG00
+
+@SUOMI = Alaleuan hampaiston erityisproteesi
+
+@RUOTSI = Special tandprotes i underkäken
+
+@END = 
+
+@KOODI = SPG10 
+
+@NCSP = SPXG10
+
+@SUOMI = Yläleuan erityisproteesi
+
+@RUOTSI = Specialprotes i underkäken
+
+@END = 
+
+@KOODI = SPG15 
+
+@NCSP = SPXG15
+
+@SUOMI = Yläleuan vaativa erityisproteesi
+
+@RUOTSI = Omfattande specialprotes i underkäken
+
+@END = 
+
+@KOODI_R = SX
+
+@SUOMI_R = Muut suun ja hampaiden hoidon toimenpiteet
+
+@RUOTSI_R = Övriga åtgärder i munnen och  och på tänderna
+
+@END = 
+
+@KOODI = SXA00 
+
+@NCSP = SXXA00
+
+@SUOMI = Märkivän hampaan avaus
+
+@RUOTSI = Öppnande av tand i gangren
+
+@END = 
+
+@KOODI = SXA10 
+
+@NCSP = SXXA10
+
+@SUOMI = Suun alueen limakalvonäytteen otto
+
+@RUOTSI = Slemhinnebiopsi i munnen
+
+@NOTE_F = Sisältää huulet
+
+@NOTE_F =
+Suun alueen neulakudosnäytteet kohdassa TE
+
+@NOTE_S = Innefattar också läpparna
+
+@NOTE_S = Punktionsbiopsier i munnen, se TE
+
+@END = 
+
+@KOODI = SXA20 
+
+@NCSP = SXXA20
+
+@SUOMI = Suun alueen paikallinen lääkehoito
+
+@RUOTSI = Lokal läkemedelsbehandling i munnen
+
+@END = 
+
+@KOODI = SXB00 
+
+@NCSP = SXXB00
+
+@SUOMI = Suun alueen limakalvo-ompeleiden poisto
+
+@RUOTSI = Avlägsnande av stygn från slemhinna i munnen
+
+@END = 
+
+@KOODI = SXB10 
+
+@NCSP = SXXB10
+
+@SUOMI = Kiinnityksen tai kiskotuksen purkaminen
+
+@RUOTSI = Avlägsnande av sammankoppling eller fixation
+
+@NOTE_F = Esim. traumojen, purentafysiologisten tai parodontologisten hoitojen kiskotusten purkaminen
+
+@NOTE_S = T.ex vid trauma, bettfysiologisk eller parodontologisk vård
+
+@END = 

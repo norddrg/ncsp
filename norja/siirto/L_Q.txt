@@ -1,0 +1,4610 @@
+
+###
+#KOODI_L    Q
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Skin
+#RUOTSI     ---
+#ENGL       Skin
+#OHJE_S  
+Includes: Subcutaneous tissue
+Additional codes for specification of grafts and flaps, see: ZZ
+Regions
+QA–Head and neck
+QB–Trunk
+QC–Upper limb
+QD–Lower limb
+QX–Unspecified region
+Procedures
+QxA–Incision and biopsy
+QxB–Procedures for wounds
+QxC–Removal of foreign body from skin and miscellaneous locations
+QxD–Procedures for burns
+QxE–Excision and repair of lesions
+QxF–Operations on hair bearing skin
+QxG–Operations for chronic ulcers and fistulae
+QxH–Operations on nail
+QxJ–Cosmetic operations
+QW–Reoperations on skin
+#OHJE_R 
+---
+###
+#KOODI_R    QA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Head and neck
+#RUOTSI     ---
+#ENGL       Head and neck
+###
+#KOODI_A    QAA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision of skin of head and neck
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Puncture, local destruction
+#OHJE_R 
+---
+###
+#KOODI      QAA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon av hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasio på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA25  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon av hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon av hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon av hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for wounds of skin of head and neck
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Burns
+#OHJE_R 
+---
+###
+#KOODI      QAB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevisjon på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskiftning på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskifting på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Større sårskifting på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from head and neck
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Of foreign bodies having penetrated skin, not elswhere specified
+#OHJE_R 
+---
+###
+#KOODI      QAC00  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for burns of head and neck
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QAD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større forbrenning på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av forbrenning på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av brannskade på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av brannskade på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av forbrenning på hode eller hals med dekning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brannskade på hode eller hals med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brannskade på hode eller hals med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision and repair of lesion of skin of head and neck
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Of tumour, scar, web, defect or malformation of skin or subcutaneous tissueAdditional codes for classification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      QAE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hud fra hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hud fra hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hud fra hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excis av svettkjertler el hud med svettkjertler på hode/hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE05  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hudlesjon på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr eller hudmembran på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr på hode eller hals etter forbrenning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr på hode eller hals etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr på hode eller hals etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av kirurgisk arr på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr ved huddefekt på hode/hals etter kirurgi el skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på hode eller hals etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE35  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på hode eller hals etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/anomali el sekvele etter sykd i hud på hode/hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal excisjon eller rekonstruksjon i hud på hode/hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAF
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on scalp and eyebrow
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Operation for ptosis of eyebrow, see: CBJ
+#OHJE_R 
+---
+###
+#KOODI      QAF00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantasjon av behåret hud til hodebunn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAF10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon av øyebryn med transplantasjon av behåret hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAF99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annet inngrep for behåring av hodebunn eller øyebryn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for chronic ulcers and fistulae of skin of head and neck
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QAG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller fistel i hud på hode el hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller fistel i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller fistel i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Forsinket hudsutur på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen op for kronisk sår eller fistel i hud på hode/hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller fistel i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller fistel i hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aesthetic operations on skin of head and neck
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+On skin of eyelid, see: CBB
+#OHJE_R 
+---
+###
+#KOODI      QAJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsuging på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Panneløfting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ15  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Panneløfting med bruk av videoendoskop
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Subperiosteal ansiktsløfting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Subperiostal ansiktsløfting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subperiostal ansiktsløfting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ansiktsløfting med bruk av videoendoskop
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen ansiktsløfting
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen korreksjon av løs eller overflødig hud på hode/hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen korreksjon av løs eller overflødig hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ35  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen korreksjon av løs eller overflødig hud på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kosmetisk hudoperasjon på hode eller hals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Trunk
+#RUOTSI     ---
+#ENGL       Trunk
+###
+#KOODI_A    QBA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Puncture, incision or local destruction of lesion of skin of trunk
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Puncture, local destruction
+#OHJE_R 
+---
+###
+#KOODI      QBA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon av hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Incisjon i hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Incisjon i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dermabrasio på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dermabrasio på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasio på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA25  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon av hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon i hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA40  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA50  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA50  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for wounds of skin
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Burns
+#OHJE_R 
+---
+###
+#KOODI      QBB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sutur av hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sutur av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårrevisjon på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårrevisjon på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB05  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevisjon på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskiftning på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskifting på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Større sårskifting på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from skin of trunk
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Of foreign bodies having penetrated skin, not elswhere specified
+#OHJE_R 
+---
+###
+#KOODI      QBC00  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    1999/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBC00  
+#MUUT_PVM   2003/12/10
+#KAYTPVM    2004/01/01
+#POISTPVM   2003/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBC00  
+#MUUT_PVM   2003/12/14
+#KAYTPVM    2004/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBC00  
+#MUUT_PVM   2006/10/27
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for burns of trunk
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QBD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større forbrenning på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av forbrenning på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av brannskade på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av brannskade på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av forbrenning på truncus med dekning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brannskade på trunkus med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brannskade på trunkus med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision and repair of lesion of skin of trunk
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Of tumour, scar, web, defect or malformation of skin or subcutaneous tissueAdditional codes for classification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      QBE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hud fra truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hud fra trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hud fra trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisj av svettkjertler el hud med svettkjertler på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE05  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hudlesjon på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr eller hudmembran på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr på truncus etter forbrenning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr på trunkus etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr på trunkus etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av kirurgisk arr på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på truncus etter kirurgi/skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på trunkus etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE35  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på trunkus etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/anomali el sekvele etter sykdom i hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal excisjon eller rekonstruksjon i hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for chronic ulcers and fistulae of skin of trunk
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QBG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av decubitus på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av dekubitalsår på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av dekubitalsår på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av decubitus på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av dekubitalsår på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av dekubitalsår på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Forsinket hudsutur på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Forsinket hudsutur på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Forsinket hudsutur på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aesthetic operations on skin of trunk
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QBJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fettsuging i truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fettsuging i trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsuging i trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av abdominalt hudforkle
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen kosmetisk korreksjon av hud på truncus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen kosmetisk korreksjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ99  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kosmetisk korreksjon av hud på trunkus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Puncture, incision or local destruction of lesion of skin of upper limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Puncture, local destruction
+#OHJE_R 
+---
+###
+#KOODI      QCA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon av hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasio på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA25  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon av hud på overekstremitetene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon av hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for wounds of skin of upper limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Burns
+#OHJE_R 
+---
+###
+#KOODI      QCB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevisjon på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskiftning på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskifting på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Større sårskifting på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from skin and miscellaneous locations
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Of foreign bodies having penetrated skin, not elswhere specified
+#OHJE_R 
+---
+###
+#KOODI      QCC00  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for burns of upper limb
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QCD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større forbrenning på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av forbrenning på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av brannskade på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av brannskade på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av forbrenning på overekstremitet med dekning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brannskade på overekstremitet med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brannskade på overekstremitet med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision and repair of lesion of skin of upper limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Of tumour, scar, web, defect or malformation of skin or subcutaneous tissueAdditional codes for classification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      QCE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hud fra overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hud fra overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hud fra overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisj av svettkjertler el hud med svettkjertler på overextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE05  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hudlesjon på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr eller hudmembran på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr på overekstremitet etter forbrenning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr på overekstremitet etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr på overekstremitet etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av kirurgisk arr på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/huddefekt på overekstremitet etter kirurgi/skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på overekstremitet etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE35  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på overekstremitet etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/anomali el sekvele etter sykdom i hud på overextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal excisjon eller rekonstruksjon i hud på overextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for chronic ulcers and fistulae of skin of upper limb
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QCG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Forsinket hudsutur på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCG99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på overextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCG99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCG99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on finger nails
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QCH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avulsjon av fingernegl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av negleseng på finger
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av negleseng på finger
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av negleseng på finger
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av negledeformitet på finger
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantasjon av negl til finger
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH40  
+#MUUT_PVM   2012/01/12
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punksjon av fingernegl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsuging på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCJ05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av løs eller overflødig hud på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCJ99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kosmetisk hudoperasjon på overekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lower limb
+#RUOTSI     ---
+#ENGL       Lower limb
+###
+#KOODI_A    QDA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Puncture, incision or local destruction of lesion of skin of lower limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Puncture, local destruction
+#OHJE_R 
+---
+###
+#KOODI      QDA00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon av hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasio på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA25  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av lesjon av hud på underekstremitetene
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon av hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for wounds of skin of lower limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Burns
+#OHJE_R 
+---
+###
+#KOODI      QDB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevisjon på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskiftning på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskifting på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Større sårskifting på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from skin of lower limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Of foreign bodies having penetrated skin, not elswhere specified
+#OHJE_R 
+---
+###
+#KOODI      QDC00  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for burns of lower limb
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QDD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større forbrenning på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av forbrenning på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av brannskade på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av brannskade på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av forbrenning på underekstremitet med dekning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brannskade på underekstremitet med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brannskade på underekstremitet med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision and repair of lesion of skin of lower limb
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Of tumour, scar, web, defect or malformation of skin or subcutaneous tissueAdditional codes for classification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      QDE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hud fra underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hud fra underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hud fra underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisj av svettkjertler el hud m/svettkjertler på underextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE05  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hudlesjon på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hudlesjon på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr eller hudmembran på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr på underekstremitet etter forbrenning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr på underekstremitet etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr på underekstremitet etter brannskade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av kirurgisk arr på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/huddefekt på underekstremitet etter kirurgi/skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på underekstremitet etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE35  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt på underekstremitet etter kirurgi eller skade
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/anomali el sekvele etter sykd i hud på underextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal excisjon eller rekonstruksjon i hud på underextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for chronic ulcers and fistulae of skin of lower limb
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QDG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av decubitus på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av dekubitalsår på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av dekubitalsår på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av decubitus på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av dekubitalsår på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av dekubitalsår på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på underextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller hudfistel på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Forsinket hudsutur på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på underextr
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller hudfistel på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bandasjering av leggsår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDGX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stell av diabetisk fotsår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDH
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations on toe nails
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QDH00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avulsjon av tånegl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av negleseng på tå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av negleseng på tå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av negleseng på tå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av negledeformitet på tå
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH40  
+#MUUT_PVM   2012/01/12
+#KAYTPVM    2012/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punksjon av tånegl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aesthetic operations on skin of lower extremity
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QDJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsuging i underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDJ05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av løs eller overflødig hud på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDJ99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kosmetisk hudoperasjon på underekstremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperations on skin
+#RUOTSI     ---
+#ENGL       Reoperations on skin
+###
+#KOODI_A    QWA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Repair of wound dehiscence in surgery of skin
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QWA00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for sårruptur etter inngrep på hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QWB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for infection in surgery of skin
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound infection
+#OHJE_R 
+---
+###
+#KOODI      QWB00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for overfladisk infeksjon i hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QWB00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Reoperasjon for infeksjon i hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QWB00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for infeksjon etter inngrep på hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QWD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Reoperation for superficial haemorrhage in surgery of skin
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: For wound haemorrhage or haematoma
+#OHJE_R 
+---
+###
+#KOODI      QWD00  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperasjon for blødning etter inngrep på hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QWW
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Other reoperation in surgery of skin
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QWW99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen reoperasjon etter inngrep på hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QX
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Unspecified region
+#RUOTSI     ---
+#ENGL       Unspecified region
+###
+#KOODI_A    QXA
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Incision and biopsy of unspecified region of skin
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Puncture, local destruction
+#OHJE_R 
+---
+###
+#KOODI      QXA00  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Punksjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA05  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incisjon av hud i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasio i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA25  
+#MUUT_PVM   2010/12/08
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruksjon av hudlesjon i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Elektrokoagulasjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserterapi eller fotokoagulasjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA50  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kryokirurgi i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXA99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2010/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal destruksjon av hud i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QXB
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for wounds of unspecified region of skin
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Excludes: Burns
+#OHJE_R 
+---
+###
+#KOODI      QXB00  
+#MUUT_PVM   2009/01/08
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXB05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevisjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXB10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskiftning i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXB10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Større sårskifting i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXB10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Større sårskifting i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXB99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen kirurgisk sårbehandling i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QXC
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Removal of foreign body from skin and miscellaneous locations of unspecified region
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Of foreign bodies having penetrated skin, not elswhere specified
+#OHJE_R 
+---
+###
+#KOODI      QXC00  
+#MUUT_PVM   2002/10/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fjerning av fremmedlegeme fra uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QXD
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Procedures for burns of unspecified region
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QXD00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større forbrenning i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårskifting ved større brannskade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av forbrenning i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av brannskade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av brannskade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av forbrenning i uspesifisert hudregion med dekning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av brannskade i uspesifisert hudregion med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXD20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av brannskade i uspesifisert hudregion med dekking
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXDE00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultralydundersøkelse av hud og underhud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QXE
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision and repair of lesion of unspecified region of skin
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Includes: Of tumour, scar, web, defect or malformation of skin or subcutaneous tissueAdditional codes for classification of grafts and flaps, see: ZZ
+#OHJE_R 
+---
+###
+#KOODI      QXE00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av hud i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av hud i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av hud i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisj svettkjertler el hud m/svettkjertler i uspesif region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE05  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE05  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av svettekjertler eller hud med svettekjertler i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av lesjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av lesjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av lesjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr eller hudmembran i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE20  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr eller hudmembran i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE25  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av arr etter forbrenning i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE25  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av arr etter brannskade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE25  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av arr etter brannskade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av kirurgisk arr i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE30  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE30  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av kirurgisk arr i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE35  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/huddefekt etter kirurgi/skade i uspesif hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE35  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt etter kirurgi eller skade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE35  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved huddefekt etter kirurgi eller skade i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE40  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstr v/anomali el sekvele etter sykdom i uspesif hudreg
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE40  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE40  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruksjon ved anomali eller sekvele etter sykdom i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal excisj/rekonstruksjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXE99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen lokal eksisjon eller rekonstruksjon i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Soppdiagnostikk ved mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Soppdiagnostikk ved mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Skabbdiagnostikk ved mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skabbdiagnostikk ved mikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Mørkefeltmikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mørkefeltmikroskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFT15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dermatoskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Undersøkelse med Woods lys
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Undersøkelse med Woods lys
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lystest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX05 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lystest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fotopatchtest ved mistenkt fotoallergi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fotopatchtest ved mistenkt fotoallergi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Svettetest I
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX15 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Svettetest I
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Svettetest II
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Svettetest II
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hudtemperaturmåling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXFX30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Utredning av kroniske sår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QXG
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operations for chronic ulcers and fistulae of unspecified region of skin
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QXG00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av decubitus i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG00  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Revisjon av dekubitalsår i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG00  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revisjon av dekubitalsår i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG10  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Excisjon av decubitus i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG10  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Eksisjon av dekubitalsår i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG10  
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Eksisjon av dekubitalsår i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG20  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Op for kronisk sår eller fistel i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG20  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller fistel i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG20  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operasjon for kronisk sår eller fistel i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG30  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Forsinket hudsutur i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG99  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM   2004/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen op for kronisk sår el fistel i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG99  
+#MUUT_PVM   2004/11/22
+#KAYTPVM    2005/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller fistel i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXG99  
+#MUUT_PVM   2013/08/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annen operasjon for kronisk sår eller fistel i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGM00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Iontoferese ved hyperhidrose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGM00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iontoforese ved hyperhidrose
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Grensestrålebehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX00 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Grensestrålebehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      CO2 laserbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lysbehandling I
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX10 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lysbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX15 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lysbehandling II
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX20 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lysbehandling av nyfødte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX20 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lysbehandling av nyfødte
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX25 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Systemisk psoralen-ultrafiolett-behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX25 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Systemisk psoralen-ultrafiolett-behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX30 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Lokal psoralen-ultrafiolett-behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX30 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lokal psoralen-ultrafiolett-behandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX35 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fotodynamisk terapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX35 
+#MUUT_PVM   2007/10/22
+#KAYTPVM    2008/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Fotodynamisk terapi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX40 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Sårbehandling av kroniske sår
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX41 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårbehandling med autologt blodplatekonsentrat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX45 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kosmetologisk behandling ved alvorlige huddefekter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX50 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Dermojetbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX50 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermojetbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX70 
+#MUUT_PVM   2012/12/11
+#KAYTPVM    2008/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tatovering på medisinsk indikasjon
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXGX89 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Laserbehandling IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QXJ
+#MUUT_PVM   1995/10/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Aesthetic operations on unspecified region of skin
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QXJ00  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsuging i uspesifisert hudregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXJ05  
+#MUUT_PVM   1998/11/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korreksjon av løs eller overflødig hud i uspesifisert region
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXOB17 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Brakyterapi i hud og underhud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXXJ00 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rådgiving ved seksuelt overført sykdom (SOS) eller mistanke om sådan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXXJ05 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Kontaktoppsporing ved seksuelt overført sykdom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QXXJ10 
+#MUUT_PVM   2006/02/13
+#KAYTPVM    2005/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Rådgiving ved yrkesdermatose
+#RUOTSI     ---
+#LYHENNE    

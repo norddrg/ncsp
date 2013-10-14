@@ -1,0 +1,1409 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU M
+
+@LUVUT_S = KAPITEL M
+
+@SUOMI_L = Obstetriset toimenpiteet
+
+@RUOTSI_L = Obstetrik
+
+@ENGL_L = Obstetrics
+
+@END_L = 
+
+@KOODI_R = MA
+
+@SUOMI_R = Raskaus ja synnytys
+
+@RUOTSI_R = Graviditet och förlossning
+
+@ENGL_R = Pregnancy and at delivery
+
+@NOTE_RF = Raskauden keskeytys kohdassa LCH
+
+@NOTE_RS = Avbrytande av graviditet, se LCH
+
+@END = 
+
+@KOODI_A = MA_
+
+@NCSP_A = MAD
+
+@SUOMI_A = Raskauden ja synnytyksen aikainen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi under graviditet och förlossning
+
+@ENGL_A = Diagnostic radiology in pregnancy and at delivery
+
+@NOTE_RF = Synnytyskavan mittaus kohdassa NE
+
+@NOTE_RS = Bäckenmätning, se NE
+
+@END = 
+
+@KOODI = MA2AA 
+
+@NCSP = MADA2A
+
+@SUOMI = Sikiön röntgen
+
+@RUOTSI = Fosteröversikt, röntgen
+
+@END = 
+
+@KOODI = MA1AE 
+
+@NCSP = MADE1A
+
+@SUOMI = Varhaisraskauden UÄ
+
+@RUOTSI = Tidig graviditet, UL
+
+@NOTE_F = Tutkimus raskauden varmistamiseksi. Tyypillisesti ennen 12. raskausviikkoa
+
+@NOTE_S = Undersöknig för att säkerställa graviditet. Typiskt före utgång av 12. graviditetsvecka
+
+@END = 
+
+@KOODI = MA2AE 
+
+@NCSP = MADE2A
+
+@SUOMI = Raskaudentilan UÄ
+
+@RUOTSI = Graviditet, UL
+
+@NOTE_F = 12 raskausviikolla tai sen jälkeen. Sisältää sikiön morfologisen ja niskaturvotuksen tutkimuksen
+
+@NOTE_S = Efter utgång av 12. graviditetsvecka. Innefattar morfoligisk undesökning av fostret och mätning av nacködem
+
+@END = 
+
+@KOODI = MA2DE 
+
+@NCSP = MADE2D
+
+@SUOMI = Sikiön yksityiskohtainen vaativa UÄ-tutkimus erikoistekniikoin
+
+@RUOTSI = Foster, detaljerad grävande UL med specialtekniker
+
+@END = 
+
+@KOODI = MA2HE 
+
+@NCSP = MADE2H
+
+@SUOMI = Sikiön yksityiskohtainen UÄ morfologiatutkimus
+
+@RUOTSI = Fostermorfologi, detaljerad UL
+
+@END = 
+
+@KOODI = MA2XE 
+
+@NCSP = MADE2X
+
+@SUOMI = Obstetrinen muu UÄ
+
+@RUOTSI = Annan obstetrisk UL
+
+@END = 
+
+@KOODI = FM1NE 
+
+@NCSP = MADE32
+
+@SUOMI = Sikiön sydämen UÄ
+
+@RUOTSI = Fosterhjärta, UL
+
+@END = 
+
+@KOODI = FM1QE 
+
+@NCSP = MADE32
+
+@SUOMI = Sikiön sydämen laaja UÄ
+
+@RUOTSI = Fosterhjärta, omfattande UL
+
+@END = 
+
+@KOODI = XMA02 
+
+@NCSP = MADE32
+
+@SUOMI = Sikiön sydämen ultraäänitutkimus
+
+@RUOTSI = ultraljudsundersökning av fosterhjärta
+
+@END = 
+
+@KOODI_A = MA_
+
+@NCSP_A = MAF
+
+@SUOMI_A = Muut raskauden ja synnytyksen aikaiset diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder under graviditet och förlossning
+
+@ENGL_A = Other diagnostic procedure in pregnancy and at delivery
+
+@END = 
+
+@KOODI = XMA20 
+
+@NCSP = MAFA20
+
+@SUOMI = Varhaisraskauden tutkimus
+
+@RUOTSI = Undersökning av tidig gravidität
+
+@END = 
+
+@KOODI = XMA22 
+
+@NCSP = MAFA22
+
+@SUOMI = Raskauden yleistutkimus
+
+@RUOTSI = Generel undersökning av gravidität
+
+@END = 
+
+@KOODI_A = MAA
+
+@NCSP_A = MASA
+
+@SUOMI_A = Kohdun sisäiset tai sikiötoimenpiteet raskauden aikana
+
+@RUOTSI_A = Intrauterina operationer på gravid uterus och foster
+
+@ENGL_A = Intrauterine operations on pregnant uterus and fetus
+
+@END = 
+
+@KOODI = MAA00 
+
+@NCSP = MASA00
+
+@SUOMI = Lapsivesipisto
+
+@RUOTSI = Amniocentes
+
+@NOTE_F = Sisältää ultraääniohjauksen
+
+@NOTE_S = Innefattar ultraljudsutstyrd
+
+@END = 
+
+@KOODI = MAA03 
+
+@NCSP = MASA03
+
+@SUOMI = Ruiske tai tiputus sikiökalvopussiin
+
+@RUOTSI = Amnioinfusion
+
+@NOTE_F = Raskauden keskeyttämiseksi LCH10
+
+@NOTE_S = För avbrytande av graviditet, se LCH10
+
+@END = 
+
+@KOODI = MA4AT 
+
+@NCSP = MASA10
+
+@SUOMI = Korionbiopsia, UÄ-ohjaus
+
+@RUOTSI = Korionbiopsi , UL-styrd
+
+@END = 
+
+@KOODI = MAA10 
+
+@NCSP = MASA10
+
+@SUOMI = Koepalan otto suonikalvon nukkalisäkkeestä
+
+@RUOTSI = Biopsi av chorionvilli
+
+@NOTE_F = Koepalan otto tähystyksessä ULC05
+
+@NOTE_F =
+Koepalan otto ulttraääniohjauksessa MA4AT
+
+@NOTE_S = Biopsi vid hysteroskopi, se ULC05
+
+@NOTE_S =
+Ultraljudsutstyrd, se MA4AT
+
+@END = 
+
+@KOODI = ULC05 
+
+@NCSP = MASA12
+
+@SUOMI = Koepalan otto suonikalvon nukkalisäkkeestä kohduntähystyksessä
+
+@RUOTSI = Biopsi av chorionvillus vid hysteroskopi
+
+@END = 
+
+@KOODI = MAA20 
+
+@NCSP = MASA20
+
+@SUOMI = Ehkäisimen poisto raskaana olevasta kohdusta UÄ-ohjauksessa
+
+@RUOTSI = Avlägsnande av IUD från gravid uters med ultraljudstöd
+
+@END = 
+
+@KOODI = MAA22 
+
+@NCSP = MASA22
+
+@SUOMI = Ehkäisimen poisto raskaana olevasta kohdusta kohduntähystyksessä
+
+@RUOTSI = Hysteroskopi med avlägsnande av IUD från gravid uterus
+
+@END = 
+
+@KOODI = MAA30 
+
+@NCSP = MASA30
+
+@SUOMI = Napanuorapisto
+
+@RUOTSI = Chordocentes
+
+@END = 
+
+@KOODI = MAA32 
+
+@NCSP = MASA32
+
+@SUOMI = Sikiön napasuonen katerointi
+
+@RUOTSI = Katetrisering av fostrets navelsträngs kärl
+
+@NOTE_F = Sisältää ultraääniohjauksen
+
+@NOTE_S = Inkl ultraljudsutstyrd
+
+@END = 
+
+@KOODI = MAA34 
+
+@NCSP = MASA34
+
+@SUOMI = Siirto sikiön napasuoneen
+
+@RUOTSI = Transfusion till navelsträngs kärl
+
+@NOTE_F = Esim verisolujen, plasman tai trombosyyttien siirto
+
+@NOTE_S = T.ex. transfusion av blodceller, plasma eller trombosyter.
+
+@END = 
+
+@KOODI = MAA40 
+
+@NCSP = MASA40
+
+@SUOMI = Kudosnäytteen otto sikiöstä
+
+@RUOTSI = Punktion av foster för vävnadsbiopsi
+
+@END = 
+
+@KOODI = MAA43 
+
+@NCSP = MASA43
+
+@SUOMI = Neulan tai katetrin vieminen sikiöön
+
+@RUOTSI = Införande av nål eller kateter i foster
+
+@NOTE_F = Esim. kystan, vesirinnan tms takia
+
+@NOTE_S = T.ex. för cysta, hydrotorax
+
+@END = 
+
+@KOODI = MAA51 
+
+@NCSP = MASA51
+
+@SUOMI = Alkiontähystys ja mahdollinen toimenpide
+
+@RUOTSI = Embryoskopi, ev med operativt ingrepp
+
+@END = 
+
+@KOODI = MAA54 
+
+@NCSP = MASA54
+
+@SUOMI = Sikiöntähystys  ja mahdollinen toimenpide
+
+@RUOTSI = Fetoskopi, inkl ev ingrepp
+
+@END = 
+
+@KOODI = MAA96 
+
+@NCSP = MASA96
+
+@SUOMI = Muu kohdun sisäinen toimenpide raskauden aikana
+
+@RUOTSI = Annan öppen intrauterin operation på gravid uterus och foster
+
+@END = 
+
+@KOODI = MAA98 
+
+@NCSP = MASA98
+
+@SUOMI = Muu kohdun sisäinen toimenpide raskauden aikana kohduntähystyksessä
+
+@RUOTSI = Annan hysteroskopisk operation på gravid uterus och foster
+
+@END = 
+
+@KOODI_A = MAB
+
+@NCSP_A = MASB
+
+@SUOMI_A = Kohtuun ulkoapäin kohdistuvat toimenpiteet raskauden aikana
+
+@RUOTSI_A = Diverse ingrepp på gravid uterus eller foster
+
+@ENGL_A = Various procedures on pregnant uterus and fetus
+
+@END = 
+
+@KOODI = MAB00 
+
+@NCSP = MASB00
+
+@SUOMI = Kohdunkaulan tukiompeleen asettaminen raskauden aikana
+
+@RUOTSI = Anläggande av cervixcerclage under graviditet
+
+@END = 
+
+@KOODI = MAB03 
+
+@NCSP = MASB03
+
+@SUOMI = Kohdunkaulan tukiompeleen poisto synnytyksen vuoksi
+
+@RUOTSI = Avlägsnande av cervixcerclage under graviditet
+
+@NOTE_F = Tukiompeleen poisto muulloin kuin raskauden aikana LDD20
+
+@NOTE_S = Avlägsnande av cervixcerclage hos icke-gravida, se LDD20
+
+@END = 
+
+@KOODI = MAB10 
+
+@NCSP = MASB10
+
+@SUOMI = Sikiön ulkokäännös
+
+@RUOTSI = Yttre vändning av foster
+
+@END = 
+
+@KOODI = MAB20 
+
+@NCSP = MASB20
+
+@SUOMI = Sikiön ulkokäännösyritys
+
+@RUOTSI = Vändningsförsök av foster
+
+@NOTE_F = Epäonnistunut käännös
+
+@NOTE_S = Icke framgångsrik
+
+@END = 
+
+@KOODI_A = MAC
+
+@NCSP_A = MASC
+
+@SUOMI_A = Synnytystä käynnistävät toimenpiteet
+
+@RUOTSI_A = Ingrepp för inledande av förlossning
+
+@ENGL_A = Surgical induction of labour
+
+@END = 
+
+@KOODI = MAC00 
+
+@NCSP = MASC00
+
+@SUOMI = Vesikalvon puhkaisu synnytyksessä
+
+@RUOTSI = Amniotomi för inledande av förlossning
+
+@END = 
+
+@KOODI = MAC10 
+
+@NCSP = MASC10
+
+@SUOMI = Kohdun kaulakanavan laajennus synnytyksessä
+
+@RUOTSI = Cervixdilatation för inledande av förlossning
+
+@END = 
+
+@KOODI = MAC96 
+
+@NCSP = MASC96
+
+@SUOMI = Muu synnytystä edistävä toimenpide
+
+@RUOTSI = Annat ingrepp för inledande av förlossning
+
+@END = 
+
+@KOODI_A = MAD
+
+@NCSP_A = MASD
+
+@SUOMI_A = Synnytysteiden laajennusleikkaukset
+
+@RUOTSI_A = Vidgning av förlossningskanalen
+
+@ENGL_A = Expansion of passages to assist delivery
+
+@NOTE_RF = Episiotomia TMA00
+
+@NOTE_RS = Episiotomi, TMA00
+
+@END = 
+
+@KOODI = MAD00 
+
+@NCSP = MASD00
+
+@SUOMI = Kohdunkaulan aukaisu synnytyksessä
+
+@RUOTSI = Cervicotomi under förlossning
+
+@END = 
+
+@KOODI = MAD20 
+
+@NCSP = MASD20
+
+@SUOMI = Häpyliitoksen aukaisu synnytyksessä
+
+@RUOTSI = Symfyseotomi under förlossning
+
+@END = 
+
+@KOODI = MAD99 
+
+@NCSP = MASD99
+
+@SUOMI = Muu synnytysteiden laajennustoimenpide
+
+@RUOTSI = Andra ingrepp för att vidga förlossningskanalen
+
+@END = 
+
+@KOODI_A = MAE
+
+@NCSP_A = MASE
+
+@SUOMI_A = Imukuppiulosautto
+
+@RUOTSI_A = Förlossning med vakuumextraktor
+
+@ENGL_A = Vacuum delivery
+
+@END = 
+
+@KOODI = MAE00 
+
+@NCSP = MASE00
+
+@SUOMI = Imukuppiulosautto
+
+@RUOTSI = Vacuumextraktion av foster
+
+@END = 
+
+@KOODI = MAE03 
+
+@NCSP = MASE03
+
+@SUOMI = Imukuppiulosautto, keskikorkea tai korkea
+
+@RUOTSI = Vakuumextraktion, medelhög eller hög
+
+@END = 
+
+@KOODI = MAE20 
+
+@NCSP = MASE20
+
+@SUOMI = Imukuppiulosauttoyritys
+
+@RUOTSI = Försök till vakuumextraktion av foster
+
+@NOTE_F = Epäonnistunut ulosautto tai ennen synnytystä keskeytetty veto
+
+@NOTE_S = Misslyckat försök eller traktion som avbryts före förlossning
+
+@END = 
+
+@KOODI = MAE96 
+
+@NCSP = MASE96
+
+@SUOMI = Muu imukuppiulosauttaminen
+
+@RUOTSI = Annat förlossningsingrepp med sugklocka
+
+@END = 
+
+@KOODI_A = MAF
+
+@NCSP_A = MASF
+
+@SUOMI_A = Pihtisynnytykset
+
+@RUOTSI_A = Tångförlossningar
+
+@ENGL_A = Forceps cephalic delivery
+
+@END = 
+
+@KOODI = MAF00 
+
+@NCSP = MASF00
+
+@SUOMI = Ulosautto pihdellä
+
+@RUOTSI = Utgångstång (låg tång)
+
+@END = 
+
+@KOODI = MAF10 
+
+@NCSP = MASF10
+
+@SUOMI = Ulosautto pihdeillä, keskikorkea
+
+@RUOTSI = Medelhög tång
+
+@END = 
+
+@KOODI = MAF20 
+
+@NCSP = MASF20
+
+@SUOMI = Ulosauttoyritys pihdeillä
+
+@RUOTSI = Försök till tångextraktion
+
+@NOTE_F = Epäonnistunut ulosautto tai ennen synnytystä keskeytetty veto
+
+@NOTE_S = Misslyckat försök eller traktion som avbryts före förlossning
+
+@END = 
+
+@KOODI = MAF96 
+
+@NCSP = MASF96
+
+@SUOMI = Muu pihtisynnytys
+
+@RUOTSI = Annan tångförlossning
+
+@END = 
+
+@KOODI_A = MAG
+
+@NCSP_A = MASG
+
+@SUOMI_A = Synnytyksen poikkeavan tarjonnan toimenpiteet
+
+@RUOTSI_A = Ingrepp vid fot- eller sätesbjudning
+
+@ENGL_A = Breech delivery
+
+@END = 
+
+@KOODI = MAG00 
+
+@NCSP = MASG00
+
+@SUOMI = Perätilan ulosautto käsin
+
+@RUOTSI = Sätesförlossning, manuell
+
+@END = 
+
+@KOODI = MAG03 
+
+@NCSP = MASG03
+
+@SUOMI = Perätilan ulosautto pihdeillä
+
+@RUOTSI = Tångförlossning vid sätesbjudning
+
+@END = 
+
+@KOODI = MAG10 
+
+@NCSP = MASG10
+
+@SUOMI = Ulosveto, jalkatarjonta
+
+@RUOTSI = Manuell extraktion vid fotbjudning
+
+@END = 
+
+@KOODI = MAG11 
+
+@NCSP = MASG13
+
+@SUOMI = Ulosveto pihdeillä,  jalkatarjonta
+
+@RUOTSI = Tångextraktion vid fotbjudning
+
+@END = 
+
+@KOODI = MAG20 
+
+@NCSP = MASG20
+
+@SUOMI = Sikiön sisäkäännös ja ulosveto
+
+@RUOTSI = Inre vändning och extraktion
+
+@END = 
+
+@KOODI = MAG96 
+
+@NCSP = MASG96
+
+@SUOMI = Muu synnytyksen poikkeavaan tarjontaan liittyvä toimenpide
+
+@RUOTSI = Annat ingrepp vid avvikande bjudning
+
+@NOTE_F = Pään asennon korjaus kohdassa MAH20
+
+@NOTE_S = Korrektion av huvudställning, se MAH20
+
+@END = 
+
+@KOODI_A = MAH
+
+@NCSP_A = MASH
+
+@SUOMI_A = Muut synnytystoimenpiteet
+
+@RUOTSI_A = Diverse ingrepp i samband med förlossning
+
+@ENGL_A = Various procedures relating to delivery
+
+@END = 
+
+@KOODI = MAH10 
+
+@NCSP = MASH10
+
+@SUOMI = Napanuoran takaisin laittaminen
+
+@RUOTSI = Reposition av navelsträngsframfall i samband med förlossning
+
+@END = 
+
+@KOODI = MAH20 
+
+@NCSP = MASH20
+
+@SUOMI = Sikiön pään asennon korjaus päätarjonnassa
+
+@RUOTSI = Korrektion av huvudställning (t. ex. pannbjudning) i samband med förlossning
+
+@END = 
+
+@KOODI = MAH30 
+
+@NCSP = MASH30
+
+@SUOMI = Sikiön pään puhkaisu synnytyksen aikana
+
+@RUOTSI = Kraniotomi av fosterhuvudet i samband med förlossning
+
+@END = 
+
+@KOODI_A = MAJ
+
+@NCSP_A = MASJ
+
+@SUOMI_A = Monisikiöraskauden osittainen keskeyttäminen
+
+@RUOTSI_A = Reduktion av multipel graviditet
+
+@ENGL_A = Reduction of multiple pregnancy
+
+@END = 
+
+@KOODI = MAJ00 
+
+@NCSP = MASJ00
+
+@SUOMI = Sikiöiden vähentäminen yhdellä
+
+@RUOTSI = Reduktion av multipel graviditet med ett foster
+
+@END = 
+
+@KOODI = MAJ10 
+
+@NCSP = MASJ10
+
+@SUOMI = Sikiöiden vähentäminen usealla
+
+@RUOTSI = Reduktion av multipel graviditet med fler än ett foster
+
+@END = 
+
+@KOODI_A = MAW
+
+@NCSP_A = MASW
+
+@SUOMI_A = Muut raskauden ja synnytyksen aikaiset leikkaukset
+
+@RUOTSI_A = Andra operationer före eller i samband med förlossning
+
+@ENGL_A = Other operations in pregnancy and at delivery
+
+@END = 
+
+@KOODI = MAW96 
+
+@NCSP = MASW96
+
+@SUOMI = Muu raskaus- tai synnytystoimenpide
+
+@RUOTSI = Annat ingrepp under graviditet eller i samband med förlossning
+
+@END = 
+
+@KOODI = MAW97 
+
+@NCSP = MASW97
+
+@SUOMI = Muu raskaus- tai synnytystoimenpide vatsaontelon tähystyksessä
+
+@RUOTSI = Annat laparoskopiskt ingrepp under graviditet eller i samband med förlossning
+
+@END = 
+
+@KOODI = MAW98 
+
+@NCSP = MASW98
+
+@SUOMI = Muu raskaus- tai synnytystoimenpide synnytyselinten sisätilan tähystyksessä
+
+@RUOTSI = Annat transluminalt endoskopiskt ingrepp före eller i samband med förlossning
+
+@END = 
+
+@KOODI_A = MA_
+
+@NCSP_A = MAX
+
+@SUOMI_A = Muut raskauden ja synnytyksen aikaiset toimenpiteet
+
+@RUOTSI_A = Andra åtgärder under graviditet och förlossning
+
+@ENGL_A = Other procedures in pregnancy and at delivery
+
+@END = 
+
+@KOODI = TMA00 
+
+@NCSP = MAXX00
+
+@SUOMI = Välilihanleikkaus, episiotomia
+
+@RUOTSI = Perineotomi under förlossning
+
+@END = 
+
+@KOODI = MAX99 
+
+@NCSP = MAXX99
+
+@SUOMI = Normaalin synnytyksen avustaminen
+
+@RUOTSI = Medhjälp vid normal förlossning
+
+@END = 
+
+@KOODI_R = MB
+
+@SUOMI_R = Synnytyksen tai raskaudenkeskeytymisen jälkeen tehtävät toimenpiteet
+
+@RUOTSI_R = Ingrepp efter förlossning eller abort
+
+@ENGL_R = Procedures after delivery or abortion
+
+@NOTE_RF = Raskauden keskeytys, katso LCH
+
+@NOTE_RS = Provocerad abort, se LCH
+
+@END = 
+
+@KOODI_A = MB_
+
+@NCSP_A = MBD
+
+@SUOMI_A = Synnytyksen tai abortin jälkeinen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi efter förlossning eller abort
+
+@ENGL_A = Diagnostic radiology after delivery or abortion
+
+@END = 
+
+@KOODI = MB2AA 
+
+@NCSP = MBDA2A
+
+@SUOMI = Kuolleen sikiön tai vastasyntyneen kokovartaloröntgen
+
+@RUOTSI = Röntgen av dödfött barn eller dött foster
+
+@END = 
+
+@KOODI_A = MBA
+
+@NCSP_A = MBSA
+
+@SUOMI_A = Kohduntyhjennys synnytyksen tai keskenmenon jälkeen
+
+@RUOTSI_A = Avlägsnande av i livmodern retinerade strukturer (moderkaka, hinnor, etc.)
+
+@ENGL_A = Removal of retained products of conception after delivery or abortion
+
+@END = 
+
+@KOODI = MBA00 
+
+@NCSP = MBSA00
+
+@SUOMI = Kohduntyhjennys imulla synnytyksen tai keskenmenon jälkeen
+
+@RUOTSI = Exeres med vakuumaspiration vid missfall eller efter förlossning
+
+@NOTE_F = Sisältää mahdollisen kohdunkaulan laajennuksen
+
+@NOTE_S = Inkl ev cervixdilatation
+
+@END = 
+
+@KOODI = MBA03 
+
+@NCSP = MBSA03
+
+@SUOMI = Kohduntyhjennys kaapimalla synnytyksen tai keskenmenon jälkeen
+
+@RUOTSI = Exeres med curettage vid missfall eller efter förlossning
+
+@NOTE_F = Sisältää kohdunkaulan laajennuksen
+
+@NOTE_F =
+Kohdun kaavinta ilman raskautta LCA10, LCA13 tai LDA10
+
+@NOTE_S = Inkl ev cervixdilatation
+
+@NOTE_S =
+Abrasio utan graviditet, se LCA10, LCA13 eller LDA10
+
+@END = 
+
+@KOODI = MBA10 
+
+@NCSP = MBSA10
+
+@SUOMI = Kohdun ontelon tunnustelu kädellä
+
+@RUOTSI = Manuell undersökning av uteruskaviteten
+
+@END = 
+
+@KOODI = MBA20 
+
+@NCSP = MBSA20
+
+@SUOMI = Istukan ulospuristaminen Creden ottein
+
+@RUOTSI = Exprimering av moderkaka (Credé)
+
+@END = 
+
+@KOODI = MBA30 
+
+@NCSP = MBSA30
+
+@SUOMI = Istukan ja sikiökalvojen käsinirroitus
+
+@RUOTSI = Manuell lösning och uttagande av fosterhinnor, moderkaka eller rest därav
+
+@END = 
+
+@KOODI = MBA96 
+
+@NCSP = MBSA96
+
+@SUOMI = Muu kohtuun jääneiden hedelmöitystuotteiden poisto synnytyksen tai keskenmenon jälkeen
+
+@RUOTSI = Annan utskaffning av retinerade feto-placentala strukturer efter förlossning/abort
+
+@END = 
+
+@KOODI_A = MBC
+
+@NCSP_A = MBSC
+
+@SUOMI_A = Synnytysvaurioiden korjaus
+
+@RUOTSI_A = Revision av förlossningsskador
+
+@ENGL_A = Repair of obstetric lacerations
+
+@END = 
+
+@KOODI = MBC00 
+
+@NCSP = MBSC00
+
+@SUOMI = Kohdunkaulan ompelu synnytyksen jälkeen
+
+@RUOTSI = Sutur av cervix uteri vid förlossningsskada eller efter abort
+
+@END = 
+
+@KOODI = MBC10 
+
+@NCSP = MBSC10
+
+@SUOMI = Emättimen ompelu synnytyksen jälkeen
+
+@RUOTSI = Sutur av vagina vid förlossningsskada
+
+@END = 
+
+@KOODI = MBC20 
+
+@NCSP = MBSC20
+
+@SUOMI = Ulkosynnyttimien ompelu synnytyksen jälkeen
+
+@RUOTSI = Sutur av vulva vid förlossningsskada
+
+@END = 
+
+@KOODI = MBC30 
+
+@NCSP = MBSC30
+
+@SUOMI = Välilihan osittaisen repeämän korjaus
+
+@RUOTSI = Sutur av partiel perinealbristning
+
+@NOTE_F = 1. ja 2. asteen repeämä
+
+@NOTE_S = Grad 1 och 2
+
+@END = 
+
+@KOODI = MBC33 
+
+@NCSP = MBSC33
+
+@SUOMI = Välilihan täydellisen repeämän korjaus
+
+@RUOTSI = Sutur av fullsändig perinealbristning
+
+@NOTE_F = 3. ja 4. asteen repeämä
+
+@NOTE_S = Grad 3 och 4
+
+@END = 
+
+@KOODI = MBC40 
+
+@NCSP = MBSC40
+
+@SUOMI = Emättimen viereisen tai ulkosynnyttimien synnytyksen jälkeisen verikertymän hoito
+
+@RUOTSI = Åtgärd för postpartalt hematom kring vulva/vagina
+
+@END = 
+
+@KOODI = MBC90 
+
+@NCSP = MBSC90
+
+@SUOMI = Verenvuodon tyrehdyttäminen emättimestä tai ulkoisista sukupuolielimistä synnytyksen jälkeen
+
+@RUOTSI = Hemostas av vulva och vagina efter förlossningen
+
+@END = 
+
+@KOODI = MBC96 
+
+@NCSP = MBSC96
+
+@SUOMI = Muu synnytyselinten synnytysvaurion korjaus
+
+@RUOTSI = Annan revision av förlossningsskada
+
+@END = 
+
+@KOODI_A = MBW
+
+@NCSP_A = MBSW
+
+@SUOMI_A = Muut toimenpiteet synnytyksen tai keskenmenon jälkeen
+
+@RUOTSI_A = Andra ingrepp efter förlossning eller abort
+
+@ENGL_A = Other operations after delivery or abortion
+
+@END = 
+
+@KOODI = MBW96 
+
+@NCSP = MBSW96
+
+@SUOMI = Muu synnytyksen tai raskaudenkeskeytyksen jälkeinen leikkaus
+
+@RUOTSI = Annat operation efter förlossning eller abort
+
+@END = 
+
+@KOODI_A = MBB
+
+@NCSP_A = MBX
+
+@SUOMI_A = Synnytyksen tai keskenmenon jälkeiset pientoimenpiteet
+
+@RUOTSI_A = Mindre åtgärder efter förlossning eller abort
+
+@ENGL_A = Minor procedures after delivery or abortion
+
+@END = 
+
+@KOODI = MBB00 
+
+@NCSP = MBXB00
+
+@SUOMI = Nurinkääntyneen kohdun sisääntyöntö
+
+@RUOTSI = Manuell reposition av inverterad uterus
+
+@END = 
+
+@KOODI = MBB10 
+
+@NCSP = MBXB10
+
+@SUOMI = Kohtuontelon vuodon tukkiminen liinalla
+
+@RUOTSI = Stillning av postpartal blödning i livmoderhålan genom tamponad
+
+@END = 
+
+@KOODI = PD2NT 
+
+@NCSP = MBXB20
+
+@SUOMI = Synnytyksen jälkeisen vuodon suonensisäinen tukkiminen
+
+@RUOTSI = Postpartumblödning, embolisering
+
+@END = 
+
+@KOODI = MBB30 
+
+@NCSP = MBXB30
+
+@SUOMI = Kohdunsisäinen lääkehuuhtelu
+
+@RUOTSI = Intrauterin sköljning med medicin
+
+@END = 
+
+@KOODI = MBB96 
+
+@NCSP = MBXB96
+
+@SUOMI = Muu käsin suoritettu toimenpide synnytyksen jälkeen
+
+@RUOTSI = Annat manuellt ingrepp på uterus efter förlossning
+
+@END = 
+
+@KOODI_R = MC
+
+@SUOMI_R = Keisarileikkaus ja muut raskauden tai synnytyksen takia tehdyt vatsaontelon toimenpiteet
+
+@RUOTSI_R = Kejsarsnitt och obstetriska laparotomier
+
+@ENGL_R = Caesarean section and obstetric laparotomies
+
+@END = 
+
+@KOODI_A = MCA
+
+@NCSP_A = MCSA
+
+@SUOMI_A = Keisarileikkaus
+
+@RUOTSI_A = Kejsarsnitt
+
+@ENGL_A = Caesarean section
+
+@NOTE_RF = Leikkauksen kiireellisyys ilmaistaan lisäkoodilla ryhmästä ZXD.
+
+@NOTE_RS = Tilläggskod vid akut kejsarsnitt, se ZXD
+
+@END = 
+
+@KOODI = MCA00 
+
+@NCSP = MCSA00
+
+@SUOMI = Keisarileikkaus kohdun runko-osan läpi
+
+@RUOTSI = Abdominalt kejsarsnitt på corpus uteri
+
+@END = 
+
+@KOODI = MCA10 
+
+@NCSP = MCSA10
+
+@SUOMI = Keisarileikkaus kohdunsolan eli istmuksen läpi
+
+@RUOTSI = Abdominalt kejsarsnitt på istmus
+
+@END = 
+
+@KOODI = MCA20 
+
+@NCSP = MCSA20
+
+@SUOMI = Keisarileikkaus emättimen kautta
+
+@RUOTSI = Vaginalt kejsarsnitt
+
+@END = 
+
+@KOODI = MCA30 
+
+@NCSP = MCSA30
+
+@SUOMI = Keisarileikkaus ja kohdun runko-osan poisto (Porro)
+
+@RUOTSI = Abdominalt kejsarsnitt med supravaginal uterusamputation (Porro)
+
+@END = 
+
+@KOODI = MCA33 
+
+@NCSP = MCSA33
+
+@SUOMI = Keisarileikkaus ja kohdun täydellinen poisto
+
+@RUOTSI = Abdominalt kejsarsnitt med total hysterektomi
+
+@END = 
+
+@KOODI = MCA96 
+
+@NCSP = MCSA96
+
+@SUOMI = Muu keisarileikkaus
+
+@RUOTSI = Annat kejsarsnitt
+
+@END = 
+
+@KOODI_A = MCB
+
+@NCSP_A = MCSB
+
+@SUOMI_A = Kohdun ulkopuolisen sikiön poistot
+
+@RUOTSI_A = Laparotomi med uthämtande av extrauterint foster
+
+@ENGL_A = Laparotomy and delivery of extrauterine fetus
+
+@NOTE_RF = Munanjohdin - ja munasarjaraskaus 28 viikkoon asti kohdissa LAA, LBC, LBD tai LBE
+
+@NOTE_RS = Graviditet i äggledare eller på ovarier upp till 28 veckor, se LAA, LBC, LBD eller LBE
+
+@END = 
+
+@KOODI = MCB00 
+
+@NCSP = MCSB00
+
+@SUOMI = Kohdun ulkopuolisen sikiön poisto 28 raskausviikon jälkeen
+
+@RUOTSI = Laparotomi med uthämtande av extrauterint foster efter vecka 28
+
+@END = 
+
+@KOODI_A = MCC
+
+@NCSP_A = MCSC
+
+@SUOMI_A = Kohdun repeämän ompelut synnytyksen jälkeen
+
+@RUOTSI_A = Sutur av uterusruptur efter förlossning
+
+@ENGL_A = Postpartum repair of rupture of uterus
+
+@NOTE_RF = Muut synnytyselinten repeämien korjaukset ryhmässä MBC
+
+@NOTE_RS = Andra åtgärder för ruptur av förlossningsorgan, se MBC
+
+@END = 
+
+@KOODI = MCC00 
+
+@NCSP = MCSC00
+
+@SUOMI = Kohdun repeämän ompelu synnytyksen jälkeen
+
+@RUOTSI = Sutur av uterusruptur efter förlossning
+
+@END = 
+
+@KOODI_A = MCW
+
+@NCSP_A = MCSW
+
+@SUOMI_A = Muut synnytykseen liittyvät vatsaonteloleikkaukset
+
+@RUOTSI_A = Andra abdominala operationer i samband med förlossning
+
+@ENGL_A = Other obstetric laparotomy
+
+@END = 
+
+@KOODI = MCW00 
+
+@NCSP = MCSW00
+
+@SUOMI = Kohdunpoisto synnytyksen yhteydessä
+
+@RUOTSI = Uterusexstirpation efter vaginal förlossning
+
+@NOTE_F = Kohdunpoisto keisarileikkauksen yhteydessä kohdassa MCA
+
+@NOTE_S = Uterusexstirpationer i samband med kejsarsnitt, se MCA
+
+@END = 
+
+@KOODI = MCW96 
+
+@NCSP = MCSW96
+
+@SUOMI = Muu synnytykseen liittyvät vatsaonteloleikkaus
+
+@RUOTSI = Annan laparotomi i samband med förlossning
+
+@END = 
+
+@KOODI_R = MW
+
+@SUOMI_R = Raskaus- ja synnytysleikkausten haavakomplikaatioleikkaukset
+
+@RUOTSI_R = Operationer för komplikationer av obstetrisk kirurgi
+
+@ENGL_R = Reoperations in obstetric surgery
+
+@END = 
+
+@KOODI = MWA00 
+
+@NCSP = MWSA00
+
+@SUOMI = Auenneen tai tulehtuneen raskaus- tai synnytysleikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/sårinfektion efter obstetriska operationer
+
+@END = 
+
+@KOODI = MWC00 
+
+@NCSP = MWSC00
+
+@SUOMI = Tulehtuneen raskaus- tai synnytysleikkauksen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Öppning ochdränage av infekterad sårhåla efter obstetrisk operation
+
+@END = 
+
+@KOODI = MWE00 
+
+@NCSP = MWSE00
+
+@SUOMI = Raskaus- tai synnytysleikkauksen uusintaleikkaus haava(ontelo)n vuodon  vuoksi
+
+@RUOTSI = Reoperation för blödning efter obstetrisk operation
+
+@END = 
+
+@KOODI = MWW96 
+
+@NCSP = MWSW96
+
+@SUOMI = Muu uusintaleikkaus raskaus- tai synnytysleikkauksen komplikaation vuoksi
+
+@RUOTSI = Annan reoperation för komplikation efter obstetrisk operation
+
+@END = 
+
+@KOODI_R = MX
+
+@SUOMI_R = Muut raskauteen ja synnytykseen liittyvät toimenpiteet
+
+@RUOTSI_R = Andra åtgärder i samband av graviditet eller förlossning
+
+@ENGL_R = Other procedures in obstetrics
+
+@END = 
+
+@KOODI = TMW99 
+
+@NCSP = MXXX99
+
+@SUOMI = Muu raskauteen tai synnytykseen liittyvä pientoimenpide
+
+@RUOTSI = Annan mindre obstetrisk operation
+
+@END = 

@@ -1,0 +1,24 @@
+Procedure simloc
+select ncsp_koo
+public su_code
+su_code=code
+close all
+set near on
+use ncsp_koo.dbf
+set order to code
+select 0
+USE ..\gemens\ncsp_koo.dbf EXCLUSIVE alias ncsp_en
+set order to code
+lc_tark2=.f.
+lc_tark=.f.
+select ncsp_koo
+set filter to not released and not deleted()
+select ncsp_en
+set order to code_swe
+set filter to not released
+select ncsp_koo
+seek su_code
+public sim_code
+sim_code=ncsp_koo.code
+do ..\ruotsi\simcheck
+return

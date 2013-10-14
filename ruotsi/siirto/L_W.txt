@@ -1,0 +1,1546 @@
+
+###
+#KOODI_L    W
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut ja useisiin elinjärjestelmiin vaikuttavat toimenpiteet
+#RUOTSI     Andra åtgärder som inriktas på flera organsystem
+#ENGL       Other procedures and procedures acting on several organ systems
+#OHJE_S  
+Toimenpiteet, jotka kohdistetaan useisiin eri elinjärjestelmiin tai koko elimistöön.
+#OHJE_R 
+Åtgärder som inriktas på flera olika organsystem eller hela kroppen
+###
+#KOODI_R    W0
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Psykososiaaliset toimenpiteet
+#RUOTSI     Psykososiala åtgärder
+#ENGL       
+###
+#KOODI      W0A00
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalisen toimintakyvyn arviointi lausuntoineen
+#RUOTSI     Beskattning av sosial funktionsförmåga med utlåtande
+#LYHENNE    Sosiaalisen toimintakyvyn arviointi laus
+#OHJE_S  
+Esim. vanhuksen laitossijoitusta arvioitassa tai tilanteissa, joissa päädytään C-lausunnon kirjoittamiseen
+#OHJE_R 
+---
+###
+#KOODI      W0A10
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykososiaalisen tilanteen laaja kartoitus
+#RUOTSI     Utvidgad kartlägning av psykososiala situationen
+#LYHENNE    Psykososiaalisen tilanteen laaja kartoit
+#OHJE_S  
+Esim. harkittaessa MT1 lausunnon antamista
+#OHJE_R 
+---
+###
+#KOODI      W0A12
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykiatrisen tilan suunnitellut terapiakäynnit
+#RUOTSI     Planerad fårdbesök för psykiatrisk problem
+#LYHENNE    Psykiatrisen tilan suunnitellut terapiak
+#OHJE_S  
+Esim. perheterapia
+Käyntejä, jotka on etukäteen sovittu potilaan kanssa koskemaan tiettyä tavotteellista hoitoa tai hoidon suunnittelua
+#OHJE_R 
+---
+###
+#KOODI      W0X00
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio jatkuvan lääkityksen tarpeesta lausuntoineen
+#RUOTSI     Uppskattning av behov för kontinuerlig medicin med utlåtande
+#LYHENNE    Arvio jatkuvan lääkityksen tarpeesta lau
+#OHJE_S  
+Esim. kirjoittettaessa lausuntoa kokonaan tai osittain korvattavia lääkkeitä
+#OHJE_R 
+---
+###
+#KOODI_R    WA
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Systeeminen sädehoito
+#RUOTSI     Systemisk strålbehandling
+#ENGL       
+#OHJE_S  
+Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+#OHJE_R 
+Tekniken av strålbehandlingen kan anges med tilläggskod, se ZX0
+###
+#KOODI      WA010
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kokokehon sädehoito  muun syöpähoidon tukihoitona
+#RUOTSI     Strålbehandling av hela kroppen som tillägg för annan cancerbehandling
+#LYHENNE    Kokokehon sädehoito tukihoitona
+###
+#KOODI      WA019
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kokokehon sädehoito
+#RUOTSI     Strålbehandling av hela kroppen för andra indikationer
+#LYHENNE    Muu kokokehon sädehoito
+###
+#KOODI      WA029
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puolikehon sädehoito
+#RUOTSI     Strålbehandling av halva kroppen
+#LYHENNE    Puolikehon sädehoito
+###
+#KOODI      WA039
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito vapailla isotoopeilla
+#RUOTSI     Stråbehanlding med fria isotoper
+#LYHENNE    Sädehoito vapailla isotoopeilla
+###
+#KOODI      WA099
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu laaja-alainen sädehoito
+#RUOTSI     Annan utvigd strålbehandling
+#LYHENNE    Muu laaja-alainen sädehoito
+###
+#KOODI_R    WB
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikallisen primaarikasvaimen lääkehoito
+#RUOTSI     Behandling av lokal primärtumör med läkemedel
+#ENGL       
+#OHJE_S  
+Paikallisen kasvaimen hoito yhdistettynä metastaasin hoitoon koodataan tavallisesti metastaasin hoidon mukaisesti, katso WC tai WD
+Paikallisen lymfooman hoito, katso WD
+Lääkehoidon reitti ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX1
+Yksinkertainen hoito ja monisytostaattihoito voidaan tavallisesti toteuttaa polikliinisesti.
+Vaativaa hoitoa ei voida edes komplisoitumattomissa tilanteissa toteuttaa polikliinisesti.
+Erittäin vaativa hoito edellyttää erityistoimenpiteitä kuten luuydinsiirto (WW300) tai kantasolusiirto (WW310) tai potilaan jatkuvaa monitorointia.
+#OHJE_R 
+---
+###
+#KOODI      WB101
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä sytostaattihoito
+#RUOTSI     Enkel neoadjuvant behandling av primärtumör med en sytostatika
+#LYHENNE    
+#OHJE_S  
+Ns. neoadjuvanttihoito
+#OHJE_R 
+---
+###
+#KOODI      WB103
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen yksinkertainen sytostaattihoito liitännäishoitona
+#RUOTSI     Enkel adjuvant behandling av primärtumör med en sytostatika
+#LYHENNE    
+#OHJE_S  
+Ns. adjuvanttihoito
+#OHJE_R 
+---
+###
+#KOODI      WB111
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monisytostaattihoito
+#RUOTSI     Neoadjuvant behandling av primärtumör med flera sytostatika
+#LYHENNE    
+###
+#KOODI      WB113
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen monisytostaattihoito liitännäishoitona
+#RUOTSI     Adjuvant behandling av primärtumör med flera sytostatika
+#LYHENNE    
+###
+#KOODI      WB121
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa sytostaattihoito
+#RUOTSI     Krävande neoadjuvant behandling av primärtumör
+#LYHENNE    
+###
+#KOODI      WB123
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen vaativa sytostaattihoito liitännäishoitona
+#RUOTSI     Krävande adjuvant behandling av primärtumör
+#LYHENNE    
+###
+#KOODI      WB131
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä erittäin vaativa sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB133
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen erittäin vaativa sytostaattihoito liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB201
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB203
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen yksinkertainen hormonihoito liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB211
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monihormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB213
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen monihormonihoito liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB221
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB223
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen vaativa hormonihoito liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB301
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB303
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen yksinkertainen hoito biovasteenmuuntajilla liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB311
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä monihoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB313
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen monihoito biovasteenmuuntajilla liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB321
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen leikkausta tai sädehoitoa edeltävä vaativa hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WB323
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Primaarikasvaimen vaativa hoito biovasteenmuuntajilla liitännäishoitona
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    WC
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikallisesti uusiutuneen kasvaimen tai yksittäisten metastaasien lääkehoito
+#RUOTSI     Behandling av recidivtumör eller enskilda metastaser med läkemedel
+#ENGL       
+#OHJE_S  
+Paikallinen uusitunut kasvain sisältää sekä paikallisesti uusiutuneen kasvaimen että yksittäiset metastaasit. Primaarikasvaimen hoito yhdessä yksittäisten metastaasien kanssa koodataan tähän ryhmään.
+Lääkehoidon reitti ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX1
+Yksinkertainen hoito ja monisytostaattihoito voidaan tavallisesti toteuttaa polikliinisesti.
+Vaativaa hoitoa ei voida edes komplisoitumattomissa tilanteissa toteuttaa polikliinisesti.
+Erittäin vaativa hoito edellyttää erityistoimenpiteitä kuten luuydinsiirto (WW300) tai kantasolusiirto (WW310) tai potilaan jatkuvaa monitorointia.
+#OHJE_R 
+---
+###
+#KOODI      WC101
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ns. neoadjuvanttihoito
+#OHJE_R 
+---
+###
+#KOODI      WC105
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Radikaali tai konsolidaatiohoito
+#OHJE_R 
+---
+###
+#KOODI      WC111
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä monisytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC115
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen tavanomainen monisytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC121
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä vaativa sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC125
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen vaativa tavanomainen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC131
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä erittäin vaativa sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC135
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen erittäin vaativa tavanomainen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC201
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC205
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC211
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä monihormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC215
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen tavanomainen monihormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC221
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä vaativa hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC225
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC301
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen yksinkertainen leikkausta tai sädehoitoa edeltävä hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC305
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen yksinkertainen tavanomainen hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC311
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä monihoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC315
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen tavanomainen monihoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC321
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen leikkausta tai sädehoitoa edeltävä vaativa hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WC325
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikallisen uusiutuneen kasvaimen vaativa tavanomainen hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    WD
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Laajalle levinneen kasvaintaudin lääkehoito
+#RUOTSI     Behandling av utspridd tumörsjukdom med läkemedel
+#ENGL       
+#OHJE_S  
+Sisältää leukemian ja lymfoman lääkehoidon
+Lääkehoidon reitti ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX1
+Yksinkertainen hoito ja monisytostaattihoito voidaan tavallisesti toteuttaa polikliinisesti.
+Vaativaa hoitoa ei voida edes komplisoitumattomissa tilanteissa toteuttaa polikliinisesti.
+Erittäin vaativa hoito edellyttää erityistoimenpiteitä kuten luuydinsiirto (WW300) tai kantasolusiirto (WW310) tai potilaan jatkuvaa monitorointia.
+#OHJE_R 
+---
+###
+#KOODI      WD105
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen yksinkertainen tavanomainen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tavanomainen hoito sisältää ns. adjuvanttihoidon, radikaalin hoidon ja konsolidaatiohoidon
+#OHJE_R 
+---
+###
+#KOODI      WD115
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen tavanomainen monisytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD125
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen vaativa tavanomainen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD135
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen erittäin vaativa tavanomainen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD205
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen yksinkertainen tavanomainen hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD215
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen tavanomainen monihormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD225
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen vaativa tavanomainen hormonihoito
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD305
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen yksinkertainen tavanomainen hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD315
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen tavanomainen monihoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WD325
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajalle levinneen kasvaimen vaativa tavanomainen hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    WE
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Profylaktinen kasvaintaudin lääkehoito
+#RUOTSI     Profylaktisk behandling av tumörsjjukdom med läkemedel
+#ENGL       
+###
+#KOODI      WE100
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Profylaktinen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    Profylaktinen sytostaattihoito
+###
+#KOODI      WE198
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palliatiivinen sytostaattihoito
+#RUOTSI     ---
+#LYHENNE    Palliatiivinen sytostaattihoito
+###
+#KOODI      WE200
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Profylaktinen hormonihoito
+#RUOTSI     ---
+#LYHENNE    Profylaktinen hormonihoito
+###
+#KOODI      WE298
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palliatiivinen hormonihoito
+#RUOTSI     ---
+#LYHENNE    Palliatiivinen hormonihoito
+###
+#KOODI      WE300
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Profylaktinen hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      WE398
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palliatiivinen hoito biovasteenmuuntajilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    WW
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut toimenpiteet
+#RUOTSI     Andra åtgärder
+#ENGL       
+###
+#KOODI      WW200
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rokotus
+#RUOTSI     Vaccination
+#LYHENNE    Rokotus
+###
+#KOODI_A    WW3
+#MUUT_PVM   1998/12/16
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#SUOMI      Kantasolusiirrot
+#RUOTSI     Transplantioner av stammceller
+#ENGL       
+#OHJE_S  
+Sisältää sekä luuytimestä että muualta kerättyjen kantasolujen siirrot
+Siirrettävän materiaalin kerääminen, katso YNB
+#OHJE_R 
+Innefatta transplantation av stammceller både från benmärg och från andra lokalisationer
+Uttagning av material för transplantation, se YNB
+###
+#KOODI      WW300
+#MUUT_PVM   1999/03/31
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Autologinen kantasolusiirto
+#RUOTSI     Autologisk transplantation av stammceller
+#LYHENNE    Autologinen kantasolusiirto
+###
+#KOODI      WW302
+#MUUT_PVM   1998/12/16
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kantasolusiirto vierailla soluilla, omaisluovuttaja
+#RUOTSI     Transplantation med främmande stammceller från släkten
+#LYHENNE    Kantasolusiirto vier. soluilla, omaiisl.
+###
+#KOODI      WW304
+#MUUT_PVM   1998/12/16
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kantasolusiirto vierailla soluilla, kotimainen rekisteriluovuttaja
+#RUOTSI     Transplantation av stammceller från inhemsk registrerad donator
+#LYHENNE    Kantasolusiirto kotim. rekisteriluovutta
+###
+#KOODI      WW306
+#MUUT_PVM   1998/12/16
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kantasolusiirto vierailla soluilla, ulkomainen rekisteriluovuttaja
+#RUOTSI     Transplantation av stammceller från utländsk registrerad donator
+#LYHENNE    Kantasolusiirto ulkom. rekisteriluovutta
+###
+#KOODI      WW310
+#MUUT_PVM   1998/12/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kantasolusiirto napaveren soluilla
+#RUOTSI     Transplantation av stammceller från navelsträngsblod
+#LYHENNE    Kantasolusiirto napaverestä
+###
+#KOODI      WW400
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plasmafereesi
+#RUOTSI     Plasmaferes
+#LYHENNE    Plasmafereesi
+###
+#KOODI      WW402
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Leukafereesi
+#RUOTSI     Leukaferes
+#LYHENNE    Leukafereesi
+###
+#KOODI      WW409
+#MUUT_PVM   1997/02/06
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu afereesi
+#RUOTSI     Annan aferes
+#LYHENNE    Muu afereesi
+###
+#KOODI      WW500
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verensiirto
+#RUOTSI     Blodtransfusion
+#LYHENNE    Verensiirto
+###
+#KOODI      WW502
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Potilaan oman veren talteenotto ja palauttaminen
+#RUOTSI     Autotransfusion
+#LYHENNE    Autotransfuusio
+###
+#KOODI      WW800
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siirto toiseen sairaalaan, 1 saattaja
+#RUOTSI     Remittering till annat sjukhus, 1 följeslagare
+#LYHENNE    Siirto toiseen sairaalaan, 1 saattaja
+###
+#KOODI      WW802
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siirto toiseen sairaalaan, 2 tai useampia saattajia
+#RUOTSI     Remittering till annat sjukhus, 2 eller flera följeslagare
+#LYHENNE    Siirto, 2 saattajaa
+###
+#KOODI_R    WX
+#MUUT_PVM   1996/06/05
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Anestesia, hengityksen tuki ja elvytys
+#RUOTSI     Anestesiåtgärder
+#ENGL       
+#OHJE_S  
+Ei sisällä ääreishermojen salpausta (TAC00)
+#OHJE_R 
+---
+###
+#KOODI_A    WX0
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Ei anestesiaa
+#RUOTSI     Ingen anestesi
+#ENGL       
+#OHJE_S  
+
+#OHJE_R 
+T.ex. lustgassedering
+###
+#KOODI      WX000
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ilman anestesiaa
+#RUOTSI     Utan anestesi
+#LYHENNE    Ilman anestesiaa
+###
+#KOODI      WX002
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sedaatio tai kivunlievitys ilman anestesiaa
+#RUOTSI     Sedering eller analgesi utan annan anestesi
+#LYHENNE    Sedaatio ja analgesia
+#OHJE_S  
+Esim. ilokaasusedaatio
+#OHJE_R 
+T.ex. lustgassedering
+###
+#KOODI_A    WX1
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikalliset puudutukset
+#RUOTSI     Lokala bedövningar
+#ENGL       
+###
+#KOODI      WX110
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Infiltraatiopuudutus
+#RUOTSI     Infiltrationsanestesi
+#LYHENNE    Infiltraatiopuudutus
+#OHJE_S  
+Pintapuudutus iholle tai limakalvolle
+Hammastoimenpiteissä puudutus on leukaneljänneskohtainen
+#OHJE_R 
+Ytanestesi vid åtgärder av tänder noteras per käkhalva
+###
+#KOODI      WX120
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläraajan laskimopuudutus
+#RUOTSI     Intravenös regionalanestesi övre extremitet
+#LYHENNE    Yläraajan laskimopuudutus
+###
+#KOODI      WX124
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaraajan laskimopuudutus
+#RUOTSI     Intravenös regionalanestesi nedre extremitet
+#LYHENNE    Alaraajan laskimopuudutus
+###
+#KOODI      WX130
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhko-ontelon puudutus
+#RUOTSI     Intrapleural anestesi
+#LYHENNE    Keuhko-ontelon puudutus
+###
+#KOODI      WX140
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Silmämunanvieruspuudutus
+#RUOTSI     Parabulbärbedövning
+#LYHENNE    Silmämunanvieruspuudutus
+###
+#KOODI      WX142
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sub-tenon puudutus
+#RUOTSI     Sub-tenon bedövning
+#LYHENNE    Sub-tenon puudutus
+###
+#KOODI      WX144
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subkonjunktivaalinen puudutus
+#RUOTSI     Subkonjunktivalbedövning
+#LYHENNE    Subkonjunktivaalinen puudutus
+###
+#KOODI_A    WX2
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Johtopuudutukset
+#RUOTSI     Plexusblockad
+#ENGL       
+###
+#KOODI      WX200
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Interskaleeninen olkapunoksen puudutus
+#RUOTSI     Interskalenär plexusblockad
+#LYHENNE    Interskalenäärinen johtopuudutus
+###
+#KOODI      WX202
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Supraklavikulaarinen olkapunoksen puudutus
+#RUOTSI     Subraklaviikulär plexusblockad
+#LYHENNE    Supraklavikulaarinen olkapunoksen puudut
+###
+#KOODI      WX203
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Infraklavikulaarinen olkapunoksen puudutus
+#RUOTSI     Infraklavikulär plexusblockad
+#LYHENNE    Infraklavikulaarinen olkapunoksen puudut
+###
+#KOODI      WX204
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Axillaarinen olkapunoksen puudutus
+#RUOTSI     Axillär plexusblockad
+#LYHENNE    Axillaarinen olkapunoksen puudutus
+###
+#KOODI      WX210
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lonkkahermon puudutus
+#RUOTSI     Ishiadikusblockad
+#LYHENNE    Lonkkahermon puudutus
+###
+#KOODI      WX212
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reisihermon puudutus
+#RUOTSI     Femoralisblockad
+#LYHENNE    Reisihermon puudutus
+###
+#KOODI      WX214
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nilkan johtopuudutus
+#RUOTSI     Ankelblockad
+#LYHENNE    Nilkan johtopuudutus
+###
+#KOODI      WX220
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ilioinguinaalinen johtopuudutus
+#RUOTSI     Ilioinguinalisblockad
+#LYHENNE    Ilioinguinaalinen johtopuudutus
+###
+#KOODI      WX222
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iliohypogastrinen johtopuudutus
+#RUOTSI     Iliohypogastrisk blockad
+#LYHENNE    Iliohypogastrinen johtopuudutus
+###
+#KOODI      WX224
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Obturatoriushermon puudutus
+#RUOTSI     Obturatoriusblockad
+#LYHENNE    Obturatoriushermon puudutus
+###
+#KOODI      WX230
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Häpyhermon puudutus
+#RUOTSI     Pudendusblockad
+#LYHENNE    Häpyhermon puudutus
+###
+#KOODI      WX234
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kohdunkaulanvieruskudosten puudutus
+#RUOTSI     Paracervikalblockad
+#LYHENNE    Kohdunkaulanvieruskudosten puudutus
+###
+#KOODI      WX240
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peniksen johtopuudutus
+#RUOTSI     Penisblockad
+#LYHENNE    Peniksen johtopuudutus
+###
+#KOODI      WX250
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kylkiluuvälin puudutus
+#RUOTSI     Intercostal blockad
+#LYHENNE    Interkostaalipuudutus
+###
+#KOODI      WX290
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu johtopuudutus
+#RUOTSI     Annan ledningsanestesi
+#LYHENNE    Muu johtopuudutus
+#OHJE_S  
+esim. suunalueen johtopuudutus
+#OHJE_R 
+t.ex. ledningsanestesi i munnen
+###
+#KOODI_A    WX3
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Epiduraali- ja spinaalianestesia
+#RUOTSI     Epidural- och spinalanesesi
+#ENGL       
+###
+#KOODI      WX300
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraalipuudutus kaularangan tasolla
+#RUOTSI     Cervical epiduralanestesi
+#LYHENNE    Epiduraalipuudutus kaularangan tasolla
+###
+#KOODI      WX302
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraalipuudutus rintarangan tasolla
+#RUOTSI     Thorakal epiduralanestesi
+#LYHENNE    Epiduraalipuudutus rintarangan tasolla
+###
+#KOODI      WX306
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraalipuudutus lannerangan tasolla
+#RUOTSI     Lumbal epiduralanestesi
+#LYHENNE    Epiduraalipuudutus lannerangan tasolla
+###
+#KOODI      WX308
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sakraalipuudutus
+#RUOTSI     Sakralanesesi
+#LYHENNE    Sakraalipuudutus
+###
+#KOODI      WX320
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Spinaalipuudutus
+#RUOTSI     Spinalanestesi
+#LYHENNE    Spinaalipuudutus
+###
+#KOODI_A    WX4
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Yleisanestesia
+#RUOTSI     Generell anestesi
+#ENGL       
+###
+#KOODI      WX400
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inhalaatioyleisanestesia
+#RUOTSI     Generell anestesi baserad på inhalationsanestesi
+#LYHENNE    Inhalaatioyleisanestesia
+#OHJE_S  
+Voidaan yhdistää muun tyyppiseen anestesian induktiomenetelmään
+#OHJE_R 
+Kan kombineras med annat induktionssätt
+###
+#KOODI      WX404
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suonensisäinen yleisanestesia
+#RUOTSI     Generell anestesi baserad på i.v. anestesi
+#LYHENNE    Suonensisäinen yleisanestesia
+#OHJE_S  
+Voidaan yhdistää muun tyyppisen anestesian induktiomenetelmään
+#OHJE_R 
+Kan kombineras med annat induktionssätt
+###
+#KOODI      WX408
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kombinaatio anestesia
+#RUOTSI     Generell anestesi baserad på kombination av inhalation och i.v. anestesi
+#LYHENNE    Kombinaatio anestesia
+###
+#KOODI      WX419
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu yleisanestesia
+#RUOTSI     Annan generell anestesi
+#LYHENNE    Muu yleisanestesia
+###
+#KOODI_A    WX6
+#MUUT_PVM   1996/11/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Katetrin käyttö puudutuksessa
+#RUOTSI     Användning av kateter i plexusblockad och epidural- och spinalanestesier
+#ENGL       
+###
+#KOODI      WX600
+#MUUT_PVM   1996/11/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kertapuudutus katetrilla
+#RUOTSI     Anestesi genom kateter, en injetkion
+#LYHENNE    Kertapuudutus katetrilla
+###
+#KOODI      WX602
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toistuva tai jatkuva puudutus katetrilla
+#RUOTSI     Anestesi genom kateter, flera injektioner eller kontinuerlig infusion
+#LYHENNE    Uusittu puudutus katetrilla
+#OHJE_S  
+Sisältää katetrin jättämisen seuraavaa annosta odottamaan
+#OHJE_R 
+Inkl kvarlämnandet av katetern för eventuel nästa dos
+###
+#KOODI_A    WX7
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Hengityksen tukeminen
+#RUOTSI     Stödning av andning
+#ENGL       
+###
+#KOODI      WX700
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hengityksen ja verenkierron valvonta
+#RUOTSI     Uppvakning av respiration och cirkulation
+#LYHENNE    Hengityksen ja verenkierron valvonta
+###
+#KOODI      WX702
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laryngeaalimaski tai nenäputket
+#RUOTSI     Laryngealmask eller nasalspronger
+#LYHENNE    Laryngeaalimaski tai nenäputket
+###
+#KOODI      WX703
+#MUUT_PVM   1997/10/27
+#KAYTPVM    1989/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nenänielu- tai nieluputki
+#RUOTSI     Nasalsvalg- eller svalgtub
+#LYHENNE    Nenänielu- tai nieluputki
+###
+#KOODI      WX704
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intubaatio
+#RUOTSI     Intubation
+#LYHENNE    Intubaatio
+###
+#KOODI      WX706
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrogradinen intubaatio
+#RUOTSI     Retrograd intubation
+#LYHENNE    Retrogradinen intubaatio
+#OHJE_S  
+Intubaatio äänihuulitason alapuolelta asetetun katetrin avulla
+#OHJE_R 
+Intubation med hjälp av kateter insatt under ljudläpparna
+###
+#KOODI      WX720
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oma hengitys
+#RUOTSI     Spontan andning
+#LYHENNE    Oma hengitys
+###
+#KOODI      WX722
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ylipainehengitys
+#RUOTSI     Behandling med övertryck
+#LYHENNE    Ylipainehengitys
+#OHJE_S  
+Erillisisenä toimenpiteenä esim. yöllinen CPAP hoito WX722+WX702
+#OHJE_R 
+---
+###
+#KOODI      WX730
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hengityskonehoito
+#RUOTSI     Respiratorbehandling
+#LYHENNE    Hengityskonehoito
+###
+#KOODI      WX732
+#MUUT_PVM   1996/11/21
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korkeataajuinen hengityskonehoito
+#RUOTSI     Höfrekvens respiratorbehandling
+#LYHENNE    Korkeataajuinen hengityskonehoito
+###
+#KOODI      WX740
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Typpioksidihoito
+#RUOTSI     Behandling med kväve monoxid
+#LYHENNE    Typpioksidihoito
+###
+#KOODI_A    WX9
+#MUUT_PVM   1996/11/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Resuskitaatio
+#RUOTSI     Resuskitation
+#ENGL       
+###
+#KOODI      WX900
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verenkierron ja hengityksen elvytys
+#RUOTSI     Resuskitering av blodcirkulation och andning
+#LYHENNE    Elvytys
+###
+#KOODI      WX902
+#MUUT_PVM   1997/12/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen ulkoinen defibrillaatio
+#RUOTSI     Extern defibrillation av hjärtat
+#LYHENNE    Sydämen ulkoinen defibrillaatio
+###
+#KOODI      WX904
+#MUUT_PVM   1997/12/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sydämen sisäinen defibrillaatio
+#RUOTSI     Öppen defibrillation av hjärtat
+#LYHENNE    Sydämen sisäinen defibrillaatio
+###
+#KOODI      WX940
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alilämpöisen potilaan lämmitys sydän-keuhkokoneen avulla
+#RUOTSI     Uppvärmning av hypotermisk patient med lung-hjärta maskin
+#LYHENNE    Alilämpöisen potilaan lämmitys sydän-keu
+###
+#KOODI_R    WY
+#MUUT_PVM   1999/07/09
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Käyntityypit
+#RUOTSI     Besökstyper
+#ENGL       
+###
+#KOODI      WYA00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Seulonta tai terveystarkastus
+#RUOTSI     Screening eller hälsokontroll
+#LYHENNE    
+###
+#KOODI      WYA10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ensiapuluontoinen tai muu vastaava käynti
+#RUOTSI     Första hjälpsbesök eller motsvarande
+#LYHENNE    
+#OHJE_S  
+Käynnillä ei tehdä muita toimenpiteitä
+#OHJE_R 
+Inga andra åtgärder görs under detta besök
+###
+#KOODI      WYA20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Käynti potilaan luona
+#RUOTSI     Hembesök
+#LYHENNE    Käynti potilaan luona
+###
+#KOODI      WYA30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaikeahoitoisen potilaan valmistelu toimenpidettä varten
+#RUOTSI     Förberedelse av svårbehandlad patient
+#LYHENNE    Vaikeahoitoisen potilaan valmistelu
+#OHJE_S  
+Pelkäävä, liikuntavammainen  jne.
+#OHJE_R 
+Rädd, rörelsehindrad el.dyl.
+###
+#KOODI_R    WZ
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Todistukset, lääkemääräykset ja lausunnot
+#RUOTSI     Intyg, recept och utlåtanden
+#ENGL       
+###
+#KOODI_A    WZA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#POISTETTU
+#SUOMI      Todistukset
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      WZA00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suppea todistus
+#RUOTSI     Begränsat intyg
+#LYHENNE    Suppea todistus
+#OHJE_S  
+A-todistus tai vastaava
+#OHJE_R 
+A-intyg eller motsvarande
+###
+#KOODI      WZA10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja todistus
+#RUOTSI     ---
+#LYHENNE    Laaja todistus
+#OHJE_S  
+B- tai C-todistus tai vastaava
+#OHJE_R 
+---
+###
+#KOODI      WZA90
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu lääkärin tai hammaslääkärin todistus
+#RUOTSI     Annat läkar- eller tandläkarintyg
+#LYHENNE    
+###
+#KOODI      WZB00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puhelimitse annettu hoito-ohje ja mahdollinen resepti
+#RUOTSI     Vårddirektiv och ev. recept givna per telefon
+#LYHENNE    Puhelinohje/resepti
+#OHJE_S  
+Vastaanotolla hoidon yhteydessä annettu resepti myöskin puhelimitse toimitettuna sisältyy  käynnin toimenpiteisiin
+#OHJE_R 
+Vid besök på mottagningen ingår recept i åtgärdskoden också om receptet ges per telefon
+###
+#KOODI      WZC00
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hoidon suunnittelu tai konsultaatio
+#RUOTSI     Vårdplanering eller konsultation
+#LYHENNE    Hoidon suunnittelu tai konsultaatio
+###
+#KOODI      WZC10
+#MUUT_PVM   2000/09/15
+#KAYTPVM    2000/09/14
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja erikoisalakohtainen kirjallinen konsultaatio
+#RUOTSI     Omfattande skriftlig specialist konsultation
+#LYHENNE    Laaja erikoisalak. kirjall.konsultaatio
+#OHJE_S  
+vastaa vaativuudeltaan ja laajuudeltaan esim. suun erityistutkimusta
+voi sisältää useita erikoisalakohtaisia konsultaatioita
+#OHJE_R 
+motsvarar t.ex. åtgärden av specialundersökning av munnen
+kan innehålla konsultation av specialister från flera områden

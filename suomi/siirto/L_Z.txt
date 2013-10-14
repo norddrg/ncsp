@@ -1,0 +1,2340 @@
+
+###
+#KOODI_L    Z
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Lisäkoodit
+#RUOTSI     Tilläggskoder
+#ENGL       General qualifiers pertaining to all other chapters
+#OHJE_S  
+Lisäkoodeja voi käyttää ainoastaan muun toimenpidekoodin lisänä ilmaisemassa  tarkentavaa lisätietoa
+Koodin elinryhmä (F,L, P tai Q) ei estä käyttöä soveltuvin osin muiden elinten toimenpiteissä
+#OHJE_R 
+Tilläggskoder används ändast tillsammans med egentliga koder
+Kodens organgrupp (F,L, P tai Q) förhindrar ej använding i samband av åtgärder i andra organer
+###
+#KOODI      Z2221 
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lääkäri
+#RUOTSI     Läkare
+#LYHENNE    Lääkäri
+###
+#KOODI      Z2230 
+#MUUT_PVM   2004/08/12
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ylihoitaja tai osastonhoitaja
+#RUOTSI     Överskötare eller avdelsningsskötare
+#LYHENNE    Ylihoitaja tai osastonhoitaja
+###
+#KOODI      Z2445 
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykologi
+#RUOTSI     Psykolog
+#LYHENNE    Psykologi
+###
+#KOODI      Z2446 
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalityöntekijä
+#RUOTSI     Socialarbetre
+#LYHENNE    Sosiaalityöntekijä
+###
+#KOODI      Z3226 
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapeutti
+#RUOTSI     Fysioterapeut
+#LYHENNE    Fysioterapeutti
+###
+#KOODI      Z3229 
+#MUUT_PVM   2004/08/03
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu terveydenhuollon erityistyöntekijä
+#RUOTSI     Annan terapist
+#LYHENNE    Muu ammatti
+#OHJE_S  
+Puheterapeutti, toimintaterapeutti jne
+#OHJE_R 
+---
+###
+#KOODI      Z3231 
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sairaanhoitaja
+#RUOTSI     Sjukskötare
+#LYHENNE    Sairaanhoitaja
+###
+#KOODI      Z3232 
+#MUUT_PVM   2004/08/12
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kätilö
+#RUOTSI     Barnmorska
+#LYHENNE    Kätilö
+###
+#KOODI      Z5131 
+#MUUT_PVM   2004/08/05
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lastenhoitaja
+#RUOTSI     Barnskötare
+#LYHENNE    Lastenhoitaja
+###
+#KOODI      Z5132 
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perushoitaja
+#RUOTSI     Undersköterska
+#LYHENNE    Perushoitaja
+###
+#KOODI_R    ZF
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#SUOMI      Sydän- ja verisuonikirurgialle tyypillisiä tekniikoita
+#RUOTSI     Teknik typiska för kardiovaskulära åtgärder
+#ENGL       Techniques typical for cardiovascular surgery
+###
+#KOODI      ZFN00 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sepelvaltimon suonensisäinen paikallinen sädehoito
+#RUOTSI     Perkutan transluminal koronar brakyterapi
+#LYHENNE    Sepelvaltimon suonensisäinen paikallinen
+###
+#KOODI      ZFX00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pallolaajennuskatetrin käyttö
+#RUOTSI     Balloonkateter
+#LYHENNE    Pallolaajennuskatetrin käyttö
+###
+#KOODI      ZFX01 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rotablatorin käyttö
+#RUOTSI     Rotablator
+#LYHENNE    Rotablatorin käyttö
+###
+#KOODI      ZFX02 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angiojetin käyttö
+#RUOTSI     Angiojet
+#LYHENNE    Angiojetin käyttö
+###
+#KOODI      ZFX03 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aterotomialaitteen käyttö
+#RUOTSI     Aterotomi apparat
+#LYHENNE    Aterotomialaitteen käyttö
+###
+#KOODI_R    ZJ
+#MUUT_PVM   2006/09/29
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#SUOMI      Ruuansulatuskanava toimenpiteiden lisäkoodit
+#RUOTSI     Gastrointestinal tilläggskod
+#ENGL       Gastrointestinal special technique
+###
+#KOODI      ZJX00 
+#MUUT_PVM   2006/09/26
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kaksoispallotekniikka ruuansulatuskanavna tähystyksessä
+#RUOTSI     Double balloon -teknik i gastroentorologisk endoskopi
+#LYHENNE    Kaksoispallotekniikka endoskopiassa
+###
+#KOODI_R    ZL
+#MUUT_PVM   2002/09/26
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Gynekologinen leikkaustapa
+#RUOTSI     Gynekologiska åtgärdssätt
+#ENGL       Gynaecologic approach
+###
+#KOODI      ZLX00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginan kautta suoritettu leikkaus
+#RUOTSI     Transvaginal öppen kirurgi
+#LYHENNE    Vaginan kautta suoritettu leikkaus
+###
+#KOODI      ZLX01 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaginan kautta tehdyn avauksen yhdistäminen laparatomiaan
+#RUOTSI     Transvaginal öppning kombinerad med laparotomi
+#LYHENNE    Pervagin yhd laparatomiaan
+###
+#KOODI_R    ZP
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Verisuonikorjauksen materiaali
+#RUOTSI     Material i kärlplastik
+#ENGL       Material of vascular plasty
+###
+#KOODI      ZPB00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ei siirrettä
+#RUOTSI     Inget kärltransplantat/implantat
+#LYHENNE    Ei siirrettä
+###
+#KOODI      ZPB10 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omakudosvaltimo
+#RUOTSI     Egen artär (autotransplantat)
+#LYHENNE    Omakudosvaltimo
+#OHJE_S  
+Autologinen siirre
+#OHJE_R 
+---
+###
+#KOODI      ZPB16 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vapaa valtimosiirre, allografti
+#RUOTSI     Fritt artärtransplantat, allograft
+#LYHENNE    Vapaa valtimosiirre, allografti
+###
+#KOODI      ZPB18 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vapaa valtimosiirre, xenografti
+#RUOTSI     Fritt artärtransplantat, xenograft
+#LYHENNE    Vapaa valtimosiirre, xenografti
+###
+#KOODI      ZPB20 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laskimo paikallaan
+#RUOTSI     Ven in situ
+#LYHENNE    Laskimo paikallaan
+#OHJE_S  
+In situ -vena
+#OHJE_R 
+---
+###
+#KOODI      ZPB22 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Irrotettu laskimo
+#RUOTSI     Lösgjort ventransplantat (egen ven)
+#LYHENNE    Irrotettu laskimo
+###
+#KOODI      ZPB24 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laskimopaikka
+#RUOTSI     "Venpatch"
+#LYHENNE    Laskimopaikka
+#OHJE_S  
+"venous pathc"
+#OHJE_R 
+---
+###
+#KOODI      ZPB26 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vapaa laskimosiirre, allografti
+#RUOTSI     Fritt ventransplantat, allograft
+#LYHENNE    Vapaa laskimosiirre, allografti
+###
+#KOODI      ZPB28 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vapaa laskimosiirre, xenografti
+#RUOTSI     Fritt ventransplantat, xenograft
+#LYHENNE    Vapaa laskimosiirre, xenografti
+###
+#KOODI      ZPB30 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dacron
+#RUOTSI     Dacron
+#LYHENNE    Dacron
+###
+#KOODI      ZPB32 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dacron, päällystetty
+#RUOTSI     Dacron, beklädd
+#LYHENNE    Dacron, päällystetty
+###
+#KOODI      ZPB40 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polytetrafluoroetyleeni, PTFE
+#RUOTSI     Polytetrafluoroetylen, PTFE
+#LYHENNE    Polytetrafluoroetyleeni, PTFE
+###
+#KOODI      ZPB50 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Napalaskimosiirre
+#RUOTSI     Navelven-transplantat
+#LYHENNE    Napalaskimosiirre
+###
+#KOODI      ZPB60 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Combi graft -siirre
+#RUOTSI     Combi graft
+#LYHENNE    Combi graft -siirre
+###
+#KOODI      ZPB96 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verisuonisiirre muusta materiaalista
+#RUOTSI     Kärlprotes av annat material
+#LYHENNE    Verisuonisiirre muusta materiaalista
+###
+#KOODI_R    ZQ
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Iho alueen laajuus
+#RUOTSI     Hudområdets omfang
+#ENGL       Skin area
+###
+#KOODI      ZQX00 
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      0-4% ihon pinta-alasta
+#RUOTSI     0-4% av hudarealen
+#LYHENNE    0-4% ihon pinta-alasta
+###
+#KOODI      ZQX02 
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      5-9% ihon pinta-alasta
+#RUOTSI     5-9% av hudarealen
+#LYHENNE    5-9% ihon pinta-alasta
+###
+#KOODI      ZQX04 
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      10-19% ihon pinta-alasta
+#RUOTSI     10-19% av hudarealen
+#LYHENNE    10-19% ihon pinta-alasta
+###
+#KOODI      ZQX06 
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      20-49% ihon pinta-alasta
+#RUOTSI     20-49% av hudarealen
+#LYHENNE    20-49% ihon pinta-alasta
+###
+#KOODI      ZQX08 
+#MUUT_PVM   1996/09/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vähintään 50% ihon pinta-alasta
+#RUOTSI     Hälften (50%)  eller mera av hudarealen
+#LYHENNE    Vähintään 50% ihon pinta-alasta
+###
+#KOODI      ZQZ00 
+#MUUT_PVM   1996/09/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Usean ihoalueen hoito
+#RUOTSI     Åtgärd på flera hudregioner
+#LYHENNE    Usean ihoalueen hoito
+#OHJE_S  
+Hoidettaessa useaa ihoaluetta tulee koodata toimenpide tärkeimmän ihoalueen mukaan. Se, että sama toimenpide on suoritettu useilla alueilla voidaan ilmaista tällä koodilla.
+#OHJE_R 
+När man behandlar samtidigt flera hudregioner, bör man ange kod för det områd som drappats mest. Det att man har gjort samma åtgörd på flera regioner kan då anges med denna tillägskod.
+###
+#KOODI_R    ZS
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Toimenpiteen suhde aiempaan toimenpiteeseen
+#RUOTSI     Ingreppets relation till tidigare operation
+#ENGL       Relation of procedure to previous surgery
+#OHJE_S  
+Sisältää ns. 'redo' -leikkaukset ja ns. 'second look' -leikkaukset.
+Koodin kolmas merkki ilmaisee alkuperäisen lekkauksen elinryhmän
+Luvun P uusintaleikkaukset luvun alueella.
+#OHJE_R 
+Inkl "redo"-operationer och "second look"-operationerTredje tecknet i reoperationskoden anger kapitlet för den tidigare operationens klassificering.Obs att också reoperationer efter ingrepp tillhöriga kapitel P kodifieras i nämnda kapitel
+###
+#KOODI      ZSA00 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun A toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel A
+#LYHENNE    Huku A leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSB00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun B toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel B
+#LYHENNE    Luku B leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSC00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun C toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel C
+#LYHENNE    Luku C leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSD00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun D toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel D
+#LYHENNE    Luku D leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSE00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun E toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel E
+#LYHENNE    Luku E leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSF00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun F toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel F
+#LYHENNE    Luku F leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSG00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun G toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel G
+#LYHENNE    Huku G leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSH00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun H toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel H
+#LYHENNE    Luku H leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSJ00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun J toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel J
+#LYHENNE    Luku J leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSK00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun K toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel K
+#LYHENNE    Luku K leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSL00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun  L toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel L
+#LYHENNE    Luku L leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSM00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun M toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel M
+#LYHENNE    Luku M leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSN00 
+#MUUT_PVM   1999/11/12
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun N toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel N
+#LYHENNE    Luku N leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSQ00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun  Q toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel Q
+#LYHENNE    Luku Q leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZST00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun T toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel T
+#LYHENNE    Luku T leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSU00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun U toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel U
+#LYHENNE    Luku U leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSY00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Aiempaan luvun Y toimenpiteeseen liittyvä toimenpide
+#RUOTSI     Ingrepp som står i samband med tidigare åtgärd inom kapitel Y
+#LYHENNE    Luku Y leikkauksen uusinta/jatkotmp
+###
+#KOODI      ZSZ00 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4364+     
+#SUOMI      Primaarinen korjausleikkaus
+#RUOTSI     Primär revisionsoperation
+#LYHENNE    Primaarinen korjausleikkaus
+###
+#KOODI      ZSZ10 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      4364+     
+#SUOMI      Sekundaarinen korjausleikkaus
+#RUOTSI     Sekundär revisionsoperation
+#LYHENNE    Sekundaarinen korjausleikkaus
+###
+#KOODI_R    ZX
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Erityiset tapahtumat ja olosuhteet toimenpiteeseen liittyen
+#RUOTSI     Diverse omständigheter/incidenter i samband med åtgärden
+#ENGL       Various circumstances and events in surgery
+###
+#KOODI      ZX000 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksinkertainen hoidon asetus simulaattorilla tai hoitokoneella - isosentrinen hoito
+#RUOTSI     Enkel justering av strålbehandling med simulator och vårdmaskin - isocentrisk behandling
+#LYHENNE    Yks hoid as simul tai hoitokon - isosent
+###
+#KOODI      ZX001 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksinkertainen hoidon asetus simulaattorilla tai hoitokoneella - SSD hoito
+#RUOTSI     Enkel justering av strålbehandling med simulator och vårdmaskin - SSD behandling
+#LYHENNE    Yks hoid as simul tai hoitokon - SSD
+###
+#KOODI      ZX002 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksinkertainen kerroskuvaukseen perustuva annossuunnitelma - isosentrinen hoito
+#RUOTSI     Enkel dosplanering baserad på tomografi - isocentrisk behandling
+#LYHENNE    Yks kerr.kuv annossuun - isosentr
+###
+#KOODI      ZX003 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yksinkertainen kerroskuvaukseen perustuva annossuunnitelma - SSD hoito
+#RUOTSI     Enkel dosplanering baserad på tomografi - SSD behandling
+#LYHENNE    Yks kerr.kuv annossuun - SSD
+###
+#KOODI      ZX010 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Saumattavat hoitoannokset - isosentrinen hoito
+#RUOTSI     Sammanfogade strålbehandlingsdoser - isocentrisk behandling
+#LYHENNE    Saumattavat hoitoannokset - isosentrinen
+###
+#KOODI      ZX011 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Saumattavat hoitoannokset - SSD hoito
+#RUOTSI     Sammanfogade strålbehandlingsdoser - SSD behandling
+#LYHENNE    Saumattavat hoitoannokset - SSD hoito
+###
+#KOODI      ZX012 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito muotoilluilla laajakentillä - isosentrinen hoito
+#RUOTSI     Strålbehandling med formulerade utsträckta fält - isocentrisk behandling
+#LYHENNE    Sädeh muot laajakentillä - isosentr
+###
+#KOODI      ZX013 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito muotoilluilla laajakentillä - SSD hoito
+#RUOTSI     Strålbehandling med formulerade utsträckta fält - SSD behandling
+#LYHENNE    Sädeh muot laajakentillä - SSD
+###
+#KOODI      ZX014 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko keskushermoston sädehoito - isosentrinen hoito
+#RUOTSI     Strålbehandling av hela centrala nervsystemet - isocentrisk behandling
+#LYHENNE    Keskusherm sädeh - isosentr
+#OHJE_S  
+Käytetään lisäkoodina koodille AX099
+#OHJE_R 
+Används som tilläggskod till AX099
+###
+#KOODI      ZX015 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koko keskushermoston sädehoito - SSD hoito
+#RUOTSI     Strålbehandling av hela centrala nervsystemet - SSD behandling
+#LYHENNE    Keskusherm sädeh - SSD
+#OHJE_S  
+Käytetään lisäkoodina koodille AX099
+#OHJE_R 
+Används som tilläggskod till AX099
+###
+#KOODI      ZX020 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudoksen sisäinen HDR sädehoito
+#RUOTSI     HDR strålbehandling inom vävnaden
+#LYHENNE    Kudoksen sisäinen HDR sädehoito
+###
+#KOODI      ZX022 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudoksen sisäinen LDR sädehoito
+#RUOTSI     LDR strålbehandling inom vävnaden
+#LYHENNE    Kudoksen sisäinen LDR sädehoito
+###
+#KOODI      ZX040 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ontelonsisäinen HDR sädehoito
+#RUOTSI     HDR strålbehandling inom kavitet
+#LYHENNE    Ontelonsisäinen HDR sädehoito
+###
+#KOODI      ZX042 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ontelonsisäinen LDR sädehoito
+#RUOTSI     LDR strålbehandling inom kavitet
+#LYHENNE    Ontelonsisäinen LDR sädehoito
+###
+#KOODI      ZX050 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stereotaktinen sädehoito
+#RUOTSI     Steretaktisk strålbehandling
+#LYHENNE    Stereotaktinen sädehoito
+###
+#KOODI      ZX060 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gamma-veitsi -hoito
+#RUOTSI     Behandling med gamma-kniv
+#LYHENNE    Gamma-veitsi -hoito
+###
+#KOODI      ZX090 
+#MUUT_PVM   1996/03/23
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sädehoidon tekniikka
+#RUOTSI     Annan strålbehandlings teknik
+#LYHENNE    Muu sädehoidon tekniikka
+###
+#KOODI      ZX100 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun kautta
+#RUOTSI     Peroral
+#LYHENNE    Suun kautta
+###
+#KOODI      ZX101 
+#MUUT_PVM   1997/12/19
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kielen alle
+#RUOTSI     Sublingualt
+#LYHENNE    Sublinguaalinen
+###
+#KOODI      ZX102 
+#MUUT_PVM   1997/10/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peräsuolen kautta
+#RUOTSI     Rektal
+#LYHENNE    Rektaalinen
+###
+#KOODI      ZX106 
+#MUUT_PVM   1997/12/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intranasaalinen
+#RUOTSI     Intranasal
+#LYHENNE    Intranasaalinen
+###
+#KOODI      ZX108 
+#MUUT_PVM   1997/12/20
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inhalaatio
+#RUOTSI     Inhalation
+#LYHENNE    Inhalaatio
+###
+#KOODI      ZX109 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lääkeinhalaatiotekniikan opetus
+#RUOTSI     Läkemedelsinhalationteknik inlärning
+#LYHENNE    Lääkeinhalaatiotekniikan opetus
+###
+#KOODI      ZX110 
+#MUUT_PVM   1996/05/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihonsisäinen
+#RUOTSI     Intracutan
+#LYHENNE    Ihonsisäinen
+###
+#KOODI      ZX112 
+#MUUT_PVM   1996/05/27
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ihon alle
+#RUOTSI     Subcutan
+#LYHENNE    Ihon alle
+###
+#KOODI      ZX114 
+#MUUT_PVM   1997/12/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lihakseen
+#RUOTSI     Intramuskulär
+#LYHENNE    Lihakseen
+###
+#KOODI      ZX116 
+#MUUT_PVM   1997/12/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luuytimeen
+#RUOTSI     Intraosseal
+#LYHENNE    Luuytimeen
+###
+#KOODI      ZX120 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laskimoon
+#RUOTSI     Intravenös
+#LYHENNE    Laskimoon
+###
+#KOODI      ZX121 
+#MUUT_PVM   2002/11/12
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskuslaskimokatetriin
+#RUOTSI     Central venkateter
+#LYHENNE    Keskuslaskimokatetriin
+###
+#KOODI      ZX122 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Valtimoon
+#RUOTSI     Arteriell
+#LYHENNE    Valtimoon
+###
+#KOODI      ZX123 
+#MUUT_PVM   2002/11/12
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kohde-elimen valtimoon
+#RUOTSI     Artär av objektorgan
+#LYHENNE    Kohde-elimen valtimoon
+###
+#KOODI      ZX124 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elimen tai kohteen perfuusio
+#RUOTSI     Perfusion av ett organ
+#LYHENNE    Elimen tai kohteen perfuusio
+###
+#KOODI      ZX130 
+#MUUT_PVM   1997/12/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epiduraalitilaan
+#RUOTSI     Epiduralt
+#LYHENNE    Epiduraalitilaan
+###
+#KOODI      ZX131 
+#MUUT_PVM   1998/08/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Selkäydinkanavaan
+#RUOTSI     Intrathekal
+#LYHENNE    Selkäydinkanavaan
+###
+#KOODI      ZX132 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkopussiin
+#RUOTSI     Intrapleural
+#LYHENNE    Keuhkopussiin
+###
+#KOODI      ZX134 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsaonteloon
+#RUOTSI     Intra-abdominal
+#LYHENNE    Vatsaonteloon
+###
+#KOODI      ZX136 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Virtsarakkoon
+#RUOTSI     Intravesikal
+#LYHENNE    Virtsarakkoon
+###
+#KOODI      ZX140 
+#MUUT_PVM   1999/07/09
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Niveleen
+#RUOTSI     Intraartikulärt
+#LYHENNE    Niveleen
+###
+#KOODI      ZX190 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvaimen tai muutoksen sisään
+#RUOTSI     Intralesional
+#LYHENNE    Kasvaimen tai muutoksen sisään
+###
+#KOODI      ZX198 
+#MUUT_PVM   1999/07/09
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu paikallinen lääkehoito
+#RUOTSI     Annan lokal medicinering
+#LYHENNE    Muu paikallinen lääkehoito
+###
+#KOODI      ZX199 
+#MUUT_PVM   1996/03/22
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu lääkehoidon reitti
+#RUOTSI     Annan rot för medicationen
+#LYHENNE    Muu reitti
+###
+#KOODI      ZXA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oikea puoli
+#RUOTSI     Höger sida
+#LYHENNE    Oikea puoli
+###
+#KOODI      ZXA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vasen puoli
+#RUOTSI     Vänster sida
+#LYHENNE    Vasen puoli
+###
+#KOODI      ZXA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Molemminpuolinen
+#RUOTSI     Bilateral
+#LYHENNE    Molemminpuolinen
+###
+#KOODI      ZXB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sivun puoleinen, lateraalinen
+#RUOTSI     Lateralt
+#LYHENNE    Sivun puoleinen, lateraalinen
+###
+#KOODI      ZXB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keskiviivan puoleinen, mediaalinen
+#RUOTSI     Medialt
+#LYHENNE    Keskiviivan puoleinen, mediaalinen
+###
+#KOODI      ZXB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekä sivun että keskiviivan puoleinen
+#RUOTSI     Hateralt och medialt
+#LYHENNE    Sekä sivun että keskiviivan puoleinen
+###
+#KOODI      ZXC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diatermia
+#RUOTSI     Användande av diatermi
+#LYHENNE    Diatermia
+###
+#KOODI      ZXC05 
+#MUUT_PVM   2006/09/28
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ionisotu kaasu
+#RUOTSI     Inoniserad gas
+#LYHENNE    Ionisotu kaasu
+#OHJE_S  
+Sisältää argonplasma koagulaation
+#OHJE_R 
+Innefattar argon plasma koagulering
+###
+#KOODI      ZXC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laser
+#RUOTSI     Laser
+#LYHENNE    Laser
+#OHJE_S  
+Sisältää hiilidioksidilaserin ja määrittämättömän laserin
+#OHJE_R 
+Innefattar colmonoxid laser och obestämd laser
+###
+#KOODI      ZXC12 
+#MUUT_PVM   1997/12/17
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pulssivärilaser
+#RUOTSI     Pulsfärglaser
+#LYHENNE    Pulssivärilaser
+###
+#KOODI      ZXC14 
+#MUUT_PVM   1997/12/17
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu erikoislaser
+#RUOTSI     Annan special laser
+#LYHENNE    Muu erikoislaser
+#OHJE_S  
+Esim argonlaser
+#OHJE_R 
+T.ex. argonlaser
+###
+#KOODI      ZXC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kemiallinen aine
+#RUOTSI     Användande av farmaka/kemikalier
+#LYHENNE    Kemiallinen aine
+###
+#KOODI      ZXC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikroaaltolaite
+#RUOTSI     Användande av mikrovågor
+#LYHENNE    Mikroaaltolaite
+###
+#KOODI      ZXC35 
+#MUUT_PVM   2006/01/09
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radioaaltolaite
+#RUOTSI     Användande av radiovågor
+#LYHENNE    Radioaaltolaite
+###
+#KOODI      ZXC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraäänilaite
+#RUOTSI     Användande av ultraljud
+#LYHENNE    Ultraäänilaite
+###
+#KOODI      ZXC50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Jäädytys, kryokoagulaatio
+#RUOTSI     Användande av kryoterapi
+#LYHENNE    Jäädytys, kryokoagulaatio
+###
+#KOODI      ZXC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuumentaminen
+#RUOTSI     Användande av värme
+#LYHENNE    Kuumentaminen
+###
+#KOODI      ZXC70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vesisuihku
+#RUOTSI     Användande av vattenstråle
+#LYHENNE    Vesisuihku
+###
+#KOODI      ZXC80 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Magneetin käyttö
+#RUOTSI     Användande av magnet
+#LYHENNE    Magneetin käyttö
+###
+#KOODI      ZXC82 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrokirurgia
+#RUOTSI     Mikrokirurgi
+#LYHENNE    Mikrokirurgia
+###
+#KOODI      ZXC84 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Verityhjiö
+#RUOTSI     Bloodtomt fält
+#LYHENNE    Verityhjiö
+###
+#KOODI      ZXC86 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tähystinlaitteen käyttö
+#RUOTSI     Användade av endoskopi utstyr
+#LYHENNE    Tähystinlaitteen käyttö
+###
+#KOODI      ZXC90 
+#MUUT_PVM   2006/09/28
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liukeneva verkko
+#RUOTSI     Absorberande nät
+#LYHENNE    Biologisesti hajoava verkko
+###
+#KOODI      ZXC91 
+#MUUT_PVM   2006/09/28
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liukenematon verkko
+#RUOTSI     Oabsorberande nät
+#LYHENNE    Liukenematon verkko
+###
+#KOODI      ZXC96 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Robotin käyttö leikkauksessa
+#RUOTSI     Robotassisterad operation
+#LYHENNE    Robotin käyttö leikkauksessa
+###
+#KOODI      ZXC99 
+#MUUT_PVM   1997/02/25
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu erityinen leikkaustekniikka
+#RUOTSI     Annan speciell kirurgisk teknik
+#LYHENNE    Muu erityinen leikkaustekniikka
+###
+#KOODI      ZXD00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hätätoimenpide
+#RUOTSI     Nödoperation
+#LYHENNE    Hätätoimenpide
+#OHJE_S  
+Välittömän hengenvaaran vuoksi suoritettu toimenpide
+#OHJE_R 
+För avvärjande av omedelbar livsfara
+###
+#KOODI      ZXD05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiireellinen toimenpide
+#RUOTSI     Akut operation
+#LYHENNE    Kiireellinen toimenpide
+#OHJE_S  
+Kiireellinen toimenpide, normaalit valmistelut ehditään suorittaa
+#OHJE_R 
+Tid för sedvanliga förberedelser
+###
+#KOODI      ZXD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suunniteltu toimenpide
+#RUOTSI     Elektiv operation
+#LYHENNE    Suunniteltu toimenpide
+#OHJE_S  
+Suunniteltu toimenpide tavallisimmin virka-aikana
+#OHJE_R 
+Förlagd till normal tjänstetid
+###
+#KOODI      ZXD20 
+#MUUT_PVM   2000/11/30
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polikliininen päiväkirurgia
+#RUOTSI     Poliklinisk dagkirurgi
+#LYHENNE    Polikliininen päiväkirurgia
+#OHJE_S  
+Suunniteltu toimenpide, jossa potilaan on tarkoitus tulla hoitavaan yksikköön ja palata kotiin tai suorittavan yksikön ulkopuoliseen hoito- tai asuinpaikkaan saman päivän aikana.
+#OHJE_R 
+Planerat åtgärd, där patienten är planerad att anlända till enheten och återvända hem eller annan anstalt än utförande enhet inom samma dag
+###
+#KOODI      ZXD30 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laaja tai vaikea toimenpide
+#RUOTSI     Extensiv eller svår åtgärd
+#LYHENNE    Laaja tai vaikea toimenpide
+#OHJE_S  
+Toimenpide työllistää selvästi enemmän kuin kyseinen toimenpide tavallisesti.
+Esim sydänleikkausten yhteydessä Euroscore 2
+#OHJE_R 
+Åtgärden gräver tydligen mera resurser än vanligt
+T.ex. vid kardiologiska åtgärder euroscore 2
+###
+#KOODI      ZXD31 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Erittäin laaja tai vaikea toimenpide
+#RUOTSI     Synnerligen extensiv eller svår åtgärd
+#LYHENNE    Eritt.laaja tmp
+#OHJE_S  
+Esim sydäleikkausten yhteydessä Euroscore 3 tai enemmän
+#OHJE_R 
+T.ex vid kardiologiska åtgärder eursocre 3 eller mera
+###
+#KOODI      ZXD35 
+#MUUT_PVM   1996/03/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaikeusasteeltaan tavallinen toimenpide
+#RUOTSI     Vanlig åtgärd
+#LYHENNE    Vaikeusasteeltaan tavallinen toimenpide
+#OHJE_S  
+Esim sydäleikkauksen yhteydessä Euroscore 0-1
+#OHJE_R 
+Ej speciellt svår
+T,ex vid kardiologiska åtgärder euroscore 0-1
+###
+#KOODI      ZXE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto enintään 1 tunti
+#RUOTSI     Tidsåtgång maximalt 1 timme
+#LYHENNE    Toimenpiteen kesto enintään 1 tunti
+###
+#KOODI      ZXE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 1-3 tuntia
+#RUOTSI     Tidsåtgång 1 - 3 timmar
+#LYHENNE    Toimenpiteen kesto 1-3 tuntia
+###
+#KOODI      ZXE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 3-5 tuntia
+#RUOTSI     Tidsåtgång 3 - 5 timmar
+#LYHENNE    Toimenpiteen kesto 3-5 tuntia
+###
+#KOODI      ZXE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 5-7 tuntia
+#RUOTSI     Tidsåtgång 5 - 7 timmar
+#LYHENNE    Toimenpiteen kesto 5-7 tuntia
+###
+#KOODI      ZXE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 7-9 tuntia
+#RUOTSI     Tidsåtgång 7 - 9 timmar
+#LYHENNE    Toimenpiteen kesto 7-9 tuntia
+###
+#KOODI      ZXE50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 9-12 tuntia
+#RUOTSI     Tidsåtgång 9 -12  timmar
+#LYHENNE    Toimenpiteen kesto 9-12 tuntia
+###
+#KOODI      ZXE60 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 12-15 tuntia
+#RUOTSI     Tidsåtgång 12 - 15 timmar
+#LYHENNE    Toimenpiteen kesto 12-15 tuntia
+###
+#KOODI      ZXE70 
+#MUUT_PVM   1996/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 15-18 tuntia
+#RUOTSI     Tidsåtgång 15 -18  timmar
+#LYHENNE    Toimenpiteen kesto 15-18 tuntia
+###
+#KOODI      ZXE80 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto 18-21 tuntia
+#RUOTSI     Tidsåtgång 18-21 timmar
+#LYHENNE    Toimenpiteen kesto 18-21 tuntia
+###
+#KOODI      ZXE90 
+#MUUT_PVM   2003/11/09
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen kesto vähintään 22 tuntia
+#RUOTSI     Tidsåtgång minst 22 timmar
+#LYHENNE    Toimenpiteen kesto vähintään 22 tuntia
+###
+#KOODI      ZXE92 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kesto 2-3 vrk
+#RUOTSI     Tidsåtgång 2-3 dagar
+#LYHENNE    Kesto 2-3 vrk
+###
+#KOODI      ZXE94 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      kesto yli 3 vrk
+#RUOTSI     Tidsåtgång över 3 dagar
+#LYHENNE    kesto yli 3 vrk
+###
+#KOODI      ZXF00 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen keskeyttäminen potilaan tilan heikkemisen vuoksi
+#RUOTSI     Åtgärden avbruten på grund av försämring av patientens tillstånd
+#LYHENNE    Toimenpit.kesk,pot
+###
+#KOODI      ZXF05 
+#MUUT_PVM   1999/12/16
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen keskeyttäminen muusta potilaasta johtuvasta syystä
+#RUOTSI     Åtgärden avbruten av annan på patienten beroende orsak
+#LYHENNE    Toimenpit.kesk,muu
+###
+#KOODI      ZXF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen keskeyttäminen välineiden teknisen pettämisen vuoksi
+#RUOTSI     Åtgärden avbruten av tekniska orsaker
+#LYHENNE    Toimenpit.kesk,tekn
+###
+#KOODI      ZXF20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen keskeyttäminen leikkausteknisten syiden vuoksi
+#RUOTSI     Kirurgitekniska orsaker
+#LYHENNE    Tmp keskeytetty leikkausteknisestä syyst
+###
+#KOODI      ZXF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu syy keskeyttää toimenpide
+#RUOTSI     Åtgärden avbruten av annan orsak
+#LYHENNE    Muu syy kesk.toimenp
+###
+#KOODI      ZXG05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suljettu sydänhieronta toimenpiteen aikana
+#RUOTSI     Sluten hjärtmassage under operation
+#LYHENNE    Suljettu sydänhieronta leikkauksessa
+###
+#KOODI      ZXG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avoin sydänhieronta
+#RUOTSI     Öppen hjärtmassage
+#LYHENNE    Avoin sydänhieronta
+###
+#KOODI      ZXG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avoin sydänhieronta ja aortan sulku
+#RUOTSI     Öppen hjärtmassage med temporär avstängning av bröstaortan
+#LYHENNE    Avoin sydänhieronta ja aortan sulku
+###
+#KOODI      ZXG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu sydänhierontatoimenpide
+#RUOTSI     Annan hjärtmassage
+#LYHENNE    Muu sydänhierontatoimenpide
+###
+#KOODI      ZXG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilapäisen sydämentahdistimen käyttö laskimoteitse
+#RUOTSI     Inläggande av temporär transvenös pacemaker
+#LYHENNE    Tilapäisen sydämentahdistimen käyttö IV
+###
+#KOODI      ZXG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilapäisen epikardiaalisen sydämentahdistimen käyttö
+#RUOTSI     Inläggande av temporär epikardiell pacemaker
+#LYHENNE    Tilap epikardiaalitahdistimen käyttö
+###
+#KOODI      ZXH00 
+#MUUT_PVM   2005/11/30
+#KAYTPVM    1999/01/01
+#POISTPVM   2005/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Tutkimus tai toimenpide suoritettu tavanomaisen yksikön ulkopuolella
+#RUOTSI     Undersökning eller intervention gjord utanför vanlig enhet
+#LYHENNE    Tutk tai tp tavanom. yks ulkop
+###
+#KOODI      ZXH01 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus tai toimenpide suoritettu leikkaussalissa
+#RUOTSI     Undersökning eller intervention gjord i operationssal
+#LYHENNE    Suorite,leikkaussali
+###
+#KOODI      ZXH02 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus tai toimenpide suoritettu teho-osastolla
+#RUOTSI     Undersökning eller intervention gjord på intensivvårdsavdelning
+#LYHENNE    Suorite,teho-osasto
+###
+#KOODI      ZXH04 
+#MUUT_PVM   2004/11/15
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus tai toimenpide suoritettu vuodeosastolla
+#RUOTSI     Undersökning eller intervention gjord på vanlig vårdavdelning
+#LYHENNE    Tutkimus tai toimenpide suoritettu vuode
+###
+#KOODI      ZXH06 
+#MUUT_PVM   2004/11/15
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus tai toimenpide suoritettu avohoitoyksikössä
+#RUOTSI     Undersökning eller intervention gjord i enhet för öppenvård
+#LYHENNE    Tutkimus tai toimenpide suoritettu avoho
+###
+#KOODI      ZXH09 
+#MUUT_PVM   2004/11/15
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tutkimus tai toimenpide suoritettu muussa tavanomaisesta suorituspaikasta poikkeavassa yksikössä
+#RUOTSI     Undersökning eller intervention gjord i annan enhet utanför vanliga förhållanden
+#LYHENNE    Tutkimus tai toimenpide muussa yksikössä
+###
+#KOODI      ZXK00 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen muuntaminen tähystystoimenpiteestä avoimeksi leikkaukseksi
+#RUOTSI     Konvertering från perkutan endoskopisk kirurgi till öppen kirurgi
+#LYHENNE    Toimenpiteen muunt tähyst -avoin
+###
+#KOODI      ZXK99 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen muu muuntaminen avoimeksi leikkaukseksi
+#RUOTSI     Annan konvertering till öppen kirurgi
+#LYHENNE    Toimenpiteen muu muuntaminen avoimeksi l
+###
+#KOODI_A    ZXA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Kehon puoli: oikea-vasen
+#RUOTSI     Kroppshalva (höger/vänster/bilateral)
+#ENGL       Side of body
+###
+#KOODI      ZXX01 
+#MUUT_PVM   2005/11/30
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajuus, 1 yksikkö
+#RUOTSI     Omfattning av åtgärd, 1 enhet
+#LYHENNE    Toimenpiteen laajuus, 1 yksikkö
+###
+#KOODI      ZXX02 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 2 yksikköä
+#RUOTSI     Omfattning av åtgärd, 2 enheter
+#LYHENNE    Toimenpiteen laajus, 2 yksikköä
+###
+#KOODI      ZXX03 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 3 yksikköä
+#RUOTSI     Omfattning av åtgärd, 3 enheter
+#LYHENNE    Toimenpiteen suorittaminen 3 kertaa
+###
+#KOODI      ZXX04 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 4 yksikköä
+#RUOTSI     Omfattning av åtgärd, 4 enheter
+#LYHENNE    Toimenpiteen laajus, 4 yksikköä
+###
+#KOODI      ZXX05 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 5 yksikköä
+#RUOTSI     Omfattning av åtgärd, 5 enheter
+#LYHENNE    Toimenpiteen laajus, 5 yksikköä
+###
+#KOODI      ZXX06 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 6 yksikköä
+#RUOTSI     Omfattning av åtgärd, 6 enheter
+#LYHENNE    Toimenpiteen laajus, 6 yksikköä
+###
+#KOODI      ZXX07 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 7 yksikköä
+#RUOTSI     Omfattning av åtgärd, 7 enheter
+#LYHENNE    Toimenpiteen laajus, 7 yksikköä
+###
+#KOODI      ZXX08 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, 8 yksikköä
+#RUOTSI     Omfattning av åtgärd, 8 enheter
+#LYHENNE    Toimenpiteen laajus, 8 yksikköä
+###
+#KOODI      ZXX09 
+#MUUT_PVM   2005/09/22
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimenpiteen laajus, enemmän kuin 8 yksikköä
+#RUOTSI     Omfattning av åtgärd, mera än 8 enheter
+#LYHENNE    Toimenpiteen laajus, enemmän kuin 8 yksi
+###
+#KOODI_R    ZY
+#MUUT_PVM   2004/09/21
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#SUOMI      Hoitokontaktin tyyppi
+#RUOTSI     Typ av vårdkontankt
+#ENGL       Type of care contact
+###
+#KOODI      ZY000 
+#MUUT_PVM   2004/09/21
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vuodeosastohoito
+#RUOTSI     Avdelnings vård
+#LYHENNE    Vuodeosastohoito
+###
+#KOODI      ZY010 
+#MUUT_PVM   2004/09/21
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Polikliininen hoito
+#RUOTSI     Poliklinisk vård
+#LYHENNE    Polikliininen hoito
+###
+#KOODI      ZY020 
+#MUUT_PVM   2004/09/21
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puhelu, kirje tai konsultaatio
+#RUOTSI     Telefonkontakt, brev eller konsultaion
+#LYHENNE    Puhelu, kirje tai konsultaatio
+###
+#KOODI_R    ZZ
+#MUUT_PVM   2004/08/04
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#SUOMI      Palveluntuottajan ammatti
+#RUOTSI     Tjänstproducentens yrke
+#ENGL       Healthcare providers occupation
+###
+#KOODI      ZZA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801      
+#SUOMI      Iho,  split skin , omakudos, autografti
+#RUOTSI     Fritt autologt delhudstransplantat
+#LYHENNE    Iho,  split skin , omakudos, autografti
+###
+#KOODI      ZZA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Iho,  split skin , vierassiirre, allografti
+#RUOTSI     Fri delhud, allotransplantat
+#LYHENNE    Iho,split,allografti
+###
+#KOODI      ZZA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Iho,  split skin , vieraslajisiirre, heterografti
+#RUOTSI     Fri delhud, heterotransplantat
+#LYHENNE    Iho,split,heterografti
+###
+#KOODI      ZZA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Iho, viljelty, omakudos
+#RUOTSI     Fri delhud, odlat autotransplantat
+#LYHENNE    Iho, viljelty, omakudos
+###
+#KOODI      ZZA35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Iho, viljelty, vierassiirre
+#RUOTSI     Fri delhud, odlat allotransplantat
+#LYHENNE    Iho, viljelty, vierassiirre
+###
+#KOODI      ZZA40 
+#MUUT_PVM   2003/11/17
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Synteettinen keinoiho
+#RUOTSI     Konstgjord dermis
+#LYHENNE    Synteettinen keinoiho
+#OHJE_S  
+Sisältää epidermisviljelmän ja synteettisen dermiksen yhdistelmän
+#OHJE_R 
+Innefattar kombination av epidermisodling och syntetisk hud
+###
+#KOODI      ZZA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Koko iho
+#RUOTSI     Fritt fullhudtransplantat
+#LYHENNE    Koko iho
+#OHJE_S  
+Ns. 'full thickness ' -ihonsiirre
+#OHJE_R 
+---
+###
+#KOODI      ZZA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9801+     
+#SUOMI      Hermotettu iho
+#RUOTSI     Hudtransplantat med bevarad innervation
+#LYHENNE    Hermotettu iho
+###
+#KOODI      ZZB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804      
+#SUOMI      Patellajänne
+#RUOTSI     Transplantation av patellarsena
+#LYHENNE    Patellajänne
+#OHJE_S  
+Bone - tendon - bone
+#OHJE_R 
+---
+###
+#KOODI      ZZB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804      
+#SUOMI      Semitendinosusjänne
+#RUOTSI     Transplantation av semitendinosus-sena
+#LYHENNE    Semitendinosusjänne
+###
+#KOODI      ZZB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804      
+#SUOMI      Palmaris longus -jänne
+#RUOTSI     Transplantation av palmaris longus-sena
+#LYHENNE    Palmaris longus -jänne
+###
+#KOODI      ZZB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804      
+#SUOMI      Varpaan ojentajajänne
+#RUOTSI     Transplantation av tåextensorsena
+#LYHENNE    Varpaan ojentajajänne
+###
+#KOODI      ZZB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804      
+#SUOMI      Jänne, omakudos, muu
+#RUOTSI     Annat autologt sentransplantat
+#LYHENNE    Jänne, omakudos, muu
+###
+#KOODI      ZZB50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804+     
+#SUOMI      Jänne, vierassiirre, allografti
+#RUOTSI     Transplantation av homolog sena
+#LYHENNE    Jänne, vierassiirre, allografti
+###
+#KOODI      ZZB60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804+     
+#SUOMI      Keinojänne
+#RUOTSI     Ersättande av sena med konstgjort material
+#LYHENNE    Keinojänne
+###
+#KOODI      ZZC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804      
+#SUOMI      Sidekudoskalvo, omakudos
+#RUOTSI     Autologt fasciatransplantat
+#LYHENNE    Sidekudoskalvo, omakudos
+###
+#KOODI      ZZC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9804+     
+#SUOMI      Sidekudoskalvo, vierassiirre, allografti
+#RUOTSI     Allotransplantation av fascia
+#LYHENNE    Sidekudoskalvo, vierassiirre, allografti
+###
+#KOODI      ZZD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9819      
+#SUOMI      Kova aivokalvo, vierassiirre, allografti
+#RUOTSI     Allotransplantation av dura
+#LYHENNE    Kova aivokalvo, vierassiirre, allografti
+###
+#KOODI      ZZE00 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9805      
+#SUOMI      Lihas, omakudos, autografti
+#RUOTSI     Autologt skelettmuskeltransplantat
+#LYHENNE    Lihas, omakudos, autografti
+###
+#KOODI      ZZE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9805+     
+#SUOMI      Hermotettu lihas
+#RUOTSI     Skelettmuskeltransplantat med bevarad innervation
+#LYHENNE    Hermotettu lihas
+###
+#KOODI      ZZF00 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9819      
+#SUOMI      Rasva, omakudos, autografti
+#RUOTSI     Autologt fettvävnadstransplantat
+#LYHENNE    Rasva, omakudos, autografti
+###
+#KOODI      ZZG00 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9807      
+#SUOMI      Rusto, omakudos, autografti
+#RUOTSI     Autologt brosktransplantat
+#LYHENNE    Rusto, omakudos, autografti
+###
+#KOODI      ZZH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9819      
+#SUOMI      Luukalvo, omakudos, autografti
+#RUOTSI     Autologt periosttransplantat
+#LYHENNE    Luukalvo, omakudos, autografti
+###
+#KOODI      ZZH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808      
+#SUOMI      Omakudosluusiirre, laatua ei ilmoitettu
+#RUOTSI     Autologt bentransplantat (UNS)
+#LYHENNE    Omakudosluusiirre, laatua ei ilmoitettu
+###
+#KOODI      ZZH21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808      
+#SUOMI      Omakudosluusiirre, lastuina
+#RUOTSI     Autologt bentransplantat, spånor
+#LYHENNE    Omakudosluusiirre, lastuina
+###
+#KOODI      ZZH22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808      
+#SUOMI      Omakudosluusiirre, hohka-kortikalis blokkina
+#RUOTSI     Autologt bentransplantat, spongiosa-kortikalis-block
+#LYHENNE    Omakudosluusiirre,hohka-kortikalisblokki
+###
+#KOODI      ZZH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808+     
+#SUOMI      Vierasluusiirre, allografti, laatua ei ilmoitettu
+#RUOTSI     Homologt bentransplantat, (UNS)
+#LYHENNE    Luu,allografti,laatu ei tiedossa
+###
+#KOODI      ZZH31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808+     
+#SUOMI      Vierasluusiirre, allografti, lastuina tai paloina
+#RUOTSI     Homologt bentransplantat, spånor eller bitar
+#LYHENNE    Luu,allografti,lastuina tai paloina
+###
+#KOODI      ZZH32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808+     
+#SUOMI      Vierasluusiirre, allografti, blokkina
+#RUOTSI     Homologt bentransplantat, benblock
+#LYHENNE    Vierasluusiirre, allografti, blokkina
+###
+#KOODI      ZZH33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808+     
+#SUOMI      Vierasluusiirre, allografti,  structural graft
+#RUOTSI     Homologt bentransplantat, strukturerat (structural graft)
+#LYHENNE    Luu,allografti,structural graft
+###
+#KOODI      ZZH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9808+     
+#SUOMI      Luun korvike
+#RUOTSI     Bensurrogat
+#LYHENNE    Luun korvike
+#OHJE_S  
+esim Kieler-luu
+#OHJE_R 
+T.ex. Kieler ben
+###
+#KOODI      ZZH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9819      
+#SUOMI      Luun mineraali tai vastaava
+#RUOTSI     Benmineral, o.dyl.
+#LYHENNE    Luun mineraali tai vastaava
+###
+#KOODI      ZZJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9807      
+#SUOMI      Rustokalvo, omakudos, autografti
+#RUOTSI     Autologt perikondiumtransplantat
+#LYHENNE    Rustokalvo, omakudos, autografti
+###
+#KOODI      ZZK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9819      
+#SUOMI      Vapaa hermosiirre, autografti
+#RUOTSI     Autologt, fritt nervtransplantat
+#LYHENNE    Vapaa hermosiirre, autografti
+###
+#KOODI      ZZL00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Amnionkalvosiirre
+#RUOTSI     Transplantation av fosterhinna
+#LYHENNE    Amnionkalvosiirre
+###
+#KOODI      ZZM00 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9810      
+#SUOMI      Vapaa monikudossiirre, autografti
+#RUOTSI     Autologt, fritt, sammansatt transplantat (t.ex. tarmtransplantation)
+#LYHENNE    Vapaa monikudossiirre, autografti
+###
+#KOODI      ZZQ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9821      
+#SUOMI      Iho-subkutis, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt hud/subcutis transplantat med mikrovaskulära anastomoser
+#LYHENNE    Iho-subkutis,mikrovaskulaarisiirre
+###
+#KOODI      ZZQ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9822      
+#SUOMI      Iho-subkutis–lihas, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av hud, subcutis och muskel med mikrovaskulära anastomoser
+#LYHENNE    Iho-subkutis-lihas,mikrovaskulaarisiirre
+###
+#KOODI      ZZQ20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9823      
+#SUOMI      Iho-subkutis-lihas-luu, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av hud, subcutis, muskel och ben med mikrovaskulära anastomoser
+#LYHENNE    Iho-subkutis-lihas-luu,mikrovask siirre
+###
+#KOODI      ZZQ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9829      
+#SUOMI      Lihas, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av muskel med mikrovaskulära anastomoser
+#LYHENNE    Lihas, mikrovaskulaarisiirre
+###
+#KOODI      ZZQ40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9829      
+#SUOMI      Luu, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av ben med mikrovaskulära anastomoser
+#LYHENNE    Luu, vapaa, verisuoniin liitetty siirre
+###
+#KOODI      ZZQ50 
+#MUUT_PVM   1996/07/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      9810+     
+#SUOMI      Suoli, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av tarm med mikrovaskulära anastomoser
+#LYHENNE    Suoli, vapaa, verisuoniin liitetty siirr
+###
+#KOODI      ZZQ55 
+#MUUT_PVM   1999/10/04
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vatsapaidan (omentin) vapaa verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av omentum
+#LYHENNE    Vatsapaidan vap. ver.suon.liit siirre
+###
+#KOODI      ZZQ60 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hermo, vapaa, verisuoniin liitetty siirre
+#RUOTSI     Fritt transplantat av nerv med mikrovaskulära anastomoser
+#LYHENNE    Hermo, vapaa, verisuoniin liitetty siirr
+###
+#KOODI      ZZR00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849+     
+#SUOMI      Iho-subkutiskieleke
+#RUOTSI     Hud-subcutis-lambå
+#LYHENNE    Iho-subkutiskieleke
+###
+#KOODI      ZZR05 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Iho-sidekudoskalvo-kieleke
+#RUOTSI     Hud-fascia-lambå
+#LYHENNE    Iho-sidekudoskalvo-kieleke
+###
+#KOODI      ZZR10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9844      
+#SUOMI      Iho-subkutis-lihaskieleke
+#RUOTSI     Muskulokutan lambå
+#LYHENNE    Iho-subkutis-lihaskieleke
+###
+#KOODI      ZZR20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9845      
+#SUOMI      Iho-subkutis-lihas-luukieleke
+#RUOTSI     Hud-subcutis-muskel-ben-lambå
+#LYHENNE    Iho-subkutis-lihas-luukieleke
+###
+#KOODI      ZZR30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9843      
+#SUOMI      Lihaskieleke
+#RUOTSI     Muskellambå
+#LYHENNE    Lihaskieleke
+###
+#KOODI      ZZR35 
+#MUUT_PVM   2006/01/09
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lihas-limakalvokieleke
+#RUOTSI     Muskel-slemhinnelambå
+#LYHENNE    Lihas-limakalvokieleke
+###
+#KOODI      ZZR40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9845      
+#SUOMI      Lihas-luukieleke
+#RUOTSI     Muskel-ben-lambå
+#LYHENNE    Lihas-luukieleke
+###
+#KOODI      ZZR45 
+#MUUT_PVM   1999/10/04
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Luukieleke
+#RUOTSI     Ben lambå
+#LYHENNE    Luukieleke
+###
+#KOODI      ZZR50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9845      
+#SUOMI      Limakalvo-luukalvokieleke
+#RUOTSI     Mukoperiostal lambå
+#LYHENNE    Limakalvo-luukalvokieleke
+###
+#KOODI      ZZR60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849      
+#SUOMI      Vatsapaitakieleke
+#RUOTSI     Omentlambå
+#LYHENNE    Vatsapaitakieleke
+###
+#KOODI      ZZS00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849+     
+#SUOMI      Rotaatiokieleke
+#RUOTSI     Rotationslambå
+#LYHENNE    Rotaatiokieleke
+###
+#KOODI      ZZS10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849+     
+#SUOMI      Siirtokieleke
+#RUOTSI     Transpositionslambå
+#LYHENNE    Siirtokieleke
+###
+#KOODI      ZZS20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849+     
+#SUOMI      Varsikieleke
+#RUOTSI     Distanslambå
+#LYHENNE    Varsikieleke
+###
+#KOODI      ZZS40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849      
+#SUOMI      V-Y tai Y-V muovaus
+#RUOTSI     V-Y- eller Y-V-plastik
+#LYHENNE    V-Y tai Y-V muovaus
+###
+#KOODI      ZZS45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9849      
+#SUOMI      Z-muovaus
+#RUOTSI     Z-plastik
+#LYHENNE    Z-muovaus
+###
+#KOODI      ZZS50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9859+     
+#SUOMI      Kudoslaajentimen asettaminen
+#RUOTSI     Inläggning av vävnadsexpander
+#LYHENNE    Kudoslaajentimen asettaminen
+###
+#KOODI      ZZS55 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9859+     
+#SUOMI      Kudoslaajentimen täyttö
+#RUOTSI     Påfyllning av vävnadsexpander
+#LYHENNE    Kudoslaajentimen täyttö
+###
+#KOODI      ZZS60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      9859+     
+#SUOMI      Kudoslaajentimen vaihto
+#RUOTSI     Byte av vävnadsexpander
+#LYHENNE    Kudoslaajentimen vaihto
+###
+#KOODI      ZZS70 
+#MUUT_PVM   1999/08/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kudoslaajentimen poisto
+#RUOTSI     Uttagning av vävnadsexpander
+#LYHENNE    Kudoslaajentimen poisto
+###
+#KOODI      ZZU00 
+#MUUT_PVM   2003/10/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Limakalvosiirre
+#RUOTSI     Slämhinna transplantat
+#LYHENNE    Limakalvosiirre

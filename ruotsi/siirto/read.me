@@ -1,0 +1,78 @@
+Toimenpideluokitus
+NOMESKOn leikkausluokitus (CSP) - Suomen versio
+
+T„m„ levyke sis„lt„„ CSP:n suomalaisen version sek„ alustavan version laajennuksesta muihin kuin kirurgisiin toimenpiteisiin. Kirurgiset koodit ovat samat kuin Toimenpideluokitus -kirjassa julkaistut koodit. Luokitus on saatavissa t„ss„ esiteltyin„ siirtotiedostomuotoina. 
+Tiedostot on pakattu itse purkautuvaan siirtotiedostoon. K„ynnistett„ess„ tiedosto purkaa itsens„ samaan hakemistoon, johon se on sijoitettu. Siirtotiedoston eri versioiden sis„lt” ja muoto esitet„„n alla. 
+
+Luokitus otettiin virallisesti k„ytt””n 1.1.97. 
+
+Levykkeell„ olevat tiedostot voidaan purkaa k„skyll„ 'a:instal <tiedostomuoto> halutusta hakemistosta k„sin. K„sky„ ei voi antaa a-levyasemasta k„sin.
+
+Tietokenttien sis„lt” kaikkien tiedostomuotojen osalta on kuvattu ICD_LUV tiedostomuodon kohdalla.
+
+Tiedostossa NCSP_DB4.DBF on standardi dBase muodossa. Ennen tiedoston muodostamista teksti on k„„nnetty ascii muotoon, jossa skandinaaviset kirjaimet aukeavat normaalisti useimpia sovelluksia k„ytett„ess„. T„t„ tiedostomuotoa voidaan lukea useilla yleisesti k„ytetyill„ tietokanta- ja taulukkolaskentaohjelmilla.
+
+NCSP_ASC.TXT tiedostossa tietokanta on ns. 'Standard Data Format' - muodossa.
+
+NCSP.TXT on sama tiedosto ANSI-standardin mukaisessa muodossa, jolloin skandinaaviset kirjaimet ovat Windows-k„ytt””n sopivassa muodossa.
+
+Kaikille edell„ mainituille tiedostomuodoille on yhteist„, ett„ tietueiden nimikekent„t ovat pitki„, koska osa nimikkeist„ on eritt„in pitki„. T„st„ johtuu my”s purettujen tiedostojen suhteellisen suuri koko.
+Samoin edell„ mainituille tiedostomuodoille on yhteist„, etteiv„t ne sis„ll„ NCSP luokituksen ohjetekstej„,  vaan ainoastaan kunkin koodin nimiketekstin.
+
+Tiedostoissa NCSP.DBF ja NCSP.FPT on t„ydellinen NCSP-tietokanta FoxPro-tiedostona. NCSP.DBF sis„lt„„ varsinaisen tietokannan ja NCSP.FPT on ns. memo-kentt„tiedosto. T„m„n tietokantamuodon k„ytt” edellytt„„ FoxPro ohjelmistoa.
+
+L_??.ans tyyppisiss„ tiedostossa on t„ydellinen tietokanta on pakattuna luvuittaisiin tiedostoihin.
+NCPS:ss„ on 20 lukua ja t„ten tiedostoja on 20. Tiedostot on nimetty seuraavasti:
+l_a.ans
+l_b.ans
+l_c.ans
+l_d.ans
+l_e.ans
+....
+l_z.ans
+
+P„„te .ans osoittaa, ett„ tiedostot ovat ANSI-standardinmukaisia tekstitiedostoja. Jos halutaan k„ytt„„ ASC-standardia on tiedostot muunnettava tekstink„sittelyohjelmalla (esim Word tai WP) ns DOS-teksti muotoon, jotta skandinaaviset kirjaimet n„kyisiv„t oikein.
+
+Tietokenttien sis„lt” ja j„rjestys:
+Luvuttaisissa  tiedostoissa kooditietueiden kent„t ovat per„kk„in tiedostoissa, muissa tiedostoissa normaalisti sarakkeittain. Seuraavassa luettelossa on luvuttaisen tiedoston kentt„tunnisteet sek„ kenttien sis„lt”:
+
+#KOODI_L  Luvun koodi (esim.A)
+#KOODI_R  Ryhm„n koodi (esim. AA)
+#KOODI_A  Alaryhm„n koodi (esim. AAA)
+#KOODI    Varsinaiset koodi (esim.AAA01)
+Muissa kuin luvuttaisissa tiedostoissa koodi on omassa kent„ss„„n. T„m„n kent„n pituus 5 merkki„ 
+Lis„ksi muissa tiedostoissa on erillinen kentt„ joka ilmoittaa onko kyseess„ luku, ryhm„, alaryhm„ tai peruskoodi
+
+Laji   L/R/A/K
+
+#SUOMI    Luvun/ryhm„n/alaryhm„/peruskoodin 
+          suomenkielinen nimi
+Kent„n pituus 150 merkki„
+
+#RUOTSI   Luvun/ryhm„n/alaryhm„/peruskoodin
+          ruotsinkielinen nimi
+Kent„n pituus on 150 merkki„
+
+#ENGLANTI Luvun/ryhm„n/alaryhm„n englanninkielinen nimi
+Kent„n pituus on 150 merkki„
+
+#LYHENNE  40 merkin pituinen lyhenne nimikkeest„ (vain
+          peruskoodeista)
+Kent„n pituus on 40 merkki„
+
+#NOTE_S   Suomenkielisi„ ohjeita luvun/ryhm„/alaryhm„n/ 
+          koodin k„yt”st„
+#NOTE_R   Ruotsinkielisi„ ohjeita luvun/ryhm„/alaryhm„n/ 
+          koodin k„yt”st„
+NOTE -tekstit ovat vaihtelevan pituisia tekstikentti„. Teksti alkaa tunnistetta seuraavalta rivilt„. Teksti jatkuu seuraavaan #-merkkiin asti.
+T„m„ tieto sis„ltyy FoxPro tiedoston ns. memo-kenttiin mutta ei muihin kaikki luvut k„sitt„viin tiedostomuotoihin.
+
+Puretussa muodossa eri muotojen tilantarve on seuraava:
+NCSP_ASC.TXT       3.1 Mtavua
+NCSP_ANS.TXT       3.1 Mtavua
+NCSP_DB4.DBF       3.1 Mtavua
+NCSP.DBF (+ .FPT)  3.3 Mtavua
+L_A-Z.TXT          yhteens„ 1.5 Mtavua
+Kaikki yhteens„ vaativat 15 Mtavua
+
+Tietojen tekij„oikeudet omistaa STAKES. N„iden perusteella valmistettuja tuotteita ei saa luovuttaa loppuk„ytt„j„lle, jolla ei ole lisenssi„ tietokantamuodon k„ytt„mist„ varten. T„m„n lisenssin k„ytt„j„ saa STAKESista.

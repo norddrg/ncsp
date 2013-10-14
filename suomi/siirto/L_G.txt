@@ -1,0 +1,2878 @@
+
+###
+#KOODI_L    G
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintaontelon muut osat
+#RUOTSI     Andra thorakala organ
+#ENGL       Other thoracic organs
+#OHJE_S  
+Uusintaleikkaukset ilmaistaan lisäkoodilla ZSG00
+#OHJE_R 
+Reoperationer anges med tilläggskoden ZSG00
+###
+#KOODI_R    GA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintaontelon seinämä, keuhkopussi ja pallea
+#RUOTSI     Bröstvägg, pleura och diafragma
+#ENGL       Chest wall, pleura and diaphragm
+###
+#KOODI      GA001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+#LYHENNE    Sädeh rintaont seinien prim.kasv preop h
+###
+#KOODI      GA002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+#LYHENNE    Radik rintaont seinien prim.kasv sädehoi
+###
+#KOODI      GA003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+#LYHENNE    Sädeh rintaont seinien prim.kasv liit.ho
+###
+#KOODI      GA004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintaontelon seinämän, keuhkopussin ja pallean primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i bröstväggen, pleura eller diafragm
+#LYHENNE    Sädeh rintaont seinien prim.kasv palliat
+###
+#KOODI      GA029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintaontelon seinämän, keuhkopussin ja pallean paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i bröstväggen, pleura eller diafragm
+#LYHENNE    Sädeh rintaont seinien paik uus kasv hoi
+###
+#KOODI      GA049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintaontelon seinämässä, keuhkopussissa tai palleassa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i bröstväggen, pleura eller diafragm
+#LYHENNE    Sädeh rintaont seinien metast hoitona
+###
+#KOODI      GA090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito rintaontelon seinämän, keuhkopussin ja pallean profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av bröstvägg, pleura och diafragm
+#LYHENNE    Sädeh rintaont seinien profyl hoitona
+###
+#KOODI      GA099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu rintaontelon seinämän, keuhkopussin ja pallean sädehoito
+#RUOTSI     Annan strålbehandling av bröstvägg, pleura och diafragm
+#LYHENNE    Muu rintaont seinien sädehoito
+###
+#KOODI      GA1AE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6363      
+#SUOMI      Thoraksin alueen UÄ
+#RUOTSI     Torax, UL
+#LYHENNE    Rintakehän UÄ
+#OHJE_S  
+Sisältää sekä syvät että pinnalliset elimet (keuhko, mediastinum, pleura)
+Ei sisällä sydämen tutimusta, katso FM1AE, FM1DE, FM1EE tai FM1LE
+#OHJE_R 
+Innfefattar undersökning  av både djupa och ytliga strukturer (lungor, medistinum och pleura)
+Utesluter undersökning av hjärtat, se  FM1AE, FM1DE, FM1EE tai FM1LE
+###
+#KOODI      GA2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Keuhkopussin kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Pleura, UL-styrd vävnadsbiopsi
+#LYHENNE    Keuhkop.kudosn.UÄ-o
+###
+#KOODI      GA2CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkopussin kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Pleura, DT-styrd vävnadsbiopsi
+#LYHENNE    Keuhkop.kudosn.TT-o
+###
+#KOODI      GA2DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkopussin kudosnäytteen otto magneettiohjauksessa
+#RUOTSI     Pleura, MR-styrd vävnadsbiopsi
+#LYHENNE    Keuhkop.kudosn.MK-o
+###
+#KOODI      GA3AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Keuhkopussin solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Pleura, UL-styrd finnålsbiopsi
+#LYHENNE    Keuhkop.solun.UÄ-ohj
+###
+#KOODI      GA3CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkopussin solunäytteen otto TT-ohjauksessa
+#RUOTSI     Pleura, DT-styrd finnålsbiopsi
+#LYHENNE    Keuhkop.solun.TT-ohj
+###
+#KOODI      GA3DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkopussin solunäytteen otto magneettiohjauksessa
+#RUOTSI     Pleura, MR-styrd finnålsbiopsi
+#LYHENNE    Keuhkop.solun.MK-ohj
+###
+#KOODI      GA4AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9141      
+#SUOMI      Keuhko-ontelon kanavointi UÄ-ohjauksessa
+#RUOTSI     Lungkavern, UL-styrt dränage
+#LYHENNE    Thx-ont.dren.UÄ-ohj
+###
+#KOODI      GA4BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9142      
+#SUOMI      Keuhko-ontelon kanavointi läpivalaisuohjauksessa
+#RUOTSI     Lungkavern, genomlysningsstyrt dränage
+#LYHENNE    Thx-ont.dren,lpv-ohj
+###
+#KOODI      GA4CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9143      
+#SUOMI      Keuhko-ontelon kanavointi TT-ohjauksessa
+#RUOTSI     Lungkavern, DT-styrt dränage
+#LYHENNE    Thx-ont.dren,TT-ohj
+###
+#KOODI      GA4FT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9145      
+#SUOMI      Keuhko-ontelon katetrin vaihto radiologisessa ohjauksessa
+#RUOTSI     Lungkavern kateterbyte
+#LYHENNE    Kat.vaihto thoraxont
+###
+#KOODI      GA4YT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9021      
+#SUOMI      Keuhkopussin punktio UÄ-ohjauksessa
+#RUOTSI     Pleurapunktion, UL-styrd
+#LYHENNE    Keuhkop.UÄ-punktio
+###
+#KOODI      GA5AA 
+#MUUT_PVM   2003/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5138      
+#SUOMI      Kylkiluiden natiiviröntgen
+#RUOTSI     Revben, röntgen
+#LYHENNE    Kylkiluiden natiiviröntgen
+###
+#KOODI      GA5DA 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5138      
+#SUOMI      Kylkiluiden natiiviröntgen, molemmat puolet
+#RUOTSI     Revben, bilateral röntgen
+#LYHENNE    Kylkiluu-rtg, bilat
+###
+#KOODI      GA6AA 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5139      
+#SUOMI      Rintalastan natiiviröntgen
+#RUOTSI     Bröstben, röntgen
+#LYHENNE    Rintalastan rtg
+###
+#KOODI      GA7AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5140      
+#SUOMI      Sternoklavikulaarinivelten natiiviröntgen
+#RUOTSI     Sternoklavikularleder, röntgen
+#LYHENNE    Sternoklav. rtg
+###
+#KOODI      GAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5841      
+#SUOMI      Keuhkopussin kanavointi kylkiluiden välistä
+#RUOTSI     Anläggande av interkostalt pleuradränage
+#LYHENNE    Keuhkopussin kanavointi kylkiluuvälistä
+###
+#KOODI      GAA15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5843      
+#SUOMI      Keuhkopussin kanavointi poistamalla kylkiluu
+#RUOTSI     Anläggande av pleuradränage med revbensresektion
+#LYHENNE    Keuhkopussin kanavointi kylkiluuresekti
+###
+#KOODI      GAA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5842      
+#SUOMI      Keuhkopussin avanteen teko, fenestraatio
+#RUOTSI     Anläggande av pleurafistel, fenestration
+#LYHENNE    Keuhkopussin avanteen teko, fenestraatio
+###
+#KOODI      GAA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1500      
+#SUOMI      Rintaontelon diagnostinen tähystys
+#RUOTSI     Diagnostisk torakoskopi
+#LYHENNE    Rintaontelon diagnostinen tähystys
+#OHJE_S  
+Sisältää koepalan oton paitsi keuhkopussista (GAC01)
+Tähystys pysyvän avanteen kautta kohdass UGA02
+#OHJE_R 
+Inkl biopsi
+Endoskopi via pleurokutan fistel, se UGA02
+###
+#KOODI      GAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5849      
+#SUOMI      Muu keuhkopussin kanavointi leikkauksessa tai suljetusti iholta
+#RUOTSI     Annat öppet eller perkutant dränageingrepp i pleurahålan
+#LYHENNE    Muu pleurakanavointi leikkauk/iholta
+#OHJE_S  
+Keuhkopussin kanavointi radiologisessa ohjauksessa, katso GA4AT, GA4BT, GA4CT, GA4FT (radiologian luokitus)
+#OHJE_R 
+Dränageingrepp i pleurahålan med radiologisk utstyrning, se GA4AT, GA4BT, GA4CT eller GA4FT (klassifikation av radiologi)
+###
+#KOODI      GAA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkopussin kanavointi rintaontelon tähystyksessä
+#RUOTSI     Annat torakoskopiskt dränageingrepp i pleurahålan
+#LYHENNE    Muu pleurakanavointi tähystyksessä
+###
+#KOODI      GAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822+     
+#SUOMI      Rintaontelon hätäaukaisu
+#RUOTSI     Nödtorakotomi
+#LYHENNE    Rintaontelon hätäaukaisu
+###
+#KOODI      GAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822+     
+#SUOMI      Rintaontelon aukaisu edestä tai takaa kyljestä
+#RUOTSI     Torakotomi , antero- eller posterolateral
+#LYHENNE    Torakotomia edestä/takaa kyljestä
+###
+#KOODI      GAB13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822+     
+#SUOMI      Rintaontelon aukaisu kainalosta
+#RUOTSI     Torakotomi, transaxillär
+#LYHENNE    Rintaontelon aukaisu kainalosta
+###
+#KOODI      GAB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5871+     
+#SUOMI      Rintaontelon aukaisu rintalastan kautta
+#RUOTSI     Torakotomi, median sternotomi
+#LYHENNE    Rintaontelon aukaisu rintalastan kautta
+###
+#KOODI      GAB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822+     
+#SUOMI      Muu rintaontelon aukaisuleikkaus
+#RUOTSI     Annan torakotomi
+#LYHENNE    Muu rintaontelon aukaisuleikkaus
+###
+#KOODI      GAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5861      
+#SUOMI      Koepalan otto keuhkopussista
+#RUOTSI     Pleurabiopsi
+#LYHENNE    Koepalan otto keuhkopussista
+###
+#KOODI      GAC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1500      
+#SUOMI      Koepalan otto keuhkopussista rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk pleurabiopsi
+#LYHENNE    Biopsia keuhkopussista tähystykses
+#OHJE_S  
+Koepalan otto keuhkopussiavanteen kautta UGA02
+#OHJE_R 
+Biopsi i endoskopi genom pleurokutan fistel, se UGA02
+###
+#KOODI      GAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5869      
+#SUOMI      Vierasesineen poisto keuhkopussista
+#RUOTSI     Avlägsnande av främmande kropp ur pleurahålan
+#LYHENNE    Vierasesineen poisto keuhkopussista
+###
+#KOODI      GAC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Vierasesineen poisto keuhkopussista rintaontelon tähystyksessä
+#RUOTSI     Endoskopiskt avlägsnande av främmande kropp ur pleurahålan
+#LYHENNE    Vierasesinepoisto tähystyksessä
+###
+#KOODI      GAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5863      
+#SUOMI      Keuhkopussin kasvaimen tai kudosmuutoksen poisto
+#RUOTSI     Exstirpation eller destruktion av lokal förändring i pleura
+#LYHENNE    Keuhkopussin kasvaimen/muutoksen poisto
+###
+#KOODI      GAC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkopussin kasvaimen tai kudosmuutoksen poisto tai tuhoaminen rintaontelon tähystyksessä
+#RUOTSI     Endoskopisk exstirpation eller destruktion av lokal förändring i pleura
+#LYHENNE    Pleurakasvain/kudosmuutospoisto tähystyk
+###
+#KOODI      GAC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Ilmarinnan tekeminen
+#RUOTSI     Anläggande av terapeutisk pneumotorax
+#LYHENNE    Ilmarinnan tekeminen
+###
+#KOODI      GAC33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Keuhkokiinnikkeiden aiheuttaminen mekaanisesti
+#RUOTSI     Mekanisk pleurodes
+#LYHENNE    Mekaaninen pleurodeesi
+###
+#KOODI      GAC34 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Mekaaninen keuhkokiinnikkeiden aiheuttaminen rintaontelon tähystyksessä
+#RUOTSI     Endoskopisk mekanisk pleurodes
+#LYHENNE    Mekaaninen pleurodeesi rintaontelotähys
+###
+#KOODI      GAC36 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Kemiallinen keuhkokiinnikkeiden aiheuttaminen
+#RUOTSI     Kemisk pleurodes
+#LYHENNE    Kemiallinen pleurodeesi
+###
+#KOODI      GAC37 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Kemiallinen keuhkokiinnikkeiden aiheuttaminen rintaontelon tähystyksessä
+#RUOTSI     Endoskopisk kemisk pleurodes
+#LYHENNE    Kemiallinen pleurodeesi tähystyksessä
+###
+#KOODI      GAC40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5862      
+#SUOMI      Keuhkopussin poisto ja keuhkokiinnikkeiden aiheuttaminen
+#RUOTSI     Pleurodes med pleurektomi
+#LYHENNE    Keuhkopussin poisto jacpleurodeesi
+###
+#KOODI      GAC41 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Pleurodeesi ja keuhkopussin poisto rintaontelon tähystyksessä
+#RUOTSI     Endoskopisk pleurodes/pleurektomi
+#LYHENNE    Pleurodeesi/keuhkopussin poisto tähystyk
+###
+#KOODI      GAC43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5862      
+#SUOMI      Keuhkopussin poisto
+#RUOTSI     Total pleurektomi (öppen)
+#LYHENNE    Keuhkopussin poisto
+###
+#KOODI      GAC44 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkopussin poisto kokonaan rintaontelon tähystyksessä
+#RUOTSI     Endoskopisk total pleurektomi
+#LYHENNE    Keuhkopussin poisto tähystyksessä
+###
+#KOODI      GAC46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5862      
+#SUOMI      Keuhkopussin poisto osittain
+#RUOTSI     Partiell pleurektomi
+#LYHENNE    Keuhkopussin poisto osittain
+###
+#KOODI      GAC47 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkopussin poisto osittain rintaontelon tähystyksessä
+#RUOTSI     Endoskopisk partiell pleurektomi
+#LYHENNE    Pleuranpoisto rintaontelon tähystyksessä
+###
+#KOODI      GAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5869      
+#SUOMI      Muu avoin keuhkopussin toimenpide
+#RUOTSI     Annan öppen operation på pleura
+#LYHENNE    Muu avoin keuhkopussin toimenpide
+###
+#KOODI      GAC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkopussin toimenpide rintaontelon tähystyksessä
+#RUOTSI     Annan endoskopisk operation på pleura
+#LYHENNE    Muu keuhkopussin toimenpide tähystykses
+###
+#KOODI      GAC98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Muu keuhkopussin toimenpide keuhkopussiavanteen kautta
+#RUOTSI     Annan operation på pleura via pleurokutan fistel
+#LYHENNE    Muu keuhkopussitmp avanteen kautta
+###
+#KOODI_A    GA_
+#MUUT_PVM   2002/08/26
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Rintaontelon seinämän, keuhkopussin ja pallean diagnostinen radiologia
+#RUOTSI     Diagnositisk radiologi av bröstvägg, pleura och diafragma
+#ENGL       Diagnostic radiology chest wall, pleura and diaphragm
+###
+#KOODI      GAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5852      
+#SUOMI      Torakoplastia
+#RUOTSI     Torakoplastik utan plombering
+#LYHENNE    Torakoplastia
+###
+#KOODI      GAD03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Torakoplastia täytteen avulla
+#RUOTSI     Torakoplastik med plombering
+#LYHENNE    Torakoplastia täytteen avulla
+###
+#KOODI      GAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Täytteen poisto torakoplastian jälkeen
+#RUOTSI     Avlägsnande av intratorakal plombering
+#LYHENNE    Täytteen poisto torakoplastian jälkeen
+###
+#KOODI      GAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Muu rintaonteloa muovaava leikkaus
+#RUOTSI     Annan torakoplastikoperation
+#LYHENNE    Muu rintaonteloa muovaava leikkaus
+###
+#KOODI_A    GA_
+#MUUT_PVM   2003/11/05
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#SUOMI      Pleuraontelon tähystys
+#RUOTSI     Endoskopi av pleurahålan
+#ENGL       Endoscopy of pleural cavity
+#OHJE_S  
+Koepalan otto on osa tähystystoimenpidettä
+#OHJE_R 
+Endoskopi innefattar biopsi
+###
+#KOODI      GAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämämuutoksen aukaisu
+#RUOTSI     Incision av bröstväggen
+#LYHENNE    Rintaontelon seinämämuutoksen aukaisu
+#OHJE_S  
+sis. koepalan oton
+#OHJE_R 
+Inkl biopsi
+###
+#KOODI      GAE03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämän ompelu
+#RUOTSI     Sutur av bröstväggen
+#LYHENNE    Rintaontelon seinämän ompelu
+#OHJE_S  
+Sisältää tarkistamisen
+#OHJE_R 
+Inkl ev revision
+###
+#KOODI      GAE06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämän kasvaimen tai kudosmuutoksen poisto
+#RUOTSI     Exstirpation av lokal förändring i bröstväggen
+#LYHENNE    Rintaont seinäkasvain/kudosmuutospoisto
+###
+#KOODI      GAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon aukaisun myöhäissulku
+#RUOTSI     Sekundär föslutning av torakotomi
+#LYHENNE    Rintaontelon aukaisun myöhäissulku
+###
+#KOODI      GAE13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Keuhkopussiavanteen sulkeminen
+#RUOTSI     Tillslutning av pleurafistel
+#LYHENNE    Keuhkopussiavanteen sulkeminen
+###
+#KOODI      GAE16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämän poisto
+#RUOTSI     Resektion av bröstvägg
+#LYHENNE    Rintaontelon seinämän poisto
+#OHJE_S  
+Laajennetun keuhkonpoiston yhteydessä käytetään koodia GDD20
+#OHJE_R 
+Vid utvidgad pneumektomi anges med kod GDD20
+###
+#KOODI      GAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämän poisto ja korjaus kielekkeellä
+#RUOTSI     Resektion av bröstvägg och rekonstruktion med muskel- eller hudlambå
+#LYHENNE    Rintaonteloseinän poisto/kielekekorjaus
+#OHJE_S  
+Transplantaatti tai kielekkeen materiaali koodataan lisäkoodilla ryhmästä ZZ
+#OHJE_R 
+Material av transplantat eller lambå bör anges med tilläggskod, se ZZ
+###
+#KOODI      GAE23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämän poisto ja proteesikorjaus
+#RUOTSI     Resektion av bröstvägg och rekonstruktion med implantat eller protes
+#LYHENNE    Rintaonteloseinän poisto/proteesikorjaus
+###
+#KOODI      GAE26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintaontelon seinämän vamman korjaus
+#RUOTSI     Reparation av bröstväggsskada
+#LYHENNE    Rintaontelon seinämän vamman korjaus
+###
+#KOODI      GAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5882      
+#SUOMI      Rintakehän ja pallean vamman korjausleikkaus
+#RUOTSI     Operation för kombinerad skada på bröstvägg och diafragma
+#LYHENNE    Rintakehän/pallean vamman korjausleikkau
+###
+#KOODI      GAE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5851      
+#SUOMI      Kylkiluun poisto ja pehmytkudosleikkaus  thoracic outlet-syndrooman (TOS) vuoksi
+#RUOTSI     Revbensresektion/mjukdelsoperation för TOS ("thoracic outlet syndrome")
+#LYHENNE    Kylkiluun poisto/pehmytkudosleikkaus,TOS
+###
+#KOODI      GAE50 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintakehän seinämän rekonstruktioleikkaus
+#RUOTSI     Rekonstruktion av bröstvägg
+#LYHENNE    Rintakehän seinän rekonstruktioleikkaus
+#OHJE_S  
+Esim. infektion takia tehdyn resektion jälkeinen korjaus
+Rekonstruktiossa käytetty siirretty materiaali tulee ilmoittaa lisäkoodilla kohdasta ZZ
+#OHJE_R 
+T ex efter resektion p g a infektion
+Material av transplantat eller lambå bör anges med tilläggskod, se ZZ
+###
+#KOODI      GAE53 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vierasesineen poistaminen rintakehän seinämästä
+#RUOTSI     Avlägsnande av främmande kropp från bröstkorg
+#LYHENNE    Vierasesineen poistaminen rintakehän sei
+###
+#KOODI      GAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Muu rintaontelon seinämän poisto- ja korjausleikkaus
+#RUOTSI     Annan incision, biopsi, resektion eller rekonstruktion av bröstvägg
+#LYHENNE    Muu rintaontelon seinämän poisto/korjaus
+###
+#KOODI      GAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5853      
+#SUOMI      Harjurinnan korjaus
+#RUOTSI     Korrektion av pectus carinatum
+#LYHENNE    Harjurinnan korjaus
+#OHJE_S  
+esim siirrännäisellä tai proteesilla
+#OHJE_R 
+Inkl användande av implantat eller protes
+###
+#KOODI      GAF03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5853      
+#SUOMI      Kuopparinnan korjaus
+#RUOTSI     Korrektion av pectus excavatum
+#LYHENNE    Kuopparinnan korjaus
+#OHJE_S  
+esim siirrännäisellä tai proteesilla
+#OHJE_R 
+Inkl användande av implantat eller protes
+###
+#KOODI      GAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Rintakehän epämuotoisuuden korjaamisessa käytetyn istutteen poisto
+#RUOTSI     Avlägsnande av implantat i toraxväggen efter operation för anomali eller defekt
+#LYHENNE    Rintakehän korjausistutteen poisto
+###
+#KOODI      GAF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5859      
+#SUOMI      Muu rintakehän epämuotoisuuden leikkaus
+#RUOTSI     Annan operation för toraxdeformitet
+#LYHENNE    Muu rintakehän epämuotoisuuden leikkaus
+###
+#KOODI      GAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5889      
+#SUOMI      Koepalan otto palleasta rintaontelon kautta
+#RUOTSI     Transtorakal biopsi av diafragma
+#LYHENNE    Biopsia palleasta rintaontelosta
+###
+#KOODI      GAG01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1500      
+#SUOMI      Koepalan otto palleasta rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk biopsi av diafragma
+#LYHENNE    Biopsia palleasta  tähystyksessä
+###
+#KOODI      GAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5883      
+#SUOMI      Pallean kasvaimen poisto rintaontelon kautta
+#RUOTSI     Transtorakal exstirpation eller destruktion av lokal förändring i diafragma
+#LYHENNE    Pallean kasvaimen poisto rintaontelosta
+###
+#KOODI      GAG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Pallean kasvaimen poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk exstirpation eller destruktion av lokal förändring i diafragma
+#LYHENNE    Pallean kasvaimen poisto tähystyksessä
+###
+#KOODI      GAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5889      
+#SUOMI      Pallean vierasesineen poisto rintaontelon kautta
+#RUOTSI     Transtorakalt avlägsnande av främmande kropp ur diafragma
+#LYHENNE    Pallean vierasesinepoisto rintaontelo
+###
+#KOODI      GAG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Pallean vierasesineen poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopiskt avlägsnande av främmande kropp ur diafragma
+#LYHENNE    Pallean vierasesinepoisto tähystykses
+###
+#KOODI      GAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5882      
+#SUOMI      Pallean korjausleikkaus rintaontelon kautta
+#RUOTSI     Transtorakal operation av diafragmaruptur
+#LYHENNE    Pallean korjausleikkaus rintaontelon kau
+###
+#KOODI      GAG31 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pallean korjausleikkaus rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk operation av diafragmaruptur
+#LYHENNE    Pallearepeämän  korjausleikkaus rintaont
+###
+#KOODI      GAG33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5883      
+#SUOMI      Pallean poisto rintaontelon kautta
+#RUOTSI     Transtorakal resektion av diafragma
+#LYHENNE    Pallean poisto rintaontelon kautta
+#OHJE_S  
+Laajennetun keuhkonpoiston yhteydessä käytetään koodia GDD20
+#OHJE_R 
+Vid utvidgad pneumektomi anges med kod GDD20
+###
+#KOODI      GAG36 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5883      
+#SUOMI      Pallean poisto rintaontelon kautta, korjaus siirrettä käyttäen
+#RUOTSI     Transtorakal resektion och rekonstruktion av diafragma med transplantat
+#LYHENNE    Pallean poisto,rintaontelotietä,siirreko
+###
+#KOODI      GAG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5889      
+#SUOMI      Vatsa- ja rintaonteloiden välisen avanteen sulku rintaontelon kautta
+#RUOTSI     Transtorakal slutning av torakoabdominell fistel
+#LYHENNE    Vatsa-rintaonteloavanteen sulku rintaont
+###
+#KOODI      GAG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5884      
+#SUOMI      Pallean puutoksen korjaus rintaontelon kautta
+#RUOTSI     Transtorakal reparation av diafragmadefekt
+#LYHENNE    Pallean puutoksen korjaus rintaontelosta
+#OHJE_S  
+Pallean korjaus vatsaontelon kautta JBW
+#OHJE_R 
+Transabdominal operation på diafragma, se JBW
+###
+#KOODI      GAG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5889      
+#SUOMI      Muu pallealeikkaus
+#RUOTSI     Annan transtorakal operation på diafragma
+#LYHENNE    Muu pallealeikkaus
+#OHJE_S  
+Esim. vaurion tai vierasesineen vuoksi
+#OHJE_R 
+T.ex. för traumatisk lesion eller främmande kropp
+###
+#KOODI      GAG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu pallealeikkaus rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk operation på diafragma
+#LYHENNE    Muu pallealeikkaus rintaontelon tähystyk
+#OHJE_S  
+esim vamman tai vierasesineen vuoksi
+#OHJE_R 
+T.ex. för traumatisk lesion eller främmande kropp
+###
+#KOODI      GAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5839+     
+#SUOMI      Muu rintaontelon seinämän, keuhkopussin tai pallean leikkaus
+#RUOTSI     Annan transtorakal operation på bröstvägg, pleura och diafragma
+#LYHENNE    Muu rintaontelo/keuhkopussi/pallealeikka
+###
+#KOODI      GAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu rintaontelon seinämän, keuhkopussin ja pallean leikkaus rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk operation på bröstvägg, pleura och diafragma
+#LYHENNE    Muu rintaontelo/pleura/pallealeikk tähys
+###
+#KOODI_R    GB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Henkitorvi
+#RUOTSI     Trakea
+#ENGL       Trachea
+###
+#KOODI      GB1AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5334      
+#SUOMI      Henkitorven natiiviröntgen (trakea)
+#RUOTSI     Trakea, röntgen
+#LYHENNE    Henkitorven rtg
+###
+#KOODI      GB2AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5331      
+#SUOMI      Epifarynxin natiiviröntgen
+#RUOTSI     Epifarynx, röntgen
+#LYHENNE    Epifarynx-rtg
+###
+#KOODI      GB3AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5332      
+#SUOMI      Kurkunpään natiiviröntgen (larynx)
+#RUOTSI     Larynx, röntgen
+#LYHENNE    Kurkunpään rtg
+###
+#KOODI      GBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5801      
+#SUOMI      Henkitorven aukaisu
+#RUOTSI     Trakeotomi
+#LYHENNE    Henkitorven aukaisu
+#OHJE_S  
+Sisältää mahdollisen koepalan oton
+Krikotyreotomia, DQA00
+Koepalan otto tähystyksessä, katso UGB05
+#OHJE_R 
+Inkl ev biopsiKrikotyreotomi, se DQA00Endoskopisk biopsi, se UGB05
+###
+#KOODI      GBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5809      
+#SUOMI      Henkitorven aukaisu ja vierasesineen poisto
+#RUOTSI     Trakeotomi med avlägsnande av främmande kropp
+#LYHENNE    Henkitorven aukaisu/vierasesinepoisto
+###
+#KOODI      GBA12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Vierasesineen poisto henkitorvesta tähystyksessä
+#RUOTSI     Endoskopisk extraktion av främmande kropp ur trakea
+#LYHENNE    Vierasesinepoisto henkitorvesta tähystyk
+###
+#KOODI      GBA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Henkitorven kasvaimen tai kudosmuutoksen poisto tähystyksessä
+#RUOTSI     Endoskopisk exstirpation av lokal förändring i trakea
+#LYHENNE    Henkitorvikasvain/kudosmuutospoisto tähy
+###
+#KOODI      GBA25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Henkitorven kasvaimen tai kudosmuutoksen poltto tähystyksessä
+#RUOTSI     Endoskopisk elektrokoagulation av lokal förändring i trakea
+#LYHENNE    Henkitorvikasvain/kudosmuutospoltto tähy
+###
+#KOODI      GBA28 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Henkitorven kasvaimen tai kudosmuutoksen hoito laserilla
+#RUOTSI     Laserbehandling av lokal förändring i trakea
+#LYHENNE    Henkitorvikasvain/kudosmuutospoist,laser
+###
+#KOODI      GBA32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Henkitorven laajennus tähystyksessä
+#RUOTSI     Endoskopisk dilatation av trakea
+#LYHENNE    Henkitorven laajennus tähystyksessä
+###
+#KOODI      GBA35 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkitorven stentin asettaminen tähystyksessä
+#RUOTSI     Endoskopisk inläggning av stent i trakea
+#LYHENNE    Henkitorven stentin asettaminen tähystyk
+#OHJE_S  
+Sisältää bifurkaation ylittävän stentin
+#OHJE_R 
+Innefattar stent i bifurkation av trakea
+###
+#KOODI      GBA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5805      
+#SUOMI      Henkitorven ompelu, trakeorafia
+#RUOTSI     Sutur av trakea
+#LYHENNE    Henkitorven ompelu, trakeorafia
+###
+#KOODI      GBA46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5804      
+#SUOMI      Henkitorven muovaus, trakeoplastia
+#RUOTSI     Plastikoperation på trakea
+#LYHENNE    Henkitorven muovaus, trakeoplastia
+###
+#KOODI      GBA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5804      
+#SUOMI      Henkitorven korjaaminen
+#RUOTSI     Rekonstruktion av trakea utan protes
+#LYHENNE    Henkitorven korjaaminen
+###
+#KOODI      GBA53 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5804      
+#SUOMI      Henkitorven korjaaminen proteesin avulla
+#RUOTSI     Rekonstruktion av trakea med protes
+#LYHENNE    Henkitorven korjaaminen proteesin avulla
+###
+#KOODI      GBA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5809      
+#SUOMI      Muu henkitorven kudosmuutos- tai vammaleikkaus
+#RUOTSI     Annan öppen operation för skada eller lokal förändring i trakea
+#LYHENNE    Muu henkitorven kudosmuutos/vammaleikkau
+###
+#KOODI      GBA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1510      
+#SUOMI      Muu henkitorven kudosmuutos- tai vammaleikkaus tähystyksessä
+#RUOTSI     Annan endoskopisk operation för skada eller lokal förändring i trakea
+#LYHENNE    Muu trakeamuutos/vammaleikk tähystyksess
+###
+#KOODI      GBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5802      
+#SUOMI      Henkitorviavanteen teko
+#RUOTSI     Trakeostomi
+#LYHENNE    Henkitorviavanteen teko
+#OHJE_S  
+Krikotyreotomia kohdassa DQA00
+#OHJE_R 
+Krikotyreotomi, se DQA00
+###
+#KOODI      GBB03 
+#MUUT_PVM   2001/11/13
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkitorviavanteen teko pistämällä
+#RUOTSI     Perkutan trakeostomi
+#LYHENNE    Henkitorviavanteen teko pistämällä
+#OHJE_S  
+Sisältää hätätrakeostomian
+#OHJE_R 
+Innefatta trakeostomi i nödsituation
+###
+#KOODI      GBB13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5803      
+#SUOMI      Henkitorviavanteen tarkistaminen
+#RUOTSI     Revision av trakeostomi
+#LYHENNE    Henkitorviavanteen tarkistaminen
+###
+#KOODI      GBB18 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5803      
+#SUOMI      Henkitorviavanteen sulku
+#RUOTSI     Förslutning av trakeostomi
+#LYHENNE    Henkitorviavanteen sulku
+###
+#KOODI      GBB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5809      
+#SUOMI      Muu henkitorviavannetoimenpide
+#RUOTSI     Annan trakeostomirelaterad operation
+#LYHENNE    Muu henkitorviavannetoimenpide
+###
+#KOODI      GBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Henkitorven seinämäpoisto
+#RUOTSI     Resektion av trakea
+#LYHENNE    Henkitorven seinämäpoisto
+#OHJE_S  
+esim. kiilapoisto
+#OHJE_R 
+T ex kilresektion
+###
+#KOODI      GBC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Henkitorven osan poisto
+#RUOTSI     Segmentresektion av trakea med direkt reanastomos
+#LYHENNE    Henkitorven osan poisto
+###
+#KOODI      GBC06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Henkitorven osan poisto ja korjaus proteesin avulla
+#RUOTSI     Resektion och rekonstruktion av trakea med protes
+#LYHENNE    Henkitorven osan poisto/korjaus protees
+###
+#KOODI      GBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Henkitorven harjun poisto ja korjaus
+#RUOTSI     Resektion och rekonstruktion av carina
+#LYHENNE    Henkitorven harjun poisto ja korjaus
+###
+#KOODI      GBC13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Henkitorven harjun poisto ja korjaus siirteellä
+#RUOTSI     Resektion och rekonstruktion av carina med implantat
+#LYHENNE    Carinan poisto/korjaus siirteellä
+###
+#KOODI      GBC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5819      
+#SUOMI      Muu henkitorven poisto ja korjaus
+#RUOTSI     Annan resektion och  rekonstruktion av trakea
+#LYHENNE    Muu henkitorven poisto ja korjaus
+###
+#KOODI      GBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5819      
+#SUOMI      Muu henkitorvileikkaus
+#RUOTSI     Annan operation på trakea
+#LYHENNE    Muu henkitorvileikkaus
+###
+#KOODI      GBW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Muu henkitorvitoimenpide  tähystyksessä
+#RUOTSI     Annan endoskopisk operation på trakea
+#LYHENNE    Muu henkitorvitoimenpide  tähystyksessä
+###
+#KOODI_R    GC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Keuhkoputket
+#RUOTSI     Bronker
+#ENGL       Bronchus
+#OHJE_S  
+Bronkoskopia kohdassa UGC
+#OHJE_R 
+Bronkoskopi, se UGC
+###
+#KOODI      GC1AN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoputkien värekarvatoiminnan gammakuvaus
+#RUOTSI     Luftrör, gammaskintigrafi av flimmerhårfunktion
+#LYHENNE    Keuhkoputkien värekarvatoim gammakuv
+###
+#KOODI      GC1BB 
+#MUUT_PVM   2004/02/02
+#KAYTPVM    1999/01/01
+#POISTPVM   2006/12/31
+#POISTETTU
+#VANHA      5335      
+#SUOMI      Keuhkoputkien varjoainetutkimus (bronkografia)
+#RUOTSI     Bronkografi
+#LYHENNE    Bronkografia
+###
+#KOODI      GCA02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Keuhkoputkien kudosmuutoksen poltto tähystyksessä
+#RUOTSI     Endobronkial elektrokoagulation av lokala förändringar i bronker
+#LYHENNE    Keuhkoputkien kudosmuutospoltto tähystyk
+###
+#KOODI      GCA05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Keuhkoputken kudosmuutoksen poisto laserilla
+#RUOTSI     Endobronkial laserbehandling av lokal förändring i bronker
+#LYHENNE    Keuhkoputken kudosmuutospoisto laserilla
+###
+#KOODI      GCA06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken kudosmuutoksen poisto leikkauksessa
+#RUOTSI     Exstirpation av lokal förändring i bronker (öppen operation)
+#LYHENNE    Keuhkoputken kudosmuutospoisto leikkauks
+###
+#KOODI      GCA08 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Keuhkoputken kudosmuutoksen poisto tähystyksessä
+#RUOTSI     Endobronkial exstirpation av lokal förändring i bronker
+#LYHENNE    Trakeamuutospoisto/biopsia tähystyksessä
+#OHJE_S  
+Koepalan otto tähystyksessä kohdassa UGC
+Kun koko kudoskappale käytetään koepalana, tulee käyttää ryhmän UGC koodeja. Suuremman muutoksen poisto ilmaistaan tällä koodilla
+#OHJE_R 
+Biopsi vid bronkoskopi, se UGC
+När hela vävnadsbiten används som prov, bör man använda kod från grupp UGC. Större exstirpationer anges med detta kod.
+###
+#KOODI      GCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5819      
+#SUOMI      Vierasesineen poisto keuhkoputkesta leikkauksessa
+#RUOTSI     Avlägsnande av främmande kropp ur bronker medelst öppen operation
+#LYHENNE    Vierasesinepoisto trakeasta leikkauks
+###
+#KOODI      GCA12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1241      
+#SUOMI      Vierasesineen poisto keuhkoputkesta tähystyksessä
+#RUOTSI     Endobronkial extraktion av främmande kropp
+#LYHENNE    Vierasesinepoisto keuhkoputkesta tähy
+###
+#KOODI      GCA18 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Keuhkoputken laajennus tähystyksessä
+#RUOTSI     Endoskopisk dilatation av bronker
+#LYHENNE    Keuhkoputken laajennus tähystyksessä
+###
+#KOODI      GCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken ompelu
+#RUOTSI     Sutur av bronker vid skada (trauma)
+#LYHENNE    Keuhkoputken ompelu
+###
+#KOODI      GCA26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken muovaus
+#RUOTSI     Bronkoplastik
+#LYHENNE    Keuhkoputken muovaus
+###
+#KOODI      GCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken muovaus proteesin avulla
+#RUOTSI     Bronkoplastik med protes
+#LYHENNE    Keuhkoputken muovaus proteesin avulla
+###
+#KOODI      GCA32 
+#MUUT_PVM   2004/09/17
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoputken stentin asettaminen tähystyksessä
+#RUOTSI     Endoskopisk inläggning av stent i bronk
+#LYHENNE    Keuhkoputken stentin asettaminen tähysty
+#OHJE_S  
+Trakean bifurkaatiossa oleva stentti koodataan trakean toimenpiteenä, katso GBA35
+#OHJE_R 
+Stent i bifurkation av trakea koderas i trakea, se GBA35
+###
+#KOODI      GCA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5839      
+#SUOMI      Keuhkoputken ja -pussin välisen avanteen sulkeminen
+#RUOTSI     Förslutning av bronkopleural fistel (öppen operation)
+#LYHENNE    Keuhkoputki-keuhkopussiavanteen sulku
+#OHJE_S  
+Sisältää sirrännäisen (lihas, vatsapaita tms) käytön
+#OHJE_R 
+Inkl användande av transplantat (muskel, oment etc)
+###
+#KOODI      GCA42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Keuhkoputki-keuhkopussiavanteen sulku keuhkoputken tähystyksessä
+#RUOTSI     Endoskopisk slutning av bronkopleural fistel
+#LYHENNE    Keuhkoputki-pleura-avanteen sulku tähyst
+###
+#KOODI      GCA43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5839      
+#SUOMI      Muu keuhkoputken ja -pussin välisen avanteen sulku
+#RUOTSI     Annan slutning av bronkopleural fistel
+#LYHENNE    Muu keuhkoputken -pussin avanteen sulku
+###
+#KOODI      GCA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken seinämän poisto
+#RUOTSI     Resektion av bronk
+#LYHENNE    Keuhkoputken seinämän poisto
+#OHJE_S  
+esim kiilapoisto,  wedge
+#OHJE_R 
+T ex kilresektion
+###
+#KOODI      GCA60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken osan poisto ja liittäminen  end-to-end
+#RUOTSI     Resektion av bronker med anastomos ända till ända
+#LYHENNE    Keuhkoputken osan poisto/end-to-end
+###
+#KOODI      GCA63 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken poisto, sleeve
+#RUOTSI     Segmentresektion av bronker, sleeve
+#LYHENNE    Keuhkoputken poisto, sleeve
+###
+#KOODI      GCA70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5813      
+#SUOMI      Keuhkoputken poisto ja korjaus proteesin avulla
+#RUOTSI     Resektion och rekonstruktion av bronker med protes
+#LYHENNE    Keuhkoputken poisto/korjaus proteesilla
+###
+#KOODI      GCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5819      
+#SUOMI      Muu keuhkoputkien leikkaus leikkauksessa
+#RUOTSI     Annat operation på bronker
+#LYHENNE    Muu keuhkoputkien leikkaus leikkauksessa
+###
+#KOODI      GCA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Muu keuhkoputkien toimenpide tähystyksessä
+#RUOTSI     Annan endoskopisk operation på bronker
+#LYHENNE    Muu keuhkoputkien leikkaus tähystyksessä
+###
+#KOODI_R    GD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Keuhkot
+#RUOTSI     Lungor
+#ENGL       Lung
+###
+#KOODI      GD001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i lungorna
+#LYHENNE    Sädeh alaheng prim.kasv preop hoitona
+###
+#KOODI      GD002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i lungorna
+#LYHENNE    Radik alaheng prim.kasv sädehoito
+###
+#KOODI      GD003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i lungorna
+#LYHENNE    Sädeh alaheng prim.kasv liit.hoitona
+###
+#KOODI      GD004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito henkitorven, keuhkoputkien ja keuhkojen primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Palliativ strålbehandling av primärtumör i lungorna
+#LYHENNE    Sädeh alaheng prim.kasv palliat hoitona
+###
+#KOODI      GD029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito henkitorven, keuhkoputkien ja keuhkojen paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i lungorna
+#LYHENNE    Sädeh alaheng paik uus kasv hoitona
+###
+#KOODI      GD049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito keuhkoissa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i lungorna
+#LYHENNE    Sädeh alaheng metastaasin  hoitona
+###
+#KOODI      GD090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito henkitorven, keuhkoputkien ja keuhkojen profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av lungorna
+#LYHENNE    Sädeh alaheng profyl hoitona
+###
+#KOODI      GD099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu keuhkojen sädehoito
+#RUOTSI     Annan strålbehandling av lungorna
+#LYHENNE    Muu keuhkojen sädehoito
+###
+#KOODI      GD1AA 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5311      
+#SUOMI      Thoraxin natiiviröntgen
+#RUOTSI     Toraxröntgen
+#LYHENNE    Thoraxin natiiviröntgen
+###
+#KOODI      GD1AD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5905      
+#SUOMI      Rintakehän alueen TT
+#RUOTSI     Toraxregion, DT
+#LYHENNE    Rintakehän alueen TT
+#OHJE_S  
+Sisältää thoraxin ja mediastinumin elimet
+#OHJE_R 
+Innefattar organen i thorax och mediastinum
+###
+#KOODI      GD1AN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkokudoksen gammakuvaus (esim. tuumori)
+#RUOTSI     Lungvävnad, gammaskintigrafi
+#LYHENNE    Keuhkokudoksen gammakuvaus
+###
+#KOODI      GD1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Keuhkon kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Lunga, UL-styrd vävnadsbiopsi
+#LYHENNE    Keuhkokudosn,UÄ-ohj
+###
+#KOODI      GD1BA 
+#MUUT_PVM   2002/11/05
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5312      
+#SUOMI      Thoraxin laaja natiiviröntgen
+#RUOTSI     Lungor, omfattande röntgen
+#LYHENNE    Thoraxin laaja natiiviröntgen
+###
+#KOODI      GD1BD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5906      
+#SUOMI      Rintakehän alueen laaja TT
+#RUOTSI     Toraxregion, omfattande DT
+#LYHENNE    Rintakehän alueen laaja TT
+###
+#KOODI      GD1BF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8120      
+#SUOMI      Keuhkojen ja pleuran magneettitutkimus keskikenttälaitteella
+#RUOTSI     Lungor och pleura, MR med mellanfältsmagnet
+#LYHENNE    Keuhkojen KKMT
+###
+#KOODI      GD1BG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8220      
+#SUOMI      Keuhkojen ja pleuran magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Lungor och pleura, MR med högfältsmagnet
+#LYHENNE    Keuhkojen VKMT
+###
+#KOODI      GD1BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkon kudosnäytteen otto läpivalaisuohjauksessa
+#RUOTSI     Lunga, genomlysningsstyrd vävnadsbiopsi
+#LYHENNE    Keuhkokudosn,lpv-ohj
+###
+#KOODI      GD1CA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5309      
+#SUOMI      Thoraxin pienoisröntgen
+#RUOTSI     Skärmbildsundersökning av torax
+#LYHENNE    Thoraxin pienoisröntgen
+###
+#KOODI      GD1CD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5907      
+#SUOMI      Rintakehän alueen erittäin laaja TT
+#RUOTSI     Toraxregion, mycket omfattande DT
+#LYHENNE    Rintakehän alueen erittäin laaja TT
+###
+#KOODI      GD1CF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8121      
+#SUOMI      Keuhkojen ja pleuran laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Lungor och pleura, omfattande MR med mellanfältsmagnet
+#LYHENNE    Keuhkojen l.KKMT
+###
+#KOODI      GD1CG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8221      
+#SUOMI      Keuhkojen ja pleuran laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Lungor och pleura, omfattande MR med högfältsmagnet
+#LYHENNE    Keuhkojen l.VKMT
+###
+#KOODI      GD1CN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoperfuusion gammakuvaus
+#RUOTSI     Lungperfusion, gammaskintigrafi
+#LYHENNE    Keuhkoperfuusion gammakuvaus
+###
+#KOODI      GD1CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkon kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Lunga, DT-styrd vävnadsbiopsi
+#LYHENNE    Keuhkokudosn,TT-ohj
+###
+#KOODI      GD1DD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkokudoksen HR-TT
+#RUOTSI     Lungor, högresolutions-DT
+#LYHENNE    Keuhkokudoksen HR-TT
+###
+#KOODI      GD1DF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8122      
+#SUOMI      Keuhkojen ja pleuran erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Lungor och pleura, mycket omfattande MR med mellanfältsmagnet
+#LYHENNE    Keuhkojen er.l.KKMT
+###
+#KOODI      GD1DG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8222      
+#SUOMI      Keuhkojen ja pleuran erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Lungor och pleura, mycket omfattande MR med  högfältsmagnet
+#LYHENNE    Keuhkojen er.l.VKMT
+###
+#KOODI      GD1EA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5313      
+#SUOMI      Thoraxin natiiviröntgen, kylkikuva *
+#RUOTSI     Translateral röntgen av torax *
+#LYHENNE    Thoraxin natiiviröntgen, kylkikuva *
+###
+#KOODI      GD1ED 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5909      
+#SUOMI      Keuhkokudoksen laaja HR-TT
+#RUOTSI     Lungor, omfattande högresolutions-DT
+#LYHENNE    Keuhkokudoksen laaja HR-TT
+###
+#KOODI      GD1FN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoventilaation gammakuvaus
+#RUOTSI     Lungventilation, gammaskintigrafi
+#LYHENNE    Keuhkoventilaation gammakuvaus
+###
+#KOODI      GD1HA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5351      
+#SUOMI      Hengityselimistön tomografia
+#RUOTSI     Tomografi av lungor och mediastinum
+#LYHENNE    Hengityselin-tomo
+###
+#KOODI      GD1LA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5356      
+#SUOMI      Hengityselimistön läpivalaisu
+#RUOTSI     Genomlysning av andningsorgan
+#LYHENNE    Hengityselin-lpv
+###
+#KOODI      GD1LT 
+#MUUT_PVM   2006/10/05
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkon alueen lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Lung värmekoagulation med radiologiskt utstyrning
+#LYHENNE    Keuhkon alueen lämpökoagulaatio rad ohj
+###
+#KOODI      GD1MA 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5314      
+#SUOMI      Sydän-thorax-natiiviröntgen
+#RUOTSI     Hjärta och lungor, röntgen
+#LYHENNE    Sydänthorax
+###
+#KOODI      GD1PA 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5310      
+#SUOMI      Thoraxin natiiviröntgen, yksi projektio
+#RUOTSI     Toraxröntgen, en projektion
+#LYHENNE    Thoraxin natiiviröntgen, yksi projektio
+#OHJE_S  
+Esimerkiksi PA
+#OHJE_R 
+T.ex PA
+###
+#KOODI      GD1PD 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkojen perfuusio TT
+#RUOTSI     Lungperfusionsundersökning med DT
+#LYHENNE    Keuhkojen perfuusio TT
+###
+#KOODI      GD1QA 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5315      
+#SUOMI      Thoraxin natiiviröntgen makuuasennossa
+#RUOTSI     Toraxröntgen i liggande
+#LYHENNE    Thorax rtg makuu
+###
+#KOODI      GD1RA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5357      
+#SUOMI      Hengityselimistön läpivalaisu ja natiiviröntgen
+#RUOTSI     Röntgen av andningsorgan med genomlysning
+#LYHENNE    Hengityselin-lpv+rtg
+###
+#KOODI      GD1SN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkokudoksen SPET-tutkimus
+#RUOTSI     Lungvävnad SPECT
+#LYHENNE    Keuhkokudoksen SPET-tutkimus
+###
+#KOODI      GD1UA 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5316      
+#SUOMI      Thoraxin natiiviröntgen radiologian yksikön ulkopuolella
+#RUOTSI     Toraxröntgen utanför radiologisk enhet
+#LYHENNE    Thoraxin rtg ulkop
+###
+#KOODI      GD1UN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoperfuusion SPET-tutkimus
+#RUOTSI     Lungperfusion SPECT
+#LYHENNE    Keuhkoperfuusion SPET-tutkimus
+###
+#KOODI      GD1XD 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM   2003/11/04
+#POISTETTU
+#VANHA      5908      
+#SUOMI      Rintakehän muu TT
+#RUOTSI     Toraxorganen, annan DT
+#LYHENNE    Thoraxin muu TT
+###
+#KOODI      GD2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Keuhkon solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Lunga, UL-styrd finnålsbiopsi
+#LYHENNE    Keuhkosolun,UÄ-ohj
+###
+#KOODI      GD2BT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9034      
+#SUOMI      Keuhkon solunäytteen otto läpivalaisuohjauksessa
+#RUOTSI     Lunga, genomlysningsstyrd finnålsbiopsi
+#LYHENNE    Keuhkosolun,lpv-ohj
+###
+#KOODI      GD2CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9035      
+#SUOMI      Keuhkon solunäytteen otto TT-ohjauksessa
+#RUOTSI     Lunga, DT-styrd finnålsbiopsi
+#LYHENNE    Keuhkosolun,TT-ohj
+###
+#KOODI      GD2FN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkojen alueellisen toiminnan gammakuvaus (radiospirometria)
+#RUOTSI     Lungventilationens fördelning, gammaskintigrafi (radiospirometri)
+#LYHENNE    Keuhkojen alueellisen toiminnan gammakuv
+###
+#KOODI      GD2SN 
+#MUUT_PVM   2005/12/07
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkoventilaation SPET-tutkimus
+#RUOTSI     Lungventilation SPECT
+#LYHENNE    Keuhkoventilaation SPET-tutkimus
+###
+#KOODI      GD3CT 
+#MUUT_PVM   1999/02/10
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Keuhkon merkkaus TT-ohjauksessa
+#RUOTSI     Lunga, DT-styrd märkning
+#LYHENNE    Keuhkon merkk,TT-ohj
+###
+#KOODI      GD4LT 
+#MUUT_PVM   2006/10/05
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rintakehän tai mediastinumin lämpökoagulaatio radiologisessa ohjauksessa
+#RUOTSI     Torax eller mediastinum värmekoagulation med radiologisk utstyr
+#LYHENNE    Rintakehän tai mediast lämpökoag rad ohj
+###
+#KOODI      GD5AD 
+#MUUT_PVM   2006/10/01
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Thoraksin ja ylävatsan TT
+#RUOTSI     Torax och övre delen av buken, DT
+#LYHENNE    Rintakehän ja ylävatsan TT
+###
+#KOODI      GD5BD 
+#MUUT_PVM   2006/10/01
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Thoraksin ja ylävatsan laaja TT
+#RUOTSI     Torax och övre delen av buken, omfattande DT
+#LYHENNE    Rintakehän ja ylävatsan laaja TT
+###
+#KOODI      GD5CD 
+#MUUT_PVM   2006/10/01
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Thoraksin ja ylävatsan erittäin laaja TT
+#RUOTSI     Torax och övre delen av buken, mycket omfattande DT
+#LYHENNE    Rintakehän ja ylävatsan eritt laaja TT
+###
+#KOODI      GDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5824      
+#SUOMI      Keuhkon aukaisu ja kanavointi
+#RUOTSI     Incision av lunga (inkl dränage)
+#LYHENNE    Keuhkon aukaisu ja kanavointi
+###
+#KOODI      GDA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkon aukaisu ja kanavointi tähystyksessä
+#RUOTSI     Torakoskopisk incision av lunga (inkl dränage)
+#LYHENNE    Keuhkon aukaisu/kanavointi tähystyksessä
+###
+#KOODI      GDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5823      
+#SUOMI      Koepalan otto keuhkoista leikkauksessa
+#RUOTSI     Lungbiopsi
+#LYHENNE    Koepalan otto keuhkoista leikkauksessa
+###
+#KOODI      GDA11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Koepalan otto keuhkoista rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk lungbiopsi
+#LYHENNE    Biopsia keuhkoista tähystyksessä
+#OHJE_S  
+Tähystys pysyvän keuhkopussiavanteen kautta ja koepalan otto kohdassa UGA02
+#OHJE_R 
+Endoskopi genom pleurokutan fistel med eventuel biopsi, se UGA02
+###
+#KOODI      GDA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822+     
+#SUOMI      Keuhkon kudosmuutoksen paikallinen poistoleikkaus
+#RUOTSI     Exstirpation av lokal förändring i lunga
+#LYHENNE    Keuhkon kudosmuutoksen poistoleikkaus
+#OHJE_S  
+Esim. kasvaimen poisto tai enukleaatio
+#OHJE_R 
+Inkl enukleation av tumör
+###
+#KOODI      GDA21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkon kudosmuutoksen paikallinen poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk exstirpation av lokal förändring i lunga
+#LYHENNE    Keuhkomuutospoisto tähystyksessä
+#OHJE_S  
+Esim. kasvaimen poisto tai enukleaatio
+#OHJE_R 
+Inkl enukleation av tumör
+###
+#KOODI      GDA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5824      
+#SUOMI      Keuhkon aukaisu ja vierasesineen poisto
+#RUOTSI     Pneumotomi och extraktion av främmande kropp
+#LYHENNE    Keuhkon aukaisu ja vierasesineen poisto
+###
+#KOODI      GDA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkon aukaisu ja vierasesineen poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk pneumotomi och extraktion av främmande kropp
+#LYHENNE    Keuhkon aukaisu/vierasesinepoisto tähyst
+###
+#KOODI      GDA40 
+#MUUT_PVM   1995/11/27
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822      
+#SUOMI      Keuhkovamman korjaus leikkauksessa
+#RUOTSI     Revision och sutur av lungskada (öppen operation)
+#LYHENNE    Keuhkovamman korjaus leikkauksessa
+###
+#KOODI      GDA41 
+#MUUT_PVM   1995/11/27
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkovamman korjaus, rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk revision och sutur av lungskada
+#LYHENNE    Keuhkovamman korjaus leikkauksessa
+###
+#KOODI      GDA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822      
+#SUOMI      Muu keuhkon koepalan otto, aukaisu tai korjaus leikkauksessa
+#RUOTSI     Annan incision, lokal exstirpation eller sutur av lunga (öppen operation)
+#LYHENNE    Muu keuhkoleikkaus
+###
+#KOODI      GDA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkon koepalan otto, aukaisu tai korjaus rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk incision, lokal exstirpation eller sutur av lunga
+#LYHENNE    Muu keuhkoleikkaus torakoskopiassa
+###
+#KOODI      GDA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Muu keuhkon koepalan otto, aukaisu tai korjaus keuhkoputken tähystyksessä
+#RUOTSI     Annan bronkoskopisk lungoperation
+#LYHENNE    Muu keuhkoleikkaus bronkoskopiassa
+###
+#KOODI      GDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5822      
+#SUOMI      Keuhkorakkulan poisto
+#RUOTSI     Resektion av bulla
+#LYHENNE    Keuhkorakkulan poisto
+###
+#KOODI      GDB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkorakkulan poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk resektion av bulla
+#LYHENNE    Keuhkorakkulan poisto tähystyksessä
+###
+#KOODI      GDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5825      
+#SUOMI      Keuhkon kiilapoisto
+#RUOTSI     Kilresektion av lunga
+#LYHENNE    Keuhkon kiilapoisto
+###
+#KOODI      GDB11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkon kiilapoisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk kilresektion av lunga
+#LYHENNE    Keuhkon kiilapoisto tähystyksessä
+###
+#KOODI      GDB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5827      
+#SUOMI      Keuhkojaokkeen poisto
+#RUOTSI     Segmentresektion av lunga
+#LYHENNE    Keuhkojaokkeen poisto
+###
+#KOODI      GDB21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkojaokkeen poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk segmentresektion av lunga
+#LYHENNE    Keuhkojaokkeen poisto tähystyksessä
+###
+#KOODI      GDB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5839      
+#SUOMI      Muu keuhkon osan poistoleikkaus
+#RUOTSI     Annan lungresektion (öppen operation)
+#LYHENNE    Muu keuhkon osan poistoleikkaus
+###
+#KOODI      GDB97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkon osan poisto rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk lungresektion
+#LYHENNE    Muu keuhkon osan poisto tähystyksessä
+###
+#KOODI      GDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5826      
+#SUOMI      Keuhkolohkon poistoleikkaus
+#RUOTSI     Lobektomi av lunga (öppen operation)
+#LYHENNE    Keuhkolohkon poistoleikkaus
+###
+#KOODI      GDC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkolohkon poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk lobektomi av lunga
+#LYHENNE    Keuhkolohkon poisto tähystyksessä
+###
+#KOODI      GDC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5826      
+#SUOMI      Kahden keuhkolohkon poistoleikkaus
+#RUOTSI     Bilobektomi av lunga (öppen operation)
+#LYHENNE    Kahden keuhkolohkon poistoleikkaus
+###
+#KOODI      GDC11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Kahden keuhkolohkon poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk bilobektomi av lunga
+#LYHENNE    Kahden keuhkolohkon poisto tähystyksessä
+###
+#KOODI      GDC13 
+#MUUT_PVM   1998/11/06
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laajennettu yhden tai kahden keuhkolohkon poisto poisto
+#RUOTSI     Utvidgad lobektomi eller bilobektomi av lunga
+#LYHENNE    Laaj keuhkolohkon poisto
+#OHJE_S  
+Sisältää toimenpiteeseen liittyvän sydänpussin, sydämen eteisen, rintakehänseinämän tai pallean osittaisen poiston
+#OHJE_R 
+Innefattar excision av perikardium, hjärtans förmak, bröstkorg eller diafragm
+###
+#KOODI      GDC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5827      
+#SUOMI      Keuhkolohkon poistoleikkaus ja  sleeveresektio
+#RUOTSI     Lobektomi av lunga med sleeve-bronkresektion
+#LYHENNE    Keuhkolohkon poisto/sleeveresektio
+###
+#KOODI      GDC23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5827      
+#SUOMI      Keuhkolohkon ja -jaokkeen poistoleikkaus
+#RUOTSI     Lobektomi av lunga med segmentresektion
+#LYHENNE    Keuhkolohkon ja -jaokkeen poistoleikkaus
+###
+#KOODI      GDC26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5827      
+#SUOMI      Keuhkolohkon ja muun keuhkon osan poistoleikkaus
+#RUOTSI     Lobektomi av lunga med annan resektion
+#LYHENNE    Keuhkolohkon/muun keuhkon osan poisto
+###
+#KOODI      GDC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5826      
+#SUOMI      Muu keuhkolohkon poistoleikkaus
+#RUOTSI     Annan lobektomioperation på lunga (öppen operation)
+#LYHENNE    Muu keuhkolohkon poistoleikkaus
+###
+#KOODI      GDC97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkolohkon poisto rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk lobektomioperation på lunga
+#LYHENNE    Muu keuhkolohkon poisto tähystyksessä
+###
+#KOODI_A    GD_
+#MUUT_PVM   2002/08/26
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Keuhkoijen diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi av lungor
+#ENGL       Diagnostic radiology of lungs
+###
+#KOODI      GDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5828      
+#SUOMI      Keuhkonpoistoleikkaus
+#RUOTSI     Pneumektomi (öppen operation)
+#LYHENNE    Keuhkonpoistoleikkaus
+###
+#KOODI      GDD01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkonpoisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk pneumektomi
+#LYHENNE    Keuhkonpoisto rintaontelon tähystyksessä
+###
+#KOODI      GDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5830      
+#SUOMI      Keuhkopussin ja keuhkon poistoleikkaus
+#RUOTSI     Pleuropneumektomi (öppen operation)
+#LYHENNE    Keuhkopussin ja keuhkon poistoleikkaus
+###
+#KOODI      GDD11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Keuhkopussin ja keuhkon poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk pleuropneumektomi
+#LYHENNE    Keuhkopussin/keuhkon poisto tähystykses
+###
+#KOODI      GDD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5828+     
+#SUOMI      Laajennettu keuhkonpoistoleikkaus
+#RUOTSI     Utvidgad pneumektomi
+#LYHENNE    Haajennettu keuhkonpoistoleikkaus
+#OHJE_S  
+Sisältää tarpeen mukaan sydäpussin, eteisten, rintakehän ja pallean poiston
+#OHJE_R 
+Inkl eventuel excision av perikard, förmak, bröstvägg eller diafragma
+###
+#KOODI      GDD23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5828+     
+#SUOMI      Keuhkonpoisto ja henkitorven harjun poisto osittain
+#RUOTSI     Pneumektomi och resektion av carina
+#LYHENNE    Keuhkonpoisto/carinanpoisto osittain
+###
+#KOODI      GDD26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5828+     
+#SUOMI      Keuhkonpoisto ja keuhkoputken tai henkitorven poisto osittain
+#RUOTSI     Pneumektomi + resektion av bronker/trakea
+#LYHENNE    Keuhkonpoisto/keuhkoputken/henkitorvipoi
+###
+#KOODI      GDD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5839      
+#SUOMI      Muu avoin keuhkonpoistoleikkaus
+#RUOTSI     Annan öppen pneumektomi
+#LYHENNE    Muu avoin keuhkonpoistoleikkaus
+###
+#KOODI      GDD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkonpoistoleikkaus rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk pneumektomi
+#LYHENNE    Muu keuhkonpoistoleikkaus tähystyksessä
+###
+#KOODI      GDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5840      
+#SUOMI      Yhden keuhkon siirto
+#RUOTSI     Unilateral lungtransplantation
+#LYHENNE    Yhden keuhkon siirto
+###
+#KOODI      GDG03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5840      
+#SUOMI      Yhden keuhkon siirto keuhkoputkivaltimot yhdistäen
+#RUOTSI     Unilateral lungtransplantation med anastomos av bronkialartärer
+#LYHENNE    Yhden keuhkon siirto+keuhkoputkivaltimot
+###
+#KOODI      GDG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5840      
+#SUOMI      Molempien keuhkojen siirto
+#RUOTSI     Transplantation av båda lungorna
+#LYHENNE    Molempien keuhkojen siirto
+###
+#KOODI      GDG13 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5840      
+#SUOMI      Molempien keuhkojen siirto  en bloc  keuhkoputkivaltimot yhdistäen
+#RUOTSI     Transplantation av båda lungorna en bloc med anastomos av bronkialartärer
+#LYHENNE    Keuhkojen siirto/en bloc/keuhkoputkivalt
+###
+#KOODI      GDG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5840      
+#SUOMI      Keuhkonsiirto elävältä luovuttajalta
+#RUOTSI     Lungtransplantation från levande donator
+#LYHENNE    Keuhkonsiirto elävältä luovuttajalta
+###
+#KOODI      GDG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5840      
+#SUOMI      Muu keuhkojen siirtoleikkaus
+#RUOTSI     Annan lungtransplantation
+#LYHENNE    Muu keuhkojen siirtoleikkaus
+###
+#KOODI      GDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5839      
+#SUOMI      Muu avoin keuhkoleikkaus
+#RUOTSI     Annan öppen operation på lungor
+#LYHENNE    Muu avoin keuhkoleikkaus
+###
+#KOODI      GDW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1503      
+#SUOMI      Muu keuhkoleikkaus tähystäen rintaontelon kautta
+#RUOTSI     Annan torakoskopisk operation på lungorna
+#LYHENNE    Muu keuhkoleikkaus torakoskopiassa
+###
+#KOODI      GDW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1243      
+#SUOMI      Muu keuhkoleikkaus tähystäen keuhkoputken kautta
+#RUOTSI     Annan bronkoskopisk operation på lungorna
+#LYHENNE    Muu keuhkoleikkaus bronkoskopiassa
+###
+#KOODI_R    GE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Välikarsina
+#RUOTSI     Mediastinum (inkl tymus)
+#ENGL       Mediastinum
+#OHJE_S  
+Sydämen toimenpiteet luvussa F paitsi eräät diagnostisen radiologian ja sädehoidon toimenpiteet
+#OHJE_R 
+Hjärtat med undantag av vissa diagnostiska radiologiska åtgärder och radioterapi, se kapitel F
+###
+#KOODI      GE001 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito välikarsinan  primaarikasvaimen  preoperatiivisena hoitona
+#RUOTSI     Preoperativ strålbehandling av primärtumör i mediastinum
+#LYHENNE    Sädeh mediast prim.kasv preop hoitona
+###
+#KOODI      GE002 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaali välikarsinan  primaarikasvaimen sädehoito
+#RUOTSI     Radikal strålbehandling av primärtumör i mediastinum
+#LYHENNE    Radik mediast prim.kasv sädehoito
+###
+#KOODI      GE003 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito välikarsinan  primaarikasvaimen liitännäishoitona
+#RUOTSI     Adjuvant strålbehandling av primärtumör i mediastinum
+#LYHENNE    Sädeh mediast prim.kasv lit.hoitona
+###
+#KOODI      GE004 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito välikarsinan  primaarikasvaimen palliatiivisena hoitona
+#RUOTSI     Pahliativ strålbehandling av primärtumör i mediastinum
+#LYHENNE    Sädeh mediast prim.kasv palliat hoitona
+###
+#KOODI      GE029 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito välikarsinan  paikallisesti uusineen kasvaimen hoitona
+#RUOTSI     Strålbehandling av lokalt recidivtumör i mediastinum
+#LYHENNE    Sädeh mediast paik uus.kasv hoitona
+###
+#KOODI      GE049 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito välikarsinassa ilmenneen etäpesäkkeen hoitona
+#RUOTSI     Strålbehandling av metastas i mediastinum
+#LYHENNE    Sädeh mediast metastaasin hoitona
+###
+#KOODI      GE090 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sädehoito välikarsinan  profylaktisena hoitona
+#RUOTSI     Profylaktisk strålbehandling av mediastinum
+#LYHENNE    Sädeh mediast profyl hoitona
+###
+#KOODI      GE099 
+#MUUT_PVM   1996/06/06
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu välikarsinan sädehoito
+#RUOTSI     Annan strålbehandling av mediastinum
+#LYHENNE    Muu välikarsinan sädehoito
+###
+#KOODI      GE1AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9043      
+#SUOMI      Välikarsinan kudosnäytteen otto UÄ-ohjauksessa
+#RUOTSI     Mediastinum, UL-styrd vävnadsbiopsi
+#LYHENNE    V-kars.kudosn,UÄ-ohj
+###
+#KOODI      GE1BE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Välikarsinan UÄ ruokatorven kautta
+#RUOTSI     Mediastinum, UL med transesofagealteknik
+#LYHENNE    Välikarsinan UÄ
+###
+#KOODI      GE1BF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8130      
+#SUOMI      Sydämen ja mediastinumin magneettitutkimus keskikenttälaitteella
+#RUOTSI     Hjärta och mediastinum, MR med mellanfältsmagnet
+#LYHENNE    Mediastinumin KKMT
+###
+#KOODI      GE1BG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8230      
+#SUOMI      Sydämen ja mediastinumin magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Hjärta och mediastinum, MR med högfältsmagnet
+#LYHENNE    Mediastinumin VKMT
+###
+#KOODI      GE1CF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8131      
+#SUOMI      Sydämen ja mediastinumin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Hjärta och mediastinum, omfattande MR med mellanfältsmagnet
+#LYHENNE    Mediastinumin l.KKMT
+###
+#KOODI      GE1CG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8231      
+#SUOMI      Sydämen ja mediastinumin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     Hjärta och mediastinum, omfattande MR med högfältsmagnet
+#LYHENNE    Mediastinumin l.VKMT
+###
+#KOODI      GE1CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9045      
+#SUOMI      Välikarsinan kudosnäytteen otto TT-ohjauksessa
+#RUOTSI     Mediastinum, DT-styrd vävnadsbiopsi
+#LYHENNE    V-kars.kudosn,TT-ohj
+###
+#KOODI      GE1DF 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8132      
+#SUOMI      Sydämen ja mediastinumin erittäin laaja magneettitutkimus keskikenttälaitteella
+#RUOTSI     Hjärta och mediastinum, mycket omfattande MR med mellanfältsmagnet
+#LYHENNE    Mediastin. er.l.KKMT
+###
+#KOODI      GE1DG 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      8232      
+#SUOMI      Sydämen ja mediastinumin erittäin laaja magneettitutkimus vahvakenttälaitteella
+#RUOTSI     MR av hjärta och mediastinum med högfältsmagnet, mycket omfattande
+#LYHENNE    Mediastin. er.l.VKMT
+###
+#KOODI      GE1DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9046      
+#SUOMI      Välikarsinan kudosnäytteen otto magneettiohjauksessa
+#RUOTSI     Mediastinum, MR-styrd vävnadsbiopsi
+#LYHENNE    V-kars.kudosn,MK-ohj
+###
+#KOODI      GE2AT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9033      
+#SUOMI      Välikarsinan solunäytteen otto UÄ-ohjauksessa
+#RUOTSI     Mediastinum, UL-styrd finnålsbiopsi
+#LYHENNE    V-kars.solun,UÄ-ohj
+###
+#KOODI      GE2CT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9035      
+#SUOMI      Välikarsinan solunäytteen otto TT-ohjauksessa
+#RUOTSI     Mediastinum, DT-styrd finnålsbiopsi
+#LYHENNE    V-kars.solun,TT-ohj
+###
+#KOODI      GE2DT 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9036      
+#SUOMI      Välikarsinan solunäytteen otto magneettiohjauksessa
+#RUOTSI     Mediastinum, MR-styrd finnålsbiopsi
+#LYHENNE    V-kars.solun,MK-ohj
+###
+#KOODI      GEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440      
+#SUOMI      Välikarsinan tähystys
+#RUOTSI     Mediastinoskopi (inkl dränage)
+#LYHENNE    Välikarsinan tähystys
+###
+#KOODI      GEA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440      
+#SUOMI      Välikarsinan tähystys ja vierasesineen poisto
+#RUOTSI     Mediastinoskopi med avlägsnande av främmande kropp
+#LYHENNE    Mediastinoskopia/vierasesinepoisto
+###
+#KOODI      GEA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440      
+#SUOMI      Välikarsinan tähystys ja kasvaimen tai kudosmuutoksen poisto
+#RUOTSI     Mediastinoskopi med exstirpation av lokal vävnadsförändring (inkl biopsi)
+#LYHENNE    Mediastinoskopia+kasvain/kudosmuutospois
+###
+#KOODI      GEA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440      
+#SUOMI      Muu välikarsinan tähystystoimenpide
+#RUOTSI     Annan mediastinoskopisk operation
+#LYHENNE    Muu välikarsinan tähystystoimenpide
+###
+#KOODI      GEB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5871      
+#SUOMI      Välikarsinan aukaisu
+#RUOTSI     Mediastinotomi
+#LYHENNE    Välikarsinan aukaisu
+#OHJE_S  
+Sisältää kanavoinin
+#OHJE_R 
+Inkl dränage
+###
+#KOODI      GEB20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5871      
+#SUOMI      Välikarsinan aukaisu ja vierasesineen poisto
+#RUOTSI     Mediastinotomi med exstirpation av främmande kropp
+#LYHENNE    Välikarsinan aukaisu/vierasesinepoisto
+###
+#KOODI      GEB30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5873      
+#SUOMI      Välikarsinan kasvaimen poisto
+#RUOTSI     Mediastinotomi med exstirpation av tumör/lokal förändring
+#LYHENNE    Välikarsinan kasvaimen poisto
+###
+#KOODI      GEB40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5873      
+#SUOMI      Välikarsinan tyhjennys
+#RUOTSI     Utvidgad exstirpation av vävnader ur mediastinum
+#LYHENNE    Välikarsinan tyhjennys
+#OHJE_S  
+Sisältää keuhkojen sekä keuhko- ja sydänpussien osien poistoja
+#OHJE_R 
+Inkl pleura, lungvävnad och pericardium
+###
+#KOODI      GEB96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Muu välikarsinan aukaisutoimenpide
+#RUOTSI     Annan operation via mediastinotomi
+#LYHENNE    Muu välikarsinan aukaisutoimenpide
+###
+#KOODI      GEC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Koepalan otto kateenkorvasta, avoin leikkaus
+#RUOTSI     Öppen biopsi av tymus
+#LYHENNE    Avobiopsia kateenkorvasta
+###
+#KOODI      GEC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440      
+#SUOMI      Koepalan otto kateenkorvasta välikarsinan tähystyksessä
+#RUOTSI     Endoskopisk biopsi av tymus
+#LYHENNE    Kateenkorvabiopsia  mediastinoskopiassa
+###
+#KOODI      GEC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Kateenkorvan osapoisto kaulalta
+#RUOTSI     Transcervikal resektion av tymus
+#LYHENNE    Kateenkorvan osapoisto kaulalta
+###
+#KOODI      GEC13 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Kateenkorvan osapoisto rintalasta-aukaisun kautta
+#RUOTSI     Transsternal resektion av tymus
+#LYHENNE    Kateenkorvan resektio, sternotomia
+###
+#KOODI      GEC14 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kateenkorvan osapoisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk resektion av tymus
+#LYHENNE    Kateenkorvan osapoisto rintaontelon tähy
+###
+#KOODI      GEC16 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440+     
+#SUOMI      Kateenkorvan osapoisto välikarsinan tähystyksessä
+#RUOTSI     Mediastinoskopisk resektion av tymus
+#LYHENNE    Kateenkorvan resektio, mediastinoskopia
+###
+#KOODI      GEC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Kateenkorvan poisto kaulalta
+#RUOTSI     Transcervikal total tymektomi
+#LYHENNE    Kateenkorvan poisto kaulalta
+###
+#KOODI      GEC23 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Kateenkorvan poisto rintalastan kautta
+#RUOTSI     Transsternal total tymektomi
+#LYHENNE    Kateenkorvan poisto rintalastan kautta
+###
+#KOODI      GEC24 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kateenkorvan poisto rintaontelon tähystyksessä
+#RUOTSI     Torakoskopisk total tymektomi
+#LYHENNE    Kateenkorvan poisto rintaontelon tähysty
+###
+#KOODI      GEC26 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1440+     
+#SUOMI      Kateenkorvan poisto välikarsinan tähystyksessä
+#RUOTSI     Annan endoskopisk operation på tymus
+#LYHENNE    Kateenkorvan leikkaus tähystyksessä
+###
+#KOODI      GEC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5872      
+#SUOMI      Muu avoin kateenkorvan leikkaus
+#RUOTSI     Annan öppen tymusoperation
+#LYHENNE    Muu avoin kateenkorvan leikkaus
+###
+#KOODI      GEC97 
+#MUUT_PVM   2003/12/02
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kateenkorvaleikkaus rintaontelon tähystyksessä
+#RUOTSI     Annan torakoskopisk tymusoperation
+#LYHENNE    Muu kateenkorvaleikkaus rintaontelon täh
+###
+#KOODI      GEW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5879      
+#SUOMI      Muu välikarsina- ja kateenkorvaleikkaus
+#RUOTSI     Andra operationer på tymus/mediastinum
+#LYHENNE    Muu välikarsina- ja kateenkorvaleikkaus
+###
+#KOODI_R    GW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Leikkauskomplikaatioiden vuoksi tehdyt thoraxkirurgiset uusintaleikkaukset
+#RUOTSI     Thorax kirurgiska reoperationer för sårkomplikationer
+#ENGL       Reoperations on chest wall, pleura, mediastinum, diaphragm, trachea, bronchi and lungs
+###
+#KOODI      GWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5891      
+#SUOMI      Auenneen tai tulehtuneen rintaontelo-, välikarsina- tai keuhkoleikkaushaavan tarkistaminen
+#RUOTSI     Revision av sårruptur/-infektion efter op. på pleura, mediastinum eller lungor
+#LYHENNE    Thx-/mediast/keuhkol haavarev auenn/inf
+###
+#KOODI      GWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5892      
+#SUOMI      Rintaontelo-, välikarsina- tai keuhkoleikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+#RUOTSI     Revision av sårinfektion efter op. på pleura, mediastinum eller lungor (inkl drän)
+#LYHENNE    Thx-/mediast/keuhkol uusinta syvä inf
+###
+#KOODI      GWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5892      
+#SUOMI      Uusintaleikkaus rintaontelo-, välikarsina- tai keuhkoleikkauksen jälkeisen haavaontelon vuodon vuoksi
+#RUOTSI     Reoperation p.g.a. blödning efter op. på pleura, mediastinum eller lungor
+#LYHENNE    Thx-/mediast/keuhkol uusintaleikk,vuoto
+###
+#KOODI      GWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      5892      
+#SUOMI      Rintaontelo-, välikarsina- tai keuhkoleikkauksen liitosompeleiden tarkistaminen
+#RUOTSI     Revision av anastomoser efter op. på pleura, mediastinum eller lungor
+#LYHENNE    Thx-/mediast/keuhkol uusintaleikk,ommel
+###
+#KOODI      GWW96 
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      5893      
+#SUOMI      Muu rintaontelo-, välikarsina- ja keuhkoleikkauksen komplikaatioleikkaus
+#RUOTSI     Annan reoper. för komplikation efter op. på pleura, mediastinum eller lungor
+#LYHENNE    Thx-/mediast/keuhkol uusintaleikk,muu

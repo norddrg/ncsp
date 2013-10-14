@@ -1,0 +1,5541 @@
+
+###
+#KOODI_L    K
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på urinvägar, manliga genitalier och retroperitoneal vävnad
+#RUOTSI     ---
+#ENGL       Urinary system, male genital organs and retroperitoneal space  procedures
+###
+#KOODI_R    KA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på njure inklusive njurbäcken
+#RUOTSI     ---
+#ENGL       Kidney and pelvis of kidney
+###
+#KOODI      KA001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av medvetandefunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b110
+#OHJE_R 
+---
+###
+#KOODI      KA002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av orienteringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF 114
+#OHJE_R 
+---
+###
+#KOODI      KA003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av intellektuella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b117
+#OHJE_R 
+---
+###
+#KOODI      KA004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av övergripande psykosociala funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b122
+#OHJE_R 
+---
+###
+#KOODI      KA005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av temperament och personlighetsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b126
+#OHJE_R 
+---
+###
+#KOODI      KA006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av energi och driftfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b130
+#OHJE_R 
+---
+###
+#KOODI      KA007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av sömnfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b134
+#OHJE_R 
+---
+###
+#KOODI      KA008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av uppmärksamhetsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b140
+#OHJE_R 
+---
+###
+#KOODI      KA009 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av minnesfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b144
+#OHJE_R 
+---
+###
+#KOODI      KA010 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av  psykomotoriska funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b147
+#OHJE_R 
+---
+###
+#KOODI      KA011 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av emotionella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b152
+#OHJE_R 
+---
+###
+#KOODI      KA012 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av perceptuella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b156
+#OHJE_R 
+---
+###
+#KOODI      KA013 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av tankefunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b160
+#OHJE_R 
+---
+###
+#KOODI      KA014 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av högre kognitiva funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b164
+#OHJE_R 
+---
+###
+#KOODI      KA015 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av psykiska språkfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b167
+#OHJE_R 
+---
+###
+#KOODI      KA016 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av kalkyleringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b172
+#OHJE_R 
+---
+###
+#KOODI      KA017 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av psykisk funktion att ordna sammansatta rörelser i följd
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b176
+#OHJE_R 
+---
+###
+#KOODI      KA018 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av funktioner för erfarenhet av jaget och tid
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b180
+#OHJE_R 
+---
+###
+#KOODI_A    KAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av njure och njurbäcken
+#RUOTSI     ---
+#ENGL       Exploration of kidney and pelvis of kidney
+###
+#KOODI      KAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA31 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan nefropyeloskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exploration av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAA
+#OHJE_R 
+---
+###
+#KOODI      KAA97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk exploration av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAA
+#OHJE_R 
+---
+###
+#KOODI_A    KAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsier av njure och njurbäcken
+#RUOTSI     ---
+#ENGL       Biopsy of kidney and pelvis of kidney
+###
+#KOODI      KAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAB01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk biopsi av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Nefrektomi
+#RUOTSI     ---
+#ENGL       Total excision of kidney
+###
+#KOODI      KAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAC01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefrouretärektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAC21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefrouretärektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delresektion av njure och njurbäcken
+#RUOTSI     ---
+#ENGL       Partial excision or destruction of tumour of kidney and pelvis of kidney
+###
+#KOODI      KAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD01 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk resektion av njure
+#RUOTSI     ---
+#LYHENNE    Perkutan endoskopisk resektion av njure
+###
+#KOODI      KAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Heminefrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen resektion av njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk resektion eller destruktion av njurbäckentumör
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal resektion eller destruktion av njurbäckentumör
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD56 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruktion av lokal förändring i njurparenkym
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD60 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan destruktion av lokal förändring i njurparenkym
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAD
+#OHJE_R 
+---
+###
+#KOODI      KAD97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk resektion av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAD
+#OHJE_R 
+---
+###
+#KOODI      KAD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal resektion av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAD
+#OHJE_R 
+---
+###
+#KOODI_A    KAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extraktion av konkrement ur njure och njurbäcken
+#RUOTSI     ---
+#ENGL       Removal of calculi from kidney and pelvis of kidney
+###
+#KOODI      KAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefropyelolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefropyelolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal nefropyelolitektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl litotripsi
+#OHJE_R 
+---
+###
+#KOODI      KAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exstirpation av njursten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAE
+#OHJE_R 
+---
+###
+#KOODI      KAE97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk extraktion av njursten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAE
+#OHJE_R 
+---
+###
+#KOODI      KAE98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal extraktion av njursten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAE
+#OHJE_R 
+---
+###
+#KOODI_A    KAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av främmande kropp från njure (inkl njurbäcken)
+#RUOTSI     ---
+#ENGL       Removal of foreign body from kidney and pelvis of kidney
+###
+#KOODI      KAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av främmande kropp från njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk extraktion av främmande kropp från njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAF12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal extraktion av främmande kropp från njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva ingrepp på njurar och njurbäcken
+#RUOTSI     ---
+#ENGL       Reconstructive operations on kidney and pelvis of kidney
+###
+#KOODI      KAH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH21 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan dilatation av njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH22 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal dilatation av njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Njurbäckenplastik utan delning av njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH31 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk njurbäckenplastik utan delning av njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    Perk endosk njurbäckenplastik u delning
+###
+#KOODI      KAH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Njurbäckenplastik med delning av njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH41 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk njurbäckenplastik med delning av njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    Perk endosk njurbäckenplastik m delning
+###
+#KOODI      KAH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Calycoureterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH54 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk incision i eller dilatation av kalixhals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH55 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retrograd ureteronefroskopisk incision i eller dilatation av kalixhals
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH61 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endopyelotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal pyelotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lösning av fixerad njurbäcken-uretäravgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nefropexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAH81 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk nefropexi
+#RUOTSI     ---
+#LYHENNE    Perkutan endoskopisk nefropexi
+###
+#KOODI      KAH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAH
+#OHJE_R 
+---
+###
+#KOODI      KAH97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk rekonstruktion av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAH
+#OHJE_R 
+---
+###
+#KOODI      KAH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal rekonstruktion av njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAH
+#OHJE_R 
+---
+###
+#KOODI_A    KAJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinavledande operationer på njure och njurbäcken
+#RUOTSI     ---
+#ENGL       External drainage of pelvis of kidney
+###
+#KOODI      KAJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen nefropyelostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAJ11 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk pyelostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl byte och avlägsnande av kateter
+#OHJE_R 
+---
+###
+#KOODI      KAJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan urinavledande operation på njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl byte och avlägsnande av kateter
+#OHJE_R 
+---
+###
+#KOODI      KAJ97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk urinavledande operation på njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAJ
+#OHJE_R 
+---
+###
+#KOODI      KAJ98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal urinavledande operation på njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAJ
+#OHJE_R 
+---
+###
+#KOODI_A    KAS
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Njurtransplantationer och därmed sammanhängande operationer
+#RUOTSI     ---
+#ENGL       Transplantation of kidney and related operations
+###
+#KOODI      KAS00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Autolog njurtransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog njurtransplantation, nekronjure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Homolog njurtransplantation, levande donator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av transplanterad njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pyelocystostomi på transplanterad njure
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för lymfocele efter njurtransplantation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KAS96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation i samband med njurtransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAS
+#OHJE_R 
+---
+###
+#KOODI      KAS97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk operation i samband med njurtransplantation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAS
+#OHJE_R 
+---
+###
+#KOODI_A    KAT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extrakorporeal stötvågslitotripsi av njurkonkrement
+#RUOTSI     ---
+#ENGL       Extracorporeal fragmentation of calculi of pelvis of kidney
+###
+#KOODI      KAT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal stötvågslitotripsi av njursten, ESVL
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KAW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på njure och njurbäcken
+#RUOTSI     ---
+#ENGL       Other operations on kidney and pelvis of kidney
+###
+#KOODI      KAW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk operation på njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KAW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal operation på njure eller njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KAX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    KB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på uretärerna
+#RUOTSI     ---
+#ENGL       Ureter
+###
+#KOODI      KB001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Synundersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b210
+#OHJE_R 
+---
+###
+#KOODI      KB002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Hörselundersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b230
+#OHJE_R 
+---
+###
+#KOODI      KB003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av balansfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förmåga att bibehålla balans och förhindra fall. ICF b235
+#OHJE_R 
+---
+###
+#KOODI      KB004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av förnimmelser i samband med hörsel och vestibulär funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens upplevelse av yrsel. ICF b240
+#OHJE_R 
+---
+###
+#KOODI      KB005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av smakfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b250
+#OHJE_R 
+---
+###
+#KOODI      KB006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av luktfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b255
+#OHJE_R 
+---
+###
+#KOODI      KB007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av proprioceptiv funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förmåga att förnimma kroppen och kroppsdelars inbördes läge och relation till varandra. ICF b260
+#OHJE_R 
+---
+###
+#KOODI      KB008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av beröringsfunktion och temperatur
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förmåga att känna ytor och deras struktur eller kvalitet. ICF b265
+#OHJE_R 
+---
+###
+#KOODI      KB009 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av smärtupplevelse
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens smärtupplevelse t. ex. med hjälp av skattningsskalor. ICF b280
+#OHJE_R 
+---
+###
+#KOODI_A    KBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration och incision av uretär
+#RUOTSI     ---
+#ENGL       Exploration and incision of ureter
+###
+#KOODI      KBA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk exploration av uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av uretär
+#RUOTSI     ---
+#ENGL       Biopsy of ureter
+###
+#KOODI      KBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBC
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Total ureterektomi
+#RUOTSI     ---
+#ENGL       Total excision of ureter
+###
+#KOODI      KBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delresektion av uretär
+#RUOTSI     ---
+#ENGL       Partial excision of ureter and destruction of tumour of ureter
+###
+#KOODI      KBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBD22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal resektion eller destruktion av uretärtumör
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för  uretärsten
+#RUOTSI     ---
+#ENGL       Operations for calculus of ureter
+###
+#KOODI      KBE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk ureterolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal ureterolitektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive litotripsi, korgextraktion, zeissning
+#OHJE_R 
+---
+###
+#KOODI      KBE22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal reposition av uretärsten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för uretärsten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBE
+#OHJE_R 
+---
+###
+#KOODI      KBE97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk operation för uretärsten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBE
+#OHJE_R 
+---
+###
+#KOODI      KBE98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal operation för uretärsten
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBE
+#OHJE_R 
+---
+###
+#KOODI_A    KBF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av främmande kropp från uretär
+#RUOTSI     ---
+#ENGL       Removal of foreign body of ureter
+###
+#KOODI      KBF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av främmande kropp från uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBF01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk extraktion av främmande kropp från uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal extraktion av främmande kropp från uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktion av uretär
+#RUOTSI     ---
+#ENGL       Repair or connection of ureter
+###
+#KOODI      KBH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroureterostomi, kontralateral
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterocystostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroenterocystostomi eller ureteroenteroureterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretärplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH45 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal ureterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lösning av fixerad uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal dilatation av uretär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktion av uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBH
+#OHJE_R 
+---
+###
+#KOODI      KBH97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk rekonstruktion av uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBH
+#OHJE_R 
+---
+###
+#KOODI      KBH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal rekonstruktion av uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBH
+#OHJE_R 
+---
+###
+#KOODI_A    KBJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinavledande operationer på uretär
+#RUOTSI     ---
+#ENGL       Urinary diversion from ureter and related operations
+###
+#KOODI      KBJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureterocutaneostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroenterocutaneostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinent ureteroenterocutaneostomi med reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroenterostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ureteroenterouretrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ70 
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extraktion av konkrement från konduktor eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ72 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal extraktion av konkrement från konduktor eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för malfunktion av konduktor eller reservoar
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan urinavledande operation på uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBJ
+#OHJE_R 
+---
+###
+#KOODI      KBJ97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk urinavledande operation på uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBJ
+#OHJE_R 
+---
+###
+#KOODI      KBJ98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal urinavledande operation på uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBJ
+#OHJE_R 
+---
+###
+#KOODI_A    KBT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Extrakorporeal astötvågslitotripsier av uretärkonkrement (ESWL)
+#RUOTSI     ---
+#ENGL       Extracorporeal fragmentation of calculi of ureter
+###
+#KOODI      KBT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal stötvågslitotripsi av uretärsten (ESVL)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBV
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse operationer på uretärerna
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on ureter
+###
+#KOODI      KBV00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen inläggning av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV01 
+#MUUT_PVM   1996/06/14
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan inläggning av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal inläggning av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV05 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoskopisk reposition av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen extraktion av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan extraktion av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal extraktion av uretärstent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV15 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Byte av uretärstent via cystoskop
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal dilatation av uretärostium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal incision av uretärostium
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal incision eller excision av ureterocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KBV52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal injektionsterapi vid vesikoureteral reflux
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KBW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra  operationer på uretärerna
+#RUOTSI     ---
+#ENGL       Other operations on ureter
+###
+#KOODI      KBW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KBW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk operation på uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KBW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på uretär
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KBX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    KC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på urinblåsan
+#RUOTSI     ---
+#ENGL       Bladder
+###
+#KOODI      KC001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av röstfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b310
+#OHJE_R 
+---
+###
+#KOODI      KC002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av artikuleringsfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b320
+#OHJE_R 
+---
+###
+#KOODI      KC003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av språkbehärskning och rytm i tal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b330
+#OHJE_R 
+---
+###
+#KOODI      KC004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av fömåga att producera andra ljud än tal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b340
+#OHJE_R 
+---
+###
+#KOODI_A    KCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av urinblåsan
+#RUOTSI     ---
+#ENGL       Incision of bladder
+###
+#KOODI      KCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av urinblåsan
+#RUOTSI     ---
+#ENGL       Biopsy of bladder
+###
+#KOODI      KCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Cystektomi
+#RUOTSI     ---
+#ENGL       Total excision of bladder
+###
+#KOODI      KCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoprostatovesikulektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoprostatovesikulouretrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystouretrektomi med exstirpation av inre könsorgan hos kvinna
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan cystektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCC
+#OHJE_R 
+---
+###
+#KOODI_A    KCD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektioner av urinblåsan
+#RUOTSI     ---
+#ENGL       Partial excision of bladder and destruction of tumour of bladder
+###
+#KOODI      KCD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral resektion eller destruktion i urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+TUR-B
+#OHJE_R 
+---
+###
+#KOODI      KCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen resektion av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av blåsdivertikel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av urachus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion eller destruktion i urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCD
+#OHJE_R 
+---
+###
+#KOODI      KCD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transuretral resektion eller destruktion i urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCD
+#OHJE_R 
+---
+###
+#KOODI_A    KCE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av urinblåsekonkrement
+#RUOTSI     ---
+#ENGL       Removal of calculus from bladder
+###
+#KOODI      KCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCE02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral cystolitektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive litotripsi
+#OHJE_R 
+---
+###
+#KOODI_A    KCF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av främmande kropp från urinblåsan
+#RUOTSI     ---
+#ENGL       Removal of foreign body from bladder
+###
+#KOODI      KCF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystotomi med exstirpation av främmande kropp
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral extraktion av främmande kropp från urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva ingrepp på urinblåsan
+#RUOTSI     ---
+#ENGL       Reconstructive operations on bladder
+###
+#KOODI      KCH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enterocystoplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reduktionsplastik av urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av vesikointestinal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH33 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av vesikokutan fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH42 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral blåshalsincision
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH50 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blåshalsplastik
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH60 
+#MUUT_PVM   1996/02/15
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för blåsextrofi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktiv operation på urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KC
+#OHJE_R 
+---
+###
+#KOODI      KCH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal rekonstruktiv operation på urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KC
+#OHJE_R 
+---
+###
+#KOODI_A    KCJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinavledande operationer på urinblåsan
+#RUOTSI     ---
+#ENGL       Urinary diversion from bladder
+###
+#KOODI      KCJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystostomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar även byte av cystostomikateter
+#OHJE_R 
+---
+###
+#KOODI      KCJ10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystoenterocutaneostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCJ20 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinent kutan cystoenterstomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCJ96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan urinavledande operation på urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCJ
+#OHJE_R 
+---
+###
+#KOODI_A    KCT
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Krossning av blåskonkrement med extrakorporeal stötvågslitotripsi (ESVL)
+#RUOTSI     ---
+#ENGL       Extracorporeal fragmentation of calculi of bladder
+###
+#KOODI      KCT00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extrakorporeal stötvågslitotripsi av blåssten (ESVL)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCV
+#MUUT_PVM   1995/10/08
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse operationer på urinblåsan
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on bladder
+###
+#KOODI      KCV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral blåsdilatation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystolys
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KCV22 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral blåsevakuering vid blödning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Perkutan punktion av urinblåsan, cystofix, se TKC10
+#OHJE_R 
+---
+###
+#KOODI      KCV31 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrisk stimulering av blåsan vid inkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KCW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på urinblåsan
+#RUOTSI     ---
+#ENGL       Other operations on bladder
+###
+#KOODI      KCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KCW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk operation på urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KCW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal operation på urinblåsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KCX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    KD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på uretra
+#RUOTSI     ---
+#ENGL       Urethra
+###
+#KOODI      KD001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Pulsmätning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Manuell mätning av hjärtfrekvens och rytm. ICF b410
+#OHJE_R 
+---
+###
+#KOODI      KD002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Manuell undersökning vid misstanke om djup ventrombos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Palpation och forcerad dorsalextension i fotled.  ICF b415
+#OHJE_R 
+---
+###
+#KOODI      KD003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av blodkärlsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fysisk undersökning av perifer cirkulation, arteriellt och/eller venöst blodflöde. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      KD004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Blodtrycksmätning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Mätning av blodtryck med blodtrycksmanschett. ICF b420
+#OHJE_R 
+---
+###
+#KOODI      KD005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av ortostatism
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av ortostatiska besvär vid t ex lägesändringar. ICF b420
+#OHJE_R 
+---
+###
+#KOODI      KD006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Ödemmätning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Mätning av svullnad med måttband eller andra apparater samt bedömning av behov av strumpor eller lindning. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      KD007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av andningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av rörlighet, andningsdjup, andningsmuskelfunktion och andningsmönster samt hur andningen integreras i kroppsmedvetandet och aktiviteter i det dagliga livet. ICF b440, b445
+#OHJE_R 
+---
+###
+#KOODI      KD008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hostfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av hostförmåga. ICF b450
+#OHJE_R 
+---
+###
+#KOODI      KD009 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av tolerans för fysisk ansträngning och uthållighet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av kondition, uthållighet och tolerans för fysiskt arbete med olika metoder och bedömningsinstrument. ICF b455
+#OHJE_R 
+---
+###
+#KOODI      KDA00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDB00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Uretrektomi
+#RUOTSI     ---
+#ENGL       Total excision of urethra
+###
+#KOODI      KDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretrektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delresektion av uretra
+#RUOTSI     ---
+#ENGL       Partial excision of urethra and destruction of tumour of urethra
+###
+#KOODI      KDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av uretradivertikel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral resektion eller destruktion av lokal förändring i uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive tumör, kondylom, karunkel
+#OHJE_R 
+---
+###
+#KOODI      KDD52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral resektion av uretravalvel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av uretra med rekonstruktion med lambå eller transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exstirpation eller destruktion av lokal förändring i uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDD
+#OHJE_R 
+---
+###
+#KOODI      KDD98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transuretral exstirpation eller destruktion av lokal förändring i uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDD
+#OHJE_R 
+---
+###
+#KOODI_A    KDE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av konkrement eller främmande kropp från uretra
+#RUOTSI     ---
+#ENGL       Removal of calculus or foreign body from urethra
+###
+#KOODI      KDE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretrolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral uretrolitektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av främmande kropp från uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral extraktion av främmande kropp från uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDE96 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exstirpation av främmande kropp från uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDE
+#OHJE_R 
+---
+###
+#KOODI      KDE98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transuretral extraktion av främmande kropp eller konkrement från uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDE
+#OHJE_R 
+---
+###
+#KOODI_A    KDG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på uretra och blåshals vid inkontinens hos kvinna
+#RUOTSI     ---
+#ENGL       Operations on female urethra and bladder neck for urinary incontinence
+###
+#KOODI      KDG10 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominovaginal suspension av blåshalsen
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Abdominal kolposuspension
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk kolposuspension
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suprapubisk uretrocystopexi med slynga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG31 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk uretrocystopexi med slynga
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suprapubisk uretrocystopexi med sutur, klammer eller vävnadslim
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG41 
+#MUUT_PVM   2000/01/01
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk suprapubisk uretrocystopexi med sutur, klammer eller vävnadslim
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG43 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transobturatorial uretrocystopexi med slynga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vid transvaginalt tillvägagångssätt, se LEG13
+#OHJE_R 
+---
+###
+#KOODI      KDG50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transabdominal rekonstruktion av bäckenbotten vid urininkontinens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDG60 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av justerbar expander runt blåshalsen
+#RUOTSI     ---
+#LYHENNE    Implantation av justerbar expander runt
+###
+#KOODI      KDG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på uretra eller blåshals vid inkontinens hos kvinna
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDG
+#OHJE_R 
+---
+###
+#KOODI      KDG97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk operation på uretra eller blåshals vid inkontinens hos kvinna
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDG
+#OHJE_R 
+---
+###
+#KOODI_A    KDH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer på uretra
+#RUOTSI     ---
+#ENGL       Reconstructive operations on urethra
+#OHJE_S  
+Artificiella sfinkter-operationer, se KDK
+#OHJE_R 
+---
+###
+#KOODI      KDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Meatusplastik
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive meatotomi
+#OHJE_R 
+---
+###
+#KOODI      KDH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av uretrokutan fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Slutning av uretrointestinal fistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal rekanalisering vid uretrastriktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation vid uretrastriktur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktiv operation på uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDH
+#OHJE_R 
+---
+###
+#KOODI      KDH98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk rekonstruktiv operation på uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDH
+#OHJE_R 
+---
+###
+#KOODI_A    KDJ
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Urinavledande ingrepp på uretra
+#RUOTSI     ---
+#ENGL       Urinary diversion from urethra
+###
+#KOODI      KDJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretrostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Implantation, revision och avlägsnande av konstgjord sfinkter i uretra och blåshals
+#RUOTSI     ---
+#ENGL       Artificial urethral sphincter operations
+###
+#KOODI      KDK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av artificiell sfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDK30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av artificiell sfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDK40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av artificiell sfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KDV
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på uretra
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on urethra
+###
+#KOODI      KDV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av stent i uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral uretrotomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Dilation, sonderingar av uretra, se TKD00
+#OHJE_R 
+---
+###
+#KOODI      KDV15 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral sfinkterotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV21 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parauretral injektionsbehandling
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KDV22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transluminal endoskopisk submukös uretral injektion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+T ex tefloninjektion omkring uretra vid inkontinens
+#OHJE_R 
+---
+###
+#KOODI_A    KDW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på uretra
+#RUOTSI     ---
+#ENGL       Other operations on urethra
+###
+#KOODI      KDW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KDW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transluminal endoskopisk operation på uretra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KDX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    KE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på prostata och sädesblåsor
+#RUOTSI     ---
+#ENGL       Prostate and seminal vesicles
+###
+#KOODI      KE001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av sugfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b510
+#OHJE_R 
+---
+###
+#KOODI      KE002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av sväljfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b510
+#OHJE_R 
+---
+###
+#KOODI      KE003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av matsmältningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b515
+#OHJE_R 
+---
+###
+#KOODI      KE004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av funktioner för näringsupptag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b520
+#OHJE_R 
+---
+###
+#KOODI      KE005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av avföringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b525
+#OHJE_R 
+---
+###
+#KOODI      KE006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av viktuppehållande funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b530
+#OHJE_R 
+---
+###
+#KOODI      KE007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av besvär relaterat till matsmältning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF  b535
+#OHJE_R 
+---
+###
+#KOODI      KE008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av ämnesomsättningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b540
+#OHJE_R 
+---
+###
+#KOODI      KE009 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av vätskebalans
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b545
+#OHJE_R 
+---
+###
+#KOODI      KE010 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av värmereglerande funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ingår temperaturmätning ICF b550
+#OHJE_R 
+---
+###
+#KOODI_A    KEA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration och incision av prostata och sädesblåsor
+#RUOTSI     ---
+#ENGL       Exploration and incision of prostate and seminal vesicles
+###
+#KOODI      KEA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Explorativ friläggning av prostata eller sädesblåsor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av prostata
+#RUOTSI     ---
+#ENGL       Biopsy of prostate
+###
+#KOODI      KEB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av prostata
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Punktionsbiopsi, se TKE00. Transanal ultraljudsundersökning av prostata, se XJH00
+#OHJE_R 
+---
+###
+#KOODI_A    KEC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Radikal prostatektomi (inkl vesiculae seminales)
+#RUOTSI     ---
+#ENGL       Total excision of prostate and seminal vesicles
+###
+#KOODI      KEC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Retropubisk prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEC01 
+#MUUT_PVM   2002/11/14
+#KAYTPVM    2001/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk radikal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perineal prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transsakral prostatektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KED
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delresektion m.m. av prostata vid hyperplasi
+#RUOTSI     ---
+#ENGL       Partial excision of prostate
+###
+#KOODI      KED00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Öppen adenomenukleation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral resektion av prostata
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+TUR-P
+#OHJE_R 
+---
+###
+#KOODI      KED32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral incision i prostata
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+TUIP
+#OHJE_R 
+---
+###
+#KOODI      KED42 
+#MUUT_PVM   1995/09/30
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral vaporisering av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED52 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserresektion av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED62 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral nålablation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED72 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral mikrovågsterapi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+TUMT
+#OHJE_R 
+---
+###
+#KOODI      KED80 
+#MUUT_PVM   2005/11/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan kryoterapi av prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KED96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion m.m. vid prostatism
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KED
+#OHJE_R 
+---
+###
+#KOODI      KED98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transuretral resektion m.m. vid prostatism
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KED
+#OHJE_R 
+---
+###
+#KOODI_A    KEV
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse operationer på prostata
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on prostate
+###
+#KOODI      KEV02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral koagulation vid spontan blödning från prostata
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEV22 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretroskopisk inläggning av stent i prostatiska uretra
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEV32 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av intraprostatisk stent
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KEV41 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inläggning av radioaktivt material i prostata
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Användes ej. Tillämpliga åtgärdskoder finns i avsnittet om brakyterapi i onkologiförteckningen
+#OHJE_R 
+---
+###
+#KOODI      KEV50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av sädesblåsa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KEW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på prostata och sädesblåsor
+#RUOTSI     ---
+#ENGL       Other operations on prostate and seminal vesicles
+###
+#KOODI      KEW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på prostata eller sädesblåsor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KEX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KEW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan transuretral operation på prostata
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KEX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    KF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på skrotum och skrotalinnehållet
+#RUOTSI     ---
+#ENGL       Scrotum and scrotal organs
+###
+#KOODI      KF001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av urinutsöndringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b610
+#OHJE_R 
+---
+###
+#KOODI      KF002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av urineringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av bäckenbottenmuskulatur, urineringsfrekvens och mängd samt frekvens och mängd vid läckage. ICF b620
+#OHJE_R 
+---
+###
+#KOODI      KF003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av sexuella funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b640
+#OHJE_R 
+---
+###
+#KOODI      KF004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av menstruationsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b650
+#OHJE_R 
+---
+###
+#KOODI      KF005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av fortplantningsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b660
+#OHJE_R 
+---
+###
+#KOODI_A    KFA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration av skrotum och skrotalinnehållet
+#RUOTSI     ---
+#ENGL       Exploration and incision of scrotum and scrotal organs
+###
+#KOODI      KFA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i epididymis eller vas deferens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i skrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFA50 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från skrotum eller skrotalinnehåll
+#RUOTSI     ---
+#LYHENNE    Avlägs av främm kropp fr skrotum
+###
+#KOODI      KFA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exploration av eller incision i skrotum eller skrotalinnehåll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KFA
+#OHJE_R 
+---
+###
+#KOODI_A    KFB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av testiklar, bitestiklar och sädesledare
+#RUOTSI     ---
+#ENGL       Biopsy of testis, epididymis and vas deferens
+###
+#KOODI      KFB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KFC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Totalexstirpation av testiklar och bitestiklar
+#RUOTSI     ---
+#ENGL       Total excision of testis and epididymis
+###
+#KOODI      KFC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Unilateral orkidektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Med exstirpation av epididymis
+#OHJE_R 
+---
+###
+#KOODI      KFC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral orkidektomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Med exstirpation av epididymis
+#OHJE_R 
+---
+###
+#KOODI      KFC15 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bilateral subkapsulär orkidektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC60 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epididymektomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan exstirpation av testiklar eller bitestiklar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KFC
+#OHJE_R 
+---
+###
+#KOODI_A    KFD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Delresektion av skrotala strukturer
+#RUOTSI     ---
+#ENGL       Partial excision of scrotal organs
+###
+#KOODI      KFD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD16 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av epididymis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för hydrocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD46 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion eller ligatur av vas deferens
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive steriliseringsoperation
+#OHJE_R 
+---
+###
+#KOODI      KFD50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion eller ligatur av vasa spermatica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk resektion eller ligatur av vasa spermatica
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD56 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av varikocele
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD60 
+#MUUT_PVM   1996/04/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av skrotalfistel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD63 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av skrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD70 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av lokal förändring i huden på skrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFD73 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruktion av lokal förändring i huden på skrotum
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tilläggskod för laser, kryoterapi eller annan teknik, se ZXC
+#OHJE_R 
+---
+###
+#KOODI      KFD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion av skrotalinnehåll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KFD
+#OHJE_R 
+---
+###
+#KOODI_A    KFH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva operationer på skrotum och skrotalinnehåll
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      KFH00 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Radikaloperation vid kryptorkism eller retentio testis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enkel orkidopexi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för testistorsion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive detorsion och pexi
+#OHJE_R 
+---
+###
+#KOODI      KFH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vasovasostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vasoepididymostomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av testisprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH60 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av testisprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH70 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av skrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH73 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av skrotum
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KFH96 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktiv operation på skrotum eller skrotalinnehåll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KFH
+#OHJE_R 
+---
+###
+#KOODI_A    KFW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på skrotum och skrotalinnehållet
+#RUOTSI     ---
+#ENGL       Other operations on scrotum and scrotal organs
+###
+#KOODI      KFW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på skrotum eller skrotalinnehåll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KFX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI_R    KG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på penis
+#RUOTSI     ---
+#ENGL       Penis
+###
+#KOODI      KG001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av ledrörlighet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av ledrörlighet genom aktiva och passiva rörelser samt manuella metoder. ICF b710,b720
+#OHJE_R 
+---
+###
+#KOODI      KG002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av ledstabilitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av ledstabilitet genom aktiva och passiva rörelser samt manuella metoder. ICF  b715
+#OHJE_R 
+---
+###
+#KOODI      KG003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av muskelfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av muskelstyrka och uthållighet med manuella metoder eller apparater samt av muskeltonus. ICF b730, b735, b740
+#OHJE_R 
+---
+###
+#KOODI      KG004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av reflexer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ICF b750
+#OHJE_R 
+---
+###
+#KOODI      KG005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av icke viljemässiga rörelsereaktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av posturala reaktioner såsom upprätnings-, jämvikts-, balans- och skyddsreaktioner. ICF b755
+#OHJE_R 
+---
+###
+#KOODI      KG006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av viljemässig rörelsekontroll
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av koordination, balans mellan agonister och antagonister, huvudkontroll, balans, öga-handkoordination, koncentration. ICF b760
+#OHJE_R 
+---
+###
+#KOODI      KG007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av gångmönster
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av gångmönster och löpning eller andra rörelser med hela kroppen. ICF b770
+#OHJE_R 
+---
+###
+#KOODI_A    KGA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration och incision av penis
+#RUOTSI     ---
+#ENGL       Exploration and incision of penis
+###
+#KOODI      KGA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Biopsi av penis
+#RUOTSI     ---
+#ENGL       Biopsy of penis
+###
+#KOODI      KGB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGC
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Amputation eller totalexstirpation av penis
+#RUOTSI     ---
+#ENGL       Amputation of penis
+###
+#KOODI      KGC00 
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Partiell amputation av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Total amputation av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Resektion av penis och destruktion av lokal förändring på penis
+#RUOTSI     ---
+#ENGL       Partial excision of penis and destruction of lesion of penis
+###
+#KOODI      KGD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion av lokal förändring på penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruktion av lokal förändring på penis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tilläggskod för laser, kryoterapi eller annan teknik, se ZXC
+#OHJE_R 
+---
+###
+#KOODI      KGD20 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Destruktion av lokal förändring i huden på penis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tilläggskod för laser, kryoterapi eller annan teknik, se ZXC
+#OHJE_R 
+---
+###
+#KOODI      KGD96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan resektion eller destruktion av lokal förändring på penis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KGD
+#OHJE_R 
+---
+###
+#KOODI_A    KGF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av främmande kropp från penis
+#RUOTSI     ---
+#ENGL       Removal of foreign body from penis
+###
+#KOODI      KGF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av främmande kropp från penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Rekonstruktiva ingrepp på penis
+#RUOTSI     ---
+#ENGL       Reconstructive operations on penis
+###
+#KOODI      KGH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH05 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sutur av huden på penis
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för fimos eller parafimos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inklusive circumcision, dorsalklipp, adherenslösning
+#OHJE_R 
+---
+###
+#KOODI      KGH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation för induratio penis plastica eller penisdeviation
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Resektion eller ligatur av penisven
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH33 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revaskularisering av penisartär
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anastomosoperation vid priapism
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH60 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation vid hypospadi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH70 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastikoperation vid epispadi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH80 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plastisk rekonstruktion av penishud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGH96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan rekonstruktiv operation på penis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KGH
+#OHJE_R 
+---
+###
+#KOODI_A    KGV
+#MUUT_PVM   1995/10/09
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diverse åtgärder på penis
+#RUOTSI     ---
+#ENGL       Miscellaneous operations on penis
+###
+#KOODI      KGV30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantation av erektionsprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av erektionsprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KGV50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av erektionsprotes
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KGW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på penis
+#RUOTSI     ---
+#ENGL       Other operations on penis
+###
+#KOODI      KGW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på penis
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KGX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KH001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hudens skyddande funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av hudens beskaffenhet. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      KH002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av risk för trycksår
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Riskbedömning för trycksår. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      KH003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hudens läkande funktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av sårläkning, ingår riskbedömning av abnorm ärrbildning. ICF b820
+#OHJE_R 
+---
+###
+#KOODI      KJ001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att målinriktat använda sinnesupplevelser
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kunna använda sinnesupplevelser för att uppfatta  visuella, auditiva stimuli samt stimuli som att känna, smaka, lukta. ICF  d110- d120
+#OHJE_R 
+---
+###
+#KOODI      KJ002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av grundläggande lärande
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av grundläggade lärande, att kunna härma, repetera,  lära sig läsa, skriva och räkna samt förvärva färdigheter. ICF d130- d159
+#OHJE_R 
+---
+###
+#KOODI      KJ003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att  tillämpa kunskap
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kunna vara uppmärksam, att tänka, läsa och att kunna skriva och beräkna samt lösa problem. ICF d160- d179
+#OHJE_R 
+---
+###
+#KOODI_R    KK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på retroperitoneal vävnad
+#RUOTSI     ---
+#ENGL       Retroperitoneal space
+###
+#KOODI      KK001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att företa en enstaka uppgift
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att genomföra handlingar som sammanhänger med de psykiska eller fysiska komponenterna i en enstaka uppgift såsom att påbörja en uppgift, planera tid och material. Genomföra och avsluta uppgiften. ICF d210
+#OHJE_R 
+---
+###
+#KOODI      KK002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att företa mångfaldiga uppgifter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att genomföra  enkla eller komplicerade och koordinerade handlingar som komponenter i mångfaldiga, integrerade och komplicerade uppgifter i följd eller samtidigt.   ICF d220
+#OHJE_R 
+---
+###
+#KOODI      KK003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att genomföra daglig rutin
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att genomföra enkla eller samordnade handlingar för att planera och hantera tid och energi  samt genomföra de aktiviteter som innefattas i dagliga rutiner. ICF d230
+#OHJE_R 
+---
+###
+#KOODI      KK004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att hantera stress och andra psykologiska krav
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att genomföra  enkla eller sammansatta och samordnade handlingar för att klara av de psykologiska krav som ställs för att genomföra uppgiften. Innefattar att hantera ansvarstagande, stress och kris. ICF d240
+#OHJE_R 
+---
+###
+#KOODI_A    KKA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Exploration/incision/biopsi av det retroperitoneala rummet
+#RUOTSI     ---
+#ENGL       Exploration, incision and biopsy of retroperitoneal space
+###
+#KOODI      KKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exploration av retroperitoneala rummet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA01 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan exploration av retroperitoneala rummet
+#RUOTSI     ---
+#LYHENNE    Perkutan explor av retroperitoneala rumm
+###
+#KOODI      KKA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Biopsi av retroperitoneal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KKA31 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk retroperitoneal kärllösning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KKB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision av retroperitoneal förändring
+#RUOTSI     ---
+#ENGL       Excision of lesion of retroperitoneal space
+###
+#KOODI      KKB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av retroperitoneal förändring
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KKF
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av främmande kropp från retroperitoneala rummet
+#RUOTSI     ---
+#ENGL       Removal of foreign body of retroperitoneal space
+###
+#KOODI      KKF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Exstirpation av främmande kropp från retroperitoneala rummet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    KKW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Andra operationer på retroperitoneal vävnad
+#RUOTSI     ---
+#ENGL       Other operations on retroperitoneal space
+###
+#KOODI      KKW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på retroperitoneal vävnad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KKX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KL001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att vara mottagare
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vara mottagare av verbala och icke verbala meddelanden, inklusive teckenespråk samt ta emot skrivna meddelanden. ICF d310 - d329
+#OHJE_R 
+---
+###
+#KOODI      KL002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedöming av att vara sändare
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att tala, uttrycka sig icke verbalt inklusive att meddela sig på teckenspråk samt att skriva meddelanden. ICF d330 - d349
+#OHJE_R 
+---
+###
+#KOODI      KL003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att kunna konversera och diskutera
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedöming av att kunna  konversera och diskutera med en eller flera personer.  ICF d350, d355
+#OHJE_R 
+---
+###
+#KOODI      KL004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att använda kommunikationsutrustning och tekniker
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kunna använda olika utrustningar och tekniker för kommunikation. ICF d360
+#OHJE_R 
+---
+###
+#KOODI      KM001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av lägesförändring samt bibehållande av kroppsställning.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att inta eller ändra kroppsställning och att bibehålla samma kroppsställning såsom att förbli sittande eller stående; balans. ICF d410 - d415
+#OHJE_R 
+---
+###
+#KOODI      KM002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av förflyttning.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förflyttning från en yta till en annan såsom att glida längs en bänk eller flytta sig från säng till stol utan att ändra kroppställning. ICF d420
+#OHJE_R 
+---
+###
+#KOODI      KM003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att lyfta, bära och förflytta föremål.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att lyfta upp ett föremål eller ta något från en plats till en annan såsom att lyfta en kopp eller bära ett barn från ett rum till ett annat. Ingår att sparka boll eller trampa på cykelpedaler. ICF d430 - d435
+#OHJE_R 
+---
+###
+#KOODI      KM004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att plocka upp, gripa, hantera och släppa föremål.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av koordinerade handlingar som krävs för att hantera föremål, plocka upp, behandla och släppa dem t.ex. plocka upp ett mynt från ett bord. ICFd440
+#OHJE_R 
+---
+###
+#KOODI      KM005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att använda hand och arm.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av koordinerade handlingar som krävs för att flytta föremål eller hantera dem genom att använda händer och armar t.ex. att kasta eller fånga ett föremål. ICF d445
+#OHJE_R 
+---
+###
+#KOODI      KM006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av gång.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att förflytta sig till fots längs en yta, steg för steg, där en fot alltid är i marken såsom att promenera, gå framlänges, baklänges eller i sidled, kortare eller längre sträckor, att gå runt i rum eller korridorer inom en byggnad eller kort
+#OHJE_R 
+---
+###
+#KOODI      KM007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att röra sig på olika sätt och på olika platser inom och utom hemmet.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att krypa, springa, hoppa, gå i trappa, att gå eller förflytta sig inom hemmet som mellan rum och att röra sig runt i andra människors hem, privata och offentliga byggnader. ICF d455 - d460
+#OHJE_R 
+---
+###
+#KOODI      KM008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att förflytta sig med hjälpmedel.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att köra rullstol, använda gånghjälpmedel. ICF d465
+#OHJE_R 
+---
+###
+#KOODI      KM009 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att använda transportmedel.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att använda offentliga transportmedel som buss, spårvagn, tåg. ICF d470
+#OHJE_R 
+---
+###
+#KOODI      KM010 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Förarbedömning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vara förare till olika transportmedel, tex motoriserde fordon, djurdrivna fordon. ICF d475
+#OHJE_R 
+---
+###
+#KOODI      KN001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att tvätta sig.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att tvätta och torka delar av eller hela kroppen med lämpliga metoder och material. ICF d510
+#OHJE_R 
+---
+###
+#KOODI      KN002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att vårda sin kropp.
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av skötsel av hud, tänder, hår,  naglar och könsorgan. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      KN003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att sköta sina toalettbehov
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kontrollera urinering, avföring och sköta menstruation, komma till lämplig plats och ställning samt hantering av kläder. ICF d530
+#OHJE_R 
+---
+###
+#KOODI      KN004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av på- och avklädning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av på- och avklädning av kläder och skor samt val av lämplig klädsel. ICF d540
+#OHJE_R 
+---
+###
+#KOODI      KN005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedöming av att äta och dricka
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförandet av samordnade handlingar så som att skära eller bryta maten i bitar, öppna flaskor och burkar, blanda dryck, använda bestick samt att föra mat och dryck till till munnen och att äta och dricka på ett kulturellt accepterat sätt.
+#OHJE_R 
+---
+###
+#KOODI      KN006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att äta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförandet av samordnade handlingar så som att skära eller bryta maten i bitar, öppna flaskor och burkar använda bestick samt att föra mat till till munnen och äta på ett kulturellt accepterat sätt. ICF d550
+#OHJE_R 
+---
+###
+#KOODI      KN007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att dricka
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av genomförandet av samordnade handlingar så som att öppna flaskor och burkar, blanda dryck, föra dryck tilll munnen och dricka på ett kulturellt accepterat sätt. ICF d560
+#OHJE_R 
+---
+###
+#KOODI      KN008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att sköta sin egen hälsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att kunna tillförsäkra sig fysisk bekvämlighet, hälsa och fysiskt och psykiskt välbefinnande, såsom att  upprätthålla lämplig kost och nivå av fysisk aktivitet samt undvika hälsorisker. Innefattar egenvård, att söka professionell hjälp och a
+#OHJE_R 
+---
+###
+#KOODI      KP001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att skaffa förnödenheter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att köpa, hyra, möblera och ordna ett hus, lägenhet eller annan bostad. Att välja, anskaffa och transportera alla varor och tjänster som krävs för det dagliga livet såsom mat, dryck, kläder, rengöringsmaterial, bränsle, hushållsartiklar, hus
+#OHJE_R 
+---
+###
+#KOODI      KP002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av inköp av dagligvaror
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att planera större eller mindre inköp, att ta sig till eller från affären, att välja och ta varor, betala och frakta hem varorna. ICF d6208
+#OHJE_R 
+---
+###
+#KOODI      KP003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att utföra hushållsgöromål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedöming av att planera, organisera, laga och servera enkla eller sammansatta måltider,  att hålla rent i hemmet , att rengöra kök och köksredskap, städa bostaden, förvara dagliga förnödenheter och på lämpligt sätt ta hand om avfall, samla ihop, tvätta,
+#OHJE_R 
+---
+###
+#KOODI      KP004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av matlagning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att planera, organisera, laga och servera enkla och sammansatta måltider till sig själv och andra, att göra upp en matsedel, välja ut lämpliga varor och drycker och samla ihop och bereda ingredienser till varm eller kall mat. Innefattar inte
+#OHJE_R 
+---
+###
+#KOODI      KP005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att tvätta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att tvätta kläder för hand eller i tvättmaskin och på lämpligt sätt torka dessa och efterbehandla tvätten, att samla ihop, sortera, tvätta, på lämpligt sätt torka och efterbereda tvätten, att kunna använda  hushållsapparater samt att transpo
+#OHJE_R 
+---
+###
+#KOODI      KP006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedöming av att städa bostaden
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att städa hemmet såsom att  städa upp, dammsuga, damma, sopa, skura, torka av golv, tvätta fönster och väggar, rengöra badrum och toaletter och att rengöra hemmets inventarier. ICF d6402, d6403
+#OHJE_R 
+---
+###
+#KOODI      KP007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att ta hand om hemmets föremål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att underhålla och laga hushållsföremål och andra personliga föremål innefattande bostaden och dess inventarier. Innefattar förmåga att tillverka och laga kläder, underhålla bostaden genom att måla tapetsera, underhålla och laga möbler, hush
+#OHJE_R 
+---
+###
+#KOODI      KP008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av att bistå andra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att hjälpa och vara engagerad i medlemmar av hushållet och andra i deras lärande, kommunikation, personliga vård, förflyttning inom eller utanför hemmet. ICF  d660
+#OHJE_R 
+---
+###
+#KOODI      KQ001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av kontakt med okända personer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av engagemang i tillfälliga kontakter och förbindelser med okända personer för särskilda syften såsom att fråga efter vägen eller att göra ett inköp. ICF d730
+#OHJE_R 
+---
+###
+#KOODI      KQ002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av formella relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att skapa och bibehålla specifika relationer i formella sammanhang såsom med arbetsgivare, yrkesutövande eller servicegivare, att ha kontakt med makthavare, underordnade och jämställda personer. ICF d740
+#OHJE_R 
+---
+###
+#KOODI      KQ003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av informella sociala relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att ha relationer med andra såsom otvungna relationer med människor som bor på samma ort eller med medarbetare, elever, lekkamrater och människor med likartad bakgrund eller yrke, informella relationer med vänner, grannar, bekanta, personer
+#OHJE_R 
+---
+###
+#KOODI      KQ004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av familjerelationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att skapa och bibehålla släktskapsrelationer såsom med medlemmar av kärnfamilj, utvidgad familj, foster-, adoptiv- och styvfamilj, mer avlägsna relationer såsom kusiner, sysslingar eller lagliga vårdnadshavare, föräldrabarn- och barnföräldra
+#OHJE_R 
+---
+###
+#KOODI      KQ005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av intima relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att skapa och bibehålla nära eller romantiska relationer mellan personer såsom mellan man och hustru, mellan älskande eller sexualpartner. ICF  d770
+#OHJE_R 
+---
+###
+#KOODI      KR001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Studiebedömning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömnig av att vara engagerad och utföra sådana handlingar och uppgifter  som krävs vid olika former av utbildning såsom informell-, förskole-, skol-, yrkes- och högre utbildningar. ICF d810-839
+#OHJE_R 
+---
+###
+#KOODI      KR002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Arbetsbedömning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att vara engagerad i de uppgifter och handlingar som krävs för att förbereda sig för, skaffa och bibehålla en betald anställning eller obetald sysselsättning samt att avsluta denna. Innefattar också att kunna vara engagerad i uppgifter som k
+#OHJE_R 
+---
+###
+#KOODI      KR003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av ekonomiskt liv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att engagera sig i grundläggande och komplexa ekonomiska transaktioner såsom att använda pengar för att köpa varor och tjänster eller att spara pengar, innefattar utbyte av kapital eller egendom och skapande av ekonomisk vinst eller värde, a
+#OHJE_R 
+---
+###
+#KOODI      KS001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av social förmåga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av den sociala förmågan,  att engagera sig i olika former av samhällsgemenskap såsom informella, formella och ceremoniella sammanslutningar. Innefattar engagemang i bostadsrättsföreningar, yrkesföreningar och i olika icke religösa riter som t e
+#OHJE_R 
+---
+###
+#KOODI      KS002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av rekreation och fritid
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av engagemang i lek, spel, sport, konst, kultur, hobbies, resor och umgänge, spontana och organiserade fritidsaktiviter t ex fysisk träning, nöjen, bio, teater, konstutställning, eget utövande av konsthantverk eller handarbete, att spela musiki
+#OHJE_R 
+---
+###
+#KOODI      KS003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av engagemang i religiösa och andliga frågor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av engagemang i religiösa eller andliga aktiviteter, organisationer och utövanden för självförverkligande, för att finna mening , religiöst eller andligt värde och för att etablera kontakt med en gudomlig makt som t.ex. när man går till kyrka,
+#OHJE_R 
+---
+###
+#KOODI      KT001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av behov av omgivnings-  anpassning  i det dagliga livet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av att anpassa, flytta om, ställa undan, produkter, inventarier och möbler för att möjliggöra eller underlätta att aktiviteter i det dagliga livet kan utföras på ett säkert sätt. Innefattar stödjande produkter och teknik (hjälpmedel) o
+#OHJE_R 
+---
+###
+#KOODI      KT002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov för det dagliga livet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av hjälpmedel i det dagliga livet. Innefattar allmänna och stödjande produkter och teknik för personligt bruk. I stödjande produkter innfattas t ex ortoser och enheter för omgivningskontroll. ICF e115
+#OHJE_R 
+---
+###
+#KOODI      KT003 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov för  förflyttning och transport
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av förflyttningshjälpmedel inomhus och utomhus. Innefattar allmänna och stödjande produkter och teknik för personlig förflyttning och transport inomhus och utomhus. ICF e120
+#OHJE_R 
+---
+###
+#KOODI      KT004 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov för  kommunikation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av kommunikationshjälpmedel. Innefattar allmänna och stödjande produkter och teknik för kommunikation. ICF e125
+#OHJE_R 
+---
+###
+#KOODI      KT005 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov för utbildning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av hjälpmedel i utbildningssituationen. Innefattar olika former av utbildning såsom informell-, förskole-, skol-, yrkes- och högre utbildningar. ICF e130
+#OHJE_R 
+---
+###
+#KOODI      KT006 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov för arbete
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av hjälpmedel i arbete. Innefattar allmänna och stödjande produkter och teknik för sysselsättning. ICF e135
+#OHJE_R 
+---
+###
+#KOODI      KT007 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av hjälpmedelsbehov för kultur rekreation och sport
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av behov av hjälpmedel i fritidsaktiviteter. Innefattar allmänna och stödjande produkter och teknik för kultur, rekreation, sport, relgion och andlighet. ICF e140, e145
+#OHJE_R 
+---
+###
+#KOODI      KT008 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av allmän miljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att anpassa, ny utforma produkter och teknik i allmän miljö. Innefattar design, konstruktioner byggnadsteknik och byggnadsprodukter för entreer och utgångar toaletter och förflyttningsvägar som skapats för allmänt bruk. ICF e150
+#OHJE_R 
+---
+###
+#KOODI      KT009 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning boendemiljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att anpassa, ny utforma produkter och teknik i hemmiljö. Innefattar design, konstruktioner byggnadsteknik och byggnadsprodukter för entreer och utgångar toaletter och förflyttningsvägar som skapats för privat bruk. ICF e155
+#OHJE_R 
+---
+###
+#KOODI      KT010 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av fyskisk miljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av att anpassa fysisk miljö med tanke på ljusförhållanden, ljudförhållanden, förekomst av vibrationer, luftkvalitet. ICF e240, e250, e260
+#OHJE_R 
+---
+###
+#KOODI      KT011 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av personligt stöd från omgivningen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av fysisk och emotionellt stöd som person eller djur ger. Avser vem som ger stöd och i vilken mängd. ICF e310-360
+#OHJE_R 
+---
+###
+#KOODI      KT012 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av attityder i omgivningen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förekomst av  attityder och dess påverkan på personligt beteende och socialt liv på alla nivåer från mellanmänskliga relationer till ekonomiska och lagliga strukturer. ICF e410 - e465
+#OHJE_R 
+---
+###
+#KOODI      KT013 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av service, tjänster, system och policies
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av förekomst av service, tjänster, system och policies och dess påverkan på personers genomförande av uppgifter och handlingar och möjligheter till engagemang i livssituationer. ICF e510 - e595
+#OHJE_R 
+---
+###
+#KOODI      KU001 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av behov av arbetsterapeutiska åtgärder
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens behov av arbetsterapeutiska insatser, grundat på analys av individens problem och resurser i anamnes och status.
+#OHJE_R 
+---
+###
+#KOODI      KU002 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2007/01/01
+#POISTPVM   2007/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Bedömning av behov av sjukgymnastiska åtgärder
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bedömning av individens behov av sjukgymnastiska insatser, grundat på analys av individens problem och resurser i anamnes och status.
+#OHJE_R 
+---
+###
+#KOODI_R    KW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för postoperativa komplikationer av urologisk kirurgi
+#RUOTSI     ---
+#ENGL       Reoperations in urological surgery
+###
+#KOODI      KWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWB00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWC01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE01 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perkutan endoskopisk reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWE02 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoluminal reoperation för djup blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KWW96 
+#MUUT_PVM   1996/05/24
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på urinvägar, manliga könsorgan eller retroperitoneal vävnad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KWW97 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan perkutan endoskopisk reoperation på urinvägar, manliga könsorgan eller retroperitoneal vävnad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KWW98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoluminal reoperation på urinvägar, manliga könsorgan eller retroperitoneal vävnad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Se övriga KWX (X avser annan bokstav)
+#OHJE_R 
+---
+###
+#KOODI      KXK00 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intralesionell excision av omfattande tumör i retroperitoneum (utan definierat ursprung i kapitel K, på avsnittsnivå)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXK03 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Marginell excision av omfattande tumör i retroperitoneum (utan definierat ursprung i kapitel K, på avsnittsnivå)
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      KXK06 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utvidgad excision av omfattande tumör i retroperitoneum (utan definierat ursprung i kapitel K, på avsnittsnivå)
+#RUOTSI     ---
+#LYHENNE    Utvidgad exc av omf tumör i retroperiton

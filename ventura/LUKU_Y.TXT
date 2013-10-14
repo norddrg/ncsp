@@ -1,0 +1,615 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU Y
+
+@LUVUT_S = KAPITEL Y
+
+@SUOMI_L = Elinten ja kudosten irrottaminen siirtoa varten
+
+@RUOTSI_L = Uttagning av organ för transplantationer
+
+@ENGL_L = Procurement of organs or tissue for transplantation
+
+@NOTE_LF = Sisältää irrotettujen elinten tarkastamisen ja jälkikäsittelyn
+
+@NOTE_LS = Innefattar inspektion och åtgärder efter uttagning
+
+@END_L = 
+
+@KOODI_A = YCA
+
+@NCSP_A = YCSA
+
+@SUOMI_A = Sarveiskalvon irrottaminen siirtoa varten
+
+@RUOTSI_A = Uttagningar av hornhinna för transplantation
+
+@ENGL_A = Excision of cornea for transplantation
+
+@END = 
+
+@KOODI = YCA00 
+
+@NCSP = YCSA00
+
+@SUOMI = Sarveiskalvon irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av hornhinna för transplantation
+
+@END = 
+
+@KOODI_A = YEA
+
+@NCSP_A = YESA
+
+@SUOMI_A = Kudoksen irrottaminen suusta siirtoa varten
+
+@RUOTSI_A = Uttagning av vävnad från munnen för transplantation
+
+@ENGL_A = Excision of tissue from mouth for transplantation
+
+@NOTE_RF = Luun, luukalvon tai ruston irrottaminen kohdassa YNA
+
+@NOTE_RS = Uttagning av ben eller brosk, se YNA
+
+@END = 
+
+@KOODI = YEA00 
+
+@NCSP = YESA00
+
+@SUOMI = Limakalvosiirteen irrottaminen suusta
+
+@RUOTSI = Uttackning av slämhinnetransplant från munnen
+
+@END = 
+
+@KOODI_A = YFA
+
+@NCSP_A = YFSA
+
+@SUOMI_A = Sydämen ja keuhkojen irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av hjärta/lungor för hjärt- eller hjärt-lungtransplantation
+
+@ENGL_A = Excision of organs for heart or heart and lung transplantation
+
+@END = 
+
+@KOODI = YFA00 
+
+@NCSP = YFSA00
+
+@SUOMI = Sydämen irrottaminen elinsiirtoa varten
+
+@RUOTSI = Uttagning av hjärta för transplantation
+
+@END = 
+
+@KOODI = YFA10 
+
+@NCSP = YFSA10
+
+@SUOMI = Sydämen irrottaminen  domino -siirtoa varten
+
+@RUOTSI = Uttagning av hjärta för domino-transplantation
+
+@END = 
+
+@KOODI = YFA20 
+
+@NCSP = YFSA20
+
+@SUOMI = Sydän-keuhkoblokin irrottaminen elinsiirtoa varten
+
+@RUOTSI = Uttagning av hjärt-lung-block för transplantation
+
+@END = 
+
+@KOODI = YFA50 
+
+@NCSP = YFSA50
+
+@SUOMI = Sydämen irrottaminen  homografti - siirtoa varten
+
+@RUOTSI = Uttagning av hjärta för användning som homograft
+
+@END = 
+
+@KOODI = YFA99 
+
+@NCSP = YFSA99
+
+@SUOMI = Muu toimenpide liittyen sydämen/ sydämen ja keuhkojen irrotukseen elinsiirtoa varten
+
+@RUOTSI = Andra operationer i samband med uttagning av hjärta/lungor för hjärt- eller hjärt-lungtransplantation
+
+@END = 
+
+@KOODI_A = YGA
+
+@NCSP_A = YGSA
+
+@SUOMI_A = Keuhkojen irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av lunga/lungor för transplantation
+
+@ENGL_A = Excision of lung for transplantation
+
+@END = 
+
+@KOODI = YGA00 
+
+@NCSP = YGSA00
+
+@SUOMI = Keuhkojen irrottaminen kuolleelta luovuttajalta elinsiirtoa varten
+
+@RUOTSI = Uttagning av lunga/lungor för transplantation från nekrodonator
+
+@END = 
+
+@KOODI = YGA10 
+
+@NCSP = YGSA10
+
+@SUOMI = Keuhkon irrottaminen elävältä luovuttajalta elinsiirtoa varten
+
+@RUOTSI = Uttagning av lunga för transplantation från levande donator
+
+@END = 
+
+@KOODI = YGA20 
+
+@NCSP = YGSA20
+
+@SUOMI = Keuhkonosan irrottaminen elävältä luovuttajalta elinsiirtoa varten
+
+@RUOTSI = Uttagning av lunglob/del av lunga för transplantation från levande donator
+
+@END = 
+
+@KOODI = YGA99 
+
+@NCSP = YGSA99
+
+@SUOMI = Muu toimenpide liittyen keuhkojen irrotukseen elinsiirtoa varten
+
+@RUOTSI = Andra operationer i samband med uttagning av lunga/lungor för transplantation
+
+@END = 
+
+@KOODI_A = YJA
+
+@NCSP_A = YJSA
+
+@SUOMI_A = Maksan irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av lever för transplantation
+
+@ENGL_A = Excision of liver for transplantation
+
+@END = 
+
+@KOODI = YJA00 
+
+@NCSP = YJSA00
+
+@SUOMI = Maksan osan irrottaminen elinsiirtoa varten elävältä luovuttajalta
+
+@RUOTSI = Uttagning av del av lever för transplantation från levande donator
+
+@END = 
+
+@KOODI = YJA10 
+
+@NCSP = YJSA10
+
+@SUOMI = Maksan irrottaminen elinsiirtoa varten kuolleelta luovuttajalta
+
+@RUOTSI = Uttagning av lever för transplantation från nekrodonator
+
+@NOTE_F = sisältää mahdollisen jälkikäsittelyn siirtoa varten kuten jakamisen useammalle elinsiirron saajalle.
+
+@NOTE_S = Innefattar resektion och delning av levern (till flera patienter)
+
+@END = 
+
+@KOODI_A = YJB
+
+@NCSP_A = YJSB
+
+@SUOMI_A = Ohutsuolen irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av tunntarm för transplantation
+
+@ENGL_A = Excision of small intestine for transplantation
+
+@END = 
+
+@KOODI = YJB00 
+
+@NCSP = YJSB00
+
+@SUOMI = Ohutsuolen irrottaminen elinsiirtoa varten
+
+@RUOTSI = Uttagning av tunntarm för transplantation
+
+@END = 
+
+@KOODI_A = YJC
+
+@NCSP_A = YJSC
+
+@SUOMI_A = Mahalaukun ja ohutsuolen irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av magsäck och tunntarm för transplantation
+
+@ENGL_A = Block excision of stomach and small intestine for transplantation
+
+@END = 
+
+@KOODI = YJC00 
+
+@NCSP = YJSC00
+
+@SUOMI = Mahalaukun ja ohutsuolen irrottaminen elinsiirtoa varten
+
+@RUOTSI = Uttagning av magsäck och tunntarm (en bloc) för transplantation
+
+@END = 
+
+@KOODI_A = YJD
+
+@NCSP_A = YJSD
+
+@SUOMI_A = Haiman irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av pankreas för transplantation
+
+@ENGL_A = Excision of pancreas for transplantation
+
+@END = 
+
+@KOODI = YJD00 
+
+@NCSP = YJSD00
+
+@SUOMI = Haiman osan irrottaminen saarekesolusiirtoa varten
+
+@RUOTSI = Uttagning av pankreassegment för transplantation av ö-celler
+
+@END = 
+
+@KOODI = YJD10 
+
+@NCSP = YJSD10
+
+@SUOMI = Haiman osan irrottaminen elinsiirtoa varten elävältä luovuttajalta
+
+@RUOTSI = Uttagning av del av pankreas för transplantation från levande donator
+
+@END = 
+
+@KOODI = YJD20 
+
+@NCSP = YJSD20
+
+@SUOMI = Haiman osan irrottaminen elinsiirtoa varten kuolleelta luovuttajalta
+
+@RUOTSI = Uttagning av del av pankreas för transplantation från nekrodonator
+
+@END = 
+
+@KOODI = YJD30 
+
+@NCSP = YJSD30
+
+@SUOMI = Haiman irrottaminen elinsiirtoa varten kuolleelta luovuttajalta
+
+@RUOTSI = Uttagning av hela pankreas för transplantation från nekrodonator
+
+@END = 
+
+@KOODI_A = YKA
+
+@NCSP_A = YKSA
+
+@SUOMI_A = Munuaisen irrottaminen elinsiirtoa varten
+
+@RUOTSI_A = Uttagningar av njure/njurar för transplantation
+
+@ENGL_A = Excision of kidney for transplantation
+
+@END = 
+
+@KOODI = YKA00 
+
+@NCSP = YKSA00
+
+@SUOMI = Munuaisen irrottaminen elävältä luovuttajalta
+
+@RUOTSI = Uttagning av en njure för transplantation från levande donator
+
+@END = 
+
+@KOODI = YKA01 
+
+@NCSP = YKSA01
+
+@SUOMI = Munuaisen irrottaminen elävältä luovuttajalta tähystyksessä iholta
+
+@RUOTSI = Endoskopisk uttagning av en njure för transplantation från levande donator
+
+@END = 
+
+@KOODI = YKA02 
+
+@NCSP = YKSA02
+
+@SUOMI = Munuaisten irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av båda njurarna för transplantation från nekrodonator
+
+@END = 
+
+@KOODI_A = YNA
+
+@NCSP_A = YNSA
+
+@SUOMI_A = Tukikudosten irrottaminen siirrossa käytettäväksi
+
+@RUOTSI_A = Uttagningar av muskuloskeletal vävnad för transplantation
+
+@ENGL_A = Excision of tissue from musculoskeletal system for transplantation
+
+@END = 
+
+@KOODI = YNA00 
+
+@NCSP = YNSA00
+
+@SUOMI = Hohkaluun ottaminen lantiosta luunsiirtoa varten
+
+@RUOTSI = Uttagning av spongiöst ben från bäcken för transplantation
+
+@END = 
+
+@KOODI = YNA01 
+
+@NCSP = YNSA01
+
+@SUOMI = Hohka-kortikalisluu kappaleen ottaminen lantiosta luunsiirtoa varten
+
+@RUOTSI = Uttagning av kortiko-spongiöst ben från bäcken för transplantation
+
+@END = 
+
+@KOODI = YNA02 
+
+@NCSP = YNSA02
+
+@SUOMI = Hohkaluun ottaminen muualta kuin lantiosta luunsiirtoa varten
+
+@RUOTSI = Uttagning av spongiöst ben från annan lokalisation för transplantation
+
+@END = 
+
+@KOODI = YNA03 
+
+@NCSP = YNSA03
+
+@SUOMI = Hohka-kortikalisluu kappaleen ottaminen muualta kuin lantiosta luunsiirtoa varten
+
+@RUOTSI = Uttagning av kortiko-spongiöst ben från annan lokalisation för transplantation
+
+@END = 
+
+@KOODI = YNA04 
+
+@NCSP = YNSA04
+
+@SUOMI = Koko luun irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av helt ben för transplantation
+
+@END = 
+
+@KOODI = YNA05 
+
+@NCSP = YNSA05
+
+@SUOMI = Verisuonitetun luusiirteen irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av vaskulariserat bentransplantat för transplantation
+
+@END = 
+
+@KOODI = YNA06 
+
+@NCSP = YNSA06
+
+@SUOMI = Luun ja siihen liittyvän ruston irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av ben med brosk för transplantation
+
+@END = 
+
+@KOODI = YNA09 
+
+@NCSP = YNSA09
+
+@SUOMI = Luun irrottaminen luunsiirtoa varten, ei tarkempaa määrittelyä
+
+@RUOTSI = Uttagning av annan benvävnad (UNS) för transplantation
+
+@END = 
+
+@KOODI = YNA10 
+
+@NCSP = YNSA10
+
+@SUOMI = Jänteen irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av sena för transplantation
+
+@END = 
+
+@KOODI = YNA20 
+
+@NCSP = YNSA20
+
+@SUOMI = Ruston irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av brosk för transplantation
+
+@END = 
+
+@KOODI = YNA30 
+
+@NCSP = YNSA30
+
+@SUOMI = Luukalvon irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av periost för transplantation
+
+@END = 
+
+@KOODI = YNA40 
+
+@NCSP = YNSA40
+
+@SUOMI = Lihaksen irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av muskel för transplantation
+
+@END = 
+
+@KOODI = YNA45 
+
+@NCSP = YNSA45
+
+@SUOMI = Verisuonitetun lihaksen irrottaminen siirtoa varten
+
+@RUOTSI = Uttagning av muskel för transplantation med kärlanastomos
+
+@END = 
+
+@KOODI = YNA99 
+
+@NCSP = YNSA99
+
+@SUOMI = Muun tukikudoksen irrottaminen siirtenä käytettäväksi
+
+@RUOTSI = Annan operation i samband med uttagning av muskuloskeletal vävnad för transplantation
+
+@END = 
+
+@KOODI_A = YNB
+
+@NCSP_A = YNSB
+
+@SUOMI_A = Luuytimen tai kantasolujen keruu siirtoa varten
+
+@RUOTSI_A = Uttagningar av benmärg för transplantation
+
+@ENGL_A = Excision of bone marrow for transplantation
+
+@NOTE_RF = Sisältää käsittelyn ja säilytyksen siirtoa varten sekä muut vastaavat toimenpiteet.
+
+@NOTE_RF =
+Kantasolujen siirto, katso WW3
+
+@NOTE_RS = Innefattar behandling och förvaring för transplanation samt andra liknande åtgärder.
+
+@NOTE_RS =
+Transplantation av stammceller, se WW3
+
+@END = 
+
+@KOODI = YNB00 
+
+@NCSP = YNSB00
+
+@SUOMI = Luuytimen keruu siirtoa varten
+
+@RUOTSI = Uttagning av benmärg för transplantation
+
+@END = 
+
+@KOODI = YNB10 
+
+@NCSP = YNSB10
+
+@SUOMI = Kantasolujen keruu siirtoa varten
+
+@RUOTSI = Insamling av stammceller för transplantation
+
+@END = 
+
+@KOODI_A = YPA
+
+@NCSP_A = YPSA
+
+@SUOMI_A = Verisuonien irrottaminen siirtoa varten
+
+@RUOTSI_A = Uttagningar av kärl för transplantation
+
+@ENGL_A = Excision of blood vessel for transplantation
+
+@END = 
+
+@KOODI = YPA00 
+
+@NCSP = YPSA00
+
+@SUOMI = Verisuonen irrottaminen siirteenä käytettäväksi
+
+@RUOTSI = Uttagning av kärl för transplantation
+
+@END = 
+
+@KOODI_A = YQA
+
+@NCSP_A = YQSA
+
+@SUOMI_A = Ihon irrottaminen siirtoa varten
+
+@RUOTSI_A = Excisioner av hud för transplantation
+
+@ENGL_A = Excision of skin for transplantation
+
+@NOTE_RF = Sis. irroitukset viljelyä varten
+
+@NOTE_RS = Inkl. excison för odling
+
+@END = 
+
+@KOODI = YQA00 
+
+@NCSP = YQSA00
+
+@SUOMI = Ihon irrottaminen myöhempää omakudossiirtoa varten
+
+@RUOTSI = Excision av hud för senare autotransplantation
+
+@END = 
+
+@KOODI = YQA10 
+
+@NCSP = YQSA10
+
+@SUOMI = Ihon irrottaminen vieraskudossiirtoa varten elävältä luovuttajalta
+
+@RUOTSI = Excision av hud för allotransplantation (homotranspl) från levande donator
+
+@END = 
+
+@KOODI = YQA20 
+
+@NCSP = YQSA20
+
+@SUOMI = Ihon irrottaminen siirtoa varten kuolleelta luovuttajalta
+
+@RUOTSI = Excision av hud för allotransplantation (homotranspl) från nekrodonator
+
+@END = 

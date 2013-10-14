@@ -1,0 +1,1814 @@
+
+###
+#KOODI_L    S
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Suun ja hampaiston avohoidon toimenpiteet
+#RUOTSI     Tand- och munåtgärder i öppenvård
+#ENGL       Non-surgical procedures of mouth and teeth
+#OHJE_S  
+Tähän sisältyy tavallisesti avohoidossa tehtävät suun ja hampaiston hoitotoimenpiteet.
+Kirurgiset toimenpiteet, katso luku E
+#OHJE_R 
+Här ingår de mun- och tandvårdsåtgärder som vanligen görs i öppenvård
+Kirugiska åtgärder, se kapitel E
+###
+#KOODI_R    SA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Suun ja hampaiston tutkimukset
+#RUOTSI     Undersökning av mun och tänder
+#ENGL       Examination of mouth and teeth
+#OHJE_S  
+Tutkimustoimenpiteet ovat kokonaisuuksia, joihin sisältyy aina anamneesi, diagnoosi,  hoitosuunnitelma ja kustannusarvio.
+#OHJE_R 
+Undersökningsåtgärderna bildar en helhet som alltid inkluderar anamnes, diagnos, terapiplan och kostnadsförslag.
+###
+#KOODI_A    SAA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammaslääkärin tekemä tutkimus
+#RUOTSI     Undersökning utförd av tandläkare
+#ENGL       
+#OHJE_S  
+Seulontatutkimus, katso WYA00
+Radiologiset toimenpiteet kts. Liite 1
+#OHJE_R 
+Screening: se WYA00
+Radiologiska åtgärder: se bilaga 1
+###
+#KOODI      SAA01
+#MUUT_PVM   2000/08/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun tutkimus, suppea
+#RUOTSI     Begränsad undersökning av munnen
+#LYHENNE    
+#OHJE_S  
+Esim. särkypotilaat päivystyksessä, erilaiset kontrollitKesto enintään 10 min
+#OHJE_R 
+T.ex. värkpatient vid jour, olika efterkontrollerTar högst 10 min
+###
+#KOODI      SAA02
+#MUUT_PVM   2000/08/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun perustutkimus
+#RUOTSI     Grundundersökning av munnen
+#LYHENNE    
+#OHJE_S  
+Esim. järjestelmällisessä hoidossa olevan potilaan purentaelimen määräaikaistutkimusKesto enintään 20 min
+#OHJE_R 
+T.ex. regelbunden undersökning av tuggorganet på patient i systematisk vård
+Tar högst 20 min.
+###
+#KOODI      SAA03
+#MUUT_PVM   2000/08/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun tutkimus, laaja
+#RUOTSI     Omfattande undersökning av munnen
+#LYHENNE    
+#OHJE_S  
+Esim. uuden potilaan tutkimus sisältäen purentaelimen, hampaiston ja liuskakojetutkimuksen
+Kesto enintään 30 min
+#OHJE_R 
+T.ex undersökning av tuggorganet på ny patient
+Tar högst 30 min
+Esim. uuden potilaan tutkimus sisältäen purentaelimen, hampaiston ja liuskakojetutkimuksen
+Kesto enintään 30 min
+###
+#KOODI      SAA04
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun erityistutkimus
+#RUOTSI     Special undersökning av munnen
+#LYHENNE    Suun erityistutkimus
+#OHJE_S  
+Sisältää kliinisen tutkimuksen ja perustuu lisäksi röntgen- ja laboratoriotutkimuksiin ja/tai kipsimalleihin
+Kesto yli 30 min
+Huom! WZC10
+#OHJE_R 
+Omfattar klinisk undersökning samt röntgenbilder och laboratorieprov och/eller gipsmodeller.Tar över 30 min.
+###
+#KOODI_R    SB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Täydentävät tutkimukset
+#RUOTSI     Kompletterande undersökningar
+#ENGL       
+###
+#KOODI      SB1LA
+#MUUT_PVM   2001/01/17
+#KAYTPVM    2000/01/01
+#POISTPVM   2001/01/17
+#POISTETTU
+#VANHA                
+#SUOMI      Hammaskuvaus kliinisen tutkimuksen yhteydessä (ei erillistä lausuntoa)
+#RUOTSI     Tandröntgen i samband med klinisk undersökning (utan separat utlåtande)
+#LYHENNE    Hammaskuv. tutk.yht.
+###
+#KOODI_A    SBA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Vastaanotolla suoritettavat sylkitestit
+#RUOTSI     Salivtest gjorda på mottagningen
+#ENGL       
+###
+#KOODI      SBA00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mikrobiologinen sylkitesti
+#RUOTSI     Mikrobiologiskt salivtest
+#LYHENNE    
+#OHJE_S  
+Sisältää sylkinäytteen oton, eritysmittauksen, puskurikapasiteetin määrityksen, näytteen viljely ja tuloksen tulkinta
+Laktobasillitesti, mutans streptokokkitesti,  hiivasienitesti tai muu vastaava
+#OHJE_R 
+Innehåller salivprov, mätning av sekretion och bufferkapacitet, inkubation och avläsning av resultat
+Laktobacilltest, Streptococcus Mutans-test, svamptest eller motsvarande
+###
+#KOODI      SBA10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Syljen eritysnopeuden määritys
+#RUOTSI     Bestämning av salivavsöndringshastighet
+#LYHENNE    
+#OHJE_S  
+ei sisällä muita määrityksiä
+#OHJE_R 
+Innehåller inte andra mätningar
+###
+#KOODI      SBA20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puskurikapasiteetin määritys
+#RUOTSI     Bestämning av buffertkapacitet
+#LYHENNE    
+###
+#KOODI_A    SBB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut suun ja hampaiston tutkimukset
+#RUOTSI     Annan undersökning av mun och tänder
+#ENGL       
+###
+#KOODI      SBB00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun ja hampaiston valokuvaus
+#RUOTSI     Fotografering av mun och tänder
+#LYHENNE    Suun ja hampaiston valokuvaus
+#OHJE_S  
+Kliinisen löydöksen nykytilan dokumentointi valokuvaamallaKirjataan kerran käyntikerralla
+#OHJE_R 
+Fotografisk dokumentering av nuläget för kliniskt fynd
+Antecknas en gång per besök
+###
+#KOODI      SBB10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaiston jäljennökset ja kipsimallit
+#RUOTSI     Avtryck och gipsmodeller av tänderna
+#LYHENNE    Hampaiston jäljennökset ja kipsimallit
+#OHJE_S  
+Sisältää oikomishoidossa käytettävät mallit
+#OHJE_R 
+Innefattar modeller för ortodontiskt vård
+###
+#KOODI      SBB20
+#MUUT_PVM   2000/08/14
+#KAYTPVM    2000/08/20
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammasröntgenkuva  hoitokäynnin yhteydessä
+#RUOTSI     Tandröntgen under vårdbesöket
+#LYHENNE    Hammaskuva hoidon yhteydessä
+#OHJE_S  
+Sisältää 1-3 kuvaa
+Bite-wing -kuva
+Juurihoidon kontrollikuva
+#OHJE_R 
+Inkl. 1-3 bilder
+Bite-wing -bild
+kontrollbild vid rotbehandling
+###
+#KOODI_R    SC
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Ehkäisevä hammashoito
+#RUOTSI     Preventiv tandvård
+#ENGL       
+#OHJE_S  
+Ehkäisevään hoitoon ei luokitella kiinnityskudossairauksien hoitoa kuten esimerkiksi subgingivaalisen hammaskiven poistoa (katso SD).
+Merkitään sen alueen mukaan, mille ehkäisevä toimenpide kohdistuu ensisijaisesti
+#OHJE_R 
+Vård av stödjevävnadssjukdomar, såsom avlägsnande av subgingival tandsten, klassificeras inte som preventiv vård (se SD).
+Kod bör väljas eligt det område som primärt berörs av det preventiva åtgärdet.
+###
+#KOODI_A    SCA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammashoitoon liittyvä ravintoanalyysi ja neuvonta
+#RUOTSI     Näringsanalys och rådgivning i anslutning till tandvård
+#ENGL       
+#OHJE_S  
+Edellyttää selostusta potilasasiakirjaan
+#OHJE_R 
+Förutsätter redogörelse i patientjournal
+###
+#KOODI      SCA01
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammashoitoon liittyvä ravintoanalyysi ja neuvonta, suppea
+#RUOTSI     Begränsad näringsanalys och rådgivning i anslutning till tandvård
+#LYHENNE    Suppea hammash. liitt ravintoananalyysi
+#OHJE_S  
+Kesto vähintään 10 min
+#OHJE_R 
+Tar minst 10 min.
+###
+#KOODI      SCA02
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammashoitoon liittyvä ravintoanalyysi ja neuvonta
+#RUOTSI     Näringsanalys och rådgivning i anslutning till tandvård
+#LYHENNE    Hammashoitoon liittyvä ravintoanalyysi
+#OHJE_S  
+Kesto vähintään 20 min
+#OHJE_R 
+Tar minst 20 min.
+###
+#KOODI_A    SCB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Kotihoidon opetus
+#RUOTSI     Undervisning i hemvård
+#ENGL       
+#OHJE_S  
+Edellyttää selostusta potilasasiakirjaan
+#OHJE_R 
+Förutsätter redogörelse i patientjournal
+###
+#KOODI      SCB01
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun kotihoidon opetus, suppea
+#RUOTSI     Begränsad undervisning i hemvård av munnen
+#LYHENNE    Suppea suun kotihoidon opetus
+#OHJE_S  
+Kesto vähintään 10 min
+#OHJE_R 
+Tar minst 10 min.
+###
+#KOODI      SCB02
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun kotihoidon opetus
+#RUOTSI     Undervisning i hemvård av munnen
+#LYHENNE    Suun kotihoidon opetus
+#OHJE_S  
+Kesto vähintään 20 min
+#OHJE_R 
+Tar minst 20 min.
+###
+#KOODI_A    SCC
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Fluori tai muu vastaava käsittely
+#RUOTSI     Fluorbehandling eller motsvarande
+#ENGL       
+###
+#KOODI      SCC01
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fluori tai muu vastaava käsittely, suppea
+#RUOTSI     Fluorbehandling av munnen eller motsvarande, begränsad
+#LYHENNE    Suun suppea fluori tai muu vastaava käs
+#OHJE_S  
+Kesto vähintään 10 min
+Sisältää pastapuhdistuksen
+#OHJE_R 
+Tar minst 10 min.
+Inkluderar rengöring med pasta
+###
+#KOODI      SCC02
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun fluori tai muu vastaava käsittely
+#RUOTSI     Fluorbehandling av munnen eller motsvarande
+#LYHENNE    Suun fluori tai muu vastaava käsittely
+#OHJE_S  
+Kesto vähintään 20 min
+#OHJE_R 
+Tar minst 20 min.
+###
+#KOODI_A    SCD
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Plakin ja näkyvän hammaskiven poisto
+#RUOTSI     Borttagning av plack och synlig tandsten
+#ENGL       
+###
+#KOODI      SCD01
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plakin ja/tai näkyvän hammaskiven poisto, suppea
+#RUOTSI     Begränsad avlägsnande av plack och synlig tandsten
+#LYHENNE    Suppea plakin ja näkyvän hammaskiven poi
+#OHJE_S  
+Kesto vähintään 10 min
+#OHJE_R 
+Tar minst 10 min.
+###
+#KOODI      SCD02
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Plakin ja/tai näkyvän hammaskiven poisto
+#RUOTSI     Avlägsnande av plack och synlig tandsten
+#LYHENNE    Plakin ja näkyvän hammaskiven poisto
+#OHJE_S  
+Kesto vähintään 20 min
+#OHJE_R 
+Tar minst 20  min.
+###
+#KOODI_A    SCE
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaiden pinnoitus
+#RUOTSI     Fissurförsegling
+#ENGL       
+#OHJE_S  
+Pinnoituksella tarkoitetaan ehjän, vastapuhjenneen hampaan uurteiden pinnoittamista. Jos pinnoituksen yhteydessä on kuitenkin poistettu hampaan kovakudosta ja se on korvattu jollakin täyteaineella, käytetään paikkauskoodia SFA00.
+#OHJE_R 
+Med fissurförsegling avses försegling av fissurerna på en hel, nyerupterad tand.  Om ingreppet även innefattar avlägsnande av hårdvävnad som ersätts med en fyllning användes fyllningskod SFA00.
+###
+#KOODI      SCE00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan pinnoitus
+#RUOTSI     Fissurförsegling av tand
+#LYHENNE    Hampaan pinnoitus
+#OHJE_S  
+Käyntikerralla tilastoidaan korkeintaan yksi toimenpide leuanpuoliskoa kohden
+#OHJE_R 
+Koden används högst en gång per besök och käkhalva
+###
+#KOODI_R    SD
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Ikenen ja hampaan kiinnityskudossairauksien hoito
+#RUOTSI     Vård av tandkött och tändernas stödjevävnader
+#ENGL       
+#OHJE_S  
+Punktion och punktionsbiopsi, se TE
+#OHJE_R 
+---
+###
+#KOODI_A    SDA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Parodontologinen hoito
+#RUOTSI     Parodontologisk vård
+#ENGL       
+#OHJE_S  
+Kaikki samalla käyntikerralla tehty kiinnityskudoksiin kohdistunut  hoito ilmaistaan yhdellä koodilla
+#OHJE_R 
+All vård av stödjevävnader som utförs under ett besök noteras under en kod.
+###
+#KOODI      SDA01
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parodontologinen hoito, suppea
+#RUOTSI     Parodontologisk vård, begränsad
+#LYHENNE    
+#OHJE_S  
+Esim. vähäisen hammaskiven ja/tai plakin ientaskuista käyntikerralta
+Kesto enintään 10 min
+#OHJE_R 
+T.ex. avlägsnande av mindre mängd tandsten och/eller plack från tandköttsfickor, per besök
+Tar högst 10 min.
+###
+#KOODI      SDA02
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parodontologinen hoito
+#RUOTSI     Parodontologisk vård
+#LYHENNE    
+#OHJE_S  
+Esim. hammaskiven poisto ja ientaskujen hoito käyntikerralta
+Kesto enintään 20 min
+#OHJE_R 
+T.ex. avlägsnande av tandsten och behandling av tandköttsfickor, per besök
+Tar högst 20 min.
+###
+#KOODI      SDA03
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parodontologinen hoito, vaativa
+#RUOTSI     Parodontologisk vård, krävande
+#LYHENNE    
+#OHJE_S  
+Esim. kyretointi tai syvien ientaskujen hoitoKesto enintään 30 min
+#OHJE_R 
+T.ex. kyrettage eller behandling av djupa tandköttsfickorTar högst 30 min.
+###
+#KOODI      SDA04
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parodontologinen hoito, erittäin vaativa
+#RUOTSI     Parodontologisk vård, mycket krävande
+#LYHENNE    
+#OHJE_S  
+Esim laaja ja vaativa kyretointi, hammaskiven poisto, syventyneiden ientaskujen hoito tai parodontologinen kiskotus
+Kesto enintään 45 min
+#OHJE_R 
+T.ex. omfattande och krävande kyrettage, avlägsnande av tandsten, behandling av fördjupade tandköttsfickor eller parodontologisk fixering
+Tar högst  45 min.
+###
+#KOODI      SDA05
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parodontologinen hoito, erittäin vaativa ja pitkäkestoinen
+#RUOTSI     Parodontologisk vård, mycket krävande, långvarig
+#LYHENNE    Parodontol. hoito, er. vaativa, pitkäkes
+#OHJE_S  
+Kesto vähintään 45 min
+#OHJE_R 
+Tar över 45 min
+###
+#KOODI_R    SF
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikkaushoidot
+#RUOTSI     Fyllningsterapi
+#ENGL       
+#OHJE_S  
+Paikkaushoidon toimenpiteeseen sisältyy vanhan täytteen purkaminen, kaviteetin valmistus, eristyksen ja alustäytteen laittaminen, valmiin täytteen viimeistely ja kiillotus. Paikkaushoidon toimenpiteet ovat hammaspintakohtaisia. Yhdessä hampaassa on näissä 
+toimenpiteissä viisi hammaspintaa.
+#OHJE_R 
+I en fyllningsåtgärd ingår avlägsnandet av gammal fyllning, preparering av kaviteten, isolering och underfyllning och finisering av färdiga fyllningen
+Fyllningåtgärderna är tandytsrelaterade
+En tand har vid dessa åtgärder fem tandytor
+###
+#KOODI_A    SFA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikkaushoito suoralla menetelmällä
+#RUOTSI     Direkt fyllningsterapi
+#ENGL       
+###
+#KOODI      SFA00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pieni täyte
+#RUOTSI     Liten fyllning
+#LYHENNE    
+#OHJE_S  
+Pieni korjaus tai lisäysKäytetään myöskin silloin, kun pinnoite ulottuu hammasluuhun (kts. Ehkäisevä hammashoito SCE)
+#OHJE_R 
+Liten reparation eller litet tilläggAnvändes också då fissurförsegling når in till dentinet (se Preventiv tandvård SCE)
+###
+#KOODI      SFA10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhden pinnan täyte
+#RUOTSI     Fyllning på en yta
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan yhdestä pinnastaJos samalle pinnalle tehdään saman hoitojakson aikana useampia täytteitä, merkitään koodi vain kerran
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av en tandytaOm flera fyllningar görs på samma yta under samma behandling antecknas koden bara en gång.
+###
+#KOODI      SFA20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kahden pinnan täyte
+#RUOTSI     Fyllning på två ytor
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan kahdesta hampaan pinnasta
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av två tandytor     
+###
+#KOODI      SFA30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolmen tai useamman pinnan täyte
+#RUOTSI     Fyllning på tre eller flera ytor
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan kolmesta hampaan pinnasta
+Sisältää väli- ja poskihampaaseen tunnelipreparoinnilla tehdyn täytteen
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av tre tandytorInnefattar fyllning gjord med tunnelpreparation i molar eller premolar
+###
+#KOODI      SFA40
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terä tai kruunu
+#RUOTSI     Krona
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan ainakin neljästä hampaan pinnasta
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av åtminstone fyra tandytor
+###
+#KOODI_A    SFB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikkaushoito epäsuoralla menetelmällä
+#RUOTSI     Indirekt fyllningsterapi
+#ENGL       
+#OHJE_S  
+Vähintään kaksi käyntikertaa edellyttäviä toimenpiteitä, kirjataan ja laskutetaan vain kerran.
+#OHJE_R 
+---
+###
+#KOODI      SFB10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun ulkopuolella valmistettu yhden pinnan täyte
+#RUOTSI     Fyllning på en yta, tillverkad utanför munnen
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan hampaan yhdestä pinnasta
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av en tandyta
+###
+#KOODI      SFB20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun ulkopuolella valmistettu kahden pinnan täyte
+#RUOTSI     Fyllning på två ytor, tillverkad utanför munnen
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan hampaan kahdesta pinnasta
+Sisältää etuhampaan fasadin, joka ei ulotu hampaan kärjen yli
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av två tandytorInnefattar framtandsfasader som inte når över incisalkanten
+###
+#KOODI      SFB30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun ulkopuolella valmistettu kolmen pinnan täyte
+#RUOTSI     Fyllning på tre ytor, tillverkad utanför munnen
+#LYHENNE    
+#OHJE_S  
+Täyte korvaa huomattavan osan hampaan kolmesta pinnasta
+Sisältää etuhampaan fasadin, joka ulottuu hampaan kärjen yli
+#OHJE_R 
+Fyllningen ersätter en avsevärd del av tre tandytorInnefattar framtandsfasader som når över incisalkanten
+###
+#KOODI_A    SFC
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Paikkaushoidon tukitoimenpiteet
+#RUOTSI     Underfyllning
+#ENGL       
+###
+#KOODI      SFC00
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alustäytepilari
+#RUOTSI     Pelare av fyllningsmaterial
+#LYHENNE    Alustäytepilari
+#OHJE_S  
+Toimenpide liittyy kruunun tai terän valmistukseen
+#OHJE_R 
+Åtgärden görs i anslutning till kronterapi
+###
+#KOODI      SFC01
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Paikkaushoidon tukitoimenpide
+#RUOTSI     Stödåtgärd för fyllningsterapi
+#LYHENNE    Muu paikkaushoidon tukitoimenpide
+#OHJE_S  
+Kesto enintään 10 min
+Sisältää esim. parapulpaalinastan asettamisen tai alustäytteen valmistamisen erillisellä käyntikerralla
+#OHJE_R 
+Tar högst 10 min.
+Innehåller t.ex. användning av parapulpal stift eller fyllning vid ett separat besök
+###
+#KOODI      SFC92
+#MUUT_PVM   1999/12/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu vaativa paikkaushoidon tukitoimenpide
+#RUOTSI     Annan krävnande stödåtgärd för fyllningsterapi
+#LYHENNE    Muu vaativa paikkaushoidon tukitoimenpid
+#OHJE_S  
+Kesto vähintään 10 min
+#OHJE_R 
+---
+###
+#KOODI_R    SG
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaan juurenhoito
+#RUOTSI     Rotbehandling av tand
+#ENGL       
+#OHJE_S  
+Toimenpiteet ovat aikaperusteisiä ja hammaskohtaisia
+#OHJE_R 
+Åtgärder är tidsbaserade och antecknas per tand
+###
+#KOODI_A    SGA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaan juurikanavien avaus ja laajennus
+#RUOTSI     Preparation och expandering av rotkanaler
+#ENGL       
+#OHJE_S  
+Sisältää mahdollisen lääkehoidon
+#OHJE_R 
+Inkluderar eventuell medicinering
+###
+#KOODI      SGA02
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan juurikanavien avaus ja laajennus
+#RUOTSI     Upprensning och preparation av rotkanaler
+#LYHENNE    Hampaan juurikanavien avaus ja laajennus
+#OHJE_S  
+Kesto enintään 20 min
+1-kanavaisen hampaan juurihoito kuuluu usein tähän ryhmään
+#OHJE_R 
+Tar högst 20 min,
+Hit hör ofta preparation av tand med en rotkanal
+###
+#KOODI      SGA03
+#MUUT_PVM   1999/12/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan juurikanavien avaus ja laajennus, vaativa
+#RUOTSI     Krävande upprensning och preparation av rotkanaler
+#LYHENNE    Hampaan juurik avaus ja laaj, vaativa
+#OHJE_S  
+Kesto enintään 30 min
+2-kanavaisen hampaan juurihoito kuuluu usein tähän ryhmään
+#OHJE_R 
+Tar högst 30 min.
+Hit hör ofta preparation av tand med två rotkanaler
+###
+#KOODI      SGA04
+#MUUT_PVM   1999/12/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan juurikanavien avaus ja laajennus, erittäin vaativa
+#RUOTSI     Mycket krävande upprensning och preparation av rotkanaler
+#LYHENNE    
+#OHJE_S  
+Kesto enintään 45 min
+3-kanavaisen hampaan juurihoito kuuluu usein tähän ryhmään
+#OHJE_R 
+Tar högst 45 min.
+Hit hör oftas preparation av tand med tre rotkanaler
+###
+#KOODI      SGA05
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan juurikanavien  avaus ja laajennus, erittäin vaativa ja pitkäkestoinen
+#RUOTSI     Mycket krävande upprensning och preparation av rotkanaler, långvarig
+#LYHENNE    Hamp juurikan avaus & laaj, pitkäkest
+#OHJE_S  
+Kesto yli 45 min
+#OHJE_R 
+Tar över 45 min
+###
+#KOODI_A    SGB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hampaan juurentäyttö
+#RUOTSI     Fyllning av rotkanaler
+#ENGL       
+###
+#KOODI      SGB00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Osittainen hammasytimen poisto (amputaatio)
+#RUOTSI     Partiell exstirpation av pulpan (amputation)
+#LYHENNE    
+#OHJE_S  
+Hammaspulpan  osittainen poisto ja pulpaontelon täyttäminen
+#OHJE_R 
+Partiell exstirpation och fyllning av pulpacavum
+###
+#KOODI      SGB10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan juurentäyttö, 1-juurikanavainen hammas
+#RUOTSI     Rotfyllning, tand med en rotkanal
+#LYHENNE    
+###
+#KOODI      SGB20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaan juurentäyttö, 2-juurikanavainen hammas
+#RUOTSI     Rotfyllning, tand med två rotkanaler
+#LYHENNE    
+###
+#KOODI      SGB30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu vaativa juurentäyttö
+#RUOTSI     Annan krävande rotfyllning
+#LYHENNE    
+#OHJE_S  
+Sisältää 3- tai useampijuurikanavaisen hampaan juurentäytön
+#OHJE_R 
+Innefattar rotfyllning av tand med tre eller flera rotkanaler
+###
+#KOODI_A    SGC
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut juurenhoitotoimenpiteet
+#RUOTSI     Övriga rotbehandlingsåtgärder
+#ENGL       
+###
+#KOODI      SGC00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Juurikanavien lääkehoito
+#RUOTSI     Lokal medicinering av rotkanaler
+#LYHENNE    
+#OHJE_S  
+Aikaisemmin avattujen juurikanavien lääkehoito erillisellä käynnillä
+#OHJE_R 
+Behandling av tidigare preparerade rotkanaler vid separat besök
+###
+#KOODI      SGC10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammasytimen (pulpan) kattaminen
+#RUOTSI     Överkappning av pulpan
+#LYHENNE    
+#OHJE_S  
+Pulpan kattamistoimenpide erillisellä käynnillä
+Sisältää mahdollisen väliaikaisen täytteen
+#OHJE_R 
+Överkappning av pulpan vid separat besök
+Inkluderar eventuell provisorisk fyllning
+###
+#KOODI_R    SH
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Purentafysiologia
+#RUOTSI     Bettfysiologi
+#ENGL       
+#OHJE_S  
+Purentafysiologinen hoito edellyttää diagnosoitua toimintahäiriötä, purennan sairautta tai vammaa. Tavanomainen kontrolli muun hammashoidon yhteydessä ei ole tässä tarkoitettua purentafysiologista hoitoa.
+#OHJE_R 
+Bettfysiologisk behandling förutsätter en diagnostiserad funktionsstörning, bettanomali eller skada.  En normal kontroll i samband med annan tandvård utgör inte sådan bettfysiologisk vård som här avses.
+###
+#KOODI_A    SHA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Purentafysiologinen hoitokäynti
+#RUOTSI     Bettfysiologisk behandling
+#ENGL       
+#OHJE_S  
+Kaikki yhdellä käyntikerralla suoritetut purentafysiologiset toimenpiteet, joita ei ole muualla erikseen luokiteltu, ilmaistaan yhdellä koodilla
+#OHJE_R 
+Alla  de bettfysiologiska åtgärder som utförts vid samma besök, och som inte har en egen kod i ett annat sammanhang, betecknas med en enda kod.
+###
+#KOODI      SHA01
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Purentafysiologinen hoitokäynti, suppea
+#RUOTSI     Begränsad bettfysiologisk behandling
+#LYHENNE    
+#OHJE_S  
+Kesto enintään 10 min
+#OHJE_R 
+Tar högst 10 min.
+###
+#KOODI      SHA02
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Purentafysiologinen hoitokäynti
+#RUOTSI     Bettfysiologisk behandling
+#LYHENNE    
+#OHJE_S  
+Kesto enintään 20 min
+#OHJE_R 
+Tar högst 20 min.
+###
+#KOODI      SHA03
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Purentafysiologinen hoitokäynti, vaativa
+#RUOTSI     Krävande bettfysiologisk behandling
+#LYHENNE    
+#OHJE_S  
+Kesto enintään 30 min
+#OHJE_R 
+Tar högst 30 min.
+###
+#KOODI      SHA04
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Purentafysiologinen hoitokäynti, erittäin vaativa
+#RUOTSI     Mycket krävande bettfysiologisk behandling
+#LYHENNE    
+#OHJE_S  
+Kesto yli 30 min
+#OHJE_R 
+Tar över 30 min.
+###
+#KOODI_A    SHB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Purentakisko
+#RUOTSI     Bettskena
+#ENGL       
+###
+#KOODI      SHB00
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Purentakiskon valmistus ja suuhun sovitus
+#RUOTSI     Tillverkning och inprovning av bettskena
+#LYHENNE    
+#OHJE_S  
+Toimenpide on hoitokokonaisuus, joka käsittää purentakiskon valmistuksen jäljennöksineen ja käyttöohjeineen
+Sisältää unianeakiskon
+Leukanivelen sijoiltaan menon reponointi kts. TED00
+#OHJE_R 
+Åtgärden är en helhet som innefattar hela tillverkningen av en bettskena inklusive avtryck och patienthandledning
+Innefattar uniapneskena.
+Reponering av luxerad käkled se TED00
+###
+#KOODI_R    SJ
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Oikomishoito
+#RUOTSI     Ortodontisk vård
+#ENGL       
+###
+#KOODI_A    SJA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Oikomishoidon suunnittelu
+#RUOTSI     Planering av ortodontisk vård
+#ENGL       
+#OHJE_S  
+Tähän sisältyy oikomiskojeen suunnittelu kirjallisine hoitosuunnitelmineen tai muu vastaava toimenpide
+#OHJE_R 
+---
+###
+#KOODI      SJA01
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oikomishoidon tarpeen arviointi
+#RUOTSI     Uppskattning av behov av ortodontisk vård
+#LYHENNE    Oikomishoidon tarpeen arviointi
+#OHJE_S  
+Hammaslääkärin tekemä seulontatutkimus
+#OHJE_R 
+---
+###
+#KOODI      SJA02
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oikomishoidon työsuunnittelu
+#RUOTSI     Planering av ortodontisk apparatur
+#LYHENNE    Oikomishoidon työsuunnittelu
+#OHJE_S  
+Enintään 20 min.
+#OHJE_R 
+Högst 20 min.
+###
+#KOODI      SJA03
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa oikomishoidon työsuunnittelu
+#RUOTSI     Krävande planering av ortodontisk apparatur
+#LYHENNE    Vaativa oikomishoidon työsuunnittelu
+#OHJE_S  
+Enintään 30 min
+#OHJE_R 
+Högst 30 min.
+###
+#KOODI      SJA04
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Erittäin vaativa oikomishoidon työsuunnittelu
+#RUOTSI     Mycket krävande planering av ortodontisk apparatur
+#LYHENNE    
+#OHJE_S  
+Yli 30 min
+#OHJE_R 
+Över 30 min.
+###
+#KOODI_A    SJB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Oikomishoito irtokojeilla
+#RUOTSI     Ortodontisk vård med löstagbar apparatur
+#ENGL       
+###
+#KOODI      SJB00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Irtokojeen sovitus ja käytön opetus
+#RUOTSI     Inprovning av ortodontisk apparatur samt patienthandledning
+#LYHENNE    
+###
+#KOODI      SJB30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstraoraalijärjestelyt ja käytön opetus
+#RUOTSI     Extraoral apparatur samt patienthandledning
+#LYHENNE    
+###
+#KOODI      SJB60
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Irtokojeen hionnat ja säätö
+#RUOTSI     Slipning och justering av löstagbar apparatur
+#LYHENNE    
+###
+#KOODI_A    SJC
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Oikomishoito kiinteillä kojeilla
+#RUOTSI     Ortodontisk vård med fast apparatur
+#ENGL       
+###
+#KOODI      SJC00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Etsattava tai muu vastaava kiinnike
+#RUOTSI     Bracket fäst med resin, plastcement eller motsv.
+#LYHENNE    
+###
+#KOODI      SJC10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rengaskiinnike / hammas
+#RUOTSI     Ortodontiskt band / tand
+#LYHENNE    
+###
+#KOODI      SJC20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ekstraoraalivetojärjestelyt ja käytön opetus
+#RUOTSI     Extraoralt drag och patienthandledning
+#LYHENNE    
+###
+#KOODI      SJC40
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiinteän oikomiskojeen purkaminen leukaa kohden (enintään 6 kiinnikettä)
+#RUOTSI     Uttagning av fast ortodontisk apparatur per käke (högst 6 brackets)
+#LYHENNE    
+###
+#KOODI      SJC50
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiinteän oikomiskojeen purkaminen leukaa kohden (vähintään 7 kiinnikettä)
+#RUOTSI     Uttagning av fast ortodontisk apparatur per käke (minst 7 brackets)
+#LYHENNE    
+###
+#KOODI_A    SJD
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Oikomiskojeen kaaret
+#RUOTSI     Ortodontiska bågar
+#ENGL       
+###
+#KOODI      SJD00
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiinteän oikomiskojeen kaaren irroitus ja/tai uudelleen aktivointi ja kiinnitys
+#RUOTSI     Uttagning och/eller återaktivering och fastsättning av båge på fast ortodontisk apparatur
+#LYHENNE    
+###
+#KOODI      SJD10
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiinteän oikomiskojeen kaari
+#RUOTSI     Båge till fast ortodontisk apparatur
+#LYHENNE    
+###
+#KOODI      SJD20
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muotoiltava kiinteän oikomiskojeen kaari
+#RUOTSI     Individuellt formbar båge till fast ortodontisk apparatur
+#LYHENNE    
+###
+#KOODI      SJD30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa kiinteän oikomiskojeen kaari
+#RUOTSI     Krävande båge till fast ortodontisk apparatur
+#LYHENNE    
+###
+#KOODI      SJD40
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tehdas- tai laboratoriovalmisteisen  palatinaali- tai lingualikaaren etsauskiinnitys tai sementointi
+#RUOTSI     Cementering av prefabricerad palatinal- eller lingualbåge
+#LYHENNE    
+###
+#KOODI      SJD40
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM   2000/09/14
+#POISTETTU
+#VANHA                
+#SUOMI      Erittäin vaativa kiinteän oikomiskojeen kaari
+#RUOTSI     Mycket krävande båge till fast ortodontisk apparatur
+#LYHENNE    
+###
+#KOODI      SJD50
+#MUUT_PVM   2000/09/14
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammaslääkärin tekemä palatinaali- tai lingualikaari juotoksineen
+#RUOTSI     Palatinal- eller lingualbåge tillverkad av tandläkaren, inkl. lödningar
+#LYHENNE    
+###
+#KOODI_A    SJE
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Oikomishoitoon liittyvä hionta
+#RUOTSI     Slipning i samband med ortodontisk vård
+#ENGL       
+###
+#KOODI      SJE01
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM   2000/08/15
+#POISTETTU
+#VANHA                
+#SUOMI      Suppea hampaiston oikomishoitoon liittyvä hionta
+#RUOTSI     Begränsad slipning av tänder i samband med ortodontisk vård
+#LYHENNE    
+###
+#KOODI      SJE02
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM   2000/08/15
+#POISTETTU
+#VANHA                
+#SUOMI      Hampaiston oikomishoitoon liittyvä hionta
+#RUOTSI     Slipning av tänder i samband med ortodontisk vård
+#LYHENNE    
+###
+#KOODI      SJE03
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM   2000/08/15
+#POISTETTU
+#VANHA                
+#SUOMI      Vaativa hampaiston oikomishoitoon liittyvä hionta
+#RUOTSI     Krävande slipning av tänder i samband med ortodontisk vård
+#LYHENNE    
+###
+#KOODI      SJE90
+#MUUT_PVM   1999/08/18
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaiston oikomishoidon viimeistely
+#RUOTSI     Avslutande åtgärder i samband med ortodontisk vård
+#LYHENNE    
+#OHJE_S  
+Sisältää purennan tasapainoitushionnan ja hampaiston välien hionnan
+#OHJE_R 
+Innefattar balanserande bettslipning
+###
+#KOODI_A    SJX
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Muu oikomishoito
+#RUOTSI     Övrig ortodontisk vård
+#ENGL       
+###
+#KOODI      SJX00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hammaslääkärin tekemä oikomiskojeen korjaus
+#RUOTSI     Reparation av ortodontisk apparatur utförd av tandläkare
+#LYHENNE    
+###
+#KOODI      SJX10
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaiston oikomishoitoon liittyvä lyhyt hoito- tai kontrollikäynti
+#RUOTSI     Kort behandlings- eller kontrollbesök i samband med ortodontisk vård
+#LYHENNE    Hamp oik.hoi lyhyt käynti
+#OHJE_S  
+Käytetään vain silloin kun ei tehdä muuta oikomistoimenpidettä
+Jäljennökset ja kipsimallit kts. täydentävät tutkimukset kohdassa SB
+#OHJE_R 
+Används bara då inga andra ortodontiska behandlingsåtgärder görsAvtryck och gipsmodeller: se kompletterande undersökningar
+###
+#KOODI      SJX20
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaiston oikomishoitoon liittyvä hoito- tai kontrollikäynti
+#RUOTSI     Behandlings- eller kontrollbesök i samband med ortodontisk vård
+#LYHENNE    Hamp oik.hoi käynti
+#OHJE_S  
+Käytetään vain silloin kun ei tehdä muuta oikomistoimenpidettä
+Jäljennökset ja kipsimallit kts. täydentävät tutkimukset kohdassa SB
+#OHJE_R 
+Används bara då inga andra ortodontiska behandlingsåtgärder görs
+Avtryck och gipsmodeller: se kompletterande undersökningar
+###
+#KOODI_R    SP
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammasprotetiikka
+#RUOTSI     Tandprotetik
+#ENGL       
+#OHJE_S  
+Protetiikan toimenpiteiden nimikkeeksi on turhan toistamisen välttämiseksi useimmiten valittu vain toimenpiteen lopputulos. Täten esimerksi 'Kokoproteesi' tarkoittaa kaikkia niitä toimenpiteitä, joita potilaan kokoproteesin tekemiseksi tarvitaan.
+Hammasteknikon työ ei kuitenkaan sisälly toimenpiteisiin.
+#OHJE_R 
+För undvikande av upprepningar anger benämningarna på de protetiska åtgärderna i allmänhet bara behandlingens slutresultat.  Beteckningen "Helprotes" innefattar alltså alla de åtgärder som krävs för att framställa en helprotes åt patienten.  Det
+tandtekniska arbetet ingår dock inte i åtgärderna.
+###
+#KOODI_A    SPA
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammasprotetiikkaa valmistelevat toimenpiteet
+#RUOTSI     Förberedande åtgärder vid protetisk vård
+#ENGL       
+###
+#KOODI      SPA00
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hampaiston muotoilu proteettista työtä varten
+#RUOTSI     Korrigering av tändernas form inför protetisk behandling
+#LYHENNE    
+#OHJE_S  
+Sisältää proteesin valmistukseen liittyviä valmistelutöitä, joita ovat esim. okkluusion ja purentatason hionta, tukia tai pinteitä varten tehtävät upotukset tai materiaalilisäykset sekä täytteen tai aluspilarin valmistus proteesityön yhteydessä tai
+vastaava paikkaustoimenpide.
+#OHJE_R 
+Innefattar förberendande arbete för protetisk behandling.
+###
+#KOODI      SPA10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tarkkuuskiinnikkeet hampaisiin tai implantteihin
+#RUOTSI     Attachments på tänder eller implantat
+#LYHENNE    
+#OHJE_S  
+Huomioidaan yksi toimenpide proteesia kohden
+#OHJE_R 
+En åtgärd per protes noteras
+###
+#KOODI_A    SPB
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammasprotetiikan tilapäiset rakenteet
+#RUOTSI     Provisoriska protetiska konstruktioner
+#ENGL       
+###
+#KOODI      SPB00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilapäinen tehdasvalmisteinen kruunu
+#RUOTSI     Prefabricerad provisorisk krona
+#LYHENNE    
+###
+#KOODI      SPB10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilapäisen kruunun valmistaminen vastaanotolla
+#RUOTSI     Framställning av provisorisk krona på mottagningen
+#LYHENNE    
+###
+#KOODI      SPB20
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilapäinen silta/siltayksikkö
+#RUOTSI     Provisorisk bro per tand
+#LYHENNE    
+#OHJE_S  
+Väliaikaisen sillan valmistustoimenpide kutakin hammaskruunua kohden
+#OHJE_R 
+Framställning av provisorisk bro; för varje enskild krona i bron
+###
+#KOODI      SPB30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tilapäinen osaproteesi
+#RUOTSI     Provisorisk delprotes
+#LYHENNE    
+###
+#KOODI_A    SPC
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Kiinteät hammasproteesit
+#RUOTSI     Fasta tandproteser
+#ENGL       
+###
+#KOODI      SPC10
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tavallinen kruunu
+#RUOTSI     Vanlig krona
+#LYHENNE    Tavallinen kruunu
+#OHJE_S  
+Myös sillan tukihampaana
+#OHJE_R 
+Också stödtand i bro
+###
+#KOODI      SPC20
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implanttikantoinen kruunu
+#RUOTSI     Implantatburen krona
+#LYHENNE    Implanttikantoinen kruunu
+#OHJE_S  
+Myös sillan tukihampaana
+#OHJE_R 
+Också stödtand i bro
+###
+#KOODI      SPC25
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu vaativa kruunu
+#RUOTSI     Annan krävande krona
+#LYHENNE    Muu vaativa kruunu
+#OHJE_S  
+Käyttäen parapulpaalinastaupotuksia tai muita vastaavia erillisiä toimenpiteitä
+
+#OHJE_R 
+Med hjälp av parapulbärbefästningar eller motsvarande andra åtgärder
+###
+#KOODI      SPC30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Pintakiinnitteinen silta
+#RUOTSI     Resinfästad bro
+#LYHENNE    Pintakiinnitteinen silta
+#OHJE_S  
+Sisältää väliosat ja kiinnitykset tukihampaisiin
+Pintakiinnitteinen tai in lay -kiinnitteinen ura
+#OHJE_R 
+Innehåller mellanlede och befästningarna på stödtänderna
+In lay -befästningar
+###
+#KOODI      SPC35
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vastaanotolla valmistettu silta/siltayksikö
+#RUOTSI     På mottagningen tillverkad bro/broenhet
+#LYHENNE    Vastaanotolla valmistettu silta/siltayks
+###
+#KOODI      SPC40
+#MUUT_PVM   1999/12/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sillan 1. tai 2. välihammas
+#RUOTSI     1. eller 2. pontic (mellanled) i bro
+#LYHENNE    
+#OHJE_S  
+Kuhunkin välihampaaseen liittyvä työ koodataan erikseen
+Ei koske pintakiinnitteistä siltaa (SPC30)
+#OHJE_R 
+Koden anges separat för varje mellanled i bro
+Innefattar ej resinfästad bro (SPC30)
+###
+#KOODI      SPC45
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sillan 3. tai sitä seuraava välihammas
+#RUOTSI     3. eller följande pontic (mellanled) i bro
+#LYHENNE    
+#OHJE_S  
+Välihampaat koodataan lukumäärän mukaan
+#OHJE_R 
+Mellan lederna kodas enligt antal
+###
+#KOODI      SPC50
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Nastapilari
+#RUOTSI     Stiftpelare
+#LYHENNE    
+#OHJE_S  
+Tähän sisältyy hammasteknisessä laboratoriossa valmistettuun nastapilariin liittyvät toimenpiteet.
+Vastaanotolla valmistettu nastapilari sisältyy paikkaushoitoon, katso SFC00
+Etuhampaan fasadi sisältyy paikkaushoitoon, katso SFB20, SFB30
+#OHJE_R 
+Innefattar alla åtgärder i anslutning till en guld- eller motsvarande pelare tillverkad på laboratorium
+På mottagningen gjord stiftpelare gjord av tandläkaren ingår i fyllningsterapin, se SFC00
+Fasad på framtand ingår i fyllningsterapin, se SFB20, SFB30
+###
+#KOODI      SPC60
+#MUUT_PVM   2001/11/19
+#KAYTPVM    2002/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Parapulpaalinastan upotus
+#RUOTSI     Fästning parapulbarstifft
+#LYHENNE    Parapulpaalinastan upotus
+#OHJE_S  
+Nastakohtainen
+#OHJE_R 
+Kodas per stifft
+###
+#KOODI_A    SPD
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammasprotetiikan irrotettavat kokoproteesit
+#RUOTSI     Löstagbara helproteser
+#ENGL       
+###
+#KOODI      SPD00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Limakalvokantoinen kokoproteesi
+#RUOTSI     Helprotes
+#LYHENNE    Limakalvokantoinen kokoproteesi
+###
+#KOODI      SPD05
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa limakalvokantoinen kokoproteesi
+#RUOTSI     Krävande helprotes
+#LYHENNE    Vaativa limakalvokantoinen kokoproteesi
+#OHJE_S  
+Esim. pitkälle mennyt alveoliatrofia tai leukojen epäsuhde
+#OHJE_R 
+T.ex. vid framskriden alveolatrofi eller diskrepans mellan över- och underkäke
+###
+#KOODI      SPD10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implantti- ja limakalvokantoinen kokoproteesi
+#RUOTSI     Implantat- och slemhinneburen helprotes
+#LYHENNE    Implantti- ja limakalvokantoinen kokopro
+#OHJE_S  
+Peittoproteesi on implantti ja limakalvokantoinen
+#OHJE_R 
+Täckprotes stödd på slemhinna och implantat
+###
+#KOODI      SPD20
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implanttikantoinen kokoproteesi
+#RUOTSI     Implantatburen helprotes
+#LYHENNE    Implanttikantoinen kokoproteesi
+###
+#KOODI_A    SPE
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammasprotetiikan irrotettavat osaproteesit
+#RUOTSI     Löstagbara delproteser
+#ENGL       
+###
+#KOODI      SPE00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Metallirunkoinen osaproteesi
+#RUOTSI     Partiellprotes med gjutet skelett
+#LYHENNE    Metallirunkoinen osaproteesi
+###
+#KOODI      SPE05
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa metallirunkoinen osaproteesi
+#RUOTSI     Krävande partiell protes med gjutet skelett
+#LYHENNE    
+#OHJE_S  
+Vaatii esim. purennan muuttamista
+#OHJE_R 
+Fordrar t.ex. ändring av bettförhållandet
+###
+#KOODI      SPE10
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Implanttikantoinen osaproteesi
+#RUOTSI     Implantatburen delprotes
+#LYHENNE    
+#OHJE_S  
+Hammasosa täysin implanttikantoinen
+#OHJE_R 
+Proteständerna helt implantatburna
+###
+#KOODI      SPE90
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu osaproteesi
+#RUOTSI     Annan partiell protes
+#LYHENNE    
+#OHJE_S  
+Sisältää akryyliosaproteesin
+#OHJE_R 
+Innefattar partiell protes av akrylat
+###
+#KOODI_A    SPF
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Hammasproteettiset korjaustoimenpiteet
+#RUOTSI     Reparationer av tandproteser
+#ENGL       
+###
+#KOODI      SPF00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proteesin korjaus
+#RUOTSI     Reparation av protes
+#LYHENNE    
+#OHJE_S  
+Pieni proteesin pohjaus ilman jäjennöstä
+#OHJE_R 
+Mindre rebasering av protes, utan avtryck
+###
+#KOODI      SPF10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vaativa proteesin korjaus
+#RUOTSI     Krävande reparation av protes
+#LYHENNE    
+#OHJE_S  
+Proteesin korjaus, joka edellyttää jäljennöstä
+#OHJE_R 
+Reparation som förutsätter avtryck
+###
+#KOODI      SPF20
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Väliaikainen pohjaus
+#RUOTSI     Provisorisk rebasering
+#LYHENNE    
+#OHJE_S  
+Immediaattiproteesin valmistuksen jälkeen tapahtuva väliaikainen pohjaus tai muu väliaikainen pohjaus
+#OHJE_R 
+Provisorisk rebasering, t.ex. efter inprovning av immediatprotes
+###
+#KOODI      SPF30
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Proteesin pohjaus
+#RUOTSI     Rebasering av protes
+#LYHENNE    
+#OHJE_S  
+Sisältää reunojen ja ulkopintojen muotoilun, okkluusion korjauksen sekä yhden jälkikäynnin
+#OHJE_R 
+Innefattar trimming
+ av kanter och yttre ytor, korrigering av ocklusionen och en efterkontroll
+###
+#KOODI      SPF40
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kruunun tai pienen sillan irrottaminen ja uudelleen sementointi
+#RUOTSI     Uttagning och återcementering av krona eller mindre bro
+#LYHENNE    Kruun tai pien. sillan irr ja uud. kiinn
+###
+#KOODI      SPF50
+#MUUT_PVM   2000/11/29
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sillan irrottaminen, korjaus ja uudelleen sementointi
+#RUOTSI     Uttagning, reparation och återcementering av bro
+#LYHENNE    Sillan irrotus, korjaus ja uud. sementoi
+#OHJE_S  
+Toimenpide, joka kestää yli 30 min.
+#OHJE_R 
+---
+###
+#KOODI      SPF60
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fasadin korjaus
+#RUOTSI     Reparation av fasad
+#LYHENNE    Fasadin korjaus
+#OHJE_S  
+Fasadin korjaus vastaanotolla täyteaineella
+#OHJE_R 
+Reparation av fasad med fyllningsmaterial på mottagningen
+###
+#KOODI_A    SPG
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Kasvoproteesit ja muut suun alueen erityisproteesit
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      SPG00
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Alaleuan erityisproteesi
+#RUOTSI     Specialprotes i underkäken
+#LYHENNE    Alaleuan erityisproteesi
+###
+#KOODI      SPG10
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläleuan erityisproteesi
+#RUOTSI     Specialprotes i underkäken
+#LYHENNE    Yläleuan erityisproteesi
+###
+#KOODI      SPG15
+#MUUT_PVM   1999/09/02
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yläleuan vaativa erityisproteesi
+#RUOTSI     Omfattande specialprotes i underkäken
+#LYHENNE    Yläleuan vaativa erityisproteesi
+###
+#KOODI_R    SX
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut suun ja hampaiden hoidon toimenpiteet
+#RUOTSI     Övriga åtgärder i munnen och  och på tänderna
+#ENGL       
+###
+#KOODI      SXA00
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Märkivän hampaan avaus
+#RUOTSI     Öppnande av tand i gangren
+#LYHENNE    Märkivän hampaan avaus
+###
+#KOODI      SXA10
+#MUUT_PVM   1999/07/08
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun alueen limakalvonäytteen otto
+#RUOTSI     Slemhinnebiopsi i munnen
+#LYHENNE    Suun alueen limakalvobiopsia
+#OHJE_S  
+Sisältää huulet
+Suun alueen neulakudosnäytteet, katso TE
+#OHJE_R 
+Innefattar också läpparnaPunktionsbiopsier i munnen, se TE
+###
+#KOODI      SXA20
+#MUUT_PVM   2000/09/15
+#KAYTPVM    2000/08/15
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun alueen paikallinen lääkehoito
+#RUOTSI     Lokal läkemedelsbehandling i munnen
+#LYHENNE    Suun alueen paikallinen lääkehoito
+###
+#KOODI      SXB00
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suun alueen limakalvo-ompeleiden poisto
+#RUOTSI     Avlägsnande av stygn från slemhinna i munnen
+#LYHENNE    Suun alueen limakalvo-ompeleen poisto
+###
+#KOODI      SXB10
+#MUUT_PVM   2000/08/15
+#KAYTPVM    2000/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiinnityksen tai kiskotuksen purkaminen
+#RUOTSI     Avlägsnande av sammankoppling eller fixation
+#LYHENNE    Kiinnityksen tai kiskotuksen purkaminen
+#OHJE_S  
+Esim. traumojen, purentafysiologisten tai parodontologisten hoitojen kiskotusten purkaminen
+#OHJE_R 
+T.ex vid trauma, bettfysiologisk eller parodontologisk vård

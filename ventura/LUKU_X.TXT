@@ -1,0 +1,1039 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU X
+
+@LUVUT_S = KAPITEL X
+
+@SUOMI_L = Paikantamattomat toimenpidekoodit
+
+@RUOTSI_L = Olokaliserade åtgärdskoder
+
+@ENGL_L = Unlocalized procedures
+
+@END_L = 
+
+@KOODI_A = XX_
+
+@NCSP_A = XXD
+
+@SUOMI_A = Paikantamatomat diagnostisen radiologian koodit
+
+@RUOTSI_A = Olokaliserade koder i diagnostisk radiologi
+
+@ENGL_A = Unlocalized codes for diagnostic radiology
+
+@END = 
+
+@KOODI = XX9LA 
+
+@NCSP = XXDA9L
+
+@SUOMI = Täydentävä läpivalaisututkimus ilman varjoainetta
+
+@RUOTSI = Kompletterande genomlysning utan kontrastmedel
+
+@END = 
+
+@KOODI = XX9XA 
+
+@NCSP = XXDA9X
+
+@SUOMI = Muu natiiviröntgen
+
+@RUOTSI = Annan röntgenundersökning utan kontrastmedel
+
+@END = 
+
+@KOODI = XX9TB 
+
+@NCSP = XXDB9T
+
+@SUOMI = Täydentävä röntgenvarjoainetutkimus
+
+@RUOTSI = Kompletterande röntgen kontrastundersökning
+
+@END = 
+
+@KOODI = XX9XB 
+
+@NCSP = XXDB9X
+
+@SUOMI = Muu röntgenrvarjoainetutkimus
+
+@RUOTSI = Annan röntgen kontrastundersökning
+
+@END = 
+
+@KOODI = YX8AD 
+
+@NCSP = XXDD8V
+
+@SUOMI = Stereotaktinen annossuunnittelu-TT
+
+@RUOTSI = Stereotaktisk dosplanering med DT
+
+@END = 
+
+@KOODI = YX8BD 
+
+@NCSP = XXDD8V
+
+@SUOMI = Stereotaktinen laaja annossuunnittelu-TT
+
+@RUOTSI = Stereotaktisk dosplanering med omfattande DT
+
+@END = 
+
+@KOODI = XX9TD 
+
+@NCSP = XXDD9T
+
+@SUOMI = Täydentävä TT
+
+@RUOTSI = Kompletterande DT undersökning
+
+@END = 
+
+@KOODI = YX9AD 
+
+@NCSP = XXDD9V
+
+@SUOMI = Annossuunnittelun muu TT
+
+@RUOTSI = Annan DT för dosplanering
+
+@END = 
+
+@KOODI = YX9BD 
+
+@NCSP = XXDD9V
+
+@SUOMI = Annossuunnittelun muu laaja TT
+
+@RUOTSI = Annan omfattande DT för dosplanering
+
+@END = 
+
+@KOODI = XX1AD 
+
+@NCSP = XXDD9X
+
+@SUOMI = Muu TT
+
+@RUOTSI = Annan DT
+
+@END = 
+
+@KOODI = XX1BD 
+
+@NCSP = XXDD9X
+
+@SUOMI = Muu laaja TT
+
+@RUOTSI = Annan omfattande DT
+
+@END = 
+
+@KOODI = XX1CD 
+
+@NCSP = XXDD9X
+
+@SUOMI = Muu erittäin laaja TT
+
+@RUOTSI = Annan mycket omfattande DT
+
+@END = 
+
+@KOODI = XX9AD 
+
+@NCSP = XXDD9X
+
+@SUOMI = Täydentävä TT
+
+@RUOTSI = Kompleterande DT
+
+@END = 
+
+@KOODI = XX9BD 
+
+@NCSP = XXDD9X
+
+@SUOMI = Täydentävä laaja TT
+
+@RUOTSI = Kompleterande omfattande DT
+
+@END = 
+
+@KOODI = XX9CD 
+
+@NCSP = XXDD9X
+
+@SUOMI = Täydentävä erittäin laaja TT
+
+@RUOTSI = Kompleterande mycket omfattande DT
+
+@END = 
+
+@KOODI = XX9KE 
+
+@NCSP = XXDE9K
+
+@SUOMI = Muu ultraäänitutkimus varjoainetta käyttäen
+
+@RUOTSI = Annan UL med kontrastmedel
+
+@NOTE_F = Sydämen  tutkimus kts. FM1KE Kohdun ja munajohtimien tutkimus kts. LC2HE
+
+@END = 
+
+@KOODI = XX9TE 
+
+@NCSP = XXDE9T
+
+@SUOMI = Täydentävä UÄ-tutkimus
+
+@RUOTSI = Kompletterande UL
+
+@END = 
+
+@KOODI = XX9XE 
+
+@NCSP = XXDE9X
+
+@SUOMI = Muu UÄ
+
+@RUOTSI = Annan UL
+
+@END = 
+
+@KOODI = YX8VF 
+
+@NCSP = XXDG8V
+
+@SUOMI = Stereotaktinen annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = Stereotaktisk dosplanering med mellanfältsmagnet
+
+@END = 
+
+@KOODI = YX8VG 
+
+@NCSP = XXDG8V
+
+@SUOMI = Stereotaktinen annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = Stereotaktisk dosplanering med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9AF 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) begränsad undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9AG 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) begränsad undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9BF 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9BG 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9CF 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9CG 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9DF 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu erittäin laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = MR (övrig) speciellt omfattande undersökning med mellanfältsmagnet
+
+@END = 
+
+@KOODI = XX9DG 
+
+@NCSP = XXDG9B
+
+@SUOMI = Muu erittäin laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = MR (övrig) speciellt omfattande undersökning med högfältsmagnet
+
+@END = 
+
+@KOODI = YX9VF 
+
+@NCSP = XXDG9V
+
+@SUOMI = Muu annossuunnittelu keskikenttämagneettilaitteella
+
+@RUOTSI = Annan MR för dosplanering med mellanfältsmagnet
+
+@END = 
+
+@KOODI = YX9VG 
+
+@NCSP = XXDG9V
+
+@SUOMI = Muu annossuunnittelu vahvakenttämagneettilaitteella
+
+@RUOTSI = Annan MR för dosplanering med högfältsmagnet
+
+@END = 
+
+@KOODI = XX9AK 
+
+@NCSP = XXDK9A
+
+@SUOMI = Muu spektroskopia
+
+@RUOTSI = Spektroskopi, övrig
+
+@END = 
+
+@KOODI = XY1NK 
+
+@NCSP = XXDK9A
+
+@SUOMI = Diffuusiokuvaus *
+
+@RUOTSI = Diffusionsavbildning *
+
+@END = 
+
+@KOODI = XY1PK 
+
+@NCSP = XXDK9A
+
+@SUOMI = Perfuusiokuvaus *
+
+@RUOTSI = Perfusionsavbildning*
+
+@END = 
+
+@KOODI = XX9AL 
+
+@NCSP = XXDL9A
+
+@SUOMI = Muu magneettikenttämittaus (magnetografia)
+
+@RUOTSI = Magnetografi, övrig
+
+@END = 
+
+@KOODI = XX1AW 
+
+@NCSP = XXDW1A
+
+@SUOMI = Lausunto natiivikuvista
+
+@RUOTSI = Utlåtande om röntgenundersökning
+
+@END = 
+
+@KOODI = XX1BW 
+
+@NCSP = XXDW1B
+
+@SUOMI = Lausunto varjoainekuvista
+
+@RUOTSI = Utlåtande om kontrastmedelröntgenundersökning
+
+@END = 
+
+@KOODI = XX1CW 
+
+@NCSP = XXDW1C
+
+@SUOMI = Lausunto angiografiakuvista
+
+@RUOTSI = Utlåtande om angiografi
+
+@END = 
+
+@KOODI = XX1DW 
+
+@NCSP = XXDW1D
+
+@SUOMI = Lausunto TT-kuvista
+
+@RUOTSI = Utlåtande om DT-undersökning
+
+@END = 
+
+@KOODI = XX1FW 
+
+@NCSP = XXDW1F
+
+@SUOMI = Lausunto magneettikuvista
+
+@RUOTSI = Utlåtande om MR-undersökning
+
+@END = 
+
+@KOODI = XX1XW 
+
+@NCSP = XXDW1X
+
+@SUOMI = Lausunto muista kuvista
+
+@RUOTSI = Utlåtande om annan radiologisk undersökning
+
+@END = 
+
+@KOODI = XX2AW 
+
+@NCSP = XXDW2A
+
+@SUOMI = Teleradiologinen konsultaatio natiivikuvista
+
+@RUOTSI = Teleradiologisk konsultation av röntgenundersökning
+
+@END = 
+
+@KOODI = XX2BW 
+
+@NCSP = XXDW2B
+
+@SUOMI = Teleradiologinen konsultaatio varjoainekuvista
+
+@RUOTSI = Teleradiologisk konsultation av kontraströntgenundersökning
+
+@END = 
+
+@KOODI = XX2CW 
+
+@NCSP = XXDW2C
+
+@SUOMI = Teleradiologinen konsultaatio angiografiakuvista
+
+@RUOTSI = Teleradiologisk konsultation av angiografibilder
+
+@END = 
+
+@KOODI = XX2DW 
+
+@NCSP = XXDW2D
+
+@SUOMI = Teleradiologionen konsultaatio TT-kuvista
+
+@RUOTSI = Teleradiologisk konsultation av DT-undersökning
+
+@END = 
+
+@KOODI = XX2FW 
+
+@NCSP = XXDW2F
+
+@SUOMI = Teleradiologinen konsultaatio magneettikuvista
+
+@RUOTSI = Teleradiologisk konsultation av MR-undersökning
+
+@END = 
+
+@KOODI = XX2XW 
+
+@NCSP = XXDW2X
+
+@SUOMI = Muu teleradiologinen konsultaatio
+
+@RUOTSI = Teleradiologisk konsultation av annan radiologisk undersökning
+
+@END = 
+
+@KOODI = XX3DW 
+
+@NCSP = XXDW3D
+
+@SUOMI = Laaja lisäanalyysi radiologisesta tutkimusainestosta
+
+@RUOTSI = Tidskrävande tilläggsanalys av existerande radiologisk material
+
+@END = 
+
+@KOODI = XX9AW 
+
+@NCSP = XXDW9A
+
+@SUOMI = Röntgenkuvien kopio
+
+@RUOTSI = Kopiering av röntgenbilder
+
+@END = 
+
+@KOODI_A = XX_
+
+@NCSP_A = XXX
+
+@SUOMI_A = Muut paikantamattomat toimenpidekoodit
+
+@RUOTSI_A = Andra olokaliserade åtgärdskoder
+
+@ENGL_A = Other unlocalized procedurecodes
+
+@END = 
+
+@KOODI = XXA00 
+
+@NCSP = XXXA00
+
+@SUOMI = Kliininen tutkimus, joka edellyttää yleisanestesiaa
+
+@RUOTSI = Klinisk undersökning i generell anestesi (narkos)
+
+@END = 
+
+@KOODI = XW5WT 
+
+@NCSP = XXXT0X
+
+@SUOMI = Muu radiologisesti ohjattu verinäytteen otto
+
+@RUOTSI = Annat radiologiskt styrt blodprov
+
+@END = 
+
+@KOODI = XW1AT 
+
+@NCSP = XXXT1A
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW2AT 
+
+@NCSP = XXXT1A
+
+@SUOMI = Muun sisäelimen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Annan inre organ, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW3AT 
+
+@NCSP = XXXT1A
+
+@SUOMI = Muun pinnallisen elimen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XW4AT 
+
+@NCSP = XXXT1A
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Annan inre organ, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XX1AT 
+
+@NCSP = XXXT1A
+
+@SUOMI = Muu punktio tai tyhjennys UÄ-ohjauksessa
+
+@RUOTSI = Annan UL-styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XW1BT 
+
+@NCSP = XXXT1B
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, genomlysningsstyrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW2BT 
+
+@NCSP = XXXT1B
+
+@SUOMI = Muun sisäelimen solunäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Annan inre organ, genomlysningsstyrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW3BT 
+
+@NCSP = XXXT1B
+
+@SUOMI = Muun pinnallisen elimen kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, genomlysningsstyrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XW4BT 
+
+@NCSP = XXXT1B
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto läpivalaisuohjauksessa
+
+@RUOTSI = Annan inre organ, genomlysningsstyrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XX1BT 
+
+@NCSP = XXXT1B
+
+@SUOMI = Muu punktio tai tyhjennys läpivalaisuohjauksessa
+
+@RUOTSI = Annan genomlysningsstyrd punktion eller tömning
+
+@END = 
+
+@KOODI = XW1CT 
+
+@NCSP = XXXT1C
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW2CT 
+
+@NCSP = XXXT1C
+
+@SUOMI = Muun sisäelimen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Annan inre organ, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW3CT 
+
+@NCSP = XXXT1C
+
+@SUOMI = Muun pinnallisen elimen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XW4CT 
+
+@NCSP = XXXT1C
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Annan inre organ, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XX1CT 
+
+@NCSP = XXXT1C
+
+@SUOMI = Muu punktio tai tyhjennys TT-ohjauksessa
+
+@RUOTSI = Annan DT-styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XW2DT 
+
+@NCSP = XXXT1D
+
+@SUOMI = Muun sisäelimen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = Annan inre organ, MR-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = XW4DT 
+
+@NCSP = XXXT1D
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = Annan inre organ, MR-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = XX1DT 
+
+@NCSP = XXXT1D
+
+@SUOMI = Muu punktio tai tyhjennys magneettiohjauksessa
+
+@RUOTSI = Annan MR-styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XW1XT 
+
+@NCSP = XXXT1X
+
+@SUOMI = Muun pinnallisen elimen solunäytteen otto muussa ohjauksessa
+
+@RUOTSI = Annan ytligt belägen organ, finnålsbiopsi med annan styrning
+
+@END = 
+
+@KOODI = XW2XT 
+
+@NCSP = XXXT1X
+
+@SUOMI = Muun sisäelimen solunäytteen otto muussa ohjauksessa
+
+@RUOTSI = Annan inre organ, finnålsbiopsi men annan styrning
+
+@END = 
+
+@KOODI = XW4XT 
+
+@NCSP = XXXT1X
+
+@SUOMI = Muun sisäelimen kudosnäytteen otto muussa ohjauksessa
+
+@RUOTSI = Annan inre organ, vävnadsbiopsi med annan styrning
+
+@END = 
+
+@KOODI = XX1XT 
+
+@NCSP = XXXT1X
+
+@SUOMI = Muu punktio tai tyhjennys muussa ohjauksessa
+
+@RUOTSI = Annan radiologiskt styrd punktion eller tömning
+
+@END = 
+
+@KOODI = XX2AT 
+
+@NCSP = XXXT2A
+
+@SUOMI = Muu injektio UÄ-ohjauksessa
+
+@RUOTSI = Annan UL-styrd injektion
+
+@END = 
+
+@KOODI = XX2BT 
+
+@NCSP = XXXT2B
+
+@SUOMI = Muu injektio läpivalaisuohjauksessa
+
+@RUOTSI = Annan genomlysningsstyrd injektion
+
+@END = 
+
+@KOODI = XX2CT 
+
+@NCSP = XXXT2C
+
+@SUOMI = Muu injektio TT-ohjauksessa
+
+@RUOTSI = Annan DT-styrd injektion
+
+@END = 
+
+@KOODI = XX2DT 
+
+@NCSP = XXXT2D
+
+@SUOMI = Muu injektio magneettiohjauksessa
+
+@RUOTSI = Annan MR-styrd injektion
+
+@END = 
+
+@KOODI = XX2XT 
+
+@NCSP = XXXT2X
+
+@SUOMI = Muu injektio muussa ohjauksessa
+
+@RUOTSI = Annan radiologiskt styrd injektion
+
+@END = 
+
+@KOODI = XX3AT 
+
+@NCSP = XXXT3A
+
+@SUOMI = Muu merkkaus UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd märkning av annan struktur
+
+@END = 
+
+@KOODI = XX3BT 
+
+@NCSP = XXXT3B
+
+@SUOMI = Muu merkkaus läpivalaisuohjauksessa
+
+@RUOTSI = Genomlysningsstyrd märkning  av annan struktur
+
+@END = 
+
+@KOODI = XX3CT 
+
+@NCSP = XXXT3C
+
+@SUOMI = Muu merkkaus TT-ohjauksessa
+
+@RUOTSI = DT-styrd märkning  av annan struktur
+
+@END = 
+
+@KOODI = XX3DT 
+
+@NCSP = XXXT3D
+
+@SUOMI = Muu merkkaus magneettiohjauksessa
+
+@RUOTSI = MR-styrd märkning  av annan struktur
+
+@END = 
+
+@KOODI = XX3XT 
+
+@NCSP = XXXT3X
+
+@SUOMI = Muu merkkaus muussa ohjauksessa
+
+@RUOTSI = Annan märkning  av annan struktur
+
+@END = 
+
+@KOODI = XX4AT 
+
+@NCSP = XXXT4A
+
+@SUOMI = Muun ontelon kanavointi UÄ-ohjauksessa
+
+@RUOTSI = Annat UL-styrt dränage
+
+@END = 
+
+@KOODI = XX4BT 
+
+@NCSP = XXXT4B
+
+@SUOMI = Muun ontelon kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Annat genomlysningsstyrt dränage
+
+@END = 
+
+@KOODI = XX4CT 
+
+@NCSP = XXXT4C
+
+@SUOMI = Muun ontelon kanavointi TT-ohjauksessa
+
+@RUOTSI = Annat DT-styrt dränage
+
+@END = 
+
+@KOODI = XX4DT 
+
+@NCSP = XXXT4D
+
+@SUOMI = Muun ontelon kanavointi magneettiohjauksessa
+
+@RUOTSI = Annat MR-styrt dränage
+
+@END = 
+
+@KOODI = XX4FT 
+
+@NCSP = XXXT4F
+
+@SUOMI = Muun ontelon katetrin vaihto muussa ohjauksessa
+
+@RUOTSI = Annat dränbyte med annan styrning
+
+@END = 
+
+@KOODI = XX4XT 
+
+@NCSP = XXXT4X
+
+@SUOMI = Muu kanavointi radiologisessa ohjauksessa
+
+@RUOTSI = Annat radiologiskt styrt dränage
+
+@END = 
+
+@KOODI = XX5KT 
+
+@NCSP = XXXT5K
+
+@SUOMI = Skleroterapia muuhun kystaan
+
+@RUOTSI = Skleroterapi av annan cysta
+
+@END = 
+
+@KOODI = XX5LT 
+
+@NCSP = XXXT5L
+
+@SUOMI = Skleroterapia muuhun elimeen
+
+@RUOTSI = Skleroterapi i en annan organ
+
+@END = 
+
+@KOODI = XX5WT 
+
+@NCSP = XXXT5W
+
+@SUOMI = Laserhoito UÄ-ohjauksessa
+
+@RUOTSI = UL-styrd laserbehandling
+
+@END = 
+
+@KOODI = XX6DT 
+
+@NCSP = XXXT6D
+
+@SUOMI = Muun kasvaimen embolisaatio radiologisessa ohjauksessa
+
+@RUOTSI = Annan tumör, radiologiskt styrd embolisering
+
+@END = 
+
+@KOODI = XX6ET 
+
+@NCSP = XXXT6D
+
+@SUOMI = Muun kasvaimen embolisaatio radiologisessa ohjauksessa, laaja
+
+@RUOTSI = Annan tumör, radiologiskt styrd omfattande embolisering
+
+@END = 
+
+@KOODI = XX6KT 
+
+@NCSP = XXXT6K
+
+@SUOMI = Muu skleroterapia
+
+@RUOTSI = Annan skleroterapi
+
+@END = 
+
+@KOODI = XX6LT 
+
+@NCSP = XXXT6L
+
+@SUOMI = Kasvaimen lämpökoagulaatio radiologisessa ohjauksessa
+
+@RUOTSI = Tumör termokoagulation, radiologiskt styrd
+
+@END = 
+
+@KOODI = XX6RT 
+
+@NCSP = XXXT6R
+
+@SUOMI = Muu dilataatio radiologisessa ohjauksessa
+
+@RUOTSI = Annan radiologiskt styrd dilatation
+
+@END = 
+
+@KOODI = XX6XT 
+
+@NCSP = XXXT6X
+
+@SUOMI = Muu lääkehoito tai suonensisäinen tukkiminen radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrd annan farmakoterapi eller ocklusion
+
+@END = 
+
+@KOODI = XX6ZT 
+
+@NCSP = XXXT6Z
+
+@SUOMI = Muu kiven tai vierasesineen poisto radiologisessa ohjauksessa
+
+@RUOTSI = Annan radiologiskt styrd extraktion av konkrement eller främmande kropp
+
+@END = 
+
+@KOODI = XX9TT 
+
+@NCSP = XXXT9T
+
+@SUOMI = Täydentävä radiologinen toimenpide
+
+@RUOTSI = Kompletterande radiologisk intervention
+
+@END = 
+
+@KOODI = XX9XT 
+
+@NCSP = XXXT9X
+
+@SUOMI = Muu radiologinen toimenpide
+
+@RUOTSI = Annan radiologisk intervention
+
+@END = 

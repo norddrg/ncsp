@@ -1,0 +1,1564 @@
+
+###
+#KOODI_L    X
+#MUUT_PVM   2009/10/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder
+#RUOTSI     ---
+#ENGL       Investigative procedures
+###
+#KOODI_R    XA
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Neurologiska examinationer
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      XAA00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk intrakraniell undersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XAB00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk intraspinal undersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkl epiduroskopi
+#OHJE_R 
+---
+###
+#KOODI      XAB10 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisk rotblockad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XAW97 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk endoskopi inom neurokirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XAW99 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd inom neurokirurgi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XAX00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ elektrofysiologisk undersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder i ögonregionen
+#RUOTSI     ---
+#ENGL       Investigative procedures on eye
+###
+#KOODI      XCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diagnostisk spolning av tårkanaler
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Klinisk ögonundersökning i narkos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Typ av narkos kan anges med speciell anestesikod
+#OHJE_R 
+---
+###
+#KOODI      XCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektrofysiologisk ögonundersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Elektroretinografi (ERG), Visual evoked potential (VEP), elektromyografi (EMG), elektrookulografi (EOG)
+#OHJE_R 
+---
+###
+#KOODI      XCD20 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angiografi av ögonbotten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XCK00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Synfältsundersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ringsynfält, Competer, Humphrey m fl
+#OHJE_R 
+---
+###
+#KOODI      XCK10 
+#MUUT_PVM   1996/04/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fotografering av ögonbotten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XCW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd i ögonregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XF
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder på hjärtat och de stora intratorakala kärlen
+#RUOTSI     ---
+#ENGL       Investigative procedures on heart
+###
+#KOODI      XFE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Epikardiell ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFE01 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk epikardiell ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFE12 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angioskopisk ultraljudsundersökning av hjärta
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFN02 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ koronar angioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFN96 
+#MUUT_PVM   1996/04/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intraoperativ angioskopisk undersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFP00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ mapping av ektopiskt fokus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFP96 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intraoperativ elektrofysiologisk undersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFX00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ punktion av hjärta eller stora kärl med aspiration
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFX10 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ punktionsmanometri av hjärta eller stora kärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFX20 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ flödesmätning av hjärta eller stora kärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFX96 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk intraoperativ punktion av hjärta eller stora kärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XFX97 
+#MUUT_PVM   1996/02/28
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan torakoskopisk diagnostisk intraoperativ punktion av hjärta eller stora kärl
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Intraoperativ eller torakoskopisk ultraljudsundersökning i bröstkorgen
+#RUOTSI     ---
+#ENGL       Intraoperative and endoscopic thoracic ultrasonography
+###
+#KOODI      XGX02 
+#MUUT_PVM   1996/04/09
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transesofageal ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avser ultraljudsundersökning av andra strukturer än hjärtat. Jmf Transesofeagal ekokardiografi
+#OHJE_R 
+---
+###
+#KOODI      XGX10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intrapleural ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XGX21 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Torakoskopisk ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XGX32 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bronkoskopisk ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XGX96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan intraoperativ eller endoskopisk torakal ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder på matsmältningskanalen
+#RUOTSI     ---
+#ENGL       Investigative procedures on digestive system
+###
+#KOODI      XJA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraljudsundersökning vid laparotomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJA01 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laparoskopisk ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Esofagusmanometri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      pH-mätning i esofagus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar nedläggning av sond, dragning av sond samt bedömning av undersökning. Registreras endast vid dragning av sonden, ej vid nedläggning eller vid bedömningen
+#OHJE_R 
+---
+###
+#KOODI      XJC20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transesofageal elektromyografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJD02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraljudsundersökning vid övre gastrointestinal endoskopi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Endoluminalt ultraljud av övre gastro-intestinalkanalen
+#OHJE_R 
+---
+###
+#KOODI      XJF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraljudsundersökning via stomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJF02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk ultraljudsundersökning via stomi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJG12 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transrektal endoskopisk ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transanal ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anorektal mano-volumetri
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografi av analsfinkter
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJK02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk manometri i gallgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJL02 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endoskopisk manometri i pankreasgång
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd på gastrointestinalkanal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJW97 
+#MUUT_PVM   1996/11/20
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan laparoskopisk diagnostisk åtgärd på gastrointestinalkanal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XJW98 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan endoskopisk diagnostisk åtgärd på gastrointestinalkanal
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XK
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder på urinvägar och manliga genitalia
+#RUOTSI     ---
+#ENGL       Investigative procedures on urinary and male genital system
+###
+#KOODI      XKA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urodynamisk undersökning av njurbäcken
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XKC03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cystometri
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Mätning av volym, tryck och flöde. Görs enbart tryck- och flödesmätning användes koden XKD06
+#OHJE_R 
+---
+###
+#KOODI      XKD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Urinflödesmätning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XKD03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uretratryckregistrering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Uretratryckprofil
+#OHJE_R 
+---
+###
+#KOODI      XKD06 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Miktionsfysiologisk undersökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tryck- och flödesundersökning. Innefattar såväl transuretral som suprapubisk katetrisering
+#OHJE_R 
+---
+###
+#KOODI      XKD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transuretral ultraljudsundersökning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XKG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Framkallande av artificiell erektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XKG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Penisblodflödesmätning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XKW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd på urinvägar eller manliga könsorgan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XKX00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elektromyografi av bäckenbotten
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XL
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder på kvinnliga genitalia
+#RUOTSI     ---
+#ENGL       Investigative procedures on female genital system
+###
+#KOODI      XLE00 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kolposkopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XLW99 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd på kvinnliga könsorgan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XNA00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Diskblockad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XNA10 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Facettledsblockad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Synonymt med intervertebralledsblockad
+#OHJE_R 
+---
+###
+#KOODI      XNA20 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rucktest
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XNB00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subakromial blockad
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XNW99 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd på rörelseapparat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XNX00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tryckmätning i muskelloge
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    XP
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder på perifera kärl
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      XPX00 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ angiografi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XPX10 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Angioskopi
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XPX20 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Intraoperativ flödesmätning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XPX30 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Endovaskulärt ultraljud
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vid ultraljud av koronarkärlen registreras åtgärden Intrakoronart ultraljud/doppler
+#OHJE_R 
+---
+###
+#KOODI      XPX40 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ultraljudsundersökning av perifert kärl
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inkluderar ultraljudsundersökning vid trombosdiagnostik, ultraljudsundersökning vener, enkel (duplexteknik)
+#OHJE_R 
+---
+###
+#KOODI      XPX99 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan diagnostisk åtgärd på perifert kärl
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utesluter:  Dopplerundersökning av hjärnans kärl, Ultraljudsundersökning av perifert kärl, Ultraljudsundersökning, extremitet, hela venträdet och Ultraljudsundersökning, övriga artärer
+#OHJE_R 
+---
+###
+#KOODI      XS001 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Närståendesamtal
+#RUOTSI     ---
+#LYHENNE    Närståendesamtal
+#OHJE_S  
+Möte där en eller flera personer med nära relation till patient möter hälso- och sjukvårdspersonal utan att patienten är med. Samtalet skall journalföras
+#OHJE_R 
+---
+###
+#KOODI      XS002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling under vårdtillfälle
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling hos hälso- och sjukvårdspersonal från annat medicinskt verksamhetsområde där patient erhåller behandling som har medicinskt samband med vårdtillfället. Registreras av den vårdenhet som utför behandlingen
+#OHJE_R 
+---
+###
+#KOODI      XS003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information och rådgivning med patient per brev
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar skriftlig kommunikation med patient. Brev, e-mail m.m.
+#OHJE_R 
+---
+###
+#KOODI      XS004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Distanskonsultation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Genomgång av patientärende efter kontakt (extern remiss, brev, e-mail, telefon, telemedicin). Svar till inremitterande. Bedömningen ska journalföras
+#OHJE_R 
+---
+###
+#KOODI      XS005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Extern kontakt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kontakt via telefon, brev, email etc, med myndighet/institution (försäkringskassa, kommun, skola, hjälpmedelscentral), arbetsplats etc rörande patient
+#OHJE_R 
+---
+###
+#KOODI      XS006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Insats annan förvaltning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Besök där sjukhusansluten hälso- och sjukvårdspersonal träffar patient i primärvården eller på annat sjukhus och där besöket journalförs på det stället. Besöket registreras på den enhet där patienten fysiskt var
+#OHJE_R 
+---
+###
+#KOODI      XS007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konferens med patient
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Konferens med patient och/eller patientens företrädare och hälso- och sjukvårdspersonal från ett eller flera vårdområden. Sammanfattning av anamnes och kliniska fakta. Beslut om fortsatt diagnostik och terapi. Eventuella övriga åtgärder, t ex biopsier, k
+#OHJE_R 
+---
+###
+#KOODI      XS008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konferens om patient
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Konferens utan att patienten är närvarande. Kan omfatta en eller flera vårdgivarkategorier från en eller flera olika specialiteter. Varje deltagare kan registrera sin insats på sin enhet. Inkluderar nätverksmöte
+#OHJE_R 
+---
+###
+#KOODI      XS009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Konsultation under vårdtillfälle
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vårdkontakt där patient bedöms av hälso- och sjukvårdspersonal från annat medicinskt verksamhetsområde för att belysa en viss fråga i pågående utredning. Vårdansvaret kvarstår hos den remitterande hälso- och sjukvårdspersonalen
+#OHJE_R 
+---
+###
+#KOODI      XS010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Medverkan i teambesök och gruppteambesök
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Insats som utförs av hälso- och sjukvårdspersonal som ingår i vårdteam och utgör del av teambesök eller gruppteambesök. Registreras på vårdenhet som utför medverkan i teambesök /gruppteambesök
+#OHJE_R 
+---
+###
+#KOODI      XS011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information och rådgivning med anhörig per telefon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Samtalet ska journalföras
+#OHJE_R 
+---
+###
+#KOODI      XS012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information och rådgivning med patient per telefon
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Telefon med patient. Samtalet ska journalföras
+#OHJE_R 
+---
+###
+#KOODI      XS013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avstämningsmöte med försäkringskassan
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS900 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Enskilt besök
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS901 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gruppbesök eller gruppteambesök
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Gruppbesök är ett besök där flera patienter träffar en vårdgivare. Gruppteambesök är när flera patienter träffar fler än en självständig vårdgivare. (Assisterande personal räknas inte som självständig vårdgivare.)
+#OHJE_R 
+---
+###
+#KOODI      XS902 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Teambesök
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+När en patient träffar fler än en självständig vårdgivare. (Assisterande personal räknas inte som självständig vårdgivare.)
+#OHJE_R 
+---
+###
+#KOODI      XS910 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arbetsterapeut
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS911 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Audionom
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS912 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dietist
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS913 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kurator
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS914 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Logoped
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS915 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS916 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ortoptist
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS917 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykolog
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS918 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sjukgymnast
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS919 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sjuksköterska
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS920 
+#MUUT_PVM   2006/10/17
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mentalskötare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS921 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Undersköterska
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS922 
+#MUUT_PVM   2005/09/05
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övriga vårdgivare
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS923 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Naprapat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XS924 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kiropraktor
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XT001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Remiss UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XU001 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fastspänning upp till och med 4 timmar
+#RUOTSI     ---
+#LYHENNE    Fastspänning upp till och med 4 timmar
+#OHJE_S  
+Patienten hålls fastspänd med bälte eller liknande anordning på grund av omedelbar fara för att patienten allvarligt ska skada sig själv eller någon annan
+#OHJE_R 
+---
+###
+#KOODI      XU002 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fastspänning i mer än 4 timmar
+#RUOTSI     ---
+#LYHENNE    Fastspänning i mer än 4 timmar
+#OHJE_S  
+Patienten hålls fastspänd med bälte eller liknande anordning på grund av omedelbar fara för att patienten allvarligt ska skada sig själv eller någon annan
+#OHJE_R 
+---
+###
+#KOODI      XU003 
+#MUUT_PVM   2010/09/30
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fastspänning i mer än 4 timmar men mindre än 72 timmar
+#RUOTSI     ---
+#LYHENNE    Fastspänning i 4 -72 timmar
+#OHJE_S  
+Patienten hålls fastspänd med bälte eller liknande anordning på grund av omedelbar fara för att patienten allvarligt ska skada sig själv eller någon annan. Används vid tvångsvård enligt LPT eller LRV
+#OHJE_R 
+---
+###
+#KOODI      XU004 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fastspänning i 72 timmar eller mer
+#RUOTSI     ---
+#LYHENNE    Fastspänning i 72 timmar eller mer
+#OHJE_S  
+Patienten hålls fastspänd med bälte eller liknande anordning på grund av omedelbar fara för att patienten allvarligt ska skada sig själv eller någon annan. Används vid tvångsvård enligt LPT eller LRV
+#OHJE_R 
+---
+###
+#KOODI      XU011 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avskiljande upp till och med 8 timmar
+#RUOTSI     ---
+#LYHENNE    Avskiljande upp till och med 8 timmar
+#OHJE_S  
+Patienten hålls avskiljd från andra patienter på grund av ett störande eller aggressivt beteende som allvarligt försvårar vården av de andra patienterna
+#OHJE_R 
+---
+###
+#KOODI      XU012 
+#MUUT_PVM   2010/09/30
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avskiljande i mer än 8 timmar men mindre än 72 timmar
+#RUOTSI     ---
+#LYHENNE    Avskiljande 8-72 timmar
+#OHJE_S  
+Patienten hålls avskiljd från andra patienter på grund av ett störande eller aggressivt beteende som allvarligt försvårar vården av de andra patienterna
+#OHJE_R 
+---
+###
+#KOODI      XU013 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avskiljande i 72 timmar eller mer
+#RUOTSI     ---
+#LYHENNE    Avskiljande i 72 timmar eller mer
+#OHJE_S  
+Patienten hålls avskiljd från andra patienter på grund av ett störande eller aggressivt beteende som allvarligt försvårar vården av de andra patienterna. Används vid tvångsvård enligt LPT eller LRV
+#OHJE_R 
+---
+###
+#KOODI      XU020 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2009/01/01
+#POISTPVM   2010/09/30
+#POISTETTU
+#VANHA                
+#SUOMI      Tvångsmedicinering, parenteral
+#RUOTSI     ---
+#LYHENNE    Tvångsmedicinering, parenteral
+#OHJE_S  
+Här avses endast injektion under fasthållande eller fastspänning. Med fasthållande avses här att en eller flera personer med fysiskt tvång inskränker patientens rörlighet
+#OHJE_R 
+---
+###
+#KOODI      XU021 
+#MUUT_PVM   2010/09/30
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Medicinering utförd under fastspänning eller fasthållande
+#RUOTSI     ---
+#LYHENNE    Medicinering utförd under fastspänning
+#OHJE_S  
+Avser medicintillförsel som, oberoende av administrationssätt, sker under fasthållande eller fastspänning. Med fasthållande avses här att en eller flera personer med fysisk tvång inskränker patientens rörlighet. Används vid tvångsvård enligt LPT eller LRV
+#OHJE_R 
+---
+###
+#KOODI      XU030 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inskränkande av elektronisk kommunikation vid tvångsvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Beslut om inskränkning av en patients rätt att använda elektroniska kommunikationstjänster vid tvångsvård enligt LPT eller LRV
+#OHJE_R 
+---
+###
+#KOODI      XU040 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av försändelser vid tvångsvård
+#RUOTSI     ---
+#LYHENNE    Övervakning av försändelser vid tvångsvå
+#OHJE_S  
+Innebär vårdplan enl 7a§ LPT eller 16b§ 2 st LRV. Används vid tvångsvård för rapportering till hälsodataregister. Vårdplan vid tvångsvård, se XU041. Övervakning av försändelser vid tvångsvård har koden XU041 fr.o.m. 2010-01-01
+#OHJE_R 
+---
+###
+#KOODI      XU041 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vårdplan vid tvångsvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innebär vårdplan enligt 16§ LPT eller 6§ 2 st LRV. Används vid tvångsvård för rapportering till hälsodataregister. Vårdplan i samverkan med kommun, se XU040. Övervakning av försändelser vid tvångsvård har koden XU042 fr.o.m. 2010-01-01
+#OHJE_R 
+---
+###
+#KOODI      XU042 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Samordnad vårdplan vid tvångsvård
+#RUOTSI     ---
+#LYHENNE    Samordnad vårdplan vid tvångsvård
+#OHJE_S  
+Beslut om övervakning av försändelser från en patient vid tvångsvård enligt LPT eller LRV. Koden XU040 är Vårdplan i samverkan med kommun vid tvångsvård
+#OHJE_R 
+---
+###
+#KOODI      XU043 
+#MUUT_PVM   2010/09/30
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Överföring från frivillig sluten vård till sluten psykiatrisk tvångsvård
+#RUOTSI     ---
+#LYHENNE    Över från frivillig till tvångsvård
+#OHJE_S  
+Av chefsöverläkaren fattat beslut enligt lagen om psykiatrisk tvångsvård 11§, genom vilken vården av patient som är intagen för frivillig psykiatrisk vård övergår till sluten psykiatrisk tvångsvård
+#OHJE_R 
+---
+###
+#KOODI      XU044 
+#MUUT_PVM   2010/09/30
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Överföring från rättspsykiatrisk vård till psykiatrisk tvångsvård
+#RUOTSI     ---
+#LYHENNE    Över från rättspsykiatrisk till tvångsvå
+#OHJE_S  
+Av chefsöverläkaren fattat beslut enligt lagen om psykiatrisk tvångsvård 14§, genom vilken sluten psykiatrisk tvångsvård inleds när rättspsykiatrisk vård upphör. Avser fall som beskrivs i Lagen om rättspsykiatrisk vård 15§
+#OHJE_R 
+---
+###
+#KOODI      XU050 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fastspänning
+#RUOTSI     ---
+#LYHENNE    Fastspänning
+#OHJE_S  
+Patienten hålls fastspänd med bälte eller liknande anordning på grund av omedelbar fara för att patienten allvarligt ska skada sig själv eller någon annan. Används vid tvångsvård enligt LPT eller LRV. Använd tilläggskod ZV220-ZV224 för tidsangivelse
+#OHJE_R 
+---
+###
+#KOODI      XU051 
+#MUUT_PVM   2010/09/29
+#KAYTPVM    2011/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avskiljande
+#RUOTSI     ---
+#LYHENNE    Avskiljande
+#OHJE_S  
+Patienten hålls avskiljd från andra patienter på grund av ett störande eller aggressivt beteende som allvarligt försvårar vården av de andra patienterna. Används vid tvångsvård enligt LPT eller LRV. Använd tilläggskod ZV220-ZV224 för tidsangivelse
+#OHJE_R 
+---
+###
+#KOODI      XU051 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM   2009/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Permission vid tvångsvård, 1 dygn - 1 vecka
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Permission vid tvångsvård enligt LPT eller LRV, med angivande av permissionens längd
+#OHJE_R 
+---
+###
+#KOODI      XU052 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM   2009/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Permission vid tvångsvård, 1 - 3 veckor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Permission vid tvångsvård enligt LPT eller LRV, med angivande av permissionens längd
+#OHJE_R 
+---
+###
+#KOODI      XU053 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM   2009/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Permission vid tvångsvård, 3 veckor eller mer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Permission vid tvångsvård enligt LPT eller LRV, med angivande av permissionens längd
+#OHJE_R 
+---
+###
+#KOODI      XU059 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM   2009/12/31
+#POISTETTU
+#VANHA                
+#SUOMI      Permission vid tvångsvård, UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Permission vid tvångsvård enligt LPT eller LRV, utan angivande av permissionens längd
+#OHJE_R 
+---
+###
+#KOODI      XV001 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bassängträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Sjukgymnastisk behandling i vatten
+#OHJE_R 
+---
+###
+#KOODI      XV002 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inhämtande av råd av annan hälso- och sjukvårdspersonal UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ingår i normalfallet i kontakten, men kan även registreras separat
+#OHJE_R 
+---
+###
+#KOODI      XV003 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inskrivningssamtal
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+I samband med sluten vård eller vårdperiod i öppen vård
+#OHJE_R 
+---
+###
+#KOODI      XV004 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Journaldokumentation UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XV005 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ställningstagande till remiss- eller provsvar utan närvarande patient
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XV006 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Särskilt omfattande förberedelser eller efterarbete
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Särskilt omfattande innebär arbete utöver det som vanligtvis ingår i enhetens förberedelser och efterarbete med inskriving/utskrivning, inläsning av omfattande journalhandlingar, kontakter med andra enheter, sökning i referenslitteratur etc
+#OHJE_R 
+---
+###
+#KOODI      XV007 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uppföljning och kontroll av insatt behandling UNS
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      XV008 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utfärdande av recept, hjälpmedelskort och livsmedelsanvisning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Recept, hjälpmedelskort och livsmedelsanvisning som skickas eller inringes på patientens begäran
+#OHJE_R 
+---
+###
+#KOODI      XV009 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av en njure från levande donator till transplantation, laparoskopisk
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Subindelning av YKA00
+#OHJE_R 
+---
+###
+#KOODI      XV010 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uttagning av en njure från levande donator till transplantation, öppen operation
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Subindelning av YKA00
+#OHJE_R 
+---
+###
+#KOODI      XV011 
+#MUUT_PVM   2005/04/18
+#KAYTPVM    2006/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Visning av avliden
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar stöd till anhöriga vid avsked av död patient
+#OHJE_R 
+---
+###
+#KOODI      XV012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelsgenomgång
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Strukturerad genomgång av de läkemedel som patienten är ordinerad eller använder. En systematisk genomgång av patientens totala aktuella läkemedelslista.
+#OHJE_R 
+---
+###
+#KOODI      XV013 
+#MUUT_PVM   2009/10/07
+#KAYTPVM    2010/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vård av avliden inför eventuell organdonation
+#RUOTSI     ---
+#LYHENNE    Vård av avliden inför event organdon
+###
+#KOODI_R    XX
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Diagnostiska åtgärder utan specifikation av organsystem
+#RUOTSI     ---
+#ENGL       Investigative procedures on unspecified organ system
+###
+#KOODI      XXA00 
+#MUUT_PVM   1995/10/11
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Klinisk undersökning i anestesi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Användes exempelvis vid PIN (Palpation i narkos) och PIS (Palpation i spinal). Den anestesi patienten genomgått kan specificeras med anestesikoder
+#OHJE_R 
+---

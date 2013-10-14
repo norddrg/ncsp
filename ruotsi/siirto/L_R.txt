@@ -1,0 +1,1086 @@
+
+###
+#KOODI_L    R
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutuspalvelut
+#RUOTSI     Rehabilitations service
+#ENGL       Rehabilitation services
+###
+#KOODI_R    R1
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutustarpeen ja -mahdollisuuksien arviointi
+#RUOTSI     Uppskattning av rehabilitationsbehov och -potential
+#ENGL       
+###
+#KOODI_A    R11
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutuksen yleisarvio
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R1100
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yleisarvio kuntoutustarpeesta
+#RUOTSI     ---
+#LYHENNE    Yleisarvio kuntoutustarpeesta
+#OHJE_S  
+Kuntoutustyötä tekevän orientoiva kartoitus ja yleisarvio kuntoutustarpeesta kuntoutuksen vireillepanoksi, kuntoutuksen käynnistämiseksi, alustavan kuntoutussuunnitelman laatimiseksi tai tilanteen tarkistamiseksi.
+Sisältää alustavan kuntoutusta koskevan lausunnon.
+Ei sisällä  (laajempaa) kuntoutussuunnitelmaa (R1400), jossa tehdään kokonaisvaltainen pitkäntähtäimen kuntoutussuunnitelma.
+#OHJE_R 
+---
+###
+#KOODI_A    R12
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutustutkimus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Kuntoutustutkimus on laaja eri alojen asiantuntijoiden suorittamaan tutkimukseen perustuva arviointi tutkittavan toimintakyvystä, voimavaroista sekä kuntoutusedellytyksistä. Kuntoutustutkimukseen kuuluu tutkittavan tarpeiden mukaisesti eri
+asiantuntijoiden suorittamia arvioita (R1210 - 1280). Kuntoutustutkimuksen tuloksena laaditaan yksilöllinen ja perusteltu kuntoutussuunnitelma (R1400).
+#OHJE_R 
+---
+###
+#KOODI      R1210
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lääketieteellinen arvio kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     ---
+#LYHENNE    Lääketieteellinen arvio
+#OHJE_S  
+Lääketieteelliseen tutkimukseen perustuva arvio, jossa selvitetään, miten sairaus tai vamma vaikuttaa ja tulee todennäköisesti vaikuttamaan tutkittavan toiminta-, oppimis- ja työkykyyn sekä kuntoutumismahdollisuuksiin.
+#OHJE_R 
+---
+###
+#KOODI      R1220
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     ---
+#LYHENNE    Psykologinen arvio
+#OHJE_S  
+Psykologiseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan psyykkiset rajoitukset, edellytykset sekä motivaatio työntekoon, koulutukseen ja kuntoutukseen, sekä arviot tarvittavista oman elämän hallintaa tukevista kuntoutustoimenpiteistä.
+#OHJE_R 
+---
+###
+#KOODI      R1230
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuropsykologinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     ---
+#LYHENNE    Neuropsykologinen arvio
+#OHJE_S  
+Neuropsykologiseen tutkimukseen perustuva arvio, jossa selvitetään aivosairauteen ja -vaurioon liittyvien henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden merkitys tutkittavan työ- ja toimintakykyyn ja kuntoutumismahdollisuuksiin.
+#OHJE_R 
+---
+###
+#KOODI      R1240
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sosiaalinen arvio  kuntoutustarpeesta ja -mahdollisuuksista
+#RUOTSI     ---
+#LYHENNE    Sosiaalinen arvio
+#OHJE_S  
+Sosiaaliseen tutkimukseen perustuva arvio, jossa selvitetään tutkittavan sosiaalinen tausta ja nykytilanne sekä arvioidaan kuntoutumisen edellyttämät sosiaaliturvaratkaisut ja muiden elämänhallintaa tukevien toimenpiteiden tarve.
+#OHJE_R 
+---
+###
+#KOODI      R1250
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintakyvyn arviointi
+#RUOTSI     ---
+#LYHENNE    Toimintakyvyn arvio
+#OHJE_S  
+Fysio- ja toimintaterapeuttiseen tutkimukseen perustuva tai muu asiantuntija-arvio, jossa selvitetään tutkittavan toimintakyvyn vahvuudet ja rajoitukset sekä toiminnalliset valmiudet. Sisältää tarpeen mukaan fyysisen suorituskyvyn ja liikkumisen
+arvioinnin sekä päivittäisissä toimissa, työssä ja asuin- sekä elinympäristössä selviytymisen arvioinnin.
+#OHJE_R 
+---
+###
+#KOODI      R1260
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatiokyvyn arviointi
+#RUOTSI     ---
+#LYHENNE    Kommunikaatiokyvyn arvio
+#OHJE_S  
+Asiantuntijoiden tutkimukseen perustuva arvio, jossa selvitetään tutkittavan vuorovaikutustaitoihin ja sosiaaliseen kommunikointiin vaikuttavat kielen, puheen, äänen, kuulon ja näön rajoitukset ja häiriöt. Tutkimusten pohjalta selvitetään kuntoutuksen
+edellytykset ja mahdollisuudet.
+#OHJE_R 
+---
+###
+#KOODI      R1270
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatuksellisen kuntoutuksen tarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    Kasvatuksellinen kuntoutustarpeen arvio
+#OHJE_S  
+Opetuksen ja kasvatuksen asiantuntijoiden arvio tutkittavan oppimisen edellytyksistä ja erityisopetuksen tarpeesta.
+#OHJE_R 
+---
+###
+#KOODI      R1280
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammatillisen kuntoutuksen tarpeen arviointi
+#RUOTSI     ---
+#LYHENNE    Ammatillisen kuntoutuksen tarpeen arvio
+#OHJE_S  
+Asiantuntijan arvio tutkittavan mahdollisuuksista ja tarvittavista toimenpiteistä työllistyä, selviytyä nykyisessä työssään tai siirtyä uusiin tehtäviin. Arvioijina muun muassa erityistyövoimaneuvojat, kuntoutusohjaajat tai työklinikat.
+#OHJE_R 
+---
+###
+#KOODI_A    R13
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kokeilut
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Käytännön tilanteissa tai vastaavissa toimintaympäristöissä suoritetut, ajallisesti rajatut kokeilut sekä niihin liittyvät tutkimukset ja arvioinnit henkilön kuntoutumismahdollisuuksista.
+Kokeiluissa määrä ilmoitetaan kokeilupäivinä eikä kertoina.
+#OHJE_R 
+---
+###
+#KOODI      R1310
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Päivähoitokokeilut
+#RUOTSI     ---
+#LYHENNE    Päivähoitokokeilut
+#OHJE_S  
+Kuntoutusta tarvitsevan lapsen päivähoidon järjestämiseen liittyvä kokeilu sisältäen myös henkilöstön ja vanhempien ohjauksen.
+#OHJE_R 
+---
+###
+#KOODI      R1320
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutuskokeilut
+#RUOTSI     ---
+#LYHENNE    Koulutuskokeilut
+#OHJE_S  
+Kuntoutusta tarvitsevan henkilön koulunkäynnin, ammatillisen tai muun opiskelun järjestämiseen liittyvä kokeilu, jossa selvitetään hänen mahdollisuutensa suorittaa opintoja sekä selviytyä niistä. Sisältää myös henkilöstön ja vanhempien ohjauksen.
+#OHJE_R 
+---
+###
+#KOODI      R1330
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkokeilu työklinikalla
+#RUOTSI     ---
+#LYHENNE    Työkokeilu työklinikalla
+#OHJE_S  
+Kokeilu, jossa selvitetään kuntoutujan edellytyksiä ja mahdollisuuksia suoriutua työelämässä.Työkokeilussa kokeillaan työtehtävistä suoritutumista joko työklinikalla tai työklinikan ohjauksessa normaalissa työpaikassa.
+#OHJE_R 
+---
+###
+#KOODI      R1340
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkokeilu työpaikalla
+#RUOTSI     ---
+#LYHENNE    Työkokeilu työpaikalla
+#OHJE_S  
+Kokeilu, jossa selvitetään kuntoutujan mahdollisuudet suoriutua työtehtävistä ja sopeutua työympäristöön ja sen asettamiin ehtoihin normaaleissa työolosuhteissa.
+Toteutetaan yleensä yhteistyössä työvoimatoimiston kanssa.
+#OHJE_R 
+---
+###
+#KOODI      R1350
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asumiskokeilu
+#RUOTSI     ---
+#LYHENNE    Asumiskokeilu
+#OHJE_S  
+Kokeilu, jossa selvitetään kuntoutujan edellytykset itsenäiseen asumiseen ja siihen tarvittavat tukitoimenpiteet. Kokeilu voidaan toteuttaa sairaalan tai kuntoutuslaitoksen yhteydessä olevissa asumiskokeiluun varatuissa tiloissa, palvelutaloissa,
+ryhmäkodissa tai itsenäisessä asumisessa.
+#OHJE_R 
+---
+###
+#KOODI_A    R14
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutussuunnitelma
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R1400
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutussuunnitelman laatiminen
+#RUOTSI     ---
+#LYHENNE    Kuntoutussuunnitelman laatiminen
+#OHJE_S  
+Kuntoutussuunnitelma perustuu yleensä moniammatilliseen arvioon kuntoutustarpeesta ja - mahdollisuuksista, kuntoutuksen tavoitteista, tarvittavista kuntoutustoimenpiteistä sekä kuntoutuksen järjestämisestä ja seurannasta. Kuntoutussuunnitelma on samalla
+kuntoutujan kanssa tehty sopimus kuntoutuksen tavoitteista ja menetelmistä.
+Kuntoutussuunnitelma on ainoa luokka, jota voidaan käyttää yksittäisen käynnin yhteydessä muiden luokkien rinnalla.
+#OHJE_R 
+---
+###
+#KOODI_R    R2
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista tukeva ohjaus
+#RUOTSI     Ledvisning för att stödja rehabilitation
+#ENGL       
+###
+#KOODI_A    R21
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Neuvonta ja kuntoutusohjaus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Kuntoutujan, hänen perheensä ja lähiyhteisönsä tukemista, jonka tavoitteena on neuvonnan ja ohjauksen keinoin turvata kuntoutusprosessin tarkoituksenmukainen eteneminen ja lisätä vajaakuntoisen henkilön toimintamahdollisuuksia ja mahdollisimman itsenäistä 
+elämän hallintaa.
+#OHJE_R 
+---
+###
+#KOODI      R2110
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ensitiedon antaminen
+#RUOTSI     ---
+#LYHENNE    Ensi tiedon antaminen
+#OHJE_S  
+Alkuvaiheen neuvontaa ja ohjausta, jossa vasta vammautuneelle tai pitkäaikaiseen sairauteen sairastuneelle sekä hänen perheelleen ja lähiyhteisölleen annetaan tietoa ja tukea. Tavoitteena on luoda edellytyksiä kuntoutumiselle sekä rohkaista omaisia
+sairastuneen tukemiseen.
+#OHJE_R 
+---
+###
+#KOODI      R2120
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntoutuspalveluita ja toimeentulon turvaamista koskeva neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Vammautuneelle tai pitkäaikaissairaalle annetaan tietoa kuntoutumismahdollisuuksista sekä kuntoutuspalveluista ja niihin hakeutumisesta. Neuvonta voi koskea myös sosiaaliturvaa ja muuta taloudellista tukea. Voi sisältää myös konkreettisen ohjauksen
+palvelujen piiriin ja avustamisen esimerkiksi lomakkeiden täyttämisessä tai viranomaisten kanssa asioitaessa.
+#OHJE_R 
+---
+###
+#KOODI      R2130
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Itsenäistä selviytymistä edistävä neuvonta ja ohjaus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Elinympäristössä selviytymiseen, itsestä huolehtimiseen, ravintoon, liikkumiseen ja elintapoihin liittyvä neuvonta. Voi sisältää myös asumiseen, asioimiseen, palvelujen käyttöön, apuvälineiden käyttöön, kommunikaatiotaitojen hallintaan sekä muihin
+elämänhallintaa ja sosiaalista toimintakykyä edistäviin tekijöihin sekä omien voimavarojen hyödyntämiseen liittyvän neuvonnan ja ohjauksen. Sisältää myös päiväkotien, koulujen, oppilaitosten ja työpaikkojen henkilöstön neuvonnan ja ohjauksen silloin kun
+se koskee yhtä kuntoutujaa.
+#OHJE_R 
+---
+###
+#KOODI_A    R22
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kasvatukselliseen kuntoukseen ohjaus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R2200
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatukselliseen kuntoutukseen ohjaus
+#RUOTSI     ---
+#LYHENNE    Kasvatukselliseen kuntoutukseen ohjaus
+#OHJE_S  
+Kuntoutettavan oppimisen edellytysten vahvistamista ja erilaisten koulutukseen liittyvien vaihtoehtojen selvittämistä ja ohjausta koulutusvaihtoehtojen valintaan.
+#OHJE_R 
+---
+###
+#KOODI_A    R23
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Ammattiin ja työelämään ohjaus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R2310
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammatinvalinnanohjaus
+#RUOTSI     ---
+#LYHENNE    Ammatinvalinnanohjaus
+#OHJE_S  
+Kuntoutujan auttamista selvittämään eri työaloja koskevaa soveltuvuuttaan ja henkilökohtaisia edellytyksiään.
+#OHJE_R 
+---
+###
+#KOODI      R2320
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työvoimaneuvonta
+#RUOTSI     ---
+#LYHENNE    Työvoimaneuvonta
+#OHJE_S  
+Kuntoutujan työssä selviytymistä, elinkeinon harjoittamista sekä työllistymistä koskeva neuvonta.
+#OHJE_R 
+---
+###
+#KOODI_R    R3
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista tukeva valmennus
+#RUOTSI     Rehabilitation stödjande träning
+#ENGL       
+###
+#KOODI_A    R31
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Sopeutumisvalmennus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Kuntoutujan, hänen perheensä ja lähiyhteisönsä valmentamista selviämään sairastumisen ja vammautumisen aiheuttamassa elämäntilanteessa. Tavoitteena on fyysisen, psyykkisen ja sosiaalisen toimintakyvyn edistäminen. Sopeutumisvalmennukseen kuuluu
+psykososiaalisen valmennuksen lisäksi myös muuta valmennusta (R3120 - 3160) kuntoutujan tarpeiden mukaisesti.
+#OHJE_R 
+---
+###
+#KOODI      R3110
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykososiaalinen valmennus
+#RUOTSI     ---
+#LYHENNE    Psykososiaalinen valmennus
+#OHJE_S  
+Kuntoutujan henkisten ja sosiaalisten edellytysten vahvistamista, jotta hän pystyisi elämään mahdollisimman täysipainoista elämää.
+Sisältää tarpeen mukaan myös kuntoutujan valmentamisen toimimaan vuorovaikutuksessa perhe-, työ- ja muissa arkielämän yhteisöissä sekä ohjauksen vammaan ja haittaan liittyvissä seksuaaliongelmissa.
+#OHJE_R 
+---
+###
+#KOODI      R3120
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Liikkumistaitojen valmennus
+#RUOTSI     ---
+#LYHENNE    Hiikkumistaitojen valmennus
+#OHJE_S  
+Kuntoutujan opettamista ja valmentamista liikkumaan pyörätuolilla tai muun erityistä harjoittelua vaativan liikkumisvälineen (esimerkiksi auto) avulla.
+Sisältää myös esimerkiksi alaraajaproteesin käyttöön valmentamisen, halvauspotilaan liikkumisen harjoittamisen sekä näkövammaisen liikkumistaidon ohjauksen.
+#OHJE_R 
+---
+###
+#KOODI      R3130
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Päivittäisissä toimissa tarvittavien taitojen valmennus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kuntoutujan valmentamista arkipäivän elämässä tarvittavien taitojen, kuten pukeutumisen, peseytymisen, syömisen ja kodinhoidon hallintaan joko apuvälinein tai ilman.
+Sisältää myös esimerkiksi yläraajaproteesin käyttöön valmentamisen ja kehityksessä viivästyneiden lasten motoriikan harjoittamista.
+#OHJE_R 
+---
+###
+#KOODI      R3140
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kommunikaatiotaitojen valmennus
+#RUOTSI     ---
+#LYHENNE    Kommunikaatiotaitojen valmennus
+#OHJE_S  
+Kuntoutujan tarvitsemien kommunikaatiotaitojen, kuten puheen, huulioluvun, pistekirjoituksen ja viittomakielen opetuksen ja harjoittelun sekä korvaavien kommunikaatiotaitojen (esimerkiksi symbolikielet, atk-apuvälineet) valmennuksen.
+Sisältää myös näkövammaisten näönkäytön opetuksen ja laajasti vuorovaikutustaitojen ohjauksen.
+#OHJE_R 
+---
+###
+#KOODI      R3150
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristön hallintaan valmentaminen
+#RUOTSI     ---
+#LYHENNE    Elinympäristön hallintaan valmentaminen
+#OHJE_S  
+Elinympäristön hallintaan ja siinä tarvittavien laitteiden käyttöön liittyvä valmennus.
+#OHJE_R 
+---
+###
+#KOODI      R3160
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus- ja oppimistaitojen valmennus
+#RUOTSI     ---
+#LYHENNE    Koulutus- ja oppimistaitojen valmennus
+#OHJE_S  
+Koulunkäyntiin ja opiskeluun liittyvien taitojen valmennusta ja ohjausta.
+Sisältää mm. atk-välineiden käytön harjoitusta opiskelun apuvälineeksi.
+#OHJE_R 
+---
+###
+#KOODI_A    R32
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Yhteisövalmennus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R3200
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yhteisövalmennus
+#RUOTSI     ---
+#LYHENNE    Yhteisövalmennus
+#OHJE_S  
+Hoito- tai asuinyhteisössä tapahtuvaa, esimerkiksi mielenterveys- ja päihdehuollon potilaiden sekä kehitysvammaisten kokonaisvaltaista valmentamista.
+Sisältää myös perheen ja lähiyhteisön ohjauksen. Yhteisövalmennus perustuu kuntoutussuunnitelmaan.
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+#OHJE_R 
+---
+###
+#KOODI_A    R33
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Asumisvalmennus
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R3300
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Asumisvalmennus
+#RUOTSI     ---
+#LYHENNE    Asumisvalmennus
+#OHJE_S  
+Yksilöllisesti tai ryhmässä tapahtuvaa valmennusta itsenäiseen asumiseen. Valmennus koskee selviytymistä kotona, kun yhteisövalmennus (R3200) koskee laajemmin selviytymistä myös sosiaalisen ympäristön kanssa.
+Tässä luokassa määrä ilmoitetaan valmennuspäivien lukumääräänä eikä kertoina.
+#OHJE_R 
+---
+###
+#KOODI_A    R34
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista tukeva koulutus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Kuntoutuksena tuettava koulutus voi olla joko ammatillista peruskoulutusta tai jatkokoulutusta.
+#OHJE_R 
+---
+###
+#KOODI      R3410
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Erityisopetus peruskoulussa, lukiossa tai kansanopistossa
+#RUOTSI     ---
+#LYHENNE    Erityisopetus
+###
+#KOODI      R3420
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus yleisissä ammatillisissa oppilaitoksissa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      R3430
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus ammattikorkea- ja korkeakouluissa sekä yliopistoissa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      R3440
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus aikuiskoulutuskeskuksissa tai ammattikursseilla
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      R3450
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulutus ammatillisissa erityisoppilaitoksissa
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      R3460
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oppisopimuskoulutus
+#RUOTSI     ---
+#LYHENNE    Oppisopimuskoulutus
+###
+#KOODI      R3470
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu koulutus
+#RUOTSI     ---
+#LYHENNE    Muu koulutus
+#OHJE_S  
+Sisältää myös yksityiset oppilaitokset
+#OHJE_R 
+---
+###
+#KOODI_A    R35
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Ammatillista kuntoutumista tukeva valmennus
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Kuntoutujan valmentamista ja hänen fyysisten, psyykkisten ja sosiaalisten edellytystensä vahvistamista nykyisissä tai uusissa työtehtävissä selviytymiseen.
+#OHJE_R 
+---
+###
+#KOODI      R3510
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työhön valmennus
+#RUOTSI     ---
+#LYHENNE    Työhön valmennus
+#OHJE_S  
+Työssä tarvittavien valmiuksien hankkimista työpaikalla toteutettavan yksilöllisen ohjelman puitteissa.
+#OHJE_R 
+---
+###
+#KOODI      R3520
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työkykyä ylläpitävä ja parantava valmennus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Toimintaa, jonka avulla työnantaja ja työntekijä sekä työpaikan yhteistoimintaorganisaatiot yhteistyössä pyrkivät edistämään ja tukemaan työelämässä olevan työ- ja toimintakykyä hänen työuransa kaikissa vaiheissa.
+#OHJE_R 
+---
+###
+#KOODI      R3530
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ammatillisesti syventävä lääkinnällinen kuntoutus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Toimintaa, jonka avulla tuetaan ammattiryhmäkohtaisesti vajaakuntoisen työntekijän fyysisiä ja henkisiä voimavaroja työssä selviytymiseksi.
+#OHJE_R 
+---
+###
+#KOODI      R3540
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuntouttava työtoiminta
+#RUOTSI     ---
+#LYHENNE    Kuntouttava työtoiminta
+#OHJE_S  
+Työkeskuksissa ja vastaavissa toteutettavaa työtoimintaa, jonka tavoitteena on sosiaalisen toimintakyvyn ylläpitäminen ja elämänsisällön hankkiminen ilman ansiotulon hankkimistarkoitusta.
+#OHJE_R 
+---
+###
+#KOODI_A    R36
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Harrastus- ja vapaa-aikatoiminnan tukeminen
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R3600
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Harrastus- ja vapaa-aikatoiminnan ohjaus
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kuntoutussuunnitelmaan sisältyvää ohjattua harrastus- ja vapaa-ajan toiminnan harjoittelua, jonka tavoitteena on lisätä kuntoutujan elämän sisältöä sekä elämänlaatua.
+#OHJE_R 
+---
+###
+#KOODI_R    R4
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Kuntoutumista edistävät terapiat
+#RUOTSI     Rehabilitation främjande terapier
+#ENGL       
+#OHJE_S  
+Ei sisällä aiempiin ryhmiin (R1-R3) sisältyviä toimintoja. Esimerkiksi fysioterapian käyttö sopeutumisvalmennuksen osana tulee koodata ryhmään R3120.
+#OHJE_R 
+---
+###
+#KOODI_A    R41
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Terapiat
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Terapioiden tulee perustua kuntoutussuunnitelmaan ja vastata sisällöltään kyseisen ammatillisen koulutuksen saaneen henkilön toteuttamaa terapiaa.
+#OHJE_R 
+---
+###
+#KOODI      R4110
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysioterapia
+#RUOTSI     ---
+#LYHENNE    Fysioterapia
+#OHJE_S  
+Kuntoutujan liikkumis- ja toimintakyvyn edistämistä sekä ylläpitämistä.
+Fysioterapian tarkempi sisältö on kuvattu Suomen Kuntaliiton julkaisemassa Fysioterapianimikkeistössä.
+#OHJE_R 
+---
+###
+#KOODI      R4120
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Toimintaterapia
+#RUOTSI     ---
+#LYHENNE    Toimintaterapia
+#OHJE_S  
+Kuntoutujan toimintakyvyn edistämistä ja ylläpitämistä.
+Toimintaterapian tarkempi sisältö on kuvattu Suomen Kuntaliiton julkaisemassa Toimintaterapianimikkeistössä.
+#OHJE_R 
+---
+###
+#KOODI      R4130
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Puheterapia
+#RUOTSI     ---
+#LYHENNE    Puheterapia
+#OHJE_S  
+Kuntoutujan puhe-, ääni- ja kommunikaatio-ongelmien parantamista tai helpottamista.
+Puheterapiassa pyritään vaikuttamaan niihin perusvalmiuksiin, jotka ovat puheen ymmärtämisen ja tuottamisen edellytyksiä.
+Puheterapian tarkempi sisältö on kuvattu Suomen Kuntaliiton julkaisemassa Puheterapianimikkeistössä.
+#OHJE_R 
+---
+###
+#KOODI      R4140
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Psykoterapia
+#RUOTSI     ---
+#LYHENNE    Psykoterapia
+#OHJE_S  
+Kuntoutujan psyykkisen toimintakyvyn vahvistamista ja lisäämistä. Kuntoutus kohdistuu ihmisen ajatteluun, tunteisiin ja toimintaan sekä näiden välisiin yhteyksiin.
+#OHJE_R 
+---
+###
+#KOODI      R4150
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Neuropsykologinen kuntoutus
+#RUOTSI     ---
+#LYHENNE    Neuropsykologinen kuntoutus
+#OHJE_S  
+Aivosairauksien ja -vaurioiden jälkeisten henkisissä toiminnoissa ilmenevien yleis- ja erityishäiriöiden lieventämistä, henkisen toimintakykyisyyden parantamista sekä sairauteen tai vammaan sopeutumisen edistämistä.
+#OHJE_R 
+---
+###
+#KOODI      R4160
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kuntoutumista edistävä terapia
+#RUOTSI     ---
+#LYHENNE    Muu kuntoutumista edistävä terapia
+#OHJE_S  
+Kuntoutumisen toteuttamisessa voidaan käyttää myös muita kuin lääkinnällisen kuntoutuksen asetuksessa mainittuja terapiamuotoja, jotka edistävät kuntoutujan toimintakykyä ja lisäävät hänen elämänlaatuaan sekä -hallintaansa. Tällaisia terapiamuotoja ovat
+asiantuntijan ohjauksessa toteutettuina mm. kuvataideterapia, musiikkiterapia sekä ratsastusterapia. Näiden terapiamuotojen käyttö kuntoutuksessa edellyttää, että ne on sisällytetty kuntoutussuunnitelmaan ja niiden tuloksia seurataan ja arvioidaan.
+#OHJE_R 
+---
+###
+#KOODI      R4170
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kasvatuksellisen kuntoutuksen terapiamuodot
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Yksilön kasvun, kehittymisen ja oppimisen tueksi annettavaa terapiaa.
+#OHJE_R 
+---
+###
+#KOODI_R    R5
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kuntoutuspalvelut
+#RUOTSI     Annan rehabilitations service
+#ENGL       
+###
+#KOODI_A    R51
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Apuvälinepalvelut
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Apuvälineillä tarkoitetaan toimintavajavuuden korvaamiseen tai lieventämiseen tarkoitettu ja välineitä, laitteita tai vastaavia, joita vajaakuntoinen tai vammainen tarvitsee selviytyäk- seen päivittäisessä elämässään. Apuvälineisiin luetaan myös
+kuntoutuksessa tarvittavat hoito- ja harjoitusvälineet, vammaisen auttamisessa tarvittavat välineet sekä vammaispal- velulain mukaiset välineet.
+#OHJE_R 
+---
+###
+#KOODI      R5110
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälinetarpeen arviointi, apuvälineen sovitus, kokeilu ja valinta sekä käytön opetus ja luovutus
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      R5120
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen valmistus
+#RUOTSI     ---
+#LYHENNE    Apuvälineen valmistus
+###
+#KOODI      R5130
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen korjaus ja huolto
+#RUOTSI     ---
+#LYHENNE    Apuvälineen korjaus ja huolto
+###
+#KOODI      R5140
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apuvälineen käytön seuranta
+#RUOTSI     ---
+#LYHENNE     Apuvälineen käytön seuranta
+###
+#KOODI_A    R52
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Asumiseen ja elinympäristön hallintaan liittyvät muutostyöt
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R5210
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Arvio elinympäristössä tarvittavista muutostöistä
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Arvio ja suositus asuin- ja elinympäristössä tarvittavista muutostöistä.
+#OHJE_R 
+---
+###
+#KOODI      R5220
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Elinympäristön muutostyöt
+#RUOTSI     ---
+#LYHENNE    Elinympäristön muutostyöt
+#OHJE_S  
+Asunnon- ja asuinympäristön muutostyöt sekä työpaikan muutostyöt.
+#OHJE_R 
+---
+###
+#KOODI      R5230
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ympäristön hallintaa tukevat muut muutostyöt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ympäristönhallintalaitteiden sekä liikkumisvälineiden (esimerkiksi auto) käyttöön sekä hankintaan liittyvät muutostyöt.
+#OHJE_R 
+---
+###
+#KOODI_A    R53
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Työllistymisen tukeminen
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      R5310
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työhönsijoitus ilman taloudellisia tukitoimia
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kuntoutujan työllistyminen työnvälityspalvelun avulla ilman taloudellisia tukitoimia.
+#OHJE_R 
+---
+###
+#KOODI      R5320
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työhönsijoitus taloudellisten tukitoimien avulla
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kuntoutujan työhönsijoitus työnantajalle maksettavan työolosuhteiden järjestelytuen perusteella. Työhönsijoitus voi tapahtua työkokeilun, työharjoittelun tai laajemman palvelukokonaisuuden tuella.
+#OHJE_R 
+---
+###
+#KOODI      R5330
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Oman elinkeinon harjoittamisen tukeminen
+#RUOTSI     ---
+#LYHENNE    Oman elinkeinon harjoittamisen tukeminen
+###
+#KOODI      R5340
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Työelämässä pysymisen tukitoimet
+#RUOTSI     ---
+#LYHENNE    Työelämässä pysymisen tukitoimet
+###
+#KOODI      R5350
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Suojatyö
+#RUOTSI     ---
+#LYHENNE    Suojatyö
+###
+#KOODI_A    R54
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Henkilökohtaiset palvelut ja tukitoimet
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Henkilökohtaiset palvelut ja tukitoimet ovat jatkuvaluonteisia palveluita, joita myönnetään vammaiselle henkilölle selviytymisen edistämiseksi ja tukemiseksi.
+#OHJE_R 
+---
+###
+#KOODI      R5410
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuljetus- ja saattajapalvelut
+#RUOTSI     ---
+#LYHENNE    Kuljetus- ja saattajapalvelut
+#OHJE_S  
+Vammaisen henkilön liikkumisessa tarvittavia, jatkuvaluonteisia kuljetus- ja saattajapalveluja, jotka järjestetään vammaispalvelulain mukaisena toimintana.
+#OHJE_R 
+---
+###
+#KOODI      R5420
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Opaskoirapalvelut
+#RUOTSI     ---
+#LYHENNE    Opaskoirapalvelut
+#OHJE_S  
+Lääkinnällisenä kuntoutuksena tai vastaavin järjestelyin toteutetut opas- ja avustajakoirapalvelut sekä niihin liittyvä taloudellinen tuki.
+#OHJE_R 
+---
+###
+#KOODI      R5430
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tulkkipalvelut
+#RUOTSI     ---
+#LYHENNE    Tulkkipalvelut
+#OHJE_S  
+Kuulovammaisten,- kuurosokeiden ja puhevammaisten tulkkipalvelut.
+#OHJE_R 
+---
+###
+#KOODI      R5440
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koulunkäynti- ja opiskeluavustajan palvelut
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Koulunkäynnissä ja opiskelussa tarvittavat avustajan palvelut.
+#OHJE_R 
+---
+###
+#KOODI      R5450
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Henkilökohtaisen avustajan palvelut
+#RUOTSI     ---
+#LYHENNE    Henkilökohtaisen avustajan palvelut
+#OHJE_S  
+Vammaispalvelulain mukaiset, jatkuvaluonteiset palvelut.
+#OHJE_R 
+---
+###
+#KOODI      R5460
+#MUUT_PVM   1996/12/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Palveluasumiseen liittyvät tukitoimet
+#RUOTSI     ---
+#LYHENNE    Palveluasumiseen liittyvät tukitoimet
+#OHJE_S  
+Vaikeavammaisen palveluasuminen omassa kodissa, palveluasuntoryhmässä tai vaikeavammaisten palvelutalossa asumiseen liittyvine tukitoimineen, joiden kustannuksista kunta vastaa täysimääräisesti vammaispalvelulain mukaisena toimintana.
+#OHJE_R 
+---
+###
+#KOODI_A    R55
+#MUUT_PVM   1997/03/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut kuntoutuspalvelut
+#RUOTSI     Muut kuntoutuspalvelut
+#ENGL       
+###
+#KOODI      R5599
+#MUUT_PVM   1997/03/19
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muu kuntoutuspalvelu
+#RUOTSI     ---
+#LYHENNE    Muu kuntoutuspalvelu

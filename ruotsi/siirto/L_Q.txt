@@ -1,0 +1,4163 @@
+
+###
+#KOODI_L    Q
+#MUUT_PVM   1996/05/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#SUOMI      Strålbehandling av hud
+#RUOTSI     ---
+#ENGL       Skin radiotherapy
+###
+#KOODI_R    QA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på hud och subkutana vävnader i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Head and neck
+###
+#KOODI      QA000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till psykiska funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning, övervakning, underlättande och/eller stöd av hjärnans och det centrala nervsystemets funktioner, såväl övergripande funktioner såsom medvetande, energi och drift som specifika psykiska funktioner såsom minne, språk och kalkylerande psykiska funk
+#OHJE_R 
+---
+###
+#KOODI      QA001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av medvetande
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av medvetandegrad med eller utan instrument oavsett metod. ICF b110
+#OHJE_R 
+---
+###
+#KOODI      QA002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av orienteringsfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av orientering till person, tid och rum. ICF b114
+#OHJE_R 
+---
+###
+#KOODI      QA003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av energi och driftfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av motivation och impulskontroll. ICF b130
+#OHJE_R 
+---
+###
+#KOODI      QA004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Underlättande av sömn
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Underlättande av regelbunden sömn genom information, lugnande närvaro, avslappningshjälp,  anpassning av omgivningen. Icke farmakologisk åtgärd.   b134
+#OHJE_R 
+---
+###
+#KOODI      QA005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Distraktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Genom distraherande aktiviteter rikta uppmärksamheten på annat än en oönskad upplevelse som t.ex. smärta eller sväljningssvårigheter. ICF b140
+#OHJE_R 
+---
+###
+#KOODI      QA006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Uppmärksamhetsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att vidmakthålla, skifta och fördela koncentration i olika aktiviteter.  ICF b140
+#OHJE_R 
+---
+###
+#KOODI      QA007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Minnesträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av minnesfunktion genom att använda olika minnestekniker t.ex. visualisering, minnesspel, associeringsteknik. ICF b144
+#OHJE_R 
+---
+###
+#KOODI      QA008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av psykomotoriska funktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av specifika psykiska funktioner för kontroll över motoriska och psykologiska händelser på kroppsnivå.ICF b147
+#OHJE_R 
+---
+###
+#KOODI      QA009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd vid oro
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Reducera oro genom förhållningssätt och fysisk psykisk närvaro. ICF b152
+#OHJE_R 
+---
+###
+#KOODI      QA010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perceptionsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att känna igen och tolka sinnesstimuli. ICF b156
+#OHJE_R 
+---
+###
+#KOODI      QA011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kognitiv funktionsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av psykiska funktioner som beslutsfattande, abstrakt tänkande, planering och utförande av planer, mental flexibilitet och att fatta beslut om vilket beteende som är påkallat under vilka omständigheter, ofta benämnda exekutiva funktioner. ICF b164
+#OHJE_R 
+---
+###
+#KOODI      QA012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Afasiträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att känna igen och använda talat och skrivet språk. ICF b167
+#OHJE_R 
+---
+###
+#KOODI      QA013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Apraxiträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att organisera och samordna sammansatta målinriktade rörelser. ICF b176
+#OHJE_R 
+---
+###
+#KOODI      QA014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kroppsmedvetandeträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att förbättra den medvetna och omedvetna uppfattningen om kroppen, kroppsbild.  Yoga, qigong, Rytm & Rörelse, KROK ingår. ICF b180
+#OHJE_R 
+---
+###
+#KOODI      QA015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Självbildsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att ompröva skeva tankemönster och att se realistiskt på sig själv och omgivningen.  ICF b180
+#OHJE_R 
+---
+###
+#KOODI_A    QAA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Punktion, incision, biopsi och destruktion vid hudförändring i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Incision of skin of head and neck
+###
+#KOODI      QAA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasion i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulation av hudförändring i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserbehandling eller fotokoagulation av hudförändring i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kryoterapi av hudförändring i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan punktion, incision eller destruktion vid hudförändring i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Shave och curettage
+#OHJE_R 
+---
+###
+#KOODI_A    QAB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sårbehandling i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Procedures for wounds of skin of head and neck
+###
+#KOODI      QAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudsutur i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevision i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sårbehandling i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av kutan främmande kropp i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Removal of foreign body from head and neck
+###
+#KOODI      QAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av subkutan främmande kropp i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av brännskador i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Procedures for burns of head and neck
+###
+#KOODI      QAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte vid brännskada i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av brännskada i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision och täckning av brännskada i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision och rekonstruktion vid hudförändringar i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Excision and repair of lesion of skin of head and neck
+###
+#KOODI      QAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudexcision i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hudförändring i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar även excisionsbiopsi
+#OHJE_R 
+---
+###
+#KOODI      QAE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av annat ärr i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ärr efter brännskada i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av operationsärr i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av huddefekt efter skada eller operation i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion vid missbildning eller hudsjukdom i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan excision eller rekonstruktion i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAF
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på kapillitiet och ögonbrynen
+#RUOTSI     ---
+#ENGL       Operations on scalp and eyebrow
+###
+#KOODI      QAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hårtransplantation med hårbärande transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAF10 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av ögonbryn med hårbärande transplantat
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAF99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation på hårbärande hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för kroniska sår och fistlar i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Operations for chronic ulcers and fistulae of skin of head and neck
+###
+#KOODI      QAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för kroniskt sår eller fistel i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekundärsutur i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för kroniskt sår eller fistel i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QAJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer av estetiska skäl i huvud-halsregionen
+#RUOTSI     ---
+#ENGL       Aesthetic operations on skin of head and neck
+###
+#KOODI      QAJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsugning i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ10 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lyftning av ögonbryn
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ15 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lyftning av ögonbryn med användande av videoendoskop
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ20 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Subperiostal ansiktslyftning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ25 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ansiktslyftning med användande av videoendoskop
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ30 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan ansiktslyftning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ35 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan korrektion av hudöverskott eller lös hud i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QAJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation av estetiska orsaker i huvud-halsregion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Åtgärder på huden på bålen
+#RUOTSI     ---
+#ENGL       Trunk
+###
+#KOODI      QB000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling av sinnesfunktioner och smärta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning, övervakning, underlättande och/eller stöd gällande sinnesorganens funktioner såsom syn, hörsel, balans, smak, lukt, proprioception, beröring och smärta. Övergripande kod inom avsnittet ICF b210 - b299
+#OHJE_R 
+---
+###
+#KOODI      QB001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Balansträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att bibehålla balans eller kompensera för eventuell falltendens. ICF b235
+#OHJE_R 
+---
+###
+#KOODI      QB002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Yrselträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att hantera och minska yrsel. ICF b240
+#OHJE_R 
+---
+###
+#KOODI      QB003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fallprevention
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Förebyggande åtgärder för att minimera risken för fallskada, innefattar fallskyddsträning, information och rådgivning, anpassning av omgivningen, ökad uppmärksamhet. ICF b240
+#OHJE_R 
+---
+###
+#KOODI      QB005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Känselträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att känna ytor och deras struktur eller kvalitet samt att förnimma kroppen och kroppsdelars inbördes läge och relation till varandra. ICF b260 . ICF b265
+#OHJE_R 
+---
+###
+#KOODI      QB007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Massage
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Manuell behandling, taktil stimulering, beröring, klassisk och andra former av massage, mjukdelsmobilisering och mjukdelsbehandling samt triggerpunktbehandling. Se även Mobilisering och triggerpunktspressur som kan registreras separat. ICF b280
+#OHJE_R 
+---
+###
+#KOODI      QB008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Smärtreducerande behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling med redskap såsom avlastad träning, viloställningar, avspänning, kroppsmedvetande- och/eller kroppskännedomsträning, bassängbehandling, ortoser, ergonomiska insatser i form av anpassat arbetssätt och anpassningar i miljön. Icke farmakologisk å
+#OHJE_R 
+---
+###
+#KOODI      QB011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fysikalisk behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling med värme, kyla, ultraljud och/eller vatten i smärtreducerande eller muskelstimulerande syfte.  ICF b280
+#OHJE_R 
+---
+###
+#KOODI_A    QBA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Punktion, incision, biopsi och destruktion vid hudförändring på bålen
+#RUOTSI     ---
+#ENGL       Puncture, incision or local destruction of lesion of skin of trunk
+###
+#KOODI      QBA00 
+#MUUT_PVM   2004/09/16
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision i bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasion på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulation av hudförändring på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserbehandling eller fotokoagulation av hudförändring på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kryoterapi av hudförändring på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan punktion, incision eller destruktion vid hudförändring på bål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Shave och curettage
+#OHJE_R 
+---
+###
+#KOODI_A    QBB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sårbehandling på bålen
+#RUOTSI     ---
+#ENGL       Procedures for wounds of skin
+###
+#KOODI      QBB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudsutur på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevision på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sårbehandling på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av kutan/subkutan främmande kropp från bålen
+#RUOTSI     ---
+#ENGL       Removal of foreign body from skin of trunk
+###
+#KOODI      QBC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av subkutan främmande kropp på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av brännskador på bålen
+#RUOTSI     ---
+#ENGL       Procedures for burns of trunk
+###
+#KOODI      QBD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte vid brännskada på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av brännskada på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBD20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision och täckning av brännskada på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision och rekonstruktion vid kutana/subkutana förändringar på bålen
+#RUOTSI     ---
+#ENGL       Excision and repair of lesion of skin of trunk
+###
+#KOODI      QBE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudexcision på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av svettkörtlar eller hud med svettkörtlar i axill
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hudförändring på bål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar även excisionsbiopsi
+#OHJE_R 
+---
+###
+#KOODI      QBE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av annat ärr på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ärr efter brännskada på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av operationsärr på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av huddefekt efter skada eller operation på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion vid missbildning eller hudsjukdom på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan excision eller rekonstruktion på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för kroniska sår och fistlar på bålen
+#RUOTSI     ---
+#ENGL       Operations for chronic ulcers and fistulae of skin of trunk
+###
+#KOODI      QBG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av liggsår på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision med rekonstruktion vid liggsår på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för kroniskt sår eller fistel på bål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fistelklyvning, t ex av pilonidalcysta
+#OHJE_R 
+---
+###
+#KOODI      QBG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekundärsutur på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för kroniskt sår eller fistel på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QBJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Estetiskt betingade operationer på bålens hud/underhudsvävnader
+#RUOTSI     ---
+#ENGL       Aesthetic operations on skin of trunk
+###
+#KOODI      QBJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsugning på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av hängbuk
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ35 
+#MUUT_PVM   1996/09/29
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan korrektion av hudöverskott eller lös hud på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QBJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation av estetiska orsaker på bål
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på hud och subkutan vävnad, övre extremiteten
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QC000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till röst- och talfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av röst och talfunktioner. Övergripande kod inom avsnittet ICF b310 - b399
+#OHJE_R 
+---
+###
+#KOODI      QC001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till röst- och talfunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av röst och talfunktioner.  ICF b310 - b399
+#OHJE_R 
+---
+###
+#KOODI_A    QCA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Punktion, incision,biopsi och destruktion vid hudförändring, övre extremiteten
+#RUOTSI     ---
+#ENGL       Puncture, incision or local destruction of lesion of skin of upper limb
+###
+#KOODI      QCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasion, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulation av hudförändring, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserbehandling eller fotokoagulation av hudförändring, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kryoterapi av hudförändring, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan punktion, incision eller destruktion vid hudförändring, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Shave och curettage
+#OHJE_R 
+---
+###
+#KOODI_A    QCB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sårbehandling, övre extremiteten
+#RUOTSI     ---
+#ENGL       Procedures for wounds of skin of upper limb
+###
+#KOODI      QCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudsutur, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevision, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sårbehandling, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av kutan/subkutan främmande kropp, övre extremiteten
+#RUOTSI     ---
+#ENGL       Removal of foreign body from skin and miscellaneous locations
+###
+#KOODI      QCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av subkutan främmande kropp, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av brännskador, övre extremiteten
+#RUOTSI     ---
+#ENGL       Procedures for burns of upper limb
+###
+#KOODI      QCD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte vid brännskada, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av brännskada, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCD20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision och täckning av brännskada, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision och rekonstruktion vid kutana/subkutana förändringar, övre extremiteten
+#RUOTSI     ---
+#ENGL       Excision and repair of lesion of skin of upper limb
+###
+#KOODI      QCE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudexcision, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hudförändring, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar även excisionsbiopsi
+#OHJE_R 
+---
+###
+#KOODI      QCE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av annat ärr, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ärr efter brännskada, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av operationsärr, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av huddefekt efter skada eller operation, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion vid missbildning eller hudsjukdom, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan excision eller rekonstruktion, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för kroniska sår och fistlar, övre extremiteten
+#RUOTSI     ---
+#ENGL       Operations for chronic ulcers and fistulae of skin of upper limb
+###
+#KOODI      QCG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för kroniskt sår eller fistel, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekundärsutur, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för kroniskt sår eller fistel, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på fingernaglarna
+#RUOTSI     ---
+#ENGL       Operations on finger nails
+###
+#KOODI      QCH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av fingernagel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av fingernagelbädd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av deformerad fingernagel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Transplantation av fingernagel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QCJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer av estetiska skäl, övre extremiteten
+#RUOTSI     ---
+#ENGL       
+###
+#KOODI      QCJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsugning, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCJ05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av hudöverskott eller lös hud, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QCJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation av estetiska orsaker, övre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på hud och subkutan vävnad, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Lower limb
+###
+#KOODI      QD001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjärtövervakning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning vid oregelbunden hjärtfrekvens. ICF b410
+#OHJE_R 
+---
+###
+#KOODI      QD002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Cirkulationsbefrämjande åtgärd
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rörelseträning och lägesförändring för att öka det arteriella och/eller venösa blodflödet. Ingår: Träning av perifer cirkulation, icke-farmakologisk trombos- och ödemprofylax. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      QD003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fosterövervakning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av fostrets hjärtljud under förlossningsskedet, manuell eller med apparatur. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      QD004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skötsel av central venkateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Skötsel av central venkateter och övervakning av funktion och tecken på komplikation, inklusive subkutan injektionsport. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      QD005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skötsel av perifer venkateter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Skötsel av perifer venkateter och övervakning av funktion och tecken på komplikation, inklusive subkutan injektionsport. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      QD006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Lymfödembehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lymfödembehandling innefattar såväl manuell som mekanisk behandling och behandling med strumpor och lindning. ICF b415
+#OHJE_R 
+---
+###
+#KOODI      QD007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning vid ortostatism
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning med lägesförändring vid ortostatism. ICF b420
+#OHJE_R 
+---
+###
+#KOODI      QD008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av vitala tecken
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av andning, cirkulation och medvetandegrad med eller utan instrument oavsett metod. Innefattar blodtrycksmätning. ICF b420, b440, b110
+#OHJE_R 
+---
+###
+#KOODI      QD009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Blodstillning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Minimering av blodförlust i samband med blödning. ICF b430
+#OHJE_R 
+---
+###
+#KOODI      QD010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Mätning av basal metabolism
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning  av rubbningar i syra-bas balansen, inklusive såväl metabolisk som respiratorisk alkalos eller acidos. b430
+#OHJE_R 
+---
+###
+#KOODI      QD011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av överkänslighetsreaktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av symtom och tecken i samband med överkänslighetsreaktion. ICF b435
+#OHJE_R 
+---
+###
+#KOODI      QD012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Andningsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av nedsatt rörlighet, andningsdjup, andningsmuskelfunktion och andningsmönster samt instruktion i sekretmobiliserande tekniker och inhalationsteknik. Integrering av andning i kroppsmedvetandet inkl aktiviteter i det dagliga livet. Inkluderar läge
+#OHJE_R 
+---
+###
+#KOODI      QD013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skötsel av endotracheal eller tracheal tub
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rengöring, byte, administrering av endotracheal eller tracheal tub. ICF b445
+#OHJE_R 
+---
+###
+#KOODI      QD014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Syrgasbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Administrering av syrgas och övervakning av dess effekt. ICF b445
+#OHJE_R 
+---
+###
+#KOODI      QD015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av hostfunktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Manuell behandling, inlärning och träning av hostfunktion och med sekretpåverkan.  ICF b450
+#OHJE_R 
+---
+###
+#KOODI      QD016 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av fysisk prestationsförmåga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Konditionsträning, uthållighetsträning, träning av tolerans för fysiskt arbete. ICF b455
+#OHJE_R 
+---
+###
+#KOODI_A    QDA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Punktion, incision, biopsi och destruktion vid hudförändring, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Puncture, incision or local destruction of lesion of skin of lower limb
+###
+#KOODI      QDA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Punktion, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Incision, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA20 
+#MUUT_PVM   1996/01/01
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Dermabrasion, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koagulation av hudförändring, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Laserbehandling eller fotokoagulation av hudförändring, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA50 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kryoterapi av hudförändring, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDA99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan punktion, incision eller destruktion vid hudförändring, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Shave och curettage
+#OHJE_R 
+---
+###
+#KOODI_A    QDB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Sårbehandling, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Procedures for wounds of skin of lower limb
+###
+#KOODI      QDB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudsutur, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB05 
+#MUUT_PVM   1998/12/09
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevision, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDB99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan sårbehandling, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Avlägsnande av kutana/subkutana främmande kroppar, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Removal of foreign body from skin of lower limb
+###
+#KOODI      QDC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av subkutan främmande kropp, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDD
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av brännskador, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Procedures for burns of lower limb
+###
+#KOODI      QDD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte vid brännskada, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av brännskada, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDD20 
+#MUUT_PVM   1996/06/18
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision eller täckning av brännskada, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDE
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Excision och rekonstruktion vid kutana/subkutana förändringar, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Excision and repair of lesion of skin of lower limb
+###
+#KOODI      QDE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudexcision, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av hudförändring, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar även excisionsbiopsi
+#OHJE_R 
+---
+###
+#KOODI      QDE20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av annat ärr, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE25 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av ärr efter brännskada, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av operationsärr, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE35 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion av huddefekt efter skada eller operation, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rekonstruktion vid missbildning eller hudsjukdom, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDE99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan excision eller rekonstruktion, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDG
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för kroniska sår och fistlar, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Operations for chronic ulcers and fistulae of skin of lower limb
+###
+#KOODI      QDG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Revision av liggsår, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision med rekonstruktion vid liggsår, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Operation för kroniskt sår eller fistel, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sekundärsutur, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDG99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation för kroniskt sår eller fistel, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDH
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på tånaglarna
+#RUOTSI     ---
+#ENGL       Operations on toe nails
+###
+#KOODI      QDH00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av tånagel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Excision av tånagelbädd
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av deformerad tånagel
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_A    QDJ
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Estetiskt betingade operationer, nedre extremiteten
+#RUOTSI     ---
+#ENGL       Aesthetic operations on skin of lower extremity
+###
+#KOODI      QDJ00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fettsugning, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDJ05 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Korrektion av hudöverskott eller lös hud, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QDJ99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan operation av estetiska orsaker, nedre extremitet
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QE001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av oral födobearbetning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att suga, tugga, bita, svälja , flytta mat i munnen samt förhindra läckage. ICF b510
+#OHJE_R 
+---
+###
+#KOODI      QE003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av näringsintag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Registrering och bedömning av näringsintag och vätskeintag i förhållande till metaboliskt behov samt initiering av kompenserande åtgärder ICF b510
+#OHJE_R 
+---
+###
+#KOODI      QE005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Underlättande av sväljning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Underlättande av sväljning och minskning av risken för aspiration genom t.ex. anpassning av födans konsistens, instruktion om kroppsställning. ICF b510
+#OHJE_R 
+---
+###
+#KOODI      QE006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd för regelbunden tarmtömning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Upprättande och underhåll av en regelbunden tarmtömning, inklusive användning av laxativ. ICF b 525
+#OHJE_R 
+---
+###
+#KOODI      QE007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av avföringsmönster
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av avföringen med avsende på t ex frekvens, mängd, konsistens och lukt.  ICF b 525
+#OHJE_R 
+---
+###
+#KOODI      QE009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd för viktminskning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Underlättande av viktnedgång genom att ge information, uppmuntran, sätta mål för minskningen samt utveckla en daglig diet. ICF b530
+#OHJE_R 
+---
+###
+#KOODI      QE010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd för viktökning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Underlättande av viktuppgång genom att ge information, uppmuntran, sätta mål för ökningen samt utveckla en daglig diet. ICF b530
+#OHJE_R 
+---
+###
+#KOODI      QE013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd vid illamående/kräkning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Psykologiskt stöd genom närvaro samt konkret fysisk hjälp i samband med illmående och kräkning. Anpassning av måltidsvanor och val av mat för att minimera risken för illamående. ICF b535
+#OHJE_R 
+---
+###
+#KOODI      QE014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning och korrigering av saltbalansen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av elektrolytstatus samt påverkan på saltbalansen genom tillförsel eller begränsning av intag av t ex  natrium och kalium i kosten eller via intravenös tillförsel av vätska. ICF b540
+#OHJE_R 
+---
+###
+#KOODI      QE015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av blodsockernivå
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av blodsockernivå över tid i relation till medicinering, födointag och aktivitet. ICF b540
+#OHJE_R 
+---
+###
+#KOODI      QE016 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av kroppstemperatur
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av kroppstemperatur över tid. ICF b550
+#OHJE_R 
+---
+###
+#KOODI      QE019 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Central nerkylning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Kontrollerad, behandlande nedkylning med hjälp av infusionsvätskor och värmereglerande apparatur. ICF. b550
+#OHJE_R 
+---
+###
+#KOODI      QE020 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Perifer nerkylning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Sänkning av rumstemperatur, bruk av fläkt eller ökad luftgenomströmning, val av kläder, bad för att sänka kroppstemperaturen, kylväst. ICF b550
+#OHJE_R 
+---
+###
+#KOODI      QF001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bäckenbottenträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av bäckebottenmuskulaturen genom muskelsammandragningar med eller utan elektrisk stimulering. ICF  b620
+#OHJE_R 
+---
+###
+#KOODI      QF002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kontinensträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att hålla tätt mellan toalettbesök. ICF  b620
+#OHJE_R 
+---
+###
+#KOODI      QF003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Inkontinensvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hjälp med att främja kontinens och att upprätthålla en hel hud i perineal-området.  ICF  b620
+#OHJE_R 
+---
+###
+#KOODI      QF006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Peritonealdialys
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Administrering och övervakning av dialysering med utbyte av dialysvätska in och ut ur bukhålan.  ICF  b620
+#OHJE_R 
+---
+###
+#KOODI      QF007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning vid graviditet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av förloppet vid graviditet ICF b660
+#OHJE_R 
+---
+###
+#KOODI      QF009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning vid förlossning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av förloppet vid förlossning ICF b660
+#OHJE_R 
+---
+###
+#KOODI      QG000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till rörelsefunktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning, övervakning och/eller manuell behandling av rörelsesystemets funktioner inklusive funktioner i leder, skelett, reflexer och muskler. Övergripande kod inom avsnittet ICF b710 - b799
+#OHJE_R 
+---
+###
+#KOODI      QG001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rörlighetsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling med aktiva eller passiva rörelser, kontrakturprofylax, respektive träning med olika redskap. Manuell behandling i form av ledfrigöring, manipulation. Ingår muskeltöjning, traktionsbehandling. Se även manipulation och muskeltöj som kan registre
+#OHJE_R 
+---
+###
+#KOODI      QG003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Muskelfunktions- och styrketräning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling och träning av muskelstyrka och uthållighet med eller utan belastning, olika redskap eller aktiveringsapparater, inklusive tonusnormalisering, muskelidentifiering. ICF b730 - 740
+#OHJE_R 
+---
+###
+#KOODI      QG004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av posturala reaktioner
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av posturala reaktioner såsom upprätnings-, jämvikts-, balans- och skyddsreaktioner. ICF b755
+#OHJE_R 
+---
+###
+#KOODI      QG005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Koordinationsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Behandling, inlärning och träning av balans mellan agonister och antagonister, huvudkontroll, balans, öga-handkoordination, koncentration. ICF b760
+#OHJE_R 
+---
+###
+#KOODI      QG007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avslappningsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning enligt olika metoder för avslappning/avspänning. ICF b780, d 240
+#OHJE_R 
+---
+###
+#KOODI      QH000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till funktioner i huden och därmed relaterade strukturer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning och/eller manuell behandling av funktioner i hud, naglar och hår. Övergripande kod inom avsnittet ICF b810 - b899
+#OHJE_R 
+---
+###
+#KOODI      QH001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Trycksårsprofylax
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tryckavlastning genom lägesändringar, bruk av tryckutjämnande underlag, övervakning av hudkostymen. Anpassning av klädval, skor, sätt att ta i personen och kroppspositionering. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      QH004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Terapeutiskt bad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Bad med bruk av tillsatser eller mjukgörande medel i syfte att stärka hudens skyddsfunktion. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      QH005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fotvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inspektion och rengöring av fötterna inklusive borttagande av förhårdnader, klippning av naglar. ICF b810
+#OHJE_R 
+---
+###
+#KOODI      QH006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Handvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Inspektion, rengöring av händerna inklusive borttagande av förhårdnader, klippning av naglar ICF b810
+#OHJE_R 
+---
+###
+#KOODI      QH008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Sårvård omfattande övervakning, rengöring och bandagebyte av t.ex. operationssår spolning av fistel, debridering av nekros. ICF b820
+#OHJE_R 
+---
+###
+#KOODI      QH009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ärrbehandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Åtgärder som syftar till att förebygga och behandla abnorm ärrbildning och dess konsekvenser. ICF b820
+#OHJE_R 
+---
+###
+#KOODI      QH010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hudvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tvätt, dusch och bad i relation till hudens behov, eliminera kontakt med externa skadefaktorer och smörjning av huden samt övervakning av hudkostymen. ICF b840
+#OHJE_R 
+---
+###
+#KOODI      QH011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Klådstillande behandling
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Avtvättning, lätta kläder/svalt sovrum. Mjukgörande behandling. Undvikande av uttorkning, stress, värme, alkohol, kryddor etc som sänker klådtröskeln. ICF b840
+
+#OHJE_R 
+---
+###
+#KOODI      QJ000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och träning i lärande och kunskapstillämpning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd och/eller träning i förvärvandet av färdigheter och kunskap samt tillämpning av inlärd kunskap som används då man läser, skriver, räknar, löser problem och fattar beslut. Ingår t.ex. träning av injektionsteknik, inhalationsteknik. Övergripande kod i
+#OHJE_R 
+---
+###
+#KOODI      QJ001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av målinriktade sinnesupplevelser
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lärande och träning i att kunna se, lyssna och målinriktat utnjyttjande av sinnesintryck som känsel, lukt och smak d110-129
+#OHJE_R 
+---
+###
+#KOODI      QJ002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning av grundläggande lärande
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lärande och träning av att härma, att repetera, att lära sig läsa, att lära isg skriva och att lära sig räkna och beräkna samt i att förvärva grundläggande färdigheter så som att hantera verktyg och mera sammansatta färdigheter som att spela ett spel. IC
+#OHJE_R 
+---
+###
+#KOODI      QJ003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av att  tillämpa kunskap
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Lärande och träning av att kunna vara uppmärksam, att tänka, läsa och att kunna skriva och beräkna samt lösa problem och fatta beslut samt kunna prioritera bland ett fleratal uppgifter som behöver genomföras. ICF d160- d179
+#OHJE_R 
+---
+###
+#KOODI      QJ004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i problemlösning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träna med olika metoder för problemlösning. ICF  d175
+#OHJE_R 
+---
+###
+#KOODI      QK000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och träning i kravhantering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd, träning och/eller övervakning av genomförandet av enstaka eller mångfaldiga uppgifter, organisera arbetsgång och hantera stress. Övergripande kod inom avsnittet ICF d210 - d299
+#OHJE_R 
+---
+###
+#KOODI      QK001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i att företa enstaka uppgifter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, undervisning och stöd samt träning i att genomföra handlingar som sammanhänger med de psykiska eller fysiska komponenterna i en enstaka uppgift såsom att påbörja en uppgift, planera tid och material. Genomföra och avsluta uppgiften. ICF d 21
+#OHJE_R 
+---
+###
+#KOODI      QK002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i att företa mångfaldiga uppgifter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, undervisning och stöd samt träning i att genomföra enkla eller komplicerade och koordinerade handlingar som komponenter i mångfaldiga, integrerade och komplicerade uppgifter i följd eller samtidigt.  ICF d220
+#OHJE_R 
+---
+###
+#KOODI      QK003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i att genomföra daglig rutin
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, undervisning och stöd samt träning i att genomföra enkla eller samordnade handlingar för att planera och hantera tid och energi  samt genomföra de aktiviteter som innefattas i dagliga rutiner under hela dygnet. ICF d230
+#OHJE_R 
+---
+###
+#KOODI      QK005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stresshantering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, undervisning och stöd samt träning i att genomföra  enkla eller sammansatta och samordnade handlingar för att klara av de psykologiska krav som ställs för att genomföra uppgiften. Innefattar att hantera ansvarstagande, stress och kris. ICF d
+#OHJE_R 
+---
+###
+#KOODI      QK007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Krishantering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Interaktiv hjälpande process fokuserad på behov, problem och känslor. ICF d 240
+#OHJE_R 
+---
+###
+#KOODI      QK008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd vid sorgearbete
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hjälp med att gå igenom en sorgeprocess i samband med förlust. ICF d 240
+#OHJE_R 
+---
+###
+#KOODI      QL000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och träning i att kommunicera
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd, träning och/eller övervakning av kommunikation genom språk, tecken, symboler, att ta emot och förmedla budskap, att genomföra samtal och att använda olika kommunikationsmetoder och kommunikationshjälpmedel. Övergripande kod inom avsnittet ICF d310
+#OHJE_R 
+---
+###
+#KOODI      QL099 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd, träning och övervakning av kommunikation UNS
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd, träning och/eller övervakning av  kommunikation genom språk, tecken, symboler, att ta emot och förmedla budskap, att genomföra samtal och att använda olika kommunikationsmetoder och kommunikationshjälpmedel. ICF d310 - d399
+#OHJE_R 
+---
+###
+#KOODI      QM000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till förflyttning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans, träning och/eller övervakning av att röra sig genom att ändra kroppsställning eller att förflytta sig från en plats till en annan, att bära, flytta eller hantera föremål, att gå, springa eller klättra och att använda olika former av transportm
+#OHJE_R 
+---
+###
+#KOODI      QM004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kroppsplacering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Medveten placering av individ eller kroppsdel för att främja fysiskt och/eller psykologiskt välbefinnande t.ex. i rullstol. ICF d415
+#OHJE_R 
+---
+###
+#KOODI      QM005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av kroppshållning och kroppsställning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av hållning och kroppsställning i olika utgångsställningar såsom liggande, sittande, stående, inkl statisk balans, lod- och mittlinje, ryggradskrökar, ev. asymmetri i vila och/eller rörelse. Innefattar att bibehålla en kroppställning. ICF d410 -
+#OHJE_R 
+---
+###
+#KOODI      QM006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av kroppsställning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av bibehållande av kroppsplacering utifrån särskilda behov. T. ex. kroppsposition vid ätande, vid sväljningssvårigheter, vid andningssvårigheter, förlamningstillstånd. ICF d415
+#OHJE_R 
+---
+###
+#KOODI      QM007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Förflyttningsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att inta eller ändra kroppsställning, såsom att förflytta sig i säng, sätta sig upp och lägga sig,ställa sig upp och sätta sig, förflytta sig till och från stol eller dylikt, komma ner och upp från golv, att lägga sig på knä eller sätta sig på
+#OHJE_R 
+---
+###
+#KOODI      QM009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid förflyttning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans vid förflyttning där individen behöver hjälp med alla eller en del moment i proceduren. ICF d420
+#OHJE_R 
+---
+###
+#KOODI      QM011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att lyfta, bära och flytta föremål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att lyfta upp ett föremål eller ta något från en plats till en annan såsom att lyfta en kopp eller bära ett barn från ett rum till ett annat, att flytta föremål med benen såsom att sparka boll eller trampa på cykelpedaler.. ICF d430
+#OHJE_R 
+---
+###
+#KOODI      QM013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av finmotorik
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av koordinerade handlingar som krävs för att hantera föremål, plocka upp, behandla och släppa dem t.ex. plocka upp ett mynt från ett bord. ICF d440
+#OHJE_R 
+---
+###
+#KOODI      QM014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att använda hand och arm
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av koordinerade handlingar som krävs för att flytta föremål eller hantera dem genom att använda händer och armar t.ex. att kasta eller fånga ett föremål. ICF d445
+#OHJE_R 
+---
+###
+#KOODI      QM015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gångträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att förflytta sig till fots, steg för steg, att promenera, gå framlänges, baklänges eller i sidled, kortare eller längre sträckor, inomhus eller utomhus, att gå på olika underlag samt runt hinder av olika slag. Innefattar träning  av gångmönste
+#OHJE_R 
+---
+###
+#KOODI      QM017 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att röra sig omkring på olika sätt
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Krypträning, trappträning, löpträning, hoppträning, träning i att gå ombord på ett tåg, buss och liknande samt röra sig på olika platser.  ICF d455, ICF d460
+#OHJE_R 
+---
+###
+#KOODI      QM020 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att använda transportmedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att som passagerare förflytta sig såsom att bli körd i bil, buss, spårvagn, tåg. ICF d470
+#OHJE_R 
+---
+###
+#KOODI      QN000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Behandling relaterad till personlig vård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans, stöd, träning, manuell behandling och/eller övervakning av egen personlig vård, att tvätta och torka sig själv, att ta hand om sin kropp och kroppsdelar, att klä sig, att äta och dricka och att sköta sin egen hälsa. Övergripande kod inom avsni
+#OHJE_R 
+---
+###
+#KOODI      QN001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd vid personlig vård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd och rådgivning vid utförande av  personlig vård innefattar att med lämpliga metoder och material tvätta och torka sig, ta hand om sin kropp och kroppsdelar, klä sig, äta och dricka och sköta sin egen hälsa. ICF d510-570
+#OHJE_R 
+---
+###
+#KOODI      QN002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid personlig vård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans vid personlig vård där individen behöver hjälp med alla eller en del moment i proceduren som innefattar att med lämpliga metoder och material tvätta och torka sig, ta hand om sin kropp och kroppsdelar, klä sig, äta och dricka och sköta sin egen
+#OHJE_R 
+---
+###
+#KOODI      QN003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fullständigt utförande av personlig vård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fullständigt utförande vid personlig vård där individen behöver hjälp med alla moment i proceduren som innefattar att med lämpliga metoder och material tvätta och torka sig, ta hand om sin kropp och kroppsdelar, klä sig, äta och dricka och sköta sin egen
+#OHJE_R 
+---
+###
+#KOODI      QN004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att tvätta sig
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att tvätta och torka delar av eller hela kroppen med lämpliga metoder och material. Innefattar att bada eller duscha. ICF d510
+#OHJE_R 
+---
+###
+#KOODI      QN005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid tvättning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans vid tvättning där individen behöver hjälp med alla eller en del moment i proceduren. ICF d510
+#OHJE_R 
+---
+###
+#KOODI      QN006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fullständigt utförande av tvättning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fullständigt utförande av tvättning där individen behöver hjälp med alla moment i proceduren som innefattar att med lämpliga metoder och material tvätta och torka sig. ICFd510
+#OHJE_R 
+---
+###
+#KOODI      QN007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i kroppsvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att utföra hudvård, tandvård, hårvård, rakning, manikyr och pedikyr. Innefattar att kamma sig, ordna frisyr och att klippa sig. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid kroppsvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans vid hudvård, tandvård, hårvård, manikyr, pedikyr, rakning där individen behöver hjälp med alla eller en del moment i proceduren. Innefattar hjälp med att att kamma sig och ordna frisyr. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fullständigt utförande av kroppsvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fullständigt utförande av kroppsvård där individen behöver hjälp med alla moment i proceduren att utföra hudvård, tandvård, hårvård, rakning, manikyr och pedikyr. Innefattar att kamma sig, ordna frisyr och att klippa sig . ICFd510
+#OHJE_R 
+---
+###
+#KOODI      QN010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i munvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att borsta tänder och hålla munnen ren. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid munvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans vid munhygien där individen behöver hjälp med alla eller en del moment i proceduren. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Fullständigt utförande av munvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fullständigt utförande av  munhygien där individen behöver hjälp med alla eller en del moment i proceduren. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att sköta sina toalettbehov
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att kontrollera urinering, avföring och sköta menstruation, komma till lämplig plats och ställning samt hantering av kläder. ICF d530
+#OHJE_R 
+---
+###
+#KOODI      QN014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tvättning och rengöring vid inkontinensvård
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Tvättning och rengöring i samband med tömning av tarm el blåsa. ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Skötsel av stomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Skötsel av urin-, avföringstömning via stomi och av kringliggande vävnader, byte av förband, inspektion, tvättning och smörjning runt stomin.  ICF d520
+#OHJE_R 
+---
+###
+#KOODI      QN016 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av på- och avklädning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av på- och avklädning av kläder och skor samt val av lämplig klädsel. ICF d540
+#OHJE_R 
+---
+###
+#KOODI      QN017 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid på- och avklädning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Handräckning och stöd vid på- och avklädning där individen behöver hjälp med alla eller en del moment i proceduren. ICF d540
+#OHJE_R 
+---
+###
+#KOODI      QN018 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      På- och avklädning av individ
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Klär på eller av en individ.  ICF d540
+#OHJE_R 
+---
+###
+#KOODI      QN019 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att äta och dricka
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av att kunna genomföra samordnade handlingar såsom att skära eller bryta maten i bitar, öppna flaskor och burkar, blanda dryck, använda bestick samt att föra mat och dryck till till munnen och att äta och dricka på ett kulturellt accepterat sätt.
+#OHJE_R 
+---
+###
+#KOODI      QN020 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid födointag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistera vid födointag genom att t ex sönderdela mat, dimensionera portioner, organisera upplägg på tallrik där individen själv genomför en del moment i proceduren. ICF d550, d560
+#OHJE_R 
+---
+###
+#KOODI      QN021 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning vid födointag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av genomförandet av samordnade handlingar såsom att skära eller bryta maten i bitar, öppna flaskor och burkar, blanda dryck, använda bestick samt att föra mat och dryck till till munnen och att äta och dricka på ett kulturellt accepterat sätt
+#OHJE_R 
+---
+###
+#KOODI      QN022 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Matning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Föra mat och dryck till munnen, kontrollera intaget av födan och att maten tuggas och sväljs.  ICF d550, d560
+#OHJE_R 
+---
+###
+#KOODI      QN023 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Matning med nappflaska
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Förberedelse och administration av näring via nappflaska.  ICF d550, d560
+#OHJE_R 
+---
+###
+#KOODI      QN024 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Övervakning av vätskeintag
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av genomförandet av samordnade handlingar så som att öppna flaskor och burkar, blanda dryck föra dryck tilll munnen och dricka på ett kulturellt accepterat sätt. ICF d560
+#OHJE_R 
+---
+###
+#KOODI      QN025 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i att sköta sin egen hälsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att kunna tillförsäkra sig fysiskt och psykiskt välbefinnande, såsom att upprätthålla lämplig kost och nivå av fysisk aktivitet samt undvika hälsorisker. Innefattar: egenvård, att söka professionell hjälp och att följa medicinska ordinationer o
+#OHJE_R 
+---
+###
+#KOODI      QP000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och träning i hemliv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans, stöd, träning och/eller övervakning av att genomföra husliga och dagliga sysslor och uppgifter i hemmet.  Innefattar att skaffa bostad, mat, kläder och andra förnödenheter, hålla rent, reparera och ta hand om personliga och andra hushållsgörom
+#OHJE_R 
+---
+###
+#KOODI      QP001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd vid införskaffandet av egen bostad
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ge råd och stöd vid köp, förhyrning, möblering av ett hus, lägenhet eller annan  bostad. ICF d610
+#OHJE_R 
+---
+###
+#KOODI      QP002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att skaffa förnödenheter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att välja, anskaffa och transportera alla varor och tjänster som krävs för det dagliga livet. ICF d620
+#OHJE_R 
+---
+###
+#KOODI      QP003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans med att skaffa förnödenheter
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistans i att välja, anskaffa och transportera alla varor och tjänster som krävs för det dagliga livet såsom  mat, dryck, kläder, rengöringsmaterial, bränsle, hushållsartiklar, husgeråd, kokkärl, hushållsredskap och verktyg samt att anskaffa nyttoförem
+#OHJE_R 
+---
+###
+#KOODI      QP004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i inköp av dagligvaror
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att planera större eller mindre inköp, att ta sig till eller från affären, att välja och ta varor, betala och frakta hem varorna. ICF d620
+#OHJE_R 
+---
+###
+#KOODI      QP005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i hushållsgöromål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att planera, organisera, laga och servera enkla eller sammansatta måltider, att hålla rent i hemmet, att rengöra kök och köksredskap, städa bostaden, förvara dagliga förnödenheter och på lämpligt sätt ta hand om avfall., samla ihop, tvätta,  to
+#OHJE_R 
+---
+###
+#KOODI      QP006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid hushållsgöromål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistera vid hushållsarbete så att hemmet är  en ren, säker och trivsam miljö där individen själv genomför en del moment i proceduren. ICF d640
+#OHJE_R 
+---
+###
+#KOODI      QP007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utföra hushållsgöromål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fullständigt utförande av hushållsarbete så att hemmet är  en ren, säker och trivsam miljö. ICF d640
+#OHJE_R 
+---
+###
+#KOODI      QP008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Matlagningsträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att planera, organisera, laga och servera måltider till sig själv och andra. Innefattar att göra upp en matsedel, välja ut lämpliga varor och drycker och samla ihop och bereda ingredienser  till varm eller kall mat .Innefattar inte: att diska o
+#OHJE_R 
+---
+###
+#KOODI      QP009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att tvätta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att tvätta kläder för hand eller i tvättmaskin och på lämpligt sätt torka dessa och efterbehandla tvätten. Innefattar att samla ihop, sortera, tvätta, på lämpligt sätt torka och efterbereda tvätten. Innefattar även att kunna använda hushållsapp
+#OHJE_R 
+---
+###
+#KOODI      QP010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att städa bostaden
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att städa hemmet såsom att plocka upp, dammsuga, damma, sopa, skura, torka av golv, tvätta fönster och väggar, rengöra badrum och toaletter och att rengöra hemmets inventarier. ICF 640
+#OHJE_R 
+---
+###
+#KOODI      QP011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att ta hand om hemmets föremål
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att underhålla och laga hushållsföremål och andra personliga föremål innefattande bostaden och dess inventarier. Innefattar trädgårdsarbete och hobbyodling  ICF d650
+#OHJE_R 
+---
+###
+#KOODI      QQ000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och träning i att samspela med andra
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd och/eller träning i att samspela med människor på ett i sammanhanget socialt lämpligt sätt såsom att när det är lämpligt visa hänsynstagande och uppskattning eller att reagera på andras känslor. Innefattar att visa respekt, värme, tacksamhet och tol
+#OHJE_R 
+---
+###
+#KOODI      QQ001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd av närståendes delaktighet i vården
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd av närståendes delaktighet i beslut och genomförande av både fysisk och psykosocial vård ICF d 720
+#OHJE_R 
+---
+###
+#KOODI      QQ002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i kontakt med okända personer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att engagera sig i tillfälliga kontakter och förbindelser med okända personer för särskilda syften såsom att fråga efter vägen eller att göra inköp.  ICF d730
+#OHJE_R 
+---
+###
+#KOODI      QQ003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning av formella relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att skapa och bibehålla specifika relationer i formella sammanhang såsom med arbetsgivare, yrkesutövande eller servicegivare. ICF d740
+#OHJE_R 
+---
+###
+#KOODI      QQ004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning av informella sociala relationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att  ha relationer med andra såsom otvungna relationer med människor som bor på samma ort eller med medarbetare, elever, lekkamrater och människor med likartad bakgrund eller yrke. ICF d750
+#OHJE_R 
+---
+###
+#KOODI      QQ005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning av  familjerelationer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att skapa och bibehålla släktskapsrelationer såsom med medlemmar av kärnfamilj, utvidgad familj, foster-, adoptiv- och styvfamilj, mer avlägsna relationer  ICF d760
+#OHJE_R 
+---
+###
+#KOODI      QQ006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd för anknytning föräldrar-barn
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd för utvecklingen av en god relation mellan föräldrar och barn. ICFd7600
+#OHJE_R 
+---
+###
+#KOODI      QQ007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd för familjesammanhållning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stödja sammanhållning i familjen.  ICFd7600
+#OHJE_R 
+---
+###
+#KOODI      QR001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rådgivning vid studier och studieträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rådgivning och träning av uppgifter och handlingar som krävs vid olika former av utbildning såsom informell utbildning, högre utbildning, förskole-, skol-och yrkesutbildning. ICF d810 - d839
+#OHJE_R 
+---
+###
+#KOODI      QR002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Rådgivning vid arbete och sysselsättning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Rådgivning och träning av uppgifter och handlingar som krävs för att förbereda sig för en anställning (lärlingskap), betald och obetald sysselsättning samt för att skaffa, bibehålla och sluta ett arbete. ICF d840-859
+#OHJE_R 
+---
+###
+#KOODI      QR003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning av arbetsförmåga
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av att engagera sig i alla aspekter av ett betalt eller obetalt arbete på heltid eller deltid inklusive organiserad sysselsättning, att göra de uppgifter som krävs på arbetet, att vara närvarande under den tid som krävs, att handleda andra medarb
+#OHJE_R 
+---
+###
+#KOODI      QR004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att sköta sin ekonomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att använda pengar för att köpa varor och tjänster eller att spara pengar, innefattar utbyte av kapital eller egendom och skapande av ekonomisk vinst eller värde, att ha kontroll över ekonomiska resurser, försäkra sig om ekonomisk trygghet för
+#OHJE_R 
+---
+###
+#KOODI      QR005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Assistans vid hantering av ekonomiska resurser
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Assistera vid hantering av egna eller privata ekonomiska resurser för att försäkra sig om ekonomisk trygghet för nuvarnade och framtida behov där individen själv genomför en del moment i proceduren. ICF 870
+#OHJE_R 
+---
+###
+#KOODI      QS000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning i socialt och medborgerligt liv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Stöd, träning, underlättande och/eller övervakning av utförandet av de handlingar och uppgifter som krävs för att engagera sig i organiserat socialt liv utanför familjen - i samhällsgemenskap, socialt och medborgerligt liv t.ex.engagemang i lek, spel, sp
+#OHJE_R 
+---
+###
+#KOODI      QS001 
+#MUUT_PVM   2009/09/17
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Social träning i samhället
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning av den sociala förmågan genom ett engagemang i olika former av samhällsgemenskap såsom i informella, formella och ceremoniella sammanslutningar t.ex. engagemang i bostadsrättsföreningar, yrkesföreningar och i olika icke religösa riter. ICF d910
+#OHJE_R 
+---
+###
+#KOODI      QS002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Stöd och/eller träning av fritidssysselsättning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning i att kunna utföra och vara engagerad i lek, spel, sport konst, kultur, hobbies, resor och umgänge, t ex fysisk träning, nöjen, bio, teater, konstutställning, eget utövande av konsthantverk eller handarbete, att spela muskinstrument. Utesluter: r
+#OHJE_R 
+---
+###
+#KOODI      QT000 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anpassning och bearbetning av omgivningsfaktorer
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Anpassning, bearbetning, påverkan, stöd gällande den fysiska, sociala och attitydmässiga omgivning i vilken människor lever och verkar. Övergripande kod inom avsnittet ICF e110 -e499
+#OHJE_R 
+---
+###
+#KOODI      QT001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Riskreducering för immunologisk reaktion
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Anpassning av miljö och mat för att reducera risk för överkänslighetsreaktion. ICF e110
+#OHJE_R 
+---
+###
+#KOODI      QT002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Läkemedelsdispensering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Delning av läkemedel t.ex. i en dosett.
+#OHJE_R 
+---
+###
+#KOODI      QT003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anpassning av produkter och teknik i det dagliga livet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Anpassa, flytta om, ställa undan, produkter, inventarier och möbler för att möjliggöra eller underlätta att aktiviteter i det dagliga livet kan utföras på ett säkert sätt. ICF e115
+#OHJE_R 
+---
+###
+#KOODI      QT004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Utprovning och/eller tillverkning av ortos
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Innefattar justering/anpassning av ortos samt administrativa rutiner i samband med utprovning/tillverkning. Innefattar inte strumpor/lindning vid kompressionsbehandling jmf periferkompressionsbehandling LD004. ICF e115
+#OHJE_R 
+---
+###
+#KOODI      QT005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjälpmedelsförskrivning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Prova ut, anpassa, välja lämplig specifik produkt och teknik som används i det dagliga livet, för förflyttning och transport, kommunikation, utbildning, arbete, sysselsättning och vid aktiviteter relaterade till kultur rekreation och sport.  ICF e115-e 1
+#OHJE_R 
+---
+###
+#KOODI      QT006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träning i att använda hjälpmedel
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Informera, instruera, träna, följa upp produkter och teknik som används i det dagliga livetför förflyttning och transport, kommunikation, utbildning, arbete, sysselsättning och vid aktiviteter relaterade till kultur rekreation och sport. ICF e115-e145
+#OHJE_R 
+---
+###
+#KOODI      QT007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hjälpmedelsrådgivning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ge råd om lämpligt hjälpmedel samt dess användning. ICF e140, e145
+#OHJE_R 
+---
+###
+#KOODI      QT008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anpassning av allmänmiljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ge förslag på anpassning, utformning av produkter och teknik i en allmän miljö. ICF e150
+#OHJE_R 
+---
+###
+#KOODI      QT009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anpassning av boendemiljö
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Ge förslag till anspassning, utformning av produkter och teknik i hemmiljön. ICF e155
+#OHJE_R 
+---
+###
+#KOODI      QT010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anpassning av den fysiska miljön
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Anpassning fysisk miljö med tanke på ljusförhållanden, ljudförhållanden, förekomst av vibrationer, luftkvalitet.  ICF e240, e250, e260
+#OHJE_R 
+---
+###
+#KOODI      QT011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Närståendestöd
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Åtgärder för att stärka närstående i sin roll som primär vårdgivare ICF. e410
+#OHJE_R 
+---
+###
+#KOODI      QT012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omgivningsanpassning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Påverkan på fysisk eller psykosocial omgivning i syfte att underlätta funktion, säkerhet och välbefinnande i dagligt liv. ICF e410
+#OHJE_R 
+---
+###
+#KOODI      QT013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Påverkan av attityder i omgivningen
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information/utbildning och påverkan av attityder i individers omgivning och dess inverkan på individers möjlighet till aktivitet och delaktighet som att kunna ett socialt liv. ICF e410 -  e465
+#OHJE_R 
+---
+###
+#KOODI      QT014 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Bearbeta omgivningen i våldsförebyggande syfte
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av och påverkan av omgivningen för att minska  möjligheten och risken för våldsamt beteende mot sig själv, annan person eller mot omgivningen. ICF e410
+#OHJE_R 
+---
+###
+#KOODI      QT015 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Anpassa omgivning för föräldrar och barn
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Påverkan på fysisk eller psykosocial omgivning i syfte att underlätta anknytningsprocessen. ICF e410
+#OHJE_R 
+---
+###
+#KOODI      QV001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om hälsa-ohälsa
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, undervisning, rådgivning eller handledning i syfte att öka individens kunskap, färdighet, förståelse, motivation, handlingsberedskap och verklighetsförankring som förutsättningar för att sköta sin egen hälsa.  Innefattar primär prevention, p
+#OHJE_R 
+---
+###
+#KOODI      QV002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om hälsoproblem
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning om sjukdom, skador och funktionshinder och deras behandling. Innefattar sekundär prevention. ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om egenvårdsprogram
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning i egenvård/egenbehandling.  ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om undersökningar och behandlingar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning om undersökningar och behandlingar. ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om kostfrågor
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information om kost i relation till kroppens behov och hälsa-ohälsa-sjukdom.  ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om medicinering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning om användning av läkemedel inklusive övervakning av dess effekter.   ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om smärta
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Muntlig och skriftlig information och undervisning om smärtfysiologi och behandling av smärta, inklusive egenvård. ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV008 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om sexualitet
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Muntlig och skriftlig sexualupplysning inklusive information och undervisning om preventivmedel. ICF d570
+#OHJE_R 
+---
+###
+#KOODI      QV009 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning i samband med familjeplanering
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning om reproduktion och om preventivmedel för att kontrollera befruktning. ICF  d570
+#OHJE_R 
+---
+###
+#KOODI      QV010 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Information/undervisning om ergonomi
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+ instruktioner och/eller uppföljning av arbetsteknik, arbetsställningar, avlastning.
+#OHJE_R 
+---
+###
+#KOODI      QV011 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Träningsprogram
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Utprovning, utförande, genomgång och uppföljning av olika typer av träningsprogram.
+#OHJE_R 
+---
+###
+#KOODI      QV012 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Gruppträning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Träning, information, undervisning med utnyttjande av gruppdynamik t.ex.ryggjympa.
+#OHJE_R 
+---
+###
+#KOODI      QV013 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Föräldrautbildning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information och undervisning inför förlossning och föräldraskap, om omhändertagande och fysisk omvårdnad under det första levnadsåret samt stöd till föräldrar att förstå och främja sina barns och ungdomars fysiska, psykosociala behov och växt. ICF d570
+#OHJE_R 
+---
+###
+#KOODI_R    QW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer för komplikationer av plastikkirurgi
+#RUOTSI     ---
+#ENGL       Reoperations on skin
+###
+#KOODI      QWA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för sårruptur
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QWB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig infektion
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QWD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för ytlig blödning
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QWF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Reoperation för anastomos- eller suturinsufficiens
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      QWW99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Annan reoperation på hud
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI_R    QX
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Operationer på hud/underhudsvävnader utan specifikation av kroppsdel
+#RUOTSI     ---
+#ENGL       Unspecified region
+###
+#KOODI      QX001 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Prevention av smittsamma sjukdomar
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Åtgärder mot en grupp i samhället i syfte att minska eller hantera incidens och prevalens av smittsammma sjukdomar i populationen.
+#OHJE_R 
+---
+###
+#KOODI      QX002 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Minskning av risken för att en individ skadar sig själv
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hjälpa individen att minska eller utesluta beteenden som skadar den egna kroppen.
+#OHJE_R 
+---
+###
+#KOODI      QX003 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Tobaksavvänjning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Hjälpa att sluta använda tobak.
+#OHJE_R 
+---
+###
+#KOODI      QX004 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Preoperativ förberedelse
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Information, hårborttagning och tvättning, fasta inför operation.
+#OHJE_R 
+---
+###
+#KOODI      QX005 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Postoperativ övervakning
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Övervakning av vitala tecken hos individ direkt efter allmän eller regional anestesi.
+#OHJE_R 
+---
+###
+#KOODI      QX006 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Vård i livets slutskede
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Komplexa åtgärder i syfte att främja fysiskt, psykiskt och andligt välbefinnande i samband med livets slut, inklusive de närståendes behov.
+#OHJE_R 
+---
+###
+#KOODI      QX007 
+#MUUT_PVM   2008/09/02
+#KAYTPVM    2009/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omhändertagande av avliden
+#RUOTSI     ---
+#LYHENNE    
+#OHJE_S  
+Fysiskt omhändertagande av en avliden person samt stöd till närstående
+#OHJE_R 
+---
+###
+#KOODI_A    QXB
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#SUOMI      Behandling av sår på huden, ospecificerad region
+#RUOTSI     ---
+#ENGL       
+#OHJE_S  
+Exkl brännskador
+#OHJE_R 
+---
+###
+#KOODI      QXB05 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sårrevision, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    Sårrevision, ospecificerad region
+#OHJE_S  
+Avser samtliga sårrevisioner oavsett lokalisation
+#OHJE_R 
+---
+###
+#KOODI      QXB10 
+#MUUT_PVM   2003/08/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Omläggning eller förbandsbyte av större sår, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    Omläggning eller förbandsbyte, ospecific
+#OHJE_S  
+Exklusive omläggning eller förbandsbyte av brännskador
+#OHJE_R 
+---
+###
+#KOODI      QXC00 
+#MUUT_PVM   2002/09/27
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Avlägsnande av subkutan främmande kropp, ospecificerad region
+#RUOTSI     ---
+#LYHENNE    Avlägs av subkutan främm kropp, ospecif.

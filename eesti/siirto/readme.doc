@@ -1,0 +1,79 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\cgrid \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}}{\info{\title NCSP-tietokanta}{\author Martti Virtanen}{\operator Matti Virtanen}{\creatim\yr1995\mo12\dy10\hr13\min6}{\revtim\yr1997\mo12\dy23\hr12\min40}{\version6}{\edmins133}{\nofpages2}{\nofwords636}{\nofchars3629}{\*\company MV HCC Oy}{\nofcharsws4456}{\vern71}}\paperw11906\paperh16838 \widowctrl\ftnbj\aenddoc\makebackup\lytprtmet\formshade\viewkind4\viewscale150\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \ri2777\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\f2\fs16\lang1035 Toimenpideluokitus
+\par NOMESKOn leikkausluokitus (CSP) - Suomen versio
+\par 
+\par Tämä levyke sisältää CSP:n suomalaisen version sekä alustavan version laajennuksesta muihin kuin kirurgisiin toimenpiteisiin. Kirurgiset koodit ovat samat kuin Toimenpideluokitus -kirjassa julkaistut koodit. Luokitus on saatavissa tässä esiteltyinä siirtotiedostomuotoina. 
+\par Tiedostot on pakattu itse purkautuvaan siirtotiedostoon. Käynnistettäessä tiedosto purkaa itsensä samaan hakemistoon, johon se on sijoitettu. Siirtotiedoston eri versioiden sisältö ja muoto esitetään alla. 
+\par 
+\par Luokitus otettiin virallisesti käyttöön 1.1.97. 
+\par 
+\par Levykkeellä olevat tiedostot voidaan purkaa käskyllä 'a:instal <tiedostomuoto> halutusta hakemistosta käsin. Käskyä ei voi antaa a-levyasemasta käsin.
+\par 
+\par Tietokenttien sisältö kaikkien tiedostomuotojen osalta on kuvattu ICD_LUV tiedostomuodon kohdalla.
+\par 
+\par Tiedostossa NCSP_DB4.DBF on standardi dBase muodossa. Ennen tiedoston muodostamista teksti on käännetty ascii muotoon, jossa skandinaaviset kirjaimet aukeavat normaalisti useimpia sovelluksia käytettäessä. Tätä tiedostomuotoa voidaan lukea useilla yleisesti käytetyillä tietokanta- ja taulukkolaskentaohjelmilla.
+\par 
+\par NCSP_ASC.TXT tiedostossa tietokanta on ns. 'Standard Data Format' - muodossa.
+\par 
+\par NCSP.TXT on sama tiedosto ANSI-standardin mukaisessa muodossa, jolloin skandinaaviset kirjaimet ovat Windows-käyttöön sopivassa muodossa.
+\par 
+\par Kaikille edellä mainituille tiedostomuodoille on yhteistä, että tietueiden nimikekentät ovat pitkiä, koska osa nimikkeistä on erittäin pitkiä. Tästä johtuu myös purettujen tiedostojen suhteellisen suuri koko.
+\par Samoin edellä mainituille tiedostomuodoille on yhteistä, etteivät ne sisällä NCSP luokituksen ohjetekstejä,  vaan ainoastaan kunkin koodin nimiketekstin.
+\par 
+\par Tiedostoissa NCSP.DBF ja NCSP.FPT on täydellinen NCSP-tietokanta FoxPro-tiedostona. NCSP.DBF sisältää varsinaisen tietokannan ja NCSP.FPT on ns. memo-kenttätiedosto. Tämän tietokantamuodon käyttö edellyttää FoxPro ohjelmistoa.
+\par 
+\par L_??.ans tyyppisissä tiedostossa on täydellinen tietokanta on pakattuna luvuittaisiin tiedostoihin.
+\par NCPS:ssä on 20 lukua ja täten tiedostoja on 20. Tiedostot on nimetty seuraavasti:
+\par l_a.ans
+\par l_b.ans
+\par l_c.ans
+\par l_d.ans
+\par l_e.ans
+\par ....
+\par l_z.ans
+\par 
+\par Pääte .ans osoittaa, että tiedostot ovat ANSI-standardinmukaisia tekstitiedostoja. Jos halutaan käyttää ASC-standardia on tiedostot muunnettava tekstinkäsittelyohjelmalla (esim Word tai WP) ns DOS-teksti muotoon, jotta skandinaaviset kirjaimet näkyisivät oikein.
+\par 
+\par Tietokenttien sisältö ja järjestys:
+\par Luvuttaisissa  tiedostoissa kooditietueiden kentät ovat peräkkäin tiedostoissa, muissa tiedostoissa normaalisti sarakkeittain. Seuraavassa luettelossa on luvuttaisen tiedoston kenttätunnisteet sekä kenttien sisältö:
+\par 
+\par #KOODI_L  Luvun koodi (esim.A)
+\par #KOODI_R  Ryhmän koodi (esim. AA)
+\par #KOODI_A  Alaryhmän koodi (esim. AAA)
+\par #KOODI    Varsinaiset koodi (esim.AAA01)
+\par Muissa kuin luvuttaisissa tiedostoissa koodi on omassa kentässään. Tämän kentän pituus 5 merkkiä 
+\par Lisäksi muissa tiedostoissa on erillinen kenttä joka ilmoittaa onko kyseessä luku, ryhmä, alaryhmä tai peruskoodi
+\par 
+\par Laji   L/R/A/K
+\par 
+\par #SUOMI    Luvun/ryhmän/alaryhmä/peruskoodin 
+\par           suomenkielinen nimi
+\par Kentän pituus 150 merkkiä
+\par 
+\par #RUOTSI   Luvun/ryhmän/alaryhmä/peruskoodin
+\par           ruotsinkielinen nimi
+\par Kentän pituus on 150 merkkiä
+\par 
+\par #ENGLANTI Luvun/ryhmän/alaryhmän englanninkielinen nimi
+\par Kentän pituus on 150 merkkiä
+\par 
+\par #LYHENNE  40 merkin pituinen lyhenne nimikkeestä (vain
+\par           peruskoodeista)
+\par Kentän pituus on 40 merkkiä
+\par 
+\par #NOTE_S   Suomenkielisiä ohjeita luvun/ryhmä/alaryhmän/ 
+\par           koodin käytöstä
+\par #NOTE_R   Ruotsinkielisiä ohjeita luvun/ryhmä/alaryhmän/ 
+\par           koodin käytöstä
+\par NOTE -tekstit ovat vaihtelevan pituisia tekstikenttiä. Teksti alkaa tunnistetta seuraavalta riviltä. Teksti jatkuu seuraavaan #-merkkiin asti.
+\par Tämä tieto sisältyy FoxPro tiedoston ns. memo-kenttiin mutta ei muihin kaikki luvut käsittäviin tiedostomuotoihin.
+\par 
+\par Puretussa muodossa eri muotojen tilantarve on seuraava:
+\par NCSP_ASC.TXT       3.1 Mtavua
+\par NCSP_ANS.TXT       3.1 Mtavua
+\par NCSP_DB4.DBF       3.1 Mtavua
+\par NCSP.DBF (+ .FPT)  3.3 Mtavua
+\par L_A-Z.TXT          yhteensä 1.5 Mtavua
+\par Kaikki yhteensä vaativat 15 Mtavua
+\par 
+\par Tietojen tekijäoikeudet omistaa STAKES. Näiden perusteella valmistettuja tuotteita ei saa luovuttaa loppukäyttäjälle, jolla ei ole lisenssiä tietokantamuodon käyttämistä varten. Tämän lisenssin käyttäjä saa STAKESista.
+\par }}

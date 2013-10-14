@@ -1,0 +1,982 @@
+
+###
+#KOODI_L    M
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Obstetriset toimenpiteet
+#RUOTSI     Obstetrik
+#ENGL       Obstetrics
+###
+#KOODI_R    MA
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Raskaus ja synnytys
+#RUOTSI     Graviditet och förlossning
+#ENGL       Pregnancy and at delivery
+#OHJE_S  
+Raskauden keskeytys kohdassa LCH
+#OHJE_R 
+Avbrytande av graviditet, se LCH
+###
+#KOODI      MA1AE 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6183      
+#SUOMI      Varhaisraskauden UÄ
+#RUOTSI     Tidig graviditet, UL
+#LYHENNE    Varhaisraskauden UÄ
+#OHJE_S  
+Tutkimus raskauden varmistamiseksi. Tyypillisesti ennen 12. raskausviikkoa
+#OHJE_R 
+Undersöknig för att säkerställa graviditet. Typiskt före utgång av 12. graviditetsvecka
+###
+#KOODI      MA2AA 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5641      
+#SUOMI      Sikiön röntgen
+#RUOTSI     Fosteröversikt, röntgen
+#LYHENNE    Sikiön rtg
+###
+#KOODI      MA2AE 
+#MUUT_PVM   2002/11/11
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6184      
+#SUOMI      Raskaudentilan UÄ
+#RUOTSI     Graviditet, UL
+#LYHENNE    Raskaudentilan UÄ
+#OHJE_S  
+12 raskausviikolla tai sen jälkeen. Sisältää sikiön morfologisen ja niskaturvotuksen tutkimuksen
+#OHJE_R 
+Efter utgång av 12. graviditetsvecka. Innefattar morfoligisk undesökning av fostret och mätning av nacködem
+###
+#KOODI      MA2BG 
+#MUUT_PVM   2004/12/20
+#KAYTPVM    2005/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sikiön magneettitutkimus korkeakenttälaitteella
+#RUOTSI     Foster undersökning med högfältsmagnet
+#LYHENNE    Sikiön MR, korkeakenttälaite
+###
+#KOODI      MA2DE 
+#MUUT_PVM   2004/09/28
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6186      
+#SUOMI      Sikiön yksityiskohtainen vaativa UÄ erikoistekniikoin
+#RUOTSI     Foster, detaljerad grävande UL med specialtekniker
+#LYHENNE    Sikiö,vaativa. UÄ
+###
+#KOODI      MA2HE 
+#MUUT_PVM   2003/11/04
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6185      
+#SUOMI      Sikiön yksityiskohtainen UÄ morfologiatutkimus
+#RUOTSI     Fostermorfologi, detaljerad UL
+#LYHENNE    Sikiön UÄ
+###
+#KOODI      MA2JE 
+#MUUT_PVM   2006/11/14
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sikiön niskapoimun UÄ *
+#RUOTSI     Obstetrisk ultraljudsundersökning s.k. NUPP
+#LYHENNE    Sikiön niskapoimun UÄ *
+###
+#KOODI      MA2XE 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      6199      
+#SUOMI      Obstetrinen muu UÄ
+#RUOTSI     Annan obstetrisk UL
+#LYHENNE    Obstetrinen muu UÄ
+###
+#KOODI      MA4AT 
+#MUUT_PVM   2004/12/20
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      9063      
+#SUOMI      Korionbiopsia, UÄ-ohjauksessa
+#RUOTSI     Korionbiopsi , UL-styrd
+#LYHENNE    Korionbiopsia UÄ-ohj
+###
+#KOODI      MAA00 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8701      
+#SUOMI      Lapsivesipisto
+#RUOTSI     Amniocentes
+#LYHENNE    Lapsivesipisto
+#OHJE_S  
+Sisältää ultraääniohjauksen
+#OHJE_R 
+Innefattar ultraljudsutstyrd
+###
+#KOODI      MAA03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Ruiske tai tiputus sikiökalvopussiin
+#RUOTSI     Amnioinfusion
+#LYHENNE    Ruiske tai tiputus sikiökalvopussiin
+#OHJE_S  
+Raskauden keskeyttämiseksi LCH10
+#OHJE_R 
+För avbrytande av graviditet, se LCH10
+###
+#KOODI      MAA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Koepalan otto suonikalvon nukkalisäkkeestä
+#RUOTSI     Biopsi av chorionvilli
+#LYHENNE    Biopsia chorionvilluksesta
+#OHJE_S  
+Koepalan otto tähystyksessä ULC05
+Koepalan otto ulttraääniohjauksessa MA4AT
+#OHJE_R 
+Biopsi vid hysteroskopi, se ULC05
+Ultraljudsutstyrd, se MA4AT
+###
+#KOODI      MAA20 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Ehkäisimen poisto raskaana olevasta kohdusta UÄ-ohjauksessa
+#RUOTSI     Avlägsnande av IUD från gravid uters med ultraljudstöd
+#LYHENNE    IUD:n poisto raskaana olev. UÄ-ohjaukses
+###
+#KOODI      MAA22 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Ehkäisimen poisto raskaana olevasta kohdusta kohduntähystyksessä
+#RUOTSI     Hysteroskopi med avlägsnande av IUD från gravid uterus
+#LYHENNE    IUD:n poisto raskaana olevalta tähystyks
+###
+#KOODI      MAA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Napanuorapisto
+#RUOTSI     Chordocentes
+#LYHENNE    Napanuorapisto
+###
+#KOODI      MAA32 
+#MUUT_PVM   1996/05/26
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sikiön napasuonen katerointi
+#RUOTSI     Katetrisering av fostrets navelsträngs kärl
+#LYHENNE    Sikiön napasuonen katerointi
+#OHJE_S  
+Sisältää ultraääniohjauksen
+#OHJE_R 
+Inkl ultraljudsutstyrd
+###
+#KOODI      MAA34 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Siirto sikiön napasuoneen
+#RUOTSI     Transfusion till navelsträngs kärl
+#LYHENNE    Siirto sikiön napasuoneen
+#OHJE_S  
+Esim verisolujen, plasman tai trombosyyttien siirto
+#OHJE_R 
+T.ex. transfusion av blodceller, plasma eller trombosyter.
+###
+#KOODI      MAA40 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Kudosnäytteen otto sikiöstä
+#RUOTSI     Punktion av foster för vävnadsbiopsi
+#LYHENNE    Kudosnäytteen otto sikiöstä
+###
+#KOODI      MAA43 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Neulan tai katetrin vieminen sikiöön
+#RUOTSI     Införande av nål eller kateter i foster
+#LYHENNE    Neulan tai katetrin vieminen sikiöön
+#OHJE_S  
+Esim. kystan, vesirinnan tms takia
+#OHJE_R 
+T.ex. för cysta, hydrotorax
+###
+#KOODI      MAA51 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Alkiontähystys ja mahdollinen toimenpide
+#RUOTSI     Embryoskopi, ev med operativt ingrepp
+#LYHENNE    Alkiontähystys ja mahdollinen toimenpide
+###
+#KOODI      MAA54 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1330      
+#SUOMI      Sikiöntähystys  ja mahdollinen toimenpide
+#RUOTSI     Fetoskopi, inkl ev ingrepp
+#LYHENNE    Fetoskopia/mahdollinen toimenpide
+###
+#KOODI      MAA80 
+#MUUT_PVM   1999/04/16
+#KAYTPVM    1998/01/01
+#POISTPVM   2003/09/25
+#POISTETTU
+#VANHA                
+#SUOMI      Valikoiva raskaudenkeskeytys yhden tai useamman sikiön osalta
+#RUOTSI     Selektiv abort av en eller flera fetus
+#LYHENNE    Valikoiva raskaudenkeskeytys
+###
+#KOODI      MAA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Muu kohdun sisäinen toimenpide raskauden aikana
+#RUOTSI     Annan öppen intrauterin operation på gravid uterus och foster
+#LYHENNE    Muu kohdun sisäinen tmp raskauden aikana
+###
+#KOODI      MAA98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Muu kohdun sisäinen toimenpide raskauden aikana kohduntähystyksessä
+#RUOTSI     Annan hysteroskopisk operation på gravid uterus och foster
+#LYHENNE    Muu kohdun sisäinen tmp rask aikana tähy
+###
+#KOODI      MAB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8702      
+#SUOMI      Kohdunkaulan tukiompeleen asettaminen raskauden aikana
+#RUOTSI     Anläggande av cervixcerclage under graviditet
+#LYHENNE    Cerclagen asettaminen raskauden aikana
+###
+#KOODI      MAB03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8703      
+#SUOMI      Kohdunkaulan tukiompeleen poisto synnytyksen vuoksi
+#RUOTSI     Avlägsnande av cervixcerclage under graviditet
+#LYHENNE    Cerclagen poisto synnytyksen vuoksi
+#OHJE_S  
+Tukiompeleen poisto muulloin kuin raskauden aikana LDD20
+#OHJE_R 
+Avlägsnande av cervixcerclage hos icke-gravida, se LDD20
+###
+#KOODI      MAB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Sikiön ulkokäännös
+#RUOTSI     Yttre vändning av foster
+#LYHENNE    Sikiön ulkokäännös
+###
+#KOODI      MAB20 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Sikiön ulkokäännösyritys
+#RUOTSI     Vändningsförsök av foster
+#LYHENNE    Epäonnistunut sikiön ulkokääntö
+#OHJE_S  
+Epäonnistunut käännös
+#OHJE_R 
+Icke framgångsrik
+###
+#KOODI      MAC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Vesikalvon puhkaisu synnytyksessä
+#RUOTSI     Amniotomi för inledande av förlossning
+#LYHENNE    Vesikalvon puhkaisu synnytyksessä
+###
+#KOODI      MAC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Kohdun kaulakanavan laajennus synnytyksessä
+#RUOTSI     Cervixdilatation för inledande av förlossning
+#LYHENNE    Kohdun kaulakanavan laajennus synnytykse
+###
+#KOODI      MAC96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8709      
+#SUOMI      Muu synnytystä edistävä toimenpide
+#RUOTSI     Annat ingrepp för inledande av förlossning
+#LYHENNE    Muu synnytystä edistävä toimenpide
+###
+#KOODI_A    MA_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Raskauden ja synnytyksen aikainen diagnostinen radiologia
+#RUOTSI     Diagnostisk radiologi under graviditet och förlossning
+#ENGL       Diagnostic radiology in pregnancy and at delivery
+#OHJE_S  
+Synnytyskavan mittaus kohdassa NE
+#OHJE_R 
+Bäckenmätning, se NE
+###
+#KOODI      MAD00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Kohdunkaulan aukaisu synnytyksessä
+#RUOTSI     Cervicotomi under förlossning
+#LYHENNE    Kohdunkaulan aukaisu synnytyksessä
+###
+#KOODI      MAD20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Häpyliitoksen aukaisu synnytyksessä
+#RUOTSI     Symfyseotomi under förlossning
+#LYHENNE    Häpyliitoksen aukaisu synnytyksessä
+###
+#KOODI      MAD99 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Muu synnytysteiden laajennustoimenpide
+#RUOTSI     Andra ingrepp för att vidga förlossningskanalen
+#LYHENNE    Muu synnytysteiden laajennustoimenpide
+###
+#KOODI      MAE00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8801      
+#SUOMI      Imukuppiulosautto
+#RUOTSI     Vacuumextraktion av foster
+#LYHENNE    Imukuppiulosautto
+###
+#KOODI      MAE03 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8801      
+#SUOMI      Imukuppiulosautto, keskikorkea tai korkea
+#RUOTSI     Vakuumextraktion, medelhög eller hög
+#LYHENNE    Imukuppiulosautto,keskikorkea tai korkea
+###
+#KOODI      MAE20 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Imukuppiulosauttoyritys
+#RUOTSI     Försök till vakuumextraktion av foster
+#LYHENNE    Imukuppiulosauttoyritys
+#OHJE_S  
+Epäonnistunut ulosautto tai ennen synnytystä keskeytetty veto
+#OHJE_R 
+Misslyckat försök eller traktion som avbryts före förlossning
+###
+#KOODI      MAE96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8801      
+#SUOMI      Muu imukuppiulosauttaminen
+#RUOTSI     Annat förlossningsingrepp med sugklocka
+#LYHENNE    Muu imukuppiulosauttaminen
+###
+#KOODI_A    MA_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut raskauden ja synnytyksen aikaiset diagnostiset toimenpiteet
+#RUOTSI     Andra diagnostiska åtgärder under graviditet och förlossning
+#ENGL       Other diagnostic procedure in pregnancy and at delivery
+###
+#KOODI      MAF00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8802      
+#SUOMI      Ulosautto pihdellä
+#RUOTSI     Utgångstång (låg tång)
+#LYHENNE    Ulosautto pihdellä
+###
+#KOODI      MAF10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8802      
+#SUOMI      Ulosautto pihdeillä, keskikorkea
+#RUOTSI     Medelhög tång
+#LYHENNE    Ulosautto pihdeillä, keskikorkea
+###
+#KOODI      MAF20 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Ulosauttoyritys pihdeillä
+#RUOTSI     Försök till tångextraktion
+#LYHENNE    Epäonnistunut ulosautto pihdeillä
+#OHJE_S  
+Epäonnistunut ulosautto tai ennen synnytystä keskeytetty veto
+#OHJE_R 
+Misslyckat försök eller traktion som avbryts före förlossning
+###
+#KOODI      MAF96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8802      
+#SUOMI      Muu pihtisynnytys
+#RUOTSI     Annan tångförlossning
+#LYHENNE    Muu pihtisynnytys
+###
+#KOODI      MAG00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8803      
+#SUOMI      Perätilan ulosautto käsin
+#RUOTSI     Sätesförlossning, manuell
+#LYHENNE    Perätilan ulosautto käsin
+###
+#KOODI      MAG03 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8802      
+#SUOMI      Perätilan ulosautto pihdeillä
+#RUOTSI     Tångförlossning vid sätesbjudning
+#LYHENNE    Perätilan ulosautto pihdeillä
+###
+#KOODI      MAG10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8804      
+#SUOMI      Ulosveto, jalkatarjonta
+#RUOTSI     Manuell extraktion vid fotbjudning
+#LYHENNE    Ulosveto, jalkatarjonta
+###
+#KOODI      MAG11 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8802      
+#SUOMI      Ulosveto pihdeillä,  jalkatarjonta
+#RUOTSI     Tångextraktion vid fotbjudning
+#LYHENNE    Ulosveto pihdeillä,  jalkatarjonta
+###
+#KOODI      MAG20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8805      
+#SUOMI      Sikiön sisäkäännös ja ulosveto
+#RUOTSI     Inre vändning och extraktion
+#LYHENNE    Sikiön sisäkäännös ja ulosveto
+###
+#KOODI      MAG96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Muu synnytyksen poikkeavaan tarjontaan liittyvä toimenpide
+#RUOTSI     Annat ingrepp vid avvikande bjudning
+#LYHENNE    Muu poikkeavaan tarjontaan liittyvä tmp
+#OHJE_S  
+Pään asennon korjaus kohdassa MAH20
+#OHJE_R 
+Korrektion av huvudställning, se MAH20
+###
+#KOODI      MAH10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8821      
+#SUOMI      Napanuoran takaisin laittaminen
+#RUOTSI     Reposition av navelsträngsframfall i samband med förlossning
+#LYHENNE    Napanuoran takaisin laittaminen
+###
+#KOODI      MAH20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8809      
+#SUOMI      Sikiön pään asennon korjaus päätarjonnassa
+#RUOTSI     Korrektion av huvudställning (t. ex. pannbjudning) i samband med förlossning
+#LYHENNE    Sikiön pään asennon korjaus
+###
+#KOODI      MAH30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8822      
+#SUOMI      Sikiön pään puhkaisu synnytyksen aikana
+#RUOTSI     Kraniotomi av fosterhuvudet i samband med förlossning
+#LYHENNE    Sikiön pään puhkaisu synnytyksen aikana
+###
+#KOODI      MAJ00 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sikiöiden vähentäminen yhdellä
+#RUOTSI     Reduktion av multipel graviditet med ett foster
+#LYHENNE    Sikiöiden vähentäminen yhdellä
+###
+#KOODI      MAJ10 
+#MUUT_PVM   2003/09/25
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Sikiöiden vähentäminen usealla
+#RUOTSI     Reduktion av multipel graviditet med fler än ett foster
+#LYHENNE    Sikiöiden vähentäminen usealla
+###
+#KOODI      MAW96 
+#MUUT_PVM   2004/02/03
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8829      
+#SUOMI      Muu raskaus- tai synnytystoimenpide
+#RUOTSI     Annat ingrepp under graviditet eller i samband med förlossning
+#LYHENNE    Muu raskaus- tai synnytystoimenpide
+###
+#KOODI      MAW97 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1413      
+#SUOMI      Muu raskaus- tai synnytystoimenpide vatsaontelon tähystyksessä
+#RUOTSI     Annat laparoskopiskt ingrepp under graviditet eller i samband med förlossning
+#LYHENNE    Muu raskaus- tai synnytystoimenpide LAP
+###
+#KOODI      MAW98 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      1350      
+#SUOMI      Muu raskaus- tai synnytystoimenpide synnytyselinten sisätilan tähystyksessä
+#RUOTSI     Annat transluminalt endoskopiskt ingrepp före eller i samband med förlossning
+#LYHENNE    Muu raskaus-/synnytystmp sisätähystykses
+###
+#KOODI_A    MA_
+#MUUT_PVM   2002/08/28
+#KAYTPVM    2003/01/01
+#POISTPVM       /  /  
+#SUOMI      Muut raskauden ja synnytyksen aikaiset toimenpiteet
+#RUOTSI     Andra åtgärder under graviditet och förlossning
+#ENGL       Other procedures in pregnancy and at delivery
+###
+#KOODI      MAX99 
+#MUUT_PVM   2003/09/29
+#KAYTPVM    2004/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Normaalin synnytyksen avustaminen
+#RUOTSI     Medhjälp vid normal förlossning
+#LYHENNE    Normaalin synnytyksen avustaminen
+###
+#KOODI_R    MB
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Synnytyksen tai raskaudenkeskeytymisen jälkeen tehtävät toimenpiteet
+#RUOTSI     Ingrepp efter förlossning eller abort
+#ENGL       Procedures after delivery or abortion
+#OHJE_S  
+Raskauden keskeytys, katso LCH
+#OHJE_R 
+Provocerad abort, se LCH
+###
+#KOODI      MB2AA 
+#MUUT_PVM   1998/11/02
+#KAYTPVM    1999/01/01
+#POISTPVM       /  /  
+#VANHA      5143      
+#SUOMI      Kuolleen sikiön tai vastasyntyneen kokovartaloröntgen
+#RUOTSI     Röntgen av dödfött barn eller dött foster
+#LYHENNE    Kuolleen sikiön rtg
+###
+#KOODI      MB2AD 
+#MUUT_PVM   2006/10/01
+#KAYTPVM    2007/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kuolleen sikiön tai vastasyntyneen TT
+#RUOTSI     CT av dödfött barn eller dött foster
+#LYHENNE    Kuolleen sikiön TT
+###
+#KOODI      MBA00 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8831      
+#SUOMI      Kohduntyhjennys imulla synnytyksen tai keskenmenon jälkeen
+#RUOTSI     Exeres med vakuumaspiration vid missfall eller efter förlossning
+#LYHENNE    Kohduntyhjennys imulla,synn/keskm. jälk.
+#OHJE_S  
+Sisältää mahdollisen kohdunkaulan laajennuksen
+#OHJE_R 
+Inkl ev cervixdilatation
+###
+#KOODI      MBA03 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8831      
+#SUOMI      Kohduntyhjennys kaapimalla synnytyksen tai keskenmenon jälkeen
+#RUOTSI     Exeres med curettage vid missfall eller efter förlossning
+#LYHENNE    Kohduntyhjennys kaap,synn/keskm.jälk
+#OHJE_S  
+Sisältää kohdunkaulan laajennuksen
+Kohdun kaavinta ilman raskautta LCA10, LCA13 tai LDA10
+#OHJE_R 
+Inkl ev cervixdilatation
+Abrasio utan graviditet, se LCA10, LCA13 eller LDA10
+###
+#KOODI      MBA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8831      
+#SUOMI      Kohdun ontelon tunnustelu kädellä
+#RUOTSI     Manuell undersökning av uteruskaviteten
+#LYHENNE    Kohdun ontelon tunnustelu kädellä
+###
+#KOODI      MBA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8839      
+#SUOMI      Istukan ulospuristaminen Creden ottein
+#RUOTSI     Exprimering av moderkaka (Credé)
+#LYHENNE    Istukan ulospuristaminen Creden ottein
+###
+#KOODI      MBA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8832      
+#SUOMI      Istukan ja sikiökalvojen käsinirroitus
+#RUOTSI     Manuell lösning och uttagande av fosterhinnor, moderkaka eller rest därav
+#LYHENNE    Istukan ja sikiökalvojen käsinirroitus
+###
+#KOODI      MBA96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8839      
+#SUOMI      Muu kohtuun jääneiden hedelmöitystuotteiden poisto synnytyksen tai keskenmenon jälkeen
+#RUOTSI     Annan utskaffning av retinerade feto-placentala strukturer efter förlossning/abort
+#LYHENNE    Muu kohdun evakuaatio synn/AAP jälkeen
+###
+#KOODI      MBB00 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8839      
+#SUOMI      Nurinkääntyneen kohdun sisääntyöntö
+#RUOTSI     Manuell reposition av inverterad uterus
+#LYHENNE    Nurinkääntyneen kohdun sisääntyöntö
+###
+#KOODI      MBB10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8839      
+#SUOMI      Kohtuontelon vuodon tukkiminen liinalla
+#RUOTSI     Stillning av postpartal blödning i livmoderhålan genom tamponad
+#LYHENNE    Kohtuontelon vuodon tukkiminen liinalla
+###
+#KOODI      MBB30 
+#MUUT_PVM   1997/12/21
+#KAYTPVM    1998/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Kohdunsisäinen lääkehuuhtelu
+#RUOTSI     Intrauterin sköljning med medicin
+#LYHENNE    Kohdunsisäinen lääkehuuhtelu
+###
+#KOODI      MBB96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8831      
+#SUOMI      Muu käsin suoritettu toimenpide synnytyksen jälkeen
+#RUOTSI     Annat manuellt ingrepp på uterus efter förlossning
+#LYHENNE    Muu käsin suoritettu tmp synn jälkeen
+###
+#KOODI      MBC00 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8834      
+#SUOMI      Kohdunkaulan ompelu synnytyksen jälkeen
+#RUOTSI     Sutur av cervix uteri vid förlossningsskada eller efter abort
+#LYHENNE    Kohdunkaulan ompelu synnytyksen jälkeen
+###
+#KOODI      MBC10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8833      
+#SUOMI      Emättimen ompelu synnytyksen jälkeen
+#RUOTSI     Sutur av vagina vid förlossningsskada
+#LYHENNE    Emättimen ompelu synnytyksen jälkeen
+###
+#KOODI      MBC20 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8833      
+#SUOMI      Ulkosynnyttimien ompelu synnytyksen jälkeen
+#RUOTSI     Sutur av vulva vid förlossningsskada
+#LYHENNE    Ulkosynnyttimien ompelu synn  jälkeen
+###
+#KOODI      MBC30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8833      
+#SUOMI      Välilihan osittaisen repeämän korjaus
+#RUOTSI     Sutur av partiel perinealbristning
+#LYHENNE    Välilihan osittaisen repeämän korjaus
+#OHJE_S  
+1. ja 2. asteen repeämä
+#OHJE_R 
+Grad 1 och 2
+###
+#KOODI      MBC33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8833      
+#SUOMI      Välilihan täydellisen repeämän korjaus
+#RUOTSI     Sutur av fullsändig perinealbristning
+#LYHENNE    Välilihan täydellisen repeämän korjaus
+#OHJE_S  
+3. ja 4. asteen repeämä
+#OHJE_R 
+Grad 3 och 4
+###
+#KOODI      MBC40 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8833      
+#SUOMI      Emättimen viereisen tai ulkosynnyttimien synnytyksen jälkeisen verikertymän hoito
+#RUOTSI     Åtgärd för postpartalt hematom kring vulva/vagina
+#LYHENNE    Synn jälkeisen vulva/vaginahematomahoito
+###
+#KOODI      MBC90 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8836      
+#SUOMI      Verenvuodon tyrehdyttäminen emättimestä tai ulkoisista sukupuolielimistä synnytyksen jälkeen
+#RUOTSI     Hemostas av vulva och vagina efter förlossningen
+#LYHENNE    Hemostaasi vulva/vagina synn jälkeen
+###
+#KOODI      MBC96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8833      
+#SUOMI      Muu synnytyselinten synnytysvaurion korjaus
+#RUOTSI     Annan revision av förlossningsskada
+#LYHENNE    Muu synnytysvaurion korjaus
+###
+#KOODI      MBW96 
+#MUUT_PVM   2003/11/07
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8839      
+#SUOMI      Muu synnytyksen tai raskaudenkeskeytyksen jälkeinen leikkaus
+#RUOTSI     Annat operation efter förlossning eller abort
+#LYHENNE    Muu  leikkaus synnytyksen/AAP jälkeen
+###
+#KOODI_R    MC
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Keisarileikkaus ja muut raskauden tai synnytyksen takia tehdyt vatsaontelon toimenpiteet
+#RUOTSI     Kejsarsnitt och obstetriska laparotomier
+#ENGL       Caesarean section and obstetric laparotomies
+###
+#KOODI      MCA00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8811      
+#SUOMI      Keisarileikkaus kohdun runko-osan läpi
+#RUOTSI     Abdominalt kejsarsnitt på corpus uteri
+#LYHENNE    Keisarileikkaus kohdun runko-osan läpi
+###
+#KOODI      MCA10 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8811      
+#SUOMI      Keisarileikkaus kohdunsolan eli istmuksen läpi
+#RUOTSI     Abdominalt kejsarsnitt på istmus
+#LYHENNE    Keisarileikkaus istmuksen läpi
+###
+#KOODI      MCA20 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8811      
+#SUOMI      Keisarileikkaus emättimen kautta
+#RUOTSI     Vaginalt kejsarsnitt
+#LYHENNE    Keisarileikkaus emättimen kautta
+###
+#KOODI      MCA30 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8819      
+#SUOMI      Keisarileikkaus ja kohdun runko-osan poisto (Porro)
+#RUOTSI     Abdominalt kejsarsnitt med supravaginal uterusamputation (Porro)
+#LYHENNE    Keisarileikkaus/kohtuamputatio,Porro
+###
+#KOODI      MCA33 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8819      
+#SUOMI      Keisarileikkaus ja kohdun täydellinen poisto
+#RUOTSI     Abdominalt kejsarsnitt med total hysterektomi
+#LYHENNE    Keisarileikkaus/hysterektomia
+###
+#KOODI      MCA96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8819      
+#SUOMI      Muu keisarileikkaus
+#RUOTSI     Annat kejsarsnitt
+#LYHENNE    Muu keisarileikkaus
+###
+#KOODI      MCB00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8812      
+#SUOMI      Kohdun ulkopuolisen sikiön poisto 28 raskausviikon jälkeen
+#RUOTSI     Laparotomi med uthämtande av extrauterint foster efter vecka 28
+#LYHENNE    Kohdun ulkop sikiön poisto 28 vk jälkeen
+###
+#KOODI      MCC00 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8835      
+#SUOMI      Kohdun repeämän ompelu synnytyksen jälkeen
+#RUOTSI     Sutur av uterusruptur efter förlossning
+#LYHENNE    Kohdun repeämän ompelu synn jälkeen
+###
+#KOODI      MCW00 
+#MUUT_PVM   1996/01/02
+#KAYTPVM    1997/01/01
+#POISTPVM       /  /  
+#VANHA      8306+     
+#SUOMI      Kohdunpoisto synnytyksen yhteydessä
+#RUOTSI     Uterusexstirpation efter vaginal förlossning
+#LYHENNE    Kohdunpoisto synnytyksen yhteydessä
+#OHJE_S  
+Kohdunpoisto keisarileikkauksen yhteydessä kohdassa MCA
+#OHJE_R 
+Uterusexstirpationer i samband med kejsarsnitt, se MCA
+###
+#KOODI      MCW96 
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8835      
+#SUOMI      Muu synnytykseen liittyvät vatsaonteloleikkaus
+#RUOTSI     Annan laparotomi i samband med förlossning
+#LYHENNE    Muu  synnytykseen liittyvä  haparotomia
+###
+#KOODI_R    MW
+#MUUT_PVM   1995/09/26
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#SUOMI      Raskaus- ja synnytysleikkausten haavakomplikaatioleikkaukset
+#RUOTSI     Operationer för komplikationer av obstetrisk kirurgi
+#ENGL       Reoperations in obstetric surgery
+###
+#KOODI      MWA00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8842+     
+#SUOMI      Auenneen tai tulehtuneen raskaus- tai synnytysleikkaushaavan tarkistaminen
+#RUOTSI     Revision av sårruptur/sårinfektion efter obstetriska operationer
+#LYHENNE    Raskaus-/synn haavarevisio,auenn/inf
+###
+#KOODI      MWC00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8843+     
+#SUOMI      Tulehtuneen raskaus- tai synnytysleikkauksen haavaontelon aukaisu ja kanavointi
+#RUOTSI     Öppning ochdränage av infekterad sårhåla efter obstetrisk operation
+#LYHENNE    Raskaus-/synnytysleikk revisio,syvä inf
+###
+#KOODI      MWE00 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8849      
+#SUOMI      Raskaus- tai synnytysleikkauksen uusintaleikkaus haava(ontelo)n vuodon  vuoksi
+#RUOTSI     Reoperation för blödning efter obstetrisk operation
+#LYHENNE    Raskaus-/synnytysleikk revisio,vuoto
+###
+#KOODI      MWW96 
+#MUUT_PVM   1995/10/10
+#KAYTPVM    1996/01/01
+#POISTPVM       /  /  
+#VANHA      8849      
+#SUOMI      Muu uusintaleikkaus raskaus- tai synnytysleikkauksen komplikaation vuoksi
+#RUOTSI     Annan reoperation för komplikation efter obstetrisk operation
+#LYHENNE    Raskaus-/synnytysleikk revisio,muu

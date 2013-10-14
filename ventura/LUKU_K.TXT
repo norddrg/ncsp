@@ -1,0 +1,7471 @@
+@PARAFILTR ON =
+
+@LUVUT = LUKU K
+
+@LUVUT_S = KAPITEL K
+
+@SUOMI_L = Virtsatiet, miehen sukupuolielimet ja vatsaontelon takaiset kudokset
+
+@RUOTSI_L = Urinvägar, manliga genitalier och retroperitoneal vävnad
+
+@ENGL_L = Urinary system, male genital organs and retroperitoneal space
+
+@NOTE_LF = Urologiset toimenpiteet
+
+@NOTE_LF =
+"Tähystys iholta" tarkoittaa sekä nefroskopiaa tai muuta vastaavaa peritoneaaliontelon ulkopuolista että  vatsaontelon kautta tehtyä tähystystoimenpidettä.
+
+@NOTE_LS = Urologiska åtgärder
+
+@NOTE_LS =
+Uttryckket "perkutan"  betyder i detta kapitel både åtgärder, som har gjorts utan att öppna peritonealsäcken, och laparoskopiska åtgärder.
+
+@END_L = 
+
+@KOODI_R = KA
+
+@SUOMI_R = Munuaiset ja munuaisaltaat
+
+@RUOTSI_R = Njurar och njurbäcken
+
+@ENGL_R = Kidney and pelvis of kidney
+
+@END = 
+
+@KOODI_A = KA_
+
+@NCSP_A = KAD
+
+@SUOMI_A = Munuaisen ja munuaisaltaan diagnostinen radiologia
+
+@RUOTSI_A = Diangostisk radiologi av njure och njurbäcken
+
+@ENGL_A = Diagnostic radiology kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KA1AA 
+
+@NCSP = KADA1A
+
+@SUOMI = Munuaisten natiiviröntgen
+
+@RUOTSI = Njuröversikt, röntgen
+
+@END = 
+
+@KOODI = KA3EB 
+
+@NCSP = KADB3E
+
+@SUOMI = Ylävirtsateiden varjoainetutkimus iholta käsin
+
+@RUOTSI = Antegrad pyelografi
+
+@END = 
+
+@KOODI = KA3GB 
+
+@NCSP = KADB3G
+
+@SUOMI = Ylävirtsateiden varjoainetutkimus alavirtsateiden kautta
+
+@RUOTSI = Retrograd pyelografi
+
+@END = 
+
+@KOODI = KA1AD 
+
+@NCSP = KADD1A
+
+@SUOMI = Munuaisten TT
+
+@RUOTSI = Njurar, DT
+
+@END = 
+
+@KOODI = KA1BD 
+
+@NCSP = KADD1A
+
+@SUOMI = Munuaisten laaja TT
+
+@RUOTSI = Njurar, omfattande DT
+
+@END = 
+
+@KOODI = KA1CD 
+
+@NCSP = KADD1A
+
+@SUOMI = Munuaisten erittäin laaja TT
+
+@RUOTSI = Njurar, mycket omfattande DT
+
+@END = 
+
+@KOODI = KA1PD 
+
+@NCSP = KADD1P
+
+@SUOMI = Munuaisten perfuusio TT
+
+@RUOTSI = Nurperfusionsundersökning med DT
+
+@END = 
+
+@KOODI = KA2LD 
+
+@NCSP = KADD2L
+
+@SUOMI = Munuaissiirrännäisen TT
+
+@RUOTSI = Njurtransplantat, DT
+
+@END = 
+
+@KOODI = KA2MD 
+
+@NCSP = KADD2L
+
+@SUOMI = Munuaissiirrännäisen laaja TT
+
+@RUOTSI = Njurtransplantat, omfattande DT
+
+@END = 
+
+@KOODI = KA2ND 
+
+@NCSP = KADD2L
+
+@SUOMI = Munuaissiirrännäisen erittäin laaja TT
+
+@RUOTSI = Njurtransplantat, mycket omfattande DT
+
+@END = 
+
+@KOODI = KA1AE 
+
+@NCSP = KADE1A
+
+@SUOMI = Munuaisten UÄ *
+
+@RUOTSI = Njurar, UL *
+
+@END = 
+
+@KOODI = KA2AE 
+
+@NCSP = KADE2A
+
+@SUOMI = Munuaissiirrännäisen UÄ
+
+@RUOTSI = Njurtransplantat, UL
+
+@END = 
+
+@KOODI = KA1AK 
+
+@NCSP = KADK1A
+
+@SUOMI = Munuaisten spektroskopia
+
+@RUOTSI = Spektroskopi av njurar
+
+@END = 
+
+@KOODI_A = KA_
+
+@NCSP_A = KAE
+
+@SUOMI_A = Munuaisten ja munuaisaltaan tähystykset
+
+@RUOTSI_A = Endoskopier av njurar och njurbäcken
+
+@ENGL_A = Endoscopy of  kidney and pelvis of kidney
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UKA02 
+
+@NCSP = KAE002
+
+@SUOMI = Virtsanjohtimen ja munuaisaltaan tähystys virtsateiden kautta
+
+@RUOTSI = Transluminal pyeloskopi
+
+@END = 
+
+@KOODI_A = KA_
+
+@NCSP_A = KAF
+
+@SUOMI_A = Muut munuaisten ja munuaisaltaan diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra fysiologiska undersökningar av njure och njurbäcken
+
+@ENGL_A = Other diagnostic procedure of  kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = XKA00 
+
+@NCSP = KAFA00
+
+@SUOMI = Munuaisaltaan urodynaaminen tutkimus
+
+@RUOTSI = Urodynamisk undersökning av njurbäcken
+
+@END = 
+
+@KOODI_A = KA0
+
+@NCSP_A = KAO
+
+@SUOMI_A = Munuaisten, munuaisaltaiden ja virtsajohtimien sädehoito
+
+@RUOTSI_A = Strålbehandling av njure och njurbäcken
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = KA001 
+
+@NCSP = KAO001
+
+@SUOMI = Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KA002 
+
+@NCSP = KAO002
+
+@SUOMI = Radikaali munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KA003 
+
+@NCSP = KAO003
+
+@SUOMI = Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KA004 
+
+@NCSP = KAO004
+
+@SUOMI = Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KA029 
+
+@NCSP = KAO029
+
+@SUOMI = Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KA049 
+
+@NCSP = KAO049
+
+@SUOMI = Sädehoito  munuaisissa, munuaisaltaissa tai virtsajohtimissa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KA090 
+
+@NCSP = KAO090
+
+@SUOMI = Sädehoito munuaisten, munuaisaltaiden  ja virtsajohtimien profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av njure och njurbäcken
+
+@END = 
+
+@KOODI = KA099 
+
+@NCSP = KAO099
+
+@SUOMI = Muu munuaisten ja munuaisaltaiden sädehoito
+
+@RUOTSI = Annan strålbehandling av njure och njurbäcken
+
+@END = 
+
+@KOODI_A = KAA
+
+@NCSP_A = KASA
+
+@SUOMI_A = Munuaisen ja munuaisaltaan tutkimusleikkaukset
+
+@RUOTSI_A = Exploration av njure och njurbäcken
+
+@ENGL_A = Exploration of kidney and pelvis of kidney
+
+@NOTE_RF = Tähystys virtsateiden kautta UKA02
+
+@NOTE_RF =
+Luonnollisen aukon tai avanteen kautta tehty tähystys sisältää mahdollisen biopsian ja solunäytteen oton
+
+@NOTE_RS = Endoskopi genom urinvägar, se UKA02
+
+@NOTE_RS =
+Transluminal endoskopi innefattar biopsi och provtagning för cytologi
+
+@END = 
+
+@KOODI = KAA00 
+
+@NCSP = KASA00
+
+@SUOMI = Munuaisen tutkimusleikkaus
+
+@RUOTSI = Öppen exploration av njure
+
+@END = 
+
+@KOODI = KAA01 
+
+@NCSP = KASA01
+
+@SUOMI = Munuaisen tutkiminen tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk undersökning av njure
+
+@END = 
+
+@KOODI = KAA20 
+
+@NCSP = KASA20
+
+@SUOMI = Munuaisen aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Explorativ nefrotomi
+
+@END = 
+
+@KOODI = KAA21 
+
+@NCSP = KASA21
+
+@SUOMI = Munuaisen aukaisu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk explorativ nefrotomi
+
+@END = 
+
+@KOODI = KAA30 
+
+@NCSP = KASA30
+
+@SUOMI = Munuaisaltaan aukaisu
+
+@RUOTSI = Öppen explorativ pyelotomi
+
+@END = 
+
+@KOODI = KAA31 
+
+@NCSP = KASA31
+
+@SUOMI = Munuaisaltaan tähystys iholta
+
+@RUOTSI = Perkutan pyeloskopi
+
+@END = 
+
+@KOODI = KAA96 
+
+@NCSP = KASA96
+
+@SUOMI = Muu munuaisen tutkimusleikkaus
+
+@RUOTSI = Annan öppen exploration av njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAA97 
+
+@NCSP = KASA97
+
+@SUOMI = Muu munuaisen tutkimusleikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk exploration av njure eller njurbäcken
+
+@END = 
+
+@KOODI_A = KAB
+
+@NCSP_A = KASB
+
+@SUOMI_A = Koepalan otot munuaisesta ja munuaisaltaasta
+
+@RUOTSI_A = Biopsier av njure och njurbäcken
+
+@ENGL_A = Biopsy of kidney and pelvis of kidney
+
+@NOTE_RF = Koepalan otto virtsatietähystyksessä UKA02
+
+@NOTE_RS = Endoskopisk biopsi genom urinvägar, se UKA02
+
+@END = 
+
+@KOODI = KAB00 
+
+@NCSP = KASB00
+
+@SUOMI = Koepalan ottaminen munuaisesta tai munuaisaltaasta
+
+@RUOTSI = Biopsi av njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAB01 
+
+@NCSP = KASB01
+
+@SUOMI = Koepalan ottaminen munuaisesta tai munuaisaltaasta tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk biopsi av njure eller njurbäcken
+
+@END = 
+
+@KOODI_A = KAC
+
+@NCSP_A = KASC
+
+@SUOMI_A = Munuaisen poistot
+
+@RUOTSI_A = Nefrektomi
+
+@ENGL_A = Total excision of kidney
+
+@NOTE_RF = Alaonttolaskimon tuumoritrombin poisto PHE70
+
+@NOTE_RS = Avllägsnande av tumormaterial från aortta PHE70
+
+@END = 
+
+@KOODI = KAC00 
+
+@NCSP = KASC00
+
+@SUOMI = Munuaisen poisto
+
+@RUOTSI = Öppen nefrektomi
+
+@END = 
+
+@KOODI = KAC01 
+
+@NCSP = KASC01
+
+@SUOMI = Munuaisen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk nefrektomi
+
+@END = 
+
+@KOODI = KAC10 
+
+@NCSP = KASC10
+
+@SUOMI = Munuaisenpoisto kapseleineen
+
+@RUOTSI = Resektion av njure med kapsel
+
+@END = 
+
+@KOODI = KAC11 
+
+@NCSP = KASC11
+
+@SUOMI = Munuaisen poisto kapseleinen tähystyksessä iholta
+
+@RUOTSI = Perkutan resektion av njure med kapsel
+
+@END = 
+
+@KOODI = KAC20 
+
+@NCSP = KASC20
+
+@SUOMI = Munuaisen ja virtsanjohtimen poisto
+
+@RUOTSI = Nefroureterektomi
+
+@END = 
+
+@KOODI = KAC21 
+
+@NCSP = KASC21
+
+@SUOMI = Munuaisen ja virtsanjohtimen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk nefroureterektomi
+
+@END = 
+
+@KOODI = KAC96 
+
+@NCSP = KASC96
+
+@SUOMI = Muu munuaisen poisto
+
+@RUOTSI = Annan öppen nefrektomi
+
+@END = 
+
+@KOODI = KAC97 
+
+@NCSP = KASC97
+
+@SUOMI = Muu munuaisen poisto tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk nefrektomi
+
+@END = 
+
+@KOODI_A = KAD
+
+@NCSP_A = KASD
+
+@SUOMI_A = Munuaisen osien poistot ja säästävät kasvainleikkaukset
+
+@RUOTSI_A = Delresektion av njure och njurbäcken
+
+@ENGL_A = Partial excision or destruction of tumour of kidney and pelvis of kidney
+
+@NOTE_RF = Alaonttolaskimon tuumoritrombin poisto PHE70
+
+@NOTE_RS = Avllägsnande av tumormaterial från vena cava inferior PHE70
+
+@END = 
+
+@KOODI = KAD00 
+
+@NCSP = KASD00
+
+@SUOMI = Munuaisen osan poisto
+
+@RUOTSI = Öppen delresektion av njure
+
+@NOTE_F = Sisältää munaiskystan "deroofingin"
+
+@NOTE_S = Inkl "deroofing" av njurcysta
+
+@END = 
+
+@KOODI = KAD01 
+
+@NCSP = KASD01
+
+@SUOMI = Munuaisen osan poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk resektion av njure
+
+@END = 
+
+@KOODI = KAD10 
+
+@NCSP = KASD10
+
+@SUOMI = Munuaisen poisto puoliksi
+
+@RUOTSI = Öppen heminefrektomi
+
+@END = 
+
+@KOODI = KAD11 
+
+@NCSP = KASD11
+
+@SUOMI = Munuaisen poisto puoliksi tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk heminefrektomi
+
+@END = 
+
+@KOODI = KAD40 
+
+@NCSP = KASD40
+
+@SUOMI = Munuaisaltaan osittainen poisto
+
+@RUOTSI = Öppen delresektion av njurbäcken
+
+@END = 
+
+@KOODI = KAD41 
+
+@NCSP = KASD41
+
+@SUOMI = Munuaisaltaan osittainen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk delresektion av njurbäcken
+
+@END = 
+
+@KOODI = KAD50 
+
+@NCSP = KASD50
+
+@SUOMI = Munuaisaltaan kasvaimen tuhoaminen
+
+@RUOTSI = Öppen destruktion av njurbäckentumör
+
+@END = 
+
+@KOODI = KAD51 
+
+@NCSP = KASD51
+
+@SUOMI = Munuaisaltaan kasvaimen tuhoaminen tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk destruktion av njurbäckentumör
+
+@END = 
+
+@KOODI = KAD52 
+
+@NCSP = KASD52
+
+@SUOMI = Munuaisaltaan kasvaimen tuhoaminen virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk destruktion av njurbäckentumör
+
+@END = 
+
+@KOODI = KAD96 
+
+@NCSP = KASD96
+
+@SUOMI = Muu munuaisen osan poisto
+
+@RUOTSI = Annan öppen resektion av njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAD97 
+
+@NCSP = KASD97
+
+@SUOMI = Muu munuaisen osan poisto tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk resektion av njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAD98 
+
+@NCSP = KASD98
+
+@SUOMI = Muu munuaisen osan poisto virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk resektion av njure eller njurbäcken
+
+@END = 
+
+@KOODI_A = KAE
+
+@NCSP_A = KASE
+
+@SUOMI_A = Munuais- ja munuaisallaskivien poistot
+
+@RUOTSI_A = Extraktion av konkrement ur njure och njurbäcken
+
+@ENGL_A = Removal of calculi from kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KAE00 
+
+@NCSP = KASE00
+
+@SUOMI = Munuaiskiven poisto
+
+@RUOTSI = Öppen nefrolitotomi
+
+@END = 
+
+@KOODI = KAE01 
+
+@NCSP = KASE01
+
+@SUOMI = Munuaiskiven poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan nefroskopisk nefrolitotomi
+
+@END = 
+
+@KOODI = KAE10 
+
+@NCSP = KASE10
+
+@SUOMI = Munuaisaltaan kiven poisto
+
+@RUOTSI = Öppen pyelolitotomi
+
+@END = 
+
+@KOODI = KAE11 
+
+@NCSP = KASE11
+
+@SUOMI = Munuaisaltaan kiven poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan nefroskopisk pyelolitotomi
+
+@NOTE_F = Sisältää kivien murskaamisen
+
+@NOTE_S = Inkl litotripsi
+
+@END = 
+
+@KOODI = KAE12 
+
+@NCSP = KASE12
+
+@SUOMI = Munuaisaltaan kiven poisto/murskaus virtsatietähystyksessä
+
+@RUOTSI = Transluminal litotripsi i njurbäckenet
+
+@END = 
+
+@KOODI = KAE96 
+
+@NCSP = KASE96
+
+@SUOMI = Muu munuaiskiven poisto
+
+@RUOTSI = Annan öppen extraktion av konkrement i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAE97 
+
+@NCSP = KASE97
+
+@SUOMI = Muu munuaiskiven poisto tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk extraktion av konkrement i njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAE98 
+
+@NCSP = KASE98
+
+@SUOMI = Muu munuaiskiven poisto virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk extraktion av konkrement i njure eller njurbäcken
+
+@END = 
+
+@KOODI_A = KAF
+
+@NCSP_A = KASF
+
+@SUOMI_A = Vierasesineiden poistot munuaisesta tai munuaisaltaasta
+
+@RUOTSI_A = Avlägsnande av främmande kropp från njure (inkl njurbäcken)
+
+@ENGL_A = Removal of foreign body from kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KAF00 
+
+@NCSP = KASF00
+
+@SUOMI = Vierasesineen poisto munuaisesta
+
+@RUOTSI = Avlägsnande av främmande kropp från njure (öppen operation)
+
+@END = 
+
+@KOODI = KAF01 
+
+@NCSP = KASF01
+
+@SUOMI = Vierasesineen poisto munuaisesta tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopiskt avlägsnande av främmande kropp från njure
+
+@END = 
+
+@KOODI = KAF10 
+
+@NCSP = KASF10
+
+@SUOMI = Vierasesineen poisto munuaisaltaasta
+
+@RUOTSI = Öppet avlägsnande av främmande kropp från njurbäcken
+
+@END = 
+
+@KOODI = KAF11 
+
+@NCSP = KASF11
+
+@SUOMI = Vierasesineen poisto munuaisaltaasta tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopiskt avlägsnande av främmande kropp från njurbäcken
+
+@END = 
+
+@KOODI = KAF12 
+
+@NCSP = KASF12
+
+@SUOMI = Vierasesineen poisto munuaisaltaasta virtsatietähystyksessä
+
+@RUOTSI = Transluminalt endoskopiskt avlägsnande av främmande kropp från njurbäcken
+
+@END = 
+
+@KOODI_A = KAH
+
+@NCSP_A = KASH
+
+@SUOMI_A = Munuaisen ja munuaisaltaan korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på njurar och njurbäcken
+
+@ENGL_A = Reconstructive operations on kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KAH00 
+
+@NCSP = KASH00
+
+@SUOMI = Munuaisen ompelu
+
+@RUOTSI = Öppen njursutur
+
+@END = 
+
+@KOODI = KAH01 
+
+@NCSP = KASH01
+
+@SUOMI = Munuaisen ompelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk sutur av njure
+
+@END = 
+
+@KOODI = KAH10 
+
+@NCSP = KASH10
+
+@SUOMI = Munuaisaltaan ompelu
+
+@RUOTSI = Öppen sutur av njurbäcken
+
+@END = 
+
+@KOODI = KAH11 
+
+@NCSP = KASH11
+
+@SUOMI = Munuaisaltaan ompelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk sutur av njurbäcken
+
+@END = 
+
+@KOODI = KAH12 
+
+@NCSP = KASH12
+
+@SUOMI = Munuaisaltaan ompelu virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk sutur av njurbäcken
+
+@END = 
+
+@KOODI = KAH30 
+
+@NCSP = KASH30
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen muovaus katkaisematta
+
+@RUOTSI = Pyeloureteroplastik utan delning av njurbäcken-uretärövergång
+
+@END = 
+
+@KOODI = KAH31 
+
+@NCSP = KASH31
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen muovaus katkaisematta tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk pyeloureteroplastik utan delning av njurbäcken- uretärövergång
+
+@END = 
+
+@KOODI = KAH40 
+
+@NCSP = KASH40
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen muovaus katkaisten
+
+@RUOTSI = Öppen pyeloureterostomi med delning av njurbäcken-uretärövergång
+
+@END = 
+
+@KOODI = KAH41 
+
+@NCSP = KASH41
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen muovaus katkaisten tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk pyeloureterostomi med delning av njurbäcken- uretärövergång
+
+@END = 
+
+@KOODI = KAH50 
+
+@NCSP = KASH50
+
+@SUOMI = Munuaispikarin ja virtsanjohtimen yhdistäminen
+
+@RUOTSI = Öppen anastomos mellan uretär och njurkalkar
+
+@END = 
+
+@KOODI = KAH51 
+
+@NCSP = KASH51
+
+@SUOMI = Munuaispikarin ja virtsanjohtimen yhdistäminen tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk anastomos mellan uretär och njurkalkar
+
+@END = 
+
+@KOODI = KAH54 
+
+@NCSP = KASH54
+
+@SUOMI = Munuaispikarin aukaisu tai laajennus tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk incision eller dilatation av calyx neck
+
+@END = 
+
+@KOODI = KAH55 
+
+@NCSP = KASH55
+
+@SUOMI = Munuaispikarin aukaisu tai laajennus virtsateiden tähystyksessä
+
+@RUOTSI = Retrograd ureteronephroskopisk incision eller dilatation av calyx neck
+
+@END = 
+
+@KOODI = KAH61 
+
+@NCSP = KASH61
+
+@SUOMI = Munuaisallas-virtsanjohdin liitoksen halkaisu, endopyelotomia, nefroskopiateitse
+
+@RUOTSI = Perkutan endoskopisk klyvning av njurbäcken-uretärövergång, endopyelotomi
+
+@END = 
+
+@KOODI = KAH62 
+
+@NCSP = KASH62
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen halkaisu, endopyelotomia, virtsatietähystyksessä
+
+@RUOTSI = Endopyelotomi vid endoskopi
+
+@NOTE_S = Transluminal endoskopisk klyvning av ureteropelvisk stenos
+
+@END = 
+
+@KOODI = KAH70 
+
+@NCSP = KASH70
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen kiinnikkeiden irrottelu
+
+@RUOTSI = Öppen lösning av adherenser vid njurbäcken-uretärövergången
+
+@END = 
+
+@KOODI = KAH71 
+
+@NCSP = KASH71
+
+@SUOMI = Munuaisallas-virtsanjohdinliitoksen kiinnikkeiden irrottelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk lösning av adherenser vid njurbäcken-uretärövergången
+
+@END = 
+
+@KOODI = KAH80 
+
+@NCSP = KASH80
+
+@SUOMI = Munuaisen kiinnitys
+
+@RUOTSI = Öppen nefropexi
+
+@END = 
+
+@KOODI = KAH81 
+
+@NCSP = KASH81
+
+@SUOMI = Munuaisen kiinnitys tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk nefropexi
+
+@END = 
+
+@KOODI = KAH96 
+
+@NCSP = KASH96
+
+@SUOMI = Muu munuaisen tai munuaisaltaan korjaava leikkaus
+
+@RUOTSI = Annan öppen rekonstruktion av njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAH97 
+
+@NCSP = KASH97
+
+@SUOMI = Muu munuaisen tai munuaisaltaan korjaava leikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk rekonstruktion av njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAH98 
+
+@NCSP = KASH98
+
+@SUOMI = Muu munuaisen tai munuaisaltaan korjaava leikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk rekonstruktion av njure eller njurbäcken
+
+@END = 
+
+@KOODI_A = KAJ
+
+@NCSP_A = KASJ
+
+@SUOMI_A = Virtsan ulosjohtamiset munuaistasolta
+
+@RUOTSI_A = Urinavledande operationer på njure och njurbäcken
+
+@ENGL_A = External drainage of pelvis of kidney
+
+@END = 
+
+@KOODI = KAJ00 
+
+@NCSP = KASJ00
+
+@SUOMI = Munuaisavanteen teko
+
+@RUOTSI = Öppen nefrostomi
+
+@NOTE_F = Munuaisavanteen sulku TKA40
+
+@NOTE_S = Tillslutning av nefrektomi TKA40
+
+@END = 
+
+@KOODI = KAJ01 
+
+@NCSP = KASJ01
+
+@SUOMI = Munuaisavanteen teko tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk nefrostomi/pyelostomi
+
+@NOTE_F = Munuaisen tähystystutkimuksessa jätetty dreeni sisältyy kohtaan TKA10
+
+@NOTE_S = Dränage vid perkutan nefroskopi inkluderas i TKA10
+
+@END = 
+
+@KOODI = KAJ02 
+
+@NCSP = KASJ02
+
+@SUOMI = Munuaisavanteen teko virtsatietähystyksessä
+
+@RUOTSI = Endoskopisk nefrostomi
+
+@END = 
+
+@KOODI = KAJ10 
+
+@NCSP = KASJ10
+
+@SUOMI = Munuaisallasavanteen teko
+
+@RUOTSI = Pyelostomi
+
+@END = 
+
+@KOODI = KAJ11 
+
+@NCSP = KASJ11
+
+@SUOMI = Munuaisallasavanteen teko tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk pyelostomi
+
+@END = 
+
+@KOODI = KAJ96 
+
+@NCSP = KASJ96
+
+@SUOMI = Muu virtsan ulosjohtaminen munuaistasolta
+
+@RUOTSI = Annan urinavledande öppen operation på njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAJ97 
+
+@NCSP = KASJ97
+
+@SUOMI = Muu virtsan ulosjohtaminen munuaistasolta tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk urinavledande operation på njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAJ98 
+
+@NCSP = KASJ98
+
+@SUOMI = Muu virtsan ulosjohtaminen munuaistasolta virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk urinavledande operation på njure eller njurbäcken
+
+@END = 
+
+@KOODI_A = KAS
+
+@NCSP_A = KASS
+
+@SUOMI_A = Munuaisensiirrot ja siihen liittyvät toimenpiteet
+
+@RUOTSI_A = Njurtransplantationer och därmed sammanhängande operationer
+
+@ENGL_A = Transplantation of kidney and related operations
+
+@END = 
+
+@KOODI = KAS00 
+
+@NCSP = KASS00
+
+@SUOMI = Oman munuaisen siirto
+
+@RUOTSI = Autolog njurtransplantation
+
+@END = 
+
+@KOODI = KAS10 
+
+@NCSP = KASS10
+
+@SUOMI = Munuaisen siirto kuolleelta luovuttajalta
+
+@RUOTSI = Homolog njurtransplantation, nekronjure
+
+@END = 
+
+@KOODI = KAS20 
+
+@NCSP = KASS20
+
+@SUOMI = Munuaisen siirto elävältä luovuttajalta
+
+@RUOTSI = Homolog njurtransplantation, levande donator
+
+@END = 
+
+@KOODI = KAS40 
+
+@NCSP = KASS40
+
+@SUOMI = Siirretyn munuaisen poisto
+
+@RUOTSI = Öppen exstirpation av transplanterad njure
+
+@END = 
+
+@KOODI = KAS41 
+
+@NCSP = KASS41
+
+@SUOMI = Siirretyn munuaisen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk exstirpation av transplanterad njure
+
+@END = 
+
+@KOODI = KAS50 
+
+@NCSP = KASS50
+
+@SUOMI = Siirretyn munuaisen liittäminen rakkoon
+
+@RUOTSI = Nefrocystostomi på transplanterad njure
+
+@END = 
+
+@KOODI = KAS60 
+
+@NCSP = KASS60
+
+@SUOMI = Siirretyn munuaisen lymfoseelen leikkaus
+
+@RUOTSI = Öppen operation för lymfocele i transplanterad njure
+
+@END = 
+
+@KOODI = KAS61 
+
+@NCSP = KASS61
+
+@SUOMI = Siirretyn munuaisen lymfoseelen leikkaus tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk operation för lymfocele i transplanterad njure
+
+@END = 
+
+@KOODI = KAS96 
+
+@NCSP = KASS96
+
+@SUOMI = Muu munuaisensiirtoon liittyvä leikkaus
+
+@RUOTSI = Annan öppen operation i samband med njurtransplantation
+
+@NOTE_F = HUOM! Molemminpuolinen munuaisenpoisto koodataan KAC00 + ZXA10 tai tähystyksessä KAC01 + ZXA10
+
+@NOTE_S = OBS! Bilateral nefrektomi koderas KAC00 + ZXA10 eller som endoskopisk KAC01 + ZXA10
+
+@END = 
+
+@KOODI = KAS97 
+
+@NCSP = KASS97
+
+@SUOMI = Muu munuaisensiirtoon liittyvä leikkaus tähystäen iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation i samband med njurtransplantation
+
+@END = 
+
+@KOODI_A = KAT
+
+@NCSP_A = KAST
+
+@SUOMI_A = Munuaiskivien kehonulkoinen murskaus
+
+@RUOTSI_A = Extrakorporeal stötvågslitotripsi av njurkonkrement
+
+@ENGL_A = Extracorporeal fragmentation of calculi of pelvis of kidney
+
+@END = 
+
+@KOODI = KAT00 
+
+@NCSP = KAST00
+
+@SUOMI = Munuaiskivien kehonulkoinen murskaus, ESWL
+
+@RUOTSI = Extrakorporeal stötvågslitotripsi av njurkonkrement, ESWL
+
+@END = 
+
+@KOODI_A = KAW
+
+@NCSP_A = KASW
+
+@SUOMI_A = Muut munuaisen leikkaukset
+
+@RUOTSI_A = Andra operationer på njure och njurbäcken
+
+@ENGL_A = Other operations on kidney and pelvis of kidney
+
+@END = 
+
+@KOODI = KAW96 
+
+@NCSP = KASW96
+
+@SUOMI = Muu munuaisen leikkaus
+
+@RUOTSI = Annan öppen operation på njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAW97 
+
+@NCSP = KASW97
+
+@SUOMI = Muu munuaisen leikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation på njure eller njurbäcken
+
+@END = 
+
+@KOODI = KAW98 
+
+@NCSP = KASW98
+
+@SUOMI = Muu munuaisen leikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk operation på njure
+
+@END = 
+
+@KOODI_A = KA_
+
+@NCSP_A = KAXA
+
+@SUOMI_A = Dialyysi
+
+@RUOTSI_A = Dialys
+
+@ENGL_A = Dialysis
+
+@END = 
+
+@KOODI = TK800 
+
+@NCSP = KAXA00
+
+@SUOMI = Hemodialyysi
+
+@RUOTSI = Hemodialys
+
+@NOTE_F = Sisältää potilaan ohjauksen
+
+@NOTE_S = Inkl patient rådgivning
+
+@END = 
+
+@KOODI = TK810 
+
+@NCSP = KAXA10
+
+@SUOMI = Hemofiltraatio
+
+@RUOTSI = Hemofiltration
+
+@END = 
+
+@KOODI = TK820 
+
+@NCSP = KAXA20
+
+@SUOMI = Vatsakalvodialyysi
+
+@RUOTSI = Peritonealdialys
+
+@NOTE_F = Katetrien asettaminen vatsaontelodialyysiä varten TJA30
+
+@NOTE_S = Introduktion av peritoneal dialys kateter, se TJA30
+
+@END = 
+
+@KOODI_A = KA_
+
+@NCSP_A = KAXX
+
+@SUOMI_A = Muu munuaisten pientoimenpide
+
+@RUOTSI_A = Andra mindre åtgäreder på njurar
+
+@ENGL_A = Other minor procedures of kidney
+
+@END = 
+
+@KOODI = KA3CT 
+
+@NCSP = KAXX00
+
+@SUOMI = Munuaisen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Njure, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = KA3DT 
+
+@NCSP = KAXX00
+
+@SUOMI = Munuaisen kudosnäytteen otto magneettiohjauksessa
+
+@RUOTSI = Njure, MR-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TKA00 
+
+@NCSP = KAXX00
+
+@SUOMI = Neulakudosnäytteen otto munuaisesta
+
+@RUOTSI = Punktionsbiopsi av njure
+
+@NOTE_F = Radiologisessa ohjauksessa, katso KA3AT,  KA3CT tai KA3DT
+
+@NOTE_S = Radiologiskt utstyrd, se KA3AT,  KA3CT eller KA3DT
+
+@END = 
+
+@KOODI = KA4AT 
+
+@NCSP = KAXX02
+
+@SUOMI = Munuaisen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Njure, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = KA4CT 
+
+@NCSP = KAXX02
+
+@SUOMI = Munuaisen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Njure, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = KA4DT 
+
+@NCSP = KAXX02
+
+@SUOMI = Munuaisen solunäytteen otto magneettiohjauksessa
+
+@RUOTSI = Njure, MR-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = TKA05 
+
+@NCSP = KAXX02
+
+@SUOMI = Ohutneulanäytteen ottaminen munuaisesta
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av njure
+
+@NOTE_F = Radiologisesti ohjattuna, katso KA4AT, KA4CT tai KA4DT
+
+@NOTE_S = Radiologiskt utstyrd, se KA4AT, KA4CT tai KA4DT
+
+@END = 
+
+@KOODI = KA2AT 
+
+@NCSP = KAXX04
+
+@SUOMI = Munuaissiirrännäisen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Njurtransplantat, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TKA02 
+
+@NCSP = KAXX04
+
+@SUOMI = Neulakudosnäytteen otto siirretystä munuaisesta
+
+@RUOTSI = Punktionsbiopsi av transplanterad njure
+
+@NOTE_F = Ultraääniohjauksessa, katso KA2AT
+
+@NOTE_S = Ultraljudsutstyrd, se KA2AT
+
+@END = 
+
+@KOODI = KA3AT 
+
+@NCSP = KAXX10
+
+@SUOMI = Munuaisen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Njure, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = KA5AT 
+
+@NCSP = KAXX10
+
+@SUOMI = Munuaiskystan punktio UÄ-ohjauksessa
+
+@RUOTSI = Nnjurcysta, UL-styrd punktion
+
+@NOTE_F = Munuaisaltaan punktio, katso KH1AT
+
+@END = 
+
+@KOODI = KA5BT 
+
+@NCSP = KAXX10
+
+@SUOMI = Munuaiskystan punktio läpivalaisuohjauksessa
+
+@RUOTSI = Nnjurcysta, genomlysningsstyrd punktion
+
+@NOTE_F = Munuaisaltaan punktio, katso KH1BT
+
+@END = 
+
+@KOODI = KA5CT 
+
+@NCSP = KAXX10
+
+@SUOMI = Munuaiskystan punktio TT-ohjauksessa
+
+@RUOTSI = Nnjurcysta, DT-styrd punktion
+
+@NOTE_F = Munuaisaltaan punktio, katso KH1CT
+
+@END = 
+
+@KOODI = TKA10 
+
+@NCSP = KAXX10
+
+@SUOMI = Munuaisen tai munuaisaltaan pisto
+
+@RUOTSI = Perkutan punktion av njure eller njurbäcken
+
+@NOTE_F = Sisältää kanavoinnin
+
+@NOTE_F =
+Radiologisesti ohjattu, katso KA5AT, KA5BT, KA5CT
+
+@NOTE_S = Inkl ev dränage
+
+@NOTE_S =
+Radiologist utstyrd, se KA5AT, KA5BT eller KA5CT
+
+@END = 
+
+@KOODI = TKA40 
+
+@NCSP = KAXX42
+
+@SUOMI = Munuaisavanteen sulku
+
+@RUOTSI = Slutning av nefrotomi
+
+@END = 
+
+@KOODI = KA6WT 
+
+@NCSP = KAXX50
+
+@SUOMI = Munuaisen selektiivinen laskimoverinäytteen otto radiologisessa ohjauksessa
+
+@RUOTSI = Selektivt njurvensblodprov, radilogiskt styrt
+
+@END = 
+
+@KOODI = KA6KT 
+
+@NCSP = KAXX60
+
+@SUOMI = Munuaiskystan skleroterapia
+
+@RUOTSI = Nnjurcysta skleroterapi
+
+@END = 
+
+@KOODI = KH1AT 
+
+@NCSP = KAXX80
+
+@SUOMI = Virtsateiden kanavointi UÄ-ohjauksessa
+
+@RUOTSI = Urinvägsdränage, UL-styrt
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@NOTE_S = Innefattar punktion av njurbäggen
+
+@END = 
+
+@KOODI = KH1BT 
+
+@NCSP = KAXX80
+
+@SUOMI = Virtsateiden kanavointi läpivalaisuohjauksessa
+
+@RUOTSI = Urinvägsdränage, genomlysningsstyrt
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@NOTE_S = Innefattar punktion av njurbäggen
+
+@END = 
+
+@KOODI = KH1CT 
+
+@NCSP = KAXX80
+
+@SUOMI = Virtsateiden kanavointi TT-ohjauksessa
+
+@RUOTSI = Urinvägsdränage, DT-styrt
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@NOTE_S = Innefattar punktion av njurbäggen
+
+@END = 
+
+@KOODI = KH1DT 
+
+@NCSP = KAXX80
+
+@SUOMI = Virtsateiden kanavointi magneettiohjauksessa
+
+@RUOTSI = Urinvägsdränage, MR-styrt
+
+@NOTE_F = Sisältää munuaisaltaan punktion
+
+@NOTE_S = Innefattar punktion av njurbäggen
+
+@END = 
+
+@KOODI = KH1FT 
+
+@NCSP = KAXX82
+
+@SUOMI = Virtsatiekatetrin vaihto radiologisessa ohjauksessa
+
+@RUOTSI = Radiologiskt styrt kateterbyte
+
+@END = 
+
+@KOODI_R = KB
+
+@SUOMI_R = Virtsanjohtimet
+
+@RUOTSI_R = Uretärer
+
+@ENGL_R = Ureter
+
+@END = 
+
+@KOODI_A = KB_
+
+@NCSP_A = KBD
+
+@SUOMI_A = Virtsajohtimien diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi på uretär
+
+@ENGL_A = Diagnostic radiology of ureter
+
+@END = 
+
+@KOODI = KB1EE 
+
+@NCSP = KBDE1E
+
+@SUOMI = Virtsarakon takaisinvirtauksen tutkiminen UÄ:llä
+
+@RUOTSI = Urinreflux undersökning med UL
+
+@NOTE_F = Vesikoureterisen refluksin tutkimus
+
+@NOTE_S = Udersökning för vesikouretral reflux
+
+@END = 
+
+@KOODI = KB1AF 
+
+@NCSP = KBDG1A
+
+@SUOMI = Virtsateiden suppea magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Urinvägar, begränsad MR med mellanfältsmagnet
+
+@NOTE_F = Esim. urografiaa korvaava tutkimus
+
+@NOTE_S = T.ex. undersökning i stället för urografi
+
+@END = 
+
+@KOODI = KB1AG 
+
+@NCSP = KBDG1A
+
+@SUOMI = Virtsateiden suppea magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Urinvägar, begränsad MR med högfältsmagnet
+
+@NOTE_F = Esim. urografiaa korvaava tutkimus
+
+@NOTE_S = T.ex. undersökning i stället för urografi
+
+@END = 
+
+@KOODI = KB1BF 
+
+@NCSP = KBDG1A
+
+@SUOMI = Virtsateiden magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Urinvägar, MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = KB1BG 
+
+@NCSP = KBDG1A
+
+@SUOMI = Virtsateiden magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Urinvägar, MR med högfältsmagnet
+
+@END = 
+
+@KOODI = KB1CF 
+
+@NCSP = KBDG1A
+
+@SUOMI = Virtsateiden laaja magneettitutkimus keskikenttälaitteella
+
+@RUOTSI = Urinvägar, omfattande MR med mellanfältsmagnet
+
+@END = 
+
+@KOODI = KB1CG 
+
+@NCSP = KBDG1A
+
+@SUOMI = Virtsateiden laaja magneettitutkimus vahvakenttälaitteella
+
+@RUOTSI = Urinvägar, omfattande MR med högfältsmagnet
+
+@END = 
+
+@KOODI_A = KB_
+
+@NCSP_A = KBE
+
+@SUOMI_A = Virtsajohtimien tähystykset
+
+@RUOTSI_A = Endoskopi av uretärer
+
+@ENGL_A = Endoscopy of ureter
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UKB02 
+
+@NCSP = KBE002
+
+@SUOMI = Virtsanjohtimen tähystys
+
+@RUOTSI = Transluminal ureteroskopi
+
+@END = 
+
+@KOODI = UKB12 
+
+@NCSP = KBE012
+
+@SUOMI = Virtsatieavanteen tähystys
+
+@RUOTSI = Endoskopi av urostomi eller conduit
+
+@END = 
+
+@KOODI_A = KB_
+
+@NCSP_A = KBF
+
+@SUOMI_A = Muut virtsajohtimien diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnositska åtgärder på uretärer
+
+@ENGL_A = Muut virtsajohtimien diagnostiset toimenpiteet
+
+@END = 
+
+@KOODI = XKB00 
+
+@NCSP = KBFB00
+
+@SUOMI = Virtsanjohtimen urodynaaminentutkimus
+
+@RUOTSI = Urodynamisk undersökning av uretär
+
+@END = 
+
+@KOODI_A = KBA
+
+@NCSP_A = KBSA
+
+@SUOMI_A = Virtsanjohtimien tutkimusleikkaukset
+
+@RUOTSI_A = Exploration och incision av uretär
+
+@ENGL_A = Exploration and incision of ureter
+
+@END = 
+
+@KOODI = KBA00 
+
+@NCSP = KBSA00
+
+@SUOMI = Virtsanjohtimen tutkimusleikkaus
+
+@RUOTSI = Exploration av uretär
+
+@END = 
+
+@KOODI = KBA01 
+
+@NCSP = KBSA01
+
+@SUOMI = Virtsanjohtimen tutkiminen nefroskopiateitse
+
+@RUOTSI = Perkutan nefroureteroskopi
+
+@END = 
+
+@KOODI = KBA10 
+
+@NCSP = KBSA10
+
+@SUOMI = Virtsanjohtimen aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Öppen explorativ ureterotomi
+
+@END = 
+
+@KOODI = KBA11 
+
+@NCSP = KBSA11
+
+@SUOMI = Virtsanjohtimen aukaisu tutkimustarkoituksessa tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk explorativ ureterotomi
+
+@END = 
+
+@KOODI = KBA96 
+
+@NCSP = KBSA96
+
+@SUOMI = Muu virtsanjohtimen tutkimusleikkaus
+
+@RUOTSI = Annan öppen exploration eller incision av uretär
+
+@END = 
+
+@KOODI = KBA97 
+
+@NCSP = KBSA97
+
+@SUOMI = Muu virtsanjohtimen tutkimusleikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk eller endoskopisk exploration eller incision av uretär
+
+@END = 
+
+@KOODI_A = KBB
+
+@NCSP_A = KBSB
+
+@SUOMI_A = Koepalan otot virtsanjohtimista
+
+@RUOTSI_A = Biopsi av uretär
+
+@ENGL_A = Biopsy of ureter
+
+@NOTE_RF = Koepalan otto virtsatietähystyksessä UKB02
+
+@NOTE_RS = Biopsi vid endoskopi, se UKB02
+
+@END = 
+
+@KOODI = KBB00 
+
+@NCSP = KBSB00
+
+@SUOMI = Koepalan otto virtsanjohtimesta
+
+@RUOTSI = Öppen biopsi av uretär
+
+@END = 
+
+@KOODI = KBB01 
+
+@NCSP = KBSB01
+
+@SUOMI = Koepalan otto virtsanjohtimesta nefroskopiateitse
+
+@RUOTSI = Perkutan endoskopisk biopsi av uretär
+
+@END = 
+
+@KOODI_A = KBC
+
+@NCSP_A = KBSC
+
+@SUOMI_A = Virtsajohtimen poisto
+
+@RUOTSI_A = Total ureterektomi
+
+@ENGL_A = Total excision of ureter
+
+@END = 
+
+@KOODI = KBC00 
+
+@NCSP = KBSC00
+
+@SUOMI = Virtsanjohtimen poisto
+
+@RUOTSI = Öppen total ureterektomi
+
+@END = 
+
+@KOODI = KBC01 
+
+@NCSP = KBSC01
+
+@SUOMI = Virtsanjohtimen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk ureterektomi
+
+@END = 
+
+@KOODI_A = KBD
+
+@NCSP_A = KBSD
+
+@SUOMI_A = Virtsanjohtimien osien ja muutosten poistot
+
+@RUOTSI_A = Delresektion av uretär
+
+@ENGL_A = Partial excision of ureter and destruction of tumour of ureter
+
+@END = 
+
+@KOODI = KBD00 
+
+@NCSP = KBSD00
+
+@SUOMI = Virtsanjohtimen osittainen poisto
+
+@RUOTSI = Öppen delresektion av uretär
+
+@END = 
+
+@KOODI = KBD01 
+
+@NCSP = KBSD01
+
+@SUOMI = Virtsanjohtimen osittainen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk resektion av uretär
+
+@END = 
+
+@KOODI = KBD20 
+
+@NCSP = KBSD20
+
+@SUOMI = Virtsanjohtimen kasvaimen poltto tai laser
+
+@RUOTSI = Destruktion av uretärtumör (termokauterisering/laser)
+
+@END = 
+
+@KOODI = KBD21 
+
+@NCSP = KBSD21
+
+@SUOMI = Virtsanjohtimen kasvaimen poltto tai laser tähystyksessä iholta
+
+@RUOTSI = Perkutan nefroureteroskopisk destruktion av uretärtumör
+
+@END = 
+
+@KOODI = KBD22 
+
+@NCSP = KBSD22
+
+@SUOMI = Virtsanjohtimen kasvaimen poltto tai laser virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk destruktion av uretärtumör
+
+@END = 
+
+@KOODI = KBD30 
+
+@NCSP = KBSD30
+
+@SUOMI = Virtsanjohtimen tyngän poisto
+
+@RUOTSI = Avlägsnande av uretärstump (öppen operation)
+
+@END = 
+
+@KOODI = KBD31 
+
+@NCSP = KBSD31
+
+@SUOMI = Virtsanjohtimen tyngän poisto tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopiskt avlägsnande av uretärstump
+
+@END = 
+
+@KOODI = KBD96 
+
+@NCSP = KBSD96
+
+@SUOMI = Muu virtsanjohtimen osan poisto
+
+@RUOTSI = Annan öppen resektion av uretär
+
+@END = 
+
+@KOODI = KBD97 
+
+@NCSP = KBSD97
+
+@SUOMI = Muu virtsanjohtimen osan tai muutoksen poisto tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk resektion av uretär
+
+@END = 
+
+@KOODI_A = KBE
+
+@NCSP_A = KBSE
+
+@SUOMI_A = Virtsanjohdinkivien poistot
+
+@RUOTSI_A = Operationer för  uretärsten
+
+@ENGL_A = Operations for calculus of ureter
+
+@END = 
+
+@KOODI = KBE00 
+
+@NCSP = KBSE00
+
+@SUOMI = Virtsanjohdinkiven poisto
+
+@RUOTSI = Öppen ureterolitotomi
+
+@END = 
+
+@KOODI = KBE01 
+
+@NCSP = KBSE01
+
+@SUOMI = Virtsanjohdinkiven poisto nefroskopiassa
+
+@RUOTSI = Perkutan endoskopisk ureterolitotomi
+
+@END = 
+
+@KOODI = KBE12 
+
+@NCSP = KBSE12
+
+@SUOMI = Virtsanjohdinkiven poisto virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk extraktion av uretärkonkrement
+
+@NOTE_F = Sisältää virtsajohdinkiven murskauksen laserilla, ultraäänellä tai elektrohydraulisesti tähystyksessä
+
+@NOTE_S = Innefattar ned brytning av sten i uretärer med laser, ultraljud eller elektrohydrauliskt i endoskopi
+
+@END = 
+
+@KOODI = KBE22 
+
+@NCSP = KBSE22
+
+@SUOMI = Kiilautuneen virtsajohdinkiven irroittaminen ja siirtäminen virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk mobilisering och luxering av inkilad uretärsten
+
+@NOTE_F = Sisältää virtsajohdinkiven murskauksen laserilla, ultraäänellä tai elektrohydraulisesti tähystyksessä sekä virtsajohdinkiven repostion.
+
+@NOTE_S = Inkl transluminal litotripsi med laser, ultraljud och elektrohydraulisk metod samt repostion av uretärsten.
+
+@END = 
+
+@KOODI = KBE96 
+
+@NCSP = KBSE96
+
+@SUOMI = Muu virtsanjohdinkiven poisto, avoimet
+
+@RUOTSI = Annan öppen operation för uretärsten
+
+@END = 
+
+@KOODI = KBE97 
+
+@NCSP = KBSE97
+
+@SUOMI = Muu virtsanjohdinkiven poisto tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation för uretärsten
+
+@END = 
+
+@KOODI = KBE98 
+
+@NCSP = KBSE98
+
+@SUOMI = Muu virtsanjohdinkiven poisto virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk operation för uretärsten
+
+@END = 
+
+@KOODI_A = KBF
+
+@NCSP_A = KBSF
+
+@SUOMI_A = Virtsanjohtimien vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av främmande kropp från uretär
+
+@ENGL_A = Removal of foreign body of ureter
+
+@END = 
+
+@KOODI = KBF00 
+
+@NCSP = KBSF00
+
+@SUOMI = Virtsanjohtimen vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp från uretär (öppen operation)
+
+@END = 
+
+@KOODI = KBF01 
+
+@NCSP = KBSF01
+
+@SUOMI = Virtsanjohtimen vierasesineen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopiskt avlägsnande av främmande kropp från uretär
+
+@END = 
+
+@KOODI = KBF02 
+
+@NCSP = KBSF02
+
+@SUOMI = Virtsanjohtimen vierasesineen poisto virtsatietähystyksessä
+
+@RUOTSI = Transluminalt endoskopiskt avlägsnande av främmande kropp från uretär
+
+@END = 
+
+@KOODI_A = KBH
+
+@NCSP_A = KBSH
+
+@SUOMI_A = Virtsanjohtimen korjaavat toimenpiteet
+
+@RUOTSI_A = Rekonstruktion av uretär
+
+@ENGL_A = Repair or connection of ureter
+
+@END = 
+
+@KOODI = KBH00 
+
+@NCSP = KBSH00
+
+@SUOMI = Virtsanjohtimen ompelu
+
+@RUOTSI = Öppen sutur av uretär
+
+@END = 
+
+@KOODI = KBH01 
+
+@NCSP = KBSH01
+
+@SUOMI = Virtsanjohtimen ompelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk sutur av uretär
+
+@END = 
+
+@KOODI = KBH06 
+
+@NCSP = KBSH06
+
+@SUOMI = Virtsanjohtimen  päiden yhdistäminen
+
+@RUOTSI = Uretero-ureterostomi
+
+@NOTE_S = Hopfogning av strukturer i samma kroppshalva
+
+@END = 
+
+@KOODI = KBH10 
+
+@NCSP = KBSH10
+
+@SUOMI = Virtsanjohtimien yhdistäminen keskenään
+
+@RUOTSI = Uretero-uretorstomi
+
+@NOTE_F =  Trans-uretero-ureterostomia
+
+@NOTE_F =
+ Virtsatiediversion purku KBH10+ZSK00 tai KBH20+ZSK00
+
+@NOTE_S = Hopfogning av båda kroppshalvornas uretärer med varandra
+
+@NOTE_S =
+Rekonstruktion efter diversion KBH10+ZSK00 eller KBH20+ZSK00
+
+@END = 
+
+@KOODI = KBH20 
+
+@NCSP = KBSH20
+
+@SUOMI = Virtsanjohtimen istuttaminen virtsarakkoon
+
+@RUOTSI = Ureteroneocystostomi
+
+@NOTE_F = Ureteroneokystostomia
+
+@NOTE_F =
+Glenn-Anderson, Politano-Leadbetter yms.
+
+@NOTE_F =
+Sisältää rakkokiilan tai psoas kalvon käytön
+
+@NOTE_F =
+Virtsaputken kavennus ja uudelleen istuttaminen rakkoon KBH20+KBH40
+
+@NOTE_F =
+Virtsatiediversion purku KBH10+ZSK00 tai KBH20+ZSK00
+
+@NOTE_S = Öppen reimplantation av uretär i urinblåsa
+
+@NOTE_S =
+Glenn-Anderson, Politano-Leadbetter mm.
+
+@NOTE_S =
+Inkl användande av blåslambå eller psoas hitch
+
+@NOTE_S =
+Förminskning av uretär och reimplantation i  urinblåsa koderas KBH20+KBH40
+
+@NOTE_S =
+Rekonstruktion efter diversion KBH10+ZSK00 eller KBH20+ZSK00
+
+@END = 
+
+@KOODI = KBH21 
+
+@NCSP = KBSH21
+
+@SUOMI = Virtsanjohtimen istuttaminen virtsarakkoon tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk ureteroneocystostomi
+
+@END = 
+
+@KOODI = KBH30 
+
+@NCSP = KBSH30
+
+@SUOMI = Virtsanjohtimen korvaaminen ohutsuolen avulla
+
+@RUOTSI = Ureteroenteroureterostomi
+
+@END = 
+
+@KOODI = KBH40 
+
+@NCSP = KBSH40
+
+@SUOMI = Virtsanjohtimen muovaus
+
+@RUOTSI = Uretärplastik
+
+@NOTE_F = Virtsaputken kavennus ja uudelleen istuttaminen rakkoon KBH20+KBH40
+
+@NOTE_S = Förminskning av uretär och reimplantation i  urinblåsa koderas KBH20+KBH40
+
+@END = 
+
+@KOODI = KBH45 
+
+@NCSP = KBSH45
+
+@SUOMI = Virtsanjohtimen halkaisu sisältä virtsatietähystyksessä
+
+@RUOTSI = Endoureterotomi
+
+@END = 
+
+@KOODI = KBH50 
+
+@NCSP = KBSH50
+
+@SUOMI = Virtsanjohtimen kiinnikkeiden irrottelu
+
+@RUOTSI = Ureterolys (öppen operation)
+
+@NOTE_F = Esim retroperitoneaalifibroosin  yhteydessä
+
+@NOTE_S = T.ex. vid retroperitoneal fibros
+
+@END = 
+
+@KOODI = KBH51 
+
+@NCSP = KBSH51
+
+@SUOMI = Virtsanjohtimen kiinnikkeiden irrottelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk ureterolys
+
+@END = 
+
+@KOODI = KBH62 
+
+@NCSP = KBSH62
+
+@SUOMI = Virtsanjohtimen laajentaminen virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk dilatation av uretär
+
+@END = 
+
+@KOODI = KH1RT 
+
+@NCSP = KBSH62
+
+@SUOMI = Virtsateiden laajennus, radiologinen ohjaus
+
+@RUOTSI = Urinvägsdilatation, radiologiskt styrd
+
+@END = 
+
+@KOODI = KBH96 
+
+@NCSP = KBSH96
+
+@SUOMI = Muu virtsanjohtimen korjaamisleikkaus
+
+@RUOTSI = Annan öppen rekonstruktion av uretär
+
+@END = 
+
+@KOODI = KBH97 
+
+@NCSP = KBSH97
+
+@SUOMI = Muu virtsanjohtimen korjaamisleikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk rekonstruktion av uretär
+
+@END = 
+
+@KOODI = KBH98 
+
+@NCSP = KBSH98
+
+@SUOMI = Muu virtsanjohtimen korjaamisleikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk rekonstruktion av uretär
+
+@END = 
+
+@KOODI_A = KBJ
+
+@NCSP_A = KBSJ
+
+@SUOMI_A = Virtsan ulosjohtamiset virtsanjohtimien tasolta
+
+@RUOTSI_A = Urinavledande operationer på uretär
+
+@ENGL_A = Urinary diversion from ureter and related operations
+
+@NOTE_RF = Reoperaatio ilmaistaan lisäkoodilla  ZSK00
+
+@NOTE_RF =
+Diversion purku koodataan toimenpiteen mukaan,  ks KBH10 ja KBH20
+
+@NOTE_RS = Rekonstruktion efter diversion KBH10+ZSK00 eller KBH20+ZSK00
+
+@END = 
+
+@KOODI = KBJ00 
+
+@NCSP = KBSJ00
+
+@SUOMI = Virtsanjohdinavanteen teko
+
+@RUOTSI = Kutan ureterostomi (öppen operation)
+
+@END = 
+
+@KOODI = KBJ01 
+
+@NCSP = KBSJ01
+
+@SUOMI = Virtsanjohdinavanteen teko tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk ureterostomi
+
+@END = 
+
+@KOODI = KBJ10 
+
+@NCSP = KBSJ10
+
+@SUOMI = Virtsanjohtimien kanavointi iholle suolen avulla
+
+@RUOTSI = Kutan ureteroenterostomi
+
+@NOTE_F = Sisältää sekä koolonin että ileumin käytön johtimena
+
+@NOTE_S = Innefatta användning av både kolon och ileum som konduit
+
+@END = 
+
+@KOODI = KBJ20 
+
+@NCSP = KBSJ20
+
+@SUOMI = Virtsajohtimen ihoavanne ja pidätyskykyisen virtsarakon korvikkeen teko suolesta
+
+@RUOTSI = Kutan ureteroileostomi med kontinent reservoar från tarm
+
+@END = 
+
+@KOODI = KBJ40 
+
+@NCSP = KBSJ40
+
+@SUOMI = Virtsajohtimen yhdistäminen sigmasuoleen
+
+@RUOTSI = Ureterosigmoideostomi enterostomi
+
+@NOTE_F = Coffey
+
+@END = 
+
+@KOODI = KBJ60 
+
+@NCSP = KBSJ60
+
+@SUOMI = Virtsaputken yhdistäminen virtsarakon suolikorvikkeeseen
+
+@RUOTSI = Ureteroenterouretrostomi (blåssubstitut av tarm)
+
+@END = 
+
+@KOODI = KBJ70 
+
+@NCSP = KBSJ70
+
+@SUOMI = Kiven poisto virtsarakon korvikkeesta
+
+@RUOTSI = Öppen extraktion av konkrement från conduit eller reservoar
+
+@END = 
+
+@KOODI = KBJ72 
+
+@NCSP = KBSJ72
+
+@SUOMI = Kiven poisto virtsarakon korvikkeesta virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk extraktion av konkrement från conduit eller reservoar
+
+@END = 
+
+@KOODI = KBJ80 
+
+@NCSP = KBSJ80
+
+@SUOMI = Virtsajohdinavanteen tai virtsarakon korvikkeen toimintaa korjaava leikkaus
+
+@RUOTSI = Operation för malfunktion i urinavledningssystem
+
+@END = 
+
+@KOODI = KBJ96 
+
+@NCSP = KBSJ96
+
+@SUOMI = Muu virtsan ulosjohtaminen virtsanjohtimien tasolta
+
+@RUOTSI = Annan urinavledning på uretärnivå (öppen operation)
+
+@END = 
+
+@KOODI = KBJ97 
+
+@NCSP = KBSJ97
+
+@SUOMI = Muu virtsan ulosjohtaminen virtsanjohtimien tasolta tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk urinavledande uretäroperation
+
+@END = 
+
+@KOODI = KBJ98 
+
+@NCSP = KBSJ98
+
+@SUOMI = Muu virtsan ulosjohtaminen virtsanjohtimien tasolta virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk urinavledande uretäroperation
+
+@END = 
+
+@KOODI_A = KBT
+
+@NCSP_A = KBST
+
+@SUOMI_A = Virtsanjohdinkivien kehonulkoinen murskaus
+
+@RUOTSI_A = Extrakorporeal astötvågslitotripsier av uretärkonkrement (ESWL)
+
+@ENGL_A = Extracorporeal fragmentation of calculi of ureter
+
+@END = 
+
+@KOODI = KBT00 
+
+@NCSP = KBST00
+
+@SUOMI = Virtsanjohdinkiven kehonulkoinen murskaus, ESWL
+
+@RUOTSI = Extrakorporeal stötvågslitotripsi av uretärkonkrement (ESVL)
+
+@END = 
+
+@KOODI_A = KBV
+
+@NCSP_A = KBSV
+
+@SUOMI_A = Muita virtsajohtimien toimenpiteitä
+
+@RUOTSI_A = Diverse operationer på uretärerna
+
+@ENGL_A = Miscellaneous operations on ureter
+
+@END = 
+
+@KOODI = KBV00 
+
+@NCSP = KBSV00
+
+@SUOMI = Virtsanjohdinstentin asettaminen
+
+@RUOTSI = Inläggande av uretärstent (öppen operation)
+
+@END = 
+
+@KOODI = KBV01 
+
+@NCSP = KBSV01
+
+@SUOMI = Virtsanjohdinstentin asettaminen tähystyksessä iholta
+
+@RUOTSI = Nefroskopiskt inläggande av uretärstent
+
+@END = 
+
+@KOODI = KBV02 
+
+@NCSP = KBSV02
+
+@SUOMI = Virtsanjohdinstentin asettaminen virtsatietähystyksessä
+
+@RUOTSI = Cystoskopiskt inläggande av uretärstent
+
+@END = 
+
+@KOODI = KBV04 
+
+@NCSP = KBSV04
+
+@SUOMI = Virtsanjohdinstentin asettaminen vatsaontelon tähystyksessä
+
+@RUOTSI = Laparoskopisk applikation av uretärstent
+
+@END = 
+
+@KOODI = KBV10 
+
+@NCSP = KBSV10
+
+@SUOMI = Virtsanjohdinstentin poistaminen
+
+@RUOTSI = Avlägsnande av uretärstent
+
+@END = 
+
+@KOODI = KBV11 
+
+@NCSP = KBSV11
+
+@SUOMI = Virtsanjohdinstentin poistaminen nefroskopiateitse
+
+@RUOTSI = Nefroskopiskt avlägsnande av uretärstent
+
+@END = 
+
+@KOODI = KBV12 
+
+@NCSP = KBSV12
+
+@SUOMI = Virtsanjohdinstentin poistaminen virtsatietähystyksessä
+
+@RUOTSI = Transluminalt endoskopiskt avlägsnande av uretärstent
+
+@END = 
+
+@KOODI = KBV22 
+
+@NCSP = KBSV22
+
+@SUOMI = Virtsanjohtimen suun laajentaminen virtsatietähystyksessä
+
+@RUOTSI = Cystoskopisk dilatation av uretärostium
+
+@END = 
+
+@KOODI = KBV32 
+
+@NCSP = KBSV32
+
+@SUOMI = Virtsanjohtimen suun aukaisu virtsatietähystyksessä
+
+@RUOTSI = Cystoskopisk incision av uretärostium
+
+@END = 
+
+@KOODI = KBV40 
+
+@NCSP = KBSV40
+
+@SUOMI = Virtsajohtimen laajentuman aukaisu tai poisto
+
+@RUOTSI = Incision eller excision av ureterocele (öppen operation)
+
+@END = 
+
+@KOODI = KBV42 
+
+@NCSP = KBSV42
+
+@SUOMI = Virtsajohtimen laajentuman aukaisu tai poisto virtsatietähystyksessä
+
+@RUOTSI = Cystoskopisk incision eller excision av ureterocele
+
+@END = 
+
+@KOODI = KBV52 
+
+@NCSP = KBSV52
+
+@SUOMI = Vieraan aineen ruiskuttaminen virtsajohtimen suulle refluksin vuoksi
+
+@RUOTSI = Cystoskopisk injektionsterapi för versikoureteral reflux
+
+@END = 
+
+@KOODI_A = KBW
+
+@NCSP_A = KBSW
+
+@SUOMI_A = Muut virtsanjohtimien leikkaukset
+
+@RUOTSI_A = Andra  operationer på uretärerna
+
+@ENGL_A = Other operations on ureter
+
+@END = 
+
+@KOODI = KBW96 
+
+@NCSP = KBSW96
+
+@SUOMI = Muu virtsanjohtimen leikkaus
+
+@RUOTSI = Annan öppen operation på uretär
+
+@END = 
+
+@KOODI = KBW97 
+
+@NCSP = KBSW97
+
+@SUOMI = Muu virtsanjohtimen leikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation på uretär
+
+@END = 
+
+@KOODI = KBW98 
+
+@NCSP = KBSW98
+
+@SUOMI = Muu virtsanjohtimen leikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk operation på uretär
+
+@END = 
+
+@KOODI_A = KB_
+
+@NCSP_A = KBX
+
+@SUOMI_A = Muut virtsajohdintentoimenpiteet
+
+@RUOTSI_A = Andra åtgärder på uretärer
+
+@ENGL_A = Other procedures of ureter
+
+@END = 
+
+@KOODI = TKB40 
+
+@NCSP = KBXX40
+
+@SUOMI = Virtsajohdinavanteen sulku
+
+@RUOTSI = Slutning av ureterotomi
+
+@END = 
+
+@KOODI_R = KC
+
+@SUOMI_R = Virtsarakko
+
+@RUOTSI_R = Urinblåsa
+
+@ENGL_R = Bladder
+
+@END = 
+
+@KOODI_A = KC_
+
+@NCSP_A = KCD
+
+@SUOMI_A = Virtsarakon diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av urinblåsan
+
+@ENGL_A = Diagnostic radiology of bladder
+
+@END = 
+
+@KOODI = KC1GB 
+
+@NCSP = KCDB1G
+
+@SUOMI = Virtsarakon varjoainetutkimus (kystografia)
+
+@RUOTSI = Cystografi
+
+@END = 
+
+@KOODI = KC1JB 
+
+@NCSP = KCDB1J
+
+@SUOMI = Virtsarakon toiminnan varjoainetutkimus (miktiokystografia)
+
+@RUOTSI = Miktionscystografi
+
+@END = 
+
+@KOODI = KC1AE 
+
+@NCSP = KCDE1A
+
+@SUOMI = Virtsarakon UÄ iholta
+
+@RUOTSI = Urinblåsa, perkutan UL
+
+@END = 
+
+@KOODI = KC1BE 
+
+@NCSP = KCDE1B
+
+@SUOMI = Virtsarakon UÄ peräsuolen kautta
+
+@RUOTSI = Urinblåsa, transrektal UL
+
+@END = 
+
+@KOODI = KC1CE 
+
+@NCSP = KCDE1C
+
+@SUOMI = Virtsarakon UÄ virtsaputken kautta
+
+@RUOTSI = Urinblåsa, transuretral UL
+
+@END = 
+
+@KOODI = KC1EE 
+
+@NCSP = KCDE1E
+
+@SUOMI = Jäännösvirtsan määritys UÄ:llä *
+
+@RUOTSI = Residualurinets mätning med UL *
+
+@END = 
+
+@KOODI_A = KC_
+
+@NCSP_A = KCE
+
+@SUOMI_A = Virtsarakon tähystykset
+
+@RUOTSI_A = Endoskopi av urinblåsan
+
+@ENGL_A = Endoscopy of bladder
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UKC02 
+
+@NCSP = KCE002
+
+@SUOMI = Virtsarakon tähystys
+
+@RUOTSI = Cystoskopi (inkl uretroskopi)
+
+@END = 
+
+@KOODI = UKC12 
+
+@NCSP = KCE012
+
+@SUOMI = Tekovirtsarakon tähystys
+
+@RUOTSI = Endoskopi av urinreservoar
+
+@END = 
+
+@KOODI_A = KC_
+
+@NCSP_A = KCF
+
+@SUOMI_A = Virtsarakon diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder på urinblåsan
+
+@ENGL_A = Physiologic diagnostic procedures of bladder
+
+@END = 
+
+@KOODI = XKC00 
+
+@NCSP = KCFC00
+
+@SUOMI = Rakon urodynaaminen tutkimus, kaasukystometria
+
+@RUOTSI = Urodynamisk undersökning av urinblåsan (gas)
+
+@END = 
+
+@KOODI = XKC03 
+
+@NCSP = KCFC03
+
+@SUOMI = Rakon urodynaaminen tutkimus, vesikystometria
+
+@RUOTSI = Urodynamisk undersökning av urinblåsan (vätska)
+
+@END = 
+
+@KOODI_A = KC0
+
+@NCSP_A = KCO
+
+@SUOMI_A = Virtsarakon sädehoito
+
+@RUOTSI_A = Strålbehandling av urinblåsan
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = KC001 
+
+@NCSP = KCO001
+
+@SUOMI = Sädehoito virtsarakon ja virtsaputken primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i urinblåsan
+
+@END = 
+
+@KOODI = KC002 
+
+@NCSP = KCO002
+
+@SUOMI = Radikaali virtsarakon ja virtsaputken primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i urinblåsan
+
+@END = 
+
+@KOODI = KC003 
+
+@NCSP = KCO003
+
+@SUOMI = Sädehoito virtsarakon ja virtsaputken primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i urinblåsan
+
+@END = 
+
+@KOODI = KC004 
+
+@NCSP = KCO004
+
+@SUOMI = Sädehoito virtsarakon ja virtsaputken primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i urinblåsan
+
+@END = 
+
+@KOODI = KC029 
+
+@NCSP = KCO029
+
+@SUOMI = Sädehoito virtsarakon ja virtsaputken paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i urinblåsan
+
+@END = 
+
+@KOODI = KC049 
+
+@NCSP = KCO049
+
+@SUOMI = Sädehoito virtsarakossa tai virtsaputkessa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i urinblåsan
+
+@END = 
+
+@KOODI = KC090 
+
+@NCSP = KCO090
+
+@SUOMI = Sädehoito virtsarakon ja virtsaputken profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av urinblåsan
+
+@END = 
+
+@KOODI = KC099 
+
+@NCSP = KCO099
+
+@SUOMI = Muu virtsarakon sädehoito
+
+@RUOTSI = Annan strålbehandling av urinblåsan
+
+@END = 
+
+@KOODI_A = KCA
+
+@NCSP_A = KCSA
+
+@SUOMI_A = Virtsarakon tutkimusleikkaukset
+
+@RUOTSI_A = Exploration av urinblåsan
+
+@ENGL_A = Incision of bladder
+
+@NOTE_RF = Virtsarakon tähystys UKC02
+
+@NOTE_RS = Cystoskopi UKC02
+
+@END = 
+
+@KOODI = KCA00 
+
+@NCSP = KCSA00
+
+@SUOMI = Virtsarakon aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Öppen explorativ cystotomi
+
+@END = 
+
+@KOODI = KCA01 
+
+@NCSP = KCSA01
+
+@SUOMI = Virtsarakon tutkiminen tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk explorativ cystotomi
+
+@END = 
+
+@KOODI_A = KCB
+
+@NCSP_A = KCSB
+
+@SUOMI_A = Koepalan otot virtsarakosta
+
+@RUOTSI_A = Biopsi av urinblåsan
+
+@ENGL_A = Biopsy of bladder
+
+@NOTE_RF = Koepalan otto virtsateiden tähystyksessä UKC02
+
+@NOTE_RS = Biopsi vid cystoskopi, se UKC02
+
+@END = 
+
+@KOODI = KCB00 
+
+@NCSP = KCSB00
+
+@SUOMI = Koepalan otto virtsarakosta
+
+@RUOTSI = Öppen biopsi av urinblåsan
+
+@NOTE_F = Koepalan otto virtsarakontähystyksessä kohdassa UKC05
+
+@NOTE_S = Cystoskopisk biopsi av urinblåsan, se UKC05
+
+@END = 
+
+@KOODI = KCB01 
+
+@NCSP = KCSB01
+
+@SUOMI = Koepalan otto virtsarakosta tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk biopsi av urinblåsan
+
+@END = 
+
+@KOODI_A = KCC
+
+@NCSP_A = KCSC
+
+@SUOMI_A = Virtsarakon poistot
+
+@RUOTSI_A = Cystektomi
+
+@ENGL_A = Total excision of bladder
+
+@END = 
+
+@KOODI = KCC00 
+
+@NCSP = KCSC00
+
+@SUOMI = Virtsarakon poisto
+
+@RUOTSI = Cystektomi
+
+@END = 
+
+@KOODI = KCC10 
+
+@NCSP = KCSC10
+
+@SUOMI = Virtsarakon, eturauhasen ja rakkularauhasten poisto
+
+@RUOTSI = Cystoprostatovesikulektomi
+
+@END = 
+
+@KOODI = KCC20 
+
+@NCSP = KCSC20
+
+@SUOMI = Virtsarakon, eturauhasen, rakkularauhasten ja virtsaputken poisto
+
+@RUOTSI = Cystoprostatovesikulouretrektomi
+
+@END = 
+
+@KOODI = KCC30 
+
+@NCSP = KCSC30
+
+@SUOMI = Virtsarakon ja sukupuolielinten poisto naiselta
+
+@RUOTSI = Cystouretrektomi med exstirpation av inre genitalia hos kvinna
+
+@END = 
+
+@KOODI = KCC96 
+
+@NCSP = KCSC96
+
+@SUOMI = Muu virtsarakon poisto
+
+@RUOTSI = Annan cystektomi
+
+@END = 
+
+@KOODI_A = KCD
+
+@NCSP_A = KCSD
+
+@SUOMI_A = Virtsarakon osien tai muutosten poistot
+
+@RUOTSI_A = Resektioner av urinblåsan
+
+@ENGL_A = Partial excision of bladder and destruction of tumour of bladder
+
+@NOTE_RF = TURB=transurethral resection of bladder
+
+@END = 
+
+@KOODI = KCD02 
+
+@NCSP = KCSD02
+
+@SUOMI = Virtsarakon muutoksen poisto virtsatietähystyksessä, TURB
+
+@RUOTSI = Transuretral delresektion av urinblåsan, TUR-B
+
+@END = 
+
+@KOODI = KCD10 
+
+@NCSP = KCSD10
+
+@SUOMI = Virtsarakon osittainen poisto
+
+@RUOTSI = Resektion av urinblåsan
+
+@END = 
+
+@KOODI = KCD11 
+
+@NCSP = KCSD11
+
+@SUOMI = Virtsarakon osittainen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk delresektion av urinblåsan
+
+@END = 
+
+@KOODI = KCD20 
+
+@NCSP = KCSD20
+
+@SUOMI = Virtsarakon umpipussin poisto
+
+@RUOTSI = Resektion av blåsdivertikel (öppen operation)
+
+@END = 
+
+@KOODI = KCD21 
+
+@NCSP = KCSD21
+
+@SUOMI = Virtsarakon umpipussin poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk resektion av blåsdivertikel
+
+@END = 
+
+@KOODI = KCD30 
+
+@NCSP = KCSD30
+
+@SUOMI = Virtsarakon kasvaimen poltto tai laser
+
+@RUOTSI = Destruktion av tumör i urinblåsan (termokoagulation, laser) (öppen operation)
+
+@END = 
+
+@KOODI = KCD32 
+
+@NCSP = KCSD32
+
+@SUOMI = Virtsarakon kasvaimen poltto tai laser virtsatietähystyksessä
+
+@RUOTSI = Cystoskopisk destruktion av tumör i urinblåsan
+
+@END = 
+
+@KOODI = KCD40 
+
+@NCSP = KCSD40
+
+@SUOMI = Urachus -jäänteen poisto
+
+@RUOTSI = Exstirpation av urachusrest
+
+@NOTE_F = Sisältää urachuskystan ja -fistelin
+
+@NOTE_S = Inkl urachuscysta och urachusfistel
+
+@END = 
+
+@KOODI = KCD96 
+
+@NCSP = KCSD96
+
+@SUOMI = Muu virtsarakon osan tai muutoksen poistoleikkaus
+
+@RUOTSI = Annan öppen resektion av urinblåsan
+
+@END = 
+
+@KOODI = KCD97 
+
+@NCSP = KCSD97
+
+@SUOMI = Muu virtsarakon osan tai muutoksen poisto tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk resektion av urinblåsan
+
+@END = 
+
+@KOODI = KCD98 
+
+@NCSP = KCSD98
+
+@SUOMI = Muu virtsarakon osan tai muutoksen poisto virtsatietähystyksessä
+
+@RUOTSI = Annan cystoskopisk resektion av urinblåsan
+
+@END = 
+
+@KOODI_A = KCE
+
+@NCSP_A = KCSE
+
+@SUOMI_A = Virtsarakkokivien poistot
+
+@RUOTSI_A = Avlägsnande av urinblåsekonkrement
+
+@ENGL_A = Removal of calculus from bladder
+
+@END = 
+
+@KOODI = KCE00 
+
+@NCSP = KCSE00
+
+@SUOMI = Virtsarakkokiven poisto
+
+@RUOTSI = Cystolitotomi (öppen opereation)
+
+@END = 
+
+@KOODI = KCE01 
+
+@NCSP = KCSE01
+
+@SUOMI = Virtsarakkokiven poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk extraktion av blåskonkrement
+
+@END = 
+
+@KOODI = KCE02 
+
+@NCSP = KCSE02
+
+@SUOMI = Virtsarakkokiven poisto virtsatietähystyksessä
+
+@RUOTSI = Transluminal endoskopisk extraktion av blåskonkrement
+
+@END = 
+
+@KOODI_A = KCF
+
+@NCSP_A = KCSF
+
+@SUOMI_A = Virtsarakon vierasesineiden poistot
+
+@RUOTSI_A = Avlägsnande av främmande kropp från urinblåsan
+
+@ENGL_A = Removal of foreign body from bladder
+
+@END = 
+
+@KOODI = KCF00 
+
+@NCSP = KCSF00
+
+@SUOMI = Virtsarakon vierasesineen poisto
+
+@RUOTSI = Cystotomi och avlägsnande av främmande kropp (öppen operation)
+
+@END = 
+
+@KOODI = KCF01 
+
+@NCSP = KCSF01
+
+@SUOMI = Virtsarakon vierasesineen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopiskt avlägsnande av främmande kropp från urinblåsan
+
+@END = 
+
+@KOODI = KCF02 
+
+@NCSP = KCSF02
+
+@SUOMI = Virtsarakon vierasesineen poisto virtsatietähystyksessä
+
+@RUOTSI = Transluminalt endoskopiskt avlägsnande av främmande kropp från urinblåsan
+
+@END = 
+
+@KOODI_A = KCH
+
+@NCSP_A = KCSH
+
+@SUOMI_A = Virtsarakon korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på urinblåsan
+
+@ENGL_A = Reconstructive operations on bladder
+
+@END = 
+
+@KOODI = KCH00 
+
+@NCSP = KCSH00
+
+@SUOMI = Virtsarakon ompelu
+
+@RUOTSI = Öppen sutur av urinblåsan
+
+@END = 
+
+@KOODI = KCH01 
+
+@NCSP = KCSH01
+
+@SUOMI = Virtsarakon ompelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk sutur av urinblåsan
+
+@END = 
+
+@KOODI = KCH02 
+
+@NCSP = KCSH02
+
+@SUOMI = Virtsarakon ompelu virtsatietähystyksessä
+
+@RUOTSI = Cystoskopisk sutur av urinblåsan
+
+@END = 
+
+@KOODI = KCH10 
+
+@NCSP = KCSH10
+
+@SUOMI = Virtsarakon muovaus suolen avulla
+
+@RUOTSI = Entero/kolocystoplastik (öppen operation)
+
+@END = 
+
+@KOODI = KCH11 
+
+@NCSP = KCSH11
+
+@SUOMI = Virtsarakon muovaus suolen avulla tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk entero/kolocystoplastik
+
+@END = 
+
+@KOODI = KCH15 
+
+@NCSP = KCSH15
+
+@SUOMI = Virtsarakon muovaus suolen avulla ja pidätyskykyisen avanteen teko
+
+@RUOTSI = Entero/kolocystoplastik med konstruktion av kontinent öppning
+
+@END = 
+
+@KOODI = KCH20 
+
+@NCSP = KCSH20
+
+@SUOMI = Rakon pienennys
+
+@RUOTSI = Öppen reduktionsplastik av urinblåsan
+
+@END = 
+
+@KOODI = KCH21 
+
+@NCSP = KCSH21
+
+@SUOMI = Rakon pienennys tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk reduktionsplastik av urinblåsan
+
+@END = 
+
+@KOODI = KCH30 
+
+@NCSP = KCSH30
+
+@SUOMI = Suolen ja virtsarakon välisen avanteen sulku
+
+@RUOTSI = Förslutning av vesikointestinal fistel
+
+@NOTE_F = Rakon ja vaginan välisen fistelin sulku kohdassa LEE
+
+@NOTE_S = Förslutning av vesikovaginal fistel, se LEE
+
+@END = 
+
+@KOODI = KCH40 
+
+@NCSP = KCSH40
+
+@SUOMI = Rakon kaulan halkaisu tai poisto
+
+@RUOTSI = Insicion eller resektion av blåshalsen (öppen operation)
+
+@END = 
+
+@KOODI = KCH42 
+
+@NCSP = KCSH42
+
+@SUOMI = Rakon kaulan halkaisu tai resektio virtsatietähystyksessä
+
+@RUOTSI = Transuretral incision eller resektion av blåshalsen
+
+@END = 
+
+@KOODI = KCH60 
+
+@NCSP = KCSH60
+
+@SUOMI = Virtsarakon sulkeminen ja muovaus uloskääntyneen virtsarakon korjaamiseksi
+
+@RUOTSI = Plastisk rekonstruktion av urinblåsan vid blåsexstrofi
+
+@NOTE_F = Rakkoekstrofian korjaus
+
+@NOTE_S = Rekonstruktion för  blåsekstrofi
+
+@END = 
+
+@KOODI = KCH62 
+
+@NCSP = KCSH62
+
+@SUOMI = Virtsarakon sulkeminen ja muovaus uloskääntyneen viemärisuoliepämuodostuman korjaamiseksi
+
+@RUOTSI = Plastisk rekonstruktion av urinblåsan vid cloacamissbildning
+
+@NOTE_F = Cloacaekstrofian korjaus
+
+@NOTE_S = Rekonstruktion för kloakaekstrofi
+
+@END = 
+
+@KOODI = KCH96 
+
+@NCSP = KCSH96
+
+@SUOMI = Muu virtsarakon korjausleikkaus
+
+@RUOTSI = Annan öppen rekonstruktiv operation på urinblåsan
+
+@END = 
+
+@KOODI = KCH97 
+
+@NCSP = KCSH97
+
+@SUOMI = Muu virtsarakon korjaava leikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk rekonstruktiv operation på urinblåsan
+
+@END = 
+
+@KOODI = KCH98 
+
+@NCSP = KCSH98
+
+@SUOMI = Muu virtsarakon korjaava leikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk rekonstruktiv operation på urinblåsan
+
+@END = 
+
+@KOODI_A = KCJ
+
+@NCSP_A = KCSJ
+
+@SUOMI_A = Virtsarakkoavanneleikkaukset
+
+@RUOTSI_A = Urinavledande operationer på urinblåsan
+
+@ENGL_A = Urinary diversion from bladder
+
+@END = 
+
+@KOODI = KCJ00 
+
+@NCSP = KCSJ00
+
+@SUOMI = Virtsarakkoavanteen teko
+
+@RUOTSI = Cystostomi
+
+@NOTE_F = Virtsarakkoavanteen sulku TKC40
+
+@NOTE_S = Slutning av vesikotomi, se TKC40
+
+@END = 
+
+@KOODI = KCJ10 
+
+@NCSP = KCSJ10
+
+@SUOMI = Virtsarakkoavanteen teko suolen avulla
+
+@RUOTSI = Cystoenterokutaneostomi
+
+@END = 
+
+@KOODI = KCJ20 
+
+@NCSP = KCSJ20
+
+@SUOMI = Virtsarakon ihoavanne ja pidätyskykyisen virtsarakon korvikkeen teko suolesta
+
+@RUOTSI = Kutan cystoileostomi med kontinent reservoar av tarm
+
+@END = 
+
+@KOODI = KCJ96 
+
+@NCSP = KCSJ96
+
+@SUOMI = Muu virtsarakkoavanne
+
+@RUOTSI = Annan urinavledande operation på urinblåsan
+
+@END = 
+
+@KOODI_A = KCT
+
+@NCSP_A = KCST
+
+@SUOMI_A = Virtsarakkokivien kehonulkoinen murskaus
+
+@RUOTSI_A = Krossning av blåskonkrement med extrakorporeal stötvågslitotripsi (ESVL)
+
+@ENGL_A = Extracorporeal fragmentation of calculi of bladder
+
+@END = 
+
+@KOODI = KCT00 
+
+@NCSP = KCST00
+
+@SUOMI = Virtsarakkokivien kehonulkoinen murskaus, ESWL
+
+@RUOTSI = Krossning av blåskonkrement med extrakorporeal stötvågslitotripsi (ESVL)
+
+@END = 
+
+@KOODI_A = KCV
+
+@NCSP_A = KCSV
+
+@SUOMI_A = Muita virtsarakon leikkauksia
+
+@RUOTSI_A = Diverse operationer på urinblåsan
+
+@ENGL_A = Miscellaneous operations on bladder
+
+@END = 
+
+@KOODI = KCV02 
+
+@NCSP = KCSV02
+
+@SUOMI = Virtsarakon pallolaajennus virtsatietähystyksessä
+
+@RUOTSI = Cystoskopisk ballongdilatation av urinblåsan
+
+@END = 
+
+@KOODI = KCV04 
+
+@NCSP = KCSV04
+
+@SUOMI = Virtsarakon venyttäminen nesteen avulla virtsatietähystyksessä
+
+@RUOTSI = Hydrostatisk tänjning av urinblåsan vid cystoskopi
+
+@END = 
+
+@KOODI = KCV10 
+
+@NCSP = KCSV10
+
+@SUOMI = Virtsarakon hermotuksen katkaiseminen
+
+@RUOTSI = Denervation av urinblåsan (öppen operation)
+
+@END = 
+
+@KOODI = KCV11 
+
+@NCSP = KCSV11
+
+@SUOMI = Virtsarakon hermotuksen katkaiseminen tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk denervation av urinblåsan
+
+@END = 
+
+@KOODI = KCV20 
+
+@NCSP = KCSV20
+
+@SUOMI = Virtsarakkokiinnityksen irrottelu
+
+@RUOTSI = Cystolys (efter cystopexi)
+
+@END = 
+
+@KOODI = KCV21 
+
+@NCSP = KCSV21
+
+@SUOMI = Virtsarakkokiinnityksen irrottelu tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk cystolys
+
+@END = 
+
+@KOODI = KCV22 
+
+@NCSP = KCSV22
+
+@SUOMI = Verihyytymien poistaminen virtsarakosta virtsateiden tähystyksessä
+
+@RUOTSI = Transluminal endoskopisk evakuation av blod från urinblåsan
+
+@END = 
+
+@KOODI_A = KCW
+
+@NCSP_A = KCSW
+
+@SUOMI_A = Muut virtsarakon toimenpiteet
+
+@RUOTSI_A = Andra operationer på urinblåsan
+
+@ENGL_A = Other operations on bladder
+
+@END = 
+
+@KOODI = KCW96 
+
+@NCSP = KCSW96
+
+@SUOMI = Muu virtsarakon toimenpide
+
+@RUOTSI = Annan öppen operation på urinblåsan
+
+@END = 
+
+@KOODI = KCW97 
+
+@NCSP = KCSW97
+
+@SUOMI = Muu virtsarakon toimenpide tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation på urinblåsan
+
+@END = 
+
+@KOODI = KCW98 
+
+@NCSP = KCSW98
+
+@SUOMI = Muu virtsarakon toimenpide virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal cystoskopisk operation på urinblåsan
+
+@END = 
+
+@KOODI_A = KC_
+
+@NCSP_A = KCX
+
+@SUOMI_A = Muut virtsarakon toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på urinblåsan
+
+@ENGL_A = Other procedures of bladder
+
+@END = 
+
+@KOODI = KCW02 
+
+@NCSP = KCXW00
+
+@SUOMI = Verihyytymän poisto virtsarakosta (lavaatio)
+
+@RUOTSI = Utspolning av blåskoagel
+
+@NOTE_F = Leikkauksen jälkeisen hyytymän poisto KWD00
+
+@NOTE_S = Exkl. utspolning av blåskoagel efter operation KWD00
+
+@END = 
+
+@KOODI = KC2AT 
+
+@NCSP = KCXX00
+
+@SUOMI = Virtsarakon kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Urinblåsa, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TKC00 
+
+@NCSP = KCXX00
+
+@SUOMI = Neulakudosnäytteen otto virtsarakosta
+
+@RUOTSI = Punktionsbiopsi av urinblåsan
+
+@NOTE_F = Ultraääniohjauksessa, katso KC2AT tai KC3AT
+
+@NOTE_S = Ultraljudsutstyrd, se KC2AT eller KC3AT
+
+@END = 
+
+@KOODI = KC3AT 
+
+@NCSP = KCXX02
+
+@SUOMI = Virtsarakon solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Urinblåsa, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = KC1AT 
+
+@NCSP = KCXX10
+
+@SUOMI = Virtsarakkopunktio UÄ-ohjauksessa
+
+@RUOTSI = Urinblåsa, UL-styrd punktion
+
+@END = 
+
+@KOODI = TKC10 
+
+@NCSP = KCXX10
+
+@SUOMI = Virtsarakkopisto
+
+@RUOTSI = Perkutan punktion/dränage av urinblåsan
+
+@NOTE_F = Sisältää kanavoinnin
+
+@NOTE_F =
+Ultraääniohjauksessa, katso KC1AT
+
+@NOTE_S = Inkl ev dränage
+
+@NOTE_S =
+Ultraljudsutstyrd, se KC1AT
+
+@END = 
+
+@KOODI = TKC40 
+
+@NCSP = KCXX18
+
+@SUOMI = Vrtsarakkoavanteen sulku
+
+@RUOTSI = Slutning av vesicotomi
+
+@END = 
+
+@KOODI = TKC20 
+
+@NCSP = KCXX20
+
+@SUOMI = Virtsarakkokatetrin asettaminen
+
+@RUOTSI = Katetrisering av urinblåsan
+
+@END = 
+
+@KOODI_R = KD
+
+@SUOMI_R = Virtsaputki
+
+@RUOTSI_R = Uretra
+
+@ENGL_R = Urethra
+
+@NOTE_RF = Virtsaputken tähystys UKD02
+
+@NOTE_RF =
+Koepalat virtsaputkesta UKC02, UKD02
+
+@NOTE_RF =
+
+
+@NOTE_RS = Uretroskopi, se UKD02
+
+@NOTE_RS =
+Biopsi, se UKC02 / UKD02
+
+@END = 
+
+@KOODI_A = KD_
+
+@NCSP_A = KDD
+
+@SUOMI_A = VIrtsaputken diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av uretra
+
+@ENGL_A = Diagnostic radiology of urethra
+
+@END = 
+
+@KOODI = KD1GB 
+
+@NCSP = KDDB1G
+
+@SUOMI = Virtsaputken ja -rakon varjoainetutkimus (uretrokystografia)
+
+@RUOTSI = Uretrocystografi
+
+@END = 
+
+@KOODI = KD1AE 
+
+@NCSP = KDDE1A
+
+@SUOMI = Virtsaputken UÄ (uretran UÄ)
+
+@RUOTSI = Uretra, UL
+
+@END = 
+
+@KOODI_A = KD_
+
+@NCSP_A = KDE
+
+@SUOMI_A = Virtsaputken tähystykset
+
+@RUOTSI_A = Endoskopi av uretra
+
+@ENGL_A = Endoscopy of urethra
+
+@NOTE_RF = Koepalan otto on osa tähystystoimenpidettä
+
+@NOTE_RS = Endoskopi innefattar biopsi
+
+@END = 
+
+@KOODI = UKD02 
+
+@NCSP = KDE002
+
+@SUOMI = Virtsaputken tähystys
+
+@RUOTSI = Uretroskopi (utan cystoskopi)
+
+@END = 
+
+@KOODI_A = KD_
+
+@NCSP_A = KDF
+
+@SUOMI_A = Virtsaputken diagnostiset toimenpiteet
+
+@RUOTSI_A = Diagnostiska åtgärder av uretra
+
+@ENGL_A = Physiologic diagnostic procedures of urethra
+
+@END = 
+
+@KOODI = XKD00 
+
+@NCSP = KDFD00
+
+@SUOMI = Virtsasuihkun virtausmittaus, flowmetria
+
+@RUOTSI = Urinflödesmätning
+
+@END = 
+
+@KOODI = XKD03 
+
+@NCSP = KDFD03
+
+@SUOMI = Virtsaputken paineprofiilin mittaus
+
+@RUOTSI = Registrering av tryckprofilen i uretra
+
+@END = 
+
+@KOODI = XKD06 
+
+@NCSP = KDFD06
+
+@SUOMI = Virtsaamistutkimus; paine, virtaus
+
+@RUOTSI = Miktionsfysiologisk undersökning (tryck, flöde)
+
+@END = 
+
+@KOODI = XKD10 
+
+@NCSP = KDFD10
+
+@SUOMI = Ultraäänitutkimus virtsaputken kautta
+
+@RUOTSI = Transuretral ultraljudsundersökning
+
+@NOTE_F = Eturauhasen ultraäänitutkimus peräsuolen kautta XJH 00
+
+@NOTE_S = Transanal/rektal ultraljudsundersökning av prostata, se XJG12, XJH00
+
+@END = 
+
+@KOODI_A = KDC
+
+@NCSP_A = KDSC
+
+@SUOMI_A = Virtsaputken poistot
+
+@RUOTSI_A = Uretrektomi
+
+@ENGL_A = Total excision of urethra
+
+@END = 
+
+@KOODI = KDC00 
+
+@NCSP = KDSC00
+
+@SUOMI = Virtsaputken poisto
+
+@RUOTSI = Uretrektomi
+
+@END = 
+
+@KOODI_A = KDD
+
+@NCSP_A = KDSD
+
+@SUOMI_A = Virtsaputken osien ja muutosten poistot
+
+@RUOTSI_A = Delresektion av uretra
+
+@ENGL_A = Partial excision of urethra and destruction of tumour of urethra
+
+@END = 
+
+@KOODI = KDD00 
+
+@NCSP = KDSD00
+
+@SUOMI = Virtsaputken osittainen poisto
+
+@RUOTSI = Delresektion av uretra
+
+@END = 
+
+@KOODI = KDD10 
+
+@NCSP = KDSD10
+
+@SUOMI = Virtsaputken umpipussin poisto
+
+@RUOTSI = Exstirpation av uretradivertikel
+
+@END = 
+
+@KOODI = KDD30 
+
+@NCSP = KDSD30
+
+@SUOMI = Virtsaputken kasvaimen poltto tai laser
+
+@RUOTSI = Destruktion av lokal förändring i uretra (öppen operation)
+
+@END = 
+
+@KOODI = KDD32 
+
+@NCSP = KDSD32
+
+@SUOMI = Virtsaputken kasvaimen poisto virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk destruktion av lokal förändring i uretra (koagulation, laser)
+
+@NOTE_F = Poltto tai laserkäsittely ilmaistaan lisäkoodilla ryhmästä ZXC
+
+@NOTE_S = Användning av diatermi eller laser anges med tilläggskod, se ZXC
+
+@END = 
+
+@KOODI = KDD40 
+
+@NCSP = KDSD40
+
+@SUOMI = Virtsaputken sulkijan halkaisu
+
+@RUOTSI = Resektion av externa uretrasfinktern (öppen operation)
+
+@END = 
+
+@KOODI = KDD42 
+
+@NCSP = KDSD42
+
+@SUOMI = Virtsaputken sulkijan halkaisu virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk resektion av externa uretrasfinktern
+
+@END = 
+
+@KOODI = KDD50 
+
+@NCSP = KDSD50
+
+@SUOMI = Virtsaputken läppien poisto
+
+@RUOTSI = Öppen resektion av uretravalvler
+
+@END = 
+
+@KOODI = KDD52 
+
+@NCSP = KDSD52
+
+@SUOMI = Virtsaputken läppien poisto virtsatietähystyksessä
+
+@RUOTSI = Endoskopisk resektion av uretravalvler
+
+@END = 
+
+@KOODI = KDD80 
+
+@NCSP = KDSD80
+
+@SUOMI = Virtsaputken osan poisto, korjaus siirteellä tai kielekkeellä
+
+@RUOTSI = Resektion av uretra med rekonstruktion med lambå eller transplantat
+
+@NOTE_F = Käytetty siirremateriaali ilmaistaan lisäkoodilla ryhmästä ZZ
+
+@NOTE_S = Material av transplantat eller lambå anges med tilläggskod, se ZZ
+
+@END = 
+
+@KOODI = KDD96 
+
+@NCSP = KDSD96
+
+@SUOMI = Muu virtsaputken osan ja/tai muutoksen poistoleikkaus
+
+@RUOTSI = Annan öppen resektion av uretra
+
+@END = 
+
+@KOODI = KDD98 
+
+@NCSP = KDSD98
+
+@SUOMI = Muu virtsaputken poistoleikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk resektion av uretra
+
+@END = 
+
+@KOODI_A = KDE
+
+@NCSP_A = KDSE
+
+@SUOMI_A = Kivien ja vierasesineiden poistot virtsaputkesta
+
+@RUOTSI_A = Avlägsnande av konkrement eller främmande kropp från uretra
+
+@ENGL_A = Removal of calculus or foreign body from urethra
+
+@END = 
+
+@KOODI = KDE00 
+
+@NCSP = KDSE00
+
+@SUOMI = Kiven poisto virtsaputkesta
+
+@RUOTSI = Uretrolitotomi (öppen operation)
+
+@END = 
+
+@KOODI = KDE12 
+
+@NCSP = KDSE12
+
+@SUOMI = Kiven poisto virtsaputkesta virtsatietähystyksessä
+
+@RUOTSI = Uretroskopiskt avlägsnande av uretrakonkrement
+
+@END = 
+
+@KOODI = KDE20 
+
+@NCSP = KDSE20
+
+@SUOMI = Vierasesineen poisto virtsaputkesta
+
+@RUOTSI = Avlägsnande av främmande kropp från uretra (öppen operation)
+
+@END = 
+
+@KOODI = KDE22 
+
+@NCSP = KDSE22
+
+@SUOMI = Vierasesineen poisto virtsaputkesta virtsatietähystyksessä
+
+@RUOTSI = Uretroskopiskt avlägsnande av främmande kropp från uretra
+
+@END = 
+
+@KOODI = KH1ZT 
+
+@NCSP = KDSE98
+
+@SUOMI = Virtsateiden kivien ja vierasesineiden poisto,rad.ohj
+
+@RUOTSI = Urinvägar, radiologiskt styrd avlägsnande av konkrement eller främmade föremål
+
+@END = 
+
+@KOODI_A = KDG
+
+@NCSP_A = KDSG
+
+@SUOMI_A = Naisen virtsaputken leikkaukset pidätyskyvyn parantamiseksi
+
+@RUOTSI_A = Operationer på uretra och blåshals vid inkontinens hos kvinna
+
+@ENGL_A = Operations on female urethra and bladder neck for urinary incontinence
+
+@END = 
+
+@KOODI = KDG00 
+
+@NCSP = KDSG00
+
+@SUOMI = Virtsaputken kohottaminen emättimen avulla
+
+@RUOTSI = Uretrovaginal suspension
+
+@NOTE_F = Marshall-Marchetti-Krantz
+
+@END = 
+
+@KOODI = KDG01 
+
+@NCSP = KDSG01
+
+@SUOMI = Virtsaputken kohottaminen emättimen avulla tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk uretrovaginal suspension
+
+@NOTE_F = Pereyra, Raz, Stamey
+
+@END = 
+
+@KOODI = KDG10 
+
+@NCSP = KDSG10
+
+@SUOMI = Rakonkaulan ripustus abdominovaginaalisesti
+
+@RUOTSI = Abdominovaginal suspension av blåshalsen
+
+@END = 
+
+@KOODI = KDG20 
+
+@NCSP = KDSG20
+
+@SUOMI = Emättimen ripustus vatsaontelotietä
+
+@RUOTSI = Abdominal kolposuspension
+
+@NOTE_F = Burch
+
+@NOTE_F =
+Emättimen ripustus aiemman kohdunpoiston jälkeen kohdassa katso LEF50
+
+@NOTE_F =
+
+
+@NOTE_S = Kolpopexi för vaginaltoppsprolaps efter tidigare hysterektomi, se LEF50
+
+@END = 
+
+@KOODI = KDG21 
+
+@NCSP = KDSG21
+
+@SUOMI = Emättimen ripustus tähystyksessä iholta
+
+@RUOTSI = Perkutan kolpopexi
+
+@NOTE_F = Sisältää emättimen ripustuksen preperitoneaalisesti tai vatsaontelon kautta laparoskooppia käyttäen
+
+@NOTE_F =
+Laparoskooppinen emättimen ripustus aiemman kohdunpoiston jälkeen kohdassa LEF51
+
+@NOTE_S = Inkl preperitoneal och laparoskopisk kolposuspension med laparoskop
+
+@NOTE_S =
+Laparoskopisk kolpopexi för vaginaltoppsprolaps efter tidigare hysterektomi, se LEF51
+
+@END = 
+
+@KOODI = KDG30 
+
+@NCSP = KDSG30
+
+@SUOMI = Virtsaputken silmukkakohotus, uretrokystopeksia
+
+@RUOTSI = Suprapubisk uretrocystopexi med slynga
+
+@NOTE_F = "suprapubic sling"
+
+@NOTE_F =
+ "Nilssonin slinga"
+
+@NOTE_S = Nilssons slinga
+
+@END = 
+
+@KOODI = KDG31 
+
+@NCSP = KDSG31
+
+@SUOMI = Virtsaputken silmukkakohotus, uretrokystopeksia, tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk suprapubisk uretrocystopexi med slynga
+
+@END = 
+
+@KOODI = KDG40 
+
+@NCSP = KDSG40
+
+@SUOMI = Virtsaputken muu kohottamisleikkaus
+
+@RUOTSI = Annan öppen suprapubisk uretrocystopexi
+
+@NOTE_F = Sisältää ompelun, klipsit ja kudosliiman
+
+@NOTE_S = Inkluderar sutur, klips och vävnadslim
+
+@END = 
+
+@KOODI = KDG41 
+
+@NCSP = KDSG41
+
+@SUOMI = Virtsaputken muu kohottaminen tähystyksessä
+
+@RUOTSI = Annan endoskopisk suprapubisk uretrocystopexi
+
+@NOTE_F = Sisältää ompelun, klipsit ja kudosliiman
+
+@NOTE_S = Inkluderar sutur, klips och vävnadslim
+
+@END = 
+
+@KOODI = KDG50 
+
+@NCSP = KDSG50
+
+@SUOMI = Vatsan kautta tehty lantionpohjan korjausleikkaus
+
+@RUOTSI = Transabdominal rekonstruktion av bäckenbotten vid urininkontinens
+
+@END = 
+
+@KOODI = KDG96 
+
+@NCSP = KDSG96
+
+@SUOMI = Muu naisen virtsaputken korjausleikkaus pidätyskyvyn parantamiseksi
+
+@RUOTSI = Annan öppen operation på uretra eller blåshals vid inkontinens hos kvinna
+
+@END = 
+
+@KOODI = KDG97 
+
+@NCSP = KDSG97
+
+@SUOMI = Muu naisen virtsaputken korjausleikkaus pidätyskyvyn parantamiseksi tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation på uretra eller blåshals vid inkontinens hos kvinna
+
+@END = 
+
+@KOODI_A = KDH
+
+@NCSP_A = KDSH
+
+@SUOMI_A = Virtsaputken korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva operationer på uretra
+
+@ENGL_A = Reconstructive operations on urethra
+
+@NOTE_RF = Peräaukon sulkijan korjaaminen keinosulkijalla kts. JHE
+
+@NOTE_RS = Artificiel sphincter operationer, se JHE
+
+@END = 
+
+@KOODI = KDH00 
+
+@NCSP = KDSH00
+
+@SUOMI = Virtsaputken ompelu
+
+@RUOTSI = Sutur av uretra
+
+@END = 
+
+@KOODI = KDH10 
+
+@NCSP = KDSH10
+
+@SUOMI = Virtsaputken ulostuloaukon muovausleikkaus
+
+@RUOTSI = Meatusplastik
+
+@NOTE_F = Sisältää virtsaputken limakalvon prolapsin korjausleikkauksen
+
+@NOTE_S = Innefattar plastik för slämhinnaprolaps
+
+@END = 
+
+@KOODI = KDH14 
+
+@NCSP = KDSH14
+
+@SUOMI = Virtsaputken limakalvon prolapsin korjausleikkaus
+
+@RUOTSI = Rekonstruktion av slämhinneprolabs från uretra
+
+@NOTE_S = Inkl rekonstruktion av slämhinneprolabs från uretra
+
+@END = 
+
+@KOODI = KDH30 
+
+@NCSP = KDSH30
+
+@SUOMI = Virtsaputken ja ihon välisen avanteen sulku
+
+@RUOTSI = Förslutning av uretrokutan fistel
+
+@NOTE_F = Virtsaputken ja emättimen välisen avanteen sulku kohdassa LEE30
+
+@NOTE_S = Förslutning av uretrovaginal fistel, se LEE30
+
+@END = 
+
+@KOODI = KDH50 
+
+@NCSP = KDSH50
+
+@SUOMI = Virtsaputken ja suolen välisen avanteen sulku
+
+@RUOTSI = Förslutning av uretrointestinal fistel
+
+@END = 
+
+@KOODI = KDH62 
+
+@NCSP = KDSH62
+
+@SUOMI = Muu virtsaputken ahtautuman leikkaus virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk åtgärd mot uretrastriktur
+
+@END = 
+
+@KOODI = KDH70 
+
+@NCSP = KDSH70
+
+@SUOMI = Virtsaputken ahtauman muovausleikkaus
+
+@RUOTSI = Plastikoperation för uretrastriktur
+
+@NOTE_F = Käytetyn siirten materiaali ilmaistaan lisäkoodilla ryhmästä ZZ
+
+@NOTE_S = Tilläggskoder för specifikation av transplantat eller lambå, se ZZ
+
+@END = 
+
+@KOODI = KDH96 
+
+@NCSP = KDSH96
+
+@SUOMI = Muu virtsaputken korjaava leikkaus
+
+@RUOTSI = Annan rekonstruktiv, kontinensförbättrande operation på kvinnlig uretra
+
+@END = 
+
+@KOODI = KDH98 
+
+@NCSP = KDSH98
+
+@SUOMI = Muu virtsaputken korjaava leikkaus virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endokopisk rekonstruktiv operation på uretra
+
+@END = 
+
+@KOODI_A = KDJ
+
+@NCSP_A = KDSJ
+
+@SUOMI_A = Virtsaputkiavanne
+
+@RUOTSI_A = Urinavledande ingrepp på uretra
+
+@ENGL_A = Urinary diversion from urethra
+
+@END = 
+
+@KOODI = KDJ00 
+
+@NCSP = KDSJ00
+
+@SUOMI = Virtsaputkiavanteen teko
+
+@RUOTSI = Uretrostomi (kreering av uretrafistel)
+
+@END = 
+
+@KOODI_A = KDK
+
+@NCSP_A = KDSK
+
+@SUOMI_A = Virtsaputken tekosulkijan asettamiset ja poistot
+
+@RUOTSI_A = Implantation, revision och avlägsnande av konstgjord sfinkter i uretra och blåshals
+
+@ENGL_A = Artificial urethral sphincter operations
+
+@END = 
+
+@KOODI = KDK00 
+
+@NCSP = KDSK00
+
+@SUOMI = Virtsaputken tekosulkijan asettaminen virtsarakon kaulan ympärille
+
+@RUOTSI = Implantation av sfinkterprotes runt blåshals
+
+@END = 
+
+@KOODI = KDK10 
+
+@NCSP = KDSK10
+
+@SUOMI = Virtsaputken tekosulkijan asettaminen virtsaputken ympärille
+
+@RUOTSI = Implantation av sfinkterprotes runt uretra
+
+@END = 
+
+@KOODI = KDK30 
+
+@NCSP = KDSK30
+
+@SUOMI = Virtsaputken tekosulkijan korjausleikkaus
+
+@RUOTSI = Revision av sfinkterprotes
+
+@END = 
+
+@KOODI = KDK40 
+
+@NCSP = KDSK40
+
+@SUOMI = Virtsaputken tekosulkijan poisto
+
+@RUOTSI = Avlägsnande av sfinkterprotes
+
+@END = 
+
+@KOODI_A = KDV
+
+@NCSP_A = KDSV
+
+@SUOMI_A = Muita virtsaputken leikkauksia
+
+@RUOTSI_A = Andra operationer på uretra
+
+@ENGL_A = Miscellaneous operations on urethra
+
+@END = 
+
+@KOODI = KDV00 
+
+@NCSP = KDSV00
+
+@SUOMI = Virtsaputken sisätuen (stentin) asettaminen
+
+@RUOTSI = Inläggande av stent i uretra
+
+@END = 
+
+@KOODI = KDV10 
+
+@NCSP = KDSV10
+
+@SUOMI = Virtsaputken halkaisu sisältä
+
+@RUOTSI = Inre uretrotomi
+
+@END = 
+
+@KOODI = KDV12 
+
+@NCSP = KDSV12
+
+@SUOMI = Virtsaputken halkaisu sisältä virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk uretrotomi
+
+@END = 
+
+@KOODI = KDV15 
+
+@NCSP = KDSV15
+
+@SUOMI = Sulkijalihaksen halkaisu sisältä virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk sfinkterotomi
+
+@END = 
+
+@KOODI = KDV20 
+
+@NCSP = KDSV20
+
+@SUOMI = Vieraan aineen ruiskuttaminen virtsaputken limakalvon alle
+
+@RUOTSI = Submukös injektionsbehandling i uretra
+
+@END = 
+
+@KOODI = KDV22 
+
+@NCSP = KDSV22
+
+@SUOMI = Vieraan aineen ruiskuttaminen virtsaputken limakalvon alle virtsateiden tähystyksessä
+
+@RUOTSI = Transluminal submukös injektionsbehandling i uretra
+
+@END = 
+
+@KOODI_A = KDW
+
+@NCSP_A = KDSW
+
+@SUOMI_A = Muut virtsaputkeen kohdistuvat toimenpiteet
+
+@RUOTSI_A = Andra operationer på uretra
+
+@ENGL_A = Other operations on urethra
+
+@END = 
+
+@KOODI = KDW96 
+
+@NCSP = KDSW96
+
+@SUOMI = Muu virtsaputkeen kohdistuva toimenpide
+
+@RUOTSI = Annan öppen operation på uretra
+
+@END = 
+
+@KOODI = KDW98 
+
+@NCSP = KDSW98
+
+@SUOMI = Muu virtsaputkeen kohdistuva toimenpide virtsatietähystyksessä
+
+@RUOTSI = Annan transluminal endoskopisk operation på uretra
+
+@END = 
+
+@KOODI_A = KD_
+
+@NCSP_A = KDX
+
+@SUOMI_A = Muut virtsaputken toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på uretra
+
+@ENGL_A = Other procedures on urethra
+
+@END = 
+
+@KOODI = TKD00 
+
+@NCSP = KDXX00
+
+@SUOMI = Virtsaputken laajentaminen
+
+@RUOTSI = Dilatation av uretra
+
+@NOTE_F = Esim. pallokatetrilla
+
+@NOTE_F =
+Radiologisessa ohjauksessa, katso KH1FT
+
+@NOTE_S = T.ex med ballongkateter
+
+@NOTE_S =
+Radiologiskt utstyrd, se KH1FT
+
+@END = 
+
+@KOODI_R = KE
+
+@SUOMI_R = Eturauhanen ja rakkularauhaset
+
+@RUOTSI_R = Prostata och sädesblåsor
+
+@ENGL_R = Prostate and seminal vesicles
+
+@END = 
+
+@KOODI_A = KE_
+
+@NCSP_A = KED
+
+@SUOMI_A = Prostatan ja rakkularauhasten kuvantaminen
+
+@RUOTSI_A = Diagnostisk radiologi av prostata och sädesblåsor
+
+@ENGL_A = Diagnostic radiology of prostate and seminal vesicles
+
+@END = 
+
+@KOODI = KE4CB 
+
+@NCSP = KEDB4C
+
+@SUOMI = Siementiehyen tai -rakkuloiden varjoainetutkimus
+
+@RUOTSI = Vesikulografi/vasografi
+
+@END = 
+
+@KOODI = KE1AE 
+
+@NCSP = KEDE1A
+
+@SUOMI = Prostatan UÄ iholta
+
+@RUOTSI = Prostata, perkutan UL
+
+@END = 
+
+@KOODI = KE1BE 
+
+@NCSP = KEDE1B
+
+@SUOMI = Prostatan UÄ peräsuolen kautta
+
+@RUOTSI = Prostata, transrektal UL
+
+@END = 
+
+@KOODI_A = KE0
+
+@NCSP_A = KEO
+
+@SUOMI_A = Eturauhasen ja rakkularauhasten sädehoito
+
+@RUOTSI_A = Strålbehandling av prostata och sädesblåsor
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = KE001 
+
+@NCSP = KEO001
+
+@SUOMI = Sädehoito eturauhasen ja rakkularauhasten  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i prostata eller i sädesblåsor
+
+@END = 
+
+@KOODI = KE002 
+
+@NCSP = KEO002
+
+@SUOMI = Radikaali eturauhasen ja rakkularauhasten  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i prostata eller i sädesblåsor
+
+@END = 
+
+@KOODI = KE003 
+
+@NCSP = KEO003
+
+@SUOMI = Sädehoito eturauhasen ja rakkularauhasten  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i prostata eller i sädesblåsor
+
+@END = 
+
+@KOODI = KE004 
+
+@NCSP = KEO004
+
+@SUOMI = Sädehoito eturauhasen ja rakkularauhasten  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i prostata eller i sädesblåsor
+
+@END = 
+
+@KOODI = KE029 
+
+@NCSP = KEO029
+
+@SUOMI = Sädehoito eturauhasen ja rakkularauhasten  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i prostata eller i sädesblåsor
+
+@END = 
+
+@KOODI = KE049 
+
+@NCSP = KEO049
+
+@SUOMI = Sädehoito eturauhasessa tai rakkularauhasessa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i prostata eller i sädesblåsor
+
+@END = 
+
+@KOODI = KE090 
+
+@NCSP = KEO090
+
+@SUOMI = Sädehoito eturauhasen ja rakkularauhasten  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av prostata och i sädesblåsor
+
+@END = 
+
+@KOODI = KE099 
+
+@NCSP = KEO099
+
+@SUOMI = Muu eturauhasen ja rakkularauhasten sädehoito
+
+@RUOTSI = Annan strålbehandling av prostata och i sädesblåsor
+
+@END = 
+
+@KOODI_A = KEA
+
+@NCSP_A = KESA
+
+@SUOMI_A = Eturauhasen ja rakkularauhasten tutkimusleikkaukset
+
+@RUOTSI_A = Exploration och incision av prostata och sädesblåsor
+
+@ENGL_A = Exploration and incision of prostate and seminal vesicles
+
+@END = 
+
+@KOODI = KEA00 
+
+@NCSP = KESA00
+
+@SUOMI = Eturauhasen tutkimusleikkaus
+
+@RUOTSI = Explorativ friläggning av prostata
+
+@END = 
+
+@KOODI = KEA10 
+
+@NCSP = KESA10
+
+@SUOMI = Eturauhasen aukaisu
+
+@RUOTSI = Prostatotomi
+
+@END = 
+
+@KOODI = KEA20 
+
+@NCSP = KESA20
+
+@SUOMI = Rakkularauhasen aukaisu
+
+@RUOTSI = Incision av sädesblåsa
+
+@END = 
+
+@KOODI_A = KEB
+
+@NCSP_A = KESB
+
+@SUOMI_A = Koepalan otot eturauhasesta
+
+@RUOTSI_A = Biopsi av prostata
+
+@ENGL_A = Biopsy of prostate
+
+@NOTE_RF = Neulabiopsia TKE00
+
+@NOTE_RS = Nålbiopsi TKE00
+
+@END = 
+
+@KOODI = KEB00 
+
+@NCSP = KESB00
+
+@SUOMI = Koepalan otto eturauhasesta
+
+@RUOTSI = Biopsi av prostata
+
+@END = 
+
+@KOODI_A = KEC
+
+@NCSP_A = KESC
+
+@SUOMI_A = Eturauhasen  ja siemenrakkuloiden täydelliset poistot
+
+@RUOTSI_A = Radikal prostatektomi (inkl vesiculae seminales)
+
+@ENGL_A = Total excision of prostate and seminal vesicles
+
+@NOTE_RF = Eturauhasen poistoon liittyvää siemenrakkuloiden (rakkularauhasten) poistoa ei tarvitse erikseen koodata
+
+@NOTE_RS = Extirpation av vesicula seminalis i samband med prostatektomi behöver ej skild koderas
+
+@END = 
+
+@KOODI = KEC00 
+
+@NCSP = KESC00
+
+@SUOMI = Eturauhasen täydellinen poisto häpyluun ja rakon välistä avaten
+
+@RUOTSI = Retropubisk total prostatektomi
+
+@END = 
+
+@KOODI = KEC01 
+
+@NCSP = KESC01
+
+@SUOMI = Eturauhasen täydellinen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk radikal prostatektomi
+
+@END = 
+
+@KOODI = KEC10 
+
+@NCSP = KESC10
+
+@SUOMI = Eturauhasen täydellinen poisto välilihan kautta
+
+@RUOTSI = Perineal total prostatektomi
+
+@END = 
+
+@KOODI = KEC20 
+
+@NCSP = KESC20
+
+@SUOMI = Eturauhasen täydellinen poisto ristiluuavauksen kautta
+
+@RUOTSI = Transsakral total prostatektomi
+
+@END = 
+
+@KOODI = KEC30 
+
+@NCSP = KESC30
+
+@SUOMI = Rakkularauhasen poisto
+
+@RUOTSI = Exstirpation av vesicula seminalis
+
+@END = 
+
+@KOODI_A = KED
+
+@NCSP_A = KESD
+
+@SUOMI_A = Eturauhasen liikakasvun toimenpiteet
+
+@RUOTSI_A = Delresektion m.m. av prostata vid hyperplasi
+
+@ENGL_A = Partial excision of prostate
+
+@NOTE_RF = TURP= Transuretral resection of prostate
+
+@NOTE_RF =
+TUIP= Transutetral incision of prostate
+
+@NOTE_RF =
+VLAP= Visual ablation of prostate, laser
+
+@NOTE_RF =
+TUNA= Transurethral needle ablation
+
+@NOTE_RF =
+TULIP= Transurethral, ultrasonic guided, laser induced prostatectomy
+
+@NOTE_RF =
+TUMT= Transurethral microwave therapy
+
+@NOTE_RF =
+TUVP = Transuretral electrovaporisation of prostate
+
+@NOTE_RF =
+Siemenkukkulan poisto tähystyksessä kohdassa KEV12
+
+@NOTE_RF =
+Virtsaputken laajennus katetrilla TKD00
+
+@NOTE_RS = Uretroskopisk ablation av colliculus seminalis, se KEV12
+
+@NOTE_RS =
+Ballongdilatation av prostatiska uretra, se TKD00
+
+@END = 
+
+@KOODI = KED00 
+
+@NCSP = KESD00
+
+@SUOMI = Eturauhasen poisto rakon kautta
+
+@RUOTSI = Transvesikal prostatektomi
+
+@END = 
+
+@KOODI = KED10 
+
+@NCSP = KESD10
+
+@SUOMI = Eturauhasen poisto rakon ja häpyluun välistä
+
+@RUOTSI = Retropubisk resektion av prostata
+
+@END = 
+
+@KOODI = KED22 
+
+@NCSP = KESD22
+
+@SUOMI = Eturauhasen höyläys virtsaputken kautta
+
+@RUOTSI = Transuretral resektion av prostata
+
+@NOTE_F = TURP
+
+@END = 
+
+@KOODI = KED33 
+
+@NCSP = KESD33
+
+@SUOMI = Eturauhasen aukaisu virtsaputken kautta, TUIP
+
+@RUOTSI = Transuretral incision av prostata (TUIP)
+
+@NOTE_F = Sisältää laserin käytön
+
+@NOTE_S = Inkl laser användning
+
+@END = 
+
+@KOODI = KED52 
+
+@NCSP = KESD52
+
+@SUOMI = Eturauhasen osittainen poisto laserilla näköohjauksessa, VLAP
+
+@RUOTSI = Laserresektion av prostata med visuell kontroll, VLAP
+
+@END = 
+
+@KOODI = KED58 
+
+@NCSP = KESD53
+
+@SUOMI = Eturauhasen poisto laserilla ultraääniohjauksessa virtsaputken kautta, TULIP
+
+@RUOTSI = Sonografistyrd prostatektomi med laser, TULIP
+
+@END = 
+
+@KOODI = KED62 
+
+@NCSP = KESD62
+
+@SUOMI = Eturauhasen poltto, TUNA
+
+@RUOTSI = Transuretral nålablation av prostata, TUNA
+
+@NOTE_F = Needle ablation
+
+@END = 
+
+@KOODI = KED72 
+
+@NCSP = KESD72
+
+@SUOMI = Eturauhasen mikroaaltohoito virtsaputken kautta, TUMT
+
+@RUOTSI = Transuretral mikrovågsbehandling av prostata, TUMT
+
+@END = 
+
+@KOODI = KED76 
+
+@NCSP = KESD76
+
+@SUOMI = Eturauhasen höyrystys näköohjauksessa, TUVP
+
+@RUOTSI = Transuretral elektrovaporisering av prostata under ögats kontroll, TUVP
+
+@END = 
+
+@KOODI = KED96 
+
+@NCSP = KESD96
+
+@SUOMI = Muu eturauhasen liikakasvun toimenpide
+
+@RUOTSI = Annan (öppen) åtgärd mot prostatahyperplasi
+
+@END = 
+
+@KOODI = KED98 
+
+@NCSP = KESD98
+
+@SUOMI = Muu eturauhasen liikakasvun toimenpide virtsaputken kautta
+
+@RUOTSI = Annan transuretral åtgärd mot prostatahyperplasi
+
+@END = 
+
+@KOODI_A = KEE
+
+@NCSP_A = KESE
+
+@SUOMI_A = Eturauhaskivien tai vierasesineiden poistot eturauhasesta
+
+@RUOTSI_A = Avlägsnande av konkrement eller främmande kropp från prostata
+
+@ENGL_A = Removal of calculus or foreign body from prostate
+
+@END = 
+
+@KOODI = KEE00 
+
+@NCSP = KESE00
+
+@SUOMI = Eturauhaskivien poistoleikkaus
+
+@RUOTSI = Öppen prostatolitotomi
+
+@END = 
+
+@KOODI = KEE02 
+
+@NCSP = KESE02
+
+@SUOMI = Eturauhaskivien poisto virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk prostatolitotomi
+
+@END = 
+
+@KOODI = KEE10 
+
+@NCSP = KESE10
+
+@SUOMI = Eturauhasen vierasesineen poisto
+
+@RUOTSI = Avlägsnande av främmande kropp från prostata (öppen operation)
+
+@END = 
+
+@KOODI = KEE12 
+
+@NCSP = KESE12
+
+@SUOMI = Eturauhasen vierasesineen poisto virtsatietähystyksessä
+
+@RUOTSI = Uretroskopiskt avlägsnande av främmande kropp från prostata
+
+@END = 
+
+@KOODI_A = KEV
+
+@NCSP_A = KESV
+
+@SUOMI_A = Muita eturauhastoimenpiteitä
+
+@RUOTSI_A = Diverse operationer på prostata
+
+@ENGL_A = Miscellaneous operations on prostate
+
+@NOTE_RF = Leikkauksen jälkeen kohdassa KWD00
+
+@NOTE_RS = Koagulation vid postoperativ blödning, se KWD00
+
+@END = 
+
+@KOODI = KEV00 
+
+@NCSP = KESV00
+
+@SUOMI = Eturauhasen spontaanin verenvuodon tyrehdyttäminen
+
+@RUOTSI = Koagulation vid spontan blödning från prostata
+
+@END = 
+
+@KOODI = KEV02 
+
+@NCSP = KESV02
+
+@SUOMI = Eturauhasen spontaanin verenvuodon tyrehdyttäminen virtsatietähystyksessä
+
+@RUOTSI = Uretroskopisk koagulation vid spontan blödning från prostata
+
+@END = 
+
+@KOODI = KEV12 
+
+@NCSP = KESV12
+
+@SUOMI = Siemenkukkulan osittainen poisto virtsatietähystyksessä
+
+@RUOTSI = Transuretral resektion av verumontanum
+
+@END = 
+
+@KOODI = KEV22 
+
+@NCSP = KESV22
+
+@SUOMI = Eturauhasen sisätuen asettaminen virtsatietähystyksessä
+
+@RUOTSI = Inläggande av intraprostatisk endoprotes
+
+@NOTE_F = Pysyvä tai väliaikainen
+
+@NOTE_S = Permanent eller temporär
+
+@END = 
+
+@KOODI_A = KEW
+
+@NCSP_A = KESW
+
+@SUOMI_A = Muut eturauhasen ja rakkularauhasten leikkaukset
+
+@RUOTSI_A = Andra operationer på prostata och sädesblåsor
+
+@ENGL_A = Other operations on prostate and seminal vesicles
+
+@END = 
+
+@KOODI = KEW96 
+
+@NCSP = KESW96
+
+@SUOMI = Muu eturauhasen ja rakkularauhasten leikkaus
+
+@RUOTSI = Annan (öppen operation) på prostata eller sädesblåsor
+
+@END = 
+
+@KOODI = KEW98 
+
+@NCSP = KESW98
+
+@SUOMI = Muu eturauhasen ja rakkularauhasten leikkaus tähystyksessä virtsaputken kautta
+
+@RUOTSI = Annan transluminal endoskopisk operation på prostata eller sädesblåsor
+
+@END = 
+
+@KOODI_A = KE_
+
+@NCSP_A = KEX
+
+@SUOMI_A = Muut eturauhasen ja rakkularauhasten toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på prostata och sädesblåsor
+
+@ENGL_A = Other procedures of prostate and seminal vesicles
+
+@END = 
+
+@KOODI = KE1AT 
+
+@NCSP = KEXX00
+
+@SUOMI = Eturauhasen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Prostata, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = KE1CT 
+
+@NCSP = KEXX00
+
+@SUOMI = Eturauhasen kudosnäytteen otto TT-ohjauksessa
+
+@RUOTSI = Prostata, DT-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TKE00 
+
+@NCSP = KEXX00
+
+@SUOMI = Neulakudosnäytteen otto eturauhasesta
+
+@RUOTSI = Punktionsbiopsi av prostata
+
+@NOTE_F = Ultraääniohjauksessa, katso KE1AT
+
+@NOTE_S = Ultraljudsutstyrd, se KE1AT
+
+@END = 
+
+@KOODI = KE2AT 
+
+@NCSP = KEXX02
+
+@SUOMI = Eturauhasen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Prostata, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = KE2CT 
+
+@NCSP = KEXX02
+
+@SUOMI = Eturauhasen solunäytteen otto TT-ohjauksessa
+
+@RUOTSI = Prostata, DT-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = TKE05 
+
+@NCSP = KEXX02
+
+@SUOMI = Ohutneulanäytteen ottaminen eturauhasesta
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av prostata
+
+@NOTE_F = Ultraääniohjauksessa, katso KE2AT
+
+@NOTE_S = Ultraljudsutstyrd, se KE2AT
+
+@END = 
+
+@KOODI = TKE10 
+
+@NCSP = KEXX10
+
+@SUOMI = Eturauhaspisto
+
+@RUOTSI = Punktion/dränage av prostata
+
+@NOTE_F = sis. kanavoinnin
+
+@END = 
+
+@KOODI_R = KF
+
+@SUOMI_R = Kivekset ja siemenjohtimet
+
+@RUOTSI_R = Skrotum och skrotalinnehållet
+
+@ENGL_R = Scrotum and scrotal organs
+
+@END = 
+
+@KOODI_A = KF_
+
+@NCSP_A = KFD
+
+@SUOMI_A = Kivesten ja kivespussin diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av testiklar och skrotum
+
+@ENGL_A = Diagnostic radiology of scrotum and scrotal organs
+
+@END = 
+
+@KOODI = KF8AE 
+
+@NCSP = KFDE8A
+
+@SUOMI = Kivespussin UÄ
+
+@RUOTSI = Skrotum, UL
+
+@END = 
+
+@KOODI_A = KF0
+
+@NCSP_A = KFO
+
+@SUOMI_A = Kivesten ja siemenjohtimien sädehoito
+
+@RUOTSI_A = Strålbehandling av testiklar och sädesledare
+
+@NOTE_RF = Imusolmukealueen sädehoito - PJ060
+
+@NOTE_RF =
+Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Strålbehandling av lymfkörtel området, se PJ060
+
+@NOTE_RS =
+Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = KF001 
+
+@NCSP = KFO001
+
+@SUOMI = Sädehoito kivesten ja siemenjohtimien  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i testiklar eller sädesledare
+
+@END = 
+
+@KOODI = KF002 
+
+@NCSP = KFO002
+
+@SUOMI = Radikaali kivesten ja siemenjohtimien  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i testiklar eller sädesledare
+
+@END = 
+
+@KOODI = KF003 
+
+@NCSP = KFO003
+
+@SUOMI = Sädehoito kivesten ja siemenjohtimien  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i testiklar eller sädesledare
+
+@END = 
+
+@KOODI = KF004 
+
+@NCSP = KFO004
+
+@SUOMI = Sädehoito kivesten ja siemenjohtimien  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i testiklar eller sädesledare
+
+@END = 
+
+@KOODI = KF029 
+
+@NCSP = KFO029
+
+@SUOMI = Sädehoito kivesten ja siemenjohtimien  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i testiklar eller sädesledare
+
+@END = 
+
+@KOODI = KF049 
+
+@NCSP = KFO049
+
+@SUOMI = Sädehoito kiveksissä tai siemenjohtimissa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i testiklar eller sädesledare
+
+@END = 
+
+@KOODI = KF090 
+
+@NCSP = KFO090
+
+@SUOMI = Sädehoito kivesten ja siemenjohtimien  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av  testiklar och sädesledare
+
+@END = 
+
+@KOODI = KF099 
+
+@NCSP = KFO099
+
+@SUOMI = Muu kivesten ja siemenjohtimien sädehoito
+
+@RUOTSI = Annan strålbehandling av  testiklar och sädesledare
+
+@END = 
+
+@KOODI_A = KFA
+
+@NCSP_A = KFSA
+
+@SUOMI_A = Kivesten ja siemenjohtimien tutkimusleikkaukset
+
+@RUOTSI_A = Exploration av skrotum och skrotalinnehållet
+
+@ENGL_A = Exploration and incision of scrotum and scrotal organs
+
+@END = 
+
+@KOODI = KFA00 
+
+@NCSP = KFSA00
+
+@SUOMI = Kiveksen tutkimusleikkaus
+
+@RUOTSI = Exploration av testis
+
+@END = 
+
+@KOODI = KFA10 
+
+@NCSP = KFSA10
+
+@SUOMI = Kiveksen aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Explorativ orkidotomi
+
+@END = 
+
+@KOODI = KFA20 
+
+@NCSP = KFSA20
+
+@SUOMI = Lisäkiveksen aukaisu tutkimustarkoituksessa
+
+@RUOTSI = Explorativ incision av epididymis
+
+@END = 
+
+@KOODI = KFA30 
+
+@NCSP = KFSA30
+
+@SUOMI = Siemenjohtimen aukaisu
+
+@RUOTSI = Incision av sädesledare
+
+@END = 
+
+@KOODI = KFA40 
+
+@NCSP = KFSA40
+
+@SUOMI = Kivespussin aukaisu
+
+@RUOTSI = Incision av skrotum
+
+@NOTE_F = sis. kanavoinnin
+
+@NOTE_S = Inkl ev dränage
+
+@END = 
+
+@KOODI = KFA50 
+
+@NCSP = KFSA50
+
+@SUOMI = Vierasesineen poistaminen kivespussista
+
+@RUOTSI = Avlägsnande av främmande kropp från skrotum
+
+@END = 
+
+@KOODI = KFA96 
+
+@NCSP = KFSA96
+
+@SUOMI = Muu kivesten ja siemenjohtimien tutkimusleikkaus
+
+@RUOTSI = Annan exploration av skrotalinnehåll
+
+@END = 
+
+@KOODI_A = KFB
+
+@NCSP_A = KFSB
+
+@SUOMI_A = Koepalan otot kiveksistä tai siemenjohtimista
+
+@RUOTSI_A = Biopsi av testiklar, bitestiklar och sädesledare
+
+@ENGL_A = Biopsy of testis, epididymis and vas deferens
+
+@END = 
+
+@KOODI = KFB00 
+
+@NCSP = KFSB00
+
+@SUOMI = Koepalan otto kiveksestä
+
+@RUOTSI = Biopsi av testis
+
+@END = 
+
+@KOODI = KFB10 
+
+@NCSP = KFSB10
+
+@SUOMI = Koepalan otto lisäkiveksestä
+
+@RUOTSI = Biopsi av epididymis
+
+@END = 
+
+@KOODI = KFB20 
+
+@NCSP = KFSB20
+
+@SUOMI = Koepalan otto siemenjohtimesta
+
+@RUOTSI = Biopsi av vas deferens
+
+@END = 
+
+@KOODI = KFB96 
+
+@NCSP = KFSB96
+
+@SUOMI = Koepalan otto muusta kivespussin elinmestä
+
+@RUOTSI = Biopsi från annat skrotalt organ
+
+@END = 
+
+@KOODI_A = KFC
+
+@NCSP_A = KFSC
+
+@SUOMI_A = Kivesten ja siemenjohtimien osien poistot
+
+@RUOTSI_A = Totalexstirpation av testiklar och bitestiklar
+
+@ENGL_A = Total excision of testis and epididymis
+
+@END = 
+
+@KOODI = KFC00 
+
+@NCSP = KFSC00
+
+@SUOMI = Toisen kiveksen poisto
+
+@RUOTSI = Unilateral orkidektomi
+
+@NOTE_F = Sisältää samanaikaisen lisäkiveksen poiston
+
+@NOTE_S = Inkl samtidig exstirpation av bitestikel
+
+@END = 
+
+@KOODI = KFC10 
+
+@NCSP = KFSC10
+
+@SUOMI = Molempien kivesten poisto
+
+@RUOTSI = Bilateral orkidektomi
+
+@NOTE_F = Sisältää samanaikaisen lisäkivesten poiston ja kivesten subkapsulaarisen poiston.
+
+@NOTE_S = Inkl samtidig exstirpation av bitestiklarna och bilateral subkapsulär orkiektomi
+
+@END = 
+
+@KOODI = KFC60 
+
+@NCSP = KFSC60
+
+@SUOMI = Lisäkiveksen poisto
+
+@RUOTSI = Epididymektomi
+
+@END = 
+
+@KOODI = KFC96 
+
+@NCSP = KFSC96
+
+@SUOMI = Muu täydellinen kivesten ja/tai lisäkivesten poistoleikkaus
+
+@RUOTSI = Annan total exstirpation av testiklar eller bitestiklar
+
+@END = 
+
+@KOODI_A = KFD
+
+@NCSP_A = KFSD
+
+@SUOMI_A = Kivespussin elinten ja muutosten poistoleikkaukset
+
+@RUOTSI_A = Delresektion av skrotala strukturer
+
+@ENGL_A = Partial excision of scrotal organs
+
+@END = 
+
+@KOODI = KFD00 
+
+@NCSP = KFSD00
+
+@SUOMI = Kiveksen osan poisto
+
+@RUOTSI = Delresektion av testis
+
+@END = 
+
+@KOODI = KFD16 
+
+@NCSP = KFSD16
+
+@SUOMI = Lisäkiveksen osan poisto
+
+@RUOTSI = Delresektion av epididymis
+
+@NOTE_F = Sisältää spermatoselen poiston
+
+@NOTE_S = Inkl excision av spermatocele
+
+@END = 
+
+@KOODI = KFD20 
+
+@NCSP = KFSD20
+
+@SUOMI = Vesikivesleikkaus
+
+@RUOTSI = Operation för hydrocele testis
+
+@END = 
+
+@KOODI = KFD26 
+
+@NCSP = KFSD26
+
+@SUOMI = Siemennuoran vesikohjun leikkaus
+
+@RUOTSI = Operation för hydrocele funiculi
+
+@END = 
+
+@KOODI = KFD30 
+
+@NCSP = KFSD30
+
+@SUOMI = Siemenkohjun leikkaus
+
+@RUOTSI = Operation för spermatocele
+
+@END = 
+
+@KOODI = KFD43 
+
+@NCSP = KFSD43
+
+@SUOMI = Toisen siemenjohtimen katkaisu tai poisto
+
+@RUOTSI = Unilateral delning/resektion av vas deferens
+
+@END = 
+
+@KOODI = KFD44 
+
+@NCSP = KFSD44
+
+@SUOMI = Toisen siemenjohtimen tukkiminen sitomalla
+
+@RUOTSI = Unilateral obliteration av ductus deferens genom ligatur
+
+@END = 
+
+@KOODI = KFD46 
+
+@NCSP = KFSD46
+
+@SUOMI = Molempien siemenjohtimien katkaisu tai poisto
+
+@RUOTSI = Bilateral delning/resektion av vas deferens
+
+@NOTE_F = esim. sterilisaatio
+
+@NOTE_S = Inkl steriliseringsoperation
+
+@END = 
+
+@KOODI = KFD47 
+
+@NCSP = KFSD47
+
+@SUOMI = Molempien siemenjohtimien tukkiminen sitomalla
+
+@RUOTSI = Bilateral ligatur av ductus deferens
+
+@END = 
+
+@KOODI = KFD50 
+
+@NCSP = KFSD50
+
+@SUOMI = Siemennuoran laskimon sitominen
+
+@RUOTSI = Ligatur av v. spermatica
+
+@END = 
+
+@KOODI = KFD51 
+
+@NCSP = KFSD51
+
+@SUOMI = Siemennuoran laskimon katkaisu tai poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk resektion/ligatur av v. spermatica
+
+@NOTE_F = Puoli voidaan ilmaista lisäkoodilla ryhmästä ZXA
+
+@NOTE_S = Höger/vänster/bilateral anges med tilläggskod, se ZXA
+
+@END = 
+
+@KOODI = KFD56 
+
+@NCSP = KFSD56
+
+@SUOMI = Siemennuoran suonikohjun poisto
+
+@RUOTSI = Exstirpation av varicocele
+
+@END = 
+
+@KOODI = KFD60 
+
+@NCSP = KFSD60
+
+@SUOMI = Kivespussiavanteen poisto
+
+@RUOTSI = Excision av skrotalfistel
+
+@END = 
+
+@KOODI = KFD96 
+
+@NCSP = KFSD96
+
+@SUOMI = Muu kivesten ja/tai siemenjohtimien osan poistoleikkaus
+
+@RUOTSI = Annan resektion av skrotalinnehåll
+
+@END = 
+
+@KOODI_A = KFH
+
+@NCSP_A = KFSH
+
+@SUOMI_A = Kivesten, lisäkivesten ja siemenjohtimien korjaavat leikkaukset
+
+@RUOTSI_A = Rekonstruktiva operationer på testiklar, bitestiklar och sädesledare
+
+@ENGL_A = Reconstructive operations on testis, epididymis and vas deferens
+
+@END = 
+
+@KOODI = KFH00 
+
+@NCSP = KFSH00
+
+@SUOMI = Laskeutumattoman tai virhesijantikiveksen korjaus
+
+@RUOTSI = Operation för kryptorkism (retentio testis, ectopia testis)
+
+@NOTE_F = Erillinen kiveksen kiinnittäminen kohdassa KFH10
+
+@NOTE_S = Exkl enkel orkidopexi av descenderad testikel, KFH10
+
+@END = 
+
+@KOODI = KFH10 
+
+@NCSP = KFSH10
+
+@SUOMI = Kiveksen kiinnittäminen
+
+@RUOTSI = Orkidopexi
+
+@END = 
+
+@KOODI = KFH20 
+
+@NCSP = KFSH20
+
+@SUOMI = Siemenjohtimen kiertymän korjaus
+
+@RUOTSI = Operation för testistorsion
+
+@NOTE_F = sis. kiveksen kiinnityksen
+
+@NOTE_S = Inkl detorsion och pexi
+
+@END = 
+
+@KOODI = KFH30 
+
+@NCSP = KFSH30
+
+@SUOMI = Siemenjohtimen yhdistäminen
+
+@RUOTSI = Vaso-vasostomi
+
+@END = 
+
+@KOODI = KFH40 
+
+@NCSP = KFSH40
+
+@SUOMI = Siemenjohtimen ja lisäkiveksen yhdistäminen
+
+@RUOTSI = Vaso-epididymostomi
+
+@END = 
+
+@KOODI = KFH50 
+
+@NCSP = KFSH50
+
+@SUOMI = Tekokiveksen asettaminen
+
+@RUOTSI = Implantation av testisprotes
+
+@END = 
+
+@KOODI = KFH96 
+
+@NCSP = KFSH96
+
+@SUOMI = Muu kivesten ja/tai siemenjohtimien korjausleikkaus
+
+@RUOTSI = Annan rekonstruktiv operation på testiklar, bitestiklar eller sädesledare
+
+@END = 
+
+@KOODI_A = KFW
+
+@NCSP_A = KFSW
+
+@SUOMI_A = Muut kivesten ja siemenjohtimien leikkaukset
+
+@RUOTSI_A = Andra operationer på skrotum och skrotalinnehållet
+
+@ENGL_A = Other operations on scrotum and scrotal organs
+
+@END = 
+
+@KOODI = KFW96 
+
+@NCSP = KFSW96
+
+@SUOMI = Muu kivespussin tai sen sisältämien elinten leikkaus
+
+@RUOTSI = Annan operation på skrotum eller skrotalinnehåll
+
+@END = 
+
+@KOODI_A = KF_
+
+@NCSP_A = KFX
+
+@SUOMI_A = Kivesten ja kivespussin muut toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på testklar och skrotum
+
+@ENGL_A = Other procedures of scrotum and scrotal organs
+
+@END = 
+
+@KOODI = KF8KT 
+
+@NCSP = KFXT8K
+
+@SUOMI = Kivespussin skleroterapia
+
+@RUOTSI = Skrotum skleroterapi
+
+@END = 
+
+@KOODI = KF2AT 
+
+@NCSP = KFXX00
+
+@SUOMI = Kiveksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Testis, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = TKF00 
+
+@NCSP = KFXX00
+
+@SUOMI = Neulakudosnäytteen otto kiveksestä
+
+@RUOTSI = Punktionsbiopsi av testis
+
+@NOTE_F = Ultraääniohjauksessa, katso KF2AT
+
+@NOTE_S = Ultraljudsutstyrd, se KF2AT
+
+@END = 
+
+@KOODI = KF3AT 
+
+@NCSP = KFXX02
+
+@SUOMI = Kiveksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Testis, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = TKF05 
+
+@NCSP = KFXX02
+
+@SUOMI = Ohutneulanäytteen ottaminen kiveksestä
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av testikel
+
+@NOTE_F = Ultraääniohjauksessa, katso KF3AT
+
+@NOTE_S = Ultraljudsutstyrd, se KF3AT
+
+@END = 
+
+@KOODI = KF6AT 
+
+@NCSP = KFXX04
+
+@SUOMI = Lisäkiveksen kudosnäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Bitestikel, UL-styrd vävnadsbiopsi
+
+@END = 
+
+@KOODI = KF7AT 
+
+@NCSP = KFXX06
+
+@SUOMI = Lisäkiveksen solunäytteen otto UÄ-ohjauksessa
+
+@RUOTSI = Bitestikel, UL-styrd finnålsbiopsi
+
+@END = 
+
+@KOODI = KF1AT 
+
+@NCSP = KFXX10
+
+@SUOMI = Kivespunktio UÄ-ohjauksessa
+
+@RUOTSI = Testispunktion, UL-styrd
+
+@END = 
+
+@KOODI = TKF10 
+
+@NCSP = KFXX10
+
+@SUOMI = Kivespisto
+
+@RUOTSI = Perkutan punktion/dränage av testikel
+
+@NOTE_F = Sisältää kanavoinnin
+
+@NOTE_F =
+Ultraääniohjauksessa, katso KF1AT
+
+@NOTE_S = Inkl ev dränage
+
+@NOTE_S =
+Ultraljudsutstyrd, se KF1AT
+
+@END = 
+
+@KOODI = KF5AT 
+
+@NCSP = KFXX12
+
+@SUOMI = Lisäkivespunktio UÄ-ohjauksessa
+
+@RUOTSI = Bitestikel, UL-styrd punktion
+
+@END = 
+
+@KOODI = TKF20 
+
+@NCSP = KFXX20
+
+@SUOMI = Neulakudosnäytteen otto lisäkiveksestä
+
+@RUOTSI = Punktionsbiopsi av epididymidis
+
+@NOTE_F = Ultraääniohjauksessa, katso KF6AT
+
+@NOTE_S = Ultraljudsutstyrd, se KF6AT
+
+@END = 
+
+@KOODI = TKF25 
+
+@NCSP = KFXX25
+
+@SUOMI = Ohutneulanäytteen ottaminen lisäkiveksestä
+
+@RUOTSI = Finnålsbiopsi (aspirationscytologi) av epididymis
+
+@NOTE_F = Ultraääniohjauksessa, katso KF7AT
+
+@NOTE_S = Ultraljudsutstyrd, se KF7AT
+
+@END = 
+
+@KOODI = TKF30 
+
+@NCSP = KFXX30
+
+@SUOMI = Lisäkivespisto
+
+@RUOTSI = Perkutan punktion/dränage av epididymis
+
+@NOTE_F = Sisältää kanavoinnin
+
+@NOTE_F =
+Ultraääniohjauksessa, katso KF5AT
+
+@NOTE_S = Inkl ev dränage
+
+@NOTE_S =
+Ultraljudsutstyrd, se KF5AT
+
+@END = 
+
+@KOODI = KF8AT 
+
+@NCSP = KFXX60
+
+@SUOMI = Kivespussin punktio UÄ-ohjauksessa
+
+@RUOTSI = Skrotum, UL-styrd punktion
+
+@END = 
+
+@KOODI = TKF60 
+
+@NCSP = KFXX60
+
+@SUOMI = Kivespussin pisto
+
+@RUOTSI = Punktion av skrotum
+
+@NOTE_F = Ultraääniohjauksessa, katso KF8AT
+
+@NOTE_S = Ultraljudsutstyrd, se KF8AT
+
+@END = 
+
+@KOODI_R = KG
+
+@SUOMI_R = Siitin
+
+@RUOTSI_R = Penis
+
+@ENGL_R = Penis
+
+@END = 
+
+@KOODI_A = KG_
+
+@NCSP_A = KGD
+
+@SUOMI_A = Siittimen diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av penis
+
+@ENGL_A = Diagnostic radiology of penis
+
+@END = 
+
+@KOODI = KG1AE 
+
+@NCSP = KGDE1A
+
+@SUOMI = Siittimen UÄ
+
+@RUOTSI = Penis, UL
+
+@END = 
+
+@KOODI_A = KG_
+
+@NCSP_A = KGF
+
+@SUOMI_A = Muut siittimen diagostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder på penis
+
+@ENGL_A = Other diagnostic procedures of penis
+
+@END = 
+
+@KOODI = XKG10 
+
+@NCSP = KGF000
+
+@SUOMI = Siittimen verenvirtauksen mittaus
+
+@RUOTSI = Mätning av blodflödet i penis
+
+@END = 
+
+@KOODI_A = KG0
+
+@NCSP_A = KGO
+
+@SUOMI_A = Siittimen sädehoito
+
+@RUOTSI_A = Strålbehandling av penis
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = KG001 
+
+@NCSP = KGO001
+
+@SUOMI = Sädehoito siittimen  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i penis
+
+@END = 
+
+@KOODI = KG002 
+
+@NCSP = KGO002
+
+@SUOMI = Radikaali siittimen  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i penis
+
+@END = 
+
+@KOODI = KG003 
+
+@NCSP = KGO003
+
+@SUOMI = Sädehoito siittimen  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i penis
+
+@END = 
+
+@KOODI = KG004 
+
+@NCSP = KGO004
+
+@SUOMI = Sädehoito siittimen  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i penis
+
+@END = 
+
+@KOODI = KG029 
+
+@NCSP = KGO029
+
+@SUOMI = Sädehoito siittimen  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i penis
+
+@END = 
+
+@KOODI = KG049 
+
+@NCSP = KGO049
+
+@SUOMI = Sädehoito siittimessä ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i penis
+
+@END = 
+
+@KOODI = KG090 
+
+@NCSP = KGO090
+
+@SUOMI = Sädehoito siittimen  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av primärtumör i penis
+
+@END = 
+
+@KOODI = KG099 
+
+@NCSP = KGO099
+
+@SUOMI = Muu siittimen sädehoito
+
+@RUOTSI = Annan strålbehandling av primärtumör i penis
+
+@END = 
+
+@KOODI_A = KGA
+
+@NCSP_A = KGSA
+
+@SUOMI_A = Siittimen tutkimusleikkaukset
+
+@RUOTSI_A = Exploration och incision av penis
+
+@ENGL_A = Exploration and incision of penis
+
+@END = 
+
+@KOODI = KGA00 
+
+@NCSP = KGSA00
+
+@SUOMI = Siittimen aukaisu
+
+@RUOTSI = Incision av penis
+
+@END = 
+
+@KOODI = KGA10 
+
+@NCSP = KGSA10
+
+@SUOMI = Esinahan aukaisu
+
+@RUOTSI = Incision av preputium
+
+@END = 
+
+@KOODI = KGA96 
+
+@NCSP = KGSA96
+
+@SUOMI = Muu siittimen tutkimusleikkaus
+
+@RUOTSI = Annan exploration eller incision av penis
+
+@END = 
+
+@KOODI_A = KGB
+
+@NCSP_A = KGSB
+
+@SUOMI_A = Koepalan otot siittimestä
+
+@RUOTSI_A = Biopsi av penis
+
+@ENGL_A = Biopsy of penis
+
+@END = 
+
+@KOODI = KGB00 
+
+@NCSP = KGSB00
+
+@SUOMI = Koepalan otto siittimestä
+
+@RUOTSI = Biopsi av penis
+
+@END = 
+
+@KOODI_A = KGC
+
+@NCSP_A = KGSC
+
+@SUOMI_A = Siittimen katkaisu tai poisto
+
+@RUOTSI_A = Amputation eller total exstirpation av penis
+
+@ENGL_A = Amputation of penis
+
+@END = 
+
+@KOODI = KGC00 
+
+@NCSP = KGSC00
+
+@SUOMI = Siittimen katkaisu
+
+@RUOTSI = Partiell amputation av penis
+
+@NOTE_F = Osittainen amputaatio
+
+@END = 
+
+@KOODI = KGC10 
+
+@NCSP = KGSC10
+
+@SUOMI = Siittimen poisto kokonaan
+
+@RUOTSI = Total exstirpation av penis
+
+@END = 
+
+@KOODI_A = KGD
+
+@NCSP_A = KGSD
+
+@SUOMI_A = Siittimen osien ja paikallisten muutosten poistot
+
+@RUOTSI_A = Resektion av penis och destruktion av lokal förändring på penis
+
+@ENGL_A = Partial excision of penis and destruction of lesion of penis
+
+@END = 
+
+@KOODI = KGD00 
+
+@NCSP = KGSD00
+
+@SUOMI = Terskan osan poisto
+
+@RUOTSI = Resektion av glans penis
+
+@END = 
+
+@KOODI = KGD05 
+
+@NCSP = KGSD05
+
+@SUOMI = Siittimen varren osittainen poisto
+
+@RUOTSI = Resektion av penisskaftet
+
+@END = 
+
+@KOODI = KGD10 
+
+@NCSP = KGSD10
+
+@SUOMI = Siittimen paikallisen muutoksen poltto tai laser
+
+@RUOTSI = Destruktion av lokal förändring på penis
+
+@END = 
+
+@KOODI = KGD96 
+
+@NCSP = KGSD96
+
+@SUOMI = Muu siittimen osittainen poisto
+
+@RUOTSI = Annan delresektion av penis
+
+@END = 
+
+@KOODI_A = KGF
+
+@NCSP_A = KGSF
+
+@SUOMI_A = Vierasesineiden poistot siittimestä
+
+@RUOTSI_A = Avlägsnande av främmande kropp från penis
+
+@ENGL_A = Removal of foreign body from penis
+
+@END = 
+
+@KOODI = KGF00 
+
+@NCSP = KGSF00
+
+@SUOMI = Vierasesineen poisto siittimestä
+
+@RUOTSI = Avlägsnande av främmande kropp från penis
+
+@END = 
+
+@KOODI_A = KGH
+
+@NCSP_A = KGSH
+
+@SUOMI_A = Siittimen korjaavat toimenpiteet ja muovausleikkaukset
+
+@RUOTSI_A = Rekonstruktiva ingrepp på penis
+
+@ENGL_A = Reconstructive operations on penis
+
+@END = 
+
+@KOODI = KGH00 
+
+@NCSP = KGSH00
+
+@SUOMI = Siittimen ompelu
+
+@RUOTSI = Sutur av penis
+
+@END = 
+
+@KOODI = KGH10 
+
+@NCSP = KGSH10
+
+@SUOMI = Esinahan ahtauden korjausleikkaus
+
+@RUOTSI = Operation för fimos
+
+@END = 
+
+@KOODI = KGH20 
+
+@NCSP = KGSH20
+
+@SUOMI = Siittimen sidekudoskovettumien tai käyristymän korjaus (Nesbit)
+
+@RUOTSI = Operation för induratio penis plastica eller penis arcuata (Nesbit)
+
+@NOTE_F = Induratio plastica, penis arcuata
+
+@END = 
+
+@KOODI = KGH30 
+
+@NCSP = KGSH30
+
+@SUOMI = Siittimen laskimon poisto tai sitominen
+
+@RUOTSI = Ligatur/resektion av ven från penis
+
+@END = 
+
+@KOODI = KGH33 
+
+@NCSP = KGSH33
+
+@SUOMI = Siittimen valtimoverenkierron korjaaminen
+
+@RUOTSI = Operation på penisartärer
+
+@END = 
+
+@KOODI = KGH40 
+
+@NCSP = KGSH40
+
+@SUOMI = Priapismin vuoksi tehty leikkaus
+
+@RUOTSI = Operation för priapism
+
+@END = 
+
+@KOODI = KGH50 
+
+@NCSP = KGSH50
+
+@SUOMI = Paisuvaiskudoksen avanteen sulku
+
+@RUOTSI = Tillslutning av spongio-kavernös fistel
+
+@END = 
+
+@KOODI = KGH61 
+
+@NCSP = KGSH61
+
+@SUOMI = Siittimen kärkiosan alahalkion korjaus
+
+@RUOTSI = Rekonstruktion vid distal hypospadi (hypospadia glandis)
+
+@END = 
+
+@KOODI = KGH62 
+
+@NCSP = KGSH62
+
+@SUOMI = Siittimen tyven alahalkion kokonaiskorjaus
+
+@RUOTSI = Rekonstruktion av proximal (penil, penoskrotal, perineal) hypospadi i en seans
+
+@END = 
+
+@KOODI = KGH64 
+
+@NCSP = KGSH64
+
+@SUOMI = Siittimen tyven alahalkion vaiheittaisen korjauksen I vaihe
+
+@RUOTSI = Första fasen i fler-seans-rekonstruktion av proximal hypospadi
+
+@END = 
+
+@KOODI = KGH65 
+
+@NCSP = KGSH65
+
+@SUOMI = Siittimen tyven alahalkion vaiheittaisen korjauksen II vaihe
+
+@RUOTSI = Andra fasen i fler-seans-rekonstruktion av proximal hypospadi
+
+@END = 
+
+@KOODI = KGH69 
+
+@NCSP = KGSH69
+
+@SUOMI = Muu siittimen alahalkioisuuden korjausleikkaus
+
+@RUOTSI = Annan operation för hypospadi
+
+@END = 
+
+@KOODI = KGH70 
+
+@NCSP = KGSH70
+
+@SUOMI = Siittimen ylähalkion korjaus
+
+@RUOTSI = Rekonstruktion av epispadi
+
+@END = 
+
+@KOODI = KGH80 
+
+@NCSP = KGSH80
+
+@SUOMI = Siittimen ihon muovausleikkaus
+
+@RUOTSI = Plastisk operation på penishuden
+
+@END = 
+
+@KOODI = KGH90 
+
+@NCSP = KGSH90
+
+@SUOMI = Siittimen muodostaminen sukupuolivaihdoksen yhteydessä
+
+@RUOTSI = Konstruktion av penis vid könsbyte
+
+@END = 
+
+@KOODI = KGH96 
+
+@NCSP = KGSH96
+
+@SUOMI = Muu siittimen korjaava tai muovausleikkaus
+
+@RUOTSI = Annan rekonstruktiv/plastisk operation på penis
+
+@END = 
+
+@KOODI_A = KGV
+
+@NCSP_A = KGSV
+
+@SUOMI_A = Muita siittimen toimenpiteitä
+
+@RUOTSI_A = Diverse åtgärder på penis
+
+@ENGL_A = Miscellaneous operations on penis
+
+@END = 
+
+@KOODI = KGV00 
+
+@NCSP = KGSV00
+
+@SUOMI = Terskan kurouman palauttaminen
+
+@RUOTSI = Operation/manipulation vid parafimosis
+
+@NOTE_F = Fimoosin reponoiminen
+
+@NOTE_S = Reponering av fimos
+
+@END = 
+
+@KOODI = KGV10 
+
+@NCSP = KGSV10
+
+@SUOMI = Esinahan kiinnikkeiden irrottelu
+
+@RUOTSI = Lösning av preputiala adherenser
+
+@END = 
+
+@KOODI = KGV20 
+
+@NCSP = KGSV20
+
+@SUOMI = Ympärileikkaus uskonnollisista syistä
+
+@RUOTSI = Rituell cirkumcision
+
+@END = 
+
+@KOODI = KGV30 
+
+@NCSP = KGSV30
+
+@SUOMI = Erektioproteesin asettaminen
+
+@RUOTSI = Implantation av erektionsprotes
+
+@END = 
+
+@KOODI = KGV40 
+
+@NCSP = KGSV40
+
+@SUOMI = Erektioproteesin korjausleikkaus
+
+@RUOTSI = Revision av erektionsprotes
+
+@END = 
+
+@KOODI = KGV50 
+
+@NCSP = KGSV50
+
+@SUOMI = Erektioproteesin poisto
+
+@RUOTSI = Avlägsnande av erektionsprotes
+
+@END = 
+
+@KOODI_A = KGW
+
+@NCSP_A = KGSW
+
+@SUOMI_A = Muut siittimen leikkaukset
+
+@RUOTSI_A = Andra operationer på penis
+
+@ENGL_A = Other operations on penis
+
+@END = 
+
+@KOODI = KGW96 
+
+@NCSP = KGSW96
+
+@SUOMI = Muu siittimen leikkaus
+
+@RUOTSI = Annan operation på penis
+
+@END = 
+
+@KOODI_A = KG_
+
+@NCSP_A = KGX
+
+@SUOMI_A = Muut siittimen toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på penis
+
+@ENGL_A = Other procedures of penis
+
+@END = 
+
+@KOODI = XKG00 
+
+@NCSP = KGXG00
+
+@SUOMI = Keinotekoisesti aiheutettu erektio
+
+@RUOTSI = Framkallande av artificiell erektion
+
+@END = 
+
+@KOODI_R = KH
+
+@SUOMI_R = Virtsateiden toimenpiteet ilman tarkemin määritettyä sijaintia
+
+@RUOTSI_R = Åtgärder på urinvägar utan närmareangiven lokalisation
+
+@ENGL_R = Procedures of urinary tract without specified location
+
+@END = 
+
+@KOODI_A = KH_
+
+@NCSP_A = KHD
+
+@SUOMI_A = Virtsateiden diagnostinen radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av urinvägar
+
+@ENGL_A = Other diagnostic radiology of urinary tract
+
+@NOTE_RF = Ei sisällä tarkemmin määriteltyjen osien tutkimuksia
+
+@NOTE_RS = Utesluter undersökning i definierade lokalisationer av urinvägar
+
+@END = 
+
+@KOODI = KH1AA 
+
+@NCSP = KHDA1A
+
+@SUOMI = Virtsateiden natiiviröntgen
+
+@RUOTSI = Översikt av urinvägarna, röntgen
+
+@END = 
+
+@KOODI = KH1LA 
+
+@NCSP = KHDA1L
+
+@SUOMI = Virtsateiden läpivalaisu ja natiiviröntgen
+
+@RUOTSI = Genomlysning och bild av urinvägarna utan kontrastmedel
+
+@END = 
+
+@KOODI = KH1CB 
+
+@NCSP = KHDB1C
+
+@SUOMI = Virtsateiden varjoainetutkimus (urografia)
+
+@RUOTSI = Urografi
+
+@END = 
+
+@KOODI = KH1JB 
+
+@NCSP = KHDB1J
+
+@SUOMI = Virtsateiden akuutti varjoainetutkimus (akuutti urografia)
+
+@RUOTSI = Urografi, akut
+
+@END = 
+
+@KOODI = KH1XB 
+
+@NCSP = KHDB1X
+
+@SUOMI = Virtsa- ja sukupuolielinten muu varjoainetutkimus
+
+@RUOTSI = Urogenitalorgan, annan kontrastundersökning
+
+@END = 
+
+@KOODI = KH1AD 
+
+@NCSP = KHDD1A
+
+@SUOMI = Virtsaelinten TT
+
+@RUOTSI = Urinorganen, DT
+
+@END = 
+
+@KOODI = KH1BD 
+
+@NCSP = KHDD1A
+
+@SUOMI = Virtsaelinten laaja TT
+
+@RUOTSI = Urinorganen, omfattande DT
+
+@END = 
+
+@KOODI = KH1CD 
+
+@NCSP = KHDD1A
+
+@SUOMI = Virtsaelinten erittäin laaja TT
+
+@RUOTSI = Urinorganen, mycket omfattande DT
+
+@END = 
+
+@KOODI = KH1AE 
+
+@NCSP = KHDE1A
+
+@SUOMI = Virtsaelinten UÄ
+
+@RUOTSI = Njurar och urinvägar, UL
+
+@END = 
+
+@KOODI_A = KH_
+
+@NCSP_A = KHX
+
+@SUOMI_A = Muut tarkemmin paikantamattomat virtsateiden toimenpiteet
+
+@RUOTSI_A = Andra åtgärder på urinvägar utan närmare angiven lokalisation
+
+@ENGL_A = Other procedures of urinarytract without specified localisaation
+
+@END = 
+
+@KOODI = KH1YT 
+
+@NCSP = KHXT1Y
+
+@SUOMI = Virtsateiden endoproteesin laitto iholta radiologisessa ohjauksessa
+
+@RUOTSI = Urinvägsendoprotes, radiologiskt styrd perkutan insättning
+
+@END = 
+
+@KOODI_R = KK
+
+@SUOMI_R = Vatsaontelon takainen tila
+
+@RUOTSI_R = Retroperitoneal vävnad
+
+@ENGL_R = Retroperitoneal space
+
+@END = 
+
+@KOODI_A = KK_
+
+@NCSP_A = KKD
+
+@SUOMI_A = Vatsaontelontakaisen tilan diagnostinen radiologia
+
+@RUOTSI_A = Retroperitoneal diagnostis radiologi
+
+@ENGL_A = Diagnostic radiology of retroperitoneal space
+
+@END = 
+
+@KOODI = KK1AE 
+
+@NCSP = KKDE1A
+
+@SUOMI = Retroperitoneumin UÄ
+
+@RUOTSI = Retroperitoneal UL
+
+@END = 
+
+@KOODI_A = KK0
+
+@NCSP_A = KKO
+
+@SUOMI_A = Vatsaontelon takaisen tilan sädehoito
+
+@RUOTSI_A = Strålbehandling av retroperitoneal vävnad
+
+@NOTE_RF = Sädehoidon tekniikka ilmaistaan tarvittaessa lisäkoodilla ryhmästä ZX0
+
+@NOTE_RS = Teknik av strålbehandling anges med kod från grupp ZXO
+
+@END = 
+
+@KOODI = KK001 
+
+@NCSP = KKO001
+
+@SUOMI = Sädehoito vatsaontelon takaisen tilan  primaarikasvaimen  preoperatiivisena hoitona
+
+@RUOTSI = Preoperativ strålbehandling av primärtumör i retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK002 
+
+@NCSP = KKO002
+
+@SUOMI = Radikaali vatsaontelon takaisen tilan  primaarikasvaimen sädehoito
+
+@RUOTSI = Radikal strålbehandling av primärtumör i retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK003 
+
+@NCSP = KKO003
+
+@SUOMI = Sädehoito vatsaontelon takaisen tilan  primaarikasvaimen liitännäishoitona
+
+@RUOTSI = Adjuvant strålbehandling av primärtumör i retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK004 
+
+@NCSP = KKO004
+
+@SUOMI = Sädehoito vatsaontelon takaisen tilan  primaarikasvaimen palliatiivisena hoitona
+
+@RUOTSI = Palliativ strålbehandling av primärtumör i retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK029 
+
+@NCSP = KKO029
+
+@SUOMI = Sädehoito vatsaontelon takaisen tilan  paikallisesti uusineen kasvaimen hoitona
+
+@RUOTSI = Strålbehandling av lokalt recidivtumör i retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK049 
+
+@NCSP = KKO049
+
+@SUOMI = Sädehoito vatsaontelon takaisessa tilassa ilmenneen etäpesäkkeen hoitona
+
+@RUOTSI = Strålbehandling av metastas i retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK090 
+
+@NCSP = KKO090
+
+@SUOMI = Sädehoito vatsaontelon takaisen tilan  profylaktisena hoitona
+
+@RUOTSI = Profylaktisk strålbehandling av retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KK099 
+
+@NCSP = KKO099
+
+@SUOMI = Muu vatsaontelon takaisen tilan sädehoito
+
+@RUOTSI = Annan strålbehandling av retroperitoneal vävnad
+
+@END = 
+
+@KOODI_A = KKA
+
+@NCSP_A = KKSA
+
+@SUOMI_A = Vatsaontelon takaisen tilan, retroperitoneaalitilan, tutkimusleikkaukset
+
+@RUOTSI_A = Exploration/incision/biopsi av det retroperitoneala rummet
+
+@ENGL_A = Exploration, incision and biopsy of retroperitoneal space
+
+@END = 
+
+@KOODI = KKA00 
+
+@NCSP = KKSA00
+
+@SUOMI = Vatsaontelon takaisen tilan tutkimusleikkaus
+
+@RUOTSI = Exploration av retroperitoneala rummet
+
+@END = 
+
+@KOODI = KKA01 
+
+@NCSP = KKSA01
+
+@SUOMI = Retroperitoneaalitilan transkutaaninen tutkimus
+
+@RUOTSI = Transkutan undersökning av retroperitoneala rummet
+
+@END = 
+
+@KOODI = KKA10 
+
+@NCSP = KKSA10
+
+@SUOMI = Koepalan otto vatsaontelon takaisista kudoksista
+
+@RUOTSI = Öppen biopsi av retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KKA11 
+
+@NCSP = KKSA11
+
+@SUOMI = Koepalan otto vatsaontelon takaisista kudoksista tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk biopsi av retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KKA20 
+
+@NCSP = KKSA20
+
+@SUOMI = Vatsaontelon takaisen tilan aukaisu
+
+@RUOTSI = Incision av retroperitoneala rummet
+
+@NOTE_F = Sisältää kanavoinnin
+
+@NOTE_S = Inkl ev dränage
+
+@END = 
+
+@KOODI = KKA21 
+
+@NCSP = KKSA21
+
+@SUOMI = Vatsaontelon takaisen tilan kanavointi tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopisk inläggande av dränage i retroperitoneala rummet
+
+@END = 
+
+@KOODI_A = KKB
+
+@NCSP_A = KKSB
+
+@SUOMI_A = Vatsaontelon takaisen tilan paikallisen muutosten poisto
+
+@RUOTSI_A = Excision av retroperitoneal förändring
+
+@ENGL_A = Excision of lesion of retroperitoneal space
+
+@END = 
+
+@KOODI = KKB10 
+
+@NCSP = KKSB10
+
+@SUOMI = Vatsaontelon takaseinän kasvaimen poisto
+
+@RUOTSI = Öppen excision av retroperitoneal förändring/tumör
+
+@END = 
+
+@KOODI = KKB11 
+
+@NCSP = KKSB11
+
+@SUOMI = Vatsaontelon takaseinän kasvaimen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk excision av retroperitoneal förändring
+
+@END = 
+
+@KOODI = KKB20 
+
+@NCSP = KKSB20
+
+@SUOMI = Vatsaontelon takaisesta tilasta tulevan avanteen poisto
+
+@RUOTSI = Öppen excision av retroperitoneal fistel
+
+@END = 
+
+@KOODI = KKB21 
+
+@NCSP = KKSB21
+
+@SUOMI = Vatsaontelon takaisesta tilasta tulevan avanteen poisto tähystyksessä iholta
+
+@RUOTSI = Perkutan endoskopisk excision av retroperitoneal fistel
+
+@END = 
+
+@KOODI_A = KKF
+
+@NCSP_A = KKSF
+
+@SUOMI_A = Vierasesineen poisto vatsaontelon takaisista
+
+@RUOTSI_A = Avlägsnande av främmande kropp från retroperitoneala rummet
+
+@ENGL_A = Removal of foreign body of retroperitoneal space
+
+@END = 
+
+@KOODI = KKF00 
+
+@NCSP = KKSF00
+
+@SUOMI = Vierasesineen poisto vatsaontelon takaisista kudoksista
+
+@RUOTSI = Avlägsnande av främmande kropp från retroperitoneum (öppen operation)
+
+@END = 
+
+@KOODI = KKF01 
+
+@NCSP = KKSF01
+
+@SUOMI = Vierasesineen poisto vatsaontelon takaisista kudoksista tähystyksessä iholta
+
+@RUOTSI = Perkutant endoskopiskt avlägsnande av främmande kropp från retroperitoneum
+
+@END = 
+
+@KOODI_A = KKW
+
+@NCSP_A = KKSW
+
+@SUOMI_A = Muut vatsaontelon takaisen tilan leikkaukset
+
+@RUOTSI_A = Andra operationer på retroperitoneal vävnad
+
+@ENGL_A = Other operations on retroperitoneal space
+
+@END = 
+
+@KOODI = KKW96 
+
+@NCSP = KKSW96
+
+@SUOMI = Muu vatsaontelon takaisten kudosten leikkaus
+
+@RUOTSI = Annan öppen operation på retroperitoneal vävnad
+
+@END = 
+
+@KOODI = KKW97 
+
+@NCSP = KKSW97
+
+@SUOMI = Muu vatsaontelon takaisten kudosten leikkaus tähystyksessä iholta
+
+@RUOTSI = Annan perkutan endoskopisk operation på retroperitoneal vävnad
+
+@END = 
+
+@KOODI_R = KW
+
+@SUOMI_R = Leikkauskomplikaatioiden vuoksi tehdyt urologiset uusintatoimenpiteet
+
+@RUOTSI_R = Operationer för postoperativa komplikationer av urologisk kirurgi
+
+@ENGL_R = Reoperations in urological surgery
+
+@END = 
+
+@KOODI = KWA00 
+
+@NCSP = KWSA00
+
+@SUOMI = Auenneen tai tulehtuneen urologisen leikkaushaavan tarkistaminen
+
+@RUOTSI = Revision av sårruptur/sårinfektion efter urogenital operation
+
+@NOTE_F = Ei sisällä leikkaushaavan syvän infektion(KWC00), verenvuodon (KWD00) tai virtsakertymän (KWE00)  takia tehtyjä toimenpiteitä
+
+@NOTE_S = Exkl ingrepp för djup infektion KWC00, blödning KWD00 eller urinom KWE00
+
+@END = 
+
+@KOODI = KWC00 
+
+@NCSP = KWSC00
+
+@SUOMI = Urologisen leikkauksen tulehtuneen haavaontelon aukaisu ja kanavointi
+
+@RUOTSI = Revision /dränage av infekterad sårhåla efter urogenital operation
+
+@END = 
+
+@KOODI = KWD00 
+
+@NCSP = KWSD00
+
+@SUOMI = Uusintaleikkaus urologisen leikkauksen jälkeisen verenvuodon vuoksi
+
+@RUOTSI = Reoperation för blödning efter urogenital operation
+
+@END = 
+
+@KOODI = KWE00 
+
+@NCSP = KWSE00
+
+@SUOMI = Urologisen leikkauksen jälkeisen kudosten virtsakeräymän poisto
+
+@RUOTSI = Reoperation för urinom efter urogenital operation
+
+@END = 
+
+@KOODI = KWF00 
+
+@NCSP = KWSF00
+
+@SUOMI = Urologisen leikkauksen liitosompeleiden tarkistaminen
+
+@RUOTSI = Reoperation för kontroll/revision av urologiska anastomoser
+
+@END = 
+
+@KOODI = KWW96 
+
+@NCSP = KWSW96
+
+@SUOMI = Muu urologisen leikkauksen komplikaatioleikkaus
+
+@RUOTSI = Annan reoperation för komplikation efter urogenital operation
+
+@END = 
+
+@KOODI_R = KX
+
+@SUOMI_R = Muut virtsateiden ja vatsaontelontakaisten elinten toimenpiteet
+
+@RUOTSI_R = Andra åtgärder på urinvägar och retroperitoneala vävnader
+
+@ENGL_R = Other procedures in urinary organs and retroperitoneal space
+
+@END = 
+
+@KOODI_A = KX_
+
+@NCSP_A = KXD
+
+@SUOMI_A = Virtsateiden, sukupuolinten ja retroperitoneaalitilan diagnostien radiologia
+
+@RUOTSI_A = Diagnostisk radiologi av urinvägar, könsorgan och retroperitoneal vävnad
+
+@ENGL_A = Radiological diagnostic  procedures of genitourinary organs and retroperitoneal space
+
+@END = 
+
+@KOODI = KK1XE 
+
+@NCSP = KXDE1X
+
+@SUOMI = Retroperitoneumin, virtsateiden tai sukuelinten muu UÄ
+
+@RUOTSI = Annan UL av retroperitoneum och urogenitala organ
+
+@NOTE_F = Gynekologiset ja obstetriset ultraäänitutkimukset
+
+@NOTE_S = Gynekologiska och obstetriska UL undersökningar
+
+@END = 
+
+@KOODI_A = KX_
+
+@NCSP_A = KXF
+
+@SUOMI_A = Virtsateihin liittyvät fysiologiset tutkimukset
+
+@RUOTSI_A = Fysilogiska undersökningar med relation till urinorganer
+
+@ENGL_A = Physiological diagnostic  procedures related to urinary organs
+
+@END = 
+
+@KOODI = XKX00 
+
+@NCSP = KXFX00
+
+@SUOMI = Lantion pohjan EMG tutkimus
+
+@RUOTSI = Elektromyografi av bäckenbottnen (EMG)
+
+@END = 
+
+@KOODI = XKW99 
+
+@NCSP = KXFX99
+
+@SUOMI = Muu virtsateiden ja miehen sukupuolielinten toiminnan tutkimus
+
+@RUOTSI = Annan diagnostisk åtgärd på urinvägar eller manliga genitalia
+
+@END = 
+
+@KOODI_A = KX_
+
+@NCSP_A = KXX
+
+@SUOMI_A = Muut virtsateiden, miehen sukupuolielinten tai vatsaontelon takaisen tilan diagnostiset toimenpiteet
+
+@RUOTSI_A = Andra diagnostiska åtgärder i urinvägar, manliga konsorganen eller retroperitoneal utrymme
+
+@ENGL_A = Other diagnostic  procedures related to urinary organs
+
+@END = 
+
+@KOODI = TKW99 
+
+@NCSP = KXXX99
+
+@SUOMI = Muu virsateiden ja miehen sukupuolielinten pientoimenpide
+
+@RUOTSI = Annan mindre operation på urinvägar och manliga genitalia
+
+@NOTE_F = Virtsateiden kanavointi radiologisessa ohjauksessa, katso KH1AT, KH1BT, KH1CT, KH1DT tai KH1FT
+
+@END = 

@@ -25172,12 +25172,11 @@ Tissue procurement for transplantation, see: Chapter Y
 #LYHENNE    
 ###
 #KOODI      NDN49  
-#MUUT_PVM   1998/11/22
+#MUUT_PVM   2013/10/04
 #KAYTPVM    1999/01/01
-#POISTPVM   2004/12/31
-#POISTETTU
+#POISTPVM       /  /  
 #VANHA                
-#SUOMI      Transplantasjon brusk/periost/fascie til håndledd eller hånd
+#SUOMI      Transplantasjon av brusk, periost eller fascie til håndledd eller hånd
 #RUOTSI     ---
 #LYHENNE    
 ###
@@ -25194,7 +25193,8 @@ Tissue procurement for transplantation, see: Chapter Y
 #KOODI      NDN49  
 #MUUT_PVM   2013/08/17
 #KAYTPVM    2005/01/01
-#POISTPVM       /  /  
+#POISTPVM   2013/12/31
+#POISTETTU
 #VANHA                
 #SUOMI      Transplantasjon av brusk, periost eller fascie til håndledd eller hånd
 #RUOTSI     ---

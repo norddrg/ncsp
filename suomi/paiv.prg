@@ -47,5 +47,5 @@ procedure paiv
   endif
   *do ncspetsi with pa_kood
   select (lc_alias)
-  do naytto
+  do ..\suomi\naytto
   return

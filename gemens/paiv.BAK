@@ -36,5 +36,5 @@ procedure paiv
   endif
   do etsi with pa_kood
   select (lc_alias)
-  do naytto
+  do ..\gemens\naytto
   return

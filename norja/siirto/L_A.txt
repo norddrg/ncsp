@@ -17,8 +17,7 @@ weg
 #KOODI      A0093  
 #MUUT_PVM   2010/12/08
 #KAYTPVM    2011/01/01
-#POISTPVM   2013/12/31
-#POISTETTU
+#POISTPVM       /  /  
 #VANHA                
 #SUOMI      Hjemmebasert peritonealdialyse
 #RUOTSI     ---
@@ -27,8 +26,7 @@ weg
 #KOODI      A0099  
 #MUUT_PVM   2010/12/08
 #KAYTPVM    2011/01/01
-#POISTPVM   2013/12/31
-#POISTETTU
+#POISTPVM       /  /  
 #VANHA                
 #SUOMI      Grupperettet pasientopplæring
 #RUOTSI     ---
@@ -5339,6 +5337,15 @@ For haemorrhage or haematoma at the site of target organs or structures
 #POISTPVM       /  /  
 #VANHA                
 #SUOMI      Kvantitative sensoriske tester IKA
+#RUOTSI     ---
+#LYHENNE    
+###
+#KOODI      AXGX00 
+#MUUT_PVM   2013/10/04
+#KAYTPVM    2014/01/01
+#POISTPVM       /  /  
+#VANHA                
+#SUOMI      Hypnoterapi
 #RUOTSI     ---
 #LYHENNE    
 ###

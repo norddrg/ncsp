@@ -34,7 +34,7 @@ procedure paiv
   if ncsp=' '
     pa_kood=code
   endif
-  do etsi with pa_kood
+  do ..\gemens\etsi with pa_kood
   select (lc_alias)
   do ..\gemens\naytto
   return

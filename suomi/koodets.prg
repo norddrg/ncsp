@@ -33,5 +33,5 @@ endif
 if not lc_f
   select ncsp_luv
 endif
-do naytto
+do ..\suomi\naytto
 return

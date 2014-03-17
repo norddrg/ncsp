@@ -2,8 +2,10 @@ procedure suodkay
 lc_alias=alias()
 lc_loop=.t.
 lc_alias=alias()
-*PUBLIC lc_nyear
+PUBLIC lc_nyear
 lc_nyear='0'
+PUBLIC inc_reldate
+inc_reldate=DATE()
 define popup filtsel
 define bar 1 of filtsel prompt '1. All'
 define bar 2 of filtsel prompt '2. Valid codes'
@@ -41,13 +43,13 @@ case selval='2.'
   select ncsp_koo
   set order to ncsp
   set relation to trim(code) into suod
-  set filter to (usedate<=p_date+100 and (reldate>=p_date-(VAL(lc_nyear)*365)+500 or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
   select ncsp_ala
-  set filter to (usedate<=p_date+100 and (reldate>=p_date-(val(lc_nyear)*365)+500 or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
   select ncsp_ryh
-  set filter to (usedate<=p_date+100 and (reldate>=p_date-(val(lc_nyear)*365)+500 or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
   select ncsp_luv
-  set filter to (usedate<=p_date+100 and (reldate>=p_date-(val(lc_nyear)*365)+500 or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
 case selval='3.'
   set near on
   select ncsp_ala
@@ -99,5 +101,6 @@ enddo
 @2, 23 get lc_nyear
 read
 p_date=ctod(valyear+'/01/01')
+inc_reldate =CTOD(STR(VAL(valyear)-VAL(lc_nyear),4,0)+'/01/01')
 release window yearwin
 return

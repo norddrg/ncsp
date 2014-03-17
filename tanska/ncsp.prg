@@ -108,6 +108,8 @@ seek trim(p_ncsp)
 set order to code
 
 do ..\tanska\ohje
+*DO ..\tanska\suodkay
 
 do ..\tanska\naytto
+
 return

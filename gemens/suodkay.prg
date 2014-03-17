@@ -1,5 +1,7 @@
 procedure suodkay
 lc_loop=.t.
+PUBLIC inc_reldate
+inc_reldate=DATE()
 do while lc_loop
   lc_alias=alias()
   define popup filtsel
@@ -71,14 +73,13 @@ case selected='1.'
 case selected='2.'
   do ..\gemens\valyear
   set order to code
-  set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))) and usedate<>ctod(space(8)));
-  or (ncsp_sec.usedate<=p_date and (ncsp_sec.reldate>=p_date or reldate=ctod(space(8))) and ncsp_sec.usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
   select ncsp_ala
-  set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
   select ncsp_ryh
-  set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
   select ncsp_luv
-  set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
+  set filter to (usedate<=p_date+100 and (reldate>=inc_reldate or reldate=ctod(space(8))) and usedate<>ctod(space(8)))
 case selected='3.'
   do ..\gemens\valyear
   set order to ncsp

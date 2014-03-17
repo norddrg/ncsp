@@ -2,7 +2,6 @@ procedure suodkay
 lc_alias=alias()
 lc_loop=.t.
 lc_alias=alias()
-PUBLIC lc_nyear
 lc_nyear='0'
 define popup filtsel
 define bar 1 of filtsel prompt '1. All'

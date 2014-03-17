@@ -41,6 +41,19 @@ set order to code
 select 0
 use ncsp_koo.dbf
 set order to code
+
+SET SAFETY OFF 
+SELECT ncsp_luv
+COPY TO ..\text\den_ncsp_luv.txt SDF 
+SELECT ncsp_ryh
+COPY TO ..\text\den_ncsp_ryh.txt SDF 
+SELECT ncsp_ala
+COPY TO ..\text\den_ncsp_ala.txt SDF 
+SELECT ncsp_koo
+COPY TO ..\text\den_ncsp_koo.txt SDF 
+SET SAFETY ON 
+
+
 define popup suodval from 5,5 font  max_foty,  max_fosi prompt files like s_*.dbf
 on selection popup suodval do ../tanska/suodval with prompt()
 wait window nowait 'Valitse suodatin tiedosto! Uuden tiedoston perustaminen [Esc]'
@@ -95,6 +108,8 @@ seek trim(p_ncsp)
 set order to code
 
 do ..\tanska\ohje
+DO ..\tanska\suodkay
 
 do ..\tanska\naytto
+
 return

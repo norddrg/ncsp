@@ -73,28 +73,35 @@ select 0
 use ..\gemens\ncsp_luv.dbf exclusive
 set order to ncsp
 SET SAFETY OFF 
-COPY TO ..\text\ncsp_luv.txt SDF
+COPY TO ..\text\ncsp_luv.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\ncsp_luv_str.txt
 SET SAFETY ON 
 *
 select 0
 use ..\gemens\ncsp_ryh.dbf
 set order to ncsp
 SET SAFETY OFF 
-COPY TO ..\text\ncsp_ryh.txt SDF
+ERASE ..\text\ncsp_ryh.txt
+COPY TO ..\text\ncsp_ryh.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\ncsp_ryh_str.txt
 SET SAFETY ON 
 *
 select 0 
 use ..\gemens\ncsp_ala.dbf
 set order to ncsp
 SET SAFETY OFF 
-COPY TO ..\text\ncsp_ala.txt SDF
+ERASE ..\text\ncsp_ala.txt
+COPY TO ..\text\ncsp_ala.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\ncsp_ala_str.txt
 SET SAFETY ON 
 *
 select 0
 use ..\gemens\ncsp_koo.dbf
 set order to ncsp
 SET safety OFF 
-COPY TO ..\text\com_ncsp_koo.txt SDF
+ERASE ..\text\com_ncsp_koo.txt
+COPY TO ..\text\com_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\com_ncsp_koo_str.txt
 SET SAFETY ON 
 seek p_ncsp
 *

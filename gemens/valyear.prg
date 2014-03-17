@@ -25,5 +25,6 @@ p_date=ctod(valyear+'/01/01')
 @2,1 say 'Number of incl. years '
 @2, 23 get lc_nyear
 read
+inc_reldate =CTOD(STR(VAL(valyear)-VAL(lc_nyear),4,0)+'/01/01')
 release window yearwin
 return

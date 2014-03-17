@@ -2,36 +2,62 @@ Procedure lang_def
 SET SAFETY OFF
 WAIT WINDOW NOWAIT 'Making textfile copies of all national versions' 
 SELECT 0
+
 use ..\suomi\ncsp_koo alias ncsp_sec
 SET order to code
-COPY TO ..\text\fin_ncsp_koo.txt SDF 
+ERASE ..\text\fin_ncsp_koo.txt 
+COPY TO ..\text\fin_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\fin_ncsp_koo_str.txt
+
 use ..\ruotsi\ncsp_koo alias ncsp_sec
 set order to code
-COPY TO ..\text\swe_ncsp_koo.txt SDF 
+ERASE ..\text\swe_ncsp_koo.txt
+COPY TO ..\text\swe_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\swe_ncsp_koo_str.txt
+
 use ..\tanska\ncsp_koo alias ncsp_sec
 set order to code
 set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))))
-COPY TO ..\text\den_ncsp_koo.txt SDF 
+ERASE ..\text\den_ncsp_koo.txt
+COPY TO ..\text\den_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\den_ncsp_koo_str.txt
+
 use ..\norja\ncsp_koo alias ncsp_sec
 set order to code
 set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))))
-COPY TO ..\text\nor_ncsp_koo.txt SDF 
+ERASE ..\text\nor_ncsp_koo.txt
+COPY TO ..\text\nor_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\nor_ncsp_koo_str.txt
+
 use ..\eesti\ncsp_koo alias ncsp_sec
 set order to code
 set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))))
-COPY TO ..\text\est_ncsp_koo.txt SDF 
+ERASE ..\text\est_ncsp_koo.txt
+COPY TO ..\text\est_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\est_ncsp_koo_str.txt
+
 use ..\islanti\ncsp_koo alias ncsp_sec
 set order to code
 set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))))
-COPY TO ..\text\isl_ncsp_koo.txt SDF 
+ERASE ..\text\isl_ncsp_koo.txt
+COPY TO ..\text\isl_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\isl_ncsp_koo_str.txt
+
 use ..\englanti\ncsp_koo alias ncsp_sec
 set order to code
 set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))))
-COPY TO ..\text\eng_ncsp_koo.txt SDF 
+ERASE ..\text\eng_ncsp_koo.txt
+COPY TO ..\text\eng_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\eng_ncsp_koo_str.txt
+
 use ..\latvia\ncsp_koo alias ncsp_sec
 set order to code
 set filter to (usedate<=p_date and (reldate>=p_date or reldate=ctod(space(8))))
-COPY TO ..\text\lat_ncsp_koo.txt SDF 
+ERASE ..\text\lat_ncsp_koo.txt
+COPY TO ..\text\lat_ncsp_koo.txt DELIMITED WITH CHAR ';'
+LIST STRUCTURE TO ..\text\lat_ncsp_koo_str.txt
+CLEAR 
+
 USE
 SET SAFETY ON 
 public p_kieli 

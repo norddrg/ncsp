@@ -2,6 +2,8 @@ procedure valyear
 val_loop=.t.
 lc_x=20
 lc_y=40
+PUBLIC lc_nyear
+lc_nyear='0'
 define window yearwin from lc_x,lc_y to lc_x+5,lc_y+30
 activate window yearwin
 valyear=str(year(p_date),4)
@@ -20,5 +22,8 @@ do while val_loop
   endif
 enddo
 p_date=ctod(valyear+'/01/01')
+@2,1 say 'Number of incl. years '
+@2, 23 get lc_nyear
+read
 release window yearwin
 return

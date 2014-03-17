@@ -47,6 +47,9 @@ case p_kieli='Ice'
 case p_kieli='Eng'
   select ncsp_koo
   set relation to code_eng into ncsp_sec
+case p_kieli='Lat'
+  select ncsp_koo
+  set relation to code_lat into ncsp_sec
 endcase
 set relation to code into suod additive
 set order to (lc_order)

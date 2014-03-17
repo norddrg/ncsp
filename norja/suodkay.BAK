@@ -94,7 +94,7 @@ do while val_loop
     valyear=substr(str(year(date()),4),1,2)+ltrim(rtrim(valyear))
   ENDIF
 enddo
-@2,1 say 'Number of incl. years '
+@2,1 say 'N of incl. prev. years '
 @2, 23 get lc_nyear
 read
 p_date=ctod(valyear+'/01/01')

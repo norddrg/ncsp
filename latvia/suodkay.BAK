@@ -11,7 +11,7 @@ on selection popup filtsel do filtuse with prompt()
 select ncsp_koo
 activate popup filtsel at 10,15
 select (lc_alias)
-do ../islanti/naytto
+do ../latvia/naytto
 return
 
 procedure filtuse

@@ -12,7 +12,7 @@ COPY TO c:\data\ncsp_swe.dbf FOR ncsp_koo.code<>' '
 on error
 SELECT 0 
 USE c:\data\ncsp_swe.dbf
-replace ALL text WITH 'Deleted '+DTOC(reldate)+'-'+text FOR reldate<>CTOD(SPACE(8))
+replace ALL text WITH 'Deleted '+DTOC(reldate)+' - '+text FOR reldate<>CTOD(SPACE(8))
 goto top
 lc_apucode=SPACE(6)
 DO WHILE NOT EOF()
